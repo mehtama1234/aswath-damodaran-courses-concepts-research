@@ -18,6 +18,18 @@ The root is intentionally generic. Each course subfolder should carry its own:
 - analysis outputs for concepts, themes, subthemes, and evidence
 - site or course exports
 
+The broader goal is cross-course, not just per-course completion. The active
+workspace is meant to connect:
+
+- `foundations-of-finance` as the first-principles base layer
+- `investment-philosophies-2026` as the investor-framework and market-behavior layer
+- `valuation-undergraduate-spring-2025` and `valuation-mba-spring-2025` as the audience-comparison valuation pair
+- `corporate-finance-spring-2025` as the operating, financing, governance, and capital-allocation layer
+
+That combined structure should support richer synthesis around societal,
+cultural, consumer, institutional, and industrial patterns across the courses,
+not just isolated course summaries.
+
 ## Layout
 
 - `scripts/`: reusable root-level tooling

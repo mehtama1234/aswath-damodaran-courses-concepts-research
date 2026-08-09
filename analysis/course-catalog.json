@@ -208,10 +208,10 @@
   ],
   "cross_course_next_steps": [
     "normalize course-level metadata so pages can compare themes across playlists",
-    "extract recurring Damodaran ideas that appear in multiple courses",
-    "build a root comparison page spanning investment philosophy, corporate finance, valuation, and future courses",
-    "normalize foundations-of-finance ideas into the root concept registry where the overlap is already clear",
-    "extend the undergraduate valuation course into concept and evidence layers",
+    "extract recurring Damodaran ideas that appear across foundations, investment philosophies, valuation, and corporate finance",
+    "build richer root comparison pages spanning investment philosophy, foundations of finance, undergraduate and MBA valuation, and corporate finance",
+    "use the undergraduate and MBA valuation pair to document audience-level translation of the same ideas",
+    "connect corporate finance ideas on financing, governance, payout, and reinvestment back into the root concept registry and synthesis essays",
     "continue adding courses through the same manifest-driven transcript pipeline"
   ]
 }
