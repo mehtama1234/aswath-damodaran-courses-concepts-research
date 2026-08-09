@@ -6,6 +6,8 @@ import html
 import json
 from pathlib import Path
 
+import validate_applied_evidence
+
 
 def esc(value: str) -> str:
     return html.escape(value)
@@ -101,9 +103,21 @@ def page(body: str) -> str:
 
 def build(workspace_root: Path) -> None:
     registry = load_registry(workspace_root / "analysis/applied-evidence-registry.json")
+    validate_applied_evidence.validate(workspace_root)
     briefs = registry["briefs"]
     cards: list[str] = []
     for brief in briefs:
+        theme_cluster_section = ""
+        if brief.get("theme_cluster_refs"):
+            cluster_items = "".join(
+                f"""<li><a href="{esc(Path(cluster["root_href"]).relative_to("site").as_posix())}">{esc(cluster["title"])}</a>: {esc(cluster["why_it_matters"])}</li>"""
+                for cluster in brief["theme_cluster_refs"]
+            )
+            theme_cluster_section = f"""
+            <div style="margin-top:16px">
+              <h3>Root Theme Clusters</h3>
+              <ul>{cluster_items}</ul>
+            </div>"""
         anchor_sections: list[str] = []
         for anchor in brief["anchors"]:
             trail = "".join(f"<li><code>{esc(item)}</code></li>" for item in anchor["source_trail"])
@@ -122,6 +136,7 @@ def build(workspace_root: Path) -> None:
             <span class="chip">{esc(brief["brief_id"])}</span>
           </div>
           <h2 style="margin-top:12px"><a href="{esc(Path(brief["brief_href"]).name)}">{esc(brief["brief_title"])}</a></h2>
+          {theme_cluster_section}
           {''.join(anchor_sections)}
         </article>"""
         )
@@ -133,7 +148,7 @@ def build(workspace_root: Path) -> None:
         <h1>Applied Evidence Registry</h1>
         <p class="lead">
           A structured root evidence layer mapping each applied brief to its
-          root concept anchors, comparison pages, and named course-level source trails.
+          root concept anchors, theme clusters, comparison pages, and named course-level source trails.
         </p>
         <div class="meta">
           <span class="chip">Updated August 9, 2026</span>

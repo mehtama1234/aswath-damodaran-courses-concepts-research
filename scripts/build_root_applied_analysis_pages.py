@@ -7,6 +7,9 @@ import html
 import re
 from pathlib import Path
 
+from applied_brief_metadata import merge_catalog_item_with_brief_metadata, strip_front_matter
+import validate_applied_analysis
+
 
 def esc(value: str) -> str:
     return html.escape(value)
@@ -23,7 +26,8 @@ def load_markdown_sections(path: Path) -> list[tuple[str, list[str]]]:
     sections: list[tuple[str, list[str]]] = []
     current_title = ""
     current_lines: list[str] = []
-    for raw_line in path.read_text(encoding="utf-8").splitlines():
+    source = strip_front_matter(path.read_text(encoding="utf-8"))
+    for raw_line in source.splitlines():
         line = raw_line.rstrip()
         if line.startswith("## "):
             if current_title:
@@ -207,6 +211,19 @@ def build_page(workspace_root: Path, config: dict[str, object]) -> None:
     sections = load_markdown_sections(workspace_root / str(config["analysis_source"]))
     eyebrow = str(config.get("eyebrow") or default_eyebrow(str(config["type"])))
     lead = str(config.get("site_lead") or config["focus"])
+    theme_clusters = list(config.get("root_theme_clusters", []))
+    theme_cluster_html = ""
+    if theme_clusters:
+        cluster_items = "".join(
+            f'<li><a href="{esc(str(cluster["href"]).replace("site/", ""))}">{esc(str(cluster["title"]))}</a></li>'
+            for cluster in theme_clusters
+        )
+        theme_cluster_html = f"""
+      <section class="section">
+        <h2>Root Theme Clusters</h2>
+        <p>This brief is especially connected to the following structured root theme clusters.</p>
+        <ul>{cluster_items}</ul>
+      </section>"""
     hero = f"""
       <a class="back" href="index.html">Back to root index</a>
       <section class="hero">
@@ -230,7 +247,7 @@ def build_page(workspace_root: Path, config: dict[str, object]) -> None:
         {render_lines(lines)}
       </section>"""
         )
-    body = hero + '\n      <div class="stack">\n' + "\n".join(section_html) + "\n      </div>"
+    body = hero + '\n      <div class="stack">\n' + theme_cluster_html + "\n".join(section_html) + "\n      </div>"
     output = workspace_root / str(config["site_output"])
     output.write_text(page(str(config["title"]), eyebrow, lead, body), encoding="utf-8")
 
@@ -238,7 +255,8 @@ def build_page(workspace_root: Path, config: dict[str, object]) -> None:
 def build(workspace_root: Path) -> None:
     catalog = load_catalog(workspace_root / "analysis/applied-analysis-catalog.json")
     for item in catalog["analyses"]:
-        build_page(workspace_root, item)
+        build_page(workspace_root, merge_catalog_item_with_brief_metadata(workspace_root, item))
+    validate_applied_analysis.validate(workspace_root)
 
 
 def main() -> None:

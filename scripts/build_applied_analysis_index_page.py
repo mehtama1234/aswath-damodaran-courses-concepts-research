@@ -6,6 +6,9 @@ import json
 import html
 from pathlib import Path
 
+from applied_brief_metadata import merge_catalog_item_with_brief_metadata
+import validate_applied_analysis
+
 
 def esc(value: str) -> str:
     return html.escape(value)
@@ -96,14 +99,22 @@ def page(body: str) -> str:
 
 
 def build(workspace_root: Path) -> None:
+    validate_applied_analysis.validate(workspace_root)
     catalog = load_catalog(workspace_root / "analysis/applied-analysis-catalog.json")
-    analyses = catalog["analyses"]
+    analyses = [
+        merge_catalog_item_with_brief_metadata(workspace_root, item)
+        for item in catalog["analyses"]
+    ]
 
     cards: list[str] = []
     for item in analyses:
         concept_items = "".join(
             f'<li><a href="{esc(Path(concept["href"]).relative_to("site").as_posix())}">{esc(concept["title"])}</a></li>'
             for concept in item["root_concepts"]
+        )
+        theme_cluster_items = "".join(
+            f'<li><a href="{esc(str(cluster["href"]).replace("site/", ""))}">{esc(cluster["title"])}</a></li>'
+            for cluster in item.get("root_theme_clusters", [])
         )
         root_pages = "".join(
             f'<li><a href="{esc(Path(page).name)}">{esc(Path(page).stem.replace("-", " ").title())}</a></li>'
@@ -121,6 +132,8 @@ def build(workspace_root: Path) -> None:
           <p style="margin-top:12px"><a href="{esc(Path(item["evidence_registry_ref"]["site_page"]).name)}#brief-{esc(item["evidence_registry_ref"]["brief_id"])}">Structured evidence for this brief</a></p>
           <h3 style="margin-top:16px">Root Concepts</h3>
           <ul>{concept_items}</ul>
+          <h3 style="margin-top:16px">Root Theme Clusters</h3>
+          <ul>{theme_cluster_items}</ul>
           <h3 style="margin-top:16px">Linked Root Pages</h3>
           <ul>{root_pages}</ul>
         </article>"""

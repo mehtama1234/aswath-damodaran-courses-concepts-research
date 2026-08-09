@@ -1,3 +1,19 @@
+---
+brief_id: streaming-platforms-sector-brief
+type: sector
+title: Streaming Platforms Sector Brief
+root_concepts:
+  - narrative-versus-numbers
+  - growth-and-reinvestment
+  - fit-and-constraints
+  - trust-and-institutions
+  - valuation
+root_theme_clusters:
+  - consumer-attachment-premium-positioning-and-monetization-permission
+  - industrial-structure-reinvestment-quality-and-optionality
+  - legitimacy-trust-and-narrative-permission
+---
+
 # Streaming Platforms Sector Brief
 
 ## Sector Thesis
@@ -127,17 +143,25 @@ economics justify.
 
 The most useful root Damodaran concepts for this sector are:
 
-- narrative versus numbers
-- growth and reinvestment
-- fit and constraints
-- trust and institutions
-- valuation
+- [Narrative versus numbers](concepts/narrative-versus-numbers.html)
+- [Growth and reinvestment](concepts/growth-and-reinvestment.html)
+- [Fit and constraints](concepts/fit-and-constraints.html)
+- [Trust and institutions](concepts/trust-and-institutions.html)
+- [Valuation](concepts/valuation.html)
 
 The most useful root comparison pages are:
 
 - [Root synthesis essay](root-synthesis-essay.html)
 - [Cross-course comparison](cross-course-comparison.html)
 - [Normalized concepts](normalized-concepts.html)
+
+## Theme Cluster Links
+
+The most useful root theme clusters for this sector are:
+
+- [Consumer Attachment, Premium Positioning, And Monetization Permission](root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission)
+- [Industrial Structure, Reinvestment Quality, And Optionality](root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality)
+- [Legitimacy, Trust, And Narrative Permission](root-themes-registry.html#legitimacy-trust-and-narrative-permission)
 
 ## Damodaran Evidence Anchors
 

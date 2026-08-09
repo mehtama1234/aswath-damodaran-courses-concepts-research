@@ -1,3 +1,19 @@
+---
+brief_id: netflix-company-brief
+type: company
+title: Netflix Company Brief
+root_concepts:
+  - valuation
+  - narrative-versus-numbers
+  - growth-and-reinvestment
+  - fit-and-constraints
+  - trust-and-institutions
+root_theme_clusters:
+  - consumer-attachment-premium-positioning-and-monetization-permission
+  - industrial-structure-reinvestment-quality-and-optionality
+  - legitimacy-trust-and-narrative-permission
+---
+
 # Netflix Company Brief
 
 ## Company Thesis
@@ -147,11 +163,11 @@ operator, or something in between.
 
 The most useful root Damodaran concepts for Netflix are:
 
-- valuation
-- narrative versus numbers
-- growth and reinvestment
-- fit and constraints
-- trust and institutions
+- [Valuation](concepts/valuation.html)
+- [Narrative versus numbers](concepts/narrative-versus-numbers.html)
+- [Growth and reinvestment](concepts/growth-and-reinvestment.html)
+- [Fit and constraints](concepts/fit-and-constraints.html)
+- [Trust and institutions](concepts/trust-and-institutions.html)
 
 The most useful root comparison and synthesis pages are:
 
@@ -159,6 +175,14 @@ The most useful root comparison and synthesis pages are:
 - [Sector and company writeup framework](sector-and-company-writeup-framework.html)
 - [Normalized concepts](normalized-concepts.html)
 - [Cross-course comparison](cross-course-comparison.html)
+
+## Theme Cluster Links
+
+The most useful root theme clusters for Netflix are:
+
+- [Consumer Attachment, Premium Positioning, And Monetization Permission](root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission)
+- [Industrial Structure, Reinvestment Quality, And Optionality](root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality)
+- [Legitimacy, Trust, And Narrative Permission](root-themes-registry.html#legitimacy-trust-and-narrative-permission)
 
 ## Damodaran Evidence Anchors
 

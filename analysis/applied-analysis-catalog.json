@@ -48,6 +48,23 @@
         "site/cross-course-comparison.html",
         "site/normalized-concepts.html"
       ],
+      "root_theme_clusters": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        }
+      ],
       "why_it_exists": "Shows how the root synthesis and concept layer can be turned into a real sector read instead of remaining course-only."
     },
     {
@@ -95,6 +112,23 @@
         "site/sector-and-company-writeup-framework.html",
         "site/normalized-concepts.html",
         "site/cross-course-comparison.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        }
       ],
       "why_it_exists": "Shows how the workspace can support a practical company brief that stays tied to Damodaran-style analytical discipline."
     },
@@ -144,6 +178,23 @@
         "site/normalized-concepts.html",
         "site/sector-and-company-writeup-framework.html"
       ],
+      "root_theme_clusters": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        }
+      ],
       "why_it_exists": "Shows how the workspace can analyze high-multiple recurring-revenue sectors without letting category prestige replace disciplined valuation logic."
     },
     {
@@ -192,6 +243,23 @@
         "site/normalized-concepts.html",
         "site/sector-and-company-writeup-framework.html"
       ],
+      "root_theme_clusters": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        }
+      ],
       "why_it_exists": "Shows how the workspace can handle a high-quality, low-drama business where trust, habit, and disciplined restraint matter as much as headline margins."
     },
     {
@@ -210,21 +278,6 @@
       },
       "root_concepts": [
         {
-          "id": "valuation",
-          "title": "Valuation",
-          "href": "site/concepts/valuation.html"
-        },
-        {
-          "id": "narrative-versus-numbers",
-          "title": "Narrative Versus Numbers",
-          "href": "site/concepts/narrative-versus-numbers.html"
-        },
-        {
-          "id": "fit-and-constraints",
-          "title": "Fit And Constraints",
-          "href": "site/concepts/fit-and-constraints.html"
-        },
-        {
           "id": "trust-and-institutions",
           "title": "Trust And Institutions",
           "href": "site/concepts/trust-and-institutions.html"
@@ -233,6 +286,21 @@
           "id": "capital-allocation",
           "title": "Capital Allocation",
           "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
         }
       ],
       "root_pages": [
@@ -240,6 +308,23 @@
         "site/cross-course-comparison.html",
         "site/sector-and-company-writeup-framework.html",
         "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        }
       ],
       "why_it_exists": "Shows how the workspace can handle a regulated infrastructure sector where trust, workflow embedding, take-rate pressure, and category-level growth stories all have to be separated carefully."
     },
@@ -259,14 +344,14 @@
       },
       "root_concepts": [
         {
-          "id": "valuation",
-          "title": "Valuation",
-          "href": "site/concepts/valuation.html"
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
         },
         {
-          "id": "narrative-versus-numbers",
-          "title": "Narrative Versus Numbers",
-          "href": "site/concepts/narrative-versus-numbers.html"
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
         },
         {
           "id": "fit-and-constraints",
@@ -274,9 +359,141 @@
           "href": "site/concepts/fit-and-constraints.html"
         },
         {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a high-quality financial network business without confusing admired economics with completed valuation work."
+    },
+    {
+      "id": "luxury-goods-sector-brief",
+      "title": "Luxury Goods Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Consumer attachment, social meaning, scarcity discipline, pricing power, and valuation traps in luxury goods.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate luxury prestige from durable pricing power, trust, and reinvestment discipline.",
+      "analysis_source": "analysis/luxury-goods-sector-brief.md",
+      "site_output": "site/luxury-goods-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "luxury-goods-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
           "id": "trust-and-institutions",
           "title": "Trust And Institutions",
           "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a sector where social meaning, scarcity, and pricing permission are economically real but still need hard valuation discipline."
+    },
+    {
+      "id": "hermes-company-brief",
+      "title": "Hermes Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Scarcity control, customer attachment, pricing power, management restraint, and valuation framing for Hermes.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate Hermes's real quality from the risk of treating prestige as a completed valuation argument.",
+      "analysis_source": "analysis/hermes-company-brief.md",
+      "site_output": "site/hermes-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "hermes-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
         },
         {
           "id": "capital-allocation",
@@ -290,7 +507,1872 @@
         "site/sector-and-company-writeup-framework.html",
         "site/normalized-concepts.html"
       ],
-      "why_it_exists": "Shows how the workspace can handle a high-quality financial network business without confusing admired economics with completed valuation work."
+      "root_theme_clusters": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a luxury company whose moat is partly symbolic without letting admiration replace valuation work."
+    },
+    {
+      "id": "ai-compute-infrastructure-sector-brief",
+      "title": "AI Compute Infrastructure Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Industrial bottlenecks, ecosystem pricing, optionality, crowding, and valuation traps in AI compute infrastructure.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate real AI-compute scarcity and platform leverage from crowding, loose optionality, and capital-cycle overreach.",
+      "analysis_source": "analysis/ai-compute-infrastructure-sector-brief.md",
+      "site_output": "site/ai-compute-infrastructure-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "ai-compute-infrastructure-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "optionality",
+          "title": "Optionality",
+          "href": "site/concepts/optionality.html"
+        },
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a high-intensity industrial and narrative sector where real scarcity, crowding, optionality, and valuation discipline collide."
+    },
+    {
+      "id": "nvidia-company-brief",
+      "title": "Nvidia Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Platform economics, pricing power, capital-cycle exposure, optionality, crowding, and valuation framing for Nvidia.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate Nvidia's real platform strength from the risk of letting AI importance or investor admiration replace explicit valuation work.",
+      "analysis_source": "analysis/nvidia-company-brief.md",
+      "site_output": "site/nvidia-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "nvidia-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "growth-and-reinvestment",
+          "title": "Growth And Reinvestment",
+          "href": "site/concepts/growth-and-reinvestment.html"
+        },
+        {
+          "id": "optionality",
+          "title": "Optionality",
+          "href": "site/concepts/optionality.html"
+        },
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a company that is both genuinely exceptional and heavily narrativized without confusing strategic importance with completed valuation logic."
+    },
+    {
+      "id": "integrated-oil-majors-sector-brief",
+      "title": "Integrated Oil Majors Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Commodity-cycle exposure, capital intensity, reserve replacement, social license, and valuation traps in integrated oil majors.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate real energy-system scale and cash generation from cycle distortion, replacement burden, and capital-allocation risk.",
+      "analysis_source": "analysis/integrated-oil-majors-sector-brief.md",
+      "site_output": "site/integrated-oil-majors-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "integrated-oil-majors-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a capital-intensive cyclical sector where pricing, depletion, politics, and capital allocation all matter at once."
+    },
+    {
+      "id": "exxonmobil-company-brief",
+      "title": "ExxonMobil Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Integrated portfolio quality, commodity leverage, capital allocation, social-license risk, and valuation framing for ExxonMobil.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate ExxonMobil's real scale and portfolio strength from the risk of mistaking cyclical earnings or familiarity for completed valuation work.",
+      "analysis_source": "analysis/exxonmobil-company-brief.md",
+      "site_output": "site/exxonmobil-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "exxonmobil-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a very large cyclical industrial company without confusing scale, payout, or peak-cycle earnings with finished valuation logic."
+    },
+    {
+      "id": "branded-pharmaceuticals-sector-brief",
+      "title": "Branded Pharmaceuticals Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Patent cliffs, reimbursement power, regulatory trust, pipeline optionality, and valuation traps in branded pharmaceuticals.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate real protected pharmaceutical economics from pipeline romance, reimbursement friction, and political pricing risk.",
+      "analysis_source": "analysis/branded-pharmaceuticals-sector-brief.md",
+      "site_output": "site/branded-pharmaceuticals-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "branded-pharmaceuticals-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "optionality",
+          "title": "Optionality",
+          "href": "site/concepts/optionality.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a regulated high-margin sector where pricing, public legitimacy, pipeline optionality, and cliff risk all matter at once."
+    },
+    {
+      "id": "merck-company-brief",
+      "title": "Merck Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Franchise concentration, reimbursement pressure, pipeline optionality, capital allocation, and valuation framing for Merck.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate Merck's real pharmaceutical strength from the risk of letting current franchise quality or pipeline optimism replace explicit valuation work.",
+      "analysis_source": "analysis/merck-company-brief.md",
+      "site_output": "site/merck-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "merck-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "optionality",
+          "title": "Optionality",
+          "href": "site/concepts/optionality.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a large pharmaceutical company whose current excellence and future replacement burden need to be judged together rather than romanticized separately."
+    },
+    {
+      "id": "digital-asset-platforms-sector-brief",
+      "title": "Digital Asset Platforms Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Institutional trust, speculative throughput, platform optionality, pricing durability, and valuation traps in digital asset platforms.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate real digital-asset infrastructure economics from speculative volume, identity-driven enthusiasm, and loose optionality stories.",
+      "analysis_source": "analysis/digital-asset-platforms-sector-brief.md",
+      "site_output": "site/digital-asset-platforms-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "digital-asset-platforms-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "optionality",
+          "title": "Optionality",
+          "href": "site/concepts/optionality.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a narrative-heavy market-structure sector where ideology, trust, speculative behavior, and real infrastructure economics are all entangled."
+    },
+    {
+      "id": "coinbase-company-brief",
+      "title": "Coinbase Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Custody trust, cycle dependence, pricing durability, platform optionality, and valuation framing for Coinbase.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate Coinbase's real trust and infrastructure role from the risk of letting category legitimacy or speculative heat replace explicit valuation work.",
+      "analysis_source": "analysis/coinbase-company-brief.md",
+      "site_output": "site/coinbase-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "coinbase-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "optionality",
+          "title": "Optionality",
+          "href": "site/concepts/optionality.html"
+        },
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a company whose economics depend on trust, regulation, market cycles, and symbolic category legitimacy all at once."
+    },
+    {
+      "id": "airlines-sector-brief",
+      "title": "Airlines Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Cyclicality, operational discipline, capital intensity, control fantasy, and valuation traps in airlines.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate genuine airline operating quality from structural industry difficulty, cycle exposure, and the market's recurring control fantasies.",
+      "analysis_source": "analysis/airlines-sector-brief.md",
+      "site_output": "site/airlines-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "airlines-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "discipline",
+          "title": "Discipline",
+          "href": "site/concepts/discipline.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a structurally hard industry where discipline and resilience matter but cannot erase the underlying economics."
+    },
+    {
+      "id": "southwest-airlines-company-brief",
+      "title": "Southwest Airlines Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Operating discipline, structural exposure, capital allocation, reputation carryover, and valuation framing for Southwest Airlines.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate Southwest's real operating strengths from the risk of valuing it off historical reputation more than present economics.",
+      "analysis_source": "analysis/southwest-airlines-company-brief.md",
+      "site_output": "site/southwest-airlines-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "southwest-airlines-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "discipline",
+          "title": "Discipline",
+          "href": "site/concepts/discipline.html"
+        },
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a company with a powerful historical operating story without letting that story substitute for current risk and valuation work."
+    },
+    {
+      "id": "office-reits-sector-brief",
+      "title": "Office REITs Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Lease rollover quality, financing pressure, redevelopment burden, trust, and valuation traps in office REITs.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate tangible real-estate familiarity from actual cash-flow durability, financing quality, and asset optionality in office REITs.",
+      "analysis_source": "analysis/office-reits-sector-brief.md",
+      "site_output": "site/office-reits-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "office-reits-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a real-asset sector where tangibility, leverage, management credibility, and structural demand change all matter together."
+    },
+    {
+      "id": "boston-properties-company-brief",
+      "title": "Boston Properties Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Trophy-asset durability, financing sensitivity, rollover risk, capital allocation, and valuation framing for Boston Properties.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate Boston Properties' premium asset identity from the harder question of what those assets still earn after office demand and financing conditions have changed.",
+      "analysis_source": "analysis/boston-properties-company-brief.md",
+      "site_output": "site/boston-properties-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "boston-properties-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a premium real-estate company where prestige, financing trust, and actual future cash-flow quality need to be separated carefully."
+    },
+    {
+      "id": "private-equity-firms-sector-brief",
+      "title": "Private Equity Firms Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Control value, fee economics, fundraising trust, realization risk, and valuation traps in private equity firms.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate real control-driven value creation and fee durability from prestige, benign exits, and fundraising-era overconfidence.",
+      "analysis_source": "analysis/private-equity-firms-sector-brief.md",
+      "site_output": "site/private-equity-firms-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "private-equity-firms-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "control",
+          "title": "Control",
+          "href": "site/concepts/control.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a control-heavy financial sector where prestige, fee streams, and actual value creation need to be kept separate."
+    },
+    {
+      "id": "blackstone-company-brief",
+      "title": "Blackstone Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Control economics, fundraising durability, realization timing, institutional trust, and valuation framing for Blackstone.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate Blackstone's real franchise strength from the risk of turning institutional prestige or active-ownership aura into a completed valuation argument.",
+      "analysis_source": "analysis/blackstone-company-brief.md",
+      "site_output": "site/blackstone-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "blackstone-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "control",
+          "title": "Control",
+          "href": "site/concepts/control.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a high-prestige alternatives platform without confusing institutional status or control rhetoric with realized economics."
+    },
+    {
+      "id": "quick-service-restaurants-sector-brief",
+      "title": "Quick Service Restaurants Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Habit strength, pricing permission, franchise economics, reinvestment quality, and valuation traps in quick service restaurants.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate routine consumer habit and franchise elegance from the harder economics of traffic quality, unit growth, and system reinvestment.",
+      "analysis_source": "analysis/quick-service-restaurants-sector-brief.md",
+      "site_output": "site/quick-service-restaurants-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "quick-service-restaurants-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "growth-and-reinvestment",
+          "title": "Growth And Reinvestment",
+          "href": "site/concepts/growth-and-reinvestment.html"
+        },
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a routine consumer and franchise sector where habit, pricing, unit growth, and capital allocation all matter together."
+    },
+    {
+      "id": "mcdonalds-company-brief",
+      "title": "McDonald's Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Pricing permission, franchise-system health, mature growth quality, capital allocation, and valuation framing for McDonald's.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate McDonald's real system strength from the risk of letting familiarity and brand prestige replace explicit valuation work.",
+      "analysis_source": "analysis/mcdonalds-company-brief.md",
+      "site_output": "site/mcdonalds-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "mcdonalds-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "growth-and-reinvestment",
+          "title": "Growth And Reinvestment",
+          "href": "site/concepts/growth-and-reinvestment.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a globally familiar mature franchise system without letting reputation substitute for explicit analysis of traffic, pricing, reinvestment, and system health."
+    },
+    {
+      "id": "homebuilders-sector-brief",
+      "title": "Homebuilders Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Affordability sensitivity, land strategy, growth quality, discipline, and valuation traps in homebuilders.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate housing demand and ownership aspiration from land economics, financing sensitivity, and the discipline required to survive the cycle.",
+      "analysis_source": "analysis/homebuilders-sector-brief.md",
+      "site_output": "site/homebuilders-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "homebuilders-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "growth-and-reinvestment",
+          "title": "Growth And Reinvestment",
+          "href": "site/concepts/growth-and-reinvestment.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "discipline",
+          "title": "Discipline",
+          "href": "site/concepts/discipline.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a cyclical housing sector where aspiration, land economics, financing sensitivity, and discipline all matter together."
+    },
+    {
+      "id": "nvr-company-brief",
+      "title": "NVR Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Land-light discipline, return quality, cycle exposure, capital allocation, and valuation framing for NVR.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate NVR's genuine structural discipline from the risk of turning that discipline into an overclean valuation story.",
+      "analysis_source": "analysis/nvr-company-brief.md",
+      "site_output": "site/nvr-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "nvr-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "discipline",
+          "title": "Discipline",
+          "href": "site/concepts/discipline.html"
+        },
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        },
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a homebuilder whose discipline is economically real without pretending that discipline removes the cycle."
+    },
+    {
+      "id": "defense-primes-sector-brief",
+      "title": "Defense Primes Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Procurement trust, budget dependence, program concentration, capital allocation, and valuation traps in defense primes.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate strategic importance and backlog comfort from the harder economics of execution, budget politics, and institutional trust.",
+      "analysis_source": "analysis/defense-primes-sector-brief.md",
+      "site_output": "site/defense-primes-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "defense-primes-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a government-linked industrial sector where institutional trust, budgets, and program execution all matter simultaneously."
+    },
+    {
+      "id": "lockheed-martin-company-brief",
+      "title": "Lockheed Martin Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Procurement trust, program concentration, capital return, budget durability, and valuation framing for Lockheed Martin.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate Lockheed Martin's real strategic and program strengths from the risk of overcapitalizing institutional prestige and backlog comfort.",
+      "analysis_source": "analysis/lockheed-martin-company-brief.md",
+      "site_output": "site/lockheed-martin-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "lockheed-martin-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a strategically important defense prime without letting backlog or prestige replace explicit analysis of concentration, trust, and valuation."
+    },
+    {
+      "id": "electric-utilities-sector-brief",
+      "title": "Electric Utilities Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Regulatory trust, rate-base growth, financing burden, political permission, and valuation traps in electric utilities.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate real utility stability from the harder economics of regulation, capital intensity, and political tolerance.",
+      "analysis_source": "analysis/electric-utilities-sector-brief.md",
+      "site_output": "site/electric-utilities-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "electric-utilities-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a regulated capital-intensive sector where political trust, financing structure, and apparent stability all matter together."
+    },
+    {
+      "id": "nextera-energy-company-brief",
+      "title": "NextEra Energy Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Capital allocation, regulatory trust, financing sensitivity, growth premium, and valuation framing for NextEra Energy.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate NextEra's real utility and development strengths from the risk of overcapitalizing its growth narrative and premium multiple.",
+      "analysis_source": "analysis/nextera-energy-company-brief.md",
+      "site_output": "site/nextera-energy-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "nextera-energy-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a premium utility platform without confusing regulated stability or transition rhetoric with completed valuation logic."
+    },
+    {
+      "id": "property-casualty-insurance-sector-brief",
+      "title": "Property And Casualty Insurance Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Underwriting discipline, reserve trust, catastrophe exposure, float economics, and valuation traps in property and casualty insurance.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate smooth reported insurance economics from the harder realities of risk selection, reserves, float quality, and catastrophe exposure.",
+      "analysis_source": "analysis/property-casualty-insurance-sector-brief.md",
+      "site_output": "site/property-casualty-insurance-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "property-casualty-insurance-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a liability-heavy financial sector where trust, reserve quality, underwriting discipline, and catastrophe exposure all matter together."
+    },
+    {
+      "id": "chubb-company-brief",
+      "title": "Chubb Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Underwriting discipline, reserve credibility, catastrophe exposure, capital allocation, and valuation framing for Chubb.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate Chubb's real underwriting quality from the risk of turning reported calm and reputation into a completed valuation argument.",
+      "analysis_source": "analysis/chubb-company-brief.md",
+      "site_output": "site/chubb-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "chubb-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "risk",
+          "title": "Risk",
+          "href": "site/concepts/risk.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a high-quality insurer without confusing apparent smoothness or a reputation for prudence with fully solved valuation work."
+    },
+    {
+      "id": "wireless-carriers-sector-brief",
+      "title": "Wireless Carriers Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Subscriber stickiness, spectrum and network capital needs, pricing discipline, bundling, and valuation traps in wireless carriers.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate recurring subscriber revenue from the harder economics of churn, promotions, spectrum, and network reinvestment.",
+      "analysis_source": "analysis/wireless-carriers-sector-brief.md",
+      "site_output": "site/wireless-carriers-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "wireless-carriers-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a communications-infrastructure sector where recurring consumer revenue and recurring capital burden have to be read together."
+    },
+    {
+      "id": "t-mobile-company-brief",
+      "title": "T-Mobile Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Subscriber quality, pricing discipline, network spend, post-merger capital allocation, and valuation framing for T-Mobile.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate T-Mobile's real post-merger operating gains from the risk of overcapitalizing its subscriber and challenger narrative.",
+      "analysis_source": "analysis/t-mobile-company-brief.md",
+      "site_output": "site/t-mobile-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "t-mobile-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation"
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a scaled wireless operator without confusing subscriber momentum or recurring revenue with fully solved economics."
+    },
+    {
+      "id": "sports-betting-platforms-sector-brief",
+      "title": "Sports Betting Platforms Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Consumer habit, promotional burn, regulatory permission, optionality, and valuation traps in sports betting platforms.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate legalization and user excitement from the harder economics of promotions, monetization, and regulatory structure.",
+      "analysis_source": "analysis/sports-betting-platforms-sector-brief.md",
+      "site_output": "site/sports-betting-platforms-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "sports-betting-platforms-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "optionality",
+          "title": "Optionality",
+          "href": "site/concepts/optionality.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can analyze a regulated speculative-consumer sector where excitement, promotions, and optionality can outrun economics."
+    },
+    {
+      "id": "draftkings-company-brief",
+      "title": "DraftKings Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Promotional intensity, cohort quality, optionality, regulatory dependence, and valuation framing for DraftKings.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate DraftKings's real platform position from the risk of overcapitalizing user growth, optionality, and speculative category momentum.",
+      "analysis_source": "analysis/draftkings-company-brief.md",
+      "site_output": "site/draftkings-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "draftkings-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "pricing",
+          "title": "Pricing",
+          "href": "site/concepts/pricing.html"
+        },
+        {
+          "id": "optionality",
+          "title": "Optionality",
+          "href": "site/concepts/optionality.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "root_theme_clusters": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission"
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline"
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission"
+        }
+      ],
+      "why_it_exists": "Shows how the workspace can handle a high-energy regulated consumer platform without confusing engagement and growth rhetoric with solved valuation economics."
     }
   ]
 }

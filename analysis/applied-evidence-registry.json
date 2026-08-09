@@ -7,6 +7,26 @@
       "brief_id": "streaming-platforms-sector-brief",
       "brief_title": "Streaming Platforms Sector Brief",
       "brief_href": "site/streaming-platforms-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "The streaming brief depends on consumer habit, churn behavior, monetization permission, and the gap between audience attention and durable economic value."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "The sector only makes sense when subscription, ad-supported, bundle, and ecosystem-attached models are separated and reinvestment burden is made explicit."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "Streaming stories are often financed by market patience and narrative permission before the economics are fully settled."
+        }
+      ],
       "anchors": [
         {
           "label": "Narrative Versus Numbers",
@@ -25,7 +45,7 @@
           "source_trail": [
             "corporate-finance-spring-2025::growth as capital allocation treatment",
             "valuation-undergraduate-spring-2025::analysis/concepts.json growth sequencing",
-            "valuation-mba-spring-2025::growth, reinvestment, and terminal-discipline concept work"
+            "valuation-mba-spring-2025::growth, reinvestment, and terminal-value concept work"
           ]
         },
         {
@@ -34,7 +54,7 @@
           "why_it_matters": "Supports the claim that subscription, bundle, and ad-supported models should not share one default template.",
           "source_trail": [
             "investment-philosophies-2026::portfolio-fit work",
-            "foundations-of-finance::nominal-consistency work",
+            "foundations-of-finance::nominal consistency",
             "valuation-undergraduate-spring-2025::private company, life-cycle, and special-case concept layers",
             "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers"
           ]
@@ -54,6 +74,26 @@
       "brief_id": "netflix-company-brief",
       "brief_title": "Netflix Company Brief",
       "brief_href": "site/netflix-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "Netflix sits directly on habit formation, pricing tolerance, churn risk, and the tension between cultural centrality and durable monetization."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "The company has to be read as a specific business system with heavy content reinvestment and a nontrivial life-cycle position, not as generic software or media."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "A meaningful part of the Netflix valuation debate concerns what range of future durability the market is willing to legitimize."
+        }
+      ],
       "anchors": [
         {
           "label": "Valuation",
@@ -112,6 +152,26 @@
       "brief_id": "enterprise-software-sector-brief",
       "brief_title": "Enterprise Software Sector Brief",
       "brief_href": "site/enterprise-software-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Enterprise software includes materially different business systems and reinvestment channels, so a single category multiple is not enough."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Product investment, acquisition discipline, and the use of capital to simulate or deepen retention quality are core to the sector thesis."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "Security, compliance, and vendor credibility are part of how customers and markets grant software vendors patience and premium multiples."
+        }
+      ],
       "anchors": [
         {
           "label": "Growth And Reinvestment",
@@ -129,7 +189,7 @@
           "why_it_matters": "Supports the critique of category prestige and revenue multiples as substitutes for explicit operating assumptions.",
           "source_trail": [
             "investment-philosophies-2026::style and story discipline",
-            "valuation-undergraduate-spring-2025::storytelling-to-inputs work",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
             "valuation-mba-spring-2025::pricing-language and story-translation work"
           ]
         },
@@ -138,7 +198,7 @@
           "root_href": "site/concepts/capital-allocation.html",
           "why_it_matters": "Supports the emphasis on product investment, sales efficiency, and acquisition discipline.",
           "source_trail": [
-            "corporate-finance-spring-2025::objective function, project choice, financing mix, and payout discipline",
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
             "cross-course-comparison::capital allocation from portfolio choice to project choice to reinvestment economics"
           ]
         },
@@ -157,6 +217,26 @@
       "brief_id": "costco-company-brief",
       "brief_title": "Costco Company Brief",
       "brief_href": "site/costco-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "The Costco case depends on habit, renewal logic, perceived fairness, and the way trust can become economically material without luxury-style pricing."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Costco is a restraint and discipline case where capital allocation quality matters more than theatrical expansion or financial engineering."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The company benefits from a durable legitimacy with customers that affects renewal, repeat behavior, and the market's willingness to treat the model as resilient."
+        }
+      ],
       "anchors": [
         {
           "label": "Trust And Institutions",
@@ -203,6 +283,26 @@
       "brief_id": "payments-infrastructure-sector-brief",
       "brief_title": "Payments Infrastructure Sector Brief",
       "brief_href": "site/payments-infrastructure-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Platform spend, fraud control, compliance investment, and expansion discipline all sit inside a capital-allocation problem, not just a throughput story."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "Payments infrastructure lives inside regulated trust systems where narrative permission and institutional credibility matter as much as growth stories."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "The sector has multiple business systems with different workflow depth, take-rate durability, and reinvestment needs."
+        }
+      ],
       "anchors": [
         {
           "label": "Valuation",
@@ -233,7 +333,7 @@
           "source_trail": [
             "cross-course-comparison::fit-constraints-and-consistency",
             "valuation-undergraduate-spring-2025::life cycle and special-case work",
-            "valuation-mba-spring-2025::private-company, life-cycle, and special-situations work"
+            "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers"
           ]
         },
         {
@@ -261,6 +361,26 @@
       "brief_id": "visa-company-brief",
       "brief_title": "Visa Company Brief",
       "brief_href": "site/visa-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Even a strong network business has to be judged on adjacency discipline, reinvestment logic, and capital allocation quality."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "Visa depends on network trust, regulatory legitimacy, and the market's willingness to treat that institutional position as durable."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Visa should be understood as a specific network-and-infrastructure business system, not collapsed into a bank or generic software template."
+        }
+      ],
       "anchors": [
         {
           "label": "Valuation",
@@ -281,7 +401,7 @@
             "investment-philosophies-2026::style and story discipline",
             "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
             "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
-            "root-synthesis-essay::societal and consumer sections"
+            "root-synthesis-essay::societal and cultural sections"
           ]
         },
         {
@@ -312,6 +432,2379 @@
           "source_trail": [
             "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
             "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "luxury-goods-sector-brief",
+      "brief_title": "Luxury Goods Sector Brief",
+      "brief_href": "site/luxury-goods-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "Luxury goods depend on attachment, aspiration, and monetization permission rather than plain functional demand."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "Prestige, craftsmanship claims, and brand credibility all rely on social permission and institutional trust."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Luxury business systems differ sharply by category, scarcity, and reinvestment logic, so one valuation template is not enough."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the claim that luxury economics have to be read through pricing language and willingness to pay, not only reported margins.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the need to convert prestige, taste, and status into explicit assumptions rather than treating desirability as a conclusion.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::consumer and cultural sections"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the role of provenance, craftsmanship credibility, and management restraint in protecting luxury economics.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that leather goods, jewelry, prestige beauty, and fashion-led brands should not share one default valuation frame.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to translate symbolic value into assumptions about customer mix, pricing, reinvestment, and endurance.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "hermes-company-brief",
+      "brief_title": "Hermes Company Brief",
+      "brief_href": "site/hermes-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "Hermes depends on unusually deep attachment, taste signaling, and permission to monetize rarity without collapsing the spell."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The company's economics rely on customers and markets continuing to believe its quality, scarcity, and management discipline are real."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Hermes has to be understood as a specific scarcity-and-craft business system, not as a generic premium consumer company."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the claim that Hermes must be analyzed through pricing permission and willingness to pay, not only through current accounting strength.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to convert admiration for the franchise into explicit assumptions about margin durability, customer mix, and reinvestment.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of craftsmanship credibility, provenance, and disciplined scarcity in maintaining the franchise.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the claim that brand admiration cannot stand in for valuation work.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::consumer and cultural sections"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the claim that management discipline matters when a company is tempted to monetize scarcity too aggressively.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "ai-compute-infrastructure-sector-brief",
+      "brief_title": "AI Compute Infrastructure Sector Brief",
+      "brief_href": "site/ai-compute-infrastructure-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "AI compute economics depend on bottlenecks, ecosystem position, reinvestment quality, and whether optionality is real or merely fashionable."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The sector is being financed partly on institutional belief, strategic urgency, and market permission to underwrite long-duration stories."
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "root_href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline",
+          "why_it_matters": "AI compute attracts strong control fantasies and crowding behavior, so investor discipline is part of the analytical problem."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Optionality",
+          "root_href": "site/concepts/optionality.html",
+          "why_it_matters": "Supports the claim that future workloads, software layers, and adjacent monetization paths create real but uneven option value across the AI stack.",
+          "source_trail": [
+            "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers",
+            "valuation-undergraduate-spring-2025::special-case and ownership-friction work",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to separate bottleneck pricing, ecosystem leverage, and temporary urgency from durable willingness to pay.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that chip designers, foundries, cloud platforms, and systems providers should not share one default valuation frame.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the need to translate AI importance and strategic urgency into explicit assumptions rather than letting the headline story do the valuation work.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn the AI-compute story into assumptions about duration, reinvestment, margins, and competitive endurance.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "nvidia-company-brief",
+      "brief_title": "Nvidia Company Brief",
+      "brief_href": "site/nvidia-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Nvidia has to be understood as a specific compute-platform business system whose economics depend on stack position, reinvestment, and real optionality."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The company is priced partly on market permission to underwrite a long-duration AI-platform story and to trust that present strength can persist."
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "root_href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline",
+          "why_it_matters": "Nvidia has become a proxy for being early and right about AI, so investor identity and control narratives can distort valuation discipline."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the claim that Nvidia must be analyzed through willingness to pay, stack position, and pricing language rather than raw admiration alone.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Growth And Reinvestment",
+          "root_href": "site/concepts/growth-and-reinvestment.html",
+          "why_it_matters": "Supports the need to ask what kind of reinvestment keeps the platform durable and what kind merely extends the current story.",
+          "source_trail": [
+            "corporate-finance-spring-2025::growth and project-return framing",
+            "valuation-undergraduate-spring-2025::growth, reinvestment, and terminal-value concept work",
+            "valuation-mba-spring-2025::growth, reinvestment, and terminal-value concept work"
+          ]
+        },
+        {
+          "label": "Optionality",
+          "root_href": "site/concepts/optionality.html",
+          "why_it_matters": "Supports the claim that future software, systems, and workflow layers are being valued partly as option value that still needs commercial translation.",
+          "source_trail": [
+            "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers",
+            "valuation-undergraduate-spring-2025::special-case and ownership-friction work",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the claim that AI leadership and strategic importance still have to be turned into explicit duration and margin assumptions.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to convert admiration for the franchise into assumptions about endurance, concentration, reinvestment, and optionality.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "integrated-oil-majors-sector-brief",
+      "brief_title": "Integrated Oil Majors Sector Brief",
+      "brief_href": "site/integrated-oil-majors-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Integrated oil economics depend on capital intensity, replacement burden, portfolio structure, and whether reinvestment quality survives the cycle."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Management decisions on projects, acquisitions, payout, and through-cycle discipline determine whether price-cycle cash flow becomes durable value."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The sector's economics rely partly on political tolerance, regulatory permission, and the endurance of its social license."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to separate cyclical commodity-price exposure from durable operating advantage.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the claim that integrated oil has to be evaluated through exposure, claims, and long-horizon uncertainty rather than through yield or familiarity alone.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge reserve replacement, payout, and acquisition choices as real drivers of value.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that integrated majors should not be analyzed with the same template as shale-heavy producers, refiners, or royalty models.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to translate cycle, replacement burden, payout, and political risk into explicit assumptions rather than capitalizing windfall earnings as permanence.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "exxonmobil-company-brief",
+      "brief_title": "ExxonMobil Company Brief",
+      "brief_href": "site/exxonmobil-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "The ExxonMobil case turns on project choice, payout discipline, acquisitions, and whether management allocates scale intelligently through the cycle."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "ExxonMobil has to be understood as a specific integrated portfolio with distinct asset-quality, replacement, and resilience characteristics."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The company's economics are shaped partly by regulatory tolerance, political scrutiny, and the market's willingness to underwrite long-lived hydrocarbon cash flows."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge project choice, payout, acquisitions, and replacement spending as the real center of the ExxonMobil case.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the claim that ExxonMobil has to be analyzed through claims, exposure, and portfolio resilience rather than through scale comfort alone.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to separate cycle-driven earnings strength from durable company-specific advantage.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that ExxonMobil should not be analyzed with the same template as a pure producer, refiner, or royalty model.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn commodity leverage, replacement burden, and social-license risk into explicit assumptions instead of treating scale as a shortcut.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "branded-pharmaceuticals-sector-brief",
+      "brief_title": "Branded Pharmaceuticals Sector Brief",
+      "brief_href": "site/branded-pharmaceuticals-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "Pharmaceutical economics depend heavily on regulatory credibility, reimbursement permission, and the social legitimacy of pricing."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "The sector depends on patent life, research productivity, and whether pipeline optionality is real enough to offset future cliffs."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Management decisions on R&D spending, acquisitions, payout, and portfolio renewal determine whether current protected cash flows become durable value."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to distinguish clinical value, reimbursement leverage, and social permission from the simple appearance of high margins.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of regulatory credibility, safety trust, and institutional permission in pharmaceutical economics.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Optionality",
+          "root_href": "site/concepts/optionality.html",
+          "why_it_matters": "Supports the claim that pipelines, label expansions, and platform programs create real but uneven future value.",
+          "source_trail": [
+            "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers",
+            "valuation-undergraduate-spring-2025::special-case and ownership-friction work",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that diversified incumbents, concentrated blockbuster stories, and pipeline-heavy platforms should not share one default template.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn patent life, trial probability, pricing durability, and reimbursement pressure into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "merck-company-brief",
+      "brief_title": "Merck Company Brief",
+      "brief_href": "site/merck-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The Merck case depends heavily on institutional trust, regulatory credibility, and the market's willingness to underwrite the durability of current franchises."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Merck has to be understood as a portfolio of protected cash flows plus pipeline and replacement options rather than as a flat earnings stream."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Management decisions on reinvestment, payout, and external deals determine whether present strength is renewed or simply harvested."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to distinguish clinical value and reimbursement leverage from the simple appearance of durable high-margin economics.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of regulatory credibility, safety, and institutional permission in maintaining the franchise.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Optionality",
+          "root_href": "site/concepts/optionality.html",
+          "why_it_matters": "Supports the claim that Merck is partly being valued on future pipeline and label-expansion outcomes that still need commercial translation.",
+          "source_trail": [
+            "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers",
+            "valuation-undergraduate-spring-2025::special-case and ownership-friction work",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge reinvestment, payout, and external deal choices as responses to the future replacement burden.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn exclusivity duration, concentration, pricing pressure, and pipeline probability into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "digital-asset-platforms-sector-brief",
+      "brief_title": "Digital Asset Platforms Sector Brief",
+      "brief_href": "site/digital-asset-platforms-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "Digital asset platforms depend on custody credibility, regulatory permission, and the market's willingness to grant legitimacy to a contested asset class."
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "root_href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline",
+          "why_it_matters": "The sector is strongly shaped by sovereignty narratives, anti-establishment identity, and the desire for financial control, so investor discipline is part of the analytical problem."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Platform economics depend on workflow depth, cycle resilience, and whether custody, staking, derivatives, or payment adjacencies create real option value."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of custody trust, institutional credibility, regulatory permission, and operational legitimacy in digital asset economics.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the need to translate adoption rhetoric and sovereignty narratives into explicit economic assumptions.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to distinguish fee power, spread capture, and market-heat monetization from durable willingness to pay.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Optionality",
+          "root_href": "site/concepts/optionality.html",
+          "why_it_matters": "Supports the claim that custody, staking, derivatives, payments, and institutional infrastructure can create real but uneven future value around a platform.",
+          "source_trail": [
+            "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers",
+            "valuation-undergraduate-spring-2025::special-case and ownership-friction work",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn market-cycle dependence, workflow depth, pricing, and regulatory risk into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "coinbase-company-brief",
+      "brief_title": "Coinbase Company Brief",
+      "brief_href": "site/coinbase-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The Coinbase case depends on custody credibility, regulatory permission, and the market's willingness to treat it as a legitimate bridge into digital assets."
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "root_href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline",
+          "why_it_matters": "Coinbase sits inside strong control and sovereignty narratives, so investor identity and category sympathy can distort valuation discipline."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "The company has to be judged on whether institutional rails, custody, and platform extension create real cycle-resistant economics."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of custody trust, operational credibility, and regulatory permission in maintaining the Coinbase franchise.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to separate convenience pricing and market-heat monetization from durable workflow-based economics.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Optionality",
+          "root_href": "site/concepts/optionality.html",
+          "why_it_matters": "Supports the claim that custody, payments, institutional rails, and tokenized infrastructure can create real but uneven future value around the platform.",
+          "source_trail": [
+            "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers",
+            "valuation-undergraduate-spring-2025::special-case and ownership-friction work",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the claim that category legitimacy and adoption rhetoric still have to be translated into explicit cash-flow assumptions.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn cycle dependence, pricing pressure, optionality, and regulatory risk into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "airlines-sector-brief",
+      "brief_title": "Airlines Sector Brief",
+      "brief_href": "site/airlines-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Airlines depend on network structure, fleet economics, capacity discipline, and whether operating improvements can survive the cycle."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Management decisions on fleet, leverage, payout, and expansion determine whether a strong environment becomes durable value or future fragility."
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "root_href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline",
+          "why_it_matters": "Airlines repeatedly attract control fantasies, with investors and managers believing this time the structure has finally been solved."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the need to judge airlines through exposure, resilience, and claims on cash flows rather than through a simple recovery story.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Discipline",
+          "root_href": "site/concepts/discipline.html",
+          "why_it_matters": "Supports the claim that airlines are decided partly by capacity restraint, cost honesty, and operating consistency rather than by narrative ambition.",
+          "source_trail": [
+            "cross-course-comparison::discipline-against-seduction",
+            "corporate-finance-spring-2025::incremental-cash-flow discipline",
+            "foundations-of-finance::nominal consistency",
+            "valuation-undergraduate-spring-2025::execution-discipline framing"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge fleet decisions, payout, leverage, and through-cycle expansion choices as real drivers of value.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that low-cost, network, and regional carriers should not share one default template.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to translate cycle, fleet commitments, labor exposure, and demand sensitivity into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "southwest-airlines-company-brief",
+      "brief_title": "Southwest Airlines Company Brief",
+      "brief_href": "site/southwest-airlines-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "root_href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline",
+          "why_it_matters": "Southwest sits inside a strong historical-management narrative, so investors can mistake reputation and control language for present economic proof."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Fleet, payout, balance-sheet, and capacity decisions determine whether Southwest's historical operating identity still translates into durable value."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Southwest has to be judged as a specific airline system with real network, demand, and cost-structure constraints rather than as a generic quality brand."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Discipline",
+          "root_href": "site/concepts/discipline.html",
+          "why_it_matters": "Supports the claim that Southwest has to be judged on real operating restraint and consistency rather than on a durable aura of good management.",
+          "source_trail": [
+            "cross-course-comparison::discipline-against-seduction",
+            "corporate-finance-spring-2025::incremental-cash-flow discipline",
+            "foundations-of-finance::nominal consistency",
+            "valuation-undergraduate-spring-2025::execution-discipline framing"
+          ]
+        },
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the claim that Southwest still has to be analyzed through exposure and resilience rather than through brand familiarity alone.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge fleet, payout, and capacity choices as real drivers of long-run value.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that Southwest should not be valued either as a generic airline or as a frictionless historical exception.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn demand sensitivity, cost structure, fleet commitments, and operating repair into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "office-reits-sector-brief",
+      "brief_title": "Office REITs Sector Brief",
+      "brief_href": "site/office-reits-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Office REITs depend on asset type, lease rollover, redevelopment flexibility, and whether legacy property quality can still be monetized under current demand conditions."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Leverage, payout, redevelopment, and disposition choices determine whether stressed office assets remain financeable and defensible."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The sector depends heavily on management credibility, lender trust, tenant confidence, and the market's willingness to believe asset valuations under stress."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the need to evaluate office REITs through exposure, refinancing risk, claim quality, and cash-flow fragility rather than through tangible-asset comfort alone.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that trophy urban portfolios, suburban exposure, and redevelopment-heavy REITs should not share one valuation template.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge leverage, redevelopment, dispositions, and payout choices as drivers of real value rather than cosmetic REIT management.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of management credibility, capital markets, tenant trust, and appraisal legitimacy in a pressured asset class.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn rollover quality, capex burden, leverage, and asset optionality into explicit assumptions rather than relying on stale net asset value stories.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "boston-properties-company-brief",
+      "brief_title": "Boston Properties Company Brief",
+      "brief_href": "site/boston-properties-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "The Boston Properties case turns on payout, redevelopment, leverage, and disposition decisions under structural office pressure."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Boston Properties has to be judged as a specific premium office portfolio with distinct rollover, repositioning, and monetization realities."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The company's economics depend partly on management credibility, lender confidence, leasing trust, and the market's willingness to keep believing in trophy-asset value."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the need to evaluate Boston Properties through cash-flow exposure, refinancing pressure, and claim quality rather than through trophy familiarity alone.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge payout, redevelopment, leverage, and disposition choices as real drivers of equity value.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that Boston Properties should not be valued like generic real estate, generic office, or a frictionless trophy-asset basket.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of management credibility, lender confidence, leasing trust, and appraisal legitimacy in sustaining the story.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn rollover quality, effective rents, capex burden, and balance-sheet flexibility into explicit assumptions instead of relying on stale prestige or headline asset values.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "private-equity-firms-sector-brief",
+      "brief_title": "Private Equity Firms Sector Brief",
+      "brief_href": "site/private-equity-firms-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Private equity economics depend directly on who controls decisions, how capital is allocated after control changes, and whether those changes create real value."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "Fundraising, financing, marks, and exits all rely on institutional trust and the market's willingness to keep granting prestige and credibility to the model."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "The sector has to be judged on whether control, operating intervention, and platform breadth create real option value or only an elegant story about sophistication."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Control",
+          "root_href": "site/concepts/control.html",
+          "why_it_matters": "Supports the claim that control only deserves value when it changes decisions in ways that improve future business economics.",
+          "source_trail": [
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge leverage, fee-model expansion, warehoused capital, and realization discipline as real drivers of value.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the need to translate prestige, access, and manager aura into explicit assumptions about realizations, fee streams, and cycle dependence.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of limited-partner confidence, lender trust, marking credibility, and exit-market legitimacy.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn fundraising durability, fee economics, realization timing, and control value into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "blackstone-company-brief",
+      "brief_title": "Blackstone Company Brief",
+      "brief_href": "site/blackstone-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Blackstone depends on control claims, capital deployment, and organizational discipline across multiple alternative-asset platforms."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The franchise relies heavily on institutional trust, fundraising permission, mark credibility, and the market's willingness to grant prestige to its economics."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "The platform has to be judged on whether breadth and product extension create real resilience and option value instead of only expanding the story."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Control",
+          "root_href": "site/concepts/control.html",
+          "why_it_matters": "Supports the claim that Blackstone has to be judged on when changed control really alters business value rather than simply on the aura of active ownership.",
+          "source_trail": [
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge balance-sheet use, platform expansion, payout, and product breadth as real drivers of long-run economics.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of fundraising trust, mark credibility, and exit-market legitimacy in maintaining the franchise.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the claim that brand prestige and manager aura still have to be translated into fee durability, realizations, and explicit cash-flow assumptions.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn fundraising durability, realization timing, and control economics into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "quick-service-restaurants-sector-brief",
+      "brief_title": "Quick Service Restaurants Sector Brief",
+      "brief_href": "site/quick-service-restaurants-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "Quick service economics depend on routine low-friction attachment, value perception, and the permission a brand has to take price without breaking the habit."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Franchise mix, buybacks, system investment, and unit-expansion discipline determine whether QSR growth is healthy or merely polished."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "The sector has to be judged by what kind of restaurant and franchise system it actually is, not by a generic global-brand story."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Growth And Reinvestment",
+          "root_href": "site/concepts/growth-and-reinvestment.html",
+          "why_it_matters": "Supports the need to distinguish healthy unit expansion and reinvestment from growth that only flatters the headline.",
+          "source_trail": [
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "valuation-undergraduate-spring-2025::growth, reinvestment, and terminal-value concept work",
+            "valuation-mba-spring-2025::growth, reinvestment, and terminal-value concept work"
+          ]
+        },
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to judge value perception and willingness to pay, not just menu price increases.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that franchised systems, company-operated concepts, and premium quick service formats should not share one template.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn unit growth, franchise mix, traffic quality, and pricing power into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of brand credibility, franchisee trust, and consumer belief in the value bargain.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::consumer and cultural sections"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "mcdonalds-company-brief",
+      "brief_title": "McDonald's Company Brief",
+      "brief_href": "site/mcdonalds-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "McDonald's depends on habitual demand, value perception, and unusually strong permission to monetize convenience and familiarity."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Franchise-system health, buybacks, payout, and mature-system reinvestment all determine whether McDonald's compounds or merely harvests reputation."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "McDonald's has to be judged as a specific global franchise and real-estate system rather than as a generic restaurant brand."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to distinguish true consumer permission from mere inflation pass-through in the McDonald's system.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Growth And Reinvestment",
+          "root_href": "site/concepts/growth-and-reinvestment.html",
+          "why_it_matters": "Supports the need to judge mature-system reinvestment and incremental unit growth honestly.",
+          "source_trail": [
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "valuation-undergraduate-spring-2025::growth, reinvestment, and terminal-value concept work",
+            "valuation-mba-spring-2025::growth, reinvestment, and terminal-value concept work"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge payout, buybacks, and franchise-system investment together rather than separately.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of consumer trust, franchisee confidence, and system credibility in maintaining the franchise.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::consumer and cultural sections"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn traffic quality, pricing permission, franchise health, and maturity into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "homebuilders-sector-brief",
+      "brief_title": "Homebuilders Sector Brief",
+      "brief_href": "site/homebuilders-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Homebuilders depend on land strategy, inventory timing, and what kind of builder model is actually being used, not just on housing demand headlines."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Land commitments, leverage, buybacks, and growth discipline determine whether strong demand turns into durable value or future write-down risk."
+        },
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "The sector is tied to ownership aspiration and household formation, but that consumer desire only matters economically when affordability and financing make it actionable."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the need to judge homebuilders through exposure, financing sensitivity, and cash-flow fragility rather than through simple housing-demand enthusiasm.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Growth And Reinvestment",
+          "root_href": "site/concepts/growth-and-reinvestment.html",
+          "why_it_matters": "Supports the need to distinguish healthy growth from land-heavy expansion that only flatters the headline.",
+          "source_trail": [
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "valuation-undergraduate-spring-2025::growth, reinvestment, and terminal-value concept work",
+            "valuation-mba-spring-2025::growth, reinvestment, and terminal-value concept work"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that land-heavy, option-based, premium, and entry-level builders should not share one valuation template.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Discipline",
+          "root_href": "site/concepts/discipline.html",
+          "why_it_matters": "Supports the claim that walking away from weak land economics and staying cautious through the cycle is central to builder quality.",
+          "source_trail": [
+            "cross-course-comparison::discipline-against-seduction",
+            "corporate-finance-spring-2025::incremental-cash-flow discipline",
+            "foundations-of-finance::nominal consistency",
+            "valuation-undergraduate-spring-2025::execution-discipline framing"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn land strategy, affordability, incentives, and backlog quality into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "nvr-company-brief",
+      "brief_title": "NVR Company Brief",
+      "brief_href": "site/nvr-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "NVR depends on disciplined land commitments, capital returns, and growth restraint rather than on the appearance of maximum scale."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "The company has to be judged as a distinct land-light or option-oriented builder model rather than as a generic homebuilder."
+        },
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "NVR still depends on ownership demand and affordability, but its economics turn on how cautiously it converts that demand into committed capital."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Discipline",
+          "root_href": "site/concepts/discipline.html",
+          "why_it_matters": "Supports the claim that NVR has to be judged on real capital restraint and land discipline rather than on a reputation for prudence alone.",
+          "source_trail": [
+            "cross-course-comparison::discipline-against-seduction",
+            "corporate-finance-spring-2025::incremental-cash-flow discipline",
+            "foundations-of-finance::nominal consistency",
+            "valuation-undergraduate-spring-2025::execution-discipline framing"
+          ]
+        },
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the claim that NVR still has to be analyzed through financing sensitivity, claims, and demand exposure rather than as a cycle-free quality compounder.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge land commitments, buybacks, and growth restraint as real drivers of long-run value.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that NVR should not be valued like a more conventional land-heavy builder.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn land strategy, return discipline, affordability exposure, and growth restraint into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "defense-primes-sector-brief",
+      "brief_title": "Defense Primes Sector Brief",
+      "brief_href": "site/defense-primes-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "Defense economics depend on political permission, procurement trust, and the market's willingness to keep granting legitimacy to concentrated government-linked cash flows."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Buybacks, capability investment, balance-sheet choices, and program prioritization all determine whether backlog becomes durable value."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Defense primes have materially different program mixes, sustainment exposures, and strategic roles, so one default valuation template is not enough."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of procurement credibility, political trust, and institutional permission in sustaining defense economics.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge buybacks, balance-sheet flexibility, capability investment, and program prioritization as real drivers of value.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that different program mixes and procurement exposures deserve different valuation treatments.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the need to judge defense primes through concentration, execution, and budget exposure rather than through a simple strategic-importance story.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn backlog quality, program risk, budget durability, and capital allocation into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "lockheed-martin-company-brief",
+      "brief_title": "Lockheed Martin Company Brief",
+      "brief_href": "site/lockheed-martin-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "Lockheed Martin depends heavily on procurement credibility, political permission, and the market's willingness to capitalize strategic importance as durable economics."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Buybacks, capability investment, and program prioritization determine whether current strategic strength is being protected or harvested."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Lockheed Martin has to be judged as a specific program and technology portfolio rather than as a generic quality industrial business."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of procurement credibility, customer trust, and political permission in maintaining the Lockheed Martin franchise.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge buybacks, capability investment, and portfolio choices together rather than separately.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the need to judge Lockheed Martin through concentration, execution, and budget exposure rather than through a generic quality-industrial label.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that Lockheed Martin should not be valued like a generic industrial or a generic services contractor.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn backlog quality, customer concentration, capital return, and budget durability into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "electric-utilities-sector-brief",
+      "brief_title": "Electric Utilities Sector Brief",
+      "brief_href": "site/electric-utilities-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "Utility economics depend on public trust, regulatory permission, and the political willingness to let companies recover and earn on large capital plans."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Capital plans, payout, equity issuance, and financing structure determine whether regulated growth actually creates value."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Different utility structures have materially different economics, catastrophe exposure, and allowed-return dynamics, so one template is not enough."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of regulatory trust, political legitimacy, and institutional permission in utility economics.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge capital plans, payout, financing mix, and rate-base growth as one economic system.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the need to judge utilities through catastrophe exposure, regulatory fragility, and financing sensitivity rather than through a simple yield story.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that regulated wires, vertically integrated, and mixed or stressed utility systems should not share one valuation template.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn rate-base growth, allowed returns, financing burden, and regulatory durability into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "nextera-energy-company-brief",
+      "brief_title": "NextEra Energy Company Brief",
+      "brief_href": "site/nextera-energy-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "NextEra depends on capital allocation, financing mix, and payout discipline because its growth story is inseparable from capital intensity."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The company's premium depends heavily on regulatory trust, investor confidence, and the market's willingness to keep granting narrative permission to a utility-growth hybrid."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "NextEra has to be judged as a specific blend of regulated utility and development-oriented platform rather than as a generic stable utility."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge capital plans, payout, financing mix, and development ambition as one system.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of regulatory trust, investor confidence, and narrative permission in maintaining the NextEra premium.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the need to judge NextEra through financing sensitivity, execution burden, and policy exposure rather than through a generic quality-utility label.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that NextEra should not be valued like a simple regulated wires business or a light-growth platform.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn capital intensity, allowed returns, development economics, and premium expectations into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "property-casualty-insurance-sector-brief",
+      "brief_title": "Property And Casualty Insurance Sector Brief",
+      "brief_href": "site/property-casualty-insurance-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "P&C insurance depends heavily on reserve credibility, capital trust, and the market's willingness to believe reported calm in a liability-heavy business."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Float deployment, reinsurance, payout, and balance-sheet discipline determine whether underwriting creates valuable or expensive capital."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Personal lines, specialty carriers, and catastrophe-exposed insurers have materially different economic structures, so one template is not enough."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the need to judge insurers through exposure, reserve uncertainty, catastrophe risk, and claim timing rather than through smooth reported earnings.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of reserve credibility, capital trust, and market confidence in liability reporting.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge float deployment, reinsurance, payout, and balance-sheet conservatism as drivers of real value.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that personal lines, specialty, and catastrophe-exposed insurers should not share one valuation template.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn underwriting quality, reserve trust, catastrophe exposure, and float economics into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "chubb-company-brief",
+      "brief_title": "Chubb Company Brief",
+      "brief_href": "site/chubb-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "Chubb depends on reserve credibility, disclosure trust, and the market's willingness to capitalize a reputation for prudence."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Reinsurance, buybacks, payout, and investment conservatism all determine whether the insurer's quality is being protected or only displayed."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Chubb has to be judged as a specific underwriting and risk-selection system rather than as a generic stable insurer."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Risk",
+          "root_href": "site/concepts/risk.html",
+          "why_it_matters": "Supports the need to judge Chubb through reserve, catastrophe, and liability exposure rather than through the apparent smoothness of reported results.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of reserve credibility, disclosure trust, and capital-market confidence in sustaining the Chubb premium.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge reinsurance, buybacks, payout, and portfolio conservatism together rather than separately.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that Chubb should not be valued like a generic multiline carrier without regard to its risk mix and discipline profile.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn reserve strength, underwriting quality, catastrophe exposure, and float economics into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "wireless-carriers-sector-brief",
+      "brief_title": "Wireless Carriers Sector Brief",
+      "brief_href": "site/wireless-carriers-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "Wireless economics depend on recurring habit, switching friction, and how much consumer permission remains after promotions and plan complexity."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Spectrum, network spend, leverage, buybacks, and bundling expansion all determine whether recurring revenue translates into durable value."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "Incumbents, challengers, and different customer-mix models have materially different economics, so one sector template is not enough."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of service trust, regulatory structure, and institutional credibility in sustaining wireless economics.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to judge real willingness to pay after promotions, bundling, and churn mitigation.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge spectrum, network spend, leverage, and payout as one economic system.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that incumbents, challengers, and different customer-mix models should not share one valuation template.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn churn, spectrum position, capital needs, and balance-sheet burden into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "t-mobile-company-brief",
+      "brief_title": "T-Mobile Company Brief",
+      "brief_href": "site/t-mobile-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "T-Mobile depends on churn control, subscriber quality, and whether customer attachment reflects real preference or promotion-shaped momentum."
+        },
+        {
+          "id": "governance-control-payout-and-capital-allocation",
+          "title": "Governance, Control, Payout, And Capital Allocation",
+          "root_href": "site/root-themes-registry.html#governance-control-payout-and-capital-allocation",
+          "why_it_matters": "Network spend, buybacks, leverage, and adjacent growth decisions determine whether post-merger gains turn into durable value."
+        },
+        {
+          "id": "industrial-structure-reinvestment-quality-and-optionality",
+          "title": "Industrial Structure, Reinvestment Quality, And Optionality",
+          "root_href": "site/root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality",
+          "why_it_matters": "T-Mobile has to be judged as a scaled post-merger operator with a specific network and customer mix, not as a generic carrier or permanent challenger story."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to distinguish real pricing power from promotion-shaped subscriber growth.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the need to judge network spend, buybacks, leverage, and adjacent growth together rather than separately.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of network trust, regulatory structure, and management credibility in maintaining the franchise.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that T-Mobile should not be valued like a generic incumbent or a low-scale challenger.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn churn, pricing, capital needs, and competitive position into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "sports-betting-platforms-sector-brief",
+      "brief_title": "Sports Betting Platforms Sector Brief",
+      "brief_href": "site/sports-betting-platforms-sector-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "Sports betting economics depend on recurring consumer engagement, event-driven habit, and whether excitement becomes monetizable attachment."
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "root_href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline",
+          "why_it_matters": "The sector strongly invites fantasies of user lock-in, edge, and scale economics, so investor discipline matters as much as consumer demand."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The economics depend on regulatory permission, payout trust, and the market's willingness to keep granting legitimacy to a speculative consumer category."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the need to translate legalization and growth rhetoric into explicit unit-economic assumptions.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to judge hold, incentives, and willingness to pay rather than just top-line betting volume.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of regulatory permission, platform credibility, and payout trust in sustaining the business.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Optionality",
+          "root_href": "site/concepts/optionality.html",
+          "why_it_matters": "Supports the claim that iGaming, media, and adjacent platform economics can create real but uneven future value.",
+          "source_trail": [
+            "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers",
+            "valuation-undergraduate-spring-2025::special-case and ownership-friction work",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn activity quality, promotional intensity, optionality, and regulatory structure into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "draftkings-company-brief",
+      "brief_title": "DraftKings Company Brief",
+      "brief_href": "site/draftkings-company-brief.html",
+      "theme_cluster_refs": [
+        {
+          "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+          "title": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+          "root_href": "site/root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission",
+          "why_it_matters": "DraftKings depends on whether high-energy engagement becomes economically durable rather than remaining promotion-driven activity."
+        },
+        {
+          "id": "investor-identity-control-and-behavioral-discipline",
+          "title": "Investor Identity, Control, And Behavioral Discipline",
+          "root_href": "site/root-themes-registry.html#investor-identity-control-and-behavioral-discipline",
+          "why_it_matters": "The company sits inside strong narratives about category destiny, user lock-in, and scale, so investor discipline is central to the case."
+        },
+        {
+          "id": "legitimacy-trust-and-narrative-permission",
+          "title": "Legitimacy, Trust, And Narrative Permission",
+          "root_href": "site/root-themes-registry.html#legitimacy-trust-and-narrative-permission",
+          "why_it_matters": "The platform depends on regulatory permission, payout trust, and the market's willingness to grant legitimacy to its future profitability story."
+        }
+      ],
+      "anchors": [
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the need to translate category momentum and legalization rhetoric into explicit unit-economic assumptions.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Pricing",
+          "root_href": "site/concepts/pricing.html",
+          "why_it_matters": "Supports the need to distinguish gross betting activity from real monetization quality after promotions and incentives.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Optionality",
+          "root_href": "site/concepts/optionality.html",
+          "why_it_matters": "Supports the claim that adjacent gaming, data, and platform extension can create real but uneven future value.",
+          "source_trail": [
+            "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers",
+            "valuation-undergraduate-spring-2025::special-case and ownership-friction work",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of regulatory permission, payout trust, and platform credibility in maintaining the franchise.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn cohort quality, promotional burn, optionality, and regulatory expansion into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
           ]
         }
       ]

@@ -42,6 +42,11 @@ not optional extras:
   reinvestment, financing, payout, and capital-allocation bridge back into
   valuation and investment philosophy.
 
+The durable root objective is written out in:
+
+- `GOAL.md`
+- `analysis/project-objective.md`
+
 ## Layout
 
 - `scripts/`: reusable root-level tooling
@@ -104,6 +109,20 @@ Build the root normalized concept atlas:
 python3 scripts/build_root_workspace_artifacts.py
 ```
 
+Run the downstream applied-layer validators directly:
+
+```bash
+python3 scripts/validate_applied_analysis.py
+python3 scripts/validate_applied_evidence.py
+python3 scripts/validate_root_workspace.py
+```
+
+Run the compact root workspace integrity check:
+
+```bash
+bash scripts/check_root_workspace.sh
+```
+
 Scaffold a new course workspace:
 
 ```bash
@@ -114,7 +133,7 @@ python3 scripts/scaffold_course_workspace.py \
 ```
 
 This root rebuild command is the default cross-course path. It refreshes, in
-order:
+order, then runs the downstream applied-layer validators:
 
 - `analysis/course-evidence-index.json`
 - `analysis/course-file-evidence-index.json`
@@ -150,14 +169,33 @@ The root sector/company writing scaffold is documented at:
 
 - `analysis/sector-and-company-writeup-framework.md`
 
-The first applied downstream writeups are documented at:
+The applied downstream writeups are documented at:
 
 - `analysis/applied-analysis-catalog.json`
 - `analysis/applied-evidence-registry.json`
-- `analysis/streaming-platforms-sector-brief.md`
-- `analysis/netflix-company-brief.md`
-- `analysis/enterprise-software-sector-brief.md`
-- `analysis/costco-company-brief.md`
+- `site/applied-analysis.html`
+- `site/applied-evidence.html`
+
+The current applied set spans:
+
+- streaming platforms and Netflix
+- enterprise software
+- payments infrastructure and Visa
+- luxury goods and Hermes
+- AI compute infrastructure and Nvidia
+- integrated oil majors and ExxonMobil
+- branded pharmaceuticals and Merck
+- digital asset platforms and Coinbase
+- airlines and Southwest Airlines
+- office REITs and Boston Properties
+- private equity firms and Blackstone
+- quick service restaurants and McDonald's
+- homebuilders and NVR
+- defense primes and Lockheed Martin
+- electric utilities and NextEra Energy
+- property and casualty insurance and Chubb
+- wireless carriers and T-Mobile
+- sports betting platforms and DraftKings
 
 ## Expected per-course structure
 

@@ -228,6 +228,44 @@ This is exactly the kind of industrial question that helps separate a durable
 platform, trusted network, premium brand, or workflow lock-in from a business
 that merely benefited from a moment of market excitement.
 
+## Capital Allocation Across Actors
+
+One of the strongest ways to read the full workspace is as a layered theory of
+capital allocation.
+
+Foundations of Finance establishes the precondition: before capital can be
+allocated well, the analyst has to know what kind of claim is being funded,
+who gets paid first, who bears residual risk, and how time changes the value
+of each promise.
+
+Investment Philosophies shifts that logic into the portfolio holder's world.
+Capital allocation becomes a lived decision about style, diversification,
+reinvestment belief, taxes, liquidity, edge, and what kind of market pain the
+investor can actually absorb without abandoning the plan.
+
+Corporate Finance moves the same problem inside the firm. Capital allocation
+becomes the managerial job of choosing projects, setting hurdle rates,
+balancing debt and equity, deciding when payout is justified, and refusing to
+treat capital as free simply because it is available.
+
+The valuation courses complete the loop by showing that capital allocation is
+also what later gets judged in the market. Growth only matters when
+reinvestment is credible. Payout only matters when investment opportunities are
+weak enough to justify it. Acquisitions only matter when changed control can
+improve future cash flows. In that sense, valuation is not separate from
+capital allocation. It is one of the places where capital allocation choices
+are audited.
+
+That makes the workspace unusually powerful for later sector and company work.
+It gives a continuous way to ask:
+
+- what claim is being funded?
+- who is doing the allocating?
+- what constraints are they under?
+- what reinvestment logic is being assumed?
+- when is returning capital wiser than deploying more of it?
+- which allocation story is real, and which one is only a narrative cover?
+
 ## Institutions, Governance, And Permission To Endure
 
 The industrial and institutional layers meet in another important place:
@@ -255,6 +293,44 @@ This is especially important for sectors that look stable right up until their
 permission structure changes. The workspace is now carrying enough trust,
 governance, pricing, and legitimacy language to make this a real comparative
 lens rather than a vague intuition.
+
+## Control, Governance, And Decision Rights
+
+Another deep pattern in the workspace is that value changes when decision
+rights change, but not automatically.
+
+Foundations of Finance gives the stripped-down starting point: bonds, equity,
+and options are not just different payout formulas. They embed different rights
+to cash flows, different exposure to managerial action, and different
+sensitivity to what happens next inside the business.
+
+Investment Philosophies then attacks one of the most seductive modern
+mistakes: the belief that investors possess more control than they really do.
+Market timing, technical systems, and active-management marketing often sell a
+fantasy of foresight and agency that the evidence does not support. That turns
+control into a psychological and institutional question, not only a technical
+one.
+
+Corporate Finance makes the issue formal. Governance decides whose objective
+function counts, how agency conflicts are policed, whether cash gets wasted,
+and whether financing or payout decisions are disciplined by value creation or
+captured by internal politics.
+
+The valuation courses add the final refinement: control deserves value only
+when it can produce better decisions. Private-company ownership, acquisitions,
+control premiums, and value-enhancement stories matter only when the new
+decision-maker can actually change policy, capital allocation, incentives, or
+operating performance enough to alter future cash flows.
+
+That is a very strong rule for future company analysis. Never treat control as
+valuable by slogan. Ask:
+
+- what rights actually change hands?
+- what decisions become newly possible?
+- what governance friction is being removed, or introduced?
+- what evidence suggests the new controller will allocate capital better?
+- are investors paying for real strategic change, or only for the romance of
+  control itself?
 
 ## Pedagogical Patterns
 
@@ -285,6 +361,28 @@ This audience pattern is one of the richest outputs in the workspace so far.
 It means the project is no longer just documenting topics. It is documenting
 how a single thinker changes explanation, pacing, and emphasis depending on the
 learner's starting point.
+
+The undergraduate and MBA valuation pair is especially valuable here because
+it exposes the same analytical machine in two pedagogical forms. The
+undergraduate course makes sequence, execution, and handoff between concepts
+more explicit. The MBA course compresses that same structure into a denser
+language of judgment, consistency, pricing, optionality, and control. That
+pair gives the root workspace a direct way to study not only what Damodaran
+believes, but how he decides what kind of explanation a given audience can
+actually use.
+
+This matters beyond course comparison. It means the workspace is also becoming
+an archive of explanatory design. It captures how the same core ideas are:
+
+- introduced as grammar for beginners
+- widened into identity and worldview for investors
+- turned into operating architecture for managers
+- made executable for students through sequence and deadlines
+- compressed into judgment language for advanced or professional audiences
+
+That makes the project useful not only for finance research, but for future
+course-building, curriculum design, and any later effort to teach difficult
+market or business ideas without flattening them into slogans.
 
 ## The Deep Recurring Theme: Discipline Against Self-Deception
 
@@ -340,6 +438,10 @@ The current structure supports several next layers cleanly.
 5. Social, institutional, and legitimacy-aware writeups that explain not only
    what a market or business does, but why people keep granting it belief,
    patience, permission, or premium pricing.
+6. Cross-course translation pieces showing how claims, risk, value, control,
+   governance, pricing, and reinvestment are reframed as the audience moves
+   from foundations to investing to corporate finance to undergraduate and MBA
+   valuation.
 
 The practical implication is straightforward: this is no longer only a Damodaran
 archive. It is becoming a reusable reasoning library for markets, industries,

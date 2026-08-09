@@ -24,6 +24,17 @@ finance, investment philosophy, valuation, and corporate finance reinforce,
 translate, and challenge one another across different audiences and teaching
 contexts.
 
+That means the newer additions are not side folders. They must be absorbed
+into the same root logic:
+
+- `valuation-undergraduate-spring-2025` should deepen the audience-translation
+  layer by showing how valuation is simplified, sequenced, and explained for a
+  different classroom without losing its core logic.
+- `corporate-finance-spring-2025` should deepen the operating and
+  capital-allocation layer by connecting business purpose, governance,
+  financing, reinvestment, payout, and end-game decisions back into valuation
+  and investment philosophy.
+
 ## What "Done" Actually Means
 
 The workspace should eventually make all of the following true.
@@ -51,6 +62,10 @@ The workspace should eventually make all of the following true.
 6. The output is publishable and reusable through HTML pages and structured
    JSON artifacts, so it can support later downstream work without needing the
    original transcript-mining effort to be repeated.
+7. Future course additions should plug into the same shared framework rather
+   than creating isolated analyses. Each new course should strengthen the root
+   map of themes, subthemes, concepts, audience translation, and applied
+   downstream use.
 
 ## Core Workstreams
 

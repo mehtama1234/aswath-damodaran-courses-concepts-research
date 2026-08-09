@@ -1,0 +1,190 @@
+{
+  "workspace": "Aswath Damodaran Courses Concepts Research",
+  "updated_on": "2026-08-09",
+  "title": "Root Themes Registry",
+  "description": "Structured registry of reusable societal, cultural, consumer, industrial, institutional, and pedagogical theme clusters derived from the active Damodaran workspace.",
+  "clusters": [
+    {
+      "id": "legitimacy-trust-and-narrative-permission",
+      "name": "Legitimacy, Trust, And Narrative Permission",
+      "domain": "societal",
+      "summary": "Markets are shaped by trust, legitimacy, institutional credibility, and the permission granted to narratives, managers, and asset classes.",
+      "why_it_matters": "Useful when a sector or company is being priced partly on patience, credibility, or social belief rather than only near-term economics.",
+      "guiding_questions": [
+        "Who is being granted credibility and why?",
+        "What kind of proof does this market currently demand?",
+        "Is patience coming from economics, trust, or fashion?",
+        "Which institutions or authorities are carrying the narrative?"
+      ],
+      "course_links": [
+        {
+          "slug": "investment-philosophies-2026",
+          "focus": "identity, trust, alternatives, and investor belief systems"
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "focus": "governance, legitimacy, and objective-function enforcement"
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "focus": "pricing as social market language"
+        },
+        {
+          "slug": "foundations-of-finance",
+          "focus": "claims and rights as the structural base under trust"
+        }
+      ]
+    },
+    {
+      "id": "investor-identity-control-and-behavioral-discipline",
+      "name": "Investor Identity, Control, And Behavioral Discipline",
+      "domain": "cultural",
+      "summary": "Investor behavior is shaped by identity, style loyalty, control fantasies, and the need for discipline against tactical seduction and self-deception.",
+      "why_it_matters": "Useful when writing about speculative sectors, style tribes, active/passive debates, momentum stories, and the cultural appeal of skill claims.",
+      "guiding_questions": [
+        "What identity or style commitment is driving the decision?",
+        "Where is the desire for control outrunning the evidence?",
+        "What behavior is principled and what is only market theater?",
+        "What discipline would prevent self-deception here?"
+      ],
+      "course_links": [
+        {
+          "slug": "investment-philosophies-2026",
+          "focus": "philosophy, style, timing, active/passive, and control fantasy"
+        },
+        {
+          "slug": "foundations-of-finance",
+          "focus": "risk and required return as the base discipline"
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "focus": "execution discipline and visible workflow constraints"
+        }
+      ]
+    },
+    {
+      "id": "consumer-attachment-premium-positioning-and-monetization-permission",
+      "name": "Consumer Attachment, Premium Positioning, And Monetization Permission",
+      "domain": "consumer",
+      "summary": "Consumer businesses are often driven by attachment, brand, taste, reassurance, and monetization permission, not just raw user growth.",
+      "why_it_matters": "Useful when analyzing sectors where social adoption or brand energy arrives before durable pricing power or proven unit economics.",
+      "guiding_questions": [
+        "Is adoption becoming durable attachment?",
+        "What gives this business permission to charge more?",
+        "Is the demand story economic, cultural, or both?",
+        "Can the business convert engagement into defensible cash flow?"
+      ],
+      "course_links": [
+        {
+          "slug": "investment-philosophies-2026",
+          "focus": "growth narratives, style belief, and social demand stories"
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "focus": "pricing, story-to-input translation, and narrative discipline"
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "focus": "visible contrast between narrative excitement and economic proof"
+        }
+      ]
+    },
+    {
+      "id": "industrial-structure-reinvestment-quality-and-optionality",
+      "name": "Industrial Structure, Reinvestment Quality, And Optionality",
+      "domain": "industrial",
+      "summary": "Different business systems require different valuation logic, and growth only matters when reinvestment quality, industry structure, and optionality are understood.",
+      "why_it_matters": "Useful when sectors differ materially in capital intensity, timing, ownership, option value, or the way competitive edge is protected or copied.",
+      "guiding_questions": [
+        "What kind of business system is this?",
+        "Is growth being funded credibly?",
+        "Is optionality real or only a vague hope premium?",
+        "Does scale strengthen the edge or attract imitation?"
+      ],
+      "course_links": [
+        {
+          "slug": "foundations-of-finance",
+          "focus": "claims, time, and valuation differences by asset type"
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "focus": "growth, reinvestment, optionality, distress, and special situations"
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "focus": "reinvestment discipline, options, acquisitions, and special cases"
+        },
+        {
+          "slug": "investment-philosophies-2026",
+          "focus": "the industrial structure of edge and crowding"
+        }
+      ]
+    },
+    {
+      "id": "governance-control-payout-and-capital-allocation",
+      "name": "Governance, Control, Payout, And Capital Allocation",
+      "domain": "institutional",
+      "summary": "Value changes when governance quality, control rights, payout logic, and capital allocation discipline change, but only when those decisions alter real economics.",
+      "why_it_matters": "Useful when a company or sector story hinges on management quality, acquisition logic, payout credibility, ownership structure, or post-control improvement claims.",
+      "guiding_questions": [
+        "Who controls the decisions that matter?",
+        "Is payout disciplined by investment opportunity or masking weak reinvestment?",
+        "Can a new controller actually improve capital allocation?",
+        "Are governance and financing structures helping or hurting endurance?"
+      ],
+      "course_links": [
+        {
+          "slug": "corporate-finance-spring-2025",
+          "focus": "objective function, governance, project choice, debt, and payout"
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "focus": "control value and acquisition logic"
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "focus": "private-company ownership, acquisition value, and value enhancement"
+        },
+        {
+          "slug": "foundations-of-finance",
+          "focus": "claim structure and cash-flow rights"
+        }
+      ]
+    },
+    {
+      "id": "pedagogy-translation-and-audience-aware-explanation",
+      "name": "Pedagogy, Translation, And Audience-Aware Explanation",
+      "domain": "pedagogical",
+      "summary": "The same finance ideas are taught differently depending on whether the audience needs grammar, worldview, managerial architecture, sequenced execution, or compressed professional judgment.",
+      "why_it_matters": "Useful for course-building, curriculum design, and for deciding how analytical material should be explained to different levels of reader or learner.",
+      "guiding_questions": [
+        "Does this audience need grammar, worldview, workflow, or compression?",
+        "What should be made explicit instead of assumed?",
+        "Which explanation style makes the idea usable rather than ornamental?",
+        "What sequencing prevents confusion without flattening the idea?"
+      ],
+      "course_links": [
+        {
+          "slug": "foundations-of-finance",
+          "focus": "financial grammar"
+        },
+        {
+          "slug": "investment-philosophies-2026",
+          "focus": "investor worldview and lived consistency"
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "focus": "managerial decision architecture"
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "focus": "sequenced craft and project execution"
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "focus": "translated judgment and professional compression"
+        }
+      ]
+    }
+  ]
+}

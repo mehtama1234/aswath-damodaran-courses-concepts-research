@@ -1,3 +1,19 @@
+---
+brief_id: visa-company-brief
+type: company
+title: Visa Company Brief
+root_concepts:
+  - trust-and-institutions
+  - capital-allocation
+  - fit-and-constraints
+  - pricing
+  - valuation
+root_theme_clusters:
+  - governance-control-payout-and-capital-allocation
+  - legitimacy-trust-and-narrative-permission
+  - industrial-structure-reinvestment-quality-and-optionality
+---
+
 # Visa Company Brief
 
 ## Company Thesis
@@ -116,6 +132,14 @@ The most useful root comparison and synthesis pages are:
 - [Sector and company writeup framework](sector-and-company-writeup-framework.html)
 - [Normalized concepts](normalized-concepts.html)
 
+## Theme Cluster Links
+
+The most useful root theme clusters for Visa are:
+
+- [Legitimacy, Trust, And Narrative Permission](root-themes-registry.html#legitimacy-trust-and-narrative-permission)
+- [Governance, Control, Payout, And Capital Allocation](root-themes-registry.html#governance-control-payout-and-capital-allocation)
+- [Industrial Structure, Reinvestment Quality, And Optionality](root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality)
+
 ## Damodaran Evidence Anchors
 
 The most important transcript-backed root evidence layers behind this brief are:
@@ -126,9 +150,10 @@ The most important transcript-backed root evidence layers behind this brief are:
   framing, Corporate Finance valuation-as-final-integration work, Valuation
   Undergraduate 2025 sequenced-craft framing, and Valuation MBA 2025
   valuation-as-translated-judgment.
-- [Narrative versus numbers](concepts/narrative-versus-numbers.html): explain
-  why it matters here. Source trail: Investment Philosophies 2026 style and
-  story discipline, Valuation Undergraduate 2025
+- [Narrative versus numbers](concepts/narrative-versus-numbers.html):
+  supports the need to test Visa's admired quality story against explicit
+  economics rather than letting reputation stand in for valuation work. Source
+  trail: Investment Philosophies 2026 style and story discipline, Valuation Undergraduate 2025
   `analysis/concepts.json: storytelling-into-inputs`, Valuation MBA 2025
   `analysis/concepts.json: stories-into-inputs`, and the root synthesis
   essay's societal and consumer sections.

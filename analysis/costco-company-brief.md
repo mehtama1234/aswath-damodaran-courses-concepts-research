@@ -1,3 +1,19 @@
+---
+brief_id: costco-company-brief
+type: company
+title: Costco Company Brief
+root_concepts:
+  - trust-and-institutions
+  - capital-allocation
+  - discipline
+  - fit-and-constraints
+  - valuation
+root_theme_clusters:
+  - consumer-attachment-premium-positioning-and-monetization-permission
+  - governance-control-payout-and-capital-allocation
+  - legitimacy-trust-and-narrative-permission
+---
+
 # Costco Company Brief
 
 ## Company Thesis
@@ -142,6 +158,14 @@ The most useful root comparison and synthesis pages are:
 - [Root synthesis essay](root-synthesis-essay.html)
 - [Cross-course comparison](cross-course-comparison.html)
 - [Normalized concepts](normalized-concepts.html)
+
+## Theme Cluster Links
+
+The most useful root theme clusters for Costco are:
+
+- [Consumer Attachment, Premium Positioning, And Monetization Permission](root-themes-registry.html#consumer-attachment-premium-positioning-and-monetization-permission)
+- [Governance, Control, Payout, And Capital Allocation](root-themes-registry.html#governance-control-payout-and-capital-allocation)
+- [Legitimacy, Trust, And Narrative Permission](root-themes-registry.html#legitimacy-trust-and-narrative-permission)
 
 ## Damodaran Evidence Anchors
 

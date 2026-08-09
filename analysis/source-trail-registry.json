@@ -1,0 +1,70 @@
+{
+  "updated_on": "2026-08-09",
+  "description": "Allowed source-trail tails for the applied evidence registry. This constrains the semantic vocabulary used after the `::` separator.",
+  "allowed_tails_by_prefix": {
+    "corporate-finance-spring-2025": [
+      "growth and project-return framing",
+      "growth as capital allocation treatment",
+      "incremental-cash-flow discipline",
+      "legitimacy and governance framing",
+      "legitimacy framing",
+      "project and reinvestment logic",
+      "project choice, financing mix, payout, and objective-function work",
+      "valuation-as-final-integration"
+    ],
+    "cross-course-comparison": [
+      "capital allocation from portfolio choice to project choice to reinvestment economics",
+      "discipline-against-seduction",
+      "fit-constraints-and-consistency"
+    ],
+    "foundations-of-finance": [
+      "claim and nominal-fit work",
+      "claim design and financial language framing",
+      "claim-logic framing",
+      "nominal consistency"
+    ],
+    "investment-philosophies-2026": [
+      "institutional-friction work",
+      "portfolio-fit work",
+      "style and story discipline"
+    ],
+    "normalized-concepts-resolved": [
+      "capital-allocation synthesis",
+      "trust-and-institutions cross-course treatment"
+    ],
+    "root-synthesis-essay": [
+      "consumer and cultural sections",
+      "societal and cultural sections",
+      "trust and interpretive communities"
+    ],
+    "valuation-audience-comparison": [
+      "narrative-and-story-discipline",
+      "same-valuation-core-different-teaching-posture",
+      "sequencing-and-scaffolding"
+    ],
+    "valuation-mba-spring-2025": [
+      "analysis/concepts.json: stories-into-inputs",
+      "growth, FCFF, and terminal-value layer",
+      "growth, reinvestment, and terminal-value concept work",
+      "life cycle, ownership context, and model fit",
+      "life-cycle and private-company valuation work",
+      "model-fit and special-case concept layers",
+      "pricing-language and story-translation work",
+      "private company, life-cycle, and special-case concept layers",
+      "valuation as translated judgment"
+    ],
+    "valuation-undergraduate-spring-2025": [
+      "analysis/concepts.json growth sequencing",
+      "analysis/concepts.json: storytelling-into-inputs",
+      "execution-discipline framing",
+      "growth, FCFF, and terminal-value layer",
+      "growth, reinvestment, and terminal-value concept work",
+      "life cycle and special-case work",
+      "life cycle, ownership context, and model fit",
+      "model-fit and special-case concept layers",
+      "private company, life-cycle, and special-case concept layers",
+      "special-case and ownership-friction work",
+      "valuation as sequenced craft"
+    ]
+  }
+}

@@ -1,3 +1,19 @@
+---
+brief_id: enterprise-software-sector-brief
+type: sector
+title: Enterprise Software Sector Brief
+root_concepts:
+  - growth-and-reinvestment
+  - narrative-versus-numbers
+  - fit-and-constraints
+  - capital-allocation
+  - trust-and-institutions
+root_theme_clusters:
+  - industrial-structure-reinvestment-quality-and-optionality
+  - governance-control-payout-and-capital-allocation
+  - legitimacy-trust-and-narrative-permission
+---
+
 # Enterprise Software Sector Brief
 
 ## Sector Thesis
@@ -127,6 +143,14 @@ The most useful root comparison pages are:
 - [Root synthesis essay](root-synthesis-essay.html)
 - [Cross-course comparison](cross-course-comparison.html)
 - [Normalized concepts](normalized-concepts.html)
+
+## Theme Cluster Links
+
+The most useful root theme clusters for this sector are:
+
+- [Industrial Structure, Reinvestment Quality, And Optionality](root-themes-registry.html#industrial-structure-reinvestment-quality-and-optionality)
+- [Governance, Control, Payout, And Capital Allocation](root-themes-registry.html#governance-control-payout-and-capital-allocation)
+- [Legitimacy, Trust, And Narrative Permission](root-themes-registry.html#legitimacy-trust-and-narrative-permission)
 
 ## Damodaran Evidence Anchors
 

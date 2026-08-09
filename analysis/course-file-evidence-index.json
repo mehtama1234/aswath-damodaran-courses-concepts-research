@@ -962,6 +962,131 @@
           "href": "../corporate-finance-spring-2025/site/concepts/*.html"
         }
       ]
+    },
+    {
+      "slug": "ammi-geometric-deep-learning-2022",
+      "title": "AMMI Geometric Deep Learning Course - Second Edition (2022)",
+      "items": [
+        {
+          "id": "ammi-geometric-deep-learning-2022::analysis/README.md",
+          "path": "analysis/README.md",
+          "label": "Analysis: Readme",
+          "kind": "analysis",
+          "href": "../ammi-geometric-deep-learning-2022/analysis/README.md"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::analysis/session-inventory.md",
+          "path": "analysis/session-inventory.md",
+          "label": "Analysis: Session Inventory",
+          "kind": "analysis",
+          "href": "../ammi-geometric-deep-learning-2022/analysis/session-inventory.md"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::analysis/session-briefs.md",
+          "path": "analysis/session-briefs.md",
+          "label": "Analysis: Session Briefs",
+          "kind": "analysis",
+          "href": "../ammi-geometric-deep-learning-2022/analysis/session-briefs.md"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::analysis/course-thesis.md",
+          "path": "analysis/course-thesis.md",
+          "label": "Analysis: Course Thesis",
+          "kind": "analysis",
+          "href": "../ammi-geometric-deep-learning-2022/analysis/course-thesis.md"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::analysis/themes-and-subthemes.json",
+          "path": "analysis/themes-and-subthemes.json",
+          "label": "Analysis: Themes And Subthemes",
+          "kind": "analysis",
+          "href": "../ammi-geometric-deep-learning-2022/analysis/themes-and-subthemes.json"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::analysis/concepts.json",
+          "path": "analysis/concepts.json",
+          "label": "Analysis: Concepts",
+          "kind": "analysis",
+          "href": "../ammi-geometric-deep-learning-2022/analysis/concepts.json"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::analysis/discussions.json",
+          "path": "analysis/discussions.json",
+          "label": "Analysis: Discussions",
+          "kind": "analysis",
+          "href": "../ammi-geometric-deep-learning-2022/analysis/discussions.json"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::analysis/sessions.json",
+          "path": "analysis/sessions.json",
+          "label": "Analysis: Sessions",
+          "kind": "analysis",
+          "href": "../ammi-geometric-deep-learning-2022/analysis/sessions.json"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::analysis/evidence-map.json",
+          "path": "analysis/evidence-map.json",
+          "label": "Analysis: Evidence Map",
+          "kind": "analysis",
+          "href": "../ammi-geometric-deep-learning-2022/analysis/evidence-map.json"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::site/index.html",
+          "path": "site/index.html",
+          "label": "Site: Main Overview",
+          "kind": "site",
+          "href": "../ammi-geometric-deep-learning-2022/site/index.html"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::site/course-thesis.html",
+          "path": "site/course-thesis.html",
+          "label": "Site: Course Thesis",
+          "kind": "site",
+          "href": "../ammi-geometric-deep-learning-2022/site/course-thesis.html"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::site/themes.html",
+          "path": "site/themes.html",
+          "label": "Site: Themes",
+          "kind": "site",
+          "href": "../ammi-geometric-deep-learning-2022/site/themes.html"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::site/subthemes.html",
+          "path": "site/subthemes.html",
+          "label": "Site: Subthemes",
+          "kind": "site",
+          "href": "../ammi-geometric-deep-learning-2022/site/subthemes.html"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::site/discussions.html",
+          "path": "site/discussions.html",
+          "label": "Site: Discussions",
+          "kind": "site",
+          "href": "../ammi-geometric-deep-learning-2022/site/discussions.html"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::site/sessions.html",
+          "path": "site/sessions.html",
+          "label": "Site: Sessions",
+          "kind": "site",
+          "href": "../ammi-geometric-deep-learning-2022/site/sessions.html"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::site/concepts/index.html",
+          "path": "site/concepts/index.html",
+          "label": "Site Concept: Index",
+          "kind": "site",
+          "href": "../ammi-geometric-deep-learning-2022/site/concepts/index.html"
+        },
+        {
+          "id": "ammi-geometric-deep-learning-2022::site/concepts/*.html",
+          "path": "site/concepts/*.html",
+          "label": "Site Concept: *",
+          "kind": "site",
+          "href": "../ammi-geometric-deep-learning-2022/site/concepts/*.html"
+        }
+      ]
     }
   ]
 }

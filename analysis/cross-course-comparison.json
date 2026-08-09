@@ -5,7 +5,7 @@
     {
       "id": "financial-grammar-before-specialization",
       "name": "Financial Grammar Before Specialization",
-      "summary": "Across the active course set, Foundations of Finance does the earliest explanatory work. It introduces the grammar that later courses assume: business structure, cash flows, time, claims, and nominal consistency. The later courses each specialize that grammar into a different decision domain.",
+      "summary": "Across the active course set, Foundations of Finance does the earliest explanatory work. It introduces the grammar that later courses assume: business structure, cash flows, time, claims, and nominal consistency. The later courses each specialize that grammar into a different decision domain, with the two valuation courses showing how the same architecture is taught at two audience levels.",
       "courses": [
         {
           "slug": "foundations-of-finance",
@@ -54,14 +54,26 @@
             "analysis/themes-and-subthemes.json",
             "site/course-thesis.html"
           ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "href": "../valuation-undergraduate-spring-2025/site/course-thesis.html",
+          "focus": "The grammar becomes a teachable valuation sequence",
+          "emphasis": "The same foundational logic is slowed down and scaffolded into an executable student workflow for moving from claim structure and discount rates to cash flows, growth, pricing, and special cases.",
+          "evidence": [
+            "Sessions 1-27",
+            "analysis/themes-and-subthemes.json",
+            "site/course-thesis.html"
+          ]
         }
       ],
-      "cross_course_takeaway": "Foundations of Finance supplies the base layer. The later courses do not replace it. They specialize it into investing, corporate decision-making, and valuation judgment."
+      "cross_course_takeaway": "Foundations of Finance supplies the base layer. The later courses do not replace it. They specialize it into investing, corporate decision-making, and two differently paced versions of valuation judgment."
     },
     {
       "id": "risk-across-the-stack",
       "name": "Risk Across The Stack",
-      "summary": "All four courses treat risk as foundational, but they assign it different jobs depending on the audience and the decision problem. Foundations defines the bargain behind return. Investment Philosophies makes risk lived and behavioral. Corporate Finance makes it operational. Valuation makes it architectural.",
+      "summary": "All five active courses treat risk as foundational, but they assign it different jobs depending on the audience and the decision problem. Foundations defines the bargain behind return. Investment Philosophies makes risk lived and behavioral. Corporate Finance makes it operational. The two valuation courses make it architectural, with different levels of scaffolding.",
       "courses": [
         {
           "slug": "foundations-of-finance",
@@ -110,14 +122,26 @@
             "analysis/themes-and-subthemes.json",
             "site/index.html"
           ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "href": "../valuation-undergraduate-spring-2025/site/concepts/risk-and-discount-rates.html",
+          "focus": "Risk as a buildable valuation input set",
+          "emphasis": "Risk is taught as something students can assemble step by step through discount rates, beta judgments, equity risk premiums, and the discipline of matching assumptions to the business story.",
+          "evidence": [
+            "Sessions 8-12",
+            "analysis/themes-and-subthemes.json",
+            "site/concepts/risk-and-discount-rates.html"
+          ]
         }
       ],
-      "cross_course_takeaway": "The same teacher moves from risk as first principle, to investor experience, to corporate metric, to valuation architecture without treating those as separate intellectual worlds."
+      "cross_course_takeaway": "The same teacher moves from risk as first principle, to investor experience, to corporate metric, to two versions of valuation architecture without treating those as separate intellectual worlds."
     },
     {
       "id": "valuation-changes-with-the-decision-maker",
       "name": "Valuation Changes With The Decision Maker",
-      "summary": "Valuation appears in every course, but it means different things depending on who is making the decision. Foundations teaches claim logic, Investment Philosophies uses valuation to compare styles, Corporate Finance uses valuation to integrate managerial choices, and the Valuation course treats it as the subject itself.",
+      "summary": "Valuation appears in every course, but it means different things depending on who is making the decision. Foundations teaches claim logic, Investment Philosophies uses valuation to compare styles, Corporate Finance uses valuation to integrate managerial choices, and the two valuation courses treat it as the subject itself at different audience levels.",
       "courses": [
         {
           "slug": "foundations-of-finance",
@@ -166,14 +190,27 @@
             "analysis/themes-and-subthemes.json",
             "site/course-thesis.html"
           ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "href": "../valuation-undergraduate-spring-2025/site/course-thesis.html",
+          "focus": "Valuation as a sequenced craft",
+          "emphasis": "The course treats valuation as a serious craft that can be learned in visible stages, with explicit transitions from mechanics to storytelling, pricing, optionality, and recommendation-making.",
+          "evidence": [
+            "Sessions 1-28",
+            "analysis/course-thesis.md",
+            "analysis/concepts.json",
+            "site/course-thesis.html"
+          ]
         }
       ],
-      "cross_course_takeaway": "Valuation is a common language across the workspace, but the speaker changes: beginner, investor, manager, and dedicated valuer each use it for a different kind of judgment."
+      "cross_course_takeaway": "Valuation is a common language across the workspace, but the speaker changes: beginner, investor, manager, student valuer, and professional valuer each use it for a different kind of judgment."
     },
     {
       "id": "discipline-against-seduction",
       "name": "Discipline Against Seduction",
-      "summary": "Damodaran repeatedly attacks seductive simplifications, but the objects of temptation change by course. Foundations warns against loose nominal thinking, Investment Philosophies against tactical fascination, Corporate Finance against project and spreadsheet shortcuts, and the Valuation course against narrative without numeric discipline.",
+      "summary": "Damodaran repeatedly attacks seductive simplifications, but the objects of temptation change by course. Foundations warns against loose nominal thinking, Investment Philosophies against tactical fascination, Corporate Finance against project and spreadsheet shortcuts, the undergraduate valuation course against avoidance and procedural fuzziness, and the MBA valuation course against narrative without numeric discipline.",
       "courses": [
         {
           "slug": "foundations-of-finance",
@@ -222,6 +259,19 @@
             "analysis/themes-and-subthemes.json",
             "site/course-thesis.html"
           ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "href": "../valuation-undergraduate-spring-2025/site/concepts/valuation-as-a-doable-project.html",
+          "focus": "Execution discipline over vague familiarity",
+          "emphasis": "Students are pushed to pick a company, produce work on deadline, connect mechanics to recommendations, and stop hiding behind the appearance of partial understanding.",
+          "evidence": [
+            "Sessions 1, 14, 20-28",
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "site/concepts/valuation-as-a-doable-project.html"
+          ]
         }
       ],
       "cross_course_takeaway": "Different audiences, same teacherly instinct: force people past attractive simplifications into internally coherent reasoning."
@@ -229,7 +279,7 @@
     {
       "id": "fit-constraints-and-consistency",
       "name": "Fit, Constraints, And Consistency",
-      "summary": "A recurring Damodaran theme is that no framework is universally right. The right framework depends on who is acting, what is being valued, what constraints apply, and what nominal unit the whole exercise is using.",
+      "summary": "A recurring Damodaran theme is that no framework is universally right. The right framework depends on who is acting, what is being valued, what constraints apply, and what nominal unit the whole exercise is using. The undergraduate valuation course adds another layer by making the learner's execution constraint visible too.",
       "courses": [
         {
           "slug": "foundations-of-finance",
@@ -278,6 +328,19 @@
             "analysis/themes-and-subthemes.json",
             "site/index.html"
           ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "href": "../valuation-undergraduate-spring-2025/site/concepts/valuation-is-context-dependent.html",
+          "focus": "Method fit made legible for learners",
+          "emphasis": "The class repeatedly shows that growth, capital intensity, ownership setting, pricing language, and uncertainty all change the right tool, while keeping the distinctions visible enough for students to actually apply.",
+          "evidence": [
+            "Sessions 2-7, 18-27",
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "site/concepts/valuation-is-context-dependent.html"
+          ]
         }
       ],
       "cross_course_takeaway": "Across the full workspace Damodaran rejects abstract universals. Good finance is actor-sensitive, asset-sensitive, and consistency-sensitive."
@@ -285,7 +348,7 @@
     {
       "id": "stories-into-financial-claims",
       "name": "Stories Into Financial Claims",
-      "summary": "The courses repeatedly show that stories matter, but only when they become financial claims. Foundations does this at a stripped-down level through business structure and cash flows. The later courses repeat the same discipline in richer settings.",
+      "summary": "The courses repeatedly show that stories matter, but only when they become financial claims. Foundations does this at a stripped-down level through business structure and cash flows. The later courses repeat the same discipline in richer settings, and the undergraduate valuation course makes the translation process especially visible for learners.",
       "courses": [
         {
           "slug": "foundations-of-finance",
@@ -334,14 +397,27 @@
             "analysis/themes-and-subthemes.json",
             "site/concepts/stories-into-inputs.html"
           ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "href": "../valuation-undergraduate-spring-2025/site/concepts/storytelling-into-inputs.html",
+          "focus": "Narrative translation taught as an explicit bridge",
+          "emphasis": "Students are shown in a stepwise way how qualitative business talk has to become assumptions about growth, margins, reinvestment, survivability, and pricing contrast.",
+          "evidence": [
+            "Sessions 15-22",
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "site/concepts/storytelling-into-inputs.html"
+          ]
         }
       ],
-      "cross_course_takeaway": "Damodaran is not anti-story. He is anti-story that never becomes an explicit financial claim."
+      "cross_course_takeaway": "Damodaran is not anti-story. He is anti-story that never becomes an explicit financial claim, whether the audience is new to valuation or already operating professionally."
     },
     {
       "id": "markets-are-social-worlds",
       "name": "Markets Are Social Worlds",
-      "summary": "Across the workspace, markets are not treated as clean machines that simply absorb facts. They are social systems shaped by trust, legitimacy, authority, governance, ownership frictions, identity, and narrative circulation.",
+      "summary": "Across the workspace, markets are not treated as clean machines that simply absorb facts. They are social systems shaped by trust, legitimacy, authority, governance, ownership frictions, identity, narrative circulation, and audience-dependent interpretation.",
       "courses": [
         {
           "slug": "foundations-of-finance",
@@ -393,14 +469,241 @@
             "analysis/concepts.json",
             "site/concepts/intrinsic-value-vs-pricing.html"
           ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "href": "../valuation-undergraduate-spring-2025/site/concepts/intrinsic-value-versus-pricing.html",
+          "focus": "Social market language made teachable",
+          "emphasis": "The undergraduate course slows down the distinction between intrinsic value and pricing so learners can see how comparables, peer groups, mood, and market convention shape price without becoming value itself.",
+          "evidence": [
+            "Sessions 20-24",
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "site/concepts/intrinsic-value-versus-pricing.html"
+          ]
         }
       ],
-      "cross_course_takeaway": "Taken together, the courses show a consistent deeper claim: markets are built from claims and cash flows, but they are lived through institutions, governed by authority, and continually reshaped by social interpretation."
+      "cross_course_takeaway": "Taken together, the courses show a consistent deeper claim: markets are built from claims and cash flows, but they are lived through institutions, governed by authority, and continually reshaped by social interpretation at both student and professional levels."
+    },
+    {
+      "id": "capital-allocation-across-actors",
+      "name": "Capital Allocation Across Actors",
+      "summary": "Across the active workspace, capital allocation is not one topic but a stack of related decisions made by different actors. Foundations introduces the raw language of claims and cash flows. Investment Philosophies asks how investors allocate portfolios under uncertainty. Corporate Finance turns capital allocation into managerial discipline. The valuation courses show how reinvestment, payout, acquisitions, and value enhancement have to be judged inside a valuation frame.",
+      "courses": [
+        {
+          "slug": "foundations-of-finance",
+          "course_title": "Foundations of Finance",
+          "href": "../foundations-of-finance/site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html",
+          "focus": "Capital allocation starts with claim structure and cash-flow priority",
+          "emphasis": "Before anyone can allocate well, they need to understand who gets paid first, who bears residual risk, and why different cash-flow claims imply different economic tradeoffs.",
+          "evidence": [
+            "Sessions 6-9",
+            "analysis/themes-and-subthemes.json",
+            "site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html"
+          ]
+        },
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies 2026",
+          "href": "../investment-philosophies-2026/site/concepts/portfolio-fit-and-lived-consistency.html",
+          "focus": "Capital allocation as portfolio choice under lived constraints",
+          "emphasis": "The investor course treats allocation as a question of philosophy, reinvestment belief, risk tolerance, taxes, liquidity needs, and what an investor can actually keep doing through market stress.",
+          "evidence": [
+            "Sessions 2, 18-22, 38-43",
+            "analysis/concepts.json",
+            "site/concepts/portfolio-fit-and-lived-consistency.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "href": "../corporate-finance-spring-2025/site/course-thesis.html",
+          "focus": "Capital allocation as the core managerial job",
+          "emphasis": "Corporate Finance is explicit that project choice, hurdle rates, financing mix, debt design, and payout policy are all parts of one argument about capital allocation under constraints.",
+          "evidence": [
+            "Sessions 1-25",
+            "analysis/course-thesis.md",
+            "analysis/themes.json",
+            "site/course-thesis.html"
+          ]
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "course_title": "Valuation MBA Spring 2025",
+          "href": "../valuation-mba-spring-2025/site/concepts/growth-and-reinvestment.html",
+          "focus": "Capital allocation judged through reinvestment economics",
+          "emphasis": "The MBA valuation course keeps tying value to whether growth, margins, reinvestment, and payout assumptions form a coherent economic story rather than a free-form forecast.",
+          "evidence": [
+            "Sessions 11-18, 24-26",
+            "analysis/concepts.json",
+            "site/concepts/growth-and-reinvestment.html"
+          ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "href": "../valuation-undergraduate-spring-2025/site/concepts/growth-and-reinvestment.html",
+          "focus": "Capital allocation made visible through growth, reinvestment, and value enhancement",
+          "emphasis": "The undergraduate course teaches students to see that growth only matters when reinvestment is funded, and that acquisitions or value enhancement only work when post-control decisions genuinely improve the business.",
+          "evidence": [
+            "Sessions 9-12, 26-27",
+            "analysis/concepts.json",
+            "analysis/themes-and-subthemes.json",
+            "site/concepts/growth-and-reinvestment.html"
+          ]
+        }
+      ],
+      "cross_course_takeaway": "The courses align on a deep rule: capital allocation is never abstract. It always belongs to a specific actor facing specific cash-flow rights, constraints, and decision consequences."
+    },
+    {
+      "id": "control-governance-and-decision-rights",
+      "name": "Control, Governance, And Decision Rights",
+      "summary": "Another recurring layer across the workspace is that value depends on who has the right to decide, who bears the consequences, and whether control can actually change outcomes. Foundations introduces differentiated claims. Investment Philosophies questions investor fantasies of control. Corporate Finance makes governance explicit. The valuation courses show when control, ownership, and strategic change legitimately alter value.",
+      "courses": [
+        {
+          "slug": "foundations-of-finance",
+          "course_title": "Foundations of Finance",
+          "href": "../foundations-of-finance/site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html",
+          "focus": "Decision rights begin with claim design",
+          "emphasis": "The foundations course sets the base logic: bonds, equity, and options do not just differ in payout. They embed different rights, risks, and exposure to what managers do next.",
+          "evidence": [
+            "Sessions 7-9",
+            "analysis/themes-and-subthemes.json",
+            "site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html"
+          ]
+        },
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies 2026",
+          "href": "../investment-philosophies-2026/site/concepts/active-vs-passive-and-the-control-fantasy.html",
+          "focus": "Investor control is usually overstated",
+          "emphasis": "Investment Philosophies repeatedly argues that investors exaggerate their foresight, timing power, and influence, which turns active skill claims into a governance question about what control portfolio owners really have.",
+          "evidence": [
+            "Sessions 9-11, 30-42",
+            "analysis/concepts.json",
+            "site/concepts/active-vs-passive-and-the-control-fantasy.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "href": "../corporate-finance-spring-2025/site/concepts/corporate-governance.html",
+          "focus": "Governance decides whose objective function wins",
+          "emphasis": "The corporate finance course makes control formal: weak governance lets politics masquerade as finance, while strong governance ties investment, financing, and payout choices back to a defensible objective function.",
+          "evidence": [
+            "Sessions 1-5",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md",
+            "site/concepts/corporate-governance.html"
+          ]
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "course_title": "Valuation MBA Spring 2025",
+          "href": "../valuation-mba-spring-2025/site/concepts/control-value.html",
+          "focus": "Control matters only when it can change the asset",
+          "emphasis": "The MBA valuation course treats control as economically meaningful only when ownership changes can alter policy, operations, payout, or strategic direction enough to justify a different value.",
+          "evidence": [
+            "Sessions 24-26",
+            "analysis/concepts.json",
+            "analysis/themes-and-subthemes.json",
+            "site/concepts/control-value.html"
+          ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "href": "../valuation-undergraduate-spring-2025/site/concepts/acquisition-and-value-enhancement.html",
+          "focus": "Control becomes teachable through private-company and acquisition cases",
+          "emphasis": "The undergraduate course slows down control enough for students to see that illiquidity, owner type, acquisition rights, and post-deal decision changes are the real reasons value can move after control changes hands.",
+          "evidence": [
+            "Sessions 23-27",
+            "analysis/concepts.json",
+            "analysis/themes-and-subthemes.json",
+            "site/concepts/acquisition-and-value-enhancement.html"
+          ]
+        }
+      ],
+      "cross_course_takeaway": "Across the workspace, control is never valuable by slogan alone. It matters only when decision rights are real, governance is credible, and changed control can produce changed cash flows, risk, or strategic outcomes."
+    },
+    {
+      "id": "pedagogy-and-audience-translation",
+      "name": "Pedagogy And Audience Translation",
+      "summary": "The active workspace now shows that Damodaran is not just repeating the same finance content in different playlists. He changes explanatory posture depending on the learner and decision context. Foundations teaches grammar. Investment Philosophies teaches worldview. Corporate Finance teaches decision architecture. Valuation Undergraduate teaches sequenced execution. Valuation MBA teaches compressed professional judgment.",
+      "courses": [
+        {
+          "slug": "foundations-of-finance",
+          "course_title": "Foundations of Finance",
+          "href": "../foundations-of-finance/site/concepts/finance-is-a-forward-looking-language-of-business.html",
+          "focus": "Teach finance as basic grammar",
+          "emphasis": "The introductory course strips finance down to claims, cash flows, time, inflation, rates, and currencies so later specialization has a stable language to build on.",
+          "evidence": [
+            "Sessions 1-13",
+            "analysis/themes-and-subthemes.json",
+            "site/concepts/finance-is-a-forward-looking-language-of-business.html"
+          ]
+        },
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies 2026",
+          "href": "../investment-philosophies-2026/site/course-thesis.html",
+          "focus": "Teach investors to build a coherent worldview",
+          "emphasis": "The investing course is less about procedural mechanics and more about helping learners decide what kind of investor they are, what edge claims are believable, and what philosophy they can actually live with.",
+          "evidence": [
+            "Sessions 1-43",
+            "analysis/course-thesis.md",
+            "analysis/themes-and-subthemes.json",
+            "site/course-thesis.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "href": "../corporate-finance-spring-2025/site/course-thesis.html",
+          "focus": "Teach managers a decision architecture",
+          "emphasis": "Corporate Finance is organized as a managerial operating system: establish the objective function, judge projects, set financing policy, design debt, choose payout, and then integrate the whole stack into value.",
+          "evidence": [
+            "Sessions 1-25",
+            "analysis/course-thesis.md",
+            "analysis/session-briefs.md",
+            "site/course-thesis.html"
+          ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "href": "../valuation-undergraduate-spring-2025/site/course-thesis.html",
+          "focus": "Teach valuation as sequenced execution",
+          "emphasis": "The undergraduate valuation course makes the sequence explicit and keeps tying it to deadlines, project work, and recommendation-making so students experience valuation as a doable craft rather than an expert ritual.",
+          "evidence": [
+            "Sessions 1-28",
+            "analysis/course-thesis.md",
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "site/course-thesis.html"
+          ]
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "course_title": "Valuation MBA Spring 2025",
+          "href": "../valuation-mba-spring-2025/site/course-thesis.html",
+          "focus": "Teach valuation as compressed professional judgment",
+          "emphasis": "The MBA course assumes more fluency and concentrates on translation quality, consistency, pricing language, optionality, control, and how a professional analyst holds the full valuation system together.",
+          "evidence": [
+            "Sessions 1-26",
+            "analysis/course-thesis.md",
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "site/course-thesis.html"
+          ]
+        }
+      ],
+      "cross_course_takeaway": "The same thinker is using different teaching forms for different jobs. The workspace therefore captures not only Damodaran's finance ideas, but his theory of how those ideas must be taught, staged, and translated for different audiences."
     }
   ],
   "recommended_next_comparisons": [
-    "Control across investor action, governance structure, and acquisition premiums",
-    "Capital allocation from portfolio choice to project choice to reinvestment economics",
-    "How pedagogy changes when Damodaran moves from beginner grammar to investor worldview to managerial architecture to professional valuation compression"
+    "How social legitimacy, governance quality, and narrative permission differ across sectors and company types",
+    "How business-system differences change the right balance between growth, reinvestment, payout, and optionality"
   ]
 }
