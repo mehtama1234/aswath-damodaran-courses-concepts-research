@@ -31,6 +31,11 @@ This is not a case where momentum is irrelevant. It is a case where momentum
 has to be translated into explicit assumptions before it deserves valuation
 weight.
 
+It is also a legitimacy case. DraftKings operates only because regulators
+permit the category, customers trust payouts and platform behavior, and markets
+continue believing that a normalized legal framework will eventually support
+better economics than the current promotional fight suggests.
+
 ## Business Model And Customer Logic
 
 DraftKings is best read not just as a sportsbook, but as a regulated digital
@@ -48,6 +53,13 @@ The key questions are:
 2. Does product depth create real habit or just repeated promotional response?
 3. How much optionality exists in cross-sell and adjacent products?
 4. How much of the story depends on legal expansion continuing cleanly?
+
+The deeper analytical split is between user acquisition, durable attachment,
+and monetization permission. DraftKings can look powerful if the market treats
+repeat activity as if it already proves loyalty and attractive customer
+economics. A stronger reading asks how much of that activity persists once
+promotions fall, event intensity cools, or the novelty of category access
+wears off.
 
 ## Narrative, Identity, And Behavioral Demand
 
@@ -67,6 +79,19 @@ The real behavioral questions are:
 This is where the investor-identity and consumer clusters overlap. The category
 invites both consumer and investor fantasies about edge and scale.
 
+That also makes DraftKings a proof-standards case. Periods of strong user
+momentum can make the market treat category normalization as if it were already
+evidence of durable profitability. The company may deserve strategic credit,
+but the analyst still has to decide whether the current price is rewarding
+demonstrated cohort quality or rewarding the comfort of a clean legalization-
+and-scale story.
+
+The stronger root system matters here because DraftKings sits where user
+identity, investor identity, and monetization permission all overlap. Heavy
+activity can come from entertainment demand, speculative behavior, social
+participation, or promotional opportunism. Those are not interchangeable
+economically even when the app metrics look equally impressive.
+
 ## Pricing, Optionality, And Valuation Framing
 
 DraftKings is also a pricing and optionality case. The company may eventually
@@ -85,6 +110,23 @@ assumptions about:
 
 The point is not to deny the category. It is to ask what level of behavioral
 durability and operating leverage the current valuation is already demanding.
+
+The stronger root logic is useful here because it keeps three different ideas
+separate:
+
+- visible engagement
+- real attachment
+- economics that remain attractive after incentive spending and regulatory
+  friction are fully recognized
+
+It also separates market authority from business authority. DraftKings can be a
+high-visibility category leader and still have weaker long-run unit economics
+than the market is implicitly granting. Brand centrality is not the same as
+fully earned profitability.
+
+The simple version is that popularity is not proof. A betting platform can be
+busy, famous, and strategically well placed while still not earning enough
+economically durable value to justify a clean growth multiple.
 
 ## What Would Change The Thesis
 

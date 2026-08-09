@@ -51,6 +51,13 @@ This is where the workspace's consumer and cultural synthesis matters. Luxury
 customers are not only buying an object. They are often buying recognition,
 continuity, belonging, or proof of taste.
 
+The more exact analytical distinction is between adoption, attachment, and
+monetization permission. A luxury house can attract attention or even first
+purchase without earning the deeper attachment that supports gifting, repeat
+purchase, waiting tolerance, and resilient price acceptance. That is why
+headline demand is not enough. The sector has to be judged on what type of
+relationship the customer is actually entering.
+
 ## Industry Structure
 
 Luxury is not one business model. The sector contains at least several
@@ -86,6 +93,12 @@ geographic concentration, counterfeit pressure, execution mistakes, or the
 possibility that a brand slowly dilutes itself while still looking healthy in
 headline numbers.
 
+This is also a proof-standards problem. Luxury brands often receive unusually
+gentle market scrutiny because prestige itself feels like evidence. The right
+question is whether the current valuation is being supported by demonstrated
+customer durability and controlled scarcity, or by the market's willingness to
+treat admiration as if it were already economic proof.
+
 ## Reinvestment, Scarcity, And Margin Quality
 
 Luxury can appear wonderfully asset-light if the analyst only watches reported
@@ -106,6 +119,12 @@ The key questions are:
 This is a sector where margin quality and reinvestment quality are tightly
 linked. A luxury brand can report strong margins while quietly eroding the very
 conditions that made those margins possible.
+
+That is exactly where the stronger root theme system matters. Scarcity only has
+value if management protects the institutional and social conditions that make
+customers accept the scarcity as legitimate rather than manipulative. In other
+words, reinvestment is not only operational here. It is also a defense of
+proof standards around craftsmanship, service, and symbolic credibility.
 
 ## Institutional Trust And Social Permission
 

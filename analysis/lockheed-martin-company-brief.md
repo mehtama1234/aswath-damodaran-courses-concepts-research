@@ -29,6 +29,11 @@ headline backlog size. The real task is deciding how much of the franchise is
 durable economics and how much the market is granting as a prestige premium for
 being central to a strategically important category.
 
+That makes Lockheed Martin a proof-standards case as well. Strategic relevance,
+government visibility, and national-security importance can all make investors
+less demanding about the exact quality of backlog, the durability of program
+economics, and the future cost of maintaining capability.
+
 ## Business Model And Program Logic
 
 Lockheed Martin is best read not just as a diversified defense contractor, but
@@ -47,6 +52,11 @@ The key questions are:
 This matters because a defense prime can look diversified while still being
 economically dependent on a few large relationships and decisions.
 
+The deeper root-theme issue is that the company monetizes institutional
+permission, not just engineering work. Contracts, export approvals, allied
+sales, and program continuity all depend on being trusted as a politically and
+operationally acceptable steward of long-lived defense systems.
+
 ## Trust, Procurement, And Institutional Dependence
 
 Lockheed Martin is a clear trust-and-institutions case. Its economics depend on
@@ -64,6 +74,12 @@ The real questions are:
 This is where institutional dependence becomes a real economic variable rather
 than background context.
 
+The stronger root system matters here because backlog and trust are not the same
+thing as unconstrained durability. A program can remain politically hard to
+replace while still facing weaker margins, shifting strategic emphasis, or
+higher execution burden. That is exactly why institutional legitimacy has to be
+separated from pure economic proof.
+
 ## Capital Allocation And Program Discipline
 
 Lockheed Martin is also a capital-allocation case. Management has to decide how
@@ -80,6 +96,11 @@ The key issues are:
 
 This is a company where capital allocation cannot be separated from strategic
 position.
+
+It is also where governance credibility matters. Shareholder return can look
+comforting in a contractor with visible backlog, but the real question is
+whether management is protecting future technical relevance and execution
+quality or simply harvesting a franchise that still looks politically secure.
 
 ## Risk And Valuation Framing
 
@@ -99,6 +120,11 @@ trust.
 
 The point is not to deny the franchise strength. It is to ask what the current
 price is already assuming about future execution and political durability.
+
+Lockheed Martin is therefore also an investor-identity case in a muted form.
+For many holders it represents seriousness, institutional embeddedness, and
+strategic indispensability. That can be valid, but it can also make the market
+too willing to convert prestige into permanence.
 
 ## What Would Change The Thesis
 

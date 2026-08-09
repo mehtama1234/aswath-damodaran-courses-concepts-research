@@ -64,6 +64,12 @@ The key questions are:
 This is a sector where adoption can be visible long before loyalty or margin
 durability is proven.
 
+The stronger consumer-and-market distinction is between attention, recurring
+workflow dependence, and monetization permission. Many platforms show clear
+adoption during speculative periods, but the harder question is whether users
+return because the platform is embedded in their operating life or because the
+market cycle has temporarily made activity feel urgent and profitable.
+
 ## Trust, Legitimacy, And Regulatory Permission
 
 Trust is central in digital asset platforms, but it appears in an unusual form.
@@ -81,6 +87,13 @@ That creates a distinctive legitimacy problem:
 
 This is why legitimacy is part of the business model, not just a legal
 constraint around it.
+
+It is also a proof-standards issue. In hot phases, markets often accept user
+growth, volume, or institutional partnership announcements as if they were
+already proof of durable economics. In cold phases, the proof standard snaps
+back violently. That means analysts should ask which parts of the current
+valuation depend on genuine workflow depth and which parts depend on a market
+temporarily granting narrative permission to the category.
 
 ## Pricing, Optionality, And Narrative Extension
 
@@ -117,6 +130,12 @@ That shapes the market in predictable ways:
 
 The mistake is not taking the category seriously. The mistake is letting the
 identity charge of the category replace valuation work.
+
+This is one of the clearest sectors where investor identity and legitimacy
+interact directly. The same anti-establishment energy that attracts early
+adopters can later collide with the institutional credibility required for
+durable economics. That tension should be treated as part of the business
+model, not as outside commentary.
 
 ## Root Concept Links
 

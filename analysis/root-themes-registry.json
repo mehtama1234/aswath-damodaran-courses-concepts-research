@@ -10,11 +10,33 @@
       "domain": "societal",
       "summary": "Markets are shaped by trust, legitimacy, institutional credibility, and the permission granted to narratives, managers, and asset classes.",
       "why_it_matters": "Useful when a sector or company is being priced partly on patience, credibility, or social belief rather than only near-term economics.",
+      "subthemes": [
+        {
+          "id": "institutional-credibility-sets-proof-standards",
+          "name": "Institutional Credibility Sets Proof Standards",
+          "summary": "The market does not demand the same proof from every business, manager, or asset class. Credible institutions and familiar claim structures often receive more patience and lighter near-term scrutiny."
+        },
+        {
+          "id": "narratives-travel-through-trusted-authorities",
+          "name": "Narratives Travel Through Trusted Authorities",
+          "summary": "Stories gain force when they are carried by respected managers, famous investors, analysts, or institutional brands rather than standing alone as raw claims."
+        },
+        {
+          "id": "social-permission-can-outrun-economic-proof",
+          "name": "Social Permission Can Outrun Economic Proof",
+          "summary": "Markets sometimes capitalize legitimacy, category status, or institutional comfort before the economics are fully proven, which changes both multiples and tolerance for inconsistency."
+        }
+      ],
       "guiding_questions": [
         "Who is being granted credibility and why?",
         "What kind of proof does this market currently demand?",
         "Is patience coming from economics, trust, or fashion?",
         "Which institutions or authorities are carrying the narrative?"
+      ],
+      "downstream_applications": [
+        "High-multiple sectors where credibility stretches duration assumptions",
+        "Regulated or trust-sensitive industries where permission to operate matters",
+        "Manager-dependent companies where legitimacy and capital access reinforce each other"
       ],
       "course_links": [
         {
@@ -41,11 +63,33 @@
       "domain": "cultural",
       "summary": "Investor behavior is shaped by identity, style loyalty, control fantasies, and the need for discipline against tactical seduction and self-deception.",
       "why_it_matters": "Useful when writing about speculative sectors, style tribes, active/passive debates, momentum stories, and the cultural appeal of skill claims.",
+      "subthemes": [
+        {
+          "id": "style-belonging-shapes-decision-quality",
+          "name": "Style Belonging Shapes Decision Quality",
+          "summary": "Investors often inherit beliefs from style tribes and identity commitments before they derive a coherent philosophy, which can make decisions look principled when they are mostly social."
+        },
+        {
+          "id": "control-fantasy-is-a-recurring-market-product",
+          "name": "Control Fantasy Is A Recurring Market Product",
+          "summary": "Timing, stock-picking certainty, insider mystique, and tactical complexity often sell the emotional promise of control more than they deliver durable edge."
+        },
+        {
+          "id": "discipline-protects-against-self-deception",
+          "name": "Discipline Protects Against Self-Deception",
+          "summary": "The practical defense is not sterile skepticism but repeatable discipline: matching strategy to temperament, respecting friction, and refusing to confuse activity with skill."
+        }
+      ],
       "guiding_questions": [
         "What identity or style commitment is driving the decision?",
         "Where is the desire for control outrunning the evidence?",
         "What behavior is principled and what is only market theater?",
         "What discipline would prevent self-deception here?"
+      ],
+      "downstream_applications": [
+        "Speculative sectors where investors are buying identity as much as economics",
+        "Market narratives built around genius, access, or timing skill",
+        "Company or fund stories that benefit from theatrical claims of edge"
       ],
       "course_links": [
         {
@@ -68,11 +112,33 @@
       "domain": "consumer",
       "summary": "Consumer businesses are often driven by attachment, brand, taste, reassurance, and monetization permission, not just raw user growth.",
       "why_it_matters": "Useful when analyzing sectors where social adoption or brand energy arrives before durable pricing power or proven unit economics.",
+      "subthemes": [
+        {
+          "id": "adoption-is-not-the-same-as-attachment",
+          "name": "Adoption Is Not The Same As Attachment",
+          "summary": "Early user growth can come from novelty, distribution, or incentives without creating a durable emotional or habitual relationship."
+        },
+        {
+          "id": "premium-positioning-creates-both-power-and-obligation",
+          "name": "Premium Positioning Creates Both Power And Obligation",
+          "summary": "Premium brands and high-status consumer systems can command price, but they must continuously protect taste, trust, service level, and symbolic distance from substitutes."
+        },
+        {
+          "id": "monetization-permission-is-a-distinct-economic-step",
+          "name": "Monetization Permission Is A Distinct Economic Step",
+          "summary": "Engagement, loyalty, or cultural heat only becomes value when the business is genuinely allowed to translate attention into price, margin, retention, or cross-sell."
+        }
+      ],
       "guiding_questions": [
         "Is adoption becoming durable attachment?",
         "What gives this business permission to charge more?",
         "Is the demand story economic, cultural, or both?",
         "Can the business convert engagement into defensible cash flow?"
+      ],
+      "downstream_applications": [
+        "Premium consumer brands where taste and reassurance shape economics",
+        "Platform or subscription businesses with high engagement but unclear monetization quality",
+        "Consumer narratives where excitement may be promotion-driven rather than durable"
       ],
       "course_links": [
         {
@@ -95,11 +161,33 @@
       "domain": "industrial",
       "summary": "Different business systems require different valuation logic, and growth only matters when reinvestment quality, industry structure, and optionality are understood.",
       "why_it_matters": "Useful when sectors differ materially in capital intensity, timing, ownership, option value, or the way competitive edge is protected or copied.",
+      "subthemes": [
+        {
+          "id": "business-system-diagnosis-comes-before-model-choice",
+          "name": "Business-System Diagnosis Comes Before Model Choice",
+          "summary": "The analyst must first decide what kind of asset, claim, and operating system is being evaluated before choosing valuation shortcuts or peer sets."
+        },
+        {
+          "id": "growth-quality-depends-on-reinvestment-economics",
+          "name": "Growth Quality Depends On Reinvestment Economics",
+          "summary": "Growth only deserves value when the reinvestment required to sustain it is economically credible rather than hidden behind category excitement."
+        },
+        {
+          "id": "optionality-is-real-only-in-specific-structures",
+          "name": "Optionality Is Real Only In Specific Structures",
+          "summary": "Not every uncertain future deserves an option premium. Real optionality depends on timing rights, contingent claims, scarce assets, or operating situations where flexibility has genuine economic leverage."
+        }
+      ],
       "guiding_questions": [
         "What kind of business system is this?",
         "Is growth being funded credibly?",
         "Is optionality real or only a vague hope premium?",
         "Does scale strengthen the edge or attract imitation?"
+      ],
+      "downstream_applications": [
+        "Sector comparisons where one default multiple hides different business systems",
+        "Growth sectors where reinvestment burden is easy to ignore",
+        "Special situations involving platforms, natural resources, distress, patents, or network effects"
       ],
       "course_links": [
         {
@@ -126,11 +214,33 @@
       "domain": "institutional",
       "summary": "Value changes when governance quality, control rights, payout logic, and capital allocation discipline change, but only when those decisions alter real economics.",
       "why_it_matters": "Useful when a company or sector story hinges on management quality, acquisition logic, payout credibility, ownership structure, or post-control improvement claims.",
+      "subthemes": [
+        {
+          "id": "objective-function-conflicts-shape-outcomes",
+          "name": "Objective-Function Conflicts Shape Outcomes",
+          "summary": "The key governance question is whose objective actually governs the capital base: managers, controlling owners, dispersed shareholders, lenders, or political stakeholders."
+        },
+        {
+          "id": "control-only-matters-when-decisions-change",
+          "name": "Control Only Matters When Decisions Change",
+          "summary": "Control premiums and acquisition stories are justified only when new control can redirect investment, payout, financing, or operating discipline in a way that changes future cash flows."
+        },
+        {
+          "id": "payout-and-financing-choices-are-also-signals",
+          "name": "Payout And Financing Choices Are Also Signals",
+          "summary": "Debt, dividends, buybacks, and reinvestment do not only affect cash mechanically. They also signal confidence, scarcity of opportunities, or fragility in the business model."
+        }
+      ],
       "guiding_questions": [
         "Who controls the decisions that matter?",
         "Is payout disciplined by investment opportunity or masking weak reinvestment?",
         "Can a new controller actually improve capital allocation?",
         "Are governance and financing structures helping or hurting endurance?"
+      ],
+      "downstream_applications": [
+        "Management-quality stories where capital allocation is the real differentiator",
+        "Acquisition or activist situations where control value may be overstated",
+        "Capital-intensive businesses where payout and leverage choices carry heavy signaling weight"
       ],
       "course_links": [
         {
@@ -157,11 +267,33 @@
       "domain": "pedagogical",
       "summary": "The same finance ideas are taught differently depending on whether the audience needs grammar, worldview, managerial architecture, sequenced execution, or compressed professional judgment.",
       "why_it_matters": "Useful for course-building, curriculum design, and for deciding how analytical material should be explained to different levels of reader or learner.",
+      "subthemes": [
+        {
+          "id": "grammar-before-compression",
+          "name": "Grammar Before Compression",
+          "summary": "Beginners need claims, time, cash-flow language, and basic sequencing before they can handle professional compression or advanced judgment calls."
+        },
+        {
+          "id": "audience-changes-pace-and-surface-language",
+          "name": "Audience Changes Pace And Surface Language",
+          "summary": "The underlying finance logic can stay stable while the teacher changes pacing, examples, terminology, and visible workflow depending on who needs to use it."
+        },
+        {
+          "id": "good-translation-preserves-rigor-while-lowering-friction",
+          "name": "Good Translation Preserves Rigor While Lowering Friction",
+          "summary": "The point of translation is not simplification for its own sake. It is to make serious reasoning usable without hiding the constraints that matter."
+        }
+      ],
       "guiding_questions": [
         "Does this audience need grammar, worldview, workflow, or compression?",
         "What should be made explicit instead of assumed?",
         "Which explanation style makes the idea usable rather than ornamental?",
         "What sequencing prevents confusion without flattening the idea?"
+      ],
+      "downstream_applications": [
+        "Designing new course outlines or reader-facing finance explainers",
+        "Translating advanced valuation or governance ideas for broader audiences",
+        "Structuring HTML outputs so interpretation stays simple without becoming thin"
       ],
       "course_links": [
         {

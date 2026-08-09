@@ -71,6 +71,12 @@ This is where Damodaran's control logic matters directly. Control is not magic.
 It is only worth something when changed control plausibly changes future cash
 flows, growth, risk, or capital efficiency.
 
+That also makes this a proof-standards case. Private equity firms often benefit
+from an aura of sophistication that makes control claims sound more economic
+than they have yet proved themselves to be. The stronger root framework pushes
+back by separating genuine operating improvement from leverage, timing, and the
+market's willingness to grant prestige the benefit of the doubt.
+
 ## Fundraising, Trust, And Institutional Permission
 
 Private equity economics are also built on trust. Limited partners have to
@@ -87,6 +93,22 @@ That creates a strong legitimacy layer:
 
 This is why prestige and institutional trust are part of the business model,
 not just branding around it.
+
+It is also why fundraising strength should not be treated as self-validating.
+Capital inflows can reflect real manager quality, but they can also reflect the
+social authority of scale, access, and brand at a moment when institutions are
+eager to outsource judgment. That means AUM growth is a weak proof standard on
+its own.
+
+This is also where the downstream teaching value of the workspace matters. In
+plain language, private equity should not be read as "smart money therefore
+better economics." It should be read as a system that sometimes creates real
+value and sometimes benefits from institutional deference that makes weak proof
+look stronger than it is.
+
+The simple version is that prestige is not performance. The sector only
+deserves a premium when the control story, the fee story, and the realized
+value story all hold up at the same time.
 
 ## Capital Allocation, Carry, And Valuation Traps
 

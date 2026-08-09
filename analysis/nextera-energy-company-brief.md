@@ -67,6 +67,12 @@ The real issues are:
 This is a case where growth and capital allocation have to be read as one
 system.
 
+That also makes NextEra a proof-standards case. Capital investment can look
+virtuous by default when it arrives wrapped in utility safety and energy-
+transition language. The stronger root framework asks whether the spending plan
+is proving attractive economics or whether the market is lowering its burden of
+proof because the company sounds both safe and future-facing.
+
 ## Trust, Regulation, And Narrative Premium
 
 NextEra also depends heavily on trust. Regulators must trust capital plans.
@@ -77,6 +83,20 @@ The analytical question is whether that premium still reflects real economic
 advantages or has become partly a habit built around reputation and style.
 
 This is where institutional trust and narrative permission matter directly.
+
+The premium is therefore not only about operating quality. It is also about the
+market's willingness to grant NextEra a friendlier interpretation than it would
+grant an ordinary utility with the same financing needs. A disciplined read
+separates genuine advantage from prestige that has become self-reinforcing.
+
+The simpler way to say it is that NextEra has to earn two claims at once: that
+it is a solid utility and that it deserves to be treated as more than a utility.
+The valuation gets dangerous when the second claim starts floating too far
+above the first.
+
+The plain-language version is that growth language does not make capital
+intensity disappear. NextEra still has to prove that the higher-growth story is
+creating returns that justify the higher premium.
 
 ## Risk And Valuation Framing
 

@@ -30,6 +30,11 @@ brand is so familiar. The real task is deciding how much of the franchise
 strength is still compounding cleanly and how much of the premium valuation is
 already assuming flawless execution of a very mature global system.
 
+That also makes McDonald's a proof-standards case. The company benefits from a
+level of everyday legitimacy that lowers skepticism by default. Investors,
+consumers, and franchisees all understand the system so well that continuity
+itself can start being treated as evidence of future strength.
+
 ## Business Model And System Logic
 
 McDonald's is best read not just as a restaurant chain, but as a franchised
@@ -66,6 +71,12 @@ The analytical question is always:
 This is where consumer attachment and monetization permission become economic
 variables rather than marketing language.
 
+The stronger root-theme system matters here because attachment in McDonald's is
+rarely luxurious or aspirational. It is practical, routine, family-coded, and
+convenience-heavy. That can still be enormously valuable, but it means the
+analyst has to judge exactly how much permission the company truly has to push
+price, mix, and operating complexity before habit turns into resistance.
+
 ## Growth, Reinvestment, And Capital Allocation
 
 McDonald's is also a growth-and-capital-allocation case. The company is mature,
@@ -83,6 +94,11 @@ The real questions are:
 This is a case where capital allocation has to be judged against the durability
 of a mature but still highly consequential operating system.
 
+It is also where management legitimacy can hide strain. A franchise as mature
+and operationally polished as McDonald's can keep looking healthy at the
+corporate level even if franchisees are carrying more burden, unit economics
+are getting tighter, or buybacks are being favored over system reinvestment.
+
 ## Trust, Brand, And System Health
 
 McDonald's also depends on trust:
@@ -94,6 +110,12 @@ McDonald's also depends on trust:
 This is not soft context around the business. It is part of the business. A
 global franchise system can look extremely stable on the surface while slowly
 weakening the conditions that made the economics attractive in the first place.
+
+That means the company should be read through both trust and governance.
+Consumer trust, franchisee trust, and investor trust do not weaken at the same
+time or in the same way. A mature system can preserve one form of trust while
+quietly eroding another, which is exactly why a familiar company still needs a
+hard proof standard.
 
 ## Valuation Framing
 

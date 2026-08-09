@@ -30,6 +30,12 @@ This is a sector where the revenue can look stable while the underlying
 economics remain highly sensitive to pricing competition, upgrade cycles, and
 capital allocation mistakes.
 
+It is also a proof-standards sector because low churn, recurring billing, and
+essential-service status can make investors assume durability too quickly. A
+subscription relationship may be real without being especially profitable once
+promotions, device economics, spectrum costs, and network reinvestment are
+fully counted.
+
 ## Consumer And Demand Layer
 
 Wireless demand has real habit in it. Customers often stay because switching is
@@ -49,6 +55,18 @@ The key questions are:
 
 This is a consumer sector where monetization permission exists, but only inside
 an intensely competitive infrastructure market.
+
+The stronger root framework matters here because wireless combines habit,
+workflow necessity, and institutional trust. Customers often stay not because
+they feel deep attachment to a carrier but because the service is embedded in
+daily life, family coordination, work access, and emergency reliability. That
+is a valuable relationship, but it is not the same as unconstrained pricing
+power.
+
+It is also a legitimacy sector. Carriers monetize not only service usage but
+institutional permission to operate critical communications infrastructure under
+regulatory rules, spectrum allocation, and public expectations around
+reliability and coverage.
 
 ## Business-System Layer
 
@@ -86,6 +104,18 @@ The key questions are:
 This is a category where a capital decision made today can shape returns for
 years.
 
+It is also where investor identity can distort interpretation. Wireless
+operators are sometimes treated as bond-like stability stories and sometimes as
+share-gaining challengers. Both narratives can be too clean. The analyst has
+to ask whether present valuation is being shaped by real economics or by the
+comfort of placing the company into a familiar market role.
+
+This is also where governance matters. Management teams can make a carrier look
+more durable than it is by leaning on promotions, device financing, or balance-
+sheet expansion to protect headline subscriber metrics. The real question is
+whether capital is producing better network economics or only preserving the
+appearance of momentum.
+
 ## Trust, Regulation, And Valuation Traps
 
 Wireless also depends on trust and institutional structure:
@@ -103,6 +133,15 @@ The recurring traps are:
 4. using one sector multiple across materially different balance-sheet and
    spectrum positions
 5. mistaking network essentiality for automatic valuation attractiveness
+
+Another trap is treating coverage claims or speed rankings as a proof
+substitute. They matter, but only insofar as they create better pricing,
+retention, or capital efficiency than competitors can reasonably match.
+
+Another trap is treating enterprise, broadband, or fixed-wireless adjacency as
+automatic upside. Those businesses may deepen the franchise, but they also test
+whether the carrier can extend trust and infrastructure advantage into new
+economics rather than simply broadening the story.
 
 ## Root Concept Links
 

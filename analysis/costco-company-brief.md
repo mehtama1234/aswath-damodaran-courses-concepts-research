@@ -28,6 +28,11 @@ This makes Costco a good test of whether the analyst can read quality through
 behavior, incentives, and economic structure instead of only through headline
 margin percentages.
 
+It also makes Costco a proof-standards case. The company is so widely admired
+for restraint, customer fairness, and operational sanity that markets can begin
+using those qualities as a shortcut rather than as claims that still need to be
+translated into explicit assumptions.
+
 ## Business Model And Revenue Logic
 
 Costco's business model is not just selling goods at low prices. It is a
@@ -45,6 +50,12 @@ The deeper questions are:
 This is a company where the formal revenue lines do not fully capture the
 behavioral and institutional logic of the system.
 
+The stronger root-theme system matters here because Costco sits at an unusual
+point between attachment and permission. Members may not feel luxury-style
+attachment, but they do grant the company recurring permission to shape basket
+behavior, trip frequency, and renewal economics because the relationship feels
+honest, useful, and repeatedly worth keeping.
+
 ## Customer Behavior And Trust
 
 Customer behavior is central here. Costco's real asset includes:
@@ -58,6 +69,12 @@ Customer behavior is central here. Costco's real asset includes:
 This is where trust and institutions become economically visible. A company can
 generate loyalty not by maximizing short-term margin, but by making the
 customer believe the bargain is durable and fair.
+
+That trust is also a form of legitimacy. Costco's economics depend not only on
+price and assortment, but on the consumer belief that management will keep the
+system broadly aligned with member interests. Once a business is trusted in
+that way, the proof standard can become too loose unless the analyst forces the
+behavioral story back into numbers.
 
 ## Market Narrative
 
@@ -73,6 +90,11 @@ The disciplined question is whether those qualities are already being priced as
 permanent certainties. A high-quality company can still become a difficult
 investment if the narrative gets too clean relative to the economic range of
 possible outcomes.
+
+Costco is therefore also an investor-identity case in a quieter form than more
+speculative companies. Owning it can signal taste for discipline, patience, and
+quality without drama. That can be deserved, but it can also soften valuation
+skepticism precisely because the company feels morally and operationally clean.
 
 ## Margin, Reinvestment, And Capital Allocation
 
@@ -93,6 +115,13 @@ The key questions are:
 This is a strong capital-allocation case because the company can create value
 through disciplined restraint, not only through visible expansion or financial
 engineering.
+
+That is also where governance matters. Management can protect the model by
+keeping the member bargain credible, the employee system functional, and the
+store base disciplined. But if the company ever starts leaning on its own
+reputation as an excuse for looser expansion, thinner value perception, or more
+performative capital return, the franchise can remain admired while the
+economics quietly weaken.
 
 ## Life-Cycle Position
 

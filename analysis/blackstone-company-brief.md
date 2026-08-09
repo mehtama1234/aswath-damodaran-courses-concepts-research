@@ -68,6 +68,12 @@ The disciplined question is not whether that can ever happen. It is:
 This is where Damodaran's control concept is useful: control only matters when
 changed decisions plausibly change intrinsic value.
 
+That makes Blackstone a proof-standards case as well as a control case. The
+firm's reputation can make active ownership sound inherently value-creating.
+The stronger root logic forces a harder question: how much of the premium rests
+on demonstrated operating improvement and durable fee economics, and how much
+rests on the market's comfort with a prestigious allocator.
+
 ## Trust, Fundraising, And Institutional Legitimacy
 
 Blackstone also depends heavily on trust and legitimacy. Limited partners,
@@ -86,6 +92,12 @@ The real questions are:
 This is a business where institutional permission is deeply intertwined with
 commercial outcomes.
 
+That means prestige is not merely a nice-to-have asset. It is also a channel
+through which scrutiny can soften. A stronger Damodaran-style reading asks
+whether the company is being judged on real proof of resilience through weaker
+fundraising and exit conditions or on a habit of assuming that a famous
+platform will keep earning the same room to operate.
+
 ## Capital Allocation And Platform Extension
 
 Blackstone is also a capital-allocation case. Management has to decide where
@@ -102,6 +114,11 @@ The key issues are:
 
 This is a company where the line between franchise building and empire building
 has to be watched carefully.
+
+That distinction matters because scale itself can become a false proof
+standard. Product breadth, wealth-channel access, and organizational sprawl can
+look like evidence of superiority while also making discipline harder to
+maintain.
 
 ## Valuation Framing
 

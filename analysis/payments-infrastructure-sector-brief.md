@@ -26,6 +26,11 @@ part of the payment chain a company controls, how durable its take rate is,
 what regulation allows, what fraud and compliance costs absorb, and whether
 volume growth converts into defendable value rather than just larger throughput.
 
+It is also a proof-standards sector because institutional trust, familiar
+brands, and embedded rails can make market participants assume durability
+before they have separated real switching costs from habitual usage or
+regulatory incumbency.
+
 ## Customer And Demand Layer
 
 The demand layer is split across several kinds of customers at once:
@@ -46,6 +51,13 @@ The key questions are:
 5. How much of the demand story is driven by broader digital-commerce growth
    rather than company-specific advantage?
 
+The stronger root system matters here because payments businesses often look
+like clean attachment stories when they are really workflow, trust, and
+permission stories. A merchant may stay with a provider not out of affection
+but because integration is painful, authorization quality matters, fraud
+control is trusted, or compliance risk is intimidating. Those are valuable,
+but they imply a different kind of moat than consumer attachment.
+
 ## Market Narrative
 
 The market usually gets excited about payments infrastructure through a familiar
@@ -61,6 +73,13 @@ Some of those ideas are true. The main risk is that they get treated as a
 category shortcut. The sector includes very different businesses with very
 different economics, and the market can overpay if it treats all payment
 growth as equally valuable.
+
+This is also where legitimacy and market authority can flatten analysis.
+Payments companies that sound infrastructural, systemically useful, or
+financially civilized often receive a softer reading than flashier businesses.
+The analyst still has to ask which economics come from real bargaining power
+and which come from operating inside a trusted regime that regulators or large
+customers could reshape.
 
 ## Industry Structure
 
@@ -94,6 +113,12 @@ Capital allocation matters because growth can become expensive if a business has
 to buy volume, subsidize merchants, or keep layering on product lines just to
 hold relevance.
 
+That is why the sector belongs in both the industrial and governance clusters.
+Management teams can easily mistake adjacency expansion for deepening the moat.
+The real question is whether new products strengthen settlement trust,
+workflow dependence, and pricing durability or simply broaden the story around
+a core whose economics are starting to mature.
+
 ## Risk And Constraints
 
 The main risks are not only market volatility. They include:
@@ -108,6 +133,11 @@ The main risks are not only market volatility. They include:
 This is a clear fit-and-constraints sector. The right valuation framework
 changes depending on whether the business is a network, processor, gateway,
 software-led payments layer, or cross-border infrastructure provider.
+
+Another trap is treating volume scale as a proof substitute. Throughput can be
+huge while take rates, partner bargaining power, or regulatory tolerance are
+quietly deteriorating. The right Damodaran-style reading keeps transaction
+activity separate from transaction economics.
 
 ## Valuation Framing
 

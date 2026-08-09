@@ -67,6 +67,13 @@ The critical questions are:
 - whether the company is capturing value from a lasting platform shift or from
   a temporary scramble
 
+This is also a proof-standards case. Nvidia is so visibly central to the AI
+story that the market can begin treating current demand and current authority
+as if they already proved exceptional long-duration economics. The company may
+deserve premium assumptions, but the analyst still has to ask which parts of
+the current case are proven by workflow depth and which parts are being
+carried by narrative permission.
+
 ## Pricing Power And Ecosystem Advantage
 
 Nvidia is one of the clearest pricing cases in the workspace. But even here,
@@ -81,6 +88,15 @@ the analyst has to separate several layers:
 The company may deserve strong pricing. The discipline problem is deciding how
 much of that pricing is structurally embedded and how much is being amplified
 by a rare moment of capital-cycle intensity.
+
+The stronger root framework is useful here because it separates:
+
+- willingness to pay created by genuine product and ecosystem dependence
+- willingness to pay created by temporary supply imbalance
+- willingness to pay created by strategic fear inside customer organizations
+
+Those are not the same economics even if they look equally powerful in the
+current moment.
 
 ## Growth, Reinvestment, And Optionality
 
@@ -116,6 +132,12 @@ That creates predictable behavioral risks:
 
 This does not make the narrative false. It means the narrative itself becomes
 part of the valuation problem.
+
+Nvidia is therefore a clean case for the investor-identity and legitimacy
+clusters together. For many holders, owning Nvidia is not only a cash-flow
+claim. It is a way of signaling competence, technological alignment, and early
+positioning. That can lower skepticism precisely when the proof standard should
+be most demanding.
 
 ## What Would Change The Thesis
 

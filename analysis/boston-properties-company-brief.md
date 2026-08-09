@@ -31,6 +31,11 @@ valuation work by themselves. The task is to decide what the properties can
 actually earn, what they cost to defend, and how much flexibility the balance
 sheet provides if the category stays structurally stressed.
 
+That also makes Boston Properties a proof-standards case. The company benefits
+from owning assets that are easy to admire and easy to describe as scarce. But
+prestige, location quality, and historical reputation can all lower the burden
+of proof if the analyst is not careful.
+
 ## Business Model And Portfolio Logic
 
 Boston Properties is best read not simply as a landlord, but as a portfolio of
@@ -47,6 +52,11 @@ The key questions are:
 
 This matters because a trophy identity can outlast the economics that once made
 it easy to believe in that identity.
+
+The deeper root-theme issue is the gap between symbolic scarcity and economic
+scarcity. A building can remain famous, architecturally important, or visually
+impressive while still delivering weaker renewal power, higher capex burden,
+or lower effective economics than the market once assumed.
 
 ## Risk, Demand Shift, And Balance-Sheet Reality
 
@@ -66,6 +76,12 @@ This is where claim structure matters. The same property portfolio can produce
 very different equity outcomes depending on financing conditions and cash-flow
 erosion.
 
+The stronger root system is useful here because Boston Properties is partly a
+legitimacy business. Tenants, lenders, and investors have historically granted
+the company trust based on portfolio quality and market position. The question
+now is whether that trust still points to future cash-flow strength or is
+partly a memory of an earlier office regime.
+
 ## Capital Allocation And Management Judgment
 
 Boston Properties is also a capital-allocation case. Management has to decide
@@ -84,6 +100,12 @@ The important questions are:
 This is a case where real-estate quality and financing discipline have to be
 read as one system.
 
+It is also where management credibility can either help or harm valuation.
+Honest capital allocation under pressure can create real option value. But a
+company that preserves payout symbolism, redevelopment optimism, or trophy
+narrative beyond what the economics justify can destroy flexibility while still
+appearing disciplined on the surface.
+
 ## Trust, Prestige, And Valuation Framing
 
 Boston Properties also depends on trust. Investors, lenders, tenants, and the
@@ -98,6 +120,11 @@ best assets.
 The point is not to deny that some assets may still be excellent. It is to ask
 how much of that excellence still belongs to the future economics rather than
 to the memory of a different office market.
+
+That is the downstream lesson for the broader workspace as well: Boston
+Properties should be judged not on whether the assets are easy to respect, but
+on whether respect is still turning into pricing power, tenant commitment,
+balance-sheet resilience, and realistic optionality.
 
 ## What Would Change The Thesis
 

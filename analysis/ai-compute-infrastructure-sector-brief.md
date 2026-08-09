@@ -66,6 +66,12 @@ That creates a distinctive analytical problem:
 This is a sector where urgency can look like durability until the capital cycle
 turns.
 
+That means the sector should be judged through a stronger proof-standards lens.
+Order books, capacity reservations, and customer urgency can all look like
+evidence of durable economics while the cycle is hot. The harder question is
+which parts of current demand reflect recurring workflow dependence and which
+parts reflect fear of being left behind in a strategic arms race.
+
 ## Pricing Power And Bottleneck Economics
 
 The most important near-term attraction in AI compute infrastructure is
@@ -83,6 +89,11 @@ But analysts still have to separate several very different things:
 This matters because extraordinary pricing is not automatically permanent
 pricing. A temporary shortage, a product lead, and an enduring economic moat
 are related but not identical.
+
+The market often compresses those distinctions because AI importance itself
+feels like proof. The stronger root logic pushes back by separating strategic
+importance, bottleneck pricing, ecosystem depth, and genuine monetization
+durability rather than letting the headline story fuse them together.
 
 ## Optionality, Capacity, And Capital-Cycle Risk
 
@@ -118,6 +129,12 @@ That makes investor behavior part of the economics:
 The behavioral mistake is not taking AI seriously. The mistake is treating the
 largest story in the market as though it no longer needs translation into
 reinvestment, competition, and cash-flow assumptions.
+
+This is one of the clearest sectors where narrative permission lowers the
+burden of proof. Investors can feel that being aligned with AI is itself an
+economic moat. A better Damodaran-style read treats admiration, urgency, and
+crowding as part of the analytical problem rather than as confirmation that the
+economics must remain extraordinary.
 
 ## Fit, Constraints, And Valuation Traps
 

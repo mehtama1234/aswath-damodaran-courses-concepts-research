@@ -104,9 +104,20 @@ def build(workspace_root: Path) -> None:
             f"<li><strong>{esc(item['slug'])}</strong>: {esc(item['focus'])}</li>"
             for item in cluster["course_links"]
         )
+        subtheme_items = "".join(
+            (
+                f"<li><strong>{esc(item['name'])}</strong>"
+                f"<div style=\"margin-top:4px\">{esc(item['summary'])}</div></li>"
+            )
+            for item in cluster.get("subthemes", [])
+        )
         question_items = "".join(
             f"<li>{esc(question)}</li>"
             for question in cluster["guiding_questions"]
+        )
+        downstream_items = "".join(
+            f"<li>{esc(item)}</li>"
+            for item in cluster.get("downstream_applications", [])
         )
         clusters_html.append(
             f"""        <section class="cluster" id="{esc(cluster['id'])}">
@@ -120,12 +131,16 @@ def build(workspace_root: Path) -> None:
             <div>
               <h3>Why It Matters</h3>
               <p>{esc(cluster['why_it_matters'])}</p>
+              <h3 style="margin-top:14px">Core Subthemes</h3>
+              <ul>{subtheme_items}</ul>
               <h3 style="margin-top:14px">Guiding Questions</h3>
               <ul>{question_items}</ul>
             </div>
             <div>
               <h3>Course Links</h3>
               <ul>{course_items}</ul>
+              <h3 style="margin-top:14px">Downstream Applications</h3>
+              <ul>{downstream_items}</ul>
             </div>
           </div>
         </section>"""

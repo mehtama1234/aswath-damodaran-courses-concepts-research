@@ -30,6 +30,10 @@ replacement risk, and social license. That makes it a useful test of whether
 the analyst can keep valuation anchored to economic structure instead of
 treating scale, yield, or temporary windfalls as a finished investment thesis.
 
+It is also a proof-standards sector. Scale, integration, and long operating
+histories can make the majors feel more durable than the underlying economics
+actually are. The analyst has to separate familiarity from proof.
+
 ## Business-System Layer
 
 Integrated oil majors are not just commodity price expressions. They are
@@ -66,6 +70,11 @@ The real questions are:
 This is a sector where pricing power is not mostly brand permission. It is
 mostly exposure to a volatile external market. That distinction matters.
 
+The stronger root framework matters here because price strength can create its
+own narrative permission. High cash generation during a favorable cycle can
+temporarily lower skepticism about replacement quality, portfolio discipline,
+and the real economic cost of maintaining future production.
+
 ## Reinvestment, Reserve Replacement, And Capital Allocation
 
 Integrated oil majors are among the clearest capital-allocation cases in the
@@ -84,6 +93,12 @@ The key questions are:
 This is a sector where bad capital allocation can be hidden for years by a
 strong price backdrop, then exposed brutally when the cycle turns.
 
+That is also where governance matters more than the category sometimes admits.
+Management teams in oil can look disciplined simply because the business is
+throwing off cash. The harder question is whether payout, acquisitions,
+replacement spending, and adjacent investments are actually improving future
+returns or just distributing temporary comfort.
+
 ## Risk, Politics, And Social License
 
 Risk in this sector is not just commodity volatility. It includes:
@@ -101,6 +116,12 @@ inside a contested social contract. Investors are not only judging barrels and
 cash flow. They are also judging whether those cash flows remain politically,
 socially, and regulatorily durable.
 
+This is also where investor identity can distort interpretation. Some investors
+read the majors as dependable cash engines unfairly criticized by politics.
+Others read them mainly through moral and regulatory threat. Both narratives can
+flatten the economic reality. The workspace has to hold social-license risk and
+institutional familiarity together at the same time.
+
 ## Fit, Constraints, And Valuation Traps
 
 The recurring valuation traps in integrated oil are:
@@ -115,6 +136,11 @@ The recurring valuation traps in integrated oil are:
 This is a strong fit-and-constraints case. An integrated major, a shale-heavy
 producer, a refiner, and a resource royalty model should not share one default
 valuation frame.
+
+Another trap is treating high distributions as a proof substitute. Dividends
+and buybacks can signal discipline, but they can also reflect underinvestment,
+lack of better options, or a temporary price environment that is flattering the
+whole capital-allocation picture.
 
 ## Root Concept Links
 

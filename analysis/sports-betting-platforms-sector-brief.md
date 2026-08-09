@@ -32,6 +32,11 @@ This is a sector where excitement often arrives before proof. That makes it a
 good test of whether the analyst can translate speculative consumer energy into
 real unit economics and capital discipline.
 
+It is also a legitimacy sector. The economics exist only while regulators,
+payment systems, league relationships, and customers all continue granting the
+category enough permission to operate, expand, and monetize without a sharper
+social or political backlash.
+
 ## Consumer Behavior And Demand Quality
 
 Demand in sports betting is not ordinary entertainment demand. It is shaped by
@@ -49,6 +54,19 @@ The key questions are:
 This is where the consumer and behavioral clusters matter together. The user is
 not only buying utility. They may be buying excitement, identity, and the
 illusion of edge.
+
+The sharper distinction is between activity, attachment, and monetization
+permission. Sports betting apps can generate heavy usage during event spikes
+without creating the kind of relationship that supports durable economics once
+promotions normalize. That is why app engagement alone is a weak proof
+standard. The analyst has to ask what type of user behavior is actually being
+purchased.
+
+The stronger root framework matters here because the category monetizes
+behavioral intensity more than stable customer affection. A user can be highly
+active, highly emotional, and economically unattractive at the same time if the
+platform still has to buy that activity back through incentives or cross-sell
+pressure.
 
 ## Business-System Layer
 
@@ -81,6 +99,18 @@ The key questions are:
 This is a classic optionality sector because the market often capitalizes
 adjacent opportunities long before they have proved durable economics.
 
+It is also a sector where proof standards can drift badly. Legalization,
+download growth, and top-line activity often get treated as if they already
+proved healthy unit economics. The stronger root framework forces a harder
+question: how much of the valuation depends on the market temporarily granting
+narrative permission to a category that still has to prove real monetization
+quality?
+
+That is also where investor identity matters. Many investors want to own the
+apparent category leader in a newly legal market because it feels like being
+early to a platform shift. That desire can reduce skepticism about whether the
+activity being observed is genuinely turning into durable value.
+
 ## Trust, Regulation, And Valuation Traps
 
 Trust matters here in a specific way:
@@ -96,6 +126,16 @@ The recurring traps are:
 3. underestimating how much of customer growth is incentive bought
 4. capitalizing optional adjacencies without specifying the path to economics
 5. confusing consumer excitement with sustainable margin structure
+
+This is also where investor identity matters. The category flatters both user
+and investor fantasies about edge, control, and early platform leadership.
+That means the burden of proof should rise, not fall, when the narrative feels
+most intuitive.
+
+Another trap is treating regulatory expansion as a proof substitute. More
+states, more licenses, or more partnerships can widen the surface area of the
+story without improving cohort quality, promotional intensity, or cash-flow
+durability.
 
 ## Root Concept Links
 

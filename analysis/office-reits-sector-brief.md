@@ -30,6 +30,11 @@ It is therefore a useful test of whether the analyst can separate familiarity,
 book value, and past urban prestige from present cash-flow quality and future
 optional use of the assets.
 
+It is also a proof-standards sector. Visible buildings, well-known addresses,
+and historical replacement-cost logic can all make the asset base feel more
+reassuring than the cash flows deserve. The analyst has to resist treating
+tangibility as proof.
+
 ## Business-System Layer
 
 Office REITs are not one generic real-estate model. The sector includes:
@@ -65,6 +70,12 @@ The key questions are:
 
 This is a sector where yesterday's occupancy can flatter today's story.
 
+The stronger root framework matters here because office demand often contains a
+form of institutional inertia that can be mistaken for durable attachment.
+Tenants may remain because leases have not rolled, internal politics delay
+change, or relocation is disruptive. Those frictions matter economically, but
+they are not the same as a healthy, willingly renewed demand relationship.
+
 ## Financing, Capital Burden, And Control
 
 Office REITs are also a clean capital-allocation case. The management problem
@@ -83,6 +94,11 @@ The key questions are:
 
 This is a sector where financing and property quality cannot be separated.
 
+This is also where governance becomes unusually visible. Management teams can
+use payout policy, redevelopment language, and appraisal framing to preserve a
+legacy identity long after the portfolio economics have changed. That is why
+control and capital allocation matter as much as asset quality.
+
 ## Risk, Trust, And Valuation Traps
 
 The recurring traps in office REITs are:
@@ -99,6 +115,15 @@ The recurring traps in office REITs are:
 Trust matters here too. Investors are constantly evaluating whether management,
 appraisals, leasing commentary, and capital-market access still deserve
 credibility in a structurally stressed category.
+
+That credibility question is not side context. It is part of the asset class.
+Office REITs are partly valued on whether lenders, tenants, appraisers, and
+equity holders still grant the same legitimacy to management's reading of the
+portfolio as they did in a more stable office market.
+
+The simplest version is that a famous building is not the same thing as a good
+office investment. The asset can stay visible and prestigious long after the
+economics have become much weaker.
 
 ## Root Concept Links
 

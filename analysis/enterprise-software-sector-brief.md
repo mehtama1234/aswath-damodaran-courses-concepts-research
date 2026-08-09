@@ -30,6 +30,12 @@ This is a sector where pricing can run ahead of valuation if the market treats
 recurring revenue as a shortcut for durable value rather than as the start of a
 more careful analysis.
 
+It is also a proof-standards sector. Investors often treat recurring revenue,
+high gross margins, and visible retention as if they were enough to prove
+durability. But those signals can hide weak product depth, expensive growth,
+fragile expansion economics, or customer inertia that is less durable than it
+looks.
+
 ## Customer And Demand Layer
 
 Enterprise software demand is not consumer demand in the ordinary sense, but it
@@ -50,6 +56,13 @@ This is where fit and constraints matter. A narrow workflow tool, a system of
 record, and a compliance platform should not be valued with the same default
 assumptions.
 
+The stronger root-theme system matters here because enterprise software can
+look like a pure attachment story when it is often a workflow-permission story.
+Customers may keep paying not because they love the product, but because the
+software is embedded in process, data, reporting, compliance, or organizational
+memory. That is valuable, but it is not the same as unconstrained pricing
+power.
+
 ## Industry Structure
 
 Enterprise software includes several distinct business types:
@@ -64,6 +77,12 @@ The sector rewards scale, but not all scale is equal. Some companies gain from
 distribution efficiency. Others gain from data accumulation, ecosystem reach,
 or internal standardization inside customers. The business system determines
 which type of scale actually matters.
+
+This is also where institutional trust matters directly. In many categories the
+vendor is not simply selling features. It is selling continuity, safety,
+auditable process, and operational peace of mind. Those are forms of
+monetization permission, but they have to be tested against actual renewal,
+expansion, and implementation economics.
 
 ## Market Narrative And Pricing Habits
 
@@ -80,6 +99,12 @@ Some of those ideas are valid. The trap is when they become automatic.
 Recurring revenue is helpful, but it is not enough by itself. Revenue quality
 still depends on churn behavior, expansion economics, product durability, and
 the cost of acquiring the next dollar of growth.
+
+Enterprise software is therefore also a narrative-permission sector. Once a
+company is seen as a category leader or a trusted system of record, the market
+can begin treating that status itself as proof. The analyst has to ask whether
+the company still earns that premium through workflow depth and product value
+or is partly living off category prestige.
 
 ## Reinvestment And Capital Allocation
 
@@ -98,6 +123,12 @@ The important reinvestment questions are:
 This is where capital allocation enters. Management can destroy value if it
 buys growth expensively, subsidizes weak revenue quality, or treats high gross
 margins as proof that all growth is good growth.
+
+That is also where governance and investor identity matter. Software management
+teams are often granted unusual latitude if they sound product-serious and
+category-ambitious. Investors who want exposure to a clean compounding story
+can become too tolerant of expensive acquisitions, bloated suites, or growth
+that is masking weaker economic depth.
 
 ## Risk And Institutional Layer
 

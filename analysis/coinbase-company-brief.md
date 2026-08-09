@@ -48,6 +48,12 @@ The key questions are:
 This matters because a trusted access layer and a high-volume speculative venue
 can sit inside the same company without carrying the same valuation logic.
 
+That is why Coinbase should be read through a more exact adoption-versus-
+attachment lens. User accounts, funded accounts, institutional relationships,
+and recurring workflow integration are not interchangeable signals. The market
+can easily overread visible adoption and underread how much of the franchise is
+actually sticky across different cycle conditions.
+
 ## Trust, Compliance, And Institutional Permission
 
 Coinbase is one of the clearest trust-and-institutions cases in the workspace.
@@ -67,6 +73,12 @@ The real questions are:
 This is a business where institutional legitimacy is both a moat candidate and
 an ongoing dependency.
 
+It is also a proof-standards case. Coinbase often benefits from looking like
+the most institutionally credible public bridge into the category. That may
+deserve a premium, but it also means the analyst has to ask whether the market
+is rewarding demonstrated durable economics or rewarding the comfort of having
+a familiar, listed, compliance-heavy proxy for digital-asset exposure.
+
 ## Pricing Power And Cycle Dependence
 
 Coinbase can earn strong economics when trading activity is elevated and users
@@ -84,6 +96,12 @@ The analyst has to separate:
 
 This is a company where pricing can look much more durable at the top of a
 cycle than it does in a quieter market.
+
+The stronger distinction is between monetization permission and monetization
+durability. Users may accept elevated fees or spreads during periods when
+access, speed, and safety feel unusually valuable. The harder question is what
+pricing remains once volatility falls, competition normalizes, and the cycle
+stops flattering transactional economics.
 
 ## Optionality And Platform Extension
 
@@ -116,6 +134,11 @@ That creates predictable interpretation risks:
 
 This does not make the company weak. It makes the narrative itself part of the
 valuation problem.
+
+That is why Coinbase is such a useful downstream test case for the stronger
+root system. It sits exactly where legitimacy, attachment, workflow depth,
+market authority, and investor identity can all make the proof standard look
+easier than it really is.
 
 ## What Would Change The Thesis
 

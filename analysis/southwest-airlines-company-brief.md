@@ -31,6 +31,12 @@ This is a company where the main analytical task is deciding how much of the
 historical quality remains economically active and how much current pricing is
 still leaning on institutional memory of that quality.
 
+That makes Southwest a useful proof-standards case. The market often grants
+the company more narrative permission than a generic airline because the brand
+has long stood for discipline, simplicity, and relative sanity in a chaotic
+industry. The hard work is determining whether that permission is still being
+earned by present economics or is being carried by historical trust.
+
 ## Business Model And Operating Identity
 
 Southwest is best read not just as another airline, but as a specific
@@ -49,6 +55,12 @@ The key questions are:
 This matters because a company can still be known for discipline long after the
 economics of that discipline have become harder to sustain.
 
+That is the deeper societal and institutional layer underneath the case.
+Southwest is not only an operator. It is also a public symbol of a once-clear
+managerial philosophy. When investors remember a company as culturally distinct
+and historically competent, they may tolerate messier current evidence than
+they would tolerate elsewhere.
+
 ## Discipline, Capacity, And Cost Reality
 
 Southwest is one of the clearest discipline cases in the workspace. The
@@ -66,6 +78,13 @@ The real questions are:
 
 This is a case where discipline has to be measured in choices, not reputation.
 
+The stronger root-theme system is useful here because it separates operating
+attachment from investor attachment. Customers may trust the brand and
+employees may identify with the culture, but investors can also become
+attached to the story of a disciplined airline that supposedly solved airline
+economics. Those are not the same thing, and confusing them lowers the proof
+standard.
+
 ## Risk And Structural Exposure
 
 Southwest may look safer than many airlines because of its history and brand,
@@ -80,6 +99,12 @@ but the analyst still has to face real exposure:
 
 This is why risk matters. Familiarity and a strong legacy narrative can make a
 company appear more controllable than the underlying business really is.
+
+Southwest therefore has to be read as a legitimacy-and-trust case as well as
+an industrial one. Trust can improve customer willingness, employee alignment,
+and investor patience. But trust is not the same as structural immunity. The
+moment the operating model stops converting that trust into cleaner economics,
+the premium can compress quickly.
 
 ## Capital Allocation And Model Fit
 
@@ -99,6 +124,12 @@ The core questions are:
 This is also a fit-and-constraints problem. Southwest should not be valued as
 though it were either a generic network carrier or a permanently exceptional
 operator without frictions.
+
+The stronger downstream lesson is that capital allocation here has to be judged
+against identity risk. Reinvestment, fleet choices, and payout cannot be
+evaluated only on near-term returns. They also reveal whether management is
+protecting the real operating system or defending an increasingly nostalgic
+image of it.
 
 ## Valuation Framing
 

@@ -65,6 +65,12 @@ This is where consumer narrative and economic reality meet. A service can feel
 culturally central and still have weaker long-term economics if loyalty is more
 fragile than the market assumes.
 
+The deeper distinction is between familiarity, habit, and monetization
+permission. Netflix can have extraordinary brand presence and still face a real
+question about how much of its subscriber base behaves like a durable utility
+versus a convenient entertainment default that can be re-rated if price or
+content quality shifts.
+
 ## Market Narrative
 
 The market narrative around Netflix has often centered on some combination of
@@ -81,6 +87,12 @@ A disciplined reading breaks that into testable components:
 
 This is pure narrative-versus-numbers work. The point is not to reject the
 story. It is to force the story into operating assumptions.
+
+Netflix is also a proof-standards case. The market can let cultural centrality
+or platform familiarity act like evidence of durability. The right question is
+whether the price is rewarding demonstrated retention and monetization quality
+or rewarding the comfort of believing that the category leader automatically
+keeps its authority.
 
 ## Margin And Reinvestment Logic
 
@@ -99,6 +111,11 @@ The most important valuation questions are:
 
 That is why growth alone is not enough. Growth has to be read together with
 reinvestment intensity and margin durability.
+
+That is also why the company sits cleanly inside the stronger root theme
+system. Netflix must be judged on the handoff from attachment to monetization,
+from monetization to reinvestment burden, and from reinvestment burden to real
+long-run margin endurance.
 
 ## Life-Cycle Position
 

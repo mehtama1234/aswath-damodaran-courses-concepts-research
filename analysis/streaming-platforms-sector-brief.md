@@ -49,6 +49,12 @@ This is exactly where the workspace's consumer and cultural synthesis becomes
 useful. A streaming platform is partly a cash-flow machine and partly a
 reputation and attention system.
 
+The sharper distinction is between adoption, habit, and monetization
+permission. A service can attract trial, generate hit-driven attention, or sit
+inside household routines without those three states carrying the same
+economics. That matters because the market often treats subscriber growth as a
+stronger proof standard than it really is.
+
 ## Industry Structure
 
 Streaming is not one business model. The sector usually contains several
@@ -86,6 +92,12 @@ The common pricing habits in this sector usually include:
 This is a sector where narrative versus numbers is not a side issue. It is the
 core discipline.
 
+It is also a proof-standards case. Markets often let cultural prominence,
+subscriber momentum, or brand heat stand in for demonstrated durability of
+pricing power and content economics. The stronger root framework asks what kind
+of authority the current narrative is borrowing and whether the sector is being
+priced on real evidence or on the comfort of familiar platform language.
+
 ## Capital Intensity And Reinvestment
 
 Streaming is often misread as a light digital business because the customer
@@ -105,6 +117,11 @@ The key reinvestment questions are:
 - whether geographic expansion creates real incremental margin or only adds
   complexity
 - whether price increases can outpace content inflation and competitive noise
+
+That is why content spending has to be read as both growth and maintenance. A
+platform may report attractive headline scale while quietly spending just to
+hold its place in consumer attention. The analyst should resist treating all
+reinvestment as optional growth just because the interface looks digital.
 
 ## Risk And Institutional Layer
 

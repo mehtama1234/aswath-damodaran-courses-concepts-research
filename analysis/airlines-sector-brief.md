@@ -31,6 +31,12 @@ This is a sector where discipline matters as much as ambition, and where the
 market repeatedly rediscovers that a good operator inside a difficult industry
 is not the same thing as a permanently easy investment.
 
+It is also a proof-standards sector. Airlines periodically earn temporary
+narrative permission whenever service improves, loyalty systems look stronger,
+or post-shock demand recovers faster than expected. The analytical mistake is
+letting a cleaner recent story substitute for evidence that the industry's
+underlying economics have genuinely become more forgiving.
+
 ## Business-System Layer
 
 Airlines are not one uniform business model. The sector includes:
@@ -64,6 +70,13 @@ The key questions are:
 This is a sector where revenue quality has to be judged much more carefully
 than headline load factors suggest.
 
+The stronger root framework matters here because air travel produces real habit
+without necessarily producing strong monetization permission. Travelers may use
+an airline repeatedly, but that does not mean the carrier has clean pricing
+power. In many markets the relationship is functional, schedule-driven, or
+price-shopped rather than attachment-rich. That distinction is exactly why the
+consumer layer has to stay tied to industry structure.
+
 ## Cost Structure, Capital Intensity, And Discipline
 
 Airlines make discipline visible because so many costs are either fixed,
@@ -81,6 +94,12 @@ The central questions are:
 
 This is one of the clearest sectors where discipline is not a style choice. It
 is what separates survivable mistakes from strategic damage.
+
+It is also where capital allocation becomes visible in unusually unforgiving
+ways. Aircraft orders, fleet simplification, buybacks, debt posture, and route
+expansion can all look intelligent in strong periods right before they become
+evidence that management mistook temporary operating comfort for structural
+improvement.
 
 ## Risk And Control Fantasy
 
@@ -112,6 +131,12 @@ The recurring traps in airlines are:
 4. treating loyalty or ancillary revenue as a complete escape from airline
    economics
 5. using peer multiples across very different network and cost structures
+
+Another recurring trap is mistaking reputation for proof. A management team
+that sounds disciplined, a loyalty program that looks valuable, or a service
+brand that customers recognize can all soften scrutiny. But the analyst still
+has to ask whether the company has actually changed the economic structure or
+has merely earned a more generous reading inside the same difficult structure.
 
 This is a strong capital-allocation and fit-and-constraints sector. The right
 valuation frame depends on fleet life, route structure, customer mix, labor

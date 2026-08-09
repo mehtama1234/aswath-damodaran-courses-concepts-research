@@ -30,6 +30,12 @@ indefinitely.
 This is a case where a legitimately stronger operator can still become
 overclean in the market narrative.
 
+That makes T-Mobile a proof-standards case as well. The company benefits from
+having a story that is easy for markets to like: challenger energy, visible
+share gains, and post-merger operating improvement. The harder question is
+which part of that story is still proving out and which part is now being
+treated as already-earned permanence.
+
 ## Business Model And Positioning
 
 T-Mobile is best read not just as a wireless carrier, but as a scaled
@@ -68,6 +74,12 @@ This is where consumer permission matters. A large base of customers can still
 be economically fragile if the relationship is being held together by costly
 offers rather than durable preference.
 
+The stronger root-theme system is useful here because it separates subscriber
+attachment from investor attachment. Customers may stay for coverage, price,
+family-plan friction, or inertia, while investors may become attached to the
+idea of T-Mobile as the disciplined share-taking winner. Those two forms of
+confidence are not interchangeable.
+
 ## Capital Allocation And Strategic Discipline
 
 T-Mobile is also a capital-allocation case. Management has to decide how much
@@ -84,6 +96,11 @@ The important questions are:
 This is a company where capital allocation now matters more precisely because
 the obvious merger phase is further along.
 
+That is also where governance and legitimacy matter. Once the easiest merger
+synergies have been harvested, management has to prove it can allocate capital
+without leaning on the old integration story as a blanket excuse for every new
+initiative, return program, or adjacent push.
+
 ## Trust, Regulation, And Valuation Framing
 
 T-Mobile also depends on trust and institutional structure. Regulators allowed
@@ -97,6 +114,16 @@ shareholder return, and the durability of its relative competitive position.
 
 The point is not to deny the operating gains. It is to ask what level of
 future execution the current price is already requiring.
+
+The downstream lesson is that T-Mobile should be judged not only on momentum,
+but on proof quality. The market has to distinguish between a carrier that is
+still structurally improving and a carrier that is increasingly being priced as
+though recent success has already solved the harder long-run capital and
+competitive questions.
+
+The plain-language version is simple: better than before does not automatically
+mean good enough for the price. The company still has to prove that its newer
+strength can last without constant promotional or capital support.
 
 ## What Would Change The Thesis
 

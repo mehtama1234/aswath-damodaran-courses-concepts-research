@@ -10,6 +10,12 @@ cross-course comparisons, and plain-language synthesis that can support future
 course-building, sector analysis, company analysis, investment thinking, and
 capital-allocation research.
 
+The immediate next-phase job is to deepen the repository from a strong archive
+plus first-pass synthesis into a more interpretive system with richer theme
+hierarchies, stronger subtheme hierarchies, and clearer cross-course
+explanation of how businesses, markets, managers, consumers, and investors
+behave.
+
 The active course spine currently includes:
 
 - `investment-philosophies-2026`
@@ -24,9 +30,13 @@ finance, investment philosophy, valuation, and corporate finance reinforce,
 translate, and challenge one another across different audiences and teaching
 contexts.
 
-That means the newer additions are not side folders. They must be absorbed
-into the same root logic:
+Each active Damodaran course should have a clear role in the shared logic:
 
+- `foundations-of-finance` should anchor the first-principles base layer.
+- `investment-philosophies-2026` should anchor investor behavior, narrative,
+  market temperament, and philosophy-level decision rules.
+- `valuation-mba-spring-2025` should anchor the full-strength professional
+  valuation layer.
 - `valuation-undergraduate-spring-2025` should deepen the audience-translation
   layer by showing how valuation is simplified, sequenced, and explained for a
   different classroom without losing its core logic.
@@ -52,13 +62,9 @@ The workspace should eventually make all of the following true.
 4. The root workspace produces rich but easy-to-understand writeups of the
    broader societal, cultural, consumer, industrial, managerial, and market
    patterns visible across the material.
-5. The newer course additions are pulled into that shared interpretive layer,
-   especially:
-   - `valuation-undergraduate-spring-2025` as the audience-level comparison
-     track beside MBA valuation
-   - `corporate-finance-spring-2025` as the operating, governance,
-     financing, and capital-allocation counterpart to the valuation and
-     investment-philosophy courses
+5. Every active Damodaran course is pulled into that shared interpretive
+   layer with a clear role in the common map, rather than remaining a mostly
+   self-contained folder.
 6. The output is publishable and reusable through HTML pages and structured
    JSON artifacts, so it can support later downstream work without needing the
    original transcript-mining effort to be repeated.
@@ -125,6 +131,20 @@ the active workspace, including:
   taught as introductory finance, valuation, corporate finance, or investment
   philosophy
 
+### 5. Deepening The Interpretive Layer
+
+The next concrete push should strengthen:
+
+- theme hierarchies within each course, including subthemes and deeper
+  subtheme splits where the material supports them
+- root-level synthesis of legitimacy, trust, institutional permission,
+  consumer attachment, investor identity, managerial discipline, and
+  industry-specific analytical fit
+- cross-course writeups that explain both alignment and disagreement, not just
+  overlap
+- links from course concepts into sector and company analysis so the applied
+  layer clearly inherits its reasoning from the transcript-backed course layer
+
 ## Required Outputs
 
 The workspace should keep building toward these concrete outputs:
@@ -142,6 +162,8 @@ The workspace should keep building toward these concrete outputs:
   simplified, specialized, or reframed
 - long-form root synthesis essays
 - reusable JSON registries backing the HTML outputs
+- deeper root theme and subtheme registries that can support future essays,
+  courses, sector briefs, and company briefs
 
 ## Why This Matters
 
@@ -166,3 +188,8 @@ New course or root-level work should move the workspace toward more depth, more
 clarity, and more reuse. Thin summaries are not enough. The target standard is
 rich, transcript-backed interpretation that remains readable to a non-specialist
 while still being analytically serious.
+
+The next phase should be considered successful only when the repository can
+plainly explain, with evidence, how market behavior, company narrative,
+industry structure, governance, financing, reinvestment, and teaching context
+all connect inside one shared Damodaran reasoning system.

@@ -65,6 +65,12 @@ The important questions are:
 This is where the consumer theme cluster matters directly. The company is not
 only monetizing product quality. It is monetizing attachment and permission.
 
+The sharper question is what kind of attachment Hermes has earned. Some buyers
+may be event-driven or aspirational. Others may be entering a long-lived
+relationship built on ritual, collecting, gifting, and status continuity. That
+distinction matters because the market often treats all visible demand as if it
+already carried the same durability and monetization quality.
+
 ## Market Narrative
 
 The market narrative around Hermes is usually some combination of:
@@ -80,6 +86,12 @@ story can still become an over-clean story. Hermes can be a remarkable company
 and still be priced as though scarcity, desirability, and execution are
 immune to geography, generational change, category fatigue, or self-inflicted
 overexpansion.
+
+Hermes is therefore also a proof-standards case. The market often grants it
+the kind of legitimacy that reduces skepticism by default. That trust may be
+deserved, but it still changes the burden of proof. The analyst has to ask
+whether the price is rewarding demonstrated endurance or rewarding the comfort
+of believing that a revered brand is automatically self-protecting.
 
 ## Pricing Power, Scarcity, And Reinvestment
 
@@ -98,6 +110,12 @@ The real reinvestment questions are:
 This is where capital allocation matters. A great luxury company can still
 damage itself if management treats demand strength as permission to monetize
 too aggressively.
+
+That is the hidden fragility inside the bull case. Hermes looks strongest when
+it refuses to convert every available demand signal into throughput. The wrong
+capital-allocation choice would not merely hurt margins. It would weaken the
+social permission that makes extraordinary pricing look fair rather than
+extractive.
 
 ## Risk And Constraints
 

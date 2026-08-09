@@ -67,6 +67,21 @@ The real questions are:
 
 This is where trust becomes an economic input, not just a reputation score.
 
+It also makes Chubb a proof-standards case. The company's reputation for
+prudence can cause both investors and analysts to accept smooth reported
+results as stronger evidence than they would accept from a weaker name. A
+better reading asks whether the current premium reflects demonstrated reserve
+strength and disciplined underwriting or reflects the comfort of trusting a
+high-quality franchise by default.
+
+That is the plain-language lesson here: a calm insurer is not automatically a
+safe insurer. It may be safer than peers, but the analyst still has to ask what
+is creating the calm and whether it will survive worse loss conditions.
+
+The simpler version is that reputation helps, but liabilities decide. Chubb
+still has to earn its premium through reserve quality and underwriting
+discipline, not just through being the insurer people trust most.
+
 ## Capital Allocation And Risk Posture
 
 Chubb is also a capital-allocation case. Management has to decide how much risk
@@ -83,6 +98,11 @@ The important questions are:
 
 This is one of the clearest places where Damodaran's risk and capital-
 allocation logic have to be read together.
+
+That is also why capital return deserves a harder lens than usual. Buybacks and
+payout can look reassuring when attached to a prudent insurer, but the real
+question is whether they remain subordinate to liability strength and downside
+protection rather than becoming part of an overly clean return story.
 
 ## Valuation Framing
 

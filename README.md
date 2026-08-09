@@ -42,6 +42,20 @@ not optional extras:
   reinvestment, financing, payout, and capital-allocation bridge back into
   valuation and investment philosophy.
 
+The current next-phase target is to deepen the shared interpretive layer across
+all five active Damodaran courses so the repository becomes more than a course
+archive plus first-pass synthesis. The emphasis should now be on:
+
+- richer theme and subtheme hierarchies within each course
+- stronger root synthesis of societal, cultural, consumer, industrial,
+  managerial, governance, and market patterns
+- clearer cross-course explanation of where ideas align, diverge, simplify, or
+  translate by audience
+- stronger linkage from transcript-backed course concepts into sector and
+  company writeups
+- plain-language HTML and JSON artifacts that stay readable while becoming more
+  interpretive and more detailed
+
 The durable root objective is written out in:
 
 - `GOAL.md`
@@ -218,6 +232,10 @@ Keep expanding the shared analytical layer across all active Damodaran courses:
 
 - deepen themes, subthemes, and concepts within each course
 - connect newer course additions into the root comparison and synthesis layer
+- build richer cross-course interpretation of societal, cultural, consumer,
+  industrial, managerial, and market themes
+- make the downstream sector and company analysis more explicitly inherit from
+  the course-backed concept and theme system
 - extend the root site with more cross-course and applied downstream writeups
 
 The root-level cross-course entry points now are:

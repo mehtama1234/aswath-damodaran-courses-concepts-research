@@ -30,6 +30,11 @@ This is a sector where stability can be real, but only if the analyst reads the
 institutional structure carefully instead of treating "utility" as a synonym
 for "easy valuation."
 
+It is also a legitimacy sector because the business model depends on a durable
+public bargain. Utilities earn acceptable economics only while regulators,
+customers, lawmakers, and lenders continue accepting the trade between capital
+recovery, reliability, and rising system cost.
+
 ## Business-System Layer
 
 Electric utilities are not one generic business model. The sector includes:
@@ -62,6 +67,17 @@ The key questions are:
 
 This is where trust and institutions become core economics rather than context.
 
+It also makes utilities a proof-standards sector. Investors often treat rate
+base growth, essential-service status, and regulated framing as if they already
+proved economic safety. The stronger root logic pushes back by asking what kind
+of regulatory trust, political tolerance, and financing support are actually
+carrying the story.
+
+The deeper root-theme issue is that utilities monetize institutional
+permission, not just electricity demand. Customers keep using power, but that
+does not guarantee that every dollar of capital spending will be recoverable on
+politically tolerable terms.
+
 ## Capital Allocation, Rate Base, And Reinvestment
 
 Utilities are a strong capital-allocation sector because much of the economic
@@ -77,6 +93,17 @@ story is really a capital-budget story. The analyst has to understand:
 This is one of the clearest sectors where "growth" and "reinvestment" are
 inseparable from financing structure and institutional permission.
 
+That means capital spending should not be treated as self-justifying just
+because it expands the regulated asset base. The analyst has to ask whether the
+projects are earning tolerated returns on terms that preserve balance-sheet
+flexibility and public legitimacy rather than simply enlarging the capital
+program.
+
+This is also where investor identity can flatten judgment. Utilities are often
+held as safety assets or yield assets, which can make the market more tolerant
+of weak capital plans, dilution, or political friction than it would be in
+less familiar sectors.
+
 ## Risk And Valuation Traps
 
 The recurring traps in utilities are:
@@ -91,6 +118,16 @@ The recurring traps in utilities are:
 This is a strong risk sector because the distribution of outcomes can widen
 quickly when wildfire, storm, reliability, or political issues challenge the
 regulatory bargain.
+
+The deeper lesson is that apparent calm is itself a weak proof standard.
+Utilities can look safe for long periods right up until political tolerance,
+catastrophe exposure, or financing conditions reveal that the institutional
+compact was thinner than the market assumed.
+
+Another trap is treating decarbonization or grid-modernization language as a
+proof substitute. Those projects may be necessary and valuable, but they still
+have to translate into recoverable economics, operational resilience, and a
+regulatory bargain that remains intact.
 
 ## Root Concept Links
 
