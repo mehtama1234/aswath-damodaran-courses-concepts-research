@@ -1,7 +1,8 @@
 # Aswath Damodaran Courses Concepts Research
 
 Reusable workspace for transcript-backed concept, theme, and subtheme builds
-across multiple Aswath Damodaran courses.
+across multiple Aswath Damodaran courses, with one companion geometric deep
+learning course using the same atlas pipeline.
 
 Seeded courses:
 
@@ -10,6 +11,7 @@ Seeded courses:
 - `valuation-mba-spring-2025/`
 - `valuation-undergraduate-spring-2025/`
 - `corporate-finance-spring-2025/`
+- `ammi-geometric-deep-learning-2022/`
 
 The root is intentionally generic. Each course subfolder should carry its own:
 
@@ -25,10 +27,20 @@ workspace is meant to connect:
 - `investment-philosophies-2026` as the investor-framework and market-behavior layer
 - `valuation-undergraduate-spring-2025` and `valuation-mba-spring-2025` as the audience-comparison valuation pair
 - `corporate-finance-spring-2025` as the operating, financing, governance, and capital-allocation layer
+- `ammi-geometric-deep-learning-2022` as a companion structured-ML course that stress-tests the same transcript-to-atlas workflow outside the Damodaran corpus
 
 That combined structure should support richer synthesis around societal,
 cultural, consumer, institutional, and industrial patterns across the courses,
 not just isolated course summaries.
+
+The two newer course additions are now part of the core interpretation path,
+not optional extras:
+
+- `valuation-undergraduate-spring-2025` should keep strengthening the
+  audience-translation comparison against the MBA valuation course.
+- `corporate-finance-spring-2025` should keep strengthening the governance,
+  reinvestment, financing, payout, and capital-allocation bridge back into
+  valuation and investment philosophy.
 
 ## Layout
 
@@ -41,6 +53,7 @@ not just isolated course summaries.
 - `valuation-mba-spring-2025/`: full transcript corpus captured with rich theme, evidence, discussion, session, and 37-concept HTML atlas
 - `valuation-undergraduate-spring-2025/`: full transcript corpus captured, hand-built theme map added, concept and evidence layer built, reader-facing site pages built
 - `corporate-finance-spring-2025/`: transcript-backed Corporate Finance Spring 2025 workspace
+- `ammi-geometric-deep-learning-2022/`: transcript-backed AMMI Geometric Deep Learning course workspace with a richer concept/site layer
 
 ## Transcript workflow
 
@@ -78,6 +91,13 @@ python3 scripts/build_foundations_course_site.py \
   --course-root foundations-of-finance
 ```
 
+Build the AMMI Geometric Deep Learning course site:
+
+```bash
+python3 scripts/build_ammi_geometric_deep_learning_2022_course_site.py \
+  --course-root ammi-geometric-deep-learning-2022
+```
+
 Build the root normalized concept atlas:
 
 ```bash
@@ -105,6 +125,8 @@ order:
 - `site/cross-course-comparison.html`
 - `site/valuation-audience-comparison.html`
 - `site/root-synthesis-essay.html`
+- `site/root-themes-atlas.html`
+- `site/root-themes-registry.html`
 - `site/sector-and-company-writeup-framework.html`
 - `site/applied-analysis.html`
 - `site/applied-evidence.html`
@@ -121,6 +143,8 @@ canonical evidence ids while preserving fallback path references from
 The root workspace objective is documented at:
 
 - `analysis/project-objective.md`
+- `analysis/root-themes-atlas.md`
+- `analysis/root-themes-registry.json`
 
 The root sector/company writing scaffold is documented at:
 
@@ -152,9 +176,11 @@ Each course subfolder should follow this shape:
 
 ## Next step
 
-Run the transcript downloader inside each course folder, then build deeper
-Damodaran-specific theme, subtheme, concept, and discussion layers on top of
-that transcript index.
+Keep expanding the shared analytical layer across all active Damodaran courses:
+
+- deepen themes, subthemes, and concepts within each course
+- connect newer course additions into the root comparison and synthesis layer
+- extend the root site with more cross-course and applied downstream writeups
 
 The root-level cross-course entry points now are:
 

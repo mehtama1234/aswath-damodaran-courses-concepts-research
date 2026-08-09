@@ -204,6 +204,45 @@
         "session-level discussion artifacts",
         "reader-facing HTML course site"
       ]
+    },
+    {
+      "slug": "ammi-geometric-deep-learning-2022",
+      "title": "AMMI Geometric Deep Learning Course - Second Edition (2022)",
+      "instructor": "Michael Bronstein, Joan Bruna, Taco Cohen, Petar Veličković, and seminar speakers",
+      "status": "rich-course-site-built",
+      "videos": 17,
+      "available_transcripts": 17,
+      "total_words": 172626,
+      "total_cues": 57474,
+      "analysis_outputs": [
+        "analysis/README.md",
+        "analysis/session-inventory.md",
+        "analysis/session-briefs.md",
+        "analysis/course-thesis.md",
+        "analysis/themes-and-subthemes.json",
+        "analysis/concepts.json",
+        "analysis/discussions.json",
+        "analysis/sessions.json",
+        "analysis/evidence-map.json"
+      ],
+      "site_outputs": [
+        "site/index.html",
+        "site/course-thesis.html",
+        "site/themes.html",
+        "site/subthemes.html",
+        "site/discussions.html",
+        "site/sessions.html",
+        "site/concepts/index.html",
+        "site/concepts/*.html"
+      ],
+      "strengths": [
+        "complete 17-session transcript corpus after manifest cleanup",
+        "hand-built geometric deep learning theme and subtheme map",
+        "15 reader-facing concept pages spanning bias, symmetry, graphs, manifolds, gauges, and frontier applications",
+        "session-by-session brief and discussion layer",
+        "course-level thesis grounded in transcript coverage",
+        "useful companion atlas for testing the same transcript workflow outside the Damodaran finance domain"
+      ]
     }
   ],
   "cross_course_next_steps": [
@@ -212,6 +251,8 @@
     "build richer root comparison pages spanning investment philosophy, foundations of finance, undergraduate and MBA valuation, and corporate finance",
     "use the undergraduate and MBA valuation pair to document audience-level translation of the same ideas",
     "connect corporate finance ideas on financing, governance, payout, and reinvestment back into the root concept registry and synthesis essays",
+    "treat valuation-undergraduate-spring-2025 and corporate-finance-spring-2025 as first-class inputs to the root synthesis rather than side-course additions",
+    "use the AMMI geometric deep learning course as a companion test case for the transcript-to-atlas pipeline outside the finance corpus",
     "continue adding courses through the same manifest-driven transcript pipeline"
   ]
 }

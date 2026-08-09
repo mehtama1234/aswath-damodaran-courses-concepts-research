@@ -1,0 +1,160 @@
+{
+  "concepts": {
+    "geometric-deep-learning-blueprint": [
+      {
+        "session": 1,
+        "title": "Session 1: Lecture 1 (Introduction) - Michael Bronstein",
+        "url": "https://www.youtube.com/watch?v=5c_-KX1sRDQ",
+        "word_count": 11078
+      },
+      {
+        "session": 12,
+        "title": "Session 12: Lecture 12 (Applications & Trends) - Michael Bronstein",
+        "url": "https://www.youtube.com/watch?v=Icwz214_7eI",
+        "word_count": 12365
+      }
+    ],
+    "inductive-bias-in-high-dimensions": [
+      {
+        "session": 1,
+        "title": "Session 1: Lecture 1 (Introduction) - Michael Bronstein",
+        "url": "https://www.youtube.com/watch?v=5c_-KX1sRDQ",
+        "word_count": 11078
+      },
+      {
+        "session": 2,
+        "title": "Session 2: Lecture 2 (Learning in High Dimensions) - Joan Bruna",
+        "url": "https://www.youtube.com/watch?v=plIJYzVKfdI",
+        "word_count": 13138
+      }
+    ],
+    "geometric-priors": [
+      {
+        "session": 3,
+        "title": "Session 3: Lecture 3 (Geometric Priors I) - Taco Cohen",
+        "url": "https://www.youtube.com/watch?v=qEjWMhRlXgY",
+        "word_count": 8815
+      },
+      {
+        "session": 4,
+        "title": "Session 4: Lecture 4 (Geometric Priors II) - Joan Bruna",
+        "url": "https://www.youtube.com/watch?v=DpnA8NNUtyU",
+        "word_count": 9129
+      }
+    ],
+    "symmetry-invariance-and-equivariance": [
+      {
+        "session": 3,
+        "title": "Session 3: Lecture 3 (Geometric Priors I) - Taco Cohen",
+        "url": "https://www.youtube.com/watch?v=qEjWMhRlXgY",
+        "word_count": 8815
+      },
+      {
+        "session": 4,
+        "title": "Session 4: Lecture 4 (Geometric Priors II) - Joan Bruna",
+        "url": "https://www.youtube.com/watch?v=DpnA8NNUtyU",
+        "word_count": 9129
+      },
+      {
+        "session": 15,
+        "title": "Session 15: Seminar 3 (Equivariance in ML) - Geordie Williamson",
+        "url": "https://www.youtube.com/watch?v=XPVrVeRmMY0",
+        "word_count": 6233
+      }
+    ],
+    "sets-and-permutation-invariance": [
+      {
+        "session": 5,
+        "title": "Session 5: Lecture 5 (Graphs & Sets) - Petar Veličković",
+        "url": "https://www.youtube.com/watch?v=J2bLt3-SSpg",
+        "word_count": 10256
+      }
+    ],
+    "graph-message-passing": [
+      {
+        "session": 5,
+        "title": "Session 5: Lecture 5 (Graphs & Sets) - Petar Veličković",
+        "url": "https://www.youtube.com/watch?v=J2bLt3-SSpg",
+        "word_count": 10256
+      },
+      {
+        "session": 6,
+        "title": "Session 6: Lecture 6 (Graphs & Sets II) - Petar Veličković",
+        "url": "https://www.youtube.com/watch?v=HvQw7Zq1jtU",
+        "word_count": 9464
+      }
+    ],
+    "convolution-on-grids": [
+      {
+        "session": 7,
+        "title": "Session 7: Lecture 7 (Grids) - Joan Bruna",
+        "url": "https://www.youtube.com/watch?v=Mj7UoabhWYQ",
+        "word_count": 10907
+      }
+    ],
+    "groups-and-homogeneous-spaces": [
+      {
+        "session": 8,
+        "title": "Session 8: Lecture 8 (Groups & Homogeneous spaces) - Taco Cohen",
+        "url": "https://www.youtube.com/watch?v=SGiQ3pm06nI",
+        "word_count": 10874
+      }
+    ],
+    "manifolds-for-learning": [
+      {
+        "session": 9,
+        "title": "Session 9: Lecture 9 (Manifolds) - Michael Bronstein",
+        "url": "https://www.youtube.com/watch?v=YCncgm38-bA",
+        "word_count": 12705
+      }
+    ],
+    "gauge-equivariance": [
+      {
+        "session": 10,
+        "title": "Session 10: Lecture 10 (Gauges) - Taco Cohen",
+        "url": "https://www.youtube.com/watch?v=vu8-uSB6BAA",
+        "word_count": 6557
+      }
+    ],
+    "beyond-groups": [
+      {
+        "session": 11,
+        "title": "Session 11: Lecture 11 (Beyond Groups) - Petar Veličković",
+        "url": "https://www.youtube.com/watch?v=LewIYn0UTEU",
+        "word_count": 11986
+      }
+    ],
+    "physics-based-gnns": [
+      {
+        "session": 13,
+        "title": "Session 13: Seminar 1 (Physics-based GNNs) - Francesco Di Giovanni",
+        "url": "https://www.youtube.com/watch?v=pG_akmY02Bo",
+        "word_count": 10521
+      }
+    ],
+    "subgraph-gnns": [
+      {
+        "session": 14,
+        "title": "Session 14: Seminar 2 (Subgraph GNNs) - Fabrizio Frasca",
+        "url": "https://www.youtube.com/watch?v=PxJ5o4y4FUA",
+        "word_count": 9424
+      }
+    ],
+    "neural-sheaf-diffusion": [
+      {
+        "session": 16,
+        "title": "Session 16: Seminar 4 (Neural Sheaf Diffusion) - Cristian Bodnar",
+        "url": "https://www.youtube.com/watch?v=TgPMuvH5j1I",
+        "word_count": 9472
+      }
+    ],
+    "alphafold-and-geometric-bias": [
+      {
+        "session": 17,
+        "title": "Session 17: Seminar 5 (AlphaFold) - Russ Bates",
+        "url": "https://www.youtube.com/watch?v=1FluhB_ZgNI",
+        "word_count": 9702
+      }
+    ]
+  }
+}

@@ -1,0 +1,1281 @@
+um so thank you very much
+uh
+so
+i'm not sure exactly what you've already
+learned in this course
+uh but today i'll be just be talking
+about equivariance
+in machine learning
+okay so before i come to that i just
+wanted to briefly um advertise our
+research institute
+in sydney
+uh so this is a research institute that
+supports visits to australia
+um
+in mathematics so if you're interested
+in visiting
+australia and working with someone in
+australia then um
+you're welcome to apply
+through our program
+and we'd love to host you
+so a second point is that
+i love comments questions interruptions
+etc so if you have a question or um
+or a comment
+please just
+ask it
+okay
+so um i'm assuming that the background
+of most of you is
+more in computer science and less in
+mathematics
+so
+i'm going to go over some of the
+mathematical foundations of what i'm
+talking about
+so
+i want to start off with
+symmetry in mathematics
+so symmetry is
+almost as old as the hills
+so
+here's a um
+theorem from
+euclid's elements that was um you know
+written about
+um more than about 2400 years ago
+or 2500 years ago
+so it is the theorem that i'm sure
+you're familiar with that if you take a
+circle
+and
+you uh
+consider a diameter
+and then you consider any other point on
+the circumference of the circle then
+this is a right angle
+yeah
+and if you look at the proof of this
+theorem
+so this is a very you know very
+fundamental and beautiful theorem
+that we've known for two and a half
+thousand years
+but i just want to emphasize the fact
+that kind of symmetry is
+already present in this very basic
+theorem
+so
+if you look at a proof of this theorem
+you
+like you know for example in
+in euclid
+um
+you you construct a line here and then
+you argue about the angle sum of a
+triangle and things like this
+um
+but you can ask yourself like
+what happens if the point is down here
+what happens if my point c is down here
+and then there's a very obvious thing to
+do which you can just flip this diagram
+upside down on this axis of symmetry and
+this would place this would get the
+theorem for the point down there
+okay
+and so there's a kind of tacit symmetry
+present in mathematics for a very long
+time
+and group theory
+so this is group theory
+is the mathematical theory of symmetry
+so a group
+um you know i hope that you've seen this
+concept before
+but i'm just um reviewing it quickly so
+a group is a set with a binary operation
+so we have a binary operation where we
+take two elements g
+and g prime
+in g and then
+we have some operation which produces a
+new element
+out of our two elements so this is our
+binary operation our multiplication
+and this satisfies three axioms
+so there's the existence of an element
+which when you left or right multiplied
+by that element does nothing
+our operation is associative
+and there exists inverses
+so this is a formal definition but what
+you should think about
+is basically that the symmetries of any
+mathematical object form a group
+so for example if you have a square
+and you look at the symmetries of this
+square there's various things you can do
+you could reflect it along this axis you
+could rotate it um
+and um and these axioms will be
+satisfied
+so i just want to emphasize so
+what galwa pointed out in about 1830
+so
+nearly 200 years ago
+is that if you consider the set of all
+symmetries of a situation
+these uh former group
+and the structure of this group of
+symmetries matters
+okay
+so
+it's a kind of meta approach to a
+problem
+you might
+you start with a problem
+you notice that it has a whole lot of
+symmetries
+and in the example of euclid we use
+these these symmetries kind of one by
+one to simplify our
+problem
+but it was galwa that first said
+that the set of all these symmetries
+together and the structure of that set
+of all symmetries is fundamental to
+mathematics
+okay
+and klein um
+explained i
+uh that
+geometries for example projective
+geometry euclidean geometry et cetera
+are determined by their groups of
+symmetries
+and lee developed the theory of
+continuous groups so lead groups and
+it's interesting that um klein and lee
+were actually very good friends and they
+were very inspired by gawa theory
+and they apparently would meet every day
+and discuss mathematics
+and it was only um after they um they
+separated so lee went back to norway and
+klein went to heirloom that they
+developed two beautiful theories of
+mathematics that were somehow related
+and then frobenius in 1899
+so this was the beginning of
+representation theory
+um and then many others sure burnside
+nurture vile
+many others
+develop representation theory which is
+how might g act linearly on a vector
+space
+okay
+so we want g to act via linear
+transformations on a vector space so
+this is the same thing
+as asking how might g
+what are the maps from g to g l
+and r so this is the
+group
+of n by n
+convertible
+matrices with
+real coefficients
+okay so this is a very concrete problem
+so i have a group so this collec this
+consists of a collection of elements g
+and a multiplication rule and then what
+i'm doing in representation theory is
+studying matrices which satisfy the same
+multiplication rules as the elements of
+g
+okay so invertible matrices which
+satisfy the same multiplication l rules
+is the elements
+of g
+so i'll just give you two examples of
+representations
+so here we take
+uh in my opinion one of the most
+beautiful objects in mathematics namely
+the icosahedron the regular icosahedron
+and now if you consider a symmetry of
+this icosahedron
+you can represent it as a matrix
+so if you imagine the you know for
+example this icosahedron may have
+certain rotational symmetries these
+symmetries are given by a matrix
+and hence we get a representation so
+this group of isometries of the
+icosahedron is naturally
+represented by matrices
+another example is if i take um
+the vertices of the triangle like this
+so here's e1 here's e2 his minus c1
+minus c2 you can write down so there's
+six symmetries of the triangle
+so any permutation of the vertices is
+possible and so we get
+six matrices so this is for example the
+identity
+so this is what i was calling one before
+and then for example you have the
+the symmetry that interchanges these two
+elements and fixes this element and
+that's given by this matrix
+and similarly the element that fixes
+this one and interchanges this this one
+is given by this matrix etcetera
+okay so these are examples in
+representative representations
+and i just want to emphasize the
+following extremely important point
+so
+probably so i tried to motivate group
+theory via symmetry
+and so
+it's very
+natural
+to
+i think group theory is very natural
+we have symmetrical situations so we
+should understand the symmetries
+preserving
+but what is not so obvious is studying
+representations you know i said let's
+look at all homomorphisms to matrices
+and you're totally justified in thinking
+why on earth does this person want to
+study they study homomorphisms to
+matrices
+but
+the 20th century has shown us that such
+study study is useful
+okay so
+just two examples so the standard model
+in fundamental physics and the language
+program in mathematics
+have representation theory at their core
+so i this is an incredibly inspiring
+paper about
+um
+the kind of
+remarkable
+appearance of symmetry in for example
+the standard model
+and here's in number theory um
+you have a
+article about the role of representation
+theory and number theory
+so
+what we're so this is meant to be about
+machine learning so why the hell am i
+talking about groups and symmetry
+so i just want to give you two examples
+where we might want an invariant
+projection
+so this is a totally
+beautiful picture in my opinion so this
+is a flock of birds
+okay
+and you'll notice
+that
+these birds as they fly they form some
+very interesting structure so they form
+a kind of a circle here
+and you you might you might pose
+yourself the task of using machine
+learning to understand this structure
+so there's a comment in the chat
+can you still hear me
+okay
+um
+okay
+i'm jody
+yes
+so just create
+the excel sheet for question
+haha
+yes i put the link in the
+zoom chat
+perfect
+okay
+so does anybody have any questions at
+the moment
+guys so if you have questions so i'll
+send you a link
+just put your question there
+yeah
+yes so that will be adding the question
+in this file
+sure
+okay
+so we can continue
+okay
+uh
+okay so
+now imagine that you want to for example
+examine the structure of this
+this flock of birds
+what
+you might
+the way that you might encode this flock
+of birds into a computer is there's a
+whole lot of numbered
+a whole a list of vectors
+okay this vector is affecting this
+vector etc
+um but notice that when we look at this
+we don't care which bird is number one
+and bird is number two we just
+care about the birds without their
+ordering
+so this is an example where we would
+like to make an invariant prediction
+so
+sorry invariant prediction
+another example
+is here i've tried i tried to find an
+image on the internet of a heat
+distribution on a sphere
+okay so this is meant to be a sphere
+and on this sphere you have areas that
+are very hot
+and you have areas that are cold
+and you can imagine
+that you want to for example train a
+neural net to predict the evolution
+of this um of this heat
+distribution
+now
+the evolution of the heat distribution
+would presumably be invaria the
+equations determining the evolution of
+the heat distribution would presumably
+be invariant
+under um rotations of our sphere
+okay so
+um
+you know if if for example this
+this area here moves across to here as
+the system evolved and then we move the
+sphere we
+expect to be able to predict
+where the moved distribution how the
+move distribution will evolve
+okay
+so this is an example of evolution of um
+this is an example of a prediction that
+we expect to be invariant
+okay
+so how does one build invariant or
+equivalent um
+neural nets
+so maybe i just noticed there was a
+question in the
+um
+so the question is um
+in some
+ins in some group action some literature
+include closure as the force that
+actions
+um yeah so that's a good question so if
+we go back to the definition of a group
+so here i say um
+here we have a definition of a group
+and then i'm implicitly so there's some
+people would include a fourth one namely
+closure
+which is that g
+and g prime in g
+implies gg prime
+in g
+but this is implicit when i write the
+multiplication in this way
+so i'm kind of
+secretly including this this axiom um by
+writing the definition definition
+definition in this way okay
+so thanks for the question
+okay so how do we build invariant or
+equivalent neural nets that's the
+question that we want to um
+ask
+now
+and i should say that there's quite a
+lot of literature on this so
+um there's this paper for example on
+steerable cnns group equivalent
+convolutional networks this book
+or the draft of the book which i think
+you've been following in this course
+which is geometric deep learning grids
+groups graphs geodesics and gauges okay
+so all
+all i'm doing today is i'm basically
+giving a survey of this this work
+um
+many references are missing and i'm not
+claiming that um
+that any of what i'm saying is original
+okay i'm just trying to explain uh
+what's going on in what i think is a
+very beautiful
+set of ideas
+so what i find remarkable about
+geometric deep learning is that it kind
+of
+it gives you a various a very structured
+way to build a neural net
+which um makes a whole lot of choices
+that might appear very tricky when
+you're actually making your neural net
+it makes them kind of automatic
+okay
+so
+i hope you've seen uh convolutional
+neural nets
+so
+this is i so i'm assuming
+um that you've seen convolution on your
+nets
+and so and what i want to view um
+a
+i want to consider a periodic image okay
+so this is so z mod h z squared is a
+grid
+oops
+so here i have a grid
+so this would be
+h
+so it's an h by h grid
+and
+um so that's what zmod h said looks
+like what i'm looking at is a function
+from z mod h said squared so from this
+grid to the real numbers
+so that means what i associate i
+associate every point here a real number
+which i can interpret as being a
+grayscale value
+so here's an example of what a periodic
+image would might look like
+and
+i call this a periodic image rather than
+an image because kind of
+like it kind of wraps around
+it's more like an image on a torus
+and what we seek
+is
+some function
+that takes in a periodic image and spits
+out
+a real valued a real number which is for
+example
+it's positive on tigers and negative on
+non-tigers for example and also we we
+expect that it's kind of very positive
+if we're sure that the image is a tiger
+and neg very negative if we're sure it's
+not and zero if we're not so sure
+so this is what we're seeking to do so
+this is a
+classification task which i hope you've
+seen
+in other lectures
+and here is a schematic of what happens
+in a cnn
+so we have
+this is our this is our input
+and then we apply various filters
+so here are here our filters
+and this will be our first hidden layer
+and then we apply again another set of
+filters and this would be our second
+hidden layer
+and then we might do some kind of
+pooling operation
+where we for example
+um
+we might do max pooling for example
+which would take
+these and then replace it by the maximum
+entry in each one
+and then
+basically in what follows i'm kind of
+going to ignore this bit
+and then finally we do some fully
+connected layer down to r
+okay
+so this should be um i hope that this is
+a reasonably familiar picture
+for you from um from cnn's
+so convolutional neural nets
+now i just want to look at this
+situation through the lens of group
+theory
+so this is what i've just explained this
+is the structure of a convolutional
+neural net
+and i just want to point out so this is
+a group
+and
+um this group acts on the set of
+functions via translation
+so
+if you if you take um
+f which you regard as an as a periodic
+image
+and then you take an element g it just
+kind of shifts your image you know up
+and to the right or something like that
+and the really important thing to notice
+is that convolution is gamma equivalent
+so what that means
+is that if you
+translate and then apply a filter that's
+that's the same thing as applying the
+filter and then translating
+and there's a nice um
+little exercise in
+in representation theory
+which is that if you look at the
+that um
+equivalent functions between
+like
+the spaces of functions
+so
+you know i hope it i hope it's clear but
+fun
+said what h said
+squared is the same thing as
+real valued
+functions on z
+what h squared
+so basically um convolution is the only
+equivalent thing that i can do between
+these function spaces
+so applying a filter is the only
+equivalent thing that i can do
+okay
+so the first observation is that we
+often want a gamma invariant answer so
+like imagine that our question is
+recognize a tiger
+and we have a tiger in the bottom left
+if we move the tiger up to the top right
+it's still a tiger
+so that's the statement that
+we we seek a gamma invariant prediction
+the other important point
+is that convolution so this is
+also known as applying a filter
+and also
+relu
+so
+the rectified linear unit are gamma
+equivalent
+and another thing that we often require
+is that these filters initially
+are local so that means that for example
+as we're going across our image we're
+only um
+we're only applying a filter to a small
+region of our image
+and locality is the same thing as that
+the filters are supported near the
+identity in our group
+so they're they don't change our picture
+very much
+now what i find remarkable
+is that these three properties
+namely gamma invariance gamma
+equivalence and locality
+basically force the answer to look like
+this so if you
+i don't know the first first time i saw
+a convolutional neural net i thought
+it's a bit of a strange definition
+but if you just make these simple
+assumptions that it's gamma invariant
+that the lat so we want the prediction
+to be gamma in
+invariant
+we want each of the layers to be gamma
+equivalent
+and
+we want locality
+then basically convolutional neural nets
+have to be the way they are
+so just see if there was any questions
+so someone asked what may be the
+motivation for studying the shape
+of birds in the figure you had
+so i'll go back to that
+yeah so that's a good question so why
+might we be interested in um
+in studying the structure of the birds
+um
+yeah i i i guess my my honest answer
+would be it's probably very interesting
+um
+and
+it's yeah i'm not sure and another
+another example might be that you might
+have some population for example
+and
+you might consider their age and their
+income
+so you might have a whole
+a whole poppy you might have um
+age and income
+and
+perhaps you might expect so let's say
+that this is age 20
+and this is age 50
+and maybe you expect that
+income increases and then perhaps
+decreases
+so this might be a rough plot
+but then you might
+there might actually be some like
+interesting hole here so
+people
+um
+you know it might be the case that
+people of age 40 either earn
+a large amount or a small amount but no
+one kind of burns in the middle
+so that that might be something
+interesting to observe in your data
+um and that that would be an example of
+some kind of prediction that we might be
+interested in making and just as in here
+in the in this bird flock we have this
+kind of hole here
+which might be interesting for various
+reasons
+okay
+but i guess the important point up here
+is that as in the birds we don't
+actually care like
+we're look we're trying to look at this
+data without remembering which point
+corresponds to which person
+we're trying to look at global features
+rather than um
+[Music]
+rather than specific things associated
+to a specific person
+now this is an extremely important um
+kind of technical point
+so i'll come back to the questions in a
+second
+so let's say
+i assume you've learned what a fully
+connected neural net is
+so here's a fully connected neural net
+uh which
+so imagine that the the this has input
+layer dimension l1 and
+and this layer dimension is l2
+now we have l1 times l2 parameters
+okay
+so this
+even in simple examples this could be
+enormous
+for example if this is 10 to the 6
+you know like in a typical in a typical
+image
+you might have 10 million pixels
+so this could
+realistically be
+something like you know 10 to the 7
+and then if you put 10 to the 7 here
+that means you have
+10 to the 14 parameters
+which is an enormous number for um
+you know
+even even a good computer
+whereas imagine the first layer of a
+one-dimensional convolutional neural net
+okay so here i have
+um
+so here i'm kind of imagining like a
+one-dimensional image
+if i impose
+equivalence and locality
+then regardless of the dimension i just
+have three parameters here
+okay so we have three parameters totally
+independent of the size
+which is really remarkable so you know
+10 to the 14 versus three it's a big
+advantage okay so um i'll just address
+the questions now
+um so please what is gamma
+ah so sorry yeah so gamma
+so gamma is
+z mod h z squared
+the image should always be periodic
+so this was another question
+uh
+so
+basically the the period the assumption
+that the um
+image is periodic is this is a
+simplification
+okay so this assumption um allows one to
+see clearly what
+what is going on and then once once
+you've um
+once you've seen clearly what's going on
+then it can be dropped
+so this is not um you know
+in in in normal neural net architectures
+recognizing images you don't assume that
+the image is periodic
+uh
+but it really simplifies things to do so
+and
+could you explain that graph above
+related to convolution and gamma
+invariant
+i'm not sure i understand the question
+so
+um
+if you could clarify the question i can
+try to answer it
+okay
+so that's really
+really important this
+massive drop down in parameters
+when you when you
+look at a cnn
+so now um
+we look at the
+general case
+so someone also asked where am i now so
+i am um
+i am currently in sydney in well near
+sydney i am two hours from sydney in
+australia
+this is an this is a question that's
+easy to answer
+um
+and
+um
+please explain the formula for the
+periodic image you draw an h by h matrix
+but the formula has z mod h said squared
+yes so
+here
+oh sorry
+i'm sorry this was a typo i meant to
+write zmod h said squared
+okay so
+yeah so z mod h squared is the numbers
+zero up to um
+[Music]
+up to h minus one so this is what i've
+listed along here zero up to h minus one
+and then when i take the square i get
+an array
+and then i'm viewing a periodic image as
+being a real valued function on this
+array
+okay
+so
+what makes the dimensions remain
+constant in the place of locality and
+equivariance
+so
+maybe i can try to explain that in the
+following way
+so imagine
+so i'm just going to move up a little
+bit and i'm going to take this
+so imagine here fully connected
+so here we have 36 dimensions
+and here we have 36 dimensions
+and so here we would have
+um
+r to the 36 times 36 so we'd have 36
+times 36 parameters
+which is enormous
+i mean not that enormous but
+um
+but still rather large
+but if you think about what happens in a
+convolutional neural net
+then the value of this pixel
+is determined
+by the values of these pixels
+so
+and moreover this value here depends on
+these in exactly the same way
+as for example
+this pixel determines
+and so here you would only have
+something like nine parameters
+so
+here you see that the number of
+parameters changes as my images get
+image gets larger
+you know if i increase my image to
+like
+to seven or something then this would be
+out of a 49 out of a 49 and then i'd
+have 49 times 49 parameters here
+but here it doesn't change i always just
+have nine parameters
+okay
+so thank you for the question uh
+i hope i hope i answered all the
+all the questions in the um question
+cheap but if i didn't just just ask more
+questions
+uh
+okay so now i just wanted to present um
+the general blueprint
+so this might seem very dry
+uh but it's incredibly powerful and i
+hope to give it an example of why it's
+powerful at the very end
+i also think that in some sense it's
+like it's it its power has not yet been
+really appreciated and so i think that
+there's many interesting examples still
+to be done
+so
+if we consider a transitive gamma set
+so this means so gamma is now any kind
+of group
+and what we want to do so you should
+think about the the
+the example
+is when gamma is z mod h z squared
+and you should think about this
+example as being the kind of
+extremely simple
+um
+example and i'm i'm discussing
+um potentially much more complicated
+situations but keep this example in mind
+so what we want to do is learn some
+invariant or equivalent function
+from functions on x to r
+now one of the things that's
+um
+very nice
+is that
+if
+our action is transitive
+then the only linear
+uh
+the only linear gamma invariant function
+is just given by the
+integral of our function or the sum
+of our function so this is the same
+thing as the
+sum sum of the values of f
+x and x
+if x is finer
+okay so mathematicians often just write
+integral and when the set is finite they
+mean sum
+and when the set is infinite they mean
+the integral in the sentence of
+calculus or differential geometry
+so the point of this exercise is that
+there's not very many interesting
+gamma invariant functions
+if they're linear so we're definitely
+learning a non-linear function
+and basically what we do is we write
+down exactly the same structure as
+before
+so uh
+we consider functions on x and then we
+consider functions on um transitive sets
+transitive gamma sets
+link them all up in this way
+and now the important
+thing to
+the the important question to ask is
+what are the filters
+or what are the possible
+convolutions
+and
+there's a very important formula in
+representation theory called the double
+concept formula which gives you an
+answer in terms of group theory for what
+these convolutions are
+okay
+so maybe um i'll just see if there's
+more questions and then i might
+so how is it connected to lower graph
+i'm not sure i don't understand the
+question how is it connected to lower
+graph
+okay so i might just skip over the next
+bit um
+and i just want to give an example of
+uh
+hello
+yes yes i was talking
+in a few minutes you explained something
+that was really true they mentioned how
+the parameter might change but
+below for that questions there was some
+graphic ready to convolutionally explain
+it so we want that you can explain that
+graphic clearly because we it's hard to
+render things once we don't have many
+explanations on that graph
+so which one can you tell me which one
+you mean
+so there is a slide where we're
+explaining the how the parameter change
+when you try to go from one area to yes
+yes this one
+above
+yes here
+okay
+um
+and so what is
+what is not what would you like me to
+explain here
+this graph which is below
+okay this shame of cnn
+okay
+so um
+so generally
+so
+imagine that we have um
+a
+so typically
+what will happen in a cnn
+is that this
+so
+so this is the this is this is part of
+input image
+okay so i imagine that this is like a
+small part of a big image
+and then i have a filter so i have
+something like um
+if
+so this is my
+filter
+and now the formula for what happens in
+a cnn is that
+a value here
+so
+and i get a complicated
+and this value here
+will be equal to
+this summer
+okay
+so maybe i can try to find
+[Music]
+a talk where this is shown so
+i just see if i can
+yes so here's an example of the filter
+okay so
+here's my um
+here's my filter so it's minus one minus
+one minus one minus my minus one minus
+one minus one and it has an eight in the
+middle
+and now i take this image
+and for every um
+for every
+nine by nine
+pixels inside here every tiny little box
+of nine by nine pixels
+i
+i apply the formula that i just wrote so
+this means i take the nine by nine grid
+and then i take the dot product with
+these numbers
+and then
+i get this picture
+and notice how
+this picks out these kind of outlines
+whereas
+[Music]
+areas where there's not much change in
+color when there's a stark change in
+color for example here this really shows
+up after applying this filter
+whereas here where there's not much
+change in color i just get darkness
+yeah
+so this is an example of applying a
+filter
+did that make sense
+so
+the the really the the point that i'm
+trying to get across here
+is that
+like in this neural net down here you
+would have several of these layers but
+each one of these
+these arrows
+would just requires nine parameters or
+something so it just requires these nine
+parameters so we do the same thing
+across the whole image
+so
+these
+um
+these numbers determine
+this map
+across the whole image
+so there's nine parameters that
+determine this
+this map
+okay
+so i'll see if there's any more
+questions
+okay
+so yeah the the the basic point i'm
+trying to make is you get this
+much less parameters so it's much easier
+to train
+and the other point is that some kind of
+group theoretic um
+notions
+exactly tell you kind of what to do here
+so the group theory is a very powerful
+tool to learn what's going on here
+okay so i'll just go to the example of
+deep sets and then we'll finish
+okay so
+in this particular case we have a point
+cloud
+so this is like like the birds earlier
+and we would like to make some kind of
+prediction based on this point cloud
+okay
+and there's many many situations in
+machine learning where such a prediction
+is necessary so you have
+a large number of points but the
+ordering does not matter that's the key
+point
+the order
+so for example in the swarm of birds you
+do not care which bird is which
+so
+many problems can be seen as learning
+um
+so we
+we have our collection of points
+so this is n points in r to the d
+so this would be for example um
+10 000 points in r3 so here we'd have r3
+to the 10 000
+and now we can
+we can view this instead as
+d points in r to the n
+where we like first look at the first
+coordinate then the second coordinate et
+cetera
+now
+notice that rn so this is rn
+is a representation
+of sn the symmetric group
+and what we're saying is that we don't
+care we want this to be an
+sn invariant prediction so what that
+means is that if we reshuffle our points
+and relabel them we don't want the
+measurement to change
+so now i employ the following notation
+so big n
+just means functions on this big set
+and one means the trivial representation
+and now you can work out it's not
+difficult
+to work out the sn invariant maps
+between these representations
+so
+so basically this is determining the
+kind of number of parameters
+in your neural net so from the layer
+from a one dimensional vector space to
+one dimensional vector space there's
+only one we're used to that but if you
+look at an sn invariant map from n to
+the identity there's in fact just one
+and that's this averaging operator
+and similarly you can work out this
+and this is the deep set architecture so
+this is of
+um here at al
+so here would be my input so this would
+be an example of a three-dimensional
+point cloud input so i'd have n points
+this would be n points
+in r3
+and then i
+choose a few a few a few units
+and then
+i know exactly what i can put on these
+edges thanks to the formulas that i gave
+on the previous slide
+okay and again we get this massive
+reduction
+in the number of parameters
+um
+okay so here are some questions
+if you're an expert about these
+these things
+and
+thank you
+just
+[Applause]
+is
+i i think uh there is one question on
+the fight
+about lidar
+i think there is one question remaining
+that you didn't answer
+yeah so i think the question is uh oh so
+the is the point cloud similar to lidar
+i don't really know what lidar is
+so
+um i'm not sure
+probably some of you know much better
+than that so please explain second last
+slide
+um
+is this
+is this what you mean by second last
+slide
+oh whoops i should share
+is that the second last slide or is this
+the second last slide
+so
+could you go down to the next slide
+this one
+come here
+hi
+it's laid before this one
+this one
+okay so
+what where so this is
+this is determining
+parameters in our neural network
+so this is saying
+that
+so
+like let's take this example
+so what we're asking is how many
+so if we just view this as a vector
+space so this is
+as a vector space this is just r to the
+n
+so if we look at vector space
+homomorphisms from r to the n r to the n
+the dimension
+is r to the n squared
+okay so this is an enormously large
+space
+but now if we look at those
+maps
+from here to here
+which are
+equivariant for
+sn
+then it turns out
+that there's not very many of them
+so
+one example is i could take the identity
+another example is i could take all of
+my coordinates i could sum them up
+so that's this map here
+and then i can send so here's a here's
+another example so from r to r to the n
+the map that sends
+one
+to
+one one one
+one
+this is
+this map is sn invariant
+because
+um if i act by sn on this if i permute
+the coordinates it stays the same
+and so basically there's two ways that i
+can go in an sn invariant ways from here
+to here i can do the identity map
+or i can go from
+n to the identity into the
+one-dimensional space and then back
+again and this is it
+so that's the that's the important point
+this is it
+so
+by imposing the symmetry you cut down
+this n squared dimensional space
+down to a two dimensional space
+i hope that was helpful
+yes fine uh i think there's another
+question on the file
+yes so
+yeah so what is the general intention
+uh
+yeah i mean
+um
+in some sense it's it's difficult for me
+because i don't i don't know what you
+know and what you don't know
+um
+my intention is just to present
+something that i think is is beautiful
+and useful
+um
+and
+yeah i hope that you have some picture
+of um of what a convolutional
+neural net is and how it can be viewed
+through group theory
+and i also hope that
+um
+you're aware of the fact that um like
+these kind of equivariance
+considerations can help you design
+neural nets
+i think there is one last question also
+on the file
+uh-huh
+what other properties we are looking for
+on the sphere
+yeah it depends um
+like you might be
+you might be trying to predict
+for example
+you might like take the surface of the
+earth and you might be out trying to
+predict the weather or you might have a
+ball and you're trying to predict the
+heat
+the heat distribution on this ball in 10
+minutes or there's many different
+problems that could could occur
+obviously
+okay so thank you
+thank you
+have a good morning

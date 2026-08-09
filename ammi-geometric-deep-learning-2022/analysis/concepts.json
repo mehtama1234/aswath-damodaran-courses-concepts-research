@@ -1,0 +1,600 @@
+[
+  {
+    "slug": "geometric-deep-learning-blueprint",
+    "name": "Geometric deep learning blueprint",
+    "theme_id": "geometric-deep-learning-starts-by-rejecting-unstructured-learning",
+    "theme_name": "Geometric Deep Learning Starts By Rejecting Unstructured Learning",
+    "summary": "Geometric deep learning is presented as a single organizing question: what symmetries, relations, and geometric constraints define the data domain, and how should the model honor them?",
+    "why_it_matters": "This is the course's master frame. It turns a long list of architectures into one reusable design logic.",
+    "core_idea": "Instead of memorizing separate families of models, the course teaches a blueprint for moving from domain structure to inductive bias to operator design.",
+    "lenses": [
+      "blueprint",
+      "inductive-bias",
+      "unification"
+    ],
+    "strongest_sessions": [
+      1,
+      12
+    ],
+    "subtheme_refs": [
+      "The course treats geometric deep learning as a unifying blueprint",
+      "Applications and trends turn the blueprint into a research agenda"
+    ],
+    "broader_patterns": [
+      "Architecture choices are only defensible when tied back to domain structure.",
+      "The field keeps expanding because new domains expose new geometric constraints."
+    ],
+    "applied_uses": [
+      "Choosing whether a problem is better framed as a set, graph, grid, manifold, or hybrid domain.",
+      "Explaining why CNNs, GNNs, and equivariant models are related rather than unrelated inventions."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Design Question",
+        "text": "What transformations and relations define the domain?"
+      },
+      {
+        "title": "Modeling Question",
+        "text": "Which operator respects that structure while staying learnable?"
+      }
+    ],
+    "site_page": "site/concepts/geometric-deep-learning-blueprint.html"
+  },
+  {
+    "slug": "inductive-bias-in-high-dimensions",
+    "name": "Inductive bias in high dimensions",
+    "theme_id": "geometric-deep-learning-starts-by-rejecting-unstructured-learning",
+    "theme_name": "Geometric Deep Learning Starts By Rejecting Unstructured Learning",
+    "summary": "Learning in high dimensions needs prior structure because data alone is rarely enough to identify useful functions.",
+    "why_it_matters": "It explains why the rest of the course exists. Without this problem, there is no need for geometric deep learning.",
+    "core_idea": "The curse is not just computational scale. It is the mismatch between the number of possible functions and the amount of supervision available.",
+    "lenses": [
+      "high-dimensions",
+      "sample-complexity",
+      "bias"
+    ],
+    "strongest_sessions": [
+      1,
+      2
+    ],
+    "subtheme_refs": [
+      "High-dimensional learning breaks down without good priors"
+    ],
+    "broader_patterns": [
+      "Data efficiency comes from bias, not from optimism about unlimited samples.",
+      "Useful priors shrink the search space toward functions the world actually contains."
+    ],
+    "applied_uses": [
+      "Motivating symmetry-aware or locality-aware design in real tasks.",
+      "Defending structured architectures against generic fully-connected baselines."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Failure Mode",
+        "text": "Unstructured models can fit too much with too little guidance."
+      },
+      {
+        "title": "Repair",
+        "text": "Inject domain assumptions so the learner searches a narrower, better function class."
+      }
+    ],
+    "site_page": "site/concepts/inductive-bias-in-high-dimensions.html"
+  },
+  {
+    "slug": "geometric-priors",
+    "name": "Geometric priors",
+    "theme_id": "geometric-deep-learning-starts-by-rejecting-unstructured-learning",
+    "theme_name": "Geometric Deep Learning Starts By Rejecting Unstructured Learning",
+    "summary": "A geometric prior says that the data live on a structured domain and that the hypothesis class should be organized around that structure.",
+    "why_it_matters": "This concept is the bridge from abstract motivation to actual architecture design.",
+    "core_idea": "The prior is not merely a regularizer. It is the decision to build the model around transformations, neighborhoods, or coordinate relationships that the problem naturally contains.",
+    "lenses": [
+      "priors",
+      "structure",
+      "model-design"
+    ],
+    "strongest_sessions": [
+      3,
+      4
+    ],
+    "subtheme_refs": [
+      "Geometric priors are the repair strategy, not a decorative add-on",
+      "Invariance and equivariance formalize what should stay fixed or transform predictably"
+    ],
+    "broader_patterns": [
+      "The strongest priors improve both generalization and interpretability.",
+      "Bad priors fail when they import the wrong geometry into the task."
+    ],
+    "applied_uses": [
+      "Choosing neighborhood systems for graphs or local charts for manifolds.",
+      "Testing whether an architecture is aligned with the real symmetries of the data."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Source",
+        "text": "Priors come from what is stable under transformation in the domain."
+      },
+      {
+        "title": "Tradeoff",
+        "text": "Too little prior wastes data; too much prior can hard-code the wrong world."
+      }
+    ],
+    "site_page": "site/concepts/geometric-priors.html"
+  },
+  {
+    "slug": "symmetry-invariance-and-equivariance",
+    "name": "Symmetry, invariance, and equivariance",
+    "theme_id": "symmetry-is-the-central-language-for-encoding-structure",
+    "theme_name": "Symmetry Is The Central Language For Encoding Structure",
+    "summary": "Symmetry is the course's preferred language for telling a model what should stay unchanged and what should transform predictably.",
+    "why_it_matters": "It is the conceptual core behind CNNs, group-equivariant models, and much of the later geometry block.",
+    "core_idea": "Invariance asks for unchanged outputs under a transformation, while equivariance asks for outputs that transform in a controlled corresponding way.",
+    "lenses": [
+      "symmetry",
+      "invariance",
+      "equivariance"
+    ],
+    "strongest_sessions": [
+      3,
+      4,
+      15
+    ],
+    "subtheme_refs": [
+      "Invariance and equivariance formalize what should stay fixed or transform predictably",
+      "Equivariance and protein structure show the payoff of getting geometry right"
+    ],
+    "broader_patterns": [
+      "The right symmetry can dramatically reduce sample complexity.",
+      "Abstract equivariance often becomes valuable only when it is tied back to a domain task."
+    ],
+    "applied_uses": [
+      "Image recognition under translation or rotation.",
+      "Scientific prediction where physical laws are coordinate-independent."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Invariance",
+        "text": "The answer should not change when the input is transformed."
+      },
+      {
+        "title": "Equivariance",
+        "text": "The answer should change in a rule-bound way that mirrors the input transformation."
+      }
+    ],
+    "site_page": "site/concepts/symmetry-invariance-and-equivariance.html"
+  },
+  {
+    "slug": "sets-and-permutation-invariance",
+    "name": "Sets and permutation invariance",
+    "theme_id": "domains-differ-so-the-operators-have-to-differ",
+    "theme_name": "Domains Differ, So The Operators Have To Differ",
+    "summary": "Set learning begins by refusing to treat order as meaningful when the domain itself does not care about order.",
+    "why_it_matters": "It is one of the cleanest examples of matching architecture to domain geometry.",
+    "core_idea": "If reordering elements should not matter, the aggregation rule has to be permutation invariant.",
+    "lenses": [
+      "sets",
+      "aggregation",
+      "permutation-invariance"
+    ],
+    "strongest_sessions": [
+      5
+    ],
+    "subtheme_refs": [
+      "Sets require permutation-invariant aggregation"
+    ],
+    "broader_patterns": [
+      "Simple domain assumptions can radically constrain valid architectures.",
+      "Aggregation is not an implementation detail; it is the mathematical heart of the model class."
+    ],
+    "applied_uses": [
+      "Point clouds, bags of instances, and unordered collections.",
+      "Any task where indexing is accidental rather than meaningful."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Constraint",
+        "text": "Permutation of inputs should not alter the representation or prediction."
+      },
+      {
+        "title": "Design Consequence",
+        "text": "Pooling and aggregation become first-class architectural choices."
+      }
+    ],
+    "site_page": "site/concepts/sets-and-permutation-invariance.html"
+  },
+  {
+    "slug": "graph-message-passing",
+    "name": "Graph message passing",
+    "theme_id": "domains-differ-so-the-operators-have-to-differ",
+    "theme_name": "Domains Differ, So The Operators Have To Differ",
+    "summary": "Graph neural learning treats nodes, edges, and neighborhoods as the basic geometry of computation.",
+    "why_it_matters": "Graphs are the course's most flexible structured domain and the staging ground for many later applications.",
+    "core_idea": "Representation learning on graphs is built from local information exchange, with expressivity determined by how messages are formed, aggregated, and updated.",
+    "lenses": [
+      "graphs",
+      "message-passing",
+      "locality"
+    ],
+    "strongest_sessions": [
+      5,
+      6
+    ],
+    "subtheme_refs": [
+      "Graphs require relation-aware locality and message passing",
+      "Scientific and expressive graph variants push beyond vanilla message passing"
+    ],
+    "broader_patterns": [
+      "Graph structure is both a source of power and a bottleneck for expressivity.",
+      "Many later graph variants are attempts to fix what plain message passing misses."
+    ],
+    "applied_uses": [
+      "Molecules, social networks, physical interaction systems, and knowledge graphs.",
+      "Problems where relations matter at least as much as attributes."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Locality",
+        "text": "Information is exchanged through neighborhoods rather than through one flat vector."
+      },
+      {
+        "title": "Expressivity",
+        "text": "The architecture is judged by which graph distinctions it can and cannot represent."
+      }
+    ],
+    "site_page": "site/concepts/graph-message-passing.html"
+  },
+  {
+    "slug": "convolution-on-grids",
+    "name": "Convolution on grids",
+    "theme_id": "domains-differ-so-the-operators-have-to-differ",
+    "theme_name": "Domains Differ, So The Operators Have To Differ",
+    "summary": "The grids lecture recasts familiar image convolution as one especially regular case of geometric deep learning.",
+    "why_it_matters": "It prevents students from treating CNNs as the default model for everything. They become one domain-matched answer among many.",
+    "core_idea": "Grid domains support strong forms of translation symmetry and weight sharing, which makes convolution natural rather than arbitrary.",
+    "lenses": [
+      "grids",
+      "cnn",
+      "translation"
+    ],
+    "strongest_sessions": [
+      7
+    ],
+    "subtheme_refs": [
+      "Grids recover classical convolution as one structured special case",
+      "Groups and homogeneous spaces make global symmetry computational"
+    ],
+    "broader_patterns": [
+      "The regularity of images hides how special the grid case really is.",
+      "The broader field generalizes convolution by loosening what counts as a neighborhood or symmetry."
+    ],
+    "applied_uses": [
+      "Image and signal tasks on regular lattices.",
+      "Explaining how CNN intuitions map into graph or group settings."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Why It Works",
+        "text": "The grid gives a stable notion of nearby pixels and translation-consistent filters."
+      },
+      {
+        "title": "What It Teaches",
+        "text": "Classical deep learning already contains geometry when the domain makes it obvious."
+      }
+    ],
+    "site_page": "site/concepts/convolution-on-grids.html"
+  },
+  {
+    "slug": "groups-and-homogeneous-spaces",
+    "name": "Groups and homogeneous spaces",
+    "theme_id": "symmetry-is-the-central-language-for-encoding-structure",
+    "theme_name": "Symmetry Is The Central Language For Encoding Structure",
+    "summary": "Groups and homogeneous spaces formalize global transformation structure so equivariant operators can be defined with precision.",
+    "why_it_matters": "This is where the course moves from intuition about symmetry to a deeper operator-design toolkit.",
+    "core_idea": "A domain may be acted on by a symmetry group, and that action can be used to define how features and filters should transform.",
+    "lenses": [
+      "groups",
+      "homogeneous-spaces",
+      "equivariant-operators"
+    ],
+    "strongest_sessions": [
+      8
+    ],
+    "subtheme_refs": [
+      "Groups and homogeneous spaces make global symmetry computational"
+    ],
+    "broader_patterns": [
+      "Convolution is generalized by replacing translation with broader group action.",
+      "The math matters because it tells you exactly what consistency condition the model must satisfy."
+    ],
+    "applied_uses": [
+      "Rotation-aware or pose-aware prediction tasks.",
+      "Systems where transformations form a clean algebraic family."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Algebraic Layer",
+        "text": "The group tells you how transformations compose."
+      },
+      {
+        "title": "Geometric Layer",
+        "text": "The homogeneous space tells you where those transformations act."
+      }
+    ],
+    "site_page": "site/concepts/groups-and-homogeneous-spaces.html"
+  },
+  {
+    "slug": "manifolds-for-learning",
+    "name": "Manifolds for learning",
+    "theme_id": "manifolds-and-local-frames-generalize-euclidean-intuition",
+    "theme_name": "Manifolds And Local Frames Generalize Euclidean Intuition",
+    "summary": "Manifolds describe domains that are locally Euclidean but globally curved, forcing models to respect intrinsic rather than ambient geometry.",
+    "why_it_matters": "It opens the door to non-flat domains without collapsing back into naive coordinate tricks.",
+    "core_idea": "What matters is not just where the data are embedded, but what the domain looks like from the inside.",
+    "lenses": [
+      "manifolds",
+      "intrinsic-geometry",
+      "curvature"
+    ],
+    "strongest_sessions": [
+      9
+    ],
+    "subtheme_refs": [
+      "Manifolds turn curved spaces into first-class learning domains"
+    ],
+    "broader_patterns": [
+      "Coordinate choices can hide the real invariants of the problem.",
+      "Many structured domains demand local reasoning stitched into a global object."
+    ],
+    "applied_uses": [
+      "Shape analysis, geometric computer vision, and learning on curved spaces.",
+      "Domains where global Euclidean assumptions distort the real topology or metric structure."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Local View",
+        "text": "Each patch looks Euclidean enough for familiar operations."
+      },
+      {
+        "title": "Global View",
+        "text": "The overall domain can still be curved, stitched, or topologically nontrivial."
+      }
+    ],
+    "site_page": "site/concepts/manifolds-for-learning.html"
+  },
+  {
+    "slug": "gauge-equivariance",
+    "name": "Gauge equivariance",
+    "theme_id": "manifolds-and-local-frames-generalize-euclidean-intuition",
+    "theme_name": "Manifolds And Local Frames Generalize Euclidean Intuition",
+    "summary": "Gauge equivariance handles problems where local frames matter but no single global frame is valid.",
+    "why_it_matters": "It is one of the most conceptually advanced points in the course and shows why local consistency can replace global symmetry.",
+    "core_idea": "Features can be represented relative to local coordinate frames as long as the model transforms them consistently under changes of gauge.",
+    "lenses": [
+      "gauges",
+      "local-frames",
+      "equivariance"
+    ],
+    "strongest_sessions": [
+      10
+    ],
+    "subtheme_refs": [
+      "Gauge equivariance replaces one global frame with compatible local ones",
+      "Later talks push symmetry beyond textbook global actions"
+    ],
+    "broader_patterns": [
+      "Local geometric structure can be more important than any one global coordinate system.",
+      "Advanced equivariant design is often about compatibility between overlapping local descriptions."
+    ],
+    "applied_uses": [
+      "Directional features on surfaces or manifolds.",
+      "Domains where tangent-space information matters."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Problem",
+        "text": "There is no globally preferred frame."
+      },
+      {
+        "title": "Solution",
+        "text": "Use local frames and enforce transformation consistency across them."
+      }
+    ],
+    "site_page": "site/concepts/gauge-equivariance.html"
+  },
+  {
+    "slug": "beyond-groups",
+    "name": "Beyond groups",
+    "theme_id": "manifolds-and-local-frames-generalize-euclidean-intuition",
+    "theme_name": "Manifolds And Local Frames Generalize Euclidean Intuition",
+    "summary": "Beyond-groups thinking asks what other mathematical objects might carry useful inductive bias when classical symmetry groups are not enough.",
+    "why_it_matters": "It keeps the course from ending in a closed textbook. The field is explicitly left open-ended.",
+    "core_idea": "The right organizing structure for a task may be partial, local, combinatorial, or otherwise richer than a clean global group action.",
+    "lenses": [
+      "generalization",
+      "structure",
+      "future-directions"
+    ],
+    "strongest_sessions": [
+      11
+    ],
+    "subtheme_refs": [
+      "Beyond-groups thinking asks what other organizing structures matter"
+    ],
+    "broader_patterns": [
+      "Mathematical elegance is useful, but only if it survives contact with messy domains.",
+      "The frontier often advances by relaxing assumptions that used to define the field."
+    ],
+    "applied_uses": [
+      "Motivating research into sheaves, higher-order structure, and nonstandard relational systems.",
+      "Recognizing when forcing a problem into a group template is too restrictive."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Field Pressure",
+        "text": "Real domains often violate the assumptions of clean global symmetry."
+      },
+      {
+        "title": "Research Response",
+        "text": "Look for wider structural languages that still yield learnable operators."
+      }
+    ],
+    "site_page": "site/concepts/beyond-groups.html"
+  },
+  {
+    "slug": "physics-based-gnns",
+    "name": "Physics-based GNNs",
+    "theme_id": "the-frontier-is-measured-by-working-applications-not-only-theory",
+    "theme_name": "The Frontier Is Measured By Working Applications, Not Only Theory",
+    "summary": "Physics-based graph models use graph structure and symmetry constraints to learn dynamics and interactions in scientific systems.",
+    "why_it_matters": "This seminar shows how the course blueprint cashes out in scientific machine learning rather than staying at the level of abstract operator theory.",
+    "core_idea": "The graph is not just a convenient data structure. It becomes a scaffold for encoding particles, interactions, conservation structure, and physical bias.",
+    "lenses": [
+      "physics",
+      "gnn",
+      "scientific-ml"
+    ],
+    "strongest_sessions": [
+      13
+    ],
+    "subtheme_refs": [
+      "Scientific and expressive graph variants push beyond vanilla message passing"
+    ],
+    "broader_patterns": [
+      "Scientific domains reward architectures that respect known structure.",
+      "Geometric bias often improves extrapolation where naive black-box learning fails."
+    ],
+    "applied_uses": [
+      "Molecular simulation, n-body systems, and learned physical dynamics.",
+      "Prediction problems where invariances and relational interactions are known ahead of time."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Scientific Prior",
+        "text": "Encode physical interaction structure directly in the computational graph."
+      },
+      {
+        "title": "Payoff",
+        "text": "Better faithfulness, sample efficiency, and extrapolation under structural constraints."
+      }
+    ],
+    "site_page": "site/concepts/physics-based-gnns.html"
+  },
+  {
+    "slug": "subgraph-gnns",
+    "name": "Subgraph GNNs",
+    "theme_id": "the-frontier-is-measured-by-working-applications-not-only-theory",
+    "theme_name": "The Frontier Is Measured By Working Applications, Not Only Theory",
+    "summary": "Subgraph methods try to increase graph expressivity by letting the model reason on richer local structures than plain node neighborhoods alone.",
+    "why_it_matters": "This seminar makes the limitations of vanilla message passing concrete and shows one route toward stronger graph representations.",
+    "core_idea": "If standard neighborhood aggregation cannot distinguish certain structures, explicitly constructed subgraphs can carry the missing information.",
+    "lenses": [
+      "expressivity",
+      "subgraphs",
+      "graph-learning"
+    ],
+    "strongest_sessions": [
+      14
+    ],
+    "subtheme_refs": [
+      "Scientific and expressive graph variants push beyond vanilla message passing"
+    ],
+    "broader_patterns": [
+      "Graph research often advances by finding exactly what message passing cannot see.",
+      "Expressivity improvements usually come with computational tradeoffs."
+    ],
+    "applied_uses": [
+      "Tasks that need richer motif or pattern detection than ordinary local aggregation provides.",
+      "Benchmark settings where Weisfeiler-Lehman-like limitations matter."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Limitation",
+        "text": "Plain message passing can collapse distinct structures into the same representation."
+      },
+      {
+        "title": "Workaround",
+        "text": "Augment the computational unit from neighborhoods to structured subgraphs."
+      }
+    ],
+    "site_page": "site/concepts/subgraph-gnns.html"
+  },
+  {
+    "slug": "neural-sheaf-diffusion",
+    "name": "Neural sheaf diffusion",
+    "theme_id": "the-frontier-is-measured-by-working-applications-not-only-theory",
+    "theme_name": "The Frontier Is Measured By Working Applications, Not Only Theory",
+    "summary": "Neural sheaf diffusion imports a richer topological and local-consistency language into graph learning.",
+    "why_it_matters": "It is one of the clearest examples of the field moving beyond conventional graph and group language without abandoning structure.",
+    "core_idea": "Instead of only diffusing scalar information on a graph, sheaf methods allow locally attached feature spaces and consistency maps between them.",
+    "lenses": [
+      "sheaves",
+      "diffusion",
+      "topology"
+    ],
+    "strongest_sessions": [
+      16
+    ],
+    "subtheme_refs": [
+      "Scientific and expressive graph variants push beyond vanilla message passing",
+      "Beyond-groups thinking asks what other organizing structures matter"
+    ],
+    "broader_patterns": [
+      "The field is widening toward more expressive local-to-global consistency frameworks.",
+      "Advanced geometry often appears first as a way to repair representation bottlenecks."
+    ],
+    "applied_uses": [
+      "Graph problems where scalar diffusion loses important structured information.",
+      "Research on richer topological or fibered data domains."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Classical Diffusion",
+        "text": "Information moves on a graph with one shared feature space."
+      },
+      {
+        "title": "Sheaf View",
+        "text": "Each local region can carry its own feature structure with maps enforcing compatibility."
+      }
+    ],
+    "site_page": "site/concepts/neural-sheaf-diffusion.html"
+  },
+  {
+    "slug": "alphafold-and-geometric-bias",
+    "name": "AlphaFold and geometric bias",
+    "theme_id": "the-frontier-is-measured-by-working-applications-not-only-theory",
+    "theme_name": "The Frontier Is Measured By Working Applications, Not Only Theory",
+    "summary": "AlphaFold stands in the course as a flagship example of what happens when geometry and relational bias are aligned with a scientifically important problem.",
+    "why_it_matters": "It is the most legible proof to a broad audience that geometric inductive bias is not niche theory. It changes what models can do in the world.",
+    "core_idea": "Protein structure prediction rewards models that reason over relational structure, constraints, and geometry rather than over tokens alone.",
+    "lenses": [
+      "biology",
+      "protein-structure",
+      "applications"
+    ],
+    "strongest_sessions": [
+      17
+    ],
+    "subtheme_refs": [
+      "Equivariance and protein structure show the payoff of getting geometry right"
+    ],
+    "broader_patterns": [
+      "High-impact breakthroughs often come from combining scale with the right structured bias.",
+      "Geometry matters most when the target object is itself geometric."
+    ],
+    "applied_uses": [
+      "Explaining why structure-aware architectures matter in biology and chemistry.",
+      "Showing students a concrete success case for the broader course philosophy."
+    ],
+    "analytical_frames": [
+      {
+        "title": "Problem Structure",
+        "text": "Proteins are relational and geometric objects, not flat sequences alone."
+      },
+      {
+        "title": "Lesson",
+        "text": "When the inductive bias matches the domain, capability jumps can be dramatic."
+      }
+    ],
+    "site_page": "site/concepts/alphafold-and-geometric-bias.html"
+  }
+]

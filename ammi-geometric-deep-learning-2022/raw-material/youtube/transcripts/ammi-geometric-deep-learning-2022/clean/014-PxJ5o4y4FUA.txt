@@ -1,0 +1,1646 @@
+well first of all uh thanks for having
+me here today i'm fabricio frasca and
+i'm a research scientist at twitter but
+i'm also a
+phd student actually at imperial college
+london
+uh today we're gonna talk about
+subgraphs for more expressive graphical
+networks
+uh let me
+explain a little bit uh more about it
+so
+uh i would like to talk about what i
+call the subgraph gnn wave
+uh
+that is advances in more powerful
+graphical networks in the last year
+basically it's what i where we observed
+basically observed a surge in a series
+of approaches sharing common themes that
+is the use of subgraphs all concurrent
+uh to each other and uh we somehow
+gathered them and
+uh to collect to discuss them together
+as a graph gnns and so we're gonna
+briefly talk about some of these
+approaches at the beginning and then in
+the second part of the talk i'm gonna uh
+focus on a more specific uh approach
+that is equivalent to graphic
+degradation networks this is a framework
+that um seems like to unify um
+at the other s that has been proposed in
+the in the past year and it's a
+concurrent work i covered
+last year with
+other amazing collaborators uh so the
+second part of the talk will go more in
+detail about this framework
+okay so let's start with some background
+and motivation
+uh i guess at this point of the
+geometric deep learning course probably
+you're very familiar with this so
+probably yeah i guess we can we can go a
+little bit quick on this but uh in
+essence essentially we know what a gnn
+is right so gnn is uh or a graphical
+network is our parameterized function of
+graphs uh whose parameters we would like
+to learn
+uh from data right
+and uh probably the most common family
+of uh graphene networks uh is uh
+those that is called message passing
+your network family that is all those
+gnns which update not representations
+alternatively uh by exchanging messages
+with the neighbors
+uh we can keep repeating message passing
+for a certain number of layers until in
+the end we can perform a readout
+operation to obtain a representation for
+the overall
+graph in the graph
+and
+a very strong
+property and very actually advantageous
+property of message passing your
+networks is that as they were defined in
+the original formulation their
+permutation equivalent or invariant
+difficulty to the final graph
+representation
+this is a very important inductive bias
+in general
+but that would like to retain right but
+what's the matter with uh mpns or
+message passing neural networks so the
+matter as you may have probably seen
+during this weeks is that no matter how
+we
+design the message and update functions
+still they are bounded in expressive
+power that is they are not universal
+models so there are some functions
+defined on graphs which cannot probably
+learn with a message passing into an
+address
+and
+this has been characterized in terms of
+uh not being able to distinguish
+non-isomorphic graphs some of it some
+isomorphic grass and in particular uh
+very uh
+so um
+a series of very interesting papers i've
+shown that essentially the the upper
+bound on the expressive power of npns is
+that of the one up real test
+which is um
+normally fast heuristic that has been
+designed uh in the gravity community in
+in the past century to distinguish
+neuromorphic graphs and the way it works
+is basically data rates call refinement
+steps very similarly to what we do in
+message passing so initially if say that
+we would like to distinguish two
+possibly non-isomorphic graphs we assign
+the same color to every node and then we
+keep updating node colors by
+injectively hashing together the current
+node color for a certain node along with
+this multiset of colors from neighbors
+and we keep doing this and at each time
+at every step at every round as this is
+called we can gather the colors of nodes
+into histograms
+and can compare histograms to
+between
+between different graphs and as as soon
+as the histograms diverge then we can
+say that the two graphs are
+non-isomorphic
+so
+the problem with this approach is that
+there are some non-isomorphic graphs
+which instead are not distinguished so
+they will always be mapped to the same
+histogram and so
+for example this is an infamous pair of
+molecules that
+so they are two distinct molecules
+they're real-world molecules they're
+called the colon and bicycle penta
+uh
+they are they of course as you can see
+they have a different molecular
+structure and a different associated
+graph
+but indeed uh what happens is that they
+cannot be distinguished by the wl test
+so they will be assigned the same
+histogram
+and therefore they will be represented
+in the same way
+and uh the related limitations of this
+test is that it cannot count non-trivial
+patterns such as for example the number
+of triangles or
+cycles in a graph cannot really be
+complete but this approach
+and so for example in this case the
+approach is not able to tell well in the
+first molecule we have two um
+we have two six rings for example
+um
+all these limitations which have real
+practical uh implications they are
+inherited directly by mpns because of uh
+what it has been shown that basically uh
+this combinatory algorithm upper bounds
+the expressive power of npns so this is
+to
+somehow recap why it is important to
+study the expressive power of our
+approaches of gnns in particular
+and in the past years uh there's been a
+lot of effort in trying to design uh
+graphical networks which go beyond the
+expressive power of this commentary
+algorithm
+is there any question
+no okay
+uh there is no question
+okay
+i could use some noise but yeah feel
+free to interrupt me at any time
+um so uh
+what's going on so going on basically
+yeah i was saying in the past years
+there's been a lot of effort in trying
+to design novel architectures that are
+probably more expressive than 1wl and
+essentially the first approach is trying
+to mimic
+either the generalization of this
+combinatorial algorithm which are called
+kwl
+tests
+they are strictly more powerful than the
+standard wl algorithm
+but the problem is that
+essentially the gnns that are inspired
+by these
+algorithms they are non-local so they
+lose this locality inductive bias which
+is also a very interesting and important
+data bias in message passing neural
+networks and at the same time they they
+easily get computationally intractable
+for uh cadence parameter k uh greater or
+equal than three which is actually what
+we need to get more expressive
+gns
+so this is not really a feasible
+approach especially in practice
+at the other end of the spectrum there
+are approaches where instead try to
+get inspiration from
+algorithms for distributed computing
+whereas the idea sorry whereby the idea
+is that we can still use a standard
+message passing a network but we can
+provide it with a way to
+identify uniquely nodes in the graph so
+the idea is that this models can even
+be made universal if we
+allow them to uniquely identify centers
+of these messages during the message
+masking step and the way you would do
+this is typically in order to get unique
+identifiers you you use random node
+features uh sampled at any inference
+step
+uh the problem with this approach is
+that it because of this inherent
+randomness it's not uh equivalent to
+permutation
+and um the permutations and this uh
+empirically it has been shown that uh it
+really uh hinders uh generalization so
+it's it really creates problems in
+trying to generalize to test uh graphs
+and scene graphs
+uh maybe in a middle ground uh could be
+uh the following so there are these uh
+works which try to basically um
+consider substructures in the graphs
+especially those substructures which are
+not
+basically uh to which the standard uh
+master passenger networks are bind to
+and they either do message passing
+directly on top of them
+or they consider the presence of the
+substructures to modulate message
+passing between nodes
+let me start with maybe this particular
+approach grass structure networks
+which i believe is can be considered as
+upper cursor to this wave of subgraph
+gene ends we're going to talk about in a
+second
+so the idea is
+instead of considering random node
+features as not identifiers what i can
+do is i can
+choose a bank of substructures
+for example triangles cycles
+rings clicks
+and then i can mesh them on top of the
+input graph and for each node i can say
+well this node belongs to for example
+one triangle a one five cycle and maybe
+uh two four clicks for example so all
+these statistics can be uh gathered
+together to form somehow what we can
+consider as uh positional encodings
+structural encodings or enough in us in
+a way identifiers they are not unique
+identifiers of course but they still
+they're they are still able to break
+local symmetries that would lead
+basically standard wl test or message
+passenger networks to failure
+because basically each node is able to
+modulate the the messages coming from
+neighbors depending on some features uh
+structural features that standard mpns
+would not be able to capture and because
+of this reason uh this approach is
+actually strictly more powerful than 1wl
+for a certain choice of
+of substructures
+and other pros are that basically in
+this way we inject a very powerful um uh
+bias into the network which can be uh
+linked to the domain knowledge we have
+at hand so for example if you're working
+with molecules we are
+doing molecular modelling we know that
+rings are very important and so the fact
+that we count rings and we know uh to
+how many rings are not belong to uh this
+becomes a very uh useful feature to have
+uh it retains permutation equivalence
+which is very good and it has low
+message passing complexity it's the same
+complexity as standard message passing
+neural networks the problem with this is
+that
+uh
+counting the substructures in the first
+pla in the first place
+is actually might be actually
+computationally intractable in some
+cases
+and of course it's not really clear how
+to design uh the bank the substructure
+bank so which substrate
+to actually match on top of the input
+graphs
+this may depend on domain knowledge but
+sometimes we don't really have this
+right so this is some somehow
+problematic to some extent
+but still nonetheless i think i believe
+this is a kind of uh we consider the
+kind of precursors to this wave of
+approaches which emerged in the last
+year concurrently
+and we're going to talk about this uh
+now
+um
+the the common theme is the use of
+graphs and we will see in a second how
+and
+i've listed here some of them uh dropout
+gnns reconstruction gnns gns kernel we
+also have the framework i was talking
+about uh
+is equivalent uh subgraph aggregation
+networks or essence
+there are many others you can find them
+uh in michael's uh towards the science
+blog post uh we ordered along with some
+of the orders of these papers and yeah
+here i put the link i can share the
+slides afterwards so you can take a look
+so let's uh start to uh take a look at
+these approaches let's start from
+dropout gnn
+okay so what's the the key concept so
+the the concept is that
+so sub graphs well substructures we know
+are important but they might be
+it might be computationally expensive to
+match them and it's not really clear how
+to as i was saying how to sometimes how
+to choose them right but still what we
+can do is
+we can actually find importance of
+graphs very cheaply by subtraction so
+what i mean is we may have two graphs
+which are
+not distinguishable by the standard wl
+algorithm or let's say message passing
+near networks
+but they may contain some graphs which
+are easily separated by these algorithms
+and the way we can expose the subgraphs
+is simply by dropping some nodes
+uh very cheaply so in a kind of almost
+blind fashion right
+so what they propose in this paper is
+you can drop
+each node independently with a certain
+probability
+you run a message passing your network
+on the resulting graph which is is
+basically it's in itself a subgraph of
+the original graph we repeat this
+approach for a certain number of times
+and then we aggregate the embeddings
+that we got
+and uh this seems to be very a very
+native approach but indeed
+what happens is that every node sees a
+slightly different neighborhood each
+time and this resolves the ambiguities
+this this local sea images that leads uh
+basically double l to failure and the
+the orders show that this uh is enough
+to um
+with some bounds to uh get an expressive
+power which is greater than other
+messenger passing neural networks i'm
+gonna just present you know this the
+main ideas and then but we can try to um
+formalize this all um intuitions um
+better later when we talk about uh the
+uh econ framework so let me uh directly
+go to reconstruction neural nets just to
+you know give uh uh the big picture so
+it's a very similar approach
+the idea is that uh we can build on top
+of uh a famous uh
+popular conjecture in the graph theory
+community that states that it may
+actually that it is possible to recover
+a graph
+so reconstruct a graph from the
+collection of node deleteds are graphs
+of all nodes and graphs so the idea is
+you take a graph
+uh you delete one node at a time and all
+the connectivity involving that node
+each of these subgraphs you get they are
+called cards you can gather all the
+cards in in a bag or you know
+what they call a deck
+and uh if you consider the deck and you
+can
+reconstruct the original graph just
+looking at the cards in the deck
+so
+the others
+would basically propose something like
+this
+yes yeah there is a question
+sure
+yes
+let me take a look
+was light 11 how do you choose r is it a
+number parameter uh yes yes of course um
+[Music]
+it has also an impact um
+on the performance and
+uh the the other but not just on the
+performance also on the uh
+properties of the algorithm itself you
+can see it's uh if r is not um
+so if r is actually the um
+large enough you you might be uh
+guaranteed to sample basically all
+possible not the leaders are grasses you
+delete for example one at a time so
+uh being it um
+let's say a stochastic process uh the
+orders actually show that you can obtain
+a bounds on for example the expressive
+power of this approach based on the
+cyber parameter but in practice yes you
+will choose them in fact the others
+suggests that um
+you don't really need a very large r in
+practice because many times most of the
+time basically the times you
+it's sufficient to drop a few nodes to
+really expose importance of graphs
+but yes in principle it's not a
+parameter
+is this answered equation or
+okay let me continue but yeah feel free
+to keep interrupting me if there's
+anything else
+uh you want to talk about um
+okay uh
+so let's get back to the
+to the reconstruction neural networks so
+the idea is i can take a graph
+generate all the collection of node read
+sub graphs encode each of these
+subgraphs independently and then
+aggregate the encodings in a permutation
+environment fashion if i do this uh
+given that i have all possible sub
+graphs and i
+uh aggregate the encodings in a
+preparation for infection then i have an
+overall architecture which is actually a
+permutation variant
+uh and if the reconstruction conjecture
+holds this approach is actually um
+universal right
+so you may you might think well but is
+this really the case that we built on
+top of a conjecture well the conjecture
+has been improved for uh all graphs with
+um
+the number of a number of nodes up to i
+think 10 or 11 uh and it has been proved
+to actually hold for uh uh families of
+special families of crafts
+and what i mean is there is some shirt
+feeling that it might hold
+uh but other than this uh the the orders
+in the paper show that actually you can
+really extract interesting features by
+this process of not removal
+uh there's actually a caveat in this
+that is
+you
+well you know point two in the recipe
+says encode each of these subgraphs
+independently right but
+what you would need to do is to encode
+these subgraphs in a unique way right
+but
+encoding as a graph is as hard as
+encoding a graph right because it's a
+graph is a graph itself
+so
+the only way to but but the problem is
+actually that we don't really have a
+universal encoder for graphs this is the
+problem you're trying to solve today
+um so
+what you can do is you can keep doing
+this recursively until you
+get basically some graphs which are very
+small and you can enumerate the atomic
+types in the case yes you may be
+universal but the problem with this if
+the reconstruction conjecture holds of
+course but the problem with this
+approach is that uh the computational
+complexity will get exponential right so
+what the others propose is well you know
+what i can actually use an mpn as a card
+encoder so to encode the sub graphs
+so the result the model only
+approximates the conjecture regime
+because as we are as we said already
+mpns are not universal right but yet
+even if this seems a nahiv approach yet
+this can be probably expressive and the
+expressive power of this approach
+depends on k that is on the number of
+nodes we retain after the
+version
+so for example the others prove that if
+k is uh n minus one so if we delete one
+node at a time we can actually
+distinguish graphs as the circle skip
+link graphs i have a pair here in the
+slide which cannot be distinguished by
+standalone pngs and so this make along
+with other properties this makes this
+approach strictly more powerful than not
+npn's
+and for
+k equal to n minus two so if we delete
+two nodes at a time we can even
+distinguish graphs which are not
+distinguished by three double l which is
+even an even stronger generalization of
+wl
+um
+so you start to see like that uh
+ends they can somehow be used as
+subroutines uh to approximate
+some subgraph or some more feasible
+we'll get to this in a second
+i want to first show you another
+approach which is slightly different
+than this
+it's called gns kernel
+okay so the others uh the motivation is
+according to the others is well you know
+the bottleneck of standard double color
+refinement is that uh this approach
+works by hashing in in a sense hashing
+stars right
+so because i we take the color of a
+certain node and the colors of the
+neighboring nodes but in so doing we
+completely ignore the connective the
+local connectivity you know between for
+example between the neighbors
+um
+and according to the others this is the
+fundamental bottleneck that leads wl to
+its uh
+to its failures right
+so what they propose is to to shift from
+encoding stars
+to uh encoding actually ego nets or ego
+subgraphs that is basically the complete
+graph obtained induced by uh by the
+neighbors over certain nodes up to a
+certain depth for example
+we can consider whether the first hop or
+like one op neighborhood or to help
+neighbors and so on again here we have a
+parameter k
+uh which is actually considered to be
+another parameter that is the depth of
+this graphs right
+but okay what do we do with these
+subgraphs with this econets
+so the idea is that we can
+propose a variant of the standard w
+algorithm whereby
+we change the update rule right so
+instead of hashing as i was saying
+uh the the color of the of
+the current color of a node and the
+colors of the of the neighbors we hash
+directly the all subgraph
+around a certain node
+um okay the problem with this similarly
+as what we observed before with with
+cards and x right so the problem is that
+an injective hash of a sub graph is
+indeed as hard as injectively hashing a
+graph that is as encoding a graph
+universally
+so
+again
+we can
+approximate this encoding by running an
+internal inner nested w procedure only
+on the local graph
+so to recap basically
+this subgraph 1wl start variant is an
+approximation of this more powerful
+subgraph 1wl approach
+whereby
+instead of computing an injective ash or
+vanigonet which is very hard
+we run an internal nested wl approach
+only to encode the subgraph and we use
+the the output from this w internal wl
+approach to actually update the color of
+a node in this case
+is the red node in the picture
+and
+again what we can do is we can
+design a neural counterpart of this
+subgraph one wl star algorithm whereas
+whereby instead of running wl we
+actually run an internal nested gnn
+so how does this work so instead of
+doing standard message passing we update
+the representation of a node by running
+a nest
+a nested gnn on its uh egonet we
+repeat so what i mean is internally we
+perform message passing between the
+nodes in the sigonet we compute a
+readout we get a representation of the c
+net and we use this representation of
+the ignite exactly to update the
+representation of the of the root node
+of the root of the unit and we can keep
+doing this for some for many layers
+and you can see already that there is an
+interesting um
+there's something interesting uh
+popping up now that is
+we can parameterize this gnn differently
+right
+so for example one thing we can do is we
+can parameterize it with a message
+passing your network so as i was saying
+we do message passing internally in a
+nested fashion
+um and this can be made as powerful as
+subgraph on the blstar which the others
+show
+it's strictly more powerful than one
+well so we get actually more expressive
+power than standard message passing into
+our networks by simply running this
+nested uh message passing on top of igor
+nets
+and
+but what we can do is we can actually
+use even more powerful although more
+expensive of course encoders such as uh
+ppgn from our own ad headquarters which
+is has been shown to be
+as powerful as 3wl and if you do this if
+you use vpgn as an encoder for these
+eagerness you can actually
+distinguish
+graphs which are not distinguished by
+3wl so again we have the same uh in
+famous example here these two strongly
+regular graphs if you consider the red
+uh the egonet around these red nodes
+this egoness can be distinguished by uh
+ppgn so it means that these two graphs
+can be distinguished by ppg and as
+kernel as they call it this overall
+bi-level if you wish approach
+um let's wrap up a little bit so what
+what we have so we have that there are
+some common themes emerging um
+we have uh these approaches with little
+to no pre-engineering
+in a sense that we don't really need to
+uh basically select the sub graphs to
+match on top of a certain
+graph
+we can let importance of graphs directly
+emerge by perturbing the original graph
+but in a way that doesn't really require
+any particular and
+engineer
+[Music]
+okay
+what else
+we still stay within the remits of
+message passing in the sense that uh we
+don't really abandon message passing
+completely in the past it's been
+conjectured that in order to really
+break bottleneck of expressive power one
+should somehow abandon message passing
+completely for different approaches but
+what we are seeing here is that we are
+not abandoning this passing we use
+message passing and
+um
+this uh as
+advantages as we know so message passing
+is local it is scalable in terms of
+computation and it's very easy to
+implement
+but how is this used it's used as a sort
+of subroutine as we saw right so it's
+often used to somehow approximate sub
+graph uh encoding
+uh subgraph uh as more phases if you
+wish
+and
+this approach which uh to some extent
+might seem a little bit uh it's already
+enough to gain expressive power
+nonetheless
+um let's
+jump now into another approach uh
+covariance of graph aggregation networks
+more into detail
+um
+okay
+so this is a work i co-holder with
+specific babylock water clean
+uh
+bala uh
+streaming
+sorry srinivasan uh chiang kai gopinath
+a lot of students uh michael bronstein
+and aguei maron
+so the it's a concurrent work we
+published last year and more than a
+model it's an overall framework we can
+consider it as an overall framework
+and i'll explain you why in a second
+it provides additional characterization
+through the lens of equivalence and i
+think because of this reason it might be
+interesting to take a look at this
+during this
+course and it unifies and generalizes
+many other methods for example the
+methods we have seen so far
+i was saying that there were many
+students in this project because this
+project actually sparked from a summer
+school
+that's london geometry machine learning
+summer school in
+2021 basically last year which i invite
+you to take a look at and possibly apply
+for next year it's uh it's a great um
+it's a great um summer school
+okay
+so
+let's recap so what do we want we want
+some
+models or gnn which is probably
+expressive at least more expressive than
+standard 1wl or standard mpns
+we would like to reduce engineering as
+much as possible to keep the
+computational complexity somewhat
+tractable so we don't want to get to
+you know
+the very high
+intractable computational complexity by
+order gns
+but at the same time we want to
+retain equivalence because this is a
+very strong inductive bias when we work
+with graphs right
+and
+we recap that
+the main intuition that is the intuition
+shared by many others um many other um
+subgraph gnns is that even if two graphs
+are not distinguishable to impedance
+they may contain some graphs which are
+instead easily separated so what i mean
+is for example if we take this uh
+paragraphs here
+these two graphs are not distinguished
+by an empty n but if we simply remove
+one edge then we can run an npn n on the
+obtained subgraphs and they somehow all
+of a sudden they become easily separate
+they can be easily separated by an mpn
+right so we would like to kind of
+formalize this situation somewhere
+so the way we can do it is
+we can somehow design a recipe that is
+we take a graph
+we map this graph into a set of sub
+subgraphs there is a bag of the graphs
+with a certain function which we call a
+selection policy which decides how to
+extract some graphs for from an original
+graph and then we would like to process
+this bug in a principle way that is in a
+way to respect the inherent symmetries
+of this object
+um
+some possible policies are for example
+not deletion
+as deletion so we remove edges one at a
+time instead of nodes or we can extract
+igunes as in gns kernel right
+but let's get to the
+probably more interesting part like what
+does it mean to
+keep this equivalent so what are the
+symmetries of this object okay so
+if you consider a bag of graphs
+we have actually two symmetries which
+are related to one another by a direct
+product and uh let me explain why so
+each of graph in the back of course is a
+graph itself right so we would like to
+be
+equivalent to not permutation so if we
+promote the order of the nodes in some
+graphs we we want to we want the the uh
+the output of the network to um
+basically um
+have a um an equivalent response right
+um
+so so far so good i mean we we are used
+to this but now we have a new access
+right so we have also that we have
+different subgraphs in a bag the bag is
+fundamentally a set
+so the order of the sub subgraphs in the
+back is not really important right so we
+would like the variance also to
+permutations of the sub graphs in the
+back
+so as you can see we have two
+permutation groups now
+it's not just simply this the c one
+single permutation groups
+that is like permutation with respect to
+the order of nodes now we also have
+permutations with respect to the order
+of subgraphs
+and the super mutations actually are
+related to each other in a direct
+product and this is because there's um
+something which which we can really um
+leverage on that is
+all the sub graphs come from the same
+graph right
+so
+it is possible to align nodes between
+the subgraphs in a way that a certain
+node i in each subgraph can be traced
+back to node i in the original graph
+so
+this means that when we permute the
+nodes of uh of a graph we are allowed
+actually to
+permute the nodes of all the others of
+graphs in the same manner so this means
+that the internal permutation so the
+permutation on the nodes of each
+subgraph is the same across the bank
+and this is a very important
+intuition and i'll explain why uh in uh
+in these next slides
+but
+first of all we have this direct product
+between these two permutations groups
+right so how do we design a layer which
+is a good variant to this
+so fortunately uh we there is a work
+that has been
+published in in 2020 which study exactly
+the case where you would like to design
+a layer equivalent to a direct product
+between
+sorry between two symmetry groups where
+the outer symmetry is actually a
+permutation
+so as exactly as in our case the
+internal symmetry
+um so maybe let's recap so in our case
+we have two symmetries right so an
+external one which is
+we permute uh the sub graphs in the back
+and we have an internal one that is we
+permute nodes in the sub graphs right
+so this work actually uh dealt with the
+case where we have an external
+permutation symmetry as in our case
+and an internal image which can be any
+action
+in our case this is another permutation
+but it's uh it's our specific use case
+so other
+use cases for example for this general
+approach could be you have a set of
+images and you would like to um
+to
+process the set of images in an
+equivalent way so in that case the
+internal symmetry would be translation
+right
+but anyway let's get to the juice how
+how can we uh design this layer in a way
+to be maximally expressive and
+equivalent to this uh symmetry group so
+you need two blocks you need l1 and l2
+you need a first block which l1 which is
+a siamese component
+equivalent to the internal symmetry so
+in the case of images this will be for
+example a convolution lay convolutional
+layer and this is applied with the same
+ways to all
+elements in the set so for example to
+all images in parallel
+and then you have a second block l2
+which is still equivalent to the
+internal symmetry so it's still uh for
+example in the case of images it's still
+a convolutional layer but it does no
+don't shared weight so it's a different
+set of weights with respect to the first
+block and this block is applied to the
+submission the aggregation of the input
+element so in this case the summation of
+the input images
+and you take the outputs from
+this two blocks and then you
+sum them together and this will
+correspond to the output of the layer
+so again we have a siamese component
+this is this here in blue
+and an information sharing component if
+you wish with a different set of
+parameters which acts on the submission
+the aggregation of the inputs
+and we can do the same so
+in our case we don't have we won't have
+a convolutional layers of course
+but what we're going to have is we need
+a block
+a layer which is equivalent not to
+translation but
+two permutations because we are dealing
+with subgraphs and the internal symmetry
+is a permutation symmetry right
+so we have something very similar with
+the uh with the difference being that
+this internal blocks uh which here we
+have orange and yellow and one and two
+or if you wish mu one two
+uh they are message passing neural
+networks or in general gnns which we
+know to be equivalent to permutations
+so we have basically that
+we instantiate two dnns
+one
+is shared and is applied in a siamese
+fashion to each subgraph to each of the
+graphs in the back
+and we have another mpn or gnn which is
+applied to the summation of the
+subgraphs where summation means that we
+aggregate the node features for each of
+the sub graphs
+along with the um with the connectivity
+so this um so in a way that basically we
+uh get the output from these two blocks
+from these two distinct npns and we sum
+sum them and this will be the new
+representation for each node in each
+subgraph
+okay
+now we can also do something that is we
+can completely disable the second part
+mu2 that is this uh information sharing
+component what we obtain with this is an
+architecture which we call the sgnn oh
+so by the way the first architecture we
+call it dss gnn where dss stands for
+deep sets of symmetric elements that is
+the approach we uh we build on top of
+but so what happens if we instead
+neglect the second component information
+sharing component so what we get is an
+approach where we simply run
+uh the same
+message passing your network on each of
+the subgraphs independently completely
+independently without information
+sharing
+this is something like to some extent
+reasonable to write is feasible but it
+turns out
+that this layer is not equivalent to the
+direct product of the two permutation
+groups
+uh is actually equivalent to another
+symmetry group which is a superset of
+the
+uh direct product group that we would
+that we would like to we wanted to
+actually model right
+so if you remember i talked about node
+alignment
+and this is essentially what is not
+preserved by the vreath product by this
+new larger symmetry group so in the
+second
+approach so what i mean is that in the
+second architecture uh no the nodes of
+oscar graphs can be permuted
+independently with respect to the nodes
+in the other subgraphs
+and
+this layer which does not have this
+information shared block will be
+equivalent to
+this permutation group which is larger
+and in a way to be equivalent to this
+larger permutation group the model will
+be more constrained so we would expect
+it to be less expressive and
+i will comment on this
+later
+is there any questions so far it's uh
+it's a little bit uh it's a lot i know
+but yeah feel free to ask if you have
+any question on this
+so so good so far so good shall we
+continue
+yes yes
+okay
+let's go so
+oh yeah so uh the slightest say that uh
+this approach as you can see is very
+general so we have this concept of
+policy that generates a grass we have
+this concept of um
+uh processing the this in an equivalent
+fashion and possibly also sharing
+information uh what we observed is that
+uh many of these approaches for example
+the one we we discussed before can be
+captured uh by by this framework which
+by the way we called the governance of
+graph aggregation networks
+um
+and so
+in a sense this framework pays the way
+to a unification and generalization of
+subgraph gnns uh with bags of the graphs
+and this uh through the lens of the
+variance which i find it to be very
+interesting
+uh but the one of the first um
+you know um starting point uh for us was
+the uh you know the the the issue with
+expressive power so what's the
+expressive power of this architecture we
+designed
+um so in order to to study that to
+characterize this we took a little
+detour and we designed a combinatorial
+algorithm that is a variant of the
+standard wl algorithm um that works
+actually on sub graphs and on on bags of
+some graphs
+um the dso is the following we
+want to apply color refinement on each
+subgraph in uh in the back
+but we don't do this independently again
+we share information as we know we could
+do because of the small alignment
+concept so the idea is that we
+assign a color to each node in each
+graph and we keep refining these colors
+by this color refinement step if you
+take a look is essentially similar to
+the standard color final step in wl
+but we have two additional inputs the
+sparkle and green inputs here
+so we didn't really have just the color
+of the current color of the node we are
+updating we also have as we we used to
+have
+uh the multi-set of colors of neighbors
+where now the neighbors are the
+neighbors according to a specific
+subgraph s in this case
+and then we have these two additional
+inputs so the purple one cd is what we
+call the needle color that is we collect
+the color for the same note but across
+different subgraphs in the back
+and again this is possible exactly
+because we have this concept of node
+alignment
+and then the fourth the last input
+is what we call ambitious in green is
+actually the math set of this needle
+color or called needle color basically
+these purple ones but for the neighbors
+of the note v
+and uh
+basically
+what happens is that we managed to prove
+that there exists policies such that
+uh this approach which we call dsswl is
+strictly more powerful than one wl
+um
+and maybe i can also mention so you can
+what you can do is you can also disable
+these two new inputs
+and in this case this the procedure
+boils down to a performing standard wl
+on each subgraph but independently right
+and this we call it the swl
+and even the swl for certain policies
+can be shown to be strictly more
+powerful than 1wl
+and amongst these policies are those the
+the most common policies which we
+discussed before so for example no
+deletion edge deletion and igor nets
+now
+okay
+but uh what about the architecture so we
+proved that the our architecture ds and
+the ssgn can implement this
+combinatorial variant this ds and the
+sswl algorithms so this means there's a
+corollary that there exists policies for
+example not deletion education equinex
+such that ds and the ssgn are strictly
+more powerful than mpns which is what we
+wanted to show at the very beginning
+right
+uh
+so by designing this variant this
+allowed us to more easily study compare
+it with standard wl and that's why uh we
+did it in the first place
+but this may also be of in independent
+interest
+for commentary algorithms and
+isomorphism tests
+um so what about the ts versus the sg n
+so we were saying that we would expect
+the ssgn to be more expressive than the
+sgn right
+um so
+um
+yeah so we found some policies such that
+exactly this this concept of node
+alignment allows to reconstruct the
+original graph whereas the sgn not
+having alignment between nodes only sees
+for example number of edges and it's not
+able to reconstruct the original graph
+so for certain policies we showed that
+it is actually the case
+uh that the ssg is more powerful than
+the sgn
+um
+and in practicing experiments we've
+observed that the ssgn tends to
+outperform the sgnn in practice
+and it's uh the ssg m is better than the
+base encoder 91 of the time the base
+encoder is the the uh gnn we use
+as uh if you remember this uh equivalent
+internal uh blocks
+um so most of the time the ssg and n is
+better than a standard gnn in practice
+and the sdnn is better than a base
+encoder 75 percent of the time so it's
+still better just
+it's more likely that with dss with this
+information sharing component in
+addition we get better results
+um
+so another interesting uh point is that
+um the policy matters so the choice of
+the policy
+may have an impact on the expressive
+power so what we managed to see to show
+is that on the family of strongly
+regular graphs which are these very
+valid asymmetric regular graphs and very
+hard cases for graphics or fission if we
+use no deletion or depth and igor nets
+you're not able to distinguish these
+graphs so we have the same
+discriminative power as 3w but if you
+use for example edge deletion
+then we suddenly we are able to
+distinguish these graphs
+and so it seems like edge deletion is
+stronger as a stronger policy on
+at least in this family of grass for
+example
+[Music]
+in practice we didn't really observe a
+strong correlation between the
+performance of a policy and the
+application domain but the ignite
+policies uh seem to work very well in
+practice like at least consistently
+across uh
+settings and different data sets
+uh here we have an example on molecular
+modeling so the zinc benchmark is um
+about trying to predict uh constraint
+solubility for molecules uh modulus
+graphs and for example we observe that
+uh as soon as we transition from edge
+deletion nutrition to eagerness the
+performance uh increase uh in the sense
+that we have a lower um
+mean absolute error on the test set
+and you as you can already see the ssgn
+seem to work much better than the sgnn
+especially when we use the ignite boards
+uh in general so we on this suite of
+small data sets we observed uh this
+approach to achieve uh good results with
+compared to the state-of-the-art
+approaches
+and
+as we were already anticipating it
+generally improves on the accuracy of
+the basin or the accuracy of the base
+encoder this uh these are the results on
+other molecular molding benchmarks from
+the ogb suite
+um i i think it's interesting to take a
+look again at zinc but compared to other
+um approaches so if we compare the the
+the our the results we got with our
+framework uh we
+are the best performing model amongst
+all probably expressive domain agnostic
+gnns as you can see
+and um sometimes you know
+by a fair margin
+uh the
+on the on you know at the same time
+uh we are very competitive and sometimes
+uh even uh better than
+gns which employee directly employs
+specific information so for example
+which include
+explicitly the
+information about the presence of rings
+in molecules
+uh and this was uh also one of the of
+the the zederata we have at the
+beginning right so we want a model to be
+expressive but not necessarily uh to
+really need to inject domain
+knowledge into the architecture
+um
+right so let's wrap up we have taken a
+look to this family of uh this wave of
+new probably expressive gns which we
+call subgraph gene ends
+the common theme is that they leverage
+sub graphs to uplift the expressive
+power but still staying within the
+remnants of message passing that is
+often used as a subroutine right
+we introduced e-scent that is this
+framework um
+uh that seems to unify concurrent works
+and and this is uh done by studying the
+emerging symmetry so the symmetry is
+characterizing these objects as bags of
+uh the advantage uh of this approach is
+that
+well or in general of subgraph gnns the
+advantages are that they are probably
+expressive
+they have they are natively variant
+and you'd really need little
+pre-engineering uh
+don't you don't really need to
+be a domain expert
+to design the architecture
+sorry uh in terms of future directions i
+guess it would be interesting to study
+other policies or what's a little bit
+more what's the input of the policy on
+the on the expressive power and
+performance in general
+uh other things would be to study
+structure bags so at the moment you know
+bags have been considered to be sets but
+we can also induce some particular so
+like some more structure on it for
+example consider them as grass if we
+come up with an interesting notion of uh
+connectivity between the graphs for
+example uh and then uh yeah uh
+i think there's work to do in studying
+uh stochastic policies that is policies
+which
+subsample subgraphs um
+because there is this um we have the
+situation that we can still retain some
+approximate form of equivalence and this
+is still uh
+very interesting because this would
+allow us to reduce the computational
+complexity but by still uh but still
+retaining some form of approximate
+environment so still this strong
+inductive bias
+on graphs
+and with this uh i conclude the
+presentation and uh
+i'm happy to take any questions uh yeah
+thank you thank you very much
+yes thank you thank you for the issue so
+there's a question in the chat
+yes uh
+dsswl and such methods are they are
+evaluated
+um okay so the sswl we
+didn't really implement it in practice
+in the sense that it was uh so it is a
+combinatory algorithm we used in the in
+you know on the on the theoretical side
+to um
+then study the expressiveness of
+the neural counterpart and then we of
+course implemented the neural
+counterpart and that is the ssgn and the
+sgnn and we applied it on a series of um
+benchmarks in particular we focused on
+molecular modeling so the idea is you uh
+could you model a molecule as a
+as a graph and then you apply our method
+so what this doesn't mean to apply our
+method on a molecule
+defined as a graph it means that we take
+the the graph corresponding to the
+molecule and again as i was explaining
+we we apply policy so we extract
+subgraphs and we process the subgraphs
+in an equivalent way
+and and then in the end basically you
+have a representation of freaks of graph
+you aggregate these representations
+again you know you know well in this
+case in the end
+in an invariant fashion and then you
+you would like to give this
+representation to a classified to
+predict for example molecular properties
+such as
+um
+toxicity and so on
+so there are other
+results
+on on synthetic benchmarks i haven't
+showed them to you but yeah we also
+evaluated this approach in terms of like
+purely in terms of its expressive power
+so there are synthetic benchmarks where
+people try to run gnns uh in an effort
+to the zombie great uh
+grass which we already know they are not
+distinguishable by standard message by
+senior networks so for example
+uh yeah there are data sets of uh circle
+skipping graphs and yeah we did it we
+actually indeed evaluated the ss gnn
+of these benchmarks and most of the
+cases we got perfect accuracy
+um
+mostly because yeah
+the i mean this this
+basically uh showed that yeah the
+approach is indeed uh as indeed more
+expressive than standard mesh passenger
+networks which they have random gas
+accuracy on these benchmarks but still
+um
+yeah uh this
+graphs were usually like
+uh
+3wl distinguishable so yeah this
+explains also why we really managed to
+get up to 100
+um
+yeah um
+so we we did this kind of evaluation if
+it's what you were asking about the
+expressive power yes
+um so if we uh were to go back to the
+start policy when using the iso
+framework
+we
+[Music]
+go back to double networks oh okay very
+interesting
+um
+so instead of considering economists you
+consider stars
+um
+let me think about it
+i
+so
+if you
+yeah if you don't do anything uh
+particular
+um
+yes i guess you would get back to the
+summer wl
+yeah
+if it's for example just one
+it depends also on well so if you take
+for example pswl
+and you extract stars
+so if stars are just one of stars for
+each and it's a graph it's a one of star
+and you don't have any information
+sharing
+actually what happens is that
+it might even be less expressive than
+mobile because you're not able to
+basically propagate information from
+other nodes so
+the algorithm would
+converge very very quickly so if the
+star is shallow it may also potentially
+lose expressive power in this case if
+you have a form of information sharing
+for example this needle coloring maybe
+you can make do with that and maybe you
+can get to one w two just not the wl but
+yes this uh as you can see yeah some
+policies are very trivial and are
+actually
+not useful or detrimental
+for example another one is you simply
+take edges
+you have like it's a graph is an edge
+right so this is also a very
+non useful policy
+yes
+but she had a very interesting question
+so we have some intuition on how to
+choose the policies in the future uh
+yeah good question
+um so as i was saying we don't really
+want to have uh free engineering but
+there's still some engineering in the
+sense that it's like what how do you
+choose the policy right
+um
+so in general um
+as we were saying the eco policy works
+very well
+um
+typically
+similar like comparable or is comparable
+to modulation or even better
+um
+this is an active also area i think
+well not
+you know don't see papers exactly on
+designing policies but
+there are new policies emerging in
+recent papers for example there are new
+papers where people try to use note
+marking instead of notation and they
+show that this uh
+basically substitute notation so the
+idea is you don't necessarily need to
+delete an unknown you can mark it with a
+special feature
+and the fact that you mark this with
+special feature actually
+allows you to this allows you to um
+still breaks images but without actually
+altering the connectivity and the idea
+is you can
+simulate or whatever with modulation
+anyway
+another thing is
+we now i think we we have also a better
+understanding of what does or what it
+means to choose a policy like what's the
+impact of the policy so
+there's
+some new more recent work i i
+i did for example um it's uh
+we we realize you can also gather
+um policies in classes for example you
+have policies which are intrinsically
+not based right so if you think of
+economics or
+not marking or not deletion you can
+always find a bijection between a node
+international graph and a subgraph
+engine rate
+so this uh this actually gives you more
+structure and you can
+consider them in a class and study the
+the like for the characteristic of this
+class of policies and we actually did it
+and we found out that
+uh if you
+all if you have this kind of policies
+you always have an upper bound in
+expressive power
+if you use a standard npn encoder which
+is 3w
+so
+this you know the upshot is that if you
+want to go beyond 3wl with uh with an
+npn base encoder you need a policy which
+is
+not not based for example something like
+edge base or you know you mark two notes
+at a time
+you you delete one edge at a time
+so yeah there's some at least some
+recent work uh which i really tries to
+uh characterize these policies into
+like for example uh classify them into
+classes and study
+you know the
+um
+yeah the
+features of this classes these families
+of policies and their limitations so
+yeah for sure there's some some work
+with this
+um
+in general if you have domain knowledge
+uh it's always good to take that into
+account if you want to design a new
+policy but yeah uh this is what i can
+probably answer at the moment
+thank you thank you for the question
+very great yeah they're really they will
+questions
+uh if there's nothing else uh yeah i can
+also mention maybe related to this
+question let me uh
+uh
+top up on this
+um
+i forgot to say that there are also
+works uh recent works the recent words
+we try to um
+learn the policy directly so instead of
+designing the policy what you could do
+is you can learn it and to end for
+example with some
+um
+particular uh
+you know approach to
+uh back propagate through
+you know discrete structures uh so
+well you could do it for example with
+reinforcement learning so the problem is
+essentially that uh the selection of
+edges you know these are discrete
+operations and it's
+it's not really
+obvious how to back propagate through
+this
+uh
+through the policy itself
+but
+uh
+you can for example make do with
+reinforcement learning or something
+which seems to be also
+um
+very uh effective that is to use
+approaches like based on preparations uh
+for um
+like implicit differentiation and uh
+propagation through the street
+structures
+um so there are this works with which
+basically
+through the combinatory algorithms and
+they have been tried
+like there's been an attempt to use
+these approaches to their policies it's
+uh like the policy itself from
+from from data directly while uh like in
+an end-to-end fashion
+uh if you're interested in this so there
+is uh like this approach that's called
+implicit uh
+maximum likelihood estimation imle
+uh which tries to do this kind of thing
+so the idea is for example you
+you want to propagate through say uh
+an integer linear programming
+uh problem for example like or something
+like i don't know
+uh dijkstra for shortest path
+uh it is you can do this with some
+tricks and um
+based on
+perturbations and uh yeah you can then
+basically
+learn the parameters of this mixed
+models and
+yeah so there's some work on this as
+well
+i'm not an expert in this kind of
+approaches but uh yeah for sure
+there's movements on that side as well

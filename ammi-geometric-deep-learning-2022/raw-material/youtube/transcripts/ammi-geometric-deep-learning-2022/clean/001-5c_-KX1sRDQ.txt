@@ -1,0 +1,1806 @@
+thank you thank you Kobe uh thank you
+everyone so I'm glad to be back
+so this uh this program and uh this will
+be the second iteration of our course on
+uh geometric deep learning
+um that we already taught
+in the air where my last year so as last
+year this will be taught by myself with
+my colleagues John Bruno from NYU Taco
+coin from Qualcomm and better Village
+coach from deepmind
+uh you will hear from them uh in other
+lectures as well so I will start with
+the introduction
+that uh I call maybe a little bit
+arrogantly the airline program of
+machine learning so we'll hear what uh
+l18 program is and how it all started
+maybe many years ago
+and the gist of the course is the
+fundamental principles that underly deep
+representation learning and most of
+modern deep and neurological detections
+and if I were to summarize it in just
+one single word this word is symmetry
+and uh symmetry as defined by Hermann
+vile
+was one of the greatest mathematicians
+of the 20th century he called it the
+Symmetry slider is narrow as you may
+Define its meaning is one idea by which
+meant for the ages has tried to
+comprehend and create order nuclear
+imperfections and it really highlights
+the important place that signature plays
+not only in mathematics but also in in
+physics as we'll see but also in the
+parts in other fields of Science and it
+occupied a special place for the ages
+from surrounding and semantic designs so
+pythagoreans who believed the circle to
+be perfect due to its rotational
+symmetry and in terms of the historical
+overview that I would like to give in
+this lecture it takes us back in time
+where as Newton said we stand on the
+shoulders of the Giants
+so uh in this first lecture uh it will
+be about how the notion of symmetry for
+the ages has influenced geometry math
+and eventually deep learning which is
+the main topic of our course and
+allowing us to reach the the point uh
+where we are currently
+so the term itself uh has Greek origin
+symante and literally translates the
+same measure and ancient Greeks use this
+term to somehow vaguely convey the
+beauty of proportion in art and Harmony
+and music and Plato for example
+considered the the five regular
+polyhepra what we nowadays call the
+protonic solids so fundamental that they
+must be some kind of the basic building
+blocks of the material world and it was
+actually not very far from trolls and
+Israel it was shown by the German
+astronomer mathematician Johannes Kepler
+he was actually the first to attempt the
+rigorous analysis of the symmetric shape
+of Water Crystals and wrote a book on
+this called um on the the six cornered
+sulfate which was actually a Christmas
+gift to his friend in 1611 so he tried
+to attribute the six-fold behavioral
+signatory of snowflakes so uh what is
+nowadays called hexagonal packing of
+particles so if you take balls and you
+try to pack them you will see certain
+symmetric Partners emerge and this idea
+though it preceded the clear
+understanding of how matter is formed so
+people have no idea about molecules and
+atoms and Crystal lattices it still
+calls today as the basis of modern
+crystallography
+now if we already mentioned in ancient
+Greece uh modern geometry also Trace
+traces back to ancient Greece and
+probably the most seminal work there is
+the work of Euclid the elements and what
+we nowaday is called euclidean geometry
+was in fact the only geometry that was
+known for over 2000 years
+and um the core of people India geometry
+was a set of five basic assumptions
+called postulates that were used to
+providing a construction of theorems and
+results in nuclear and geometry and it
+happened that for hundreds of years the
+fifth postulate about parallels stating
+that it is possible to pass only one
+line that is parallel to a given line
+through a point that lies outside of it
+it defied any attempt to prove it and in
+fact many illustrous mathematicians
+broke there is prime total to deal with
+this uh postulate of parallels and for
+example one early approach to the
+problem appeared in 11th century it was
+a work in Persian called the commentary
+on the difficulties concerning the
+postulates of Euclid's Elements by uh no
+no else but Omar hayam himself I think
+nowadays he's mainly remembered as a
+poet and uh also hope the the wine the
+flask of why the book of First and film
+beside me but he was also a
+mathematician and he studied the fifth
+apostolate uh and apparently was
+troubled by his inability to prove it
+so this uh work was uh uh also
+considered by uh Italian Jesuit living
+in the 18th century called Joanna sakere
+he was likely aware of qayam's figure's
+work and his own work was called uh
+Oakland is
+Euclid cleared of everything literally
+or of every fault so he tried to to give
+back you clean the glory of every doubt
+that was raised about uh about if it's
+postulated
+she considered an equivalent state with
+about parallel lines considering the
+summit angles of a quadrilateral that
+now Bears his name where the size of the
+perpendicular to the base and uh there
+are three cases for the top angles to be
+that are acute or right or uh or obtuse
+and he concluded that in the case of
+acute angles that leads to infinitely
+many non-intersecting lines that can be
+passed through a point outside of it uh
+so counter it took intuitive that he
+rejected it as Republican to the nature
+of straight lines so he almost
+constructed hyperbolic geometry and in
+fact this work was rediscovered in the
+19th century by Eugenio Beltrami one it
+was already understood that this
+construction was not crazy and nothing
+back into anything it was a related
+probably the almost first all was
+successful such Construction
+Monopoly came to an end in the 19th
+century there was a remarkable burst of
+creativity geometry was probably some of
+the most exciting fields of mathematics
+and probably
+first was the development of projective
+geometry so the enabler is associated
+with it is
+he was a French officer he participated
+in Napoleonic campaign unsuccessfully in
+Russia got imprisoned and spent his time
+prolifically in in Russian prison
+uh during these years he wrote a very
+comprehensive three dies on projective
+geometry and projective geometry it's a
+special type of geometry where points
+and y's are interchangeable and there is
+no such thing as parallelism any two
+lines intersect at exactly two points
+and it's uh often not consider and
+non-euclidean geometry particularly
+speaking but it was probably the first
+one to undermine the euclidean concept
+of parallelism and I should say that it
+was probably the uh reverse of
+projective geometry because obviously
+it's been uh it's been known since the
+Middle Ages and even since Antiquity and
+and artists use it to draw uh
+perspective
+projections and even there was a work of
+his compatriot Gerard also a Frenchman
+in the 17th century
+apparently uh was one of the first to
+get uh two uh ideas of proper and
+non-nuclear geometry so actually the
+credit for it is disputed
+uh it is usually attributed
+but Logan was the first to publish and
+uh famously wrote to his father in 1823
+that has discovered such wonderful
+things that was amazed out of nothing
+created a strange new a new world
+and uh uh his uh his father he was also
+a mathematician uh wrote about these
+discoveries to Gauss he was probably the
+the main mathematician of that period
+which he was called the princess
+the prince of mathematicians but Gauss
+replied quiet Thursday he said that he
+himself considered the same idea as 30
+years before which was probably in the
+beginning of the 19th century but he
+never dared to publish them so he
+considered this field to be immature so
+as I said lobachevsky was the first to
+publish so that was in 1829 and uh in
+his work he considered the fifth auction
+for the fifth postulate of uh Euclid an
+arbitrary limitation as an alternative
+he proposed a new one that more than one
+mind can pass to a point that is
+parallel of the given one and such a
+construction as it was later explained
+requires a special space that has
+negative curvature what we now call have
+harmonic space or hyperbolic geometry
+and this idea was quite radical and I
+would say heretical at the time of
+publication and volvojevsky was openly
+divided by colleagues whether
+anonymously or people were putting their
+name to attack something and yeah it was
+not very popular and was not not
+considered to be a good mathematics
+so it goes in there to publish his ideas
+about these new types of geology his PhD
+student Bernard Raymond did and his
+lecture on the hypothesis on which
+geometry is based gave rise to what we
+nowadays call differential geometry of
+surfaces from Romanian geometry and he
+also constructed as a particular case
+non-neuclidean geometry of the sphere
+that is sometimes called Romanian
+geometry in the narrow sense and in this
+case as well the fifth postulate of
+Euclid doesn't called nor the second one
+so all straight lines have finished
+lengths and uh as you can as you know
+you can take the globe that would be the
+best example of uh this spherical
+Olympic geometry
+so as a result of these developments
+what happened when we mentioned
+essentially that there was an entire new
+zone of different geometries so towards
+the end of the 19th century they became
+displace Fields with mathematicians uh
+wondering uh which geometry is the right
+one what actually defines in Geometry is
+there any hierarchy right so there was a
+fine projective elliptic euclided
+hyperbolic geometry so it was quite a
+messy situation
+and uh it was in this uh interesting
+moment that a young German mathematician
+called Felix kleinstething so he was
+just 23 years of age when he was
+appointed in 1872 as a full professor at
+the University of Ireland in Germany so
+it was a small University in a small
+town in barbaria
+and as it was customer he was asked to
+give an inaugural talk and write the
+research
+Prospect
+to accompany it and this has entered the
+history of automatics as the adelangan
+program
+and in this program Klein proposed
+approaching geometry as the study of in
+bryance or symmetries or the properties
+that remain unchanged under some class
+of Transformations and this approach was
+a radical shift in the way that geometry
+was constructed and understood and it
+gave immediate quality by showing the
+different geometries could be defined
+by appropriately choosing the the the
+the symmetries the class of
+Transformations that you subject your
+geometric shapes so for example symmetry
+is defining the euclidean geometry are
+rigid mode these are translations
+Reflections and rotations and they
+preserve angles distances areas parallel
+lines and their intersections and if you
+take a bigger symmetry groups such as
+the fine group or projective code you
+lose some of these properties but you
+get more General geometries so for
+client for example projective geometry
+was the most
+uh the most General one and the language
+that client used to formalize the notion
+of symmetry was the language of group
+Theory it was also but at that time a
+new field of mathematics it was born in
+uh also in the 19th century so the first
+time it was used was by verism
+uh it was also French documentation that
+uh died very young I think he was only
+21 when she was killed in a duel and he
+famously wrote down his results very
+costly in a letter to a friend on the
+night before his fatal duel
+and group Theory nowadays is formally
+associated with uh in addition to Galway
+with client himself and with stockhost
+Lee who work together and develop some
+of the basic uh concepts of this
+discipline
+so uh historically maybe I should say
+that though the airlines University is
+obviously a very proud of its
+association with Klein he didn't stay
+there for long and eventually moved to
+girdlingen which at that time was the
+world's leading place for mathematics
+it's the University where Gauss himself
+had worked and the impact of the airline
+program
+uh on Geometry and Mathematics in
+general was extremely profound not only
+on mathematics I think it had a cultural
+impact that's filled Way Beyond
+and one field that was affected by these
+ideas in particular was physics so uh a
+person who worked with client in
+government was Amy neuter
+and uh she was a remarkable
+mathematician and probably one of the
+most influential figures in mathematical
+physics of the 20th century and she
+proved that every differential symmetry
+of the action of a physical system has a
+corresponding conservation law
+and this is really fundamental and
+stunning result because uh if you think
+of conservation laws historically these
+were mainly empirical observations so
+you would have to do an experiment where
+you uh measure someone property like
+energy and you repeat this experiment
+many times and you see that the energy
+is concerned so you would grow this
+conclusion so know if there's a theory
+have shown that the conservation of
+energy for example emerges from the
+translational symmetry of time so it's
+rather intuitive idea that if you make
+the experiment today and tomorrow and
+yesterday the result will uh will be
+invariant it will be the same uh and
+um
+uh this was a really fundamental
+understanding in physics and bile
+himself had recorded in the beginning uh
+use these ideas to develop the concept
+of gauge environments as a principle
+from which electromagnetism could be
+derived and uh speculatively if he tried
+to unify that this gravitational
+interesting there is uh evidence of
+Correspondence of him with Einstein that
+the Target that this construction was
+not physically correct
+and with development of quantum
+mechanics file the interpreted his
+concept of gauge environments and it
+took several decades until this idea in
+some more generalized form that was
+developed by Young and males in the 50s
+became successful to provide finally a
+unified framework that describes all the
+fundamental forces of nature maybe with
+exception of gravity for the time being
+and this is what we nowadays call the
+standard model in particle system and it
+unifies the description of
+electromagnetism weak interactions
+strong interactions in the language of
+cage environments expressed in group
+theoretical language so this is more or
+less all the physics that we currently
+know
+and I can only repeat the words of
+another normal winning physicist Philip
+Anderson that said that it's only
+slightly overstating in the case to say
+that physics is the study of symmetry
+now at this point you may ask a question
+what does it all all this excursion into
+the history of geometry and physics uh
+it might be interesting and exciting
+what does it all have to do with deep
+learning
+and as we'll see next the geometric
+Notions of symmetry and environments
+have been recognized as first of all in
+the in the very early days
+of uh artificial intelligence and
+pattern recognition and I think it's
+fair to say that geometry has
+accompanied this nascent field from its
+very beginning
+and um I think it would be an ingrateful
+job total uh try to find a specific
+point in time when the artificial
+intelligence was born as a scientific
+field I think humans have been I would
+say obsessed with trying to understand
+and comprehend intelligence
+uh but what we'll try to do is uh maybe
+a less risk and less in grateful task of
+looking at the precursors of deep
+learning I mean in particular we'll be
+focusing on geometric ideas uh in this
+field and this history can be packed
+into less than the century
+so uh probably
+about a century ago it has become clear
+that the Mind resides in the brain
+and uh research efforts turn to try to
+explain great functions such as memory
+perception reasoning in terms of the the
+structures of the brain methods and two
+scientists Mark and beats are accredited
+with the first mathematical obstruction
+of the neuron the the fundamental brain
+cell uh showing that it was capable to
+compute logical functions
+and what happened in the 50s in 1956
+the legendary Dartmouth College Workshop
+was convened where the very term
+artificial intelligence was coined it
+was the initiative mainly of John
+McCarthy he would become a future curing
+Laureate and the premise was that every
+aspect of learning or any other feature
+of intelligence can imprints for me so
+precisely described that a machine can
+be made to assimilate and maybe a little
+bit arrogantly or wishful thinking they
+thought that that meeting for a couple
+of months over the summer they could
+make important progress to solve these
+problems and we are not even close to
+some of these questions uh uh since uh
+70 years
+so uh just a year after in 1957 an
+American psychologist Frank rosenblatt
+that worked at the Cornell uh or an
+article laboratory proposed a class of
+artificial neural networks he called
+precept funds that were supposed to
+obstruct in some way the way human brain
+works and learns and president pearls
+were first implemented on a digital
+machine learning dedicated hardware and
+uh rosenbot showed that they managed to
+solve simple pattern recognition
+problems such as classification of
+geometric shapes and he also proposed a
+simple learning rule allowing to train
+the president Trump to perform different
+tasks and that that was quite uh
+remarkable and uh it has led into a lot
+of excitement not only in the field of
+artificial intelligence but it was just
+being born at that time but also outside
+the field the the general broader public
+a little bit similar to what we see
+nowadays and maybe uh a little bit of a
+hype so I can recall here at the
+1958 New Yorker article that called
+perceptrons a first serial a serious
+rival to the human brain ever device so
+I think this can make only a smile or
+even worse the remarkable machines that
+were capable of what the bounds to
+thought
+so if we hear about uh ideas or or
+discussions whether neural networks are
+conscious nothing is really new on the
+Sun so these questions were asked 70
+years ago
+uh another example is there a somewhat
+overconfident MIT summer Vision projects
+that were was expecting a construction
+of a significant part of a visual system
+to achieve the ability to perform
+pattern recognition in quotes like this
+that was a new term it's not official
+yet during one summer in 1966
+and um a realization by the research
+community that these initial hopes and
+then this hype to solve intelligence
+have been uh somewhat overly optimistic
+was just a matter of time
+and uh in 1969 uh this quick rise of
+productionism so they work on artificial
+neural networks how AI researchers uh uh
+working on these neural networks label
+themselves uh received somewhat uh
+negative feedback that was devastating
+in retrospective in the form of a book
+called perceptrons by Marvin minskin
+server paper from MIT
+and um somehow in the Deep Learning
+Community or in AI history research it
+is common to retrospectively blame means
+can papers for the onset of the first AI
+winter which made neural networks fall
+out of fashion four uh over the next
+decades and the typical narrative
+mentions the xor affair so it proved
+that perceptrons were unable to learn
+even very simple logical functions as a
+result they have four expressive power
+and basically good for nothing so I
+should say that if you really read the
+book
+uh it is probably one of the
+misunderstood and taken out of concept
+works and indeed some of the statements
+that are attributed so means game papers
+were completely taken out of context
+and some sources even at the beach of
+drama to this AI Winter Story saying
+that net Rosenberg and Minsky went to
+the same school and even going as far as
+saying that Frozen blood's premature
+death he died in a sailing accident in
+71 was not an accident it was a suicide
+because he was devastated by the
+criticism of his work but the reality as
+it happens in most cases is probably
+more nuanced and also more boring and uh
+far more plausible reason for this AI
+winter is what is called the Mansfield
+amendment in 69 which acquired the
+military to fund Mission oriented direct
+research rather than basic and directed
+research and it means that uh most of
+the efforts in artificial intelligence
+that were funded by the Army including
+rosenbots research in particular uh
+because they didn't show immediate
+utility to the Army basically were cut
+out of funding and as a result it had a
+dramatic effect on the field
+now if you look at the substance of the
+the dispute and the accusations on both
+sides what we need to understand is that
+what rosenblad called the perceptron is
+quite different from what mean skin
+papers understood under this term and
+they focus their analysis in their Book
+on a narrower class of single layer
+neural networks they call simple present
+problems they're actually in the very
+beginning they say they they use this
+term in order of Frozen blood but it was
+not exactly the same architecture that
+rosenbot introduced
+and uh basically these architecture is
+what we nowadays called the process from
+they computer weighted linear
+combination of the inputs followed by a
+non-linear function
+uh Rosenberg have considered a broadcast
+architecture uh with features that some
+of which intubated the many ideas of
+what would now be considered modern deep
+learning including multi aware neural
+networks with for example random and
+local connectivity
+and uh we mostly remember the book of
+Minsky and papers for the role it played
+in uh delivering this uh Devastation and
+despair to the early day connection is
+and and
+uh some people even complain about the
+Lost opportunities I think what is uh
+importantly overlooked in this book book
+is that it was probably for the first
+time
+a geometric approach and geometric
+analysis of learning problems and this
+fact is reflected uh in the very name of
+the book that that as you can see it was
+subtitled in tiny fonto and the
+introduction to computational Geometry
+so the full name was perceptrons and
+introduction to computational geometry
+and computational geometry at the time
+was a radically new idea and one review
+of the book that was from also from
+Cornell and essentially stood
+so the defense of Frozen blood uh wrote
+that this new subject of computational
+geology would grow into an active field
+of mathematics or maybe it will pressure
+out in the miscellaneous dead ends and
+as we know today in retrospective
+computational geometry is obviously a
+very well established still so it did
+grow into an active field of mathematics
+but also meanscale papers probably
+deserve the credit for the first
+introduction of group Theory into into
+the domain of machine learning and they
+proved what they call the group
+environment theorem saying stating that
+if a neural network is environment to
+some group then its output could be
+expressed as functions of the orbits of
+this group and we'll Define these terms
+in the next lectures and they use this
+result to prove the limitations of
+perceptrons or what they consider simple
+pressure problems
+um but similar approaches were
+subsequently used by
+prominent researchers such as
+shunichiyamadi
+or Jonesborough Taylor or Karen zenovski
+for constructing of environment features
+in public recognition problems and some
+of these early works that maybe are
+almost forgotten nowadays real way the
+the first foundations of what we'll call
+the geometric deep learning blueprint
+now uh again to the substance of this
+dispute about the expressive power of
+perceptrons rosenbot probably could have
+rebutted some of these criticism uh had
+he known about the pro of certain
+Hilbert problem
+so a certain scale but probably it was
+one of the the famous silver problem uh
+the the important outselling open uh
+questions in mathematics the beginning
+of the 20th century formulated by David
+Hillman so the problem with
+self-conceived whether uh the solutions
+of
+higher order polynomial equations can be
+expressed by simple functions and it was
+proven in a more General version
+that established that a continuous
+multivariate function can be written uh
+as uh as I show here as a superposition
+of continuous function of single
+variable
+and it was a precursor to a subsequent
+class of results that were given the
+name of universal approximation theorems
+and um
+uh specific versions for multi-layer
+presses Thrones in the machine learning
+literature
+or derived by say benko according and
+several other people afterwards already
+in the 80s and the 90s and this is what
+we typically call the universal
+approximation property in machine
+learning literature the ability to
+approximate any continuous multivariate
+function to any desire accuracy by a
+multi-layer neural network
+so in particular it was formulated for
+multi-layer pressure problems unlike
+simple single layer perceptron that was
+criticized by mean scan papers if you
+have a multi-layer network just two
+layers from
+these are Universal approximators so you
+can take any function basically the idea
+of the post is that you can take uh
+these kind of pairs of uh of
+layers in the presser Chrome and
+represent step functions and once you
+can represent step functions you can
+decompose any function into steps of
+arbitrary accuracy
+now if you think of
+supervised machine learning is a
+function approximation problem where we
+are given the outputs of some unknown
+function let's say in case of image
+classifier uh that would be something
+that tells about the cats and those and
+we are given a training set again inputs
+of images and gets and dogs we try to
+find a function from some hypothesis
+class for example continuous functions
+that fit well with training data and
+allow us to predict the outputs on
+inputs that we have never seen before
+what's called generalization
+and the universal approximation
+guarantees that we can express functions
+from a very broad regularity class in
+this case continues by means of a multi
+multi-layer neural network so in other
+words there exists in neural network
+with a certain number of neurons and
+certain configuration of Weights that
+approximate such function right uh
+the mapping from the the space of cats
+and dogs from space of languages to the
+space of labels to any design that
+perceived so in principle we can
+represent this task
+but this result doesn't tell us how to
+suck in such a neural network it doesn't
+tell us how to fight such ways and in
+fact learning or finding the weights of
+the neural network has been a big
+challenge in the early days and what
+Rosenbach showed as I mentioned was a
+learning algorithm only for a single
+layer from and now ubiquitous back
+propagation became standard only in the
+1980s
+now if we look at the neural network
+learning through the lens of
+approximation Theory and some people uh
+the column deprotting a glorified curve
+fitting for this reason uh
+the answer the question that we try to
+answer is uh how many samples or
+training examples do we need for uh
+accurately approximate a task right like
+image classification
+and uh in approximation here we'll
+immediately see that the class of
+continuous functions that multiple
+represent phones can represent is
+obviously too large right we can pass
+infinitely many such functions for a
+finite set of points so there are even
+examples of continuous nowhere
+differentiable functions such as an
+example constructed by bio stress which
+have infinitely many jumps right so it's
+a kind of fractal function that that is
+jumps crazy there and so it's continuous
+but has infinitely many casps so it's
+all differentiable so it is uh necessary
+to impose a digital regularity
+assumptions such as lipids continuity
+which is a kind of stronger notion of
+continuity
+and in this case we can provide a bound
+on the required number of symptoms and
+what happens is that these bounds do not
+scale well with Dimensions or even these
+nice and and friendly glass of lips
+functions that the approximation here is
+like uh when you can think of a simple
+example so here we have a collection of
+gaussian drops that are both in the
+pattern of unit Square once we start
+growing the dimension so the square will
+become a hypercube we see that the
+number of uh samples that we need to
+take will grow with the dimension
+exponentially and this is a class of
+geometric phenomena that are Cooperative
+known as the curse of dimensionality and
+the curse of dimensionality in practice
+in machine learning means that that in
+even small scale pattern recognition
+problems such as image classification
+because they deal with input spaces of
+thousands of dimensions
+uh if one had to rely on just on
+classical results from approximation
+Theory machine learning would be
+impossible and in our organization of
+cat and dog classification the number of
+images that will need to show to the
+neural network will probably be more
+than the number of particles in the
+universe it will be humongously large
+and simply there are not that many cats
+and dogs around to be able to train on
+so we need we need something else
+and the struggle of machine learning
+methods to scale to high Dimensions was
+also prototyped by by the British
+relative Edition uh Sir James lightfield
+in a paper that AI historians call the
+light Hill report
+and uh in this report he used the term
+combinatorial explosion and claimed that
+existing AI methods could only work on
+toy problems and would become
+intractable in real world applications
+that require higher dimensions and he
+was very unhappy with the state of AI at
+that time in the 70s and well in this
+Photograph I think he also looks quite
+unhappy and this report was commissioned
+by the British research Council to
+evaluate Academic Program research
+in the field of artificial intelligence
+and these pessimistic conclusions
+resulted also in uh funding cuts and
+together with several decisions in the
+US that was a kind of a wrecking ball
+or AI in the 70s so that was really the
+the real motivation for the first uh AI
+winter
+now for us I think we will actually want
+to take an optimistic conclusion from
+this and this realization that classical
+results like functional analysis
+they cannot really provide an adequate
+framework to deal with learning problems
+and these will be the motivation to seek
+stronger geometric forms of regularity
+that we can Implement in a particular
+configuration or wiring of the neural
+network such as local connectivity of
+convolutional neural networks and I
+think it's fair to say that that
+triumphant reimburses of deep learning
+that that we we have witnessed uh a
+decade ago is at least in part uh
+attributable to these insights
+and uh the inspiration for this uh first
+uh new type of geometric architectures
+uh came from neurosites
+and it was a famous series of
+experiments that were conducted by uh to
+uh neurophysiologists working at Harvard
+the David Hubble intern diesel in the
+50s and the 60s that would bring them
+the Nobel Prize in medicine afterwards
+in the 80s
+uh and these experiments studied the
+structure and function of a part of the
+brain that is responsible for partner
+recognition what is called the visual
+Aquatics
+and uh the experience for conducted as
+shown in this in this figure they
+presented changing light patterns to a
+cat and measured the response of its uh
+of its urls
+and by doing it it's very meticulously
+they shown that the neurons in the
+visual cortex have a multi-layer
+structure with local spatial
+conductivity and a cell would produce
+response only cells in its proximity
+what they call receptive Fields were
+activated
+not only that the organization appear
+appeared to be hierarchical and the
+responses of uh what they call Simple
+cells reacting to local primitive like
+oriented stuff like stimulus were
+aggregated by complex cells which
+produced responses to more complicated
+patterns and it was hypothesized that
+cells in deeper layers of the visual
+cortex respond to increasingly more
+complex patterns that are somehow
+composed simpler ones and it was uh
+initially semi-jobing they suggested
+that there would be a grandmother neuron
+that would react only when you are shown
+in the face of your grandmother that
+would be silent in any other situations
+and actually I think in conventional
+neural networks something similar has
+been has been shown a few years ago
+and this understanding or this first uh
+insights about the structure and the
+organization of the visual cortex
+um has really had a dramatic and
+profound impact on early Works in
+computer vision and pattern recognition
+and uh one such
+results was the work of kudihiko
+fukushiba in the 80s at that time he was
+a researcher at the Japan Broadcasting
+Corporation
+where he developed a new neural network
+architecture that was similar to the
+model proposed by football and Diesel
+that he called the Nail cognitron so
+neocognito often is found as new or
+cognitron but the name suggests that it
+was a new version of cognitron which was
+the name of a previous architecture that
+focusing was suggested before that
+consisted of uh what he called snc
+layers of neurons so it's naming
+convention obviously uh deferreds to the
+covalent weasel the simple and and
+complex cells uh they uh each such uh
+layers were arranged in uh
+two-dimensional uh arrays that followed
+the structure of the input image with
+multiple cell planes nowadays we call
+these feature Maps uh per layer as you
+can see in this figure and the S layers
+were designed to be translationally
+symmetric they aggregated inputs from a
+local receptive field using shared
+learnable weights and resulted in cells
+in a single cell plane to have receptive
+fields of the same function but in
+different positions
+and the regional wants to pick up
+patterns that could appear anywhere in
+the input whereas the C layers were
+fixed and performed local pulling in the
+form of weighted average
+and these allowed insensivity to the
+specific location of the pattern and as
+a result the scene neuron would be
+activated if any of the neurons in its
+inputs are activated
+and um
+since the main application of the nail
+polish Neutron was a character
+recognition uh The crucial property was
+a translation invariance and uh this
+property was a really a fundamental
+difference from earlier neural network
+architectures such as rosenbots
+perceptron
+yeah and in order to use a pressure
+problem reliably for example you would
+have to first normalize the position of
+the input pattern which was a difficult
+task on its own whereas in your
+cognitron the insensitivity to the
+pattern position was kind of baked into
+the architecture
+achieved these translational uh
+insensitivity by each reliving
+translational equivalent local feature
+extraction layers with spooning gate
+will give formal definition to these
+Notions
+and this way it created a multi-scale
+representation we'll call this a
+principle of scale separation
+and we'll also see why it can also help
+to deal with broader class of geometric
+Transformations not only pure
+translations
+and uh Fukushima also made some
+computational experiments and he was
+able to successfully recognize complex
+patterns such as lectures or digits even
+in the presence of noise and geometric
+distortions so you can see this is a
+figure from from his paper
+and uh
+we have the the advantage of looking at
+retrospective
+uh what 40 years since there has been a
+lot of progress in the field and I I
+think
+it's remarkable that the nail
+combination has uh a lot of
+characteristics of modern deep learning
+architectures so first of all it was the
+and in the paper she simulated up to
+seven layers that one uh it had local
+receptive Fields shared weights and
+pooling and even use the car rectifier
+or value activated excavation function
+which is somehow often believed to be
+only recent introduction in the Deep
+learning architectures
+what really distinguished it from Modern
+deep Learning Systems was the way the
+network was trained so it was a kind of
+what he called self-organized
+architecture essentially unsupervised
+plastering-like approach
+because back propagation uh can still
+not been widely used in the Urological
+community
+and learning of neural networks
+uh as I said was challenging and for
+many years there was no good way of
+doing it so rosenbot
+devised the learning role for a single
+layer process from to train deeper
+neural networks so there were other
+approaches so uh
+Ukrainian scientists in the 60s proposed
+what he called the group method of data
+handling nothing to do with group Theory
+it was a way of dealing with polynomial
+activation functions and it allowed him
+uh in the early 70s trained deep neural
+networks with uh up to eight layers so
+that was quite remarkable if you think
+that uh deep neural networks are
+something in recent yeah so that was 15
+years ago
+uh the Breakthrough in the field came
+with the invention of back propagation
+so it's not written that gives us the
+chain rule to compute the gradient of
+the waves with respect to the loss
+function and it allowed to use a
+gradient descent based optimization
+techniques to train neural networks
+and as of today it's the standard
+approach in deep learning
+and the game as it happens with many
+simple and important ideas
+uh the roots of it can be traced back at
+least of the 60s but I think it's fair
+to say that the First full of basic
+demonstration of this method in neural
+networks was the paper of David Rudolph
+in nature from 1986
+and the introduction of this efficient
+learning method was really the key
+contributing factor to the return of the
+neural networks to the artificial
+intelligence seen in the 80s and the 90s
+so talking about Fukushima and the nail
+cognitron so this design was adopted and
+further developed by none else but the
+only come
+then she was a fresh graduate from the
+University of Paris with the PHD thes on
+the user pack propagation for training
+neural networks and uh in his first
+postdoctoral job at the atnt labs he
+built a system to recognize handwritten
+digits that were written on envelopes
+and this system was supposed to help the
+U.S Postal Service to automatically
+allow mail
+and in his 89 paper they come described
+the first few air convolutional neural
+network actually the name convolutional
+network was introduced only in a later
+paper the the architecture in the 89
+paper was no name
+and uh it was quite similar in principle
+to them of neutron he also used local
+connectivity with shared weights and
+pudding but it importantly for when
+more complex non-linear filtering the
+inhibitory Connections in fukushima's
+architecture in favor of uh simple
+linear filters that could be efficiently
+implemented as convolutions using
+multiply accumulate operations on the
+digital signal processor or a DSP so
+that was about the time
+uh when this kind of Hardware
+architectures emerged and this design
+choice that departed from the
+Neuroscience inspiration and also in
+departed from Neuroscience terminology
+so if you read uh fukushima's paper it
+is written by uh foreign audience of
+neuroscientists if you read the accounts
+paper it's written for single processing
+experts so it allows to move the entire
+play to the domain of single processing
+and that would be a really crucial for
+the future success of deep learning so
+basically it fell into the hands of HDs
+and became essentially a single
+processing job
+foreign
+this work essentially showed
+convincingly first of all the power of
+gradient-based methods for complex
+pattern recognition tasks something that
+that may be just indicate before would
+be unimaginably difficult
+it was also one of the first practical
+deep learning based systems for computer
+vision
+and this Evolution release architecture
+was evolved quite significantly so a CNN
+with five layers that was in the net 5
+was probably a part of the the name of
+the first author uh in the 90s was used
+by banks in the United States so
+automatically recognized handwritten
+chats
+but uh in the computer vision research
+community
+somehow the vast majority uh was not
+convinced by neural networks
+for a variety of reasons and uh looked
+uh into a different direction for
+constructing very carefully designed
+handcrafted feature detectors and these
+pictures
+and in the next decade this was the
+mainstream of computer vision research
+typical architecture for visual
+recognition systems
+uh was uh as I said a set of carefully
+handcrafted feature extractors at these
+pictures so typically you would detect
+some interesting Salient points in an
+image and then provide their local
+description the way that is robust so
+maybe mild prospective Transformations
+and contrast changes so the famous
+algorithm in that domain was sift the
+scale Environ feature transformed by
+David long and then these features would
+be somehow aggregated so again famous
+paper by C Vision
+the the visual Google
+uh introducing the bag of features
+aggregation and then you would apply to
+a simple classic typically support
+Vector machine
+and uh the balance of power however
+changed by uh the rapid growth in
+computing power
+and the emergence of uh Graphics
+Hardware the gpus that allowed to
+perform
+general purpose computation
+and also the models of available
+annotated visual data and it became
+possible to implement and trade
+increasingly bigger and more complex
+conversational neural networks and
+address increasingly more challenging
+visual recognition tasks and the Holy
+Grail at that time was uh in computer
+vision the image that large scale visual
+recognition challenge that that was
+pioneered by Lee FeFe and it was an
+annual challenge that consists a
+consistency it still it runs but maybe
+it's slightly modified version
+basically the idea was to classify
+millions of human labeled images into
+about thousand different categories
+and uh I seen an architecture that was
+developed by uh Alex tejevsky and
+cultures at the University of Toronto in
+2012 managed to beat by a very large
+margin all the competing approaches in
+computer vision based on this
+handcrafted descriptors and uh Alex
+status the architecture was named in
+order of its developer uh was a
+convolution it was uh significantly
+bigger in terms of the number of
+parameters and layers compared to its uh
+uh precursor the net five but
+conceptually the same and probably the
+main difference was the use of a GPU for
+trading and again there were not the
+first to do it but it was probably the
+most convincing application of GPU EOS
+for deep learning
+and the success of CNN's on imagen
+became really the turning point for deep
+learning in computer vision and uh it
+signaled its forward Acceptance in the
+following decade and uh multi-billion
+Industries emergence result with deep
+learning successfully used in commercial
+systems that nowadays range for speech
+recognition such as ceiling or Apple
+iPhone so self-driving
+autopilot and desktop
+and basically more than 50 years after
+the review that killed rosenbots work
+and a connectionists and neurologicals
+were finally Vindicated and as you
+probably know lecantine in the danger
+received the curing award for their
+lifetime work on deep learning there is
+also an opinion that I personally share
+that Jurgen Smith over was Injustice
+excluded from the price but at this
+point it's already history
+so in the last bit before I conclude I
+would like to briefly talk about graph
+neural networks it will be a problem
+Topic in this course and
+um if the history of symmetry
+as we've seen is tightly intertwined
+with physics
+in the history of graph neural networks
+and graph theory is uh Inseparable from
+another branch of natural science which
+is chemistry
+chemistry has historically been still is
+one of the most stated in the Intensive
+academic disciplines
+and um the emergence of modern chemistry
+in the 18th century when they
+transitioned from medieval Alchemy
+so a real science
+resulted in the very rapid growth of uh
+known chemical compounds and uh an early
+need for their organization
+and this role was initially played by
+periodicals so the the German chemical
+Central Blood that that's what is one of
+the oldest journals started appearing in
+in the beginning of the 19th century the
+first chemical abstract Journal
+or uh companion such as the the belstein
+khanbo uh so uh where this is uh you can
+see it here in this picture so that was
+a collection of about 500 volumes with
+half million pages
+so it's just an indication of the share
+amount of data that that quickly made it
+impractical to print and use
+for reference
+so in the English speaking world the
+chemical abstract service or cuss
+was created in the beginning of the 20th
+century in
+1907 and it has gradually become the
+central repository for the world's
+published chemical information
+and uh in the first half of the 20th
+century this problem of organizing
+searching and comparing molecules in
+databases of chemical compounds became
+of crucial importance uh both in
+academic and commercial use of chemistry
+for example when uh let's say
+pharmaceutical company uh wanted to to
+patent the new drug then the patent
+office had to verify what a similar
+component had been previously deposited
+right so how do you know if you need to
+compare molecular classes in a database
+and to address these uh challenge
+several systems for indexing molecules
+were introduced in the 40s and this form
+the foundation of a new discipline that
+is now called chemo informatics and one
+such system named uh gkd chemical Cipher
+uh named after the author's Gordon
+Kendall and Davidson in 1948
+it was developed the the English style
+for Dunlop and was supposed to be used
+with early punch card based computers so
+you see here an example of a punch card
+where these kind of information will be
+encoded and then presumably you can use
+this kind of ciphers to better search
+for molecules and in essence it was an
+algorithm for parsing a molecular
+structure into a string that could be
+more easily looked up by human or an
+early computer
+but uh these these cyphers and similar
+methods were very far from Satisfaction
+and uh you need to understand that in
+chemical compounds uh similar structures
+are often those that result in similar
+properties and can be sort of trained to
+basically talk build an incubation to
+spot such analogies
+so uh you would look for example for
+aromatic readings or certain chemical
+groups and when the molecule is
+represented as a string chemically
+meaningful structures might be lost as
+you can see in this figure you see that
+that the molecules fracture on the right
+is a a substructure of the molecule
+called the left but it's string
+representation is very different so you
+don't have this local spatial coherence
+that you see in the in the structure
+itself and this realization uh has led
+to the development of structural methods
+for molecule search and one such famous
+algorithm is the Morgan fingerprint
+which is still used today maybe it's
+slightly evolves form that was
+introduced by Carrie Morgan from the
+chemical abstract service in 1965. and I
+should say that actually I tried to look
+him up and from what they find uh
+apparently Morgan uh didn't work much on
+science he soon moved to a management
+position at IBM from which he retired I
+think in the 90s so that was one of his
+few chemical papers
+and then in this field uh a prominent
+and probably unjustly forgotten figure a
+pioneer of cable informatics is Romanian
+chemists called George vados
+so he trained as an organic chemist in
+the Soviet Union and his interests in
+chemo informatics was triggered also by
+a traumatic encounter with this gigantic
+Bell Stein handbook in his first year at
+course on organic chemistry so he's
+Professor apparently built a barricade
+of this 500 book and said that they need
+to
+to to learn what is written there and
+let us sort ways to compare molecular
+structures represented as graphs and
+using techniques in graph Theory which
+was only developing at that time uh to
+deal with molecules and you know that
+this Choice should not be surprising
+because graph theory has been
+historically tied to chemistry even the
+term graph in the sensor is used in
+graph theory was first introduced by
+James Sylvester in 1878 as a
+mathematical obstruction of chemical
+structure so the equivalent term to use
+was chemical graph and that was his
+paper in nature in that year
+and uh Vlad was inspired two young
+mathematicians uh Andrei lemon and Lori
+Spicer uh who developed a classical
+algorithm to determine whether two
+graphs are structurally equivalent or
+isomorphic
+so basically two graphs have the same
+productivity up to rewarding of the
+nodes
+and this is a card problem and I should
+say that its complexity was not fully
+understood at that time even the notion
+of complexity itself was kind of fluid
+notion in the 60s
+uh level also considered himself a
+programmer which was still an exotic
+profession around that time and vice
+president was an algebraic geometry and
+uh they worked on the problem that uh
+was opposed by dragons at least judging
+by the acknowledgment in the 1968 paper
+they proposed an alternative color
+refinement scheme that they conjectured
+to solve the graphics of office and
+program
+and it doesn't need so for small crafts
+up to nine nodes that was confirmed by
+Lemon computationally but if you go for
+larger graphs you can see that uh there
+are some counter examples
+so uh for a lot of time actually the the
+complexity of cafes overseas was uh
+unknown and only recently uh last Obama
+I showed that it can result in quasim
+polynomial time it is usually put into a
+separate complexity class
+now this works uh from the 60s uh on
+molecular representation probably the
+main practically are known in the
+machine learning community and that's
+one of the reasons why it is really hard
+to point or a particular point of time
+when the concept of crafting or networks
+was created
+and in part it's due to the fact that uh
+most of the early Works in machine
+learning didn't really consider graphs
+as kind of first-class citizens maybe
+partially because graphql networks only
+became practical in the late 2010s
+basically nowadays and maybe also
+partially because the field emerged from
+Conference of several adjacent research
+areas whether it's computational
+geometry computer Graphics crafting or
+processing and so on
+so uh early forms of graph neural
+networks uh probably go back to the 90s
+examples such as labeling Ram by
+Alessandro from 19 1994 or back
+propagation Source structure by the two
+Germans Gola and kukler from 96
+so uh the first proper treatment of the
+processing of generating graph structure
+and also the first introduction of the
+term graphql Networks happened already
+in the 21st century the University of
+Siena team that was led by Marco Gori
+and Franco casselli that first proposed
+the Glens that's currently known and in
+this work they relied on the recurrent
+mechanism so it was a kind of a way of
+generalizing recurrent neurological
+cross-structured data and require the
+neural network parameters to be
+configured in the way that they form
+what is called contractive mappings
+so it required a special form of
+known representation that would produce
+fixed point
+and this required a special form of
+backup propagation so it was a
+conceptually important Milestone
+probably not the best neural network
+architecture some of these issues were
+rectified by a work from 2015 the gate
+and gnns by Elian Courthouse that
+brought maybe benefits of modern
+recurrent neural networks that already
+used techniques for modern deep learning
+such as gating mechanism and back
+populations of time
+and
+maybe in some theoretical twist of fate
+modern gnns were reintroduced I would
+say triumphantly the chemistry I feel
+that they were they originated from by
+David duvino 2015 as a replacement for
+the handcrafted Morgan molecular
+fingerprints so this is really ironic
+because device for a lemon algorithm
+that was shown uh in 2018 by Sean Morris
+to be equivalent to to graph your
+networks to message passing graphql
+networks was actually inspired and
+originated from ideas and chemistry and
+then probably one of the most known
+Works in graphical networks by Justin
+Gilmer from Google from 2017 the message
+passing neural networks
+uh were all finished just for chemical
+applications
+so again 50 years have passed and the
+circle is finally closed
+and the last thing I should mention that
+uh the field of chemistry or maybe more
+specifically structural biology the
+study of proteins which are big
+molecules
+that's also have its own image that
+moment and then a cast competition were
+people try to predict that a 3D
+structure of proteins and the newcomer
+Alpha fold from leap mind person 2018
+and then in 2020 smashed all the
+competitors and it was also a geometric
+architecture that heals uh some of the
+Notions of a group in various as
+equivirus that we'll be discussing in
+this course uh as the foundation of the
+architecture and we'll have a guest
+lectured by one of the developers of
+alpha folks 2 that will shed more light
+on how this architecture works
+so
+our historical overview of the geometric
+foundations of me pruning now naturally
+brings us to a blueprint that will be
+underpinning this course
+and uh if we take convolutional and
+graphical networks as two prototypical
+examples which are the first ones may be
+completely unrelated we still see
+several common traits
+and first both operate on data such as
+images in the case of crns or molecules
+let's say in the case of gnns that have
+some underlying geometric domain so in
+the case of images it's agreed in a case
+of molecules it's a graph
+uh secondly in both cases the tasks have
+some natural notion of environments so
+for example embrace the position of the
+object in the case of image
+classification or let's say the
+numbering of atoms in a molecule when
+you try to predict its chemical
+properties such as solubility or binding
+energy
+and this can be formulated through
+appropriate choices of symmetry group so
+the translational group in the case of
+the green and permutation group in the
+case of a graph
+uh
+the third in both in cmns and gmns we
+can incorporate
+the the symmetries as an inductive bias
+by making appropriate layers
+like how the e-tracked with the action
+of this Imaging or the input so in crns
+for example
+it comes in the form of convolutional
+layers and the output of convolutionism
+we'll see
+transforms in the same way as input so
+this is what we call translation
+equivalence
+which is the same as saying that
+conversion commutes with the shift
+operator
+in the case of grns it comes in the form
+of a symmetric message passing function
+that Aggregates the naval nodes
+irrespective of their order and the
+overall Outlook of message passing
+transforms in the same way as the
+permutation of the input so for example
+I uh if I sum the features of the
+Neighbors in a graph then I don't care
+about the order
+of these features in destination
+and the last in some architectural
+instances of these networks in
+particular in conventional neural
+networks we have a multi-scale way of
+posting the data so the pulling layers
+that uniformly subsample the the grid
+that underlies the image or in some
+types of gmns it takes the form of graph
+costly
+now the term geometric deep learning so
+we popularized it in the paper in uh by
+Triple E single processing magazine is
+kind of
+uh
+so
+to hold uh intention to first of all
+apply geometric principles to learning
+in on the one hand and on the other hand
+apply learning so data that doesn't have
+green-like structures such as graphs or
+meshes and uh the the extended paper
+that we wrote with Joanne better and
+taco that will become a book with MIT
+press called geometric deep learning
+really captures the ideas that I'm
+trying to convey in this course
+and maybe somewhat arrogantly we call
+this the airline program of machine
+learning and uh it's a way of trying to
+reconcile the zoo of different
+architectures that also emerge
+historically for different types of data
+developed from different considerations
+whether cnns or gnns or rnns or
+Transformers will see that these are
+just instances of the same blueprint
+so we'll be relying on uh group Theory
+same way as client and his role in
+program
+uh to formalize our genetic deep
+learning blueprint and we'll be modeling
+the Symmetry structure of the domain by
+Echo that I denote here by G it's a
+representation will be acting on signals
+living on the domain and that I will be
+denote here by raw and then the
+functions that will Define on these
+signals will incorporate this property
+in the form of environments or
+equivalents
+and uh as an example we'll see in
+convolutional neural networks the choice
+of translation Europe on the green uh
+its representation is the shift operator
+and an equivalent function is
+convolution in case of graphql networks
+that the underlying
+uh symmetry group is permutation and the
+functions take the form of message
+passing I should say that uh the more
+modern architectures that are used on
+geometric graphs of particular in
+chemistry in protein folding prediction
+such as
+the alcohol took there is also an extra
+structure that is symmetry of the data
+so if you're familiar with physical
+Concepts you can make the difference
+between internal and external symmetry
+symmetry of the field and the symmetry
+of the of the space-time
+and release takes the form of uh
+equivalent message passing or equivalent
+Transformers are equivalent graphical
+networks where we in addition have the
+transformation or occupies with respect
+to the for example spatial coordinates
+of the atoms in the molecule
+so this again is a particular instance
+of this blueprint and together these
+principles give us a very general
+design that you can recognize in the
+majority of popular deep neuroelectric
+architectures so typically we apply a
+sequence of equivalent layers that
+preserve the structure of the domain
+possibly followed by an in-barrant
+global cooling layer that Aggregates
+everything into a single output like an
+image classification in some cases we
+can also create hierarchical domains by
+coursing procedure and this is the
+pulling that is implemented in neural
+networks
+and uh it is implementation of another
+very important physical principle that
+is called scale separation and this is
+really what allows physics to work right
+so if you think of a thermodynamical
+system so in the microscopic level we
+can talk about the quadrilla of
+molecules that Collide and move uh let's
+say in this room but if I zoom out and I
+look at how a thermodynamical system is
+behaved I really need just a couple of
+parameters such as temperature and
+pressure to discuss to describe the
+properties of gas in a very reasonable
+way and if I further move out and look
+at the cosmic scale for example the
+Earth and all its complicated atmosphere
+with different pressure and temperature
+uh is completely irrelevant when I'm
+talking about the motion of uh of the
+planet around the sun right so in this
+case there's going to really be
+abstracted as a point
+and uh geometric deep learning blueprint
+that is based on these two principles of
+symmetry and scale separation
+uh can be applied to different types of
+domains or geometric structures will
+obviously seek out of python greens so
+these are convolutional neural networks
+more General homogeneous spaces such as
+for example the sphere uh also graphs
+and manifolds meshes uh geometric graphs
+and so on
+and um the implementation of these
+principles basically gives rise to
+inductive biases that leads out to some
+of the most popular architectures that
+exist nowadays in deep learning whether
+it's cnns that come from translational
+symmetry graph neural networks or deep
+sets or Transformers they all stem from
+permutation environments and intrinsic
+cnns that are used in computer Graphics
+in Vision that can be derived from BH
+symmetry
+so we'll talk about it uh during the
+course
+uh what is also cool about geometric
+deep learning and in particular about
+graph neural networks that have become
+ubiquitous in a broad range of problems
+and applications and really the ranges
+goes from uh detecting misinformation
+fake news
+and they said for example a startup
+company
+that I co-founded with my students that
+was acquired by three to three years ago
+or improving uh navigation in Google
+Maps so that was the work done in Google
+deepmind in which data was involved
+detecting uh events in particle
+colliders or high energy physics is now
+prominently using graphql networks in
+different uh ways and for different
+problems and some of them were already
+being implemented in Hardware so we
+might even see them at some point uh
+put it in in the detectors
+uh structure biology so I mentioned
+Alpha phone so there is a lot of
+interest in understanding how proteins
+behave and interact
+from the standpoint of geometry and
+geometric machine learning as well as
+drug Discovery and Drug design so we've
+been quite
+impressive progresses in this field in
+the past few years including for example
+the famous paper itself about the
+discovery of new antibiotics using
+grapheneal Networks
+so to summarize I think if uh I started
+with symmetry as a kind of big idea that
+that encapsulates this course I would
+like to finish with a code for milvezius
+who said that the knowledge of
+principles compensates for the lack of
+knowledge of facts and this is the kind
+of idea that I want to you know to have
+in mind When approaching deep learning
+so deep learning is often taught as a
+collection of hacks so do this kind of
+uh thing and do that kind of thing for
+that particular problem with that
+particular data we hope to convey a
+broad set of principles based on which
+you can understand first of all what
+exists there so existing architectures
+and hopefully also design future
+architectures that are yet to be
+invented
+now let me say in the remaining time a
+few words about the logistics of the
+course
+so uh there will be 12 lectures so after
+this introduction you will hear from
+Johann about the basics of ml in high
+dimension so that will be some kind of
+Common Ground I'm pretty sure that that
+some of these things you have heard so
+we'll hear about the curse of
+dimensionality for example in a more
+formal way
+then Taco and John will be talking about
+geometric priors we'll hear about
+Symmetry and scale separation uh Petra
+will be talking about learning on sets
+and graphs so that will be mainly uh
+towards graph neural networks will then
+in the seventh lecture talk about grids
+so that will be convolutional neural
+networks the device from first
+principles
+uh then more General approach
+generalizing this through homogeneous
+domains such as the Seer we'll hear from
+DACA I will talk about midi faults
+meshes and geometric graphs then Taco
+will talk about gauges and bundles uh
+better we'll talk about using category
+Theory as an extension to the erlangen
+program so that's a new lecture actually
+based on some results from this year
+and uh finally I will
+conclude with some applications and and
+open questions and Trends so for most of
+the course we'll be following our
+protocol board so that was the long
+paper that I mentioned that was
+published last year you can find uh the
+paper and some materials on this website
+generating deep learning.com and here
+are some reference to the
+sections in this paper
+and we'll also have uh several guest
+lectures
+from uh some of the prominent research
+in the field researchers in the field so
+we'll hear from Francesca and Giovanni
+from Peter about gmns from physical
+perspective so how to relate graphical
+networks to differential equations
+and how to derive them as gradient flows
+of some energy
+from from base of roster we'll hear
+about subgraph gnns and please go dive
+deeper into graft Theory and talk about
+such constructions as the Reconstruction
+conjecture we'll talk about expressive
+power device for 11 tests
+and uh and so on uh Chris Bodner from
+Cambridge will talk about uh how to uh
+lift craft neural networks so more
+to richer structures called cellular
+shifts relating uh gnns so to diffusion
+equations on these exotic objects
+then Jordy Williamson from University of
+Sydney one of the key experts in
+representation here will connect
+geometrically product to this field and
+finally a participates from deepmind one
+of the authors of alpha phone 2 will
+talk about uh geometric insights in
+protein folding
+so that's it

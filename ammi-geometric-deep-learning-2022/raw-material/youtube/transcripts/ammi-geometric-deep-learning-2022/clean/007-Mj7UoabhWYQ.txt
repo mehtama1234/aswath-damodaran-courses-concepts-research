@@ -1,0 +1,1632 @@
+good morning everyone so um now let's
+let's get started with uh lecture seven
+already from this class from this course
+so today I'm gonna be talking to you
+about the domain one of the first
+domains after Petter I describe the sets
+and the graphs and this domain is
+degrades
+um so
+just as a recap to set the tone and to
+to remember where where we are coming
+from so um we I mean yesterday you saw
+or yesterday to go from better one of
+the first ways to think about this
+blueprint practice when the input is has
+some set structure or some structure and
+we probably have seen that there's many
+already a lot of different varieties of
+flavors that appear right and better
+describe this to you
+so in this lecture we are gonna go and
+zoom in into the one particular domain
+that maybe from for historical reasons
+has been very important very Central
+which is the great right that is kind of
+underpainting many of the successes of
+the neural networks in computer vision
+and speech processing Etc
+and we are going to see that in this
+domain we can say things that are pretty
+pretty precise and and there's a there's
+a lot of interesting mathematical
+structure that one can develop in this
+domain so uh today yeah it's a it's
+going to be a pretty um I'm I'm hoping
+to keep things in one hour but it's it
+might be like a long lecture so please
+also like uh interrupt me if I if you
+see that I'm taking too long so we are
+going to first uh describe uh the
+translation Group which is kind of the
+natural group of Transformations that
+appears in the in these grids and then
+we're gonna
+together see how to think about this
+group uh through what we call Fourier
+transforms right so the Fourier
+transforms we have a good way to
+understand what's happening with this
+group
+then we are gonna take some of these
+like principles and be all the
+convolutional neural network from first
+principles right we've had many many
+bells and whistles this is the
+scattering web electron form and then
+we're gonna see uh how you know from
+these elements we can now describe and
+arrive naturally at the convolutional
+neural networks the last part of the
+lecture
+all right so let's get started with uh
+with the first part of the of the
+lecture
+so as you all know like a grids are
+defined I mean they have these uh very
+very regular structure and the natural
+grips grids that you like that you know
+grids have a essentially one parameter
+which is uh the dimension in which they
+live right so in one dimension you have
+a you know a grid you can think it has a
+line that is like sampled in a way that
+is uniform so that's the kind of domain
+that you think when you are describing
+uh same time series like you know speech
+data even text data or financial data in
+two Dimensions we have this natural
+structure this like a rectangular like
+Square lattice that of course is the one
+that you use for treating images
+and so um once I told you it's like the
+an important kind of concept is once I
+give you this physical domain what is
+this is the transformation what are the
+things that I can do to move stuffs and
+move things in the domain so in this
+integrative if you start with a simplest
+case that is like a one you know one
+dimensional grid well the you know the
+only basically the only thing that comes
+to mind in terms of like when I need to
+move things around is to basically just
+shift things around right so so the idea
+is that if I if I try to think you know
+taking a single point and moving it well
+the the you know the point can move you
+know from one part of the domain to the
+other and you know the the natural thing
+you might say okay what happens when
+it's in the boundary right so when when
+the when the point is at the boundary it
+needs to change direction well here we
+do a little mathematical trick that is
+okay just for convenience what we are
+going to do is that we are going to
+invent you know this what we call
+periodic boundary condition right so
+what we are saying is that um
+uh we are making this this domain into
+something that has no boundary right uh
+every time so when this point arrives at
+the at the end it starts again okay and
+so um the reason for this is mostly like
+mathematical convenience as you will see
+right away uh because now we can try to
+to you know
+I instant like to to think about this in
+intuitively but now we can also try to
+express it mathematically okay so the
+operation of moving you know one point
+around this domain okay can be written
+in a very in a very natural form right
+is that I can I can now think about this
+transformation as a bijection right so
+it's a mapping that goes from the domain
+to itself
+and what it takes is that takes any
+coordinate you right so U would be kind
+of indexing this point here and it just
+moves it to the right okay and you can
+see that the only thing that seems like
+a little bit uh you know non-standard
+here is that we look at this we think
+about this addition in the modular
+arithmetic right so um I don't know how
+many people here in the in the crowd is
+familiar with the modular arithmetic
+right this is just think about this like
+integers but once you arrive at the you
+know the integer number D this is
+equivalent to zero right so you start
+again
+and so you can think this as a function
+G as well as a transformation and now we
+can do many interesting things right so
+once I have a once I know how to what is
+that information that moves everything
+to the right I can say okay what is the
+information that moves everything to the
+left right so I can undo the
+transformation well we write this as G
+minus one because it's kind of the
+inverse right of moving things to the
+right is moving things to the left and
+so you can see how nice you know this
+periodic structure is because now we can
+just you know just just replace plus one
+by minus one right then we take
+everything
+arithmetic and uh you know everything is
+is still well defined and not only we
+can just consider the inverse we can
+also
+that can I Ask Annie to mute okay
+perfect I mean so so I can take the
+inverse of a transformation but I can
+also take powers of a transformation
+right so so maybe maybe you already
+figure out what it means G to the K
+right so G to the K means instead of
+moving uh things for one element to the
+right it means moving them K elements to
+the right right so like I'm applying the
+motion K times
+all right
+so this is what we call algebraic
+structure and this is also what the Taco
+uh could capture captured in his lecture
+this is really the structure of the
+group right like these Transformations
+they look like functions right but you
+can think about these mappings as also
+living in a group right and so I think I
+can take a mapping and I can consider
+its inverse mapping I can take a mapping
+two mappings from that group and I can
+multiply them together okay this is what
+we call this algebraic structure
+okay and actually the group we already
+encounter it before when we're looking
+at the examples last week this is called
+the cyclic group okay it's really the
+group of uh integers modology
+all right uh so this is something that
+you can Define for the the Grid in one
+dimension but uh you can also do the
+exactly the same thing when the grid has
+more dimensions for example when we are
+treating with images right we don't have
+just a single line of pixels we have a
+like a you know two-dimensional array
+right so in that case the domain is just
+uh essentially what we call a product
+right it's like a tensor product of the
+two groups that we see before right so
+here the group of Transformations is
+just like the product of the two groups
+right yes so here the number of copies I
+put captures exactly the number of
+dimensions of the domain okay so if I'm
+looking for images my group of
+Transformations would be Z times Z right
+and if I'm looking at videos for example
+where I have three copy you know like
+three dimensions and I would have three
+versions of them
+uh you can also do the same thing in
+continuous domain right so instead of
+thinking about your grid like your
+domain by just having like like a
+discrete number of positions like pixels
+we can think a bit more abstractly and
+say that in fact you know my my data is
+just living in a continuous grid right
+so you know I can I can think about
+images as your eye like your retina
+right I don't have pixels right you know
+it seems more like a continuous thing so
+here's the same thing right so the the
+domain
+is a kind of a download like a Taurus
+and so the group of transformations of
+this domain here in that case correspond
+to the kind of the continuous version of
+this cyclic groups right which is just
+the the group of basically the reals
+with modular arithmetic as well
+okay there's a one curious like a
+interesting aspect in these examples
+right is that in that case you can see
+that the the domain
+and the group of Transformations they
+seem to be equivalent right in the sense
+that uh I can uh you know there's a
+one-to-one correspondence between a
+pixel in my domain and a transformation
+in this like group of Chiclet chips
+right this is really this is not the
+rule this is more like an exception
+right so you are going to see a next
+lecture by Taco that in general it's not
+necessarily the case right like the
+group of transformations in a domain and
+the domain might not be the same you
+know might not be the same right but
+this is an important kind of property of
+grids
+okay and so remember
+that uh also what we said is that once
+we have once we know how to move things
+in our domain
+we can use it to move signals in the
+domain right the the idea that if I now
+if I know how to move pixels right now
+you give me an image which would be kind
+of a map over the pixels I can also move
+this image yeah and so the way we do it
+is by by basically doing the composition
+right what we saw last time
+okay and one of the one of the important
+and here's a kind of a little
+illustration that shows you know if I
+have like some shifts in my in my domain
+I can use it to move images around right
+and one of the important features right
+of this uh lifting is that now this
+transformation that acts on the signals
+is linear
+okay so this mapping here G that is now
+defined over X not over the mega this
+mapping is linear
+so what does it mean if I have a mapping
+that is linear
+I can think about it right as a matrix
+right like a you know a linear
+transformation from one domain to itself
+I can think it as a matrix right if this
+X here you can take it as a vector space
+okay and so what I mean here is that if
+now we go back to our case of when we
+have the Grid in one dimension that we
+had the pixels I can think about the
+spaces of signals here as having a d
+degrees of freedom right so I can think
+it as a vector space of Dimension d
+right which is very well here I have D
+pixels
+so I have a Transformations that are
+linear
+that take as input the D dimensional
+including space
+so what I'm saying is that you can think
+of this as a matrix right so like this
+transformation that I'm describing here
+I can take it as a matrix so what is
+this Matrix
+so this Matrix is what we call the shift
+operator
+okay so remember this is a matrix that
+is now size d times d right it's like
+the number of pixels of the domain so
+and so it has it's almost zero like it's
+zero almost everywhere except for some
+ones that are just above the diagonal
+right so here I have all these ones and
+then I have a last one here in the
+corner
+yeah
+so read this one in the corner you know
+if you wonder why why do we have this
+kind of little guy here by itself
+remember this is kind of the boundary
+condition right so this tells me that
+when I'm in the you know in the last
+coordinate right it I'm going to be sent
+I'm going to send the last coordinate to
+the first coordinate this is saying that
+I'm going to send the coordinate that is
+in position I to the position I plus one
+right that's what we are just above the
+react
+okay
+and so now we can transform this kind of
+algebraic structure into basically
+operations with matrices right so you
+told me that if I have a transformation
+right this is the the shift operator if
+I apply it K times
+well what is associated metrics it's
+just taking this Matrix and multiplying
+it times k
+all right so this as you might imagine
+it's going to shift this diagonal right
+it's going to move it above and it's
+going to move
+and so here's what I just size for you
+is that okay now that I have this
+representation I can think about this
+transformation as applying this Matrix
+you can maybe use this fact to show that
+this group is commutative right so if I
+apply two Transformations and I compose
+them I get the same thing
+okay
+you can think about about this question
+yeah and then you can use this this
+exercise here you can use this this
+property
+all right
+and there's another remark if you want
+to kind of understand why you know where
+does this object come from is that you
+could also have seen about the seen this
+differently by looking at this domain
+right and now just try let's try to
+think of this as a graph okay so we're
+we're going to build a directed graph
+that basically tells us that this node
+is mapped to this node right so we put
+an arrow here and if I can draw here I
+cannot draw
+maybe I can try to draw let's see if
+that works
+draw
+okay so I put an arrow here then I put
+another arrow here right I put an arrow
+here
+Etc right
+this is really again illustrating what
+this transformation is doing right it's
+just mapping it's just moving things
+around to in a certain direction right
+and this guy goes here
+okay so if I wrote The adjacency Matrix
+of this graph I get exactly this uh
+these shift operator
+okay
+good let me continue
+okay let me just erase this erase
+sorry clear oh
+okay
+perfect
+and so
+now that we have this metrics
+let's go to the kind of the the key
+question right is that and this is
+really uh
+is really uh you know
+building from the from the blueprint
+that we described together last week
+okay so remember that the the geometric
+deep learning blueprint is really asking
+us to it's it's a procedure that it's
+going to build very powerful
+representation like neural networks from
+a very simple structure by understanding
+The Operators that are linear and that
+are invariant and equivalent with
+respect to the action of the group right
+so we need to understand how to compute
+linear invariant and equivalence okay so
+now we have the group which is the group
+of shifts right in this in this domain
+and so the question for for that we are
+gonna that we are gonna study now
+together is how to build linear
+invariant and equivalence
+all right
+so again and and for Simplicity we are
+gonna We Are Gonna consider the case
+where we have one dimensional grid and
+we are going to have uh you know like a
+d pick stocks okay so we are in another
+so let's start with the linear
+invariance okay so remember what is a
+linear invariant is a linear mapping
+that goes from r d to R
+that has the property that if I apply
+this mapping these are these are linear
+this this mapping to any transform
+version of X I have to get exactly the
+same thing
+that's the property of being involved
+so if it's a linear map that goes from
+RT to R
+I can always express it as a DOT product
+right it's a definition all the linear
+forms right are DOT products you know
+and so what it means is that if I want
+to characterize this linear invariant I
+just need to characterize this vector v
+but I need to find you know the vector v
+such that if I Define this dot product I
+need to have the property right that
+when I apply my transformation right to
+that is my transform version my mapping
+to transform version of G I apply the
+definition so this is just G times x dot
+product with v and now by applying the
+fact that g times x I told you that is
+just this Matrix up to some power
+applied to X
+and V and now applying the transpose
+right so I I arrive with the property
+that a linear invariant is characterized
+by some vector v such that for any X if
+I look at the dot product between X and
+this s k like this Matrix transpose
+apply to B I need to get exactly X
+transpose x dot product okay for any X
+and for any k
+all right
+so if you look at this equation
+what can we deduce immediately
+so this puts some very important
+constraint on V right V has to have this
+property right that needs to satisfy
+this for any X
+so it's not hard to see right that uh
+this is only going to happen if and only
+if V has the property that V equals to S
+times V
+okay
+and every time I have something here on
+purple is really meant to be an exercise
+for you right uh so the and and you can
+see it right is that uh you know because
+this is true for any X right these two
+vectors you know this guy and this guy
+have to be equal for any K in particular
+for k equals one okay and you get you
+get this basically this property here
+okay and so when you look at this
+equation what do you see right I have a
+I need to find v such that V equals to S
+times V
+so if you have seen this equation
+uh so this really is uh what we call an
+eigenvalue problem right we are trying
+to we are trying to characterize v as
+being a negant vector of s right the
+eigenvector is just a vector such that s
+times G is a is a multiple of B right so
+this is then this is the eigenvector
+of s that has eigenvalue 1.
+okay
+and so because this s is a very special
+Matrix right it's an adjacency Matrix of
+this like a SQL graph in fact uh it's
+it's not hard to see that the only V
+that has satisfies this equation is the
+V that is just a constant Vector right
+all one vector
+okay or any multiple of the all one
+factor
+and this is really uh if you have seen a
+little bit of a Markov chain Monte Carlo
+this is really based on what we call
+what's called a Peron for business
+theorem right it's just a it's a very
+powerful result from linear algebra that
+characterizes the largest uh so like the
+eigenvector associated with the largest
+taken value of a class of matrices right
+that uh that are basically adjacency
+matrices of certain graphs
+all right
+anyway V equals one is the is the only
+solution
+what it means that we have basically uh
+you know figure out that the only linear
+invariant right if we now we go back
+here right what do you get if you just
+uh you know have V that is the all one
+vector a DOT product with X and all
+one's Vector is just the sum like of the
+average right so this is the recovering
+what we suspected right that the only
+linear invariant to to shift is just
+taking the sum of the average of the
+vector okay that's the linear
+environment
+okay now let's go to something slightly
+more complicated which is
+the not just the characterizing
+invariants but characterizing
+equivalents
+right any questions so far on what I
+just described
+okay I see that there's no questions on
+the chat
+good
+okay
+I see that you are typing
+okay we're gonna pause
+all good
+ah let me see
+there are questions campus wire can you
+um
+okay
+let's can we can you copy them here for
+any chance
+let me try to
+foreign
+to see if I can do it in parallel
+okay I will while you try to type the
+question I will also try to log into
+campus buyer ah good there I am
+okay
+foreign
+how do you compute
+G minus 1
+G minus 1 of the first element
+ah
+yeah so if I understood the question
+correctly is how do you compute the
+inverse right of a orbital of a shift in
+in the one degree
+good so the inverse it's really you can
+really think about there's two ways
+where you can think about it is that if
+you have if you will if you are
+if you trust me that I can name code
+this uh you know like this
+transformation to the right with the
+shift operator which is this Matrix that
+has ones just above the diagonal and
+then the one last one in the in the left
+corner
+then you can just formally take the
+inverse of this Matrix right
+just invert The Matrix right The Matrix
+is invertible that's one way to think
+about it the other way to think about it
+is well at the end of the day uh you
+know deciding to the G is like a like a
+you know shifting things towards the
+right and then so you know that the
+inverse of this is going to be shifting
+things toward the left right at the end
+of the day lie right and left is just
+arbitrary right so it's just a way to
+actually draw the arrows in my cyclic in
+my you know in my in my uh under
+directed graph right so you could also
+uh just reverse the arrows right of the
+shift and then compute The adjacency
+Matrix of this operator
+so at the end of in any of the two cases
+right what you would get is essentially
+the same Matrix G minus one is a matrix
+that essentially has just like a like a
+reversed thing right so like the you
+know like instead of having one above
+the diagonal you have once under the
+diagonal and then the one that is in the
+that was in the bottom left corner now
+it's finding the upper right corner
+right that's G minus one
+all right and I'm trying to see if I can
+uh
+log into compost wire so that I can also
+uh
+ask questions uh like answer questions
+in real time
+okay
+see if I can make it work
+well I'll try it again doesn't work
+can you repeat what is s
+s
+ah here here in these uh you mean in
+these um okay yes
+in this formula you mean s capital S is
+this Matrix that I have here I will show
+you again
+s is this Matrix
+okay
+so when I say S1 right it means just s
+right but then the point right is that
+the the fact that I uh I had here right
+is that any transformation any shift
+I can I can view it as taking a certain
+power of this Matrix right just because
+this is really a property of this cyclic
+Group which is called a it's called
+transitive property right like any
+element of the group can be generated by
+taking this kind of so the thing about
+this like the basic building block right
+so if I understand this of this Matrix
+here
+I'm I'm in business because I can then
+generate any transformation in my group
+right just by taking a certain part and
+I can also take inverts right I can take
+you know this K can be negative right
+and this would be the inverse right
+okay
+good
+so hopefully uh we are okay in terms of
+the invariant right this is just the you
+know the sum now let's hi in which case
+can we use S to Decay yeah so SK so when
+I say when I say um
+you know as to the gay right is so it's
+a metrics right that you can take Powers
+right and and uh and so uh uh you are
+totally safe to use like s to the K
+transpose right like I hear the star
+right corresponds to the transpose right
+this is just uh you know in linear
+aldera when you have a here I don't know
+if you see my cursor right so when I
+have a DOT product
+and I have some like linear
+transformation times x with v i can view
+this dot product by sending this Matrix
+here to the other side with the
+transpose
+okay I put the star just because it's
+the same it's thing so think about these
+stars that transpose right you can take
+the Matrix and then transpose
+good
+okay now let's
+um let's go to the next level
+so instead of looking at invariants now
+we need to look at equivalence
+okay so now and and still like the key
+point is that we are still looking at
+just linear objects right we are just
+need to understand what are the linear
+transforms that are equivalent to
+translations
+okay so now if I have a linear key
+variant it's a mapping the leader is
+linear that goes from RD to Rd
+okay so a mapping that is linear that
+goes from RT to Rd
+we have to think about it as a matrix
+right now instead of being a vector that
+was like this dot product now it's a
+matrix that is a d by D Matrix
+and this Matrix has the property right
+that if I apply this operator to the
+transform region of X I want to get
+the same answer but then transform right
+so in other words The Matrix have to
+commute
+with the action of the group
+okay and so if we try to think about
+this as some Matrix with some Matrix C
+right so this is the the the operator
+that I want to characterize
+what I want right is that if I apply
+this Matrix to some shifted version of
+the input and remember that shifts I can
+think about them as applying this shift
+operator for a certain number of times
+right that's that's by definition then I
+need to get something that commits right
+so again by the same logic as before
+what what this condition is equivalent
+to asking that this Matrix that I'm
+looking for has to commute
+with a shift right so I'm looking I need
+to find all the matrices C such that c
+times s is equal to S times C
+okay is it is this clear this I I want
+to make sure that people are happy with
+this fact because this is kind of an
+important profit right and we are going
+to spend a few minutes together
+trying to understand the consequences of
+that okay so this is really the property
+of equivalence right that I I want to be
+I want I want to understand
+what are the
+linear Transformations like in that case
+are going to be matrices that commute
+with translations and because
+translations can be expressed through
+this shift operator this this is the you
+know in the language of matrices this is
+just expressed as two matrices that
+commit with each other
+all right so now let's try to understand
+that right
+okay
+we need to characterize these matrices
+so
+here
+so the question I have really is I give
+a you know I know this Matrix S and I
+want to understand everything that
+commute with s
+so in terms of for understanding this
+question well it turns out that I need
+to do is to understand
+kind of the spectral properties of this
+Matrix S
+okay and so
+let's try to formalize a little bit this
+this intuition okay so uh yeah I told
+you that the I joined like the transpose
+right is acting is looks like it's the
+actual the inverse right like the
+transposing S is the same as inverting s
+okay so you know in that sense it means
+that if I apply s transpose times s is
+equal to S as transposer is the identity
+okay so this what it means is that this
+Matrix S is what we call a normal Matrix
+right normal matrices are have this
+property right that you can you know as
+times as transpose equals to the
+identity
+and so what it means is that I can think
+I can extract its eigenvectors and eigen
+Bulbs right like uh so this class of
+matrices for this kind of matrices I can
+you know it makes sense to compute the
+the Spectrum
+so let's try to do that okay so what we
+need is that we need to find
+eigenvectors and eigenvalues of s
+so here's a here's a vector for U right
+I'm gonna I'm gonna Define this
+complicated looking Vector right and and
+I don't know if you can see the picture
+in the bottom right which is kind of
+trying to illustrate
+what I'm what I'm writing here in
+equation right so this is I'm
+considering a vector v that has an
+actual vectors are called V K
+so for h k is a vector in dimension D
+that is a vector that is very special
+because it's complex value right it's
+not a real Vector it's complex value and
+why do I need complex vectors instead of
+real vectors
+this is because this Matrix S right it's
+not symmetric right and so the the you
+know in general the eigenvectors and
+eigenvalues of matrices that are
+non-tometric might be complex right and
+that's our situation here
+anyway it's a vector that it's expressed
+through complex exponentials
+and so complex exponentials is nothing
+else right then Sines and cosines right
+so basically you know the real part is
+is a cosine here and the imaginary part
+is a sign right and so what I'm doing is
+I'm basically varying the frequency of
+you know every entry right I have D
+different entries every entry has a
+different frequency and this is why this
+is why I'm kind of drawing here right
+you have to think that each one of these
+vectors right corresponds to one of
+these waves right and instead of having
+just one wave I have you know the real
+part and the imaginary part are two
+different waves that are slightly
+shifter one from each other
+okay so now let's try to look at that
+dot product between uh The Matrix S and
+uh and one of these vectors right so if
+I look at the dot product between the
+between uh you know the jth row of s and
+one of these vectors
+this is just basically uh by definition
+this is looking at the you know Shifting
+the entry of the vector v by one
+and so you can write that if you if you
+shift the you know if you evaluate this
+Vector at location J plus 1 right like
+for example comparing this guy with this
+guy right you can you can see that this
+is just uh
+foreign
+basically this is just uh evaluating the
+vector at the initial location times
+something that does not depend on J
+right this is just like the shift that
+is that is here
+all right I think there was an error
+this is just uh yeah so this is J right
+so basically I can I can think about
+this as extracting you know like the
+entries J here it has the same thing the
+same argument but instead of having a j
+it has a j minus one right so I can
+think about J minus J as you know taking
+out one element like this times the same
+thing with a J minus one right which is
+exactly This this term here anyway so
+what I have what I have what I have here
+is that I can verify that if I take you
+know if I take this vector and I do s
+times this Vector I get a multiple of v
+k okay and the eigenvalue Lambda K is
+exactly this quantity that you have here
+right the eigenvalue is uh e to the
+you know e to the i 2 pi K Over d okay
+so I have a essentially given you the
+eigenvectors of s
+okay uh if you don't trust me you can
+try to you can you can do this uh you
+know you can verify this operation by
+yourself but it's really just what is
+written in this equation okay and in
+fact these are all the eigenvectors of s
+right there's no other you know all the
+eigenvectors of s are really these
+complex explanations
+okay
+and so there's this is nothing else and
+the Fourier transfer right I don't know
+if you have you're familiar with Fourier
+transforms but basically if I collect
+all the vectors that I just given to you
+and I put them in a matrix V right and
+now I can define a transformation that
+is also linear transformation that takes
+any X and computes its all these dot
+products with all these vks right that's
+what's called a Fourier transform right
+so in coordinate I can just look at x
+dot product with VK for for all the
+different case right here and I get all
+these you know funny looking expression
+so this Fourier transform has many many
+cool properties I mean it's really uh
+you know a very Central Tool in many
+areas of mathematics and Engineering
+okay so we uh if you look at the dot
+product between two signals after the
+Fourier transform you you get exactly
+the same thing as before right that's
+what's called an isometry or a more you
+know it also has the name of a Percival
+identity
+we can we can take this transformation
+and we can invert it write this Matrix V
+here is invertible okay so you can
+actually invert it very easily and go
+back from the Fourier transform to the
+original domain you can go back by this
+linear transformation as well
+okay and you can Define it for for our
+particular setting when you have like a
+d you know D pixels but there's many
+many other domains in which you can
+still Define free transforms right
+whenever even if the condom is
+continuous if the domain is kind of all
+the real numbers many many many many
+things right and probably you know you
+you will probably see foreign form for
+many years to come right if you're still
+like involved in you know enriches in
+many areas and for example just you know
+not to go very far uh you know last week
+there was the fields medal right the
+2022 and amongst the four first
+medalists two of them
+you know are doing kind of central like
+the central tool that they use is
+basically Fourier transforms okay so
+this is really uh you know something
+that is still quite important in many
+many areas of math okay but the question
+for us is how do we care why do we care
+about this right so what is the link
+between Fourier transforms and our
+problem of characterizing the
+equivalents right like The Operators
+that commute with translations
+well let's back to our question right so
+what we want is to understand operators
+see that commute with s
+okay so there's a there's a an important
+property from linear algebra right
+that I can use to characterize matrices
+to matrices commutes
+even only if they have something you
+know there's some relationship between
+the eigenvectors of one and the vectors
+of the other I don't know if someone
+remembers that
+it turns out that if I want two matrices
+to commute
+I need to ask them to have to share the
+same eigenvectors
+okay they can have different eigenvalues
+but they need they need to share the
+same again vectors right this is the
+equivalent to asking the two matrices to
+commit
+okay this is a
+kind of a an important exercise right in
+linear algebra
+okay
+and so uh what a what uh what this means
+for us right is that the medicine the
+equivalent maps that I'm trying to
+characterize are precisely those that
+whose eigenvectors are free like the the
+vectors that we just described that were
+the eigenvectors of s okay so in other
+words all the metrics is C that once I
+might once I'm in the Fourier domain
+they are diagonal okay these are exactly
+the maps that I'm looking for
+okay
+so I can characterize them with some
+vector
+you know Alpha that is basically the
+what is in the diagonal of this Matrix
+so this this is complex because we are
+in this you know complex domain and this
+gives me all the maps directly by but
+what do they you know what are these
+maps about right I mean how can we think
+about these Maps perhaps in the spatial
+domain not in the freedom
+okay so this is really the One Step that
+I'm gonna just do it together right it's
+uh you know maybe it's good to do it at
+least once
+so let's try to date okay here's a
+here's three equations that I'm gonna
+try to to describe to you in a little
+bit of detail but I I wrote here three
+equations let's try to understand this
+first equation what does it say
+I'm just taking I'm just taking X right
+and I'm writing it in terms of its
+Fourier atoms
+okay
+so here what I'm using right is the
+inverse Fourier transform okay so I can
+I can express X in terms of its Fourier
+coefficients
+second equality is uh using the fact
+that c is linear
+okay
+C is linear so it means that the C
+applied to a linear combination of
+vectors right is that I can put the C
+inside
+okay
+and the third equation
+is using exactly what I what I what we
+have here right is that c applied to any
+Fourier coefficient it's going to be
+it's gonna so this V K is going to be an
+eigen Vector of C
+okay that's because C needs to share the
+same eigenvectors as s right so that's
+the third equation okay so just to to
+refresh right so these are the three
+properties that we are using so far okay
+okay
+now we are almost there there's two more
+equations
+okay now let's try to do that now let's
+try to write what we have in this
+equation in coordinates right so let's
+write it in coordinates okay so let's
+look at let's look at the jth coordinate
+of this Vector right so the just because
+of this Vector here by this equation
+it's just basically looking at the jth
+coordinate of v k transpose okay
+and so
+if you do that and you do some
+rearrangements right you can you can
+write that the jth coordinate by by you
+know by expressing the jth coordinate of
+v k it's exactly this property here
+right and now I can put the transpose
+outside right so I can uh you know I can
+massage this thing a little bit and I
+have something a little bit funny
+looking here right so I have a you know
+the Fourier transform of X transpose at
+frequency k
+multiply by this complex exponential and
+all these things transpose all this
+thing conjugates times Alpha K transpose
+so I can I can actually I can write this
+as a DOT product between the Fourier
+transform like this Alpha hat and
+something that involves the shift of x
+okay of X bar because this is conjugate
+okay but the point is that now we here
+we have two more properties right is
+that we are using in this first equation
+something that we didn't cover here but
+it's a it's a kind of also like another
+Elementary property of Fourier
+transforms is that if I know how to
+compute the four transform of a signal
+then if I shift the signal the Fourier
+transform the Fourier coefficients are
+just multiplied by what we call this
+kind of complex exponentials right here
+we are just changing the phase right so
+this is what we have here okay we are
+you know this this quantity here is in
+fact the Fourier transform of X with
+applying some shift
+and then the last thing that we are
+doing right is remember is that the dot
+products in the Fourier space are equal
+to the dot products in the space in the
+space like in the in the original domain
+okay this is what we call the pastival
+and now we are to a point where we can
+you know we can we we can we look at
+this equation right and this makes a lot
+of sense right what I'm saying is that
+this mapping here
+C of X at location J I can see it as a
+linear combination of shifted version of
+X apply multiply by some filter
+so this might look familiar to you right
+what is this operation right when I'm
+just uh you know taking a sum of shifted
+versions of a signal times some weight
+well that's in the title right that's
+the convolution
+all right
+okay so just to summarize
+what we have done here kind of for from
+first principles
+is just to realize right that any
+operator that is equivalent right so
+that commutes with shift is a
+convolution
+okay and in fact we can say something
+more than that is that any convolution
+commutes with this right because uh you
+know if I write a convolution like this
+right now I apply a shift to the input
+right I can see that you know because
+this thing is linear right uh a
+convolution is a linear combination of
+shifts
+so uh you know because the shift is
+available in group then I'm going to
+write everything commutes everything is
+fine
+okay
+so we have essentially characterized all
+the linear equivalent Maps it was a
+little bit uh you know we had to take a
+little detour and talk about Fourier
+transforms but uh at the end of the day
+we end up with something that is pretty
+digestible which is something that maybe
+you already knew right the fact that
+convolutions are exactly the maps that
+are linear and they are equivalent
+okay and I mean this is a picture a
+little diagram that we that we have that
+kind of summarizes everything that we
+just said right is that you know if I
+think about convolutions right I can see
+that think about them in a special
+domain with this kind of Matrix right
+that is a has this like a top lid or
+like a band structure and if I if I view
+this operator this this mapping in the
+Fourier domain now they need to be
+diagonal right just because the the
+Fourier domain is the one that
+diagonalizes the shift
+okay
+very good so now uh I asked the question
+well we have characterized this linear
+equivalent Maps right which are
+convolutions are all convolutions
+equally good right it's like is
+convolution everything we need
+okay can I take any filter here that I
+want right
+with the natural questions
+okay so what am I gonna argue now in
+this slide is that we need to be a
+little bit careful right it's not as
+easy
+and here's why
+here so far we have just focused on
+Transformations that basically move all
+the pixels at the same time right when
+we think about this shift right we are
+moving everything one pixel two pixels
+right but all the image right is going
+to be moves you know together okay
+here's a question that I'm asking is
+what happens for transformation that are
+a little bit more General than this kind
+of rigid translations right and here I
+try to illustrate this with a little
+picture right so think about this little
+uh black circle right as this as the
+group of shifts right this is kind of
+like a cyclic group right so here in in
+this point I have the identity right
+this is just not not doing anything and
+then in this you know these guys
+represent applying a shift
+my point is that these Transformations
+they exist in the broader context right
+there's other things that I can do to my
+image that are not in this black circle
+right but somehow there are things that
+I can do that are almost gem
+translations right this is what I try to
+illustrate with this picture right it's
+like this is a this is the house right
+it hasn't been completely shifted from
+the original one you can see that
+there's a little bit of a distortion
+that is happening right things have been
+moved a little bit there's a question
+okay there's a question from Benjamin
+that says okay
+good question so let's go back to the to
+the previous derivation
+so Benjamin is asking about the first
+step right like why is this equality
+here
+I guess
+good this is because of this property
+right that we know that because because
+C is an operator that that commutes with
+a shift
+it necessarily has as eigenvectors all
+the eigenvectors that are eigenvectors
+of s right and we have seen that these
+Fourier atoms
+are eigenvectors of s
+and so therefore there are eigenvectors
+of C right so basically c times V K
+transpose is equal to BK transpose times
+something right and this something is
+the kind of the eigenvalue of C at the
+frequency k
+I hope that this answers your question
+Benjamin otherwise we can follow up
+later offline
+okay
+good
+perfect great okay so we are here right
+and I tried I was trying to argue that
+in this picture
+I I couldn't I shouldn't think about the
+translation group as everything there is
+in my world right I can do things with
+images that are not exactly translations
+but they are not far right these like
+these little guys here
+so
+in that context
+I have to ask the question okay should I
+ask some properties right of my
+representation
+do they should they treat these things
+that are not exactly translations but
+almost should should we try to ask
+something right some kind of like a
+symmetry or like almost symmetry with
+respect to these guys
+and so the the the point is that indeed
+we can we can you know so there are a
+bunch of Transformations that are that I
+can apply to this big group and I can
+I can Define or I can I can assign some
+kind of like a distance to the to the
+Symmetry group right so there are some
+things that I can do to my image for
+example this thing that is really at the
+corner here which we all agree that is
+it's a kind of a very crazy Distortion
+right I'm kind of completely breaking
+destroying the structure of this thing
+but if I do things that are almost like
+a shift right because I'm asking that
+the fun the representation is invariant
+to shifts well it's natural to say that
+if something is very close to being a
+shift maybe the representation should be
+very close to being environment
+okay
+so that's what we are arguing here right
+is that we want to think about this
+notion of invariance in a bit in a more
+General sense right we're going to say
+that when there's a transformation Tau
+that is now is living in all these black
+very large space
+if this transformation tau is close to
+being a translation I would like the
+function to be close to being invariants
+right and I can quantify that with you
+know kind of a cost or think about this
+C of Tau that measures how close is this
+transformation to being asymmetry
+okay the closer it is from being a
+symmetry the smaller I want this this
+difference to be
+okay does it does it make sense this is
+an important concept
+okay
+and and it's an import it's important
+that it's very clear for all of us right
+that if I have uh you know if I have
+Transformations out there that are
+almost translations I want my
+representation to be almost impried
+okay
+and these are very important concept
+right because now what it means that I
+cannot just think in terms of this like
+little two properties that we described
+like it's not sufficient to just ask for
+you know pure invariants and purifics
+okay
+all right
+so that's natural question which
+convolutions are also going to help me
+for this new property right this new
+property that is the stability to the
+formations Maybe
+some of these convolutions that I
+described are indeed they are equivalent
+to translations but maybe some some of
+these convolutions as soon as I move a
+little bit away from this group they
+break down completely right and maybe
+some convolutions are more stable than
+others
+okay so that's the question
+for this
+[Music]
+okay sorry that uh the sound so that the
+motivate the kind of the justification
+for for this deformation as you can
+imagine it it appears in many many areas
+right and there's a there's you know
+examples that you can imagine uh from
+computer vision right where here you
+know we are kind of moving through
+different periods of art uh by not rigid
+translations but things that almost look
+like translation right here we are
+applying smooth deformations
+when we think about like processing
+shapes like humans humans do not move in
+a way that is completely rigid right
+there's things that you know that happen
+between humans that are not exactly
+translations and yet
+we would like their our representation
+to be stable right and the same thing
+for molecular for molecules or for many
+many areas of physics right I mean what
+my point here is that the physical world
+is by construction it's a world that is
+stable to deformations right you don't
+want any representation to be broken
+just because things move a little bit
+away from being a rigid signature okay
+and so uh and I have I realize that I'm
+a little bit late of time but this
+second and third part are very very
+quick right so we are hopefully going to
+be done in you know in about five
+maximum 10 minutes hope that it's okay
+okay and so
+um the the key is right is that if you
+want to understand stability we should
+not get too obsessed with frequency and
+free right instead we should be looking
+at representations that extract
+information through different scales
+instead of different frequencies okay
+scale is a very natural it's a very
+intuitive concept right it's a very
+intuitive notion it's the notion
+that
+um you know I can look at this image and
+organize the information in this image
+across different resolutions right as
+the as you have here right and this is
+something that we touch upon a little
+bit uh last week right so I can have a
+version of this image that is the course
+scale like a very very small number of
+pixels and then every time I'm
+considering what is the information that
+I lost what is the information that I
+need to go from one resolution to the
+next right and this is what is captured
+in this multi-scale representation
+okay and you can actually implement this
+multi-scale representation with what we
+call with the various special kind of
+convolutional operators that are wavelet
+convolutional operators right so this is
+like a these are a bunch of convolutions
+right whose filter is obtained by taking
+a little wave maybe this one here right
+and then applying a rotation of this
+wave right I'm just rotating the filter
+and I'm I'm deleting the filter right so
+I have basically extracting information
+at different scales and orientations
+and it turns out that these wavelets
+have a very important property right
+that you don't have in general
+convolutions which is the fact that now
+if I apply this wavelet this convolution
+with that convolution to a
+transformation that is not necessarily a
+translation it's a more General
+transformation then you get almost
+commutation right like it's exactly the
+stability that they described before
+right so in particular if this tau is a
+convolution you get exact equivalent as
+we had before but now you get something
+that is much more interesting is that if
+I have a transformation Tau that is
+almost a translation right measured by
+the fact that this guy here is very
+small then the this transformation
+almost commits okay this is exactly the
+stability that we described before
+okay
+so the punch line here the important
+point right is that not all convolution
+operators are stable to the formations
+we need something special right for the
+stability that is really brought To Us
+by waves right we have something that in
+technical terms it's called a kind of a
+localization both in space and frequency
+okay this is a kind of an important and
+non-trivial result
+anyway so it turns out that we with this
+wavelet platforms we can define a very
+simple geometric deploying blueprint
+which we call this wavelet gdl right
+which uh really just uses the three
+building blocks of the blueprint so we
+have a local local invariant which is
+just a low pass filter we have a local
+equilibrium that is stable which is this
+wavelet filter bank and then we have a
+element-wise nonlinearity which is wrong
+and now we just combine these elements
+uh you know exactly how the blueprint
+tells us to do right so I have first one
+element that is just the low pass right
+this is just a linear path it is the one
+here and I'm going to make it more
+informative I'm going to make it richer
+and I'm going to make it richer by
+always systematically extracting the
+information that is lost by the low path
+right so I can make it richer by you
+know combining this a with wavelets then
+I take the you know the element-wise
+non-linearity and then extract new
+invariance again
+and every time I extract an invariant I
+can recover the information that I lost
+by a new family of coefficients right
+that every time that I apply a then I
+complement it with you know W Times the
+normal linearity right and I can keep
+doing like this
+so this representation is is very nice
+because it can you know it has some
+mathematical properties for example it
+can
+preserve all the energy of the signal
+okay and also more importantly it's it
+really has the property that we ex that
+we were asking for right it's stable to
+deformations in other words if I apply
+this transformation to some uh deformed
+version of the signal right so if Tau
+here is a deformation and I compare the
+difference in the scattering
+coefficients like it's something that is
+very close right and it depends the
+distance is proportional to kind of this
+deformation cost right so how far is
+this Tau from being a translation
+okay
+anyway this representation uh you can
+use it for solving many interesting
+problems in physics uh and chemistry so
+so here I show you some examples of how
+can you use this wavelet transform to
+model like some physical phenomena like
+build statistical models for physical
+data so this is data in you know
+turbulence that is used for example in
+you know in fluid dynamics this is data
+that comes from glass like icing models
+and this is cosmological data so you can
+get build like very simple statistical
+models that work pretty well okay and
+cosmology chemistry Etc
+it can also it can also be used for
+computer vision right and so this is
+really the like think about this as a
+very simple blueprint right so here uh
+as you can see the the we just built
+this blueprint really from from first
+principles right we take this input we
+apply this blueprint that is the the
+wavelet gdl like the wavelet scattering
+and then we we do a linear
+classification on that
+okay and so if you look at the
+performance of this model uh you know on
+different kind of data sets right like
+if you think of like mnist it works
+pretty well but if you do it on very
+more complicated problems like you know
+like cfar or imagenet you see that you
+know there's a little Gap right there's
+a you know the the Deep Nets uh work
+much better than this scatter right
+and what is missing of course is that we
+are you know we are just uh extracting
+information uh using this wavelet
+representation right in a sense there's
+no you know that there's no there's no
+learning here right there's no there
+were no like parameters that are inside
+these filters right it's just like
+completely hard-coded wavelet
+coefficients what is missing is the
+interactions between feature Maps right
+and this is really the last thing I
+wanted to talk to you about today
+okay and so uh one way where you can
+understand like uh from from these like
+wavelet scattering they're like the more
+General class which are in fact uh you
+know like a convolutional neural
+networks is that convolutional neural
+networks instead of just uh looking at
+you know this wavelet decompositions and
+then just passing them so non-linearity
+what they can do on top is to recombine
+information across feature Maps right
+like a convolutional tensor right is
+actually doing two things right it's
+extracting information in the spatial
+neighborhood right this is kind of the
+spatial context of the filter but it has
+something it does something much more
+important which is also to recombine
+information across the channels right so
+it can learn how to extract information
+that is kind of shared like spread
+across different channels right this is
+not something that you could do with the
+previous representation right so if you
+do this right if you if you kind of
+combine the scatter like the wavelength
+decomposition in space with kind of a
+trainable filters and in in channels
+like this kind of one by one
+convolutions
+then you can see that with this kind of
+hybrid model you kind of recover right
+up up the way to imagenet the
+performance of you know uh like a more
+complicated compilation in the Olympics
+right
+uh so the point right is that uh you
+know we can use these ideas from
+stability to kind of get get some grasp
+on why this architectures work well
+right obviously there's many things that
+we don't know right and these are kind
+of like the mathematics of neural
+networks the convolution networks are
+still pretty much under development
+right
+there's many things that these networks
+are doing that are very important for
+for example for the optimization side
+like the you know the residual
+connection the normalization where we
+have still not a very good idea on why
+how to think about those right uh
+obviously there's a you know there's
+some efficiency aspects right about the
+um
+uh you know
+how large do you need to make the
+network to make it work better and uh
+you know here's a just a few questions
+that I that I think are interesting and
+uh still far from being well understood
+right so in other words the geometric
+deep learning blueprint we can use it to
+think about convolutional neural
+networks but obviously it's not
+sufficient to explain all there is to
+know about convolutional neural networks
+right there are still some Mysteries
+that we need to figure out okay like the
+role of the depth even like for example
+how it relates to this kind of new
+architectures that are these Vision
+Transformers so these are all like uh
+interesting questions
+so with that uh because I'm already
+pretty much out of time I just want to
+wrap it here okay so what uh what we saw
+today is that with the grid we can uh
+you know we can really play and have you
+know like say precise things using kind
+of the algebraic structure of the grid
+like that is the you know
+um obtained through it free transform
+uh we can we can you know derive kind of
+a convolutional network almost from
+first principles right but first by
+understanding uh you know the structure
+of linear equivalence and then by
+building these deformation stability on
+top uh but of course there's many
+questions that are open uh this is just
+like one you know framework to think
+about this but not the final answer and
+then in the next lectures what we are
+what you're gonna see uh you know most
+the lectures from from Taco Michael and
+also better is that we are going to
+exactly basically apply the same
+principles but on domains that are a bit
+more General right so we are gonna look
+at the at this blueprint how it does in
+in marginal groups and also in meshes
+and engaged transformations
+so with that thank you very much and uh
+I don't know if there's some questions
+that are in campus wire or somewhere
+someone has any questions
+that was my last slide
+okay let me check
+okay thank you all uh anyway I'll be uh
+checking campus wire for if there's any
+other remaining questions and also let
+me know if someone has any questions
+with the some of the exercises that are
+you know that are that have been um uh
+kind of scattered through the slides
+okay
+uh well I cannot hear you but okay
+anyway I'm gonna say bye right is
+everything okay yeah bye and I hope that
+you enjoy the rest of the lectures and
+it was it has been a pleasure to to be
+with you again this year

@@ -1,0 +1,138 @@
+[
+  {
+    "session": 1,
+    "title": "Session 1: Lecture 1 (Introduction) - Michael Bronstein",
+    "theme": "Geometric Deep Learning Starts By Rejecting Unstructured Learning",
+    "subtheme": "The course treats geometric deep learning as a unifying blueprint",
+    "discussion": "This opening lecture matters because it refuses to define the field by a single architecture. Bronstein instead frames geometric deep learning as a translation problem between domain structure and model structure, which gives the entire course its coherence.",
+    "url": "https://www.youtube.com/watch?v=5c_-KX1sRDQ"
+  },
+  {
+    "session": 2,
+    "title": "Session 2: Lecture 2 (Learning in High Dimensions) - Joan Bruna",
+    "theme": "Geometric Deep Learning Starts By Rejecting Unstructured Learning",
+    "subtheme": "High-dimensional learning breaks down without good priors",
+    "discussion": "The high-dimensional lecture is where the course justifies its own existence. Bruna makes it clear that geometry is not an optional sophistication layer; it is the answer to why unrestricted learning becomes statistically fragile.",
+    "url": "https://www.youtube.com/watch?v=plIJYzVKfdI"
+  },
+  {
+    "session": 3,
+    "title": "Session 3: Lecture 3 (Geometric Priors I) - Taco Cohen",
+    "theme": "Symmetry Is The Central Language For Encoding Structure",
+    "subtheme": "Invariance and equivariance formalize what should stay fixed or transform predictably",
+    "discussion": "Geometric Priors I gives the course its control vocabulary. Once invariance and equivariance are in place, later lectures can ask much sharper questions about what exactly a model should do under transformation.",
+    "url": "https://www.youtube.com/watch?v=qEjWMhRlXgY"
+  },
+  {
+    "session": 4,
+    "title": "Session 4: Lecture 4 (Geometric Priors II) - Joan Bruna",
+    "theme": "Geometric Deep Learning Starts By Rejecting Unstructured Learning",
+    "subtheme": "Geometric priors are the repair strategy, not a decorative add-on",
+    "discussion": "The second priors lecture sharpens the tradeoff between expressivity and bias. The discussion is useful because it stops structure from sounding like dogma and instead presents it as disciplined restriction in service of generalization.",
+    "url": "https://www.youtube.com/watch?v=DpnA8NNUtyU"
+  },
+  {
+    "session": 5,
+    "title": "Session 5: Lecture 5 (Graphs & Sets) - Petar Veličković",
+    "theme": "Domains Differ, So The Operators Have To Differ",
+    "subtheme": "Sets require permutation-invariant aggregation",
+    "discussion": "The graphs-and-sets lecture marks the transition from motivation into operator design. It shows that the field becomes concrete only when the geometry of the domain dictates what aggregation is allowed.",
+    "url": "https://www.youtube.com/watch?v=J2bLt3-SSpg"
+  },
+  {
+    "session": 6,
+    "title": "Session 6: Lecture 6 (Graphs & Sets II) - Petar Veličković",
+    "theme": "Domains Differ, So The Operators Have To Differ",
+    "subtheme": "Graphs require relation-aware locality and message passing",
+    "discussion": "Graphs & Sets II is a pressure test for plain message passing. The discussion is valuable because several later frontier methods make sense only after you see where ordinary graph models fail to distinguish structure.",
+    "url": "https://www.youtube.com/watch?v=HvQw7Zq1jtU"
+  },
+  {
+    "session": 7,
+    "title": "Session 7: Lecture 7 (Grids) - Joan Bruna",
+    "theme": "Domains Differ, So The Operators Have To Differ",
+    "subtheme": "Grids recover classical convolution as one structured special case",
+    "discussion": "The grids lecture repositions convolution inside a broader conceptual map. That is important pedagogically because it stops CNN intuition from dominating domains where grid assumptions do not hold.",
+    "url": "https://www.youtube.com/watch?v=Mj7UoabhWYQ"
+  },
+  {
+    "session": 8,
+    "title": "Session 8: Lecture 8 (Groups & Homogeneous spaces) - Taco Cohen",
+    "theme": "Symmetry Is The Central Language For Encoding Structure",
+    "subtheme": "Groups and homogeneous spaces make global symmetry computational",
+    "discussion": "The groups lecture is the course's most explicit statement that symmetry can be operationalized mathematically. It connects the intuitive desire for structured behavior to a formal recipe for operator construction.",
+    "url": "https://www.youtube.com/watch?v=SGiQ3pm06nI"
+  },
+  {
+    "session": 9,
+    "title": "Session 9: Lecture 9 (Manifolds) - Michael Bronstein",
+    "theme": "Manifolds And Local Frames Generalize Euclidean Intuition",
+    "subtheme": "Manifolds turn curved spaces into first-class learning domains",
+    "discussion": "The manifolds lecture matters because it breaks the habit of assuming the ambient Euclidean space tells the whole story. Bronstein keeps returning attention to intrinsic geometry and local structure.",
+    "url": "https://www.youtube.com/watch?v=YCncgm38-bA"
+  },
+  {
+    "session": 10,
+    "title": "Session 10: Lecture 10 (Gauges) - Taco Cohen",
+    "theme": "Manifolds And Local Frames Generalize Euclidean Intuition",
+    "subtheme": "Gauge equivariance replaces one global frame with compatible local ones",
+    "discussion": "Gauge equivariance is the point where the course becomes genuinely local. The key discussion is not only about symmetry, but about compatibility between overlapping local descriptions when no single frame is privileged.",
+    "url": "https://www.youtube.com/watch?v=vu8-uSB6BAA"
+  },
+  {
+    "session": 11,
+    "title": "Session 11: Lecture 11 (Beyond Groups) - Petar Veličković",
+    "theme": "Manifolds And Local Frames Generalize Euclidean Intuition",
+    "subtheme": "Beyond-groups thinking asks what other organizing structures matter",
+    "discussion": "Beyond Groups keeps the course intellectually open. Instead of declaring the job finished with groups, the lecture asks what other structures deserve to play the same organizing role for harder domains.",
+    "url": "https://www.youtube.com/watch?v=LewIYn0UTEU"
+  },
+  {
+    "session": 12,
+    "title": "Session 12: Lecture 12 (Applications & Trends) - Michael Bronstein",
+    "theme": "The Frontier Is Measured By Working Applications, Not Only Theory",
+    "subtheme": "Applications and trends turn the blueprint into a research agenda",
+    "discussion": "Applications & Trends is less a recap than a positioning statement. It shows where the blueprint has worked, where the theory is still incomplete, and why the field remains an active research frontier.",
+    "url": "https://www.youtube.com/watch?v=Icwz214_7eI"
+  },
+  {
+    "session": 13,
+    "title": "Session 13: Seminar 1 (Physics-based GNNs) - Francesco Di Giovanni",
+    "theme": "The Frontier Is Measured By Working Applications, Not Only Theory",
+    "subtheme": "Scientific and expressive graph variants push beyond vanilla message passing",
+    "discussion": "The physics-based GNN seminar is the course's scientific credibility check. It demonstrates that structure-aware graph modeling is not just elegant abstraction, but a usable tool for systems governed by known interaction laws.",
+    "url": "https://www.youtube.com/watch?v=pG_akmY02Bo"
+  },
+  {
+    "session": 14,
+    "title": "Session 14: Seminar 2 (Subgraph GNNs) - Fabrizio Frasca",
+    "theme": "The Frontier Is Measured By Working Applications, Not Only Theory",
+    "subtheme": "Scientific and expressive graph variants push beyond vanilla message passing",
+    "discussion": "Subgraph GNNs are discussed as an expressivity repair strategy. The seminar matters because it makes the limitations of vanilla message passing concrete rather than merely theoretical.",
+    "url": "https://www.youtube.com/watch?v=PxJ5o4y4FUA"
+  },
+  {
+    "session": 15,
+    "title": "Session 15: Seminar 3 (Equivariance in ML) - Geordie Williamson",
+    "theme": "The Frontier Is Measured By Working Applications, Not Only Theory",
+    "subtheme": "Equivariance and protein structure show the payoff of getting geometry right",
+    "discussion": "The equivariance seminar broadens the audience's intuition for when transformation-aware learning is worth the complexity. It reinforces symmetry as a durable design idea rather than a one-lecture curiosity.",
+    "url": "https://www.youtube.com/watch?v=XPVrVeRmMY0"
+  },
+  {
+    "session": 16,
+    "title": "Session 16: Seminar 4 (Neural Sheaf Diffusion) - Cristian Bodnar",
+    "theme": "The Frontier Is Measured By Working Applications, Not Only Theory",
+    "subtheme": "Scientific and expressive graph variants push beyond vanilla message passing",
+    "discussion": "Neural sheaf diffusion pushes the frontier into richer local-to-global consistency frameworks. It is a good example of how the field expands when classical graph primitives no longer feel expressive enough.",
+    "url": "https://www.youtube.com/watch?v=TgPMuvH5j1I"
+  },
+  {
+    "session": 17,
+    "title": "Session 17: Seminar 5 (AlphaFold) - Russ Bates",
+    "theme": "The Frontier Is Measured By Working Applications, Not Only Theory",
+    "subtheme": "Equivariance and protein structure show the payoff of getting geometry right",
+    "discussion": "The AlphaFold seminar functions as the capstone application. It shows why the course is ultimately about matching inductive bias to domain reality well enough to unlock otherwise unreachable performance.",
+    "url": "https://www.youtube.com/watch?v=1FluhB_ZgNI"
+  }
+]

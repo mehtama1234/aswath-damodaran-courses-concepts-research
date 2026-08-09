@@ -1,0 +1,820 @@
+{
+  "id": "PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C",
+  "title": "AMMI Geometric Deep Learning Course - Second Edition (2022)",
+  "availability": "public",
+  "channel_follower_count": null,
+  "description": "Video recording of the Second Edition of the course \"Geometric Deep Learning\" taught in the African Master in Machine Intelligence in July 2022. \n\nLecturers: Michael Bronstein (Oxford/Twitter) • Joan Bruna (NYU) • Taco Cohen (Qualcomm) • Petar Veličković (DeepMind)\n\nSeminar speakers: Russ Bates (DeepMind) • Cristian Bodnar (Cambridge) • Fabrizio Frasca (Twitter/Imperial College) • Francesco Di Giovanni (Twitter) • Geordie Williamson (U Sydney)",
+  "tags": [],
+  "thumbnails": [
+    {
+      "url": "https://i.ytimg.com/vi/5c_-KX1sRDQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBc67hilq0Bwq5iiLTMXX_0mHcpjQ",
+      "height": 94,
+      "width": 168,
+      "id": "0",
+      "resolution": "168x94"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/5c_-KX1sRDQ/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAJHifu9cL6SlihoSayP8BVDJjRkA",
+      "height": 110,
+      "width": 196,
+      "id": "1",
+      "resolution": "196x110"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/5c_-KX1sRDQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDrE4aTN0CJv-JGV32I5B18ffV3pQ",
+      "height": 138,
+      "width": 246,
+      "id": "2",
+      "resolution": "246x138"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/5c_-KX1sRDQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBPVlTaTJ4DDEZ8wKRU-Emvz-Mttw",
+      "height": 188,
+      "width": 336,
+      "id": "3",
+      "resolution": "336x188"
+    }
+  ],
+  "modified_date": "20230812",
+  "view_count": 79765,
+  "playlist_count": 18,
+  "channel": "Michael Bronstein",
+  "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+  "uploader_id": "@MichaelBronsteinGDL",
+  "uploader": "Michael Bronstein",
+  "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+  "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+  "_type": "playlist",
+  "entries": [
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 1 (Introduction) - Michael Bronstein",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/5c_-KX1sRDQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBskLSXjTb7ZNUZHuRgxQyCW-m3Ag",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5c_-KX1sRDQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAoBT1lvMHuNnm-eF6_g17zBgMKuA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5c_-KX1sRDQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdC8YMHFNXe2tZjYJ7_w_OvSK8FQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5c_-KX1sRDQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyOHgeWjEBKxD3a-b2AmTgSdPDvg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 4499,
+      "view_count": 52000,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "5c_-KX1sRDQ",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=5c_-KX1sRDQ",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 2 (Learning in High Dimensions) - Joan Bruna",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/plIJYzVKfdI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFRZYHL1wHoGrgY-a3ylO6nDdJUA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/plIJYzVKfdI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhbbwR8Fl-UoK7nqtSSwWSoEiAng",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/plIJYzVKfdI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMWZBnFj6KVUUIJSFnb-BVev515g",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/plIJYzVKfdI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSxJCa5FS-UpwF9cQxWKsjDuWpwQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 4780,
+      "view_count": 19000,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "plIJYzVKfdI",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=plIJYzVKfdI",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 3 (Geometric Priors I) - Taco Cohen",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/qEjWMhRlXgY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBFEHPvDju5n7VWdmCTUgySPyhniQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/qEjWMhRlXgY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC-gPSAcGINI9Wp8vsebMvT3iZEDA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/qEjWMhRlXgY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqiHtNxIiOXeqpaqmWHI_uwT3wNw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/qEjWMhRlXgY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsNC6KRxPl2UwaA63lXEa9k-Kgxw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 3408,
+      "view_count": 12000,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "qEjWMhRlXgY",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=qEjWMhRlXgY",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 4 (Geometric Priors II) - Joan Bruna",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/DpnA8NNUtyU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDQGSS0s4HvKaoeQk0nsyyJ9lPqkg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DpnA8NNUtyU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5trn-A5YzyvCPWqVSJPX2j833aA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DpnA8NNUtyU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIEd3_e43t4zMiQCxDHlfAHDQkHQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DpnA8NNUtyU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0AlH3BUHPPG8bGUia9Frv_-ZOkw",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 3217,
+      "view_count": 8100,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "DpnA8NNUtyU",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=DpnA8NNUtyU",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 5 (Graphs & Sets) - Petar Veličković",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/J2bLt3-SSpg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAY2qpzBYTHn4WFxNVP9A8zIELlLw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/J2bLt3-SSpg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAjxZNA8jutwr00nYlVxJ2s2QCAZQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/J2bLt3-SSpg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5fWt3pUqsBSuxERLrY-ohnN_ksQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/J2bLt3-SSpg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCIESXnWrS9bXK8lDNdgygCv0Q6g",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 3697,
+      "view_count": 8300,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "J2bLt3-SSpg",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=J2bLt3-SSpg",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 6 (Graphs & Sets II) - Petar Veličković",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/HvQw7Zq1jtU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHRuOifDR5WCdwLOeLz8i8KFdDBQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HvQw7Zq1jtU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBbWHlqRduUznflq46fTJKyN9u_lw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HvQw7Zq1jtU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwrGRa7D9RxQdjvFSXrTIZb6IwYg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HvQw7Zq1jtU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCHQ2TXemYJ67Ly0Jf1DVpb_9uRA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 3552,
+      "view_count": 6300,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "HvQw7Zq1jtU",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=HvQw7Zq1jtU",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 7 (Grids) - Joan Bruna",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Mj7UoabhWYQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDR_cukvv1HSA-0RaS63Vcs6-pwgg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Mj7UoabhWYQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCYR4HhILQkKvWioMlHi6_vvPHgcw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Mj7UoabhWYQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxrj_HscDjh0FrldOTGTlnT82eiw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Mj7UoabhWYQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5jMfFx0mM4UMLOxO0QjTXSV17AQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 3921,
+      "view_count": 5500,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "Mj7UoabhWYQ",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=Mj7UoabhWYQ",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 8 (Groups & Homogeneous spaces) - Taco Cohen",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/SGiQ3pm06nI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAzA2Bco5ug7Zpeoh1bwQQmSELwKg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SGiQ3pm06nI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDh_UxZKbdOWZ8ybKj8t-8Om1LOXg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SGiQ3pm06nI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6lrSDDARQYwWE4cYN8S3xNBE6Cw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/SGiQ3pm06nI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpo7dhRF09KmEaLxDod1wVjexpaA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 4311,
+      "view_count": 5300,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "SGiQ3pm06nI",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=SGiQ3pm06nI",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 9 (Manifolds) - Michael Bronstein",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/YCncgm38-bA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLU60d8uiEEPpLZwUgAwRfICGgNA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YCncgm38-bA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABp_p5u--5EJ-yTTO1VqULTWq4HQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YCncgm38-bA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyJhQmIUg5sP21SCVrazOjCGMzRg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YCncgm38-bA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZXnX29wdeb7BNUA8OwCqyXSMaiQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 4441,
+      "view_count": 6200,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "YCncgm38-bA",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=YCncgm38-bA",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 10 (Gauges) - Taco Cohen",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/vu8-uSB6BAA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB8tQCk2jroJneakNsxUqWKEUknzw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vu8-uSB6BAA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAdiZNlUwL9OtUyiZcb7vvLvfrMPA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vu8-uSB6BAA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVCIjeBAbTU9LuJYX1CX4vtUQyaA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vu8-uSB6BAA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlSAwSYjLYUM44ffNHjGxLrNoC-g",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 2814,
+      "view_count": 3300,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "vu8-uSB6BAA",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=vu8-uSB6BAA",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 11 (Beyond Groups) - Petar Veličković",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/LewIYn0UTEU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCcQlR0mD7nz2XNtrmcYRhbAQn4Jg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LewIYn0UTEU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBgVTANqj_qPHfxeIf1n-Zcgs8GoQ",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LewIYn0UTEU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACI13OFquSaPaynDFsRLl5oJX7mQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LewIYn0UTEU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkrmLkHzf-6ldX3VU5BXuyjF1xwg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 4533,
+      "view_count": 3100,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "LewIYn0UTEU",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=LewIYn0UTEU",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 12 (Applications & Trends) - Michael Bronstein",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Icwz214_7eI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD8NDAfUist_WvyoqYa3yP9EItzFg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Icwz214_7eI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBcVVuieyI1AjybZ64CdjbOgqutvw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Icwz214_7eI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDZh7hXwDjIguoS_RDpP9NIhwYPg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Icwz214_7eI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhDhvAz5HfS-D26GO71dAF4hROGA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 4260,
+      "view_count": 3200,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "Icwz214_7eI",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=Icwz214_7eI",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Seminar 1 (Physics-based GNNs) - Francesco Di Giovanni",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/pG_akmY02Bo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDfI72vRAlZ0DumSMdVpIq7cZP2AQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pG_akmY02Bo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZIJyDY-1lfpVmhPn6AFtnSmSlDA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pG_akmY02Bo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf6xOyzYHp_uDt0bHqiDGyU3fKyg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pG_akmY02Bo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRpH9Le5HzZOEXpH5jQAtcYRO6dA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 4359,
+      "view_count": 4300,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "pG_akmY02Bo",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=pG_akmY02Bo",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Seminar 2 (Subgraph GNNs) - Fabrizio Frasca",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/PxJ5o4y4FUA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAAVbqTHl_cGagQm2XkSkFjbNHNaA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PxJ5o4y4FUA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-SqkMxGjAJBbEzyIVjDy-S-3cIA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PxJ5o4y4FUA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY__gO_VUIrs-5x5yI5ZxpiPBtyQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/PxJ5o4y4FUA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADJNAU7xU3osFXwe92DhAWnh8UyA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 3624,
+      "view_count": 1900,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "PxJ5o4y4FUA",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=PxJ5o4y4FUA",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Seminar 3 (Equivariance in ML) - Geordie Williamson",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/XPVrVeRmMY0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBhop-_2z_uXShpu1qy6pEfE3WNtg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XPVrVeRmMY0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAjXhs5LFHgQ6VGi4KzVLPrghTB4g",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XPVrVeRmMY0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC7SYQKaFj7XGtqEIoqPLo24phgsg",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XPVrVeRmMY0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBjj12_hcjg4UzlAUS-4M_5imKxLA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 3712,
+      "view_count": 2200,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "XPVrVeRmMY0",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=XPVrVeRmMY0",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Seminar 4 (Neural Sheaf Diffusion) - Cristian Bodnar",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/TgPMuvH5j1I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDWSPbv_UwJHLFZ0ZL_fkJSm64vzg",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TgPMuvH5j1I/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAYKeviv3yDog_77tg8NJ2TGMA1wg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TgPMuvH5j1I/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe5AEOnKSPm4Pd111kq0SNe4mVWA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TgPMuvH5j1I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhVYHIENFLNnweN_bRPcJYhb541A",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 3171,
+      "view_count": 2800,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "TgPMuvH5j1I",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=TgPMuvH5j1I",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Seminar 5 (AlphaFold) - Russ Bates",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/1FluhB_ZgNI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCYVFEm7jkPxzFMgl5cwePd2c2IgQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1FluhB_ZgNI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDeN8ozHpof2J6HHBiAgBi3R7YNEg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1FluhB_ZgNI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6wpj9LarroTV3Ic-mqXxoG-5ezw",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1FluhB_ZgNI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqzRuWGsyOQ3aATZJQluinaNg_ow",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 3350,
+      "view_count": 3000,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader_url": "https://www.youtube.com/@MichaelBronsteinGDL",
+      "creators": null,
+      "channel": "Michael Bronstein",
+      "channel_id": "UCVt9rN2LzKzNwJG-VXvZGkA",
+      "uploader": "Michael Bronstein",
+      "uploader_id": "@MichaelBronsteinGDL",
+      "ie_key": "Youtube",
+      "id": "1FluhB_ZgNI",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=1FluhB_ZgNI",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "Арестович, Руслан Кухарчук. Про майбутнє України та національну самоідентифікацію",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-s7Ky64LP48/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCGPiWnGRvzDrjAwqIn_KLjEtxSSA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-s7Ky64LP48/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7tFV0yp7hYm9vfYpnjFg4gDbtoA",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-s7Ky64LP48/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoRr2Y0cHg8S4OPAsuF7dl01eyUQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-s7Ky64LP48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBV8u-kwewQzmEU0CuFhxx3b5D4IA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "duration": 3594,
+      "view_count": 112000,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": "https://www.youtube.com/channel/UCjWy2g76QZf7QLEwx4cB46g",
+      "uploader_url": "https://www.youtube.com/@arestovych",
+      "creators": null,
+      "channel": "Alexey Arestovych",
+      "channel_id": "UCjWy2g76QZf7QLEwx4cB46g",
+      "uploader": "Alexey Arestovych",
+      "uploader_id": "@arestovych",
+      "ie_key": "Youtube",
+      "id": "-s7Ky64LP48",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=-s7Ky64LP48",
+      "__x_forwarded_for_ip": null
+    }
+  ],
+  "extractor_key": "YoutubeTab",
+  "extractor": "youtube:tab",
+  "webpage_url": "https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C",
+  "original_url": "https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com",
+  "release_year": null,
+  "__files_to_move": {},
+  "_version": {
+    "version": "2026.07.04",
+    "current_git_head": null,
+    "release_git_head": "997fa140840a08df3938b40da470c78049fef1f6",
+    "repository": "yt-dlp/yt-dlp"
+  }
+}

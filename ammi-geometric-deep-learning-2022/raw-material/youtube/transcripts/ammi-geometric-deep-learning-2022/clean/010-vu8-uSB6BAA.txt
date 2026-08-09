@@ -1,0 +1,1192 @@
+okay uh welcome back everyone uh
+good afternoon i am going to uh speak
+today about
+gauges
+oops
+uh so this is a this is a rather
+advanced topic if you if you go and look
+at any textbook on gauge theory
+uh you'll see probably that the
+pre-requisites include not only group
+theory but representation theory
+uh
+differential geometry or topology
+uh
+and lee algebras lead groups etc in this
+lecture i'm not going to go uh into all
+these technical things but
+i'm going to try to show how this notion
+of a gauge which
+in its essence is is not that
+complicated how that appears uh in
+you know real world geometric deep
+learning problems uh and how it informs
+the design of network architectures
+so i'll start with uh quite an extended
+section on motivation
+uh covering
+first the idea of feature fields so this
+idea that certain kinds of geometric
+data should be thought of as fields
+on your domain in the in the previous
+lectures we've covered signals on a
+domain which you can think of as scalar
+functions or vector valued functions uh
+on on your domain omega uh in in some
+cases uh there's a slightly more general
+concept that you should keep in mind
+which is called a field
+then another motivation for why we need
+to to look at this concept of gauges is
+if you want to define a kind of
+uh generalization of convolution to data
+that lives on on manifolds whether it's
+a field uh
+or just a scalar function
+um and uh yeah the the we'll we'll look
+at various solutions to that and then
+introduce gauge equivalent convolution
+uh as a uh as a as a a sort of a general
+framework for defining these kinds of uh
+uh
+convolutions now i do have in this slide
+deck also uh a bunch of stuff on the
+mathematical theory behind this bundles
+gauges and gauge transformation
+uh gauge symmetry and equivariance but
+um i will not go into that uh in this
+lecture i do uh leave them in the slide
+deck so for for those of you who are uh
+curious about the underlying mathematics
+i i recommend to have a have a look
+there uh but this will not be uh
+part of the lecture or the exam
+so
+just to um
+to right away give you sort of a high
+level idea of what we mean by
+gauge engaged transformation uh i made
+this uh this slide
+so the word gauge uh actually comes from
+a device that looks somewhat like this
+uh it's an indicator uh of a certain
+value like let's say a barometer then
+measuring the um the air pressure
+uh and the gauge
+uh tells you the the the value and
+clearly the gauge
+uh has some kind of has to have some
+kind of units right so if you measure
+certain one quantity in one unit you'll
+get a different value uh than when you
+measure the same physical quantity in
+different units
+and
+that's that's uh that would correspond
+to different gauges and when you change
+from one gauge to another
+then the values that describe the
+physical quantity will change even
+though the underlying physic physical
+thing remains the same
+now
+when you give this concept to
+mathematicians they of course
+immediately generalize it to higher
+dimensions and the concept becomes quite
+unrecognizable from the thing that
+initially
+you know gave us the word gauge
+and
+so
+here what you see on the on the slide is
+is a picture of the more general concept
+so what do we have here we have a
+manifold m in this case a sphere because
+that was easy for me to draw but you can
+think in general about any kind of
+curved or even flat
+space for that matter
+and on the
+on the manifold we see various things so
+first of all
+we see this green arrow here which could
+be a piece of data that we have that we
+want to process more generally usually
+we'll we'll have data that forms a field
+on this manifold meaning at each
+position on the manifold
+we have such a geometrical quantity like
+in this case a vector
+um now if we
+you know we can picture this and we can
+think in our head as as this vector
+being somewhere out there uh let's say
+it's an actual wind direction somewhere
+on earth
+uh but if we want to represent it
+numerically in our computer uh then we
+need to choose a frame of reference
+or in other words a gauge
+and this frame of reference uh well we
+could choose it in various ways and how
+we choose this essentially arbitrary
+so here uh what i've drawn in addition
+is to to this this data here this green
+vector is a bunch of coordinate lines so
+those are the blue lines for example
+that gives you the standard latitude
+longitude coordinate frame on the sphere
+and then there's another
+equally good coordinate
+coordinate system for the sphere given
+by these red lines
+and using a coordinate system you can
+identify a point on the manifold
+by some numbers but you can also use it
+to derive a frame for the tangent space
+in which this this vector lives so here
+we have our point and we can take two
+vectors
+the red vectors
+sorry i'm getting some pop-ups here
+uh the red vectors
+uh that are going in the direction
+of the uh of the coordinate lines
+okay this is annoying i cannot move my
+mouse anymore
+my computer is seems to be overheating
+anyway the point that i wanted to make
+here is that
+we can use the coordinate lines to
+derive these uh
+these basis vectors as you see the red
+basis vectors are derived from the red
+coordinate system the blue ones from the
+blue coordinate system in general you
+don't need to do it that way you can
+choose an arbitrary coordinate frame at
+every point and those are equally good
+and for every
+coordinate frame that you choose you get
+a different numerical representation of
+the same geometrical quantity the same
+vector in this case so that's what you
+see here on the left
+and on the right you see the uh the
+coordinate charts
+with our green vector represented here
+as a pair of
+numbers ultimately
+in this case it's more stretched along
+the y axis so maybe this numerical
+representation here would be
+you know
+hi
+uh i hope i'm still audible for some
+reason uh in my headphones i was getting
+a terrible uh noise so i hope we can
+just continue like this
+uh let me know if i'm not
+clearly
+audible
+anyway uh the
+as i was saying we have the same
+quantity that has different numerical
+representations in the two
+uh for the two choices of gauge
+and
+transforming if if we change the gauge
+then we have some transformation of
+those numerical quantities and that's
+called a gauge transformation
+um final thing that's very important to
+note here is that
+the gauge as you can see is not defined
+on the whole manifold necessarily in
+this case we have the blue arrows only
+in this region here and we have some red
+arrows in another region here
+and uh that's for good reason as we'll
+see but in general you know you have
+just these overlapping charts where the
+where the gauge is defined and it need
+not be defined uh globally
+all right so that's the general picture
+so why
+is this relevant for uh
+geometric deep learning applications
+so the first
+motivation comes from
+this this concept of a feature field
+so this is a type of data that occurs in
+uh in various kinds of applications so
+for example if you are looking at
+weather data on on earth global weather
+data or something coming from a climate
+simulation you might have among other
+things the
+wind direction
+everywhere
+on earth
+so that would give you a vector field
+at each point in the space
+you have a um
+a vector attached uh then another
+example is tensor fields
+uh so tensor is maybe a
+a new or a more
+complicated word but in this case it
+just means a three by three matrix so
+it's a second order
+tensor
+um and uh what it means is uh so you
+have a brain you put it uh in a scanner
+and
+at every point what the scanner
+registers is how much the water diffuses
+in the all different directions
+that's summarized using this three by
+three matrix and if you remember from uh
+linear algebra the uh you can think of
+the eigenvectors or you can you can
+compute from this three by three matrix
+a set of eigenvectors and eigenvalues
+uh and i can
+you can you can visualize that as an
+ellipsoid as you see in this picture
+where the eigenvectors indicate the
+principal uh directions in which the
+diffusion happens in the
+uh
+that's the stretching of the ellipsoid
+in different direction or sorry the
+orientation of the ellipsoid and then
+the eigenvalues give you how much uh the
+ellipsoid is stretched or physically
+what that means is how much diffusion
+there is in that direction
+and so this is uh yeah
+another example of a field and as we'll
+see fields have a particular way of of
+transforming um
+that's uh that's important and the
+physical quantities have to be
+represented relative to a frame of
+reference or gauge
+so that's the first motivation that we
+just encountered this kind of data
+naturally and in order to represent it
+we can only do that
+uh relative to a choice of uh gauge
+which in many cases is arbitrary
+another reason that we might want to
+consider these kinds of uh uh
+this kind of data uh is that they
+can be that fields can be useful as
+internal representations in a neural
+network so even if your
+input data is a scalar signal uh
+as we or a
+vector-valued signal as we we discussed
+in the past
+it can be useful to
+have internal feature maps that are uh
+transform like fields
+so one motivation for that
+if you remember uh in the lecture on
+group convolutions
+if we take our scalar signal and we just
+apply a group convo solution naively
+then the output is a scalar function on
+the group g and in some cases that's
+fine as in the case of
+planar rotations and translations you
+have a group with three axes and you can
+definitely store feature maps on that on
+such a three-dimensional group but in
+other cases uh for instance when the
+group is the group of permutations of n
+nodes then you have n factorial group
+elements that's very large or
+if you talk about continuous
+transformations
+group has an infinite number of elements
+maybe a potentially large number of
+dimensions and so this becomes
+computationally infeasible
+now there are
+alternative approaches that
+uh
+output scalar functions uh on uh on a
+homogeneous space which is lower
+dimensional
+but this leads to strong constraints on
+the on the filters so by having your
+internal feature maps uh as fields you
+get some
+uh intermediate solution where you don't
+pay the full computational cost of
+storing a feature map on a group
+uh and yet you have more expressive
+field uh features than uh and filters
+than just uh scalars which you get for
+scalar fluids
+and we'll look at more
+more detail
+at this in a minute
+okay so here uh just uh
+uh explain in a bit more detail the
+mathematical concept of the field
+so so far in this course uh we've only
+mainly considered
+uh signals that
+we modeled as functions on our domain
+omega so omega was a graph or a grid
+uh or some continuous space maybe a
+homogeneous space like the sphere
+and then we had some data
+that's a function on
+omega so at every point you
+it returns a set of feature values a
+vector in c
+c being some vector space with a certain
+number of channels
+and now the notion of a field is a
+slight generalization of the idea of a
+function
+where
+instead of mapping every u to a point or
+a vector in the same vector space
+you now map it to a vector space that is
+associated with the point u
+so the most intuitive example of this is
+the
+is the tangent space so if we have our
+manifold again just drawing a sphere
+here for simplicity
+uh you can consider at every point
+the tangent space uh
+which is the best linear approximation
+to that
+and uh the
+you know as in the example of uh wind
+directions on earth
+the
+the the wind direction or the the vector
+at that point will lie in this tangent
+plane at least that's that's how we
+model uh
+many kinds of data
+um and although the tangent planes at
+every point are you know they look the
+same they're all two-dimensional vector
+spaces um there isn't a canonical way to
+align all of them and they are really
+different spaces and you have to
+choose a different basis uh or a
+different frame or different gauge also
+words for the same thing
+for each of those
+of the spaces so those spaces uh are
+called the fibers
+in the in the mathematical theory of
+gauge
+theory and fiber bundles
+and they they can be also more general
+uh spaces than just the uh the tangent
+plane
+again we'll look at more examples of
+that
+right so i think i've said most of this
+so to describe a field as a function we
+need to align all of these spaces so
+uh
+by and we do that by essentially
+choosing a basis um then
+we can
+then the space becomes uh you know
+aligned with the standard
+two-dimensional uh uh vector space r2
+uh in this case of a two-dimensional
+tangent uh plane
+um
+and so that's uh that's another way to
+think about this
+this issue of choosing a gauge aligning
+all of these fibers
+all right so we have to choose a gauge
+in order to describe a field as a
+function
+and in some cases there's an obvious
+choice and so actually
+a lot of the time people don't even know
+that they are doing this
+and sometimes that leads to problems
+in other cases uh
+it's it's really um
+not uh not obvious how to choose it
+so if you have a uh
+if your space omega is the plane
+uh and you're expressing the points in
+the plane using x y coordinates with
+some chosen uh you know x and y axis
+then it makes sense to just choose to
+use that same frame at every point in
+the in the manifold and even the the
+distinction between the manifold itself
+and the plane and its tangent space
+which is also the plane becomes blurry
+and people forget about uh this
+distinction but when you go to a space
+like a sphere then things become a bit
+more
+clear
+so here
+you know i can choose a frame at one
+point uh but uh yeah how should i choose
+it uh it's completely arbitrary and then
+what it means for uh
+the frame at another point to be the
+same is also
+uh not clear and so here you you're
+really faced with this arbitrariness you
+just have to choose something and it
+will affect how your data is numerically
+represented in your computer but in some
+sense it's clear that it shouldn't uh
+matter and that's why we will get to
+gauge equivalence
+now there's another uh subtlety
+which is that
+a global continuous gauge may not even
+exist
+so
+if you have
+a continuous signal on your continuous
+field
+or even a smooth one on your manifold
+you would like that the numerical
+representation
+of that field is also
+continuous or smooth and for that you
+would like your
+choice of frames uh your gauge to be
+smooth
+and it turns out that such things don't
+always exist so here you see a manifold
+a torus
+which has a property that is called
+parallelizable
+um
+and uh what you see here is a single
+vector field which is defined globally
+everywhere
+and it's also everywhere smooth
+um and that could for example constitute
+the first basis vector of a uh of a
+choice of frame
+uh and here on the
+uh on the sphere you see an attempt to
+do the same namely we want to choose a
+vector everywhere
+and we want it to its direction to very
+smoothly
+but we see that at the poles here we get
+a singularity so there the
+around the poles the orientation changes
+very quickly and at the pole there's no
+way to choose a direction
+uh of your your basis vector uh that is
+uh is smooth
+um because nearby basis vectors are all
+pointing in completely different
+directions
+and what that would mean is if you if
+you use this uh kind of
+non-continuous gauge to represent a
+continuous
+field
+then the field would numerically look
+discontinuous and that can clearly hurt
+the performance of your machine learning
+algorithm because it will generalize by
+you know assigning similar outputs to
+similar looking inputs and similar here
+means numerically similar that is unless
+you explicitly account for the choice of
+gauge so that's quite important to do
+all right so the lessons so far uh
+geometric data uh
+often in form of feature fields
+geometric data also comes in the form of
+feature fields and these things can only
+be represented relative to a choice of
+gauge
+and in general there's no sort of
+natural
+way to choose that gauge
+so the same field can be represented in
+many equivalent ways relative to
+different gauges
+furthermore in general we cannot even
+use a single gauge to represent a
+continuous field as a continuous
+functions
+function
+and you need to define your gauge
+locally
+now i should say that this last point
+is mainly a theoretical concern the
+mathematicians uh care about this a lot
+in in practical applications there are
+also ways to
+um to uh to use discontinuous gauge
+in particular because we discretize our
+manifold anyway
+okay so now we get to this notion of
+a gauge transformation
+my computer is again freezing
+okay here we are
+so gauge transformation i already
+mentioned this uh on one of the first
+slides
+but
+here we look at it
+again and
+and maybe define it a bit more precisely
+using mathematics
+so what we have on the left
+is a choice of gauge uh it's the the
+obvious one uh for uh the plane and then
+on the right we uh have
+a very irregular choice of of gauge but
+mathematically equally equally good
+um and
+as you can see the frames on the left
+are
+all related to the corresponding frame
+on the right by a
+rotation
+so
+the way we can model this is to say a
+gauge transformation
+is a
+function on
+our domain omega or more generally on
+some subset u of omega that outputs an
+element of a group g
+which in this case would be the rotation
+so this is different from the kind of
+global symmetries that we've considered
+before
+for example uh
+our group g could be
+you know so3 rotations in three
+dimensions uh that we apply to our whole
+space omega
+but we only have
+one we only consider one group element
+uh and we apply it to to uh to our
+signal on omega here we have uh that the
+single
+uh the analog of of this group element
+is now a function a group valued
+function on omega so you have a
+different transformation at every point
+that's why gates transformation also
+sometimes called local
+symmetries
+now the way that this thing acts on
+signals
+is just like we saw in previous lectures
+is via some kind of representation
+so
+g is a acts directly on the on the
+frames
+but if you have say a vector that will
+transform in a different way from for
+example the tensor as in diffusion
+tensor imaging
+and yet again different from other kinds
+of geometrical quantities so that's why
+we introduce this
+representation rho
+okay so here we look at the example of a
+diffusion tensor image
+and how that would transform
+so
+the
+diffusion tensor image signal uh is a
+function x from r3 that's our uh domain
+omega to r three by three that's our
+vector space uh c at each point we have
+a a 3x3
+matrix
+and
+when we want to
+you know rotate the
+eigenvectors or rotate the ellipses that
+you see here the way to do that is to
+conjugate this matrix with a rotation
+so the matrix m is mapped to the matrix
+r m r transposed by some rotation r
+now
+one thing you could do for this type of
+data is to to build a globally rotation
+equivalent network as we saw before
+um in previous lectures but this might
+not be the best idea because
+this this brain data is typically
+registered which means that it's always
+in the same
+upright orientation and it's always
+centered in the image
+and so you would never see the same
+brain
+uh globally rotated
+but at small scales
+it can very well be that the same
+patterns
+occur
+in every possible orientation so it
+makes sense to assume that local
+directions
+should be considered equivalent
+and
+another way to say that is that all
+orthogonal frames
+that you can attach at a local position
+should be equivalent
+so
+um
+we can model that by uh by uh
+as gauge transformations with with the
+values in the in the
+uh
+you know installed
+mostly
+uh if you then impose gauge equivariance
+as we'll look at in a second uh what it
+would do is is make sure that your
+filters are
+locally rotation equivalent uh which are
+without imposing global constraints
+right so what is so what do we mean by
+gauge acting variance
+uh well here we have uh on the bottom
+left
+a uh vector field represented
+relative to the standard gauge for for
+the plane and a particular coordinate
+system
+um
+we know what it needs to do a gauge
+transformation that's indicated by the
+horizontal arrow there we apply an
+independent rotation to every uh frame
+uh and uh
+that will lead to a change in the
+numerical representation of our vector
+field even though the vectors themselves
+remain the same
+then we can apply a layer of our network
+uh indicated here by f
+uh that applies some kind of processing
+on this data
+here it's of course a very simplistic
+example we have a vector field pointing
+in one direction and our layer flips it
+around to to not to be in another
+direction
+of course
+in real applications your network would
+learn to do
+much more interesting things
+but here
+then we can apply a gauge transformation
+to the output
+uh and what we would like is that the
+gauge transformation of the output
+is is numerically the same as applying
+gauge transformation to the input and
+then applying the same network layer f
+if
+if the network satisfies this we say
+that it's gauge at convergence
+okay so so far we've looked at what are
+called external gauge symmetries where
+the frame of reference
+is
+a frame for the tangent space of the
+of the manifold
+and
+when you talk to physicists uh who are
+really the the main ones who use this
+word
+gauge gauge and gauge transformation
+they typically think about something
+else namely uh internal gauge symmetries
+and uh these are mathematically quite
+similar but but still different so in
+this case case of internal gauge
+symmetries
+the
+basis vectors of your gauge of your
+frame are not
+related in any way to the
+directions in the
+in the manifold or
+uh uh domain omega
+so here is one example there are many
+examples in physics uh that i don't know
+that much about uh but uh and also they
+don't play uh as of yet
+a very important role in applications of
+geometric deep learning
+but
+um
+here's one example so what we can do is
+uh
+look at a single rgb vector so that's
+the fiber at a particular point
+in the plane
+r3
+and
+we
+we can say that a
+you know we have the r g and b basis
+vectors and we could for example permute
+them by the action of the permutation
+group on three elements
+and we could call that a gauge
+transformation if we do that separately
+at each location
+uh then we're changing the numerical
+representation of the image but if we
+remember that the uh order
+of the color channels that each pixel uh
+is now different it's still the same
+image
+um
+and to say that this should be again
+seen as a gauge symmetry uh means that
+you get a constraint on your filters
+uh that
+that may that make it so that uh you get
+weight sharing between different uh
+color channels and all color channels
+are then processed uh equivalently
+i hope that's somewhat clear um
+this isn't to say this is particularly
+useful but i hope to to illustrate the
+the concept of an internal gauge
+symmetry which may find find its
+application in geometric deep learning
+someday
+all right so we've looked at feature
+fields as one motivation for looking at
+this notion of gauges
+there's another one
+which
+which is important in geometric deep
+learning which is when we ask the
+question how can we
+generalize this notion of convolution
+which has been so you know successful in
+uh in
+you know let's call it classical deep
+learning
+how can we generalize that to manifolds
+or other kinds of spaces
+now we've already seen various kinds of
+generalizations
+of convolution and these were mainly
+um following the the the following
+philosophy so
+you define a filter at some position
+in your space let's say you put a filter
+on the north pole
+of a sphere
+and then you use
+symmetries from the symmetry group of
+the underlying space omega say the
+sphere
+in order to map to to move that filter
+over your space so you can do that in
+the plane shifting a filter over a plane
+or shifting and rotating it
+you can do it on the sphere and you can
+in fact do it on any kind of homogeneous
+space so what was that again a
+homogeneous space
+is a space like the sphere where for any
+two points there exists a symmetry that
+maps one into the other and so what that
+means is if you apply these symmetries
+to your filter
+you can take a filter defined in one
+position and move it to any other
+position
+and that gives you global weight sharing
+and something that looks a lot like a
+convolution
+however there are plenty of manifolds
+that are not homogeneous spaces
+and so you can think of an arbitrary
+wobbly space or a shape of a human
+figure or some other
+mesh or manifold
+and usually it's not a homogeneous space
+here you see an example that's kind of
+in between
+it's a space that has some symmetry
+uh we can apply certain discrete
+rotations to the icosahedron
+and that will map it back onto itself so
+those are symmetries
+and those would for example take the
+filter here the blue one defined on this
+corner and allow you to map that filter
+to any other corner
+of the icosahedron and we could then use
+that to do weight sharing among the
+filters on the different corners but
+since there are not enough symmetries
+here we can't use that to map this
+filter to let's say an internal face or
+some position on an edge so you don't
+get enough weight sharing
+in this case if you follow this strategy
+and in the general case where there may
+be no global symmetries you get no
+weight sharing at all
+so
+this strategy for generalizing
+convolutions doesn't work anymore
+for these uh
+non-homogeneous spaces
+then there was another idea uh which is
+that maybe we can share filters
+by uh parallel transport
+um and this is an interesting idea and
+one that we we
+that that nowadays is still uh uh part
+of the solution that people prefer but
+uh there are some subtleties associated
+with it so let's say we have a
+uh
+a filter defined here on the the front
+of the sphere
+where the black arrow is drawn
+and let's say
+we want to parallel transport it
+uh according to either this curve or
+this curve uh
+to uh
+um to place this filter in different
+positions
+uh what you see is that depending on
+which curve you choose either the one
+with the red arrows or the one with the
+blue arrows when you by the time you
+arrive on the opposite side of the
+sphere the arrows are pointing in
+completely opposite
+directions
+and uh
+so what that means is that
+just saying that you're going to take a
+filter define a one canonical position
+and then parallel transport it to every
+other position is not enough because you
+need to now specify again something
+completely arbitrary which is the path
+by which you transport it and depending
+on the path you choose you're going to
+end up with a filter
+that is
+completely arbitrarily oriented
+depending on which path you choose
+so here's another
+way to visualize this in the classical
+case of convolution on a flat space
+we can take a filter to find uh here
+let's say call this the the origin
+and then no matter how we shift it to
+another position the orientation of the
+filter is always going to remain the
+same so that's a property of the
+parallel transport on a flat space but
+when you consider a curved space
+this is no longer true so here you see a
+cube and you may think it's a bit odd to
+call that a curved space but you could
+think of it as a
+sphere where we
+squashed all the curvature into the
+corners
+so in this case
+when we take the filter this find here
+in the center of the the front face and
+we we sort of shift it without rotating
+that is to say with parallel transported
+to this face here on the right and then
+to the top
+or we transform to the top via by just
+going there directly via this green
+arrow
+uh we end up with two filters on the top
+face that are oriented relative to each
+other by or you know transformed by 90
+degree
+rotation so again you see that the this
+this path dependence uh becomes
+important
+um
+so uh so yeah that's that's an issue
+now
+uh one way to address this um
+arbitrariness of the orientation of the
+filter
+is to just choose filters that don't
+really have an orientation so this is a
+a
+an idea that was one of the the first
+ideas on how to do convolution on a
+manifold that was explored in the
+geometric deep learning literature
+um
+yeah
+basically the idea is to use isotropic
+filters like this filters that don't
+have any directional sensitivity
+and if you squint a little bit this is
+also similar to
+the simplest kind of graph neural
+networks where you use the same weights
+for
+processing messages coming from each
+adjacent edge
+then a more advanced idea is uh what's
+called the geodesic convolution by
+muskie
+and with michael bronstein and claire
+underguidance
+so here the idea is that at each
+position p in your space omega you're
+going to extract a local patch and look
+at the signal
+on that patch
+and then you're going to take inner
+products with rotated copies
+of a filter
+so that's quite similar to what we saw
+in the lecture on group convolution you
+take a filter you apply it you just
+apply it in every orientation and then
+you get a whole bunch of responses for
+different orientations of the filter at
+each position and in the representation
+theoretic or steerable cnn way of
+looking at this this would be called
+scalar to regular
+operation
+scalar
+representation to a regular
+representation
+and now in order to iterate this
+procedure to apply the next layer to
+apply non-linearities and then the next
+layer of geodesic convolution
+you would
+have to do max pooling over orientations
+uh in order to get
+to get a quantity that's invariant
+to the orientation of the original
+filter which as we've seen
+has to be chosen in an arbitrary way
+so that's a that's a a good idea um now
+we can detect directionally sensitive
+features like this edge detector here
+but the features that you have after max
+pooling
+are still orientation insensitive in
+that they can only indicate that there
+is
+let's say an edge at this location but
+not what orientation it has so it has to
+you know you're still losing information
+by by cooling
+um so that's
+uh where uh gauge equivalent networks
+coming
+so here the uh general idea uh again
+follows the very much the geometric deep
+learning blueprint as described in our
+book
+so
+we first define for each layer a feature
+space so we have our space omega in this
+case typically a manifold and we attach
+the feature space see the fight or the
+fiber in the mathematical theory of this
+stuff
+uh
+this
+uh fiber this features
+space comes with a transformation law or
+group representation for example a
+vector transforms differently from two
+tensors in diffusion tensor imaging and
+those will transform differently from a
+scalar
+as in a grayscale image
+and this determines how gauge
+transformations act on the feature
+vectors
+then our feature space is the space of
+fields of those types of geometrical
+quantities over omega
+and then we see we we are looking for a
+convolution layer that's gauge
+equivalent so if we perform a gauge
+transformation for example if we
+uh
+orient our filter relative to gauge we
+transform the gauge the filter will will
+be transformed will be rotated for
+example
+and we want that the output coefficients
+then change accordingly
+so the simplest case is the one where
+our input signal is a scalar signal and
+the output signal is also a scalar
+signal
+uh so we have our yeah we have again our
+signal x on omega real valued and we
+have a filter
+uh that
+uh is defined uh
+in some
+well usually it's parameterized on the
+tangent plane so it's a function on the
+tangent plane that's mapped to the to
+the manifold
+uh by the exponential map
+and it's oriented relative to gauge
+and then you define the the gauge
+equivalent convolution by integrating
+over the local patch
+parameterized by the the tangent plane
+coordinates
+yeah the product of the signal and the
+filter
+now
+one can prove that uh this type of
+operation is gauge equivalent if and
+only if the filter is isotropic so
+that's again an instance of this
+phenomenon we've observed that if your
+input is a scalar signal your output is
+a scalar signal then the filter has to
+be isotropic which is quite undesirable
+in general
+so then there's a more general type of
+operation where now your signal
+is a field
+represented relative to some choice of
+gauge you can think of it as a
+vector valued function
+a filter is then
+a matrix valued uh function
+and uh
+the basic you know the rest of the
+structure is very similar but the basic
+result now is that
+this is gauging comparing if and only if
+the filter satisfies a certain
+equivalence constraint and i recommend
+looking at the the literature on gauge
+variant networks if you if you want to
+see the details of this derivation
+yeah okay i'm going to skip over the
+implementation details
+um because there are by now quite a lot
+of different ways of implementing this
+you know what i've covered in this
+lecture is mainly the underlying
+theoretical ideas
+but when it comes to implementing this
+there are many choices
+and they're also by now quite a lot of
+applications so
+this is one of the early works on
+applying this to problems in physics
+uh
+sampling using s-u-n gauge equivalent
+flows
+uh applications to lattice gauge theory
+so these are physics application
+[Music]
+um
+and as i mentioned by now there's
+there's a you know much larger
+literature so if you're into interested
+in physics applications uh check out
+these papers and also the papers that
+cite them
+on the theory side uh
+maurice weiler has an interesting paper
+on coordinate independence convolutional
+networks which covers a lot of the same
+material and has a lot of nice
+illustrations to explain these ideas
+uh and there are various other works
+that also cover this this material
+uh so then as i mentioned there there is
+a lot of mathematical theory uh behind
+this called the theory of fiber bundles
+which i will not
+go into now
+right but i did want to share with you
+this slide
+which hopefully will put uh the
+different methods that we've discussed
+uh in this course uh into perspective
+so
+we all know the uh the good old uh
+convolutional network on uh for planar
+signals or three-dimensional
+euclidean signals
+and then we looked first at
+a generalization called group
+convolution
+which we could extend all the way to
+signals on general homogeneous spaces
+spaces where the symmetry group can take
+you from any point to any other point
+uh and we looked at it for for scalar
+signals uh so so uh the case where the
+the the geometric the features attached
+at each point are not affected by the
+transformations like rgb vectors
+then we looked at the generalization
+called steerable cnns where now you're
+still looking at a homogeneous space but
+you can consider more general kinds of
+fields
+vector fields tensor fields etc
+um and then we looked at convolutional
+nets on manifolds like
+romanian manifolds uh the
+we have the geodesic convolution for
+example and then we looked at finally
+engaged cnns which is a
+in a
+very general framework uh that can deal
+with global as well as gauge symmetries
+on uh general manufactures
+uh so that's it for today thank you for
+your attention and i'm happy to take
+questions

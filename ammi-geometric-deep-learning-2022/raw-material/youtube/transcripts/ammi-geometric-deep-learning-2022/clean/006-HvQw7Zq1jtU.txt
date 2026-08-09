@@ -1,0 +1,1555 @@
+all right so uh welcome back everyone i
+hope you had a nice break thank you all
+very much for
+the very fun questions and discussions i
+really enjoyed answering to some of them
+and uh it it shows to me that uh i've
+hopefully managed to motivate
+several of you that
+indeed focusing on representation
+learning on graphs is a potentially
+useful and fun thing to do
+so now that we're hopefully on the same
+page in that regard and we understand at
+least on a high level how to build
+neural networks that respect the
+permutation symmetry constraints of
+graphs and sets
+let's dive a little bit deeper into our
+main event for today graph neural
+networks and its various exciting
+connections to other architectures
+so just as a quick recap we've finally
+seen for the first time the geometric
+deep learning blueprint in action on the
+specific domains of sets and graphs
+under the permutation symmetry governed
+by the permutation group sigma n
+and as a direct consequence of this
+blueprint we derived a deep set
+architecture and we showed it's a
+universal architecture for modeling set
+data and we've also shown that using
+similar concepts we can extend the deep
+set architecture into a graph neural
+network architecture and i showed you
+a broad categorization into three
+different flavors of
+aggregation that you can apply for graph
+neural network modeling convolutional
+attentional and message passing
+so now we are ready to dedicate an
+entire lecture to some important aspects
+of graph neural network design
+as a quick roadmap of how this is going
+to proceed we will first study the
+maximally potent gin and flavor the
+message passing flavor in a bit more
+depth just so you have a full picture of
+the most generic data flow that we can
+have over a particular graph structure
+and then we will challenge some of the
+initial claims that were potentially
+made so we will first talk about this
+idea of whether or not the gnn
+should rely on a good graph structure
+and also some ideas on how to apply
+graphical networks without a graph
+that's known a priori
+and
+then
+we will investigate how powerful
+graphical networks are from an
+algorithmic standpoint and illustrate
+some key ways in which we can make them
+stronger one point i would like to make
+right now at the beginning
+is that
+we will not be covering any coarsening
+layers for graphs if you remember the
+gdl blueprint we've talked about all the
+components in that blueprint
+except for coarsening
+and the reason why
+we are not going to cover that even
+though lots of very cool research exists
+on that topic is that basically until
+now there hasn't really been a
+state-of-the-art graph neural network
+architecture that relied on these kinds
+of local pooling methods so the main
+reason for not covering them is simply
+that
+they haven't uh reached that level of of
+real world global use yet although that
+doesn't mean that there won't be
+exciting research in the future that
+will make it possible but i just chose
+to cut them from this lecture to
+dedicate as much time as possible on
+some of the more interesting
+state-of-the-art approaches that are
+taking place right now
+so just as a quick recap the picture you
+saw towards the end of the previous
+lecture three different ways to
+aggregate information in a graph neural
+network convolutional attentional
+message passing starting from the
+convolutional where we fix the
+interaction coefficients up front and
+pre-compute them based on the adjacency
+structure towards the attentional
+mechanisms where we can actually compute
+an interaction coefficient
+based on the features of a node and its
+neighbor and finally the full-on message
+passing blueprint where we can compute
+full-on message vectors based on the
+sender and the receiver
+and as i said we will start our
+discussion for this lecture by focusing
+on the message passing gnn specifically
+and if you remember what we do in
+message passing genons is we compute
+arbitrary message vectors to be sent
+across the edges of this graph
+and the way we compute them is by using
+this message function psi
+which now looks at both the features of
+the sender and the features of the
+receiver when computing the vector to be
+sent across and this idea has been
+instantiated in models such as
+interaction networks message passing
+neural networks and graph neural nets
+from
+deepmind and as mentioned you can think
+of it as the most generic genon layer
+where your edges no longer are a way to
+aggregate or average neighbors but more
+a recipe for the passing of data
+this means they could have scalability
+or learnability issues but they
+also are the ideal choice when you want
+to model things like computational
+chemistry uh reasoning or physics
+simulation problems
+so
+one thing that's very important to kind
+of bring back to the story now is that i
+said when we started to analyze graphs
+that i will discard edge features or
+edge scalers or anything we will just
+think about
+whether or not the node was connected to
+another node and that's all to make the
+maps a little bit simpler well not if
+we've worked out the maths and we want
+to talk about the most expressive gnn we
+should really to hammer that point home
+we should bring back the idea
+that uh
+graphs can have rich information at all
+granularities not just on the node level
+and now we will actually assume that we
+have some features on all of the
+principal components so we have node
+features as before so xu will be
+features of node u and in the context of
+computational chemistry those might be
+for individual atoms what's the type of
+the atom what's its charge how many
+hydrogens are attached to it and so on
+we might now also have edge features
+parameterized by pairs of nodes and
+these features could encode the in the
+context of chemistry things like what
+kind of a chemical bond is it like is it
+a single double triple bond is it in a
+chemical ring and these kinds of things
+lastly you might also sometimes find
+useful to attach feature to the entire
+graph so have a flat feature vector xg
+for the entire graph and in the context
+of chemistry this might encode things
+like molecular weight or molecular
+fingerprints and things like that
+so
+then you can use a very generic graph
+neural network model to then define
+latent representations on the level of
+both nodes edges and graphs and i should
+mention and keep this in mind it will
+come in handy later in this lecture
+that it is in principle possible to
+extend this framework even further to
+represent
+things like hyperedges which would have
+triplets of nodes and stuff like that
+but uh one very important point is that
+such inputs can usually be represented
+uh using the language that i just
+described you so i don't think we
+actually need to instantiate a x uvw to
+talk about the hyper edge we can
+probably use the edge feature concepts
+to talk about hyperedges
+so now under this assumption of having
+node edge and graph data and
+we want to compute node edge and graph
+latents so from x to h
+we are going to define a general way to
+build spatial graph neural networks
+which generalizes all of the flavors we
+talked about
+and specifically i chose to use the
+graph network model from deepmind as the
+basis because it truly operates over
+generic attributed graphs and the other
+two models like interaction networks and
+message passing neural networks are
+obtainable from the graph network by
+restricting its equations slightly
+and the general data flow here is you
+first use the graph and the two relevant
+nodes to compute edge features
+then using those edge features
+as messages you can update the node
+features by aggregating those edge
+features
+and finally once you've updated both the
+edge and the node features you can do a
+permutation and variant aggregator to
+combine all their representations and
+use those to update the graph features
+and of course because it just helps
+learning a whole lot especially for
+these over parameterized models skip
+connections are utilized quite
+extensively in this architecture so
+let's go through what it's doing
+as i said the first step we're going to
+do is update our edge features so
+compute the latence huv
+and what are all the relevant features
+for updating the edge well you have
+obviously the two node features incident
+that edge so xu and xv
+and then you also have some features of
+the edge xuv that are relevant and you
+have features from the graph which might
+also be relevant for updating that edges
+feature
+so this first step
+should be fairly straightforward use the
+relevant two nodes the edge features and
+the graph features to update the edge
+features
+once you have all the edge features you
+can interpret them as an edge message
+and based on their aggregation update
+the features in the nodes so now we can
+update the features of a node u
+by looking at that node's features so xu
+by looking at the aggregation of all of
+the edges that are sending into that
+node
+and finally the features of the graph so
+this is now a second function that will
+update our node representations
+using these edge features and for now
+you might see that this is really just
+another instance of the message passing
+rule we talked about before we just have
+that extra context from the graph
+and finally once both the edges and the
+nodes have been updated we can use the
+aggregation of all the nodes and all the
+edges as permutation and variant
+representations and using them we can
+update the graph features
+by the way a very similar formulation
+can be recovered without explicit graph
+features by just inventing a new node we
+call it a master node and connecting it
+to every single node in the graph
+so let's try to visualize what's going
+on
+imagine i have here some feature vectors
+in nodes u and v and the edge connecting
+them and i also have some features in my
+graph what will a graph network model do
+as we said first we will update the edge
+so the features of edge uv get updated
+based on the features of the two nodes
+incident to it its own features and the
+features of the graph
+once we've computed all edge features
+sending to a particular node we can
+update that node's features by using the
+node's previous features
+the aggregation of all the edges
+and the graph level features
+and finally once we have the computed
+node features and edge features we can
+aggregate all of them together to update
+the graph features
+now if you were to color code these
+edges by whether they represent the
+equivariant or invariant layer to
+permutations you'll see that basically
+all of the ideas from the geometric deep
+learning blueprint
+feature quite extensively in graph
+networks with equivariant and invariant
+layers applied appropriately whenever
+you need to reduce something and it is a
+very fun exercise then to try to specify
+the functions sci phi and rho the three
+key functions of the graph network to
+recover some standard graph neural
+networks like the gcn the graph
+attention network or the message passing
+neural network assuming i give you also
+some imaging graph features i think it's
+a fun exercise to try to complete
+outside of this lecture
+and
+before we dive into some of the more
+advanced topics of today's lecture so
+this was just to show you a very high
+level concrete implementation of one
+particular expressive graph neural
+network
+but now we're going to move on to some
+more advanced topics and before we do
+that i want to give you just one last
+thing to ponder
+when we've introduced deep sets i was
+i've showed to you that we've been able
+to actually rigorously prove that any
+set function that works in terms of
+satisfying permutation and variance i
+must be able to express it using deep
+sets and now the question arises
+can we make a similar generality claim
+about the graph neural network we just
+built can we represent any permutation
+equivalent function over graphs
+using one of the three flavors that i
+showed you
+and later today from several angles
+we're going to ponder this question
+quite carefully and it will be a useful
+topic for the practical exercise that
+you will have shortly as well
+and yeah basically i just want you to
+keep this question in the back of your
+mind and have a thought of
+are we sufficiently powerful by talking
+about one hop neighborhood aggregation
+to express anything that we might want
+to do over a graph that satisfies
+permutation equivalence
+but before we dive back into this
+we are going to move on to a very
+important topic latent graph inference
+which tackles one very innocent but very
+important assumption we've been making
+that we have a ground truth graph and
+that graph is given to us
+however it turns out this claim is not
+so innocent
+and analyzing it in more detail will
+lead us into latent graph inference
+which is a key emerging area for graph
+representation learning and in my
+opinion also an area of high interest to
+just performing basic science
+and further if we study this area
+further it will allow us to draw very
+cool connections between some
+state-of-the-art models in graph neural
+networks and to give you a bit of a
+spoiler alert almost everything that we
+will analyze will turn out to be a
+special case of a graph neural network
+so
+specifically
+one thing that's very important to note
+is that even when i give you an
+absolutely correct input graph which by
+the way in the real world is quite rare
+usually the graphs we obtain are a
+result of some kind of human design
+heuristic on which edges to draw and
+what to put in those edges but even when
+you give me a completely correct graph
+that does not mean it is the optimal way
+to pass messages for the task at hand i
+always like to give a different example
+for this for example if you want to
+predict uh some movements
+of humans based on their
+skeleton pose
+technically if you use the skeleton as
+the edges in the graph that is a correct
+graph of the human skeleton but imagine
+you need to do some kind of synchronized
+motion with your hands
+actually this means you should have a
+direct link between the two hands
+to model their interactions very closely
+right but actually in the human skeleton
+there's no direct connection between two
+hands you have to go through the entire
+torso to reach the other hand which
+means your information must travel
+an unreasonably long
+unreasonably long distance and this is
+as you might imagine a sub-optimal way
+to convey information
+so even if you have an absolutely
+correct graph which very rarely happens
+rewiring it to be specialized for the
+task you're solving might be a very good
+idea and we can even take this concept
+to the extreme right like what do you do
+when there is not even any graph to
+begin with but we assume that one might
+exist okay so
+imagine for example in the case of
+physics you have a bunch of particles
+these particles are interacting with one
+another but you don't actually
+explicitly know the forces at play
+between them right you just see the
+motion of those particles right and you
+need to kind of figure out what is going
+on in between so in this generic setting
+we assume that we're given a node
+feature matrix x but no adjacency matrix
+attached to it and once again we'll
+ignore edge and graph features just to
+keep things a bit more simple it doesn't
+change our findings
+and uh what can we do
+well
+we have actually seen one solution for
+this uh problem already right and that
+is the deep sets model in which we
+basically just assume that there are no
+edges to begin with right so if no edges
+are given to us we just go
+pessimistically and we assume our graph
+is completely disconnected so we let our
+adjacency matrix equal to the identity
+matrix or equivalently the neighborhood
+for every single node u is just the node
+u itself
+and as a result no matter what you
+choose to aggregate over the neighbors
+you'll just end up with the features of
+that node itself so you can easily
+convince yourself that any graph neural
+network flavor you run over such a graph
+will reduce the deep sets so now we have
+our first interesting result
+deep sets are basically a special case
+of a graph neural network where the
+adjacency matrix is the identity or we
+assume no edges
+okay so
+we said that one option is to assume
+that there are no edges whatsoever
+between our nodes
+does anyone have any idea on
+what could be another possible
+option
+maybe we can try to think that there are
+edges connected to everything
+yes exactly so all connected to all as
+someone also wrote in the in the
+comments
+and that's exactly the case so the
+converse approach is you can take the
+lazy approach where you just assume
+everything is connected to everything
+which in matrix terms means that you set
+your adjacency matrix to be equal to
+uh
+all ones multiplied by the transpose of
+all ones or equivalently the
+neighborhood of every node is all the
+nodes
+okay
+and
+since
+we are assuming no additional
+information about these edges right
+remember we are supposed to be inferring
+them as we go along
+then a convolutional graph neural
+network would have no other choice but
+to take simple averaging into account
+and it's possible to show in this case
+that convolutional graphical networks
+are equivalent to deep sets in the case
+of smoothly connected graphs and it's a
+pretty fun exercise to prove this and i
+highly encourage you to try to prove
+that
+when you assume full connectivity and
+you use a convolutional dnn with
+averaging
+that actually you will get the model
+which is equivalent to deep sets so what
+this means is with convgns we are not
+going anywhere further than deep sets so
+we need to try a more expressive flavor
+of gnns well as we know the next step up
+is attentional gnns
+so here i put in front of you the
+equation of an attentional graph neural
+network
+where the only difference i'm making is
+now i'm making the neighborhood of node
+u be equal to all of the nodes so the
+aggregation operation goes over all of
+the vertices and now i compute this
+attention coefficient between all pairs
+and i use that to elevate
+maybe you know a quick question does
+anybody in the audience see this model
+and think oh this is something very
+familiar
+are there any natural language people in
+the audience
+yes exactly
+good job iman this here
+should feel a lot like a transformer
+so some of you as i said here have
+probably recognized the famous language
+processing model in the equation i just
+showed you but uh
+i don't want to start this discussion by
+saying transformers and like link them
+like this i actually want us to
+rediscover the concept of the
+transformer
+without ever talking about transformers
+by just focusing on the geometric
+blueprint i've showed you so far okay
+so to do this i'm going to send you into
+a natural language processing realm
+and the reason why this is a good thing
+to do is generally there's a
+long-standing alignment between natural
+language processing and graph
+representation learning in fact many of
+the early methods for representing
+graphs the node embedding methods very
+much one-to-one correspondence to
+traditional word embedding methods uh in
+in natural language processing
+even their optimization objectives are
+near equal once you take into account
+these equivalences
+and recently self-supervised graph
+representation learning methods borrow a
+lot of concepts from popular nlp methods
+like birth
+but what's very important is that we can
+take this correspondence in the other
+direction as well
+so
+in a natural language context you are
+typically interested in modeling
+sentences of words
+and
+then doing something over those
+sentences like translating them or
+predicting the sentiment is it positive
+or negative or something like that
+and uh
+generally you can observe that words in
+a sentence interact right so you have
+subjects and objects you have adjectives
+that act on the words they act on and so
+on so there are some very interesting
+interactions between the individual
+words in a sentence that modulate the
+meaning of that sentence or how it
+should be translated okay
+and
+uh generally we know that these
+interactions are not trivial and more
+fundamentally not sequential so it's not
+like one word interacts only with two
+words that are immediately next to it
+these interactions can stretch across
+even multiple paragraphs
+so this means that you probably
+shouldn't
+focus on using just a recurrent neural
+network like an lstm because what is an
+lstm assuming it's basically assuming a
+grid graph that every word is connected
+to its two immediate neighboring words
+and as a result it's using a graph that
+is in principle correct but suboptimal
+for the task at hand
+we might actually want to use a more
+general graph structure between the
+words to be able to model the meaning of
+those words but then the big question
+arises what should be this graph of
+words okay
+like there are many different ways to
+define graphs of words and the problem
+is not even you know professional human
+annotators tend to agree what the best
+graph to use is and often the optimal
+graph might even depend on what you're
+doing right the best graph for
+predicting the sentiment of some
+sentence and the best graph for
+translating a sentence to a language
+might be completely different okay so
+what do we do when we have this problem
+of we know there's a complicated graph
+in there but we don't know what it is
+well as we just said a very common
+assumption is to use a complete graph
+and then let the neural network the
+graph neural network infer the relations
+by itself by passing messages along this
+graph
+and
+basically the most popular approach
+indeed in that case is to take a fully
+connected graph and then use the
+attentional flavor of a gnn which then
+yields one of the most recognizable deep
+learning models of today which was
+developed by ashish vaswani and others
+that
+at europe's and that is exactly the
+transformer so here i put the equation
+of the attentional fully connected gnn
+in the corner and the famous figure from
+the transformer paper so you can relate
+some of these concepts but the general
+idea that we want to make now that we've
+arrived at the same conclusion is that
+you know i've reached the definition of
+a transformer without ever using the
+word transformer i've just used concepts
+of graphical networks fully connected
+graphs and attentional flavors therefore
+we can say that transformers are a
+special case of graph neural networks
+under these two assumptions
+and you might wonder because graph
+neural networks are permutation
+invariant
+what is it that makes transformers
+specialized to language well
+specifically this sequential structural
+information is fed through the
+positional embeddings of the transformer
+which tell you roughly for every word
+where is it in a sentence but
+the model is not obliged to use that
+information in any way it's there just
+to hint to the model there exists a
+structure it is not a rigorous
+equivalence constraint so from the
+perspective of equivariance constraints
+transformers are in the same boat as
+graph neural networks
+and specifically you might imagine the
+attention mechanism because it gives you
+a scalar for every single pair of nodes
+as giving you a soft adjacency matrix
+and therefore letting the graph neural
+network choose its own edges this
+connection of transformers and gnns is
+very beautiful and
+there's a lot more detail i would want
+to go through that i cannot do in the
+context of this one lecture so i highly
+invite you to read this uh fantastic
+blog post by chaitanya joshi that was
+published in the gradient which is
+literally called transformers or graph
+neural networks you'll find a lot more
+fun insight in that paper
+and another thing that's quite useful to
+ponder for us is why did the attentional
+flavor of the gnn work so well here like
+why not message passing for example
+well there's a few important concepts to
+ponder the first one is that words don't
+really have any meaning in themselves
+right words only get meaning when you
+put them in context with other words
+right and as a result all of the inputs
+to a
+language model are typically just one
+hot features that tell you which word
+this is in the vocabulary so they're a
+very rudimentary identifier feature and
+they're unlikely to give you complex
+messages right this will no longer be
+the case when nodes become something
+more tricky like full concepts but as
+long as they are words then basically
+taking weighted combinations of words
+might be the best that we can do to
+model semantics so attentional
+coefficients then allow us to also
+interpret these learned connections and
+how a word's representation is built in
+context with other words
+but another thing which is obviously
+most practical in terms of scaling these
+models transformers are now used for
+huge language models with billions of
+parameters like gpt3 and as we discussed
+before attentional mechanisms just have
+a more favorable storage complexity than
+full-on message passing gnns
+especially when you use something like a
+dot product attention like a transformer
+does because you never actually have to
+compute edge messages which is a much
+more costly uh thing to do from a
+storage perspective and also because
+they operate over a dense graph you can
+express computations of transformers
+using pure matrix operations and as a
+result you'll get something that aligns
+really well with the computation of gpus
+and tpus which are the workhorse behind
+most of the deep learning progress
+happening today
+so
+taking all this into account you can
+basically say that transformers are
+graph neural networks that have
+successfully won the hardware lottery
+they just happen to be the flavor of
+graph neural networks that is easiest to
+scale on the hardware of today and gives
+you sufficient modeling power beyond the
+convolutional gnn which is maybe a bit
+too rigid if you want to read more on
+the hardware lottery sarah hooker has
+this amazing paper published last year
+in communications of the acm which as i
+said is highly recommended if you want
+to know more about
+why sometimes we don't choose the best
+model for a particular task because the
+hardware we have doesn't align with that
+particular mod
+but that being said the idea of taking a
+fully connected graph is not something
+that's restricted to transformers and it
+works very well with the message passing
+flavor as well if it's in the right kind
+of setting so whenever you have
+interactions between your nodes in more
+complex ways than words so physics
+interactions relational reasoning and so
+on then the message passing flavor might
+actually be a better choice because it
+lets you compute a more complex message
+along every single edge and actually in
+such cases transformers often do not end
+up sufficiently expressive it's actually
+one of the rare scenarios where
+transformers are not state of the art so
+for some examples in physics modeling
+interaction networks were one of the
+pioneering works that treat every
+interacting body as a node in a fully
+connected graph and for visual reasoning
+the relational network model
+is capable of having superhuman
+performance on relational question
+answering by basically treating every
+pixel representation of a cnn as a node
+in a graph
+and here you can see some interesting
+visualizations both from interaction
+networks here you can see some rollouts
+of the interaction network model for
+predicting and body dynamics both for
+gravitational interactions on the left
+bouncing balls in the middle with
+elastic collisions and the strings on
+the right and you can see uh for all of
+the scenarios you see the trajectory
+that's ground truth and the trajectory
+predicted by the interaction network and
+you can see that actually
+they are very closely very closely
+aligned
+but
+one thing that i would like to note last
+year for the for this course this was
+actually a full-on component
+nowadays i am cutting it out a little
+bit to put more discussion on the
+transformer connection
+but one thing that i would like you to
+keep in mind is that the real truth of
+latent graph inference so figuring out
+the underlying graph and then using it
+for a g n
+is somewhere in between the two
+approaches we've we've seen right we
+have the option of taking no edges at
+all we have the option of take every
+pair to be connected right but there is
+something in between right because the
+full graph the fully connected graph can
+be quite hard to scale because you have
+quadratic space and large neighborhoods
+but empty graph then ignores a huge
+wealth of information so ideally what we
+want is to infer a rigid adjacency
+matrix a which is sparse and then use
+that matrix as edges for a g and n this
+is what we commonly term latent graph
+inference and it's a very tricky area
+that deserves a niche of its own because
+choosing edges is a fundamentally
+discrete decision and it's very hard to
+optimize that by back propagation
+and there's five recently proposed
+prominent approaches that i would highly
+recommend you check out if you're
+interested in this area i highly
+recommend it i think it's going to be
+one of the most important areas going
+forward especially if we want to use
+these models for basic science because
+these adjacency links can then be
+interpreted as the ground truth
+connections between our objects right
+and there are many ways including the
+neural relational inference or nri model
+which uses a variational approach the
+dynamic graph cnn or dg cnn which
+basically uses a non-parametric model
+with no learning at all but still quite
+powerful
+it's successor to differentiable graph
+module which uses reinforcement learning
+to decide which links to put
+and then our own pointer graph network
+which uses direct supervision from a
+template data structure to figure out
+how to place the edges
+most recently at last year's nerfs the
+slaps architecture from baharia fotami
+and others which uses a self-supervised
+approach to
+significantly enrich these latent edges
+they get discovered all of these papers
+are very much worth the read if you have
+some time
+but in the interest of maximizing the
+time and the utility we spent today i'm
+actually going to pivot this discussion
+now to talk to you a little bit about
+how powerful are graph neural networks
+so
+i hope the wealth of practical examples
+i showed you at the beginning can tell
+you that graph neural networks are
+indeed a powerful tool for processing
+real-world graph data if you include all
+of the transformer advancements as gnn
+advancements that list only explodes
+exponentially
+but
+they won't solve any tasks specified on
+a graph accurately right there's still a
+polynomial time procedure so they
+shouldn't be able to help you with say
+problems that we know are mp complete
+and
+the canonical example that we use to
+measure the expressive power of gnns to
+see like what they can and cannot do
+is by looking at the decision of graph
+isomorphism
+so the main question here is
+can the graph neural network distinguish
+between two graphs that are not
+isomorphic so can it attach two
+different hg representations to them
+okay
+we know because of permutation
+equivariance and invariants that
+a gn is guaranteed to put the same
+representation on two isomorphic graphs
+so here we're really dealing with the
+converse case
+and the reason why this is important is
+because the if the graph neural network
+is unable to put different
+representations on two different graphs
+then any task that classifies them
+differently is hopeless right so it's a
+kind of a fundamental measure of how
+discriminative you are can you
+discriminate between any pair of your
+examples so we're going to assess power
+of gnns by which pairs of graphs they're
+able to distinguish
+and
+to make this truly formal we will look
+at a popular graph isomorphism test
+which is known as the wise phyllo layman
+test or the 1wl which is a simple but
+powerful way of distinguishing
+graphs that passes random hashes of sums
+along the edges and just iterates until
+those hashes stay stationary and if the
+hashes are same in histogram terms then
+the algorithm says these two graphs are
+possibly isomorphic it was a procedure
+invented by two soviet mathematicians
+boris weisfeiler and andre lemon
+and basically
+it's a very simple procedure that works
+remarkably well for most real world
+graph structures
+so to illustrate what this model is
+doing we're going to run the wise filer
+test on this particular graph here that
+i showed you on some instances before as
+well how will we do this we're going to
+represent these hashes as colors which
+makes sense because inherently they have
+countable semantics and
+once we have these colors we will track
+all possible neighborhoods that arise in
+terms of different colors and just put
+different colors to different cases and
+we stop when there's no new colors to
+introduce okay so we start with this
+initial graph where all the nodes are
+colored blue and we have this particular
+structure
+after one step of the weisphela layman
+algorithm we have two cases right we
+have a blue node with two blue neighbors
+which we decide to color green
+and we have a blue node with three blue
+neighbors which we choose to color
+yellow okay
+now i have a question for the audience
+what do you think will be the situation
+in the next step of the algorithm
+i'm guessing maybe
+looking at the color
+coloring
+with respect to the color of their
+networks
+yeah so how many different colors do you
+expect we're going to have in the third
+step
+maybe three
+if we don't consider the numbers like
+how many ukraine and you know
+then we just consider green green and
+green yellow and yellow yellow
+you are absolutely correct and the
+people on the chat are also absolutely
+correct in the next step we will have to
+invent one new color
+because now we have three cases right we
+have green with one yellow and one green
+neighbor those will get one color gray
+for example
+we have a yellow with two green that
+will get a new color like red and we
+have green with two yellow which will
+get a new color purple for example and i
+hope you can all convince yourselves
+that at this point there's nothing else
+to do in the next step we will get
+exactly the same histogram of colors so
+the algorithm just stops and outputs a
+histogram of colors one two two okay and
+now you can see how if we run the same
+algorithm on exactly the same graph just
+presented in a slightly different way we
+will end up with exactly the same
+histogram so in this case the algorithm
+correctly recognizes these two graphs
+as um as isomorphic
+and uh
+this idea of passing random hashes along
+edges
+makes it a very clear connection to
+convolutional gns and that's been
+spotted very early even the gcn paper of
+kipf and welling has spotted that what
+their model is doing is maybe a more
+sophisticated variant of the weiss filer
+algorithm and it also explains why
+sometimes if you don't even train your
+gnn like if you just have randomized
+weights which corresponds to a random
+hash you can get pretty strong
+representations however even though this
+test as i said is very powerful for many
+graphs in the real world
+it still fails on some painfully simple
+cases this is one case it cannot tell
+apart a sixth cycle
+from two triangles okay so to the naked
+eye these two graphs are very different
+but from the point of view of the wise
+filer test every single node is
+structurally exactly the same in those
+two graphs so it has no way of telling
+them apart so there are some painfully
+simple things like usually relating to
+counting simple substructures that these
+wise filer tests cannot do properly
+and it might then surprise you to find
+out that if your features are discrete
+you can never build a graph neural
+network that is more powerful than the
+wise filer test
+and
+this might seem a particularly damning
+prospect but actually when you analyze
+it further you might find that even you
+need to be very careful with how you
+designed the gnn to even match the power
+of the weisfelder test you know you
+cannot exceed it but it's also not very
+easy to match it either
+and it turns out that the condition to
+get this maximal power is for your
+aggregation function to be injective and
+in this particular case
+the aggregation function that works well
+is taking the sum
+okay
+so why does this work imagine you have
+this neighborhood of discrete features
+like four blue nodes and two red nodes
+if you take the sum of all of their
+features you will correctly capture that
+there are two reds and four blues right
+if you take the average you're already
+throwing away information you're only
+representing like
+the relative ratio of blue to red which
+is two to one and that already drops the
+information how many blues and how many
+reds there are and if you take max
+that's even worse because it just
+reduces your multi set of neighbors to
+the set of the constituent blue and red
+okay
+and the proof that shows that
+you need the sum aggregation and using
+that you get the same expressivity as
+the weisfelder test is actually very
+similar to the proof used to show that
+deep sets are universal
+the main difference is that deep sets
+dealt with sets
+when we aggregate over graph
+neighborhoods we now have to deal with
+multi-sets because
+because we can have multiple neighbors
+with exactly the same feature
+so
+using this
+the authors of the graph isomorphism
+network paper or jin
+have been able to show
+that
+you can compute a you can have a simple
+gnn which uses the sum aggregation which
+is maximally expressive so here you can
+see that you have some component that
+depends on the center node and it's
+weighed by this factor of epsilon which
+is learnable
+and you have also a summation over all
+the neighborhood features and
+this layer the gen model is provably the
+most powerful gnn over discrete features
+however
+like just because i told you you can
+never hope to build a gnn that's
+stronger than the weiss filer test well
+what does that really mean that just
+means that the graph neural network is
+fundamentally incapable of computing
+certain things
+so what can we do then we can build more
+stronger gnns by giving them that
+information that they cannot compute
+okay
+so there is a huge area which i like to
+call augmented message passing which
+tries to build more powerful gnns
+usually by looking at the cases where
+the wise father test fails and then
+finding ways to give the graph neural
+network the context that it needs to
+solve that problem and here i've given
+you this example of the six cycle versus
+two triangles again so that you can so
+that you can properly
+properly keep it in the back of your
+mind while we study this
+so for example
+the reason why we cannot tell apart
+two triangles from a six cycle is
+because if you look at the receptive
+field of a graph neural network applied
+to these constant feature graphs you can
+see that every node in these two graphs
+is exactly the same receptive field all
+the nodes locally look exactly the same
+okay
+so do you have some idea of a very
+simple thing we could do to the input in
+this graph to fix this problem
+any ideas
+is there anything simple i can do to the
+node's features to
+not make them look the same
+the idea to add another node joseph is
+very interesting and could be quite
+powerful but let's say for now
+let's say for now that i
+am not allowing you to add new nodes it
+is a correct answer but
+i'm looking for something even simpler
+okay it seems like we don't have any
+takers so let me show you what the
+answer is
+you can basically just put a random
+number inside every single one of those
+notes right
+and now suddenly not only do these
+neighborhoods look different you can
+also
+see yourself a certain number of hops
+away which tells you hey you've closed
+the cycle of a certain size right
+so basically the the key point here
+is that
+if you already augment the graph neural
+network with something as simple as a
+random number
+you can already tell apart some
+substructures that previously you were
+not able to tell apart specifically you
+can tell apart a six cycle from two
+triangles in this way okay and
+essentially
+uh this is
+a very powerful idea even though it's
+remarkably simple and ryoma sato with
+his collaborators was able to take this
+idea and publish it in a top tier
+conference in the year of 2021 this is
+just to show you how
+uh how young this whole field is and how
+impactful it could be where you can
+basically write an entire paper on the
+theoretical significance of putting a
+random number in every single node and
+get that paper published at a top menu
+okay
+and there's this is just one instance in
+a whole family of approaches that tries
+to put features in the nodes that
+compute something that the graph net
+otherwise wouldn't be able to compute so
+besides putting random features you
+could also put node identifiers
+positional identifiers and pgns and even
+if you know which substructures are
+important you can literally count them
+and put the features of those counts as
+your positional features this is exactly
+what jorgos buritsas did in his paper it
+came out in 2020
+and
+this general idea of finding a case
+where a graph neural network cannot deal
+with the one wise filer test limitations
+and fixing it by changing the features
+or something like this gives you a
+method that belongs to augmented message
+passing so there's many of them there's
+really a lot of them but they can be
+generally categorized into three groups
+you can either modify the features of
+the nodes as we just discussed you can
+modify the message passing rules so
+change the message function so that it's
+more mindful of the structure of the
+graph the directional graph neural
+network or dgn is a very good example of
+this
+and the last suggestion which
+aligns really well with what joseph
+suggested is you could modify the graph
+itself to give you clues about the
+structure and this gives you some models
+like one two three gnns and it further
+subdivides into various categories like
+rewiring the graph aggregating over sub
+graphs or message passing over
+substructures
+now one thing that's very important
+because i'm sure many of you will
+doubtlessly look into the literature for
+these kinds of approaches
+and if you look up the papers that
+improve on the weiss filer layman
+limitation there's a high chance you'll
+come across some terms like higher order
+gnns or beyond message passing
+i've had a lot of debate with my
+teaching assistants at cambridge and
+external experts on these terms and i've
+actually convinced myself that it's
+likely impossible but certainly not easy
+to truly devise a graphical network that
+you cannot express using message passing
+and actually many of these stronger gnns
+that you build are going to be most
+efficiently implementable using message
+passing so what's the trick how do you
+make it work well don't do message
+passing over the initial graph modify it
+by introducing for example new nodes to
+represent substructures as joseph
+mentioned
+and
+as a result you know you change the
+graph but the primitive that you use is
+still message passing over one hop
+neighbors so therefore i conclude that
+talking about the term beyond message
+passing can be imprecise at best and
+potentially harmful because it might get
+you to think oh i need to implement this
+without using any message passing
+whatsoever when in reality message
+passing just over a different graph
+might be the best way to do it
+and this whole story started when i was
+giving my course on graph neural
+networks at cambridge i made a slide
+that i also presented to you today on
+how graph networks can represent
+hypergraphs and these kinds of things
+and this caused a very lively debate
+with my uh
+with my teaching assistants with which
+eventually spiraled into a bit of a
+long-standing argument the the ta who
+originally reported this issue notedly
+said that he did open a pandora's box
+and
+all of that discussion eventually led to
+me writing this position paper on
+message passing all the way up where i
+make a very clear argument for why you
+should be able to represent everything
+using message passing neural networks
+and this work was recognized in the
+iclear gtrl workshop where i presented
+it as a spotlight a few months ago and i
+had a chance to have many intense
+discussions with people including some
+folks from this course like michael
+bronstein on to what extent is this
+claim true i'll just say that to this
+point i haven't seen any clear evidence
+that we cannot express things in message
+passing it's just that sometimes
+expressing things in message passing
+might not be the most insightful way of
+looking at it
+and the other term
+higher order gnns
+relates to
+usually trying to build graphical
+networks that align with more
+generalized versions of the wise filer
+test remember when we first introduced
+it i mentioned it's sometimes called the
+1wl that means that we're keeping
+representations on nodes which is like
+one tuple of nodes but it's only a
+special case of a more general class of
+weiss filer tests the kwl which track
+representations for k nodes at once so
+pairs of nodes triplets of nodes and so
+on but
+not all graph neural networks are best
+talked about with respect to the wise
+filer test which as we said at the
+beginning means you're deciding
+isomorphism over discrete featured
+graphs very often graphs you will
+encounter in nature might have
+continuous features attached to them so
+we set out to study what happens when
+the features are continuous rather than
+discrete so we break the first
+assumption of the gin paper and we
+actually find that in this case the
+proof for the gin papers injectivity of
+the some aggregation falls apart and i
+can easily give you examples of
+neighborhoods that cannot be told apart
+by the sum aggregation
+or even the min aggregation or the max
+aggregation it actually turns out that
+for some of them like the third one from
+the left here the only aggregator out of
+the four we're considering here that
+will tell them apart is the standard
+deviation taking the sum the average the
+minimum the maximum doesn't tell these
+two neighborhoods apart so this raised a
+very interesting question right
+since there doesn't seem to be a single
+aggregator that always works
+which one is the best
+so this prompted us to write a paper on
+principle neighborhood aggregation the
+pna paper and we actually prove
+mathematically that there isn't one okay
+so if you have multisets of n neighbors
+where the set of features is the real
+numbers
+are in general going to need at least n
+aggregators so one aggregator per
+neighbor to tell them apart to tell the
+isomorph the non-isomorphic ones apart
+in general and if you're interested in
+the math behind this i think that the
+proof of this statement is really cool
+it relies on the borsig ulam theorem
+which three blue one brown wrote a very
+fun tutorial about that you can find on
+youtube so highly recommend it
+and you might be asking yourself now
+you know okay so i told you that
+to distinguish uh general neighborhoods
+with continuous features you need at
+least n aggregators so do we have any
+idea on what those n aggregators are
+well in the same paper we actually
+proved that the moments of the
+neighborhoods work so you take the
+expected value of the nth power of the
+difference between the mean and then
+take the nth square root of that to get
+the nth moment so
+these functions gradually generate first
+the mean then the standard deviation the
+skew the kurtosis and so on and so forth
+and it actually also covers max and min
+because when you take the maximal and
+the minimal element taken together they
+give you an estimate of the infinity
+moment right the biggest discrepancy in
+your data set
+now the important thing to note is that
+these guys are not always the optimal
+choice of aggregator there are other
+bases that might also satisfy the
+condition of being enough and also
+there's a problem with them when you
+take them to n bigger than two so when
+you move from standard deviation into
+skew and kurtosis territory you have to
+take the nth power followed by the nth
+square root and this is quite
+numerically unstable in practice so what
+did we do as a result in our principle
+neighborhood aggregation paper we
+propose a combination of these
+aggregators which is shown to be
+empirically powerful so we take the
+aggregators that we know are stable like
+the mean standard deviation and then the
+max and min which are stable at m
+infinity
+and we combine those four aggregators
+with three different scaling functions
+like identity multiplying by the degree
+which allows you to recover sum as
+degree times mean
+and also logarithm of the degree so
+these three combinations multiplied by
+four aggregators give you 12 different
+aggregators and then you just use this
+combination as your aggregation function
+in your favorite graph neural network so
+you compute all the 12 aggregators and
+then you concatenate the results
+and stitch it into your gnn and you're
+all set it tends to at worst match the
+performance of individual choices of
+aggregators and usually outperforms them
+especially as you need to extrapolate
+more
+so
+that was actually the last concept i
+wanted to cover for you today
+so it's good to have a recap of
+everything we covered we took a deep
+dive into graph neural networks
+specifically we looked at the exact data
+flow of the graph network architecture
+from deepmind over generic attributed
+graphs once we covered that we unpacked
+the seemingly innocent assumption that
+the edges given to us are perfect and
+analyzing the scenario where we don't
+even have any edges we recovered
+transformers and deep sets as two
+special cases of gnn flavors
+over either an empty or a complete graph
+and finally we studied in depth the
+limits of graphical network expressive
+power which i hope also addresses one of
+the questions we had on the first
+lecture we studied them through the lens
+of graph isomorphism testing we found
+that gnns are fundamentally limited by
+the weiss father test
+we found a way to break this limit by
+giving gnns data they shouldn't normally
+be able to compute giving us augmented
+message passing methods
+and finally we discussed briefly why
+just studying effects over discrete
+features is not sufficient enough in all
+cases and our analysis into the
+continuous feature space led us to
+discover the pna combination of 12
+aggregators
+i hope you found this lecture
+interesting especially because now that
+you're armed with the knowledge of the
+gdl blueprint on the case of sets and
+graphs you're ready to move beyond to
+just simple from permutation symmetry to
+more complicated geometric constraints
+and this will lead us to talk about
+geometric deep learning over grids and
+groups where it starts to get quite
+exciting from a geometric standpoint
+i hope you enjoyed this was my last
+slide and i believe i should have about
+five to ten minutes for any questions so
+yeah hope you liked it
+yes thank you
+so there is a question
+hello
+yes yes could you read out this
+so there's a question how to perform
+backprop true notes in genning
+how to perform backdrop through the
+nodes of genome okay that's a good
+question so i think it will be easiest
+to visualize it if i
+show you again the data flow of
+of the graph network model
+so this picture here
+so imagine that you know you're
+predicting something on the level of
+nodes edges and graphs so you have some
+label for both
+hv huv and hg
+the back prop basically just goes in the
+opposite direction right so these psi
+phi and rho are simple multi-layer
+perceptrons and any gradient you've
+computed on the vectors for hg hv and
+huv can then back propagate through
+those functions into their inputs right
+and therefore optimizing the weights of
+those parameters so i hope this i hope
+this answers the question generally we
+just look at these data flow arrows and
+we look at them backwards to back
+propagates through the functions that we
+care about
+okay
+someone is typing i think maybe
+wait for a few seconds
+yes so there's another question what is
+the main
+institution of adding epsilon
+uh-huh so i think this epsilon like
+please correct me if i if i
+misunderstanding but
+i think the epsilon here refers to this
+gin formula here
+where the epsilon is added to the self
+connection
+so
+basically
+you'll have you'd have to read through
+the paper to truly understand why that
+epsilon needs to be there but basically
+the idea here is that in their analysis
+they want something that will take the
+sum of all the neighbors and then treat
+the central node in a way that's
+guaranteed that you can unpack it from
+the rest of the neighbors okay
+and uh if you assume that the inputs and
+neighbors have discrete features
+one typical way to uh
+to make sure that uh this central node
+is given a special treatment
+is by multiplying it with some
+irrational number so in the basic
+mathematical analysis of this layer
+epsilon is seen as just some irrational
+number okay now of course you cannot
+actually you know
+represent an irrational number inside a
+computer
+so what they do in practice is they make
+epsilon be a learnable parameter
+and the hope is that then back
+propagation will discover an interesting
+enough rational number to tell apart the
+central node from all the other ones so
+that's the that's the main intuition
+basically
+to be able to use sum for all the nodes
+including the central node without
+having to use the skip connection
+concatenation

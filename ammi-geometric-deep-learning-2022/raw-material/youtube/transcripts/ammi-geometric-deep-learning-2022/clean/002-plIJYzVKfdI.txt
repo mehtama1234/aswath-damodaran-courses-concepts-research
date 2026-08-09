@@ -1,0 +1,2239 @@
+Good afternoon everyone.
+So very happy to be here. Going to
+hopefully give you my
+background like a some just even just
+the language like a framework to think
+about
+uh
+problems why actually we need all these
+geometric notions that we're going to
+spend all these lectures talking about
+and how do these geometric notions fit
+into the bigger picture of learning
+stuff learning functions in high
+dimensions. And so as as it was as
+happened last year
+the the aim here is to be to go very
+slow and please if you as soon as you
+have any question do not hesitate to to
+interrupt me. All right? So today we are
+going to the lecture is going to be
+split roughly into kind of three
+chapters or like three sections. First
+we're going to really go very slowly
+introducing the basic elements of
+statistical learning. So what are the
+main mathematical object that we need to
+think about the problem of fitting data
+like
+basically fitting trying to extract
+information from data.
+Then we are going to spend we're going
+to discuss
+about the curse of dimensionality which
+is a phenomena that is kind of pervasive
+and it's
+underlying all the
+things that are happening in deep
+learning. And then we are going to in
+the third part of the last part of the
+lecture we are going to see how we can
+address this curse of dimensionality
+precisely with the ideas that are
+specific to this geometric learning
+course. All right?
+Okay so let's get started.
+So
+if I wanted to just give you the the
+basic object the basic elements of
+statistical learning in one slide this
+is how I would do it. Right? So so for
+me
+what we are going to focus is mostly
+like four main objects that are going to
+be interacting with each other. The
+first one is data. Right? So the way we
+think about data is using a kind of a
+statistical formalism. Right? So we
+think about data as being samples from a
+probability distribution. Okay so this
+probability distribution in the case of
+supervised learning has two components
+has the input which might be let's say
+the image like this.
+You see here.
+Or it could be you know like a sequence
+of text and also some labels.
+Then we are going to mix this data
+distribution with a model with an
+approximation model that is the the
+class of functions that are
+parameterized by our parameters
+that are hopefully trying to fit the
+input to the output. Right? This is the
+approximation model.
+Then we are going to
+combine like we're going to try to fit
+the parameters of this model using an
+error metric like some kind of loss
+function
+using an algorithm. The estimation
+algorithm. Right? So these are the the
+four pieces that kind of constitutes the
+the basics of a statistical learning.
+All right. So the data.
+So again we are going to think about the
+data we are going to define just in
+terms of notation
+think about the the data in the context
+of supervised learning as having two
+components. Right? So XI is going always
+going to denote the input and YI is
+going to denote the label.
+And so here what we see is that we we
+are going to assume or we are going to
+postulate that the samples that the
+input images are drawn from a data
+distribution that we call new.
+Okay? And this data distribution is a
+probability distribution defined over
+the input space
+that we call capital X.
+Okay so capital X from now on
+corresponds to the input space of the
+algorithm of the machine learning
+algorithm.
+Okay and here there's a picture that I
+borrowed from some of my colleagues of
+trying to illustrate right that these
+are kind of the samples that are drawn
+from from whatever from the space of
+images. Okay and then uh
+for starters for
+trying to simplify a little bit the the
+exposition here we are going to assume
+that we have labels that have no noise.
+Right? So YI can be obtained can be
+produced by some unknown function F
+star. Right? So F star the goal of the
+game is to estimate this unknown
+function F star. Right? That is mapping
+the input to the to the
+the input to the output. Right? And just
+some examples
+um
+you can think about F star of X as some
+you know some excitation energy of a
+molecule or some you know chemical
+property of some biological compound
+like some molecular or protein whatever.
+Or if you think about problems in
+classification this could be
+F of X could be the probability that you
+know the image X
+contains a cat.
+Right? That could be a an example of a
+of a function F star that you would like
+to estimate.
+Right?
+Um
+So obviously
+if I want to we want to analyze
+algorithms and try to reason about why
+this architecture works better than the
+other or why this algorithm work better
+than this other algorithm we need to
+have some assumptions. Right? There's a
+there's this important kind of folkloric
+folkloric result that there's no free
+lunch. Right? In in in in this problem
+right if I have no assumptions on the
+data or no assumptions on the target
+function there's no way I can guarantee
+that my algorithm is going to work.
+Okay so
+really all all is all this course is
+really about
+what kind of assumptions are realistic
+or reasonable for the problems that we
+care about.
+Okay.
+So now we can we can discuss about the
+model like the the the the parametric
+class like the you know it's the choice
+of the user where we are going to
+essentially consider a subset of
+functions that we call capital F.
+So these are functions
+that each function is like a small F
+that maps the input space
+to the output space. Here by again by
+simplicity we just assume that the
+output of the function is scalar. Right?
+Maybe it's just a logit or some energy.
+Right?
+Obviously if you if you think about like
+the output of your problem to be you
+know like like
+like the probability over 100 classes
+you can replace the R by like the
+corresponding vector in probability that
+corresponds to the output space.
+Okay and again some examples of this
+hypothesis class
+could be well maybe I could just try to
+fit the data
+with um
+polynomials. Okay so I could just
+consider that I want to I want to try to
+learn the input to the output by
+polynomials of maybe fixing the degree.
+Maybe two three you know K could be
+anything. Or I could also
+try to use
+try to use as a model a neural networks
+where
+with given architecture. Okay? That's
+obviously the example that is going to
+be mostly the focus of this class.
+Okay. And so there's one
+element one
+object new object here that is very
+important from a theoretical perspective
+and it's also somehow hidden sometimes
+it's hidden in the algorithmic sense
+which is the complexity. Okay? So what
+is the complexity measure?
+So think think about the complexity
+measure as a way to organize different
+hypothesis. Right? So here for example
+in the example above I told you that
+there's my my function class contains
+polynomials up to degree K.
+So maybe you agree with me that within
+this class there's easy polynomials and
+hard polynomials. Maybe the polynomials
+of degree one are you know less complex
+than polynomials of degree two and
+polynomials of degree two are less
+complex than polynomials of degree three
+and so on and so forth.
+So more generally you can think that for
+every element in your family
+I can I can assign a notion of
+complexity.
+Okay? What they call this gamma.
+And this is something that we are going
+to use later on to argue and to think
+about
+basically statistical learning. Right?
+So and just an example of again of how
+what this complexity would look like in
+practice for us maybe you can think
+about the complexity as being the number
+of neurons or the number of parameters
+in a neural network.
+This is not it's a good it's a intuitive
+example but it's not always the right
+thing. Right? But but just to to
+illustrate the point. We can also think
+about the notions of complexity that are
+applied in broader classes. These are
+kind of non-parametric classes like
+Sobolev like you know general functions
+that have a little little bit of
+smoothness. So there's actually a notion
+of complexity that measures the
+smoothness of a hypothesis. Right? So if
+I have a function a hypothesis that you
+know that it looks like for example if
+this is the
+so this is the input
+and this is the output.
+Well maybe this function here over here
+is going to be less complex than this
+function over here. Right? Maybe.
+Okay so so obviously that this is a
+less complex
+and this is more complex.
+So in this particular example we can
+measure we can quantify this smoothness
+complexity with smoothness. Right? And
+this no this quantity if you are if you
+have ever seen Sobolev spaces is
+measuring kind of the
+how large is the second derivative of
+the function.
+There's one thing also that I want to
+measure that I want to mention here.
+Right? It's an important remark um
+that um
+is in particular relevant for those of
+you who are already been practicing and
+you know interacting with neural
+networks is that often this notion of
+complexity is hidden. Right? In the
+algorithm. It's not something that we
+can
+that we explicitly manipulate. Sometimes
+we do sometimes we don't. And so, this
+is why we call that sometimes
+there's a phenomenon that's called
+implicit regularization or implicit
+bias, right? Is that the algorithm that
+we are going to use, right? The so in
+maybe for maybe the gradient descent
+algorithm or the two the choice that we
+make in the hyperparameter of the
+gradient descent algorithm is going to
+indirectly define this notion of
+complexity. Right? But for now, for this
+lecture, we just think about this as
+someone is giving us someone is giving
+us this complexity, right? We are just
+going to use it
+theoretically, right? As as a tool to
+understand when an algorithm works.
+Any questions so far?
+Or
+Good. So, we have covered the data
+distribution, we have covered the model.
+Let me just mention very briefly what
+about the error metric. Okay? So, the
+error metric, just again,
+um
+think for example
+uh
+thinking in the simplest case of a
+regression, like squared squared loss.
+Um so, given some measure No, like for
+example, if you give me this point was
+lost, like a a way to compare two
+different levels, for example, just the
+the you know the the square difference,
+we can now take this function and cons-
+and build it and upgrade it, transform
+it into a function that assigns the
+risk, like the loss of a of a particular
+hypothesis, right? And so, the first
+notion of uh
+of error, like the the notion of the
+notion of loss, is what is the what is
+the loss that is that's happens on
+average, right? With respect to the my
+data distribution.
+Right? So, this is what we call the the
+population loss or like the test error.
+Okay? So, given a hypothesis F,
+R of F is telling us, if we just read
+through this equation, is telling us on
+average with respect to the data, like
+the the expectation with respect to the
+data, this is this expectation, what is
+the agreement between the true function
+and the function that my model has
+produced, right? This is F.
+Okay? So, this is an object that is
+completely deterministic, right? There's
+a you know, it's a there's no randomness
+here, but of course it's an object it's
+a quantity that we cannot measure,
+right? Because in general, we do not
+have access to the to this object. We
+don't have access to the population
+distribution, and of course we don't
+have access to the function that we are
+trying to learn, right? Otherwise, there
+would be no point in trying to solve the
+problem.
+So, we resort to a kind of an empirical
+version of this loss, which is the
+empirical loss or also of course the
+training error.
+Training error, training loss. Okay? I
+guess all of these things, I guess you
+are familiar with them, but uh
+just to so that we can agree on the
+language, right? So, this is a
+the it's a function that is random,
+right? In that case, this is a random
+function.
+Right? And this is deterministic.
+Okay? So, the random this random
+function is an average over the data the
+the the the available data the observed
+data points of the basically it's the
+just replacing the expectation by the
+empirical expectation.
+Okay?
+And so, you might ask, "Okay, what is
+the How are these two functions related
+to each other?"
+Well, they have an obvious relationship,
+right? Is that for any fixed hypothesis,
+if I think about the now
+what if I fix the func- the function F,
+right? Uh I have here a number, so this
+is a number, right? And this is a random
+variable.
+Right?
+And so, uh it's easy to to see that if
+you look at the expectation of this
+random variable, right? So, the
+expectation of R hat
+is precisely R.
+Right? Because if I if I take a you
+know, uh
+you know, this is an average
+of random variables that are independent
+IID, and each of them its expectation is
+by definition R R of F.
+All right?
+So, we can compute easily for a fixed
+hypothesis F, we can easily compute the
+first moment, which is the function that
+we care about, and the second moment,
+right? So, what it means is that if we
+think now if I try to to visualize this
+loss functions, right? Maybe I have this
+function R that does something like
+this,
+right? And so, now the the the so, this
+would be the test error. Now, if I think
+about the training error, well, if I fix
+any point, so this is my space of
+functions, right? So, this is space
+space of F. So, if I fix any function
+here, well, this looks like a random
+variable that is has expectation here,
+right? So, maybe at every point I have
+some uh
+you know, some kind of like notion of
+function that the in the training set
+does something like this.
+Okay? Obviously, this is a illustration,
+right? That doesn't um
+doesn't do justice, right? I mean, this
+is just a thing that I I did as a
+sketch.
+But
+um
+the problem Well, the question is
+uh
+you know, uh we would
+obviously the function the thing that we
+care about in in practice in machine
+learning is to find a F such that the
+test error the population loss is small.
+That's obviously what we want, right? We
+want to try to get as close as possible
+from F star.
+The problem of course is that we can
+only access the the only proxy that we
+can use uh is the empirical loss, right?
+So, the intuition here is that the
+closer these two functions are to each
+other, the better my chances are of
+solving the problem, right? It's like
+this is really I'm just repeating a you
+know, the
+obviously the intuition that you all
+have that if I have an algorithm that
+makes that minimizes the training error,
+you expect the test error to also be
+minimized.
+Okay?
+And for this is important if I want to
+quantify
+if I want to try to give some
+guarantees, to understand, okay, but how
+far are these two functions?
+So, here, if I fix a point, right? For
+any fixed point, I can you know, the by
+just applying basic
+uh statistics, right? The fact that this
+this this is an average here of
+independent and independent random
+variables, I know that the variance,
+right? Is of the order one over n,
+right? Because uh if I look at the
+variance of an average of n IID random
+variables, as you know, the standard
+deviations is divided by one over square
+root of n, right? Like the squared like
+the variance the second moment is of the
+is divided by n.
+But here there's a little problem,
+right? And I I probably
+you know, some of you might have already
+spotted, right? That here I'm I'm doing
+a very kind of I'm I'm I'm trying to do
+like a shortcut, right? I'm I'm trying
+to to pretend that the problem is very
+easy. I'm computing the variance when I
+fix the function F, right? When I fix
+the hypothesis.
+So, if if of these these arguments about
+uh you know, computing these these
+fluctuations of these functions, right?
+They
+the same the the underlying assumption,
+right? Is that the function F is chosen
+independent of the data, right? You just
+fix the data fix the function F and look
+at what the fluctuations like this.
+Of course, the algorithm, right? The I
+mean, in in our in practice, we don't
+want to do that, right? In practice,
+we
+we want to adjust the function F
+depending on the data.
+Okay? So, we are not interested I mean,
+what we need is not understanding what
+is the fluctuation that I have for a
+fixed hypothesis, we want something
+stronger. We want to be able to control
+the difference between these two
+functions
+essentially for any choice of F that we
+can make that we can possibly make.
+And this is what's called a uniform
+bound, right? Instead of having a
+pointwise bound that basically just
+looking at the basically the variance of
+a random variable, I need to compute
+what is the worst fluctuation, right?
+What is the what is the worst deviation
+between R and R hat over a certain
+classes of hypotheses, right? This is
+what's called a uniform bound.
+And probably you have
+is one such class of uniform
+concentration.
+All right, this is the error metric.
+Okay.
+So, now we are we can now discuss about
+the algorithm. And again, here for
+algorithm, it's kind of a algorithm
+taken in the theoretical sense, right?
+It's kind of a meta algorithm. It's kind
+of a a principle, right? So, what what
+is what is the principle for learning
+uh in the case of supervised learning?
+Well, as I said, our goal is to minimize
+the risk,
+but we only have access to the kind of
+the the
+kind of a random like a an approximation
+of R that is random, right? That is this
+training loss.
+So, in order to succeed and to have this
+hope that optimizing the training error
+is going to get us something close to
+the test error, to minimize the test
+error, we need to have some control. We
+need to instead of trying to look at
+these fluctuations uniformly over over
+all possible hypotheses, we can say that
+we we need to consider a ball.
+Right? We need to use in a sense in a
+sense like a like a notion of like a
+limited set of hypotheses.
+And here for this, how do we construct
+how do we limit the size of the
+hypothesis set? Well, we just use the
+notion of complexity that I described
+before, right?
+So, we are going to focus our attention
+to the hypotheses in our class, right?
+So, we are going to look at the
+hypotheses in our class, but only those
+that have small complexity, right? So,
+we have one hyperparameter here that is
+delta, right? That is kind of the radius
+of
+uh you know, this like large space of
+hypotheses, it would be the the you
+know, the the maximum size
+uh of like the complexity set, right?
+So, in the case of neural networks, for
+example, you could say, well, I'm only
+going to try to look for neural networks
+whose, you know, whose norm like where
+the norm of the parameters is not larger
+than, let's say, 1,000. Right? That
+would be an example of controlling the
+size of the of your set. Right? And then
+by by choosing the maximum allowed norm,
+you are you can make your hypothesis
+class smaller or bigger.
+Okay?
+And so, once this is established, now
+there's a very natural algorithm, right?
+Which is, well,
+I'm going to consider an estimator,
+right? F hat
+of delta,
+which is, well, amongst all the
+hypotheses that have small complexity,
+I'm going to choose the one that has the
+smallest training error.
+Right? That's what's called empirical
+risk minimization.
+Right? I hope that this is an intuitive
+algorithm. Right? It's essentially the
+algorithm that any reasonable person
+would choose. Right? It's like, okay,
+uh I'm going to I don't want to have I
+don't want to have to deal with
+potentially very, very large fluctuation
+between train and train and test, so I'm
+going to just look for small like a like
+a reduced set of hypotheses, and amongst
+those, I want to, of course, choose the
+one that best fits the data.
+Okay? Because here, remember, we are
+making this assumption that there's no
+noise. I mean, the data here, the labels
+are completely clean.
+And so, this problem I I stated to you
+in what we call the constrained form,
+right? Because we are trying to solve a
+constrained optimization problem. Right?
+The constraint is that our family of a
+function F is in this ball.
+Or
+as you know,
+uh constrained optimization is a kind of
+a
+close cousin of uh penalized like I we
+can we can transform constrained
+optimization problems to unconstrained
+optimization problems through what's
+called the Lagrange multipliers. Right?
+And so, we can introduce a penalty here,
+right? Or like a regularization, if you
+want,
+where we add the complexity into the
+loss. Right? So, now our new test
+objective is the the empirical loss that
+we had before plus a regularization
+term.
+Okay?
+And so, before in this problem,
+we had this hyper we had a single
+hyperparameter, which is delta. Right?
+It's a scalar.
+And here now we have another
+hyperparameter that is lambda, right?
+Which is the size of the the strength of
+the regularization. And these two
+parameters are in correspondence. Right?
+So, so
+in one-to-one correspondence.
+There's another uh naturally related uh
+regime of uh ERM, which is what we call
+the interpolation form.
+Okay? And this is a uh popular in you
+know, in neural networks, uh
+in in particular in the regime where
+they have a lot of parameters. And this
+is really the problem this is really the
+the regime say, okay, I'm going to
+if I have a neural network that has a
+lot of parameters, maybe I have enough
+capacity, right? I have enough
+expressivity to ex-
+plain all the data that you're getting.
+Right? I can fit all the data points.
+So, and maybe and you might you might
+you might see you might argue that,
+okay, but there's not a single neural
+network that can explain the data,
+there's many, many possible choices of
+parameters that explains the data.
+Right? Like this is the classical
+example where um
+let's say,
+here in 1D, let's I have a bunch of
+points, right? This is my points, let's
+say.
+And imagine that your hypothesis class
+is polynomials.
+Okay?
+Just to say something. So, maybe there's
+this,
+you know, this function explains the
+data, right? And this function
+also explains the data. Right? This is
+the the classical
+example that everyone shows. Right?
+So, amongst all the polynomials that
+that pass through the points, what does
+this ERM tell us? You have to choose the
+one that has smaller complexity. For
+example, here would be the one that has
+smallest degree.
+Okay?
+I mean, this to me looks like a
+reasonable algorithm. I don't know if if
+for you also it's the same. Right? For
+me, this is makes a lot of sense.
+All right.
+So, what can we say about this
+algorithm? I mean, is there
+uh how do we argue how do we uh start,
+analyzing the behavior, like the
+properties of this
+uh ERM?
+Okay.
+So, let's do it.
+So, first we consider an arbitrary uh
+hypothesis class, right? So, this is all
+very, very abstract and very general,
+where uh and I'm considering the ERM
+like this empirical risk minimization uh
+using a ball. And I'm just using the
+constrained form for simplicity. All
+right? So, I have a I have chosen some
+amount of some some, you know,
+size of the complexity, and I find the
+solution, the hypothesis that is in that
+set.
+Okay?
+So, now I want to compare I want to see
+how good is this hypothesis. Right? So,
+how good is this hypothesis in terms of
+what I care about, which is the the
+risk, the the true risk, like the test
+error.
+So, what I can do is I can compare it
+with the baseline. Right? So, and given,
+you know, our choice, let's do it with
+the best of the best. Right? So, here
+I'm saying, okay, if you were God,
+right? And you were given this function
+R, and you could really look for all all
+all the possible hypotheses in the world
+that were in your, you know, in your
+universe,
+right? What is how worse do you do
+versus this kind of omnipotent learner?
+Well, so the first thing that we can do,
+right? Is that
+we Now, the goal is really to try to
+understand this error. Right? Like to to
+try to break this this error into things
+that we can interpret and that we can
+analyze.
+So, first is that
+um
+the first thing to observe, right? Is
+that this hypothesis F hat
+it it depends it it involves a certain
+delta, right? It depends on this
+quantity number.
+Right? So, what first we would like to
+do is to exhibit this parameter that is
+important in our problem.
+Right? This delta.
+So, the natural thing that we can do is
+instead of looking at the infimum over
+all the possible class F, we can add and
+subtract the infimum over all the
+hypotheses, but now restricted to have
+complexity delta.
+Right? That's
+that's the first step that we did here.
+Right? So, what we have said, like the
+in this step, we have just added and
+subtracted this term. Right? So, the
+equality is legit.
+Okay? So, now I can think about this
+this uh
+regret, if you want, or this like this
+gap
+as the sum of two terms, right?
+Um
+And two terms The two terms are
+non-negative.
+Right? So, here we have a term that is
+the difference between
+the best I could do
+uh you know, unconditionally,
+uh with the best I could do when I
+restrict the complexity to be delta.
+Right? That's the green that's the red
+term.
+And then I have the other one, which is
+the difference within population between
+my hypothesis F and the best hypothesis
+I could I could have taken a posteriori
+if I had access to the population
+distribution. Right? To the to the true
+function R.
+All right?
+Okay, but this is still, of course, uh
+something that I cannot, you know, the
+the the
+it still is a a little bit
+you know, the the first term is
+something that we we don't really
+understand. So, let's try to decompose.
+So, there's another thing that, of
+course, uh involves F hat. Right? So,
+remember that F hat
+is something that I have obtained by
+looking at the by looking at the at the
+empirical All right. So, now let's do
+one As I was saying, for the for the
+algorithm, right? Remember that the
+algorithm is only looking at the
+empirical at the training loss. Right?
+So, maybe we want to think about how we
+can now,
+you know, introduce the training
+objective in this equation.
+So, we can do just do exactly the same
+trick as before, we can add and subtract
+terms that depend on the empirical loss.
+Right? So, that would be the next. Okay?
+So, now we are, you know, instead of
+using R, we we use R hat. And of course,
+every time I do a change, I need to make
+sure that I, you know, that I remove it.
+Right? So, here I added
+and here I I subtracted.
+Here I added this new term,
+and here I, you know, I I put it again
+with a with a different with the
+opposite sign. Right? So, this is this
+is still true.
+Right? And so, now we have something
+quite interesting, because now we have
+something that we can analyze. Right?
+What is this green term?
+So, the green term is measuring what? Is
+measuring what is the training error of
+my of my hypothesis of my F hat
+minus
+uh hypothesis like the, you know, like
+the the minimizer of the training loss.
+Now, this is R hat here, right? So, here
+we have R hat over the the, you know,
+the the hypothesis space restricted to
+have uh
+ball delta.
+So, if you remember from the previous
+slide, right? How we how did we define
+the ERM? Right? So, if we if we had used
+if we could use the actual solution of
+the ERM, this term would be what?
+This term would be
+Just if you remember the ERM, right? The
+ERM is saying, okay, I'm going to choose
+a hypothesis, the solution that
+minimizes the empirical loss over the
+ball."
+So, this is exactly what you have here,
+right? So, this thing would be zero,
+right? If we were using
+the ERM, right?
+All right.
+So, the the red term here is exactly the
+term that we have here, right? So, these
+are This is just definition. And now we
+have
+basically the price that we pay, like
+the you know, the the fluctuation,
+right? Between the training error and
+the test error. Sorry, between the Yeah,
+between the the training loss and the
+population. Right? So, we have a
+difference between R of F hat and R hat
+of F hat.
+And here we have the difference between
+the two infimums.
+And so,
+we can now control these fluctuations,
+right? We can just uh um
+because now everything is measured
+in the ball, right? We can upper bound
+the sum of these two terms
+by just two times the largest possible
+fluctuation between the two functions.
+All right?
+And so,
+now we have something where we have
+really,
+you know, isolated or identified the
+sources of error, right? Because really
+now this is a term
+that we call
+the blue term, is what we call the
+statistical error, right? So, the
+statistical error
+is the term that depends
+on how good is our proxy, right? So, how
+you know, how close is the training loss
+to the to the test loss in the sense of
+in the uniform sense, right? The we
+measure the how how close are these two
+functions with a uniform ball,
+and then we have an error that depends
+on how good
+our hypothesis space approximates the
+true function.
+And then we have another another error,
+like that is the green one, which
+measures how good we are at optimizing
+at solving the optimization problem.
+Okay, which is something that measures
+how good, you know, how
+how much So, what is the difference
+between
+the empirical loss of our function and
+the best empirical loss in our in our
+set.
+Okay, that's it.
+Um is it clear? Is this the composition
+of error clear?
+Okay, like the the punchline here is
+that when we analyze the you know, the
+the generalization error, like the
+performance of a machine learning
+algorithm, the error that we make
+is always a combination of the three
+errors, right? There's one that comes
+from the amount from the approximation
+side, like the expressivity of the
+model.
+There's another one that comes from the
+statistics, which is again something
+that you can control with its uniform
+fluctuations. And then there's another
+source of error that comes from the
+optimization side.
+Right?
+Okay, I can also We can now, you know,
+just uh make sure that we understand by
+having a little diagram, little picture.
+Okay, that's something that I myself I I
+like sometimes to just be view things.
+So, here's a you know, here's a
+function, right? It's the loss. So,
+these circles, you think about these as
+some kind of level sets of a function,
+right? Like of this loss.
+And so, here in the bottom of this uh
+landscape, this is the F star, which is
+the best, right? Like the function that
+minimizes the population error. All
+right, it's like the best of the best.
+So, this function, the blue function, we
+don't know, right? It's a it's a
+unknown.
+So, what we have is another function,
+that the one that the algorithm sees,
+which is the empirical loss, like the
+training loss.
+So, I told you that these two functions
+are, you know, are supposed to be close
+to each other, but they're not the same,
+right? And here in for these purposes of
+illustration, I just put them, you know,
+like the level sets are different,
+right?
+So, instead of looking at this landscape
+in the overall space, remember that we
+said is that we just look at this
+landscape in a ball,
+right? That's what the algorithm is
+going to is just going to focus all its
+efforts in a subset of functions, right?
+Which are these ball, right? This
+hypothesis class.
+And so, now we are what we're going to
+do is what is what does the algorithm
+do? Okay, so the algorithm in the ERM,
+we are going to say, "Okay, in the in
+the yellow ball, I want to find a
+function
+whose
+you know, whose empirical loss is the
+lowest possible."
+Okay, so naturally, what we do is we
+pick this point, right? Which is kind of
+like
+laying at the at the level set, like the
+the you know, the smallest level set
+that is touching the yellow ball.
+Okay, this one here.
+Um so, I was just uh
+trying to illustrate um
+kind of ju- you know, visually
+uh this decomposition of error. Let me
+just maybe for the sake of a refreshing
+you know where we started.
+So, that's the population error, right?
+That's the kind of the the true the true
+game, right? Of trying to get as close
+as we can from the bottom of this well.
+Um we are going to the only way we have
+it is to go, you know, to go downhill in
+the following the kind of the the
+magenta level set, right? Which are kind
+of the the training loss.
+And we are only going to, you know,
+because we can only control the
+fluctuation between the train error and
+the test error over a kind of a small
+size of hypothesis,
+we can just restrict our attention to
+what happens in the blue in the blue
+ball. And so, in the blue ball, the you
+know, our best estimator is going to be
+here, right? Just at the intersection,
+right? Of the of the ball of the ball
+with the with the level set of smallest
+loss, right? For the training.
+And so, uh we would like to to
+understand how far, right? Is the risk
+between these two functions between
+these two points. Okay?
+And so, the decomposition of error, what
+it tries to do is to to express, to
+break, to to control this error, to
+upper bound this error with basically
+two sources of error, right? Like just
+assuming that here we have been able to
+optimize the ERM, right? It's just
+breaking it into terms, right? And the
+two terms visually
+are now easy to see because they depend
+on this green point, which is what would
+be the best test error
+uh
+in your uh ball, right? And so, you
+know, as you can see, now if you change
+the size of this ball, right? There's
+there will be one
+error that is going to become bigger,
+right? And one error that is going to
+become smaller, right? And obviously, if
+I increase the radius of the ball, the
+approximation error is going to
+decrease, right? Because you know, I'm
+going to get closer and closer to the
+star,
+but of course, I need to compute
+fluctuations over a set that is bigger
+and bigger, right? So, the fluctuations
+are going to increase. The statistical
+error might increase.
+On the other hand, of course, if the
+ball becomes shrinks and shrinks, the
+approximation error will grow and the
+statistical error will uh
+uh will decrease.
+I guess this is like intuitive at this
+point.
+All right. So,
+the the the bo- the bottom line here is
+that when now we think about problems in
+high dimensions, right? Where the input
+space has a lot of is is very large,
+like for example, images or you know,
+very complicated data,
+it's actually quite it's actually a big
+challenge to control all the errors at
+the same time, right? And this is what
+what I called kind of what we call here
+the challenge of high-dimensional
+learning. Okay?
+And so,
+um
+in the
+in uh in high dimensions,
+uh in the first challenge is how can we
+control this approximation error, right?
+So, we need to for example, think about
+constructing spaces of hypotheses that
+have a lot of expressivity, right? That
+can approximate
+complicated functions that live in high
+dimensions, right? And that's
+not easy, right? That's We're going to
+see that that's not easy.
+The statistical error, right? Like doing
+the I mean, controlling the
+approximation error alone
+in the is easy, right? Sorry, uh so,
+approximating like making either of
+these errors small is easy.
+What is hard is making all the errors
+small at the same time.
+Okay?
+Um
+So, the statistical error, as I said,
+it's something that
+we can control using basically the using
+the theory of uh uniform fluctuation,
+right? These concentration bounds that
+really uh
+uh give us a very tight result that are
+non-asymptotic, right? That really work
+for any size of the training set.
+And finally,
+uh the optimization error, right? Is
+something that we also need to We cannot
+forget, right? The the there can be
+situations where we have a good
+theoretical understanding on how to make
+the blue error and the red error small,
+but we have no algorithm to find the
+solution, right? Then in that sense, we
+have a bound that is kind of useless,
+right? Because we it doesn't explain the
+reality, right? It's not something that
+we can we can execute efficiently with a
+computer,
+right? So, it's all the challenge is
+really about how can we make uh how can
+we understand
+at the same time, simultaneously, how to
+make these errors small at the same
+time.
+Okay, that's the challenge of
+high-dimensional learning.
+And this challenge is by, you know, by
+all measures, still open, right? There's
+there's really no closed theory
+for how to do that with neural networks.
+Okay?
+Good.
+And so, why is the why is this problem
+hard in high dimensions?
+Uh
+well, the reason, or like one of the
+sources of like diagnostic for why is
+this hard, is really not something new,
+right? It's not specific to neural
+networks.
+In fact, there's many situ- in many
+situations in science when we increase
+the size of the input of the problem,
+things might kind of fail, like it might
+you know like blow up, right? And and
+and this is really coined, you know,
+very naturally very very
+you know, famously by Bellman in what he
+what he called the curse of
+dimensionality, right? In his context it
+was in the context of dynamic
+programming, right? Like some algorithms
+have like with dimension.
+But this phenomenon now is very
+pervasive, right? It's pervasive in in
+statistics, in optimization, in
+approximation, right? In all the areas
+in particular that are connected with
+machine learning.
+And so
+maybe one and one way to to motivate and
+to illustrate this principle, like this
+curse of dimensionality is really to
+relate back to like you know basic
+principle for learning, right? Which is
+something that I think we we can all
+relate. Right? So the
+basic idea like of why you know a
+machine learning would succeed, like why
+on earth if I know the value of the
+function at certain points I will be
+able to know know the value of the
+function everywhere else.
+It really it's really sitting on the
+property, right? Like look at these
+pictures, right? I mean you you you see
+here there's a you know, there's a
+orange dots and gray dots, right? We can
+all try to we can all figure out infer
+that maybe there's a line, right? I know
+these dots are really generated by
+something that you know, passes through
+these points. Right? And here the same
+thing, right? Maybe we would not all
+have drawn the same curve exactly, but
+something that basically essentially is
+the same object, right?
+And the reason why we are able to do
+that reliably and without much you know,
+you know, without being too worried
+about oh whether my model will
+generalize or not
+is because it's really the proximity,
+right? We are you know, like the
+empirical density, right? The
+the sampling the sampling of the dots is
+not too far, right? From basically if I
+know the value of the function at these
+points, I can extend it naturally by no
+by notion of proximity, right? Any point
+that is sufficiently close to my point,
+right? My training point, I can just
+propagate the value of the function,
+right? So this is really a kind of one
+of the cornerstones of machine learning
+methods, right? Most like you know, that
+use classical idea, right? This is like
+kind of a local methods like nearest
+neighbor or kernel methods, right?
+They're all based on these notions of
+similarity.
+So the problem of course is that what
+happens with this principle as we go to
+higher high dimension, right? If I start
+to give you these points instead of in
+dimension two in dimension 200, right?
+Can we still argue the same way?
+Well, that's the problem, right? That's
+that's the and this is you know, like
+the the way this
+example works, right? Is that the only
+assumption that makes these curves work,
+right? It's really like that the
+function that I'm trying to learn is a
+little bit continuous, right? Has a
+little bit of smoothness, right? So that
+every point if I know the value of the
+function at one point, I can kind of
+inter- like extend it around in the
+neighborhood of the training points.
+So this is formalized by the by a notion
+of Lipschitzness, right? Like I want to
+say that my function is Lipschitz.
+What I'm saying is that if I if I want
+to know the value of the function at
+that certain point X
+and I know the value of the function at
+a certain point X prime
+right? To the extent that X and X prime
+are close
+you know, I can extend the function,
+right? Like I you know, approximating
+the value of the function, you know,
+I can you know, if if the if the X and X
+prime are close f of X is close to f of
+X prime, right? Which is a like a very
+natural notion of smoothness.
+Okay, so this is really a a pretty uh
+pretty natural assumption, right? That
+many many functions that you want to
+learn in life have this property, right?
+Is that you change the input a little
+bit, the output changes a little bit.
+Right?
+The question is can you learn functions
+in that class, right? In all generality,
+right? If you know, if we could just
+have an algorithm that would learn in
+that class, right?
+Kind of we would be essentially solving
+machine learning, right? Because this is
+a very very general assumption.
+Okay? So so to formalize it, let's
+assume that my target is a function that
+is one Lipschitz
+and I the data point like the input is
+drawn from let's say Gaussian
+distribution, right? In dimension
+And so the formula the question I'm that
+we are asking
+is
+how many samples do you think are needed
+if you want to estimate this function up
+to error epsilon, right? So I would like
+to predict this hypothesis, right? So I
+have a function I have a input of the
+problem would be X I and then F star of
+X I
+for a number of samples.
+Okay, so this this I pass it through
+some algorithm
+that produces some hypothesis F hat
+and what I want
+is that the expectation over this
+Gaussian data, right?
+of F
+of X
+minus F star of X
+is
+smaller
+up to a constant and epsilon.
+Right?
+So that's what we want.
+All right.
+So
+um
+what do you think?
+So here the parameters of the problem,
+right? There's there's basically there's
+two parameters of the problem, right?
+There's the dimension D
+right? This is the input dimension.
+There's the error epsilon.
+So this is this is the target error.
+And there's a number of data points.
+So the question really is how the how do
+these three parameters how are they
+related to each other?
+Right? And what do you think?
+Okay, so this is a
+um
+I was going to put this as an exercise,
+right? So
+perhaps what I can do is just give you
+like a little little like a little hint,
+right? And I will leave the you know,
+the rest of the of the argument for
+yourself, right? If you want to think
+about it think about it about this
+problem just to make sure that you know,
+the the concepts that we have been
+discussing so far are well understood.
+Okay, so the question really is that we
+want to understand you know, N
+how should N depend
+N depends
+on epsilon and D.
+Okay?
+So for the upper bound for the upper
+bound what I mean is that okay, let's
+first try to give an algorithm, right?
+Like a like a estimator
+that
+and let's try to you know, to give a
+like a to give a number of samples like
+that is even if it's very large that
+will certify that we can in fact learn
+this thing sufficiently.
+Okay, so what is a natural algorithm
+for um
+learning Lipschitz functions?
+Okay, so here
+maybe I can just give you kind of a as a
+hint, right? So let's assume that we
+have these points, right? That are our
+training points
+are drawn from this Gaussian
+distribution in dimension D.
+Right? So we know the value of the
+function at the points that I draw here.
+Right?
+And now
+I think I can change the color here.
+Doesn't matter.
+And now I have a new point, right? That
+is solid.
+Let's say here, right?
+So here I know X1, these are my training
+sets
+and here I have a new point X
+and I want to predict f of X.
+Okay, so
+what is my estimator?
+Right? What is my my what is the best
+function
+that I can use to analyze, right? So
+what I know, right? Is that my target is
+Lipschitz one.
+Okay?
+So
+what I can what I can first do is that
+well I know by I I know that uh
+you know, like trying to recap from
+before I need to think about complexity,
+right? I
+I need to think about the Lipschitz
+class also defining certain complexity.
+Here if you go back to the definition,
+right? What do you think is a reasonable
+notion of complexity for Lipschitz
+function?
+Someone I don't know if someone wants
+can answer.
+Class?
+Okay, I don't see you guys, but um
+well
+I assume that uh
+that you heard the question. So I think
+perhaps a natural notion of complexity
+for Lipschitz functions is this guy
+here, this constant here, right? If beta
+is very small
+it means that the function maybe you
+know, cannot change even less, right? So
+like the Lipschitz constant, right? Is a
+is a is in fact a natural notion of
+complexity for Lipschitz functions. In
+fact
+not quite exactly, but but essentially
+it's a norm, right? So you can you can
+essentially think about the Lipschitz
+constant as being the norm of the
+function. Right? You need to you know,
+to you need to add some some kind of
+like supremum of the function, but
+anyway, for us it's going to be good
+enough.
+Right? So, I could say I I could just
+think about this.
+I could define my estimator
+as the argmin
+right?
+The argmin of the Lipschitz constant
+such that
+f of xi
+equals to f star of xi.
+Right? For all i.
+So, here what I'm saying is that I'm Hi
+John, sorry for interrupting you.
+Yeah. Uh maybe because the class is not
+familiar with the Lipschitz function
+because they didn't take like
+optimization class yet. So, maybe if you
+could briefly talk about the Lipschitz
+function definition.
+Right. Right. So, here's the Okay, so
+here's the definition of a Lipschitz
+function. Right? So, a Lipschitz
+function, right? Is a function such that
+if I
+uh change the input a little bit, right?
+In the sense that the x minus x prime is
+small,
+then I can use this distance between the
+points in the input to bound the
+distance of the function values. Okay?
+So, let's try to think about an example
+of a function that is Lipschitz and then
+an example of a function that is not
+Lipschitz. Right? Just to make sure that
+we understand. Right? So, like a
+function of a Lipschitz function, right?
+So, for example, if I think about um
+Okay, just look at an example, f of x
+cosine
+of uh let's say omega times x. Right?
+So, do you think that this function has
+the Lipschitz property?
+In the sense that if I if x and x prime
+are very close,
+do f of x f of x and f of x prime are
+also very close. Right? So, we can just
+look at this. Right? f of x
+minus f of x prime.
+Okay, what do we think?
+We can apply We can do something, right?
+Here we can use
+uh I guess you have taken calculus,
+right? So, so we can use the fundamental
+theorem of calculus.
+Right? So, we can just think about this
+as the integral
+from x to x prime
+of the derivative of f.
+f prime of t dt.
+Yeah?
+And now we can put the absolute value
+inside.
+So, it's the integral between x and x
+prime
+of the absolute value of f prime of t
+dt.
+But now what is what is the absolute
+value
+of So, what is the derivative of f of x?
+Right? So, we know that f prime of
+x
+is just the omega minus omega sine of
+omega x. Right?
+So, what we have here is that this is
+actually uh
+controlled by omega, right?
+times
+uh the absolute value of sine. The
+absolute value of sine is always smaller
+than smaller or equal than one. Right?
+So, this is just equal
+This is just uh controlled by this times
+x minus x prime.
+Okay?
+So, this is an example of a function
+whose Lipschitz constant now is
+precisely this omega.
+Is it clear?
+This is an This is just uh Here of
+course I'm I'm using um
+you know
+maybe
+another way to think about it, right? Is
+that if I have a function
+whose uh derivative is bounded
+everywhere,
+the the bound of the derivative is
+actually a bound on the Lipschitz
+constant.
+Okay?
+Uh an example of a function that is not
+Lipschitz.
+Let's try to give an example of a
+function that is not Lipschitz.
+Well, that's not should not hard because
+I can just think about like a function
+like like a step function.
+Okay?
+So, you think about the step function,
+obviously this is not Lipschitz not
+Lipschitz, right? Because if I zoom in
+in what happens in in this
+discontinuity,
+you know, I can I can choose x and x
+prime that are very very very close,
+right? One is in one side of the
+discontinuity, the other one is in the
+other side, and so f of x minus f of x
+prime is always going to be one, right?
+Even though so the the you know, the
+left hand side is always one, and the
+left and the right hand side I can make
+it as small as I want. Right? So, that's
+an example where it's a function that is
+not Lipschitz.
+Is it clear?
+Well,
+I hope it's clear.
+Um
+All right.
+So, now I go back to our example, right?
+So, we want to
+uh
+So, we we want to we define this
+estimator, which is the function that
+has the smallest possible Lipschitz
+constant that fits the data.
+Okay?
+And so,
+now we would like to understand
+uh So, then the question for you, right?
+Is to
+uh compute or like to have a sense of
+what is this error?
+Right? So, is this function any good
+to approximate
+what I want. Right? So, um
+I will um
+uh let you think about it and uh
+tomorrow or you know, we can of course
+uh iterate on these um
+uh
+on this question uh just to see uh how
+are you how are you
+So, to see where where you are all
+right. Right? But the point is that here
+we are trying to define them.
+Uh we are just we don't care about the
+So, here we are interested in the upper
+bound. Right? So, we are just uh trying
+to build an algorithm that is going to
+guarantee to succeed provided that n,
+the number of training points, is
+sufficiently large. Right? And we are
+just going to give
+some upper bound on the number of n for
+which this is works this works.
+But once you have found this result,
+you might ask a question, okay,
+uh but is the number of data points that
+I found here uh
+the best I can do. Right? So, so do I
+need as many data points? Maybe I maybe
+I haven't been smart enough, and maybe I
+could have found a better algorithm,
+right? A better solution than this one
+that would have worked with smaller
+number of points.
+That's the lower bound.
+And here I'm going to also give you a a
+hint, right? On on on on how to think
+about the lower bound.
+Uh and I will also let you develop it.
+Right? And let's let's try to think
+about this
+right?
+So, here what we are going to do
+is that we are going to build
+a target function, okay? One specific
+target function
+that is going to be Lipschitz
+and where I claim that unless you have a
+number of data points that is
+exponentially large in dimension,
+you cannot learn.
+Okay?
+So, here's the idea.
+The idea is that I'm going to take my
+inputs.
+Think about the input space. So, this is
+the space in dimension d. Right? So,
+this is Rd.
+So, think about Rd, right? And now think
+about all the possible
+orthants of the d-dimensional Euclidean
+space. Right? So, basically what I have
+is I can think about all the points
+of the form
+um
+Think about all the points of the form
+z1 to zd
+with zi that are
+plus or minus one.
+Okay?
+So, basically these are the kind of the
+corners
+of um
+kind of a hypercube. Right? So, um
+Okay, so in dimension three, that I'm
+drawing here, I have eight corners.
+But of course in dimension d,
+how many corners do I have? Right? So,
+this is the
+Let's look at this. Let's call it hd.
+Okay, so obviously the number of points
+in this hypercube
+is going to be
+But you think about it, right? So, we
+have you know, every coordinate is one
+bit. It's two choices, right? So, I have
+two times two times two times two d
+times. So, I have two to the d
+points.
+Right?
+And so,
+for every one of these points,
+right?
+Uh now I'm going to build a function
+that is going to be uh
+basically a a linear combination of
+bumps. Right? So, I'm going to build a
+function f
+star of x
+that is going to be
+a sum from all the points that are in
+the in the hyperplane, right? So, in
+this hypercube.
+And I'm going to choose
+some coefficient that is like I can I
+call z
+cg, right? That this is going to be
+also plus or minus one
+times a little bump
+centered at the point.
+So, some uh
+I wish I could erase. Uh I don't know
+how to erase with this.
+Well,
+uh let me just
+Okay?
+So,
+uh what I'm drawing here is that I have
+a I have a a little function, right?
+That is kind of a bump, right?
+But I can I can I can place
+uh around each of the corners of this
+hypercube
+and I can choose the sign. Right? So,
+maybe I maybe in in this point I put it
+upwards, in this point I put it
+downwards, in this point I put it
+upwards. Right?
+You see what I mean, right? So, I have a
+basically a
+kind of a spin system, right? So, I have
+two to the D possible locations and for
+every location I can just choose up or
+down.
+Okay?
+So, what I can do is that you can build
+so, fact
+we can build
+a star
+such that
+it is
+Lipschitz one.
+Okay?
+So, here I have a target function that
+has this this possible form.
+Okay?
+So, now that the question for you
+is you need to show
+that
+to learn that in order
+to learn F
+such that
+in expectation
+for the data
+F hat of X minus F star
+of X
+is let's say let's say that it's this
+this needs to be smaller
+than
+1/2, right? So, if I if I just want to
+make sure
+that I do an error that is kind of a
+fraction of the energy
+we need
+N to be bigger
+than
+some constant
+times two to the
+Okay?
+That's the exercise. Maybe question or
+just
+Is the exercise clear? Right? So, here I
+gave you
+kind of I gave you the construction,
+right? This is the class of functions
+that are going to be like you know, like
+a local bumps
+and then every at every you know, at
+every corner of this hypercube I can
+choose the sign of the bump.
+Right?
+So, what I what I'm claiming is that
+if I want to learn this function with
+error that is non you know, that is a
+small, I need to observe a number of
+points that is exponential in dimension.
+Right?
+And again, if
+happy to follow up on this question
+after you have given some thought about
+it.
+Right?
+Good.
+Okay.
+Now, let me also let me briefly
+tell you
+that this curse of dimensionality,
+right? That here in in the previous
+example, this curse kind of related the
+number of points that we need to observe
+of the function if we want to learn it.
+Right? So, you kind of
+it's a statistical curse, right? It's a
+something that depends on how many
+observations that we need.
+The curse also manifests itself in
+approximation, right? Like the
+approximation error is also going to is
+also going to be affected by the curse
+of dimensionality.
+And so,
+an example like the the prime example of
+this curse of dimensionality in
+approximation already appears with
+neural networks that are the simplest
+ones, right? Which are neural networks
+that have a single hidden layer.
+Okay?
+So, so then the neural network it
+defines a function that is this sum over
+the neurons and every neuron, right? As
+as you see here, every neuron has some
+input weights
+has a bias
+and then an output weight, right? That's
+a neuron. You know, this neuron has
+parameterized by this kind of three
+three num three parameters and then the
+the function is just the sum, right? For
+all these
+number of neurons in the in the hidden
+layer
+that produce the output.
+So,
+there's very different ways to measure
+the complexity in this class.
+One example would be well, the width,
+right? This is the width of the network.
+And the other one is
+you know, like variants of these are
+given for example by the path norm,
+right? Which is
+if you're familiar with that weight
+decay, that's the same thing, right?
+It's it's the weight decay
+like the sum, you know, it's like the
+sum of the norms, right? Of the weight
+of the weights,
+you know, parameterizing them properly.
+It doesn't matter for now.
+So, we know that the class of neural
+networks, right? Even in this shallow
+sense
+if we make the width very very large,
+right? If we make the the width as large
+as as we want
+in fact, we can approximate anything
+with that.
+Right?
+This is what's
+you know, captured by what's called
+universal approximation theorem, right?
+And these are
+in a sense these are
+old, right? Like these were developed in
+the '80s and the '90s.
+Okay?
+And so, what the the way these theorems
+go is as follows. It says, "Okay, if my
+activation function wall is not a
+polynomial
+then if I have a
+sufficiently large width, I can
+approximate any continued function."
+This again is one of these results
+that
+potentially are not mean I mean they are
+not telling us anything about whether
+our algorithm is going to work or not.
+Right?
+What we need to understand is again the
+rates, right? So, how do how do the
+parameters of the problem relate to each
+other? In particular, when they involve
+the dimension, right? So, how do the
+parameters of the problem depend on the
+dimension of the data?
+And so,
+when we look at the rates, the situation
+again is is very bad, right?
+Because what we see is that if we take
+target functions that have a little bit
+of regularity, let's say that my target
+is a function that has Sobolev has S
+derivatives.
+Okay?
+So, if the function has S derivatives
+then the number of neurons I need to
+approximate it well
+is going to depend, right? Like the
+error is going to depend basically of
+something that is
+um
+the rate is going to decay very very
+slowly here, right? Like the error is
+going to grow is going to decay at the
+width to the minus S over D.
+Okay?
+So, what does it mean?
+It means
+that if I want to make the error
+twice as small
+how much wider do I need to make my net?
+Okay? So, if I want to reduce my error
+by two
+what do I need to So, basically here
+what I'm saying is that epsilon, right?
+Is M
+to the minus S
+over D.
+Right?
+So, if I want to if I invert this
+equation, right? So, M
+is of the order of
+epsilon
+to the minus
+um
+D over S.
+Okay?
+And so, what we see here, right?
+Is that if I want to reduce my error by
+two
+I need to multiply the number I need to
+to augment the width by a factor that is
+two to the D over S.
+Okay? So, the S
+is the number of derivative of my
+function.
+Typically
+you know, in in any practical
+application, okay, S might be one, two,
+three, four.
+Right?
+And D might be
+I don't know, 1 million, 2 million.
+Okay? So, D over S is very large, you
+know, certainly larger than 100.
+So, you can see that this is this is
+completely cursed, right? If I want to
+keep the same approximation error,
+right? As I increase the size of the
+input,
+it's not going to work, right? I need to
+grow my network needs to grow
+exponentially, more than anything that
+can scale, right? It cannot scale like
+that.
+Um
+there's a certain maybe these are this
+hypothesis of having S derivatives is
+too you know, is too optimistic, right?
+There's okay, maybe this space is very
+hard to approximate. Indeed, there's a
+there's a another regular notion of
+regularity that is more tailored to the
+shallow neural networks, which is called
+the Barron class, right? And this is a
+it's a it's a it's another notion of
+regularity that
+just to you know, I don't want to go
+into the details, but rather than having
+something that you know, looks at the
+some kind of like L2 norm like
+regularities of the function, this is
+basically saying that the function
+can only needs only to be smooth along
+certain directions, right? Doesn't need
+to be smooth in all directions of the
+space.
+So, indeed in that sense, now we have no
+curse, right? So, like the approximating
+these functions with shallow neural
+networks is efficient, right? Like the
+number of neurons I need does not depend
+on dimension.
+But of course, remember there's no free
+lunch, right? That's the the first
+slide, right? So, if I make
+a hypothesis like a target space where
+neural networks have no curse, it
+basically means that it cannot
+approximate more things, right? So, this
+space in a sense is is a bit restricted.
+Is a is a
+is an assumption that is
+you know, this space is not sufficiently
+expressive in general, right? Like
+shallow neural networks in general are
+not sufficiently expressive, right? In
+the sense in this sense, right? In the
+sense that the that the the width that I
+need to approximate it is going to be is
+going to be sufficient is going to be in
+general very large, exponentially large
+in dimension.
+All right?
+Okay. I'm almost done.
+We also want to discuss about
+you know what what can go wrong
+when dimension increases now in
+optimization.
+Okay, when we when we need to think of
+just about the problem of optimizing a
+function.
+So if I give you this function here,
+this landscape on the picture of the
+law, right? And I ask you to find the
+global minimum of this function.
+Well, obviously
+if you look at it like this,
+there's no not obvious at all that
+following the gradient is going to give
+you anything good, right? Because
+there's so many you know, there's so
+many places where this thing could get
+stuck, right? There's many many places
+where there you know, where the gradient
+where the law where the minima is bad
+like a local minima are are
+bad, so
+in general if I want to if you want to
+give me some guarantee that you can that
+you have found a global optimum,
+basically you need to look through all
+the points, right? You need to what we
+call grid the space. You need to
+you know, give me the take the input
+domain and discretize it somehow, right?
+And try to visit all the points in this
+discretization and then evaluate the
+function in all these points and give me
+the minimum, right?
+So again,
+this as you can see is not going to
+scale very well because if I want to
+grid a ball of dimension D,
+right?
+With a you know, with a spacing that is
+you know, as small as I want, right?
+How many points do I need?
+Right? This is the same question that we
+had before. Right? So we have a point in
+the sphere, let's say.
+And we want the spacing to be let's say
+epsilon.
+Right?
+So the number of points I need to read
+the domain, I mean you we can actually
+do it better with a cube, right? So if
+we we think about the cube or like a you
+know, in dimension two, this is you
+know, this is like a
+this is one and the spacing is epsilon,
+right? So here I need one over epsilon
+squared
+and in general I need epsilon to the
+minus D, right? To cover right? So the
+number of points I need is exponential
+in dimension.
+So this problem is very hard
+in general.
+But how can we overcome this curse of
+optimization in optimization? Well, it's
+because you know, maybe this example I
+give you here in this picture
+is a
+is not a practical it's not the scenario
+it's not the optimization landscape
+that we encounter in practice, right?
+Maybe what we encounter in practice is
+this closer to this thing here, like a
+kind of a landscape more like coming
+from nature, right? And these
+landscapes, well, as you can probably
+see, right? If I just let something fall
+down like water,
+well, I mean water is going to you know,
+eventually find itself down to the lake,
+right? And that's you know, maybe you
+can argue that there are not so many
+lakes, right? In a sense, local descent
+methods
+for a for a much you know, for a wide
+class of landscapes that even even
+though they are non-convex like this
+one,
+they might still give you give us good
+intuition, you know, it
+it might they might give us a good
+solution for many problems.
+Right? And this is what we call the
+problems that have no bad local minima,
+right? So all the local minima are
+global.
+And in fact,
+we know that gradient descent is
+actually a very efficient algorithm for
+this kind of landscapes, right? There's
+this very you know, sharp result for you
+know, developed through many many
+authors like culminated culminated by
+Shi Jin
+and others that basically says that I
+can find
+a
+basically a local like you know, I could
+I could find a minimizer of a function,
+right? Under certain smoothness
+assumption, the number of iterations
+that does not depend on dimension.
+Okay, so the the key takeaway from this
+slide, right?
+Is that when I think about optimizing
+certain classes of non-convex functions,
+gradient descent has no dependency on
+dimension, right? The same way that I
+told you before that if I want to you
+know, approximate functions in the
+Barron space, the number of neurons does
+not depend on dimension.
+And the same way that you know, if I
+want to like estimate certain classes of
+functions that are very small, then I
+also get I have no dependency on
+dimension, right? So the
+you know, like the punchline here is
+that
+for
+you know, for many problems that we care
+about in machine learning, there's no
+dependent you know, like the
+optimization side is
+in this context, right? Of course the
+this is this is a condition that is very
+strong, right? It's
+like the
+not always easy to verify,
+but when you have this property, right?
+Then you can efficiently find minimizers
+of functions even if you are in high
+dimensions.
+Okay, so like the summary as so far
+is that we have seen that
+you know, like making making the right
+assumptions like hypotheses about the
+target function is the key is the key,
+right? So if I think if I try to learn
+functions in the Lipschitz class,
+this is just too large, right? This
+example is like think about any function
+in high dimensions that I'm just
+assuming
+to be regular like local smoothness.
+That's too large in the sense that there
+are too many of such functions,
+right? There's no I will need too many
+samples to learn functions in that
+class.
+If I assume more stuff, for example I
+make assumptions that the function has
+many derivatives or the function has
+this like Barron property,
+then these things are too small, right?
+Like then the the thing that is kind of
+bothering me is no longer the
+statistical error, but is the
+approximation error, right? Is this idea
+that remember that we had these three
+sources of error and if you manage to
+make one sort of error small, well,
+suddenly there's the other one that is
+becoming becoming large, right? So
+for Lipschitz class, there's one that
+dominates, for Sobolev class, there's
+the other one that dominates.
+So of course that what the the point
+that we need to define more adaptive
+function spaces. We need to have some
+alternative to these choices.
+And how can we find this alternative?
+And this is where
+kind of the geometry of the problem,
+like the geometry like and then the
+whole you know, the whole course
+enters, right? This is where this is
+where where we kind of where we need
+to you know, in a sense zoom in and try
+to understand that we are not trying to
+solve just a arbitrary generic problem
+in high dimensions. The input space that
+I told you, right? This is the space of
+images, right? It's it's a high
+dimensional space,
+but in fact it's a high dimensional
+space with a lot of structure.
+Right? This every one of these images,
+right? You can think about it as an
+image as a point in RD where D is a
+number of pixels which is very large,
+but you can also think about an image,
+right? As a signal. Right? So we know
+that this every one of these images,
+right?
+Is itself a function
+whose domain is no longer very high
+dimensions, whose domain is the grid of
+the two dimensional grid, right?
+And so
+the the whole point, right? Is that by
+kind of opening the box like that, now
+we can access to a fine grain to you
+know, to a better like a more tailored
+notion of approximation. We can build
+new spaces of functions, right? That are
+again spaces of functions that have the
+same input, but they leverage the
+structure, the physical structure,
+right? That comes from the basically
+from the problem, right? Like in this
+physical structure, as we can see,
+can come from many many different
+sources, right? So this physical that
+the domain in which the data lives like
+the domain in which the signal is, so it
+can be the two dimensional grid for
+images, it could be maybe measurements,
+you know, over some sphere, for example
+or some like symmetric group if you
+think about like you know, lidar or like
+as people like doing self-driving cars,
+it could be
+you know, measurements that are that
+live in a certain graph, right? Where we
+have this permutation equivalence or it
+could be data that is measured towards
+these kind of geometric structures like
+you know, like meshes or manifolds.
+And so
+the the takeaways I can basically
+the motivation for the next lectures,
+right? Is really the fact is really the
+following, right? Is that what I
+presented today is a kind of a
+almost like a pessimistic view of
+learning in high dimensions, right? What
+what I showed what I tried to to
+motivate, right? Is that learning in
+high dimensions is a very tough problem
+and there's no free lunch, right? Like
+there's no you know, there's no hope
+that you can
+you know, that you can learn arbitrary
+functions in high dimensions.
+So it's all about coming up with the
+right assumptions, right? Like the right
+spaces of functions that are going to be
+relevant for us.
+So what turns out that the you know, the
+the typical the the classical spaces
+that come from mathematics or from you
+know, intuition that comes from low
+dimensions, say Sobolev or you know,
+Lipschitz or you know, C infinity or
+like C this this notions of regularity
+that come from low dimensional
+mathematics do not scale well, right?
+They do not apply they they are not you
+know, giving us
+a satisfactory answer either because
+they are too large like Lipschitz or
+because they are not a not adapted,
+right? They are capturing a regularity
+that is not the one that we expect from
+the data.
+So what we need in a sense is to use the
+structure the physical structure of the
+data like the images are not just you
+know, high dimensional points, but they
+are signals in a two dimensional grid
+etc.
+We are going to use this physical
+structure to define new regularity,
+right? And so
+in the new in the next lectures, we are
+going to articulate this regularity,
+right? And and we are going to hear
+about invariants, for example we are we
+are going to hear symmetries. We're
+going to hear about scale.
+And these are the kind of the the key
+physical properties
+that will allow us
+to break the curse of dimensionality,
+right? To to learn
+even if the input has a lot of
+dimensions in a way that is efficient,
+sample efficient.

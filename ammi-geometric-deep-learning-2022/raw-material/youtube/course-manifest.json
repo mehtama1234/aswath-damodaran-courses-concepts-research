@@ -1,0 +1,112 @@
+{
+  "slug": "ammi-geometric-deep-learning-2022",
+  "title": "AMMI Geometric Deep Learning Course - Second Edition (2022)",
+  "instructor": "Michael Bronstein, Joan Bruna, Taco Cohen, Petar Veličković, and seminar speakers",
+  "playlist_url": "https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C",
+  "channel_url": "https://www.youtube.com/@AMMI-Africa",
+  "source_note": "Playlist captured on August 9, 2026; the trailing unrelated item was excluded from the manifest to keep the course corpus clean.",
+  "videos": [
+    {
+      "index": 1,
+      "id": "5c_-KX1sRDQ",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 1 (Introduction) - Michael Bronstein",
+      "url": "https://www.youtube.com/watch?v=5c_-KX1sRDQ"
+    },
+    {
+      "index": 2,
+      "id": "plIJYzVKfdI",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 2 (Learning in High Dimensions) - Joan Bruna",
+      "url": "https://www.youtube.com/watch?v=plIJYzVKfdI"
+    },
+    {
+      "index": 3,
+      "id": "qEjWMhRlXgY",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 3 (Geometric Priors I) - Taco Cohen",
+      "url": "https://www.youtube.com/watch?v=qEjWMhRlXgY"
+    },
+    {
+      "index": 4,
+      "id": "DpnA8NNUtyU",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 4 (Geometric Priors II) - Joan Bruna",
+      "url": "https://www.youtube.com/watch?v=DpnA8NNUtyU"
+    },
+    {
+      "index": 5,
+      "id": "J2bLt3-SSpg",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 5 (Graphs & Sets) - Petar Veličković",
+      "url": "https://www.youtube.com/watch?v=J2bLt3-SSpg"
+    },
+    {
+      "index": 6,
+      "id": "HvQw7Zq1jtU",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 6 (Graphs & Sets II) - Petar Veličković",
+      "url": "https://www.youtube.com/watch?v=HvQw7Zq1jtU"
+    },
+    {
+      "index": 7,
+      "id": "Mj7UoabhWYQ",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 7 (Grids) - Joan Bruna",
+      "url": "https://www.youtube.com/watch?v=Mj7UoabhWYQ"
+    },
+    {
+      "index": 8,
+      "id": "SGiQ3pm06nI",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 8 (Groups & Homogeneous spaces) - Taco Cohen",
+      "url": "https://www.youtube.com/watch?v=SGiQ3pm06nI"
+    },
+    {
+      "index": 9,
+      "id": "YCncgm38-bA",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 9 (Manifolds) - Michael Bronstein",
+      "url": "https://www.youtube.com/watch?v=YCncgm38-bA"
+    },
+    {
+      "index": 10,
+      "id": "vu8-uSB6BAA",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 10 (Gauges) - Taco Cohen",
+      "url": "https://www.youtube.com/watch?v=vu8-uSB6BAA"
+    },
+    {
+      "index": 11,
+      "id": "LewIYn0UTEU",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 11 (Beyond Groups) - Petar Veličković",
+      "url": "https://www.youtube.com/watch?v=LewIYn0UTEU"
+    },
+    {
+      "index": 12,
+      "id": "Icwz214_7eI",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Lecture 12 (Applications & Trends) - Michael Bronstein",
+      "url": "https://www.youtube.com/watch?v=Icwz214_7eI"
+    },
+    {
+      "index": 13,
+      "id": "pG_akmY02Bo",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Seminar 1 (Physics-based GNNs) - Francesco Di Giovanni",
+      "url": "https://www.youtube.com/watch?v=pG_akmY02Bo"
+    },
+    {
+      "index": 14,
+      "id": "PxJ5o4y4FUA",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Seminar 2 (Subgraph GNNs) - Fabrizio Frasca",
+      "url": "https://www.youtube.com/watch?v=PxJ5o4y4FUA"
+    },
+    {
+      "index": 15,
+      "id": "XPVrVeRmMY0",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Seminar 3 (Equivariance in ML) - Geordie Williamson",
+      "url": "https://www.youtube.com/watch?v=XPVrVeRmMY0"
+    },
+    {
+      "index": 16,
+      "id": "TgPMuvH5j1I",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Seminar 4 (Neural Sheaf Diffusion) - Cristian Bodnar",
+      "url": "https://www.youtube.com/watch?v=TgPMuvH5j1I"
+    },
+    {
+      "index": 17,
+      "id": "1FluhB_ZgNI",
+      "title": "AMMI 2022 Course \"Geometric Deep Learning\" - Seminar 5 (AlphaFold) - Russ Bates",
+      "url": "https://www.youtube.com/watch?v=1FluhB_ZgNI"
+    }
+  ]
+}

@@ -1,0 +1,1526 @@
+uh good morning everyone um welcome back
+to the lecture the lecture number four
+of this course
+so today uh now today this lecture is
+going to be a follow-up from tacos
+lecture uh a few a few hours ago so we
+are going to continue discussing about
+about geometric priors and how they
+uh hopefully make a machine learn like
+learning easier in high dimensions
+all right
+so today yeah in this lecture we are
+going to
+um first the first thing we are going to
+discuss is
+how
+these ideas from symmetries and
+invariances relate to the to the
+problems that we discussed in the
+lecture number two that
+concern the curse of dimensionality then
+we are going to
+move from the notions of invariance to
+notions of scale separation so we are
+going to discuss another prior
+and then we are going to combine these
+two priors in variance and scale
+separation into what we call the
+geometric deep learning blueprint
+okay so that's what we're going to do in
+this hour
+all right so let's start with the first
+one
+so
+remember the goal
+of machine learning in particular in the
+case of supervised learning
+is to
+learn an unknown function f star right
+so remember the notation is that this
+function f star
+is defined over a very very high
+dimensional space x would be the space
+of all possible images for example
+and so um
+remember
+that uh one of the kind of the
+conclusions that we had in the lecture
+number two and that taco started to
+discuss is that if we just stick with
+this black box thinking that x is a very
+high dimensional space well basically
+there's nothing we can say right the
+learning is always going to be
+fundamentally hard unless we make more
+assumptions and so in this
+in this context but the kind of
+assumptions that we make they rely on
+what we call opening this box right so
+try not treating the input space x as a
+black box but seeing x as the space of
+signals uh small x that map from a
+geometric domain omega to some space of
+channel right and here there's a little
+illustration where what i mean right the
+domain now becomes here in this
+particular case a two-dimensional grid
+okay so so the thing is that here
+capital x is a high dimensional space
+but the input space here that the
+geometric domain omega is a low
+dimensional space right in this
+particular case it's just two dimensions
+and so
+once we have this domain this
+two-dimensional like low-dimensional
+structure or more generally we have a
+like a domain and a mathematical logic
+that is much simpler we can do many
+things with it right and and and these
+geometric domains they come with kind of
+a natural class of transformation right
+there's things that we can manipulate
+like the objects in omega can be
+manipulated in ways that are very very
+simple for example if i have a
+collection of elements in a set well
+there's a transformation that is very
+natural in a set that is just to shift
+the elements right to permit the
+elements or if i have a points here in
+this grid in this two-dimensional grid i
+can move the points right i can i could
+translate
+any pixel from one location in the
+two-dimensional space to another
+location
+okay and i can do that either with the
+rigid motion like a you know euclidean
+transformations here or i can do it even
+with what we call a warping or
+differentiating right so every point
+every pixel in my domain is moved in
+another place
+and what uh taco described discussed
+this morning is that once i have once i
+know once i have a collection of
+transformations well i can suddenly
+start to do very nice things right i can
+compose them i can apply transformations
+one after the other and these
+transformations they form what we call a
+group right there's a there's a
+algebraic structure that emerges very
+naturally
+in this in this context
+and so
+here's another
+very interesting thing that you can do
+with these transformations and i also
+think that taco discussed that is that
+once i know how to move elements in my
+geometric domain omega right like amount
+like points in a grid or elements in a
+set then i can i can upgrade i can kind
+of
+use these transformations to transform
+much more complicated objects which are
+the signals on the domain right like
+these uh so in other words i can go from
+a transformation that move things in my
+low dimensional space omega to the same
+transformation right that moves things
+in a much much higher space right like
+the space of signals that that live in
+that domain and the natural way to
+extend these transformations is by
+composition right and so here the
+example that you see is like let me see
+this picture right so if you look at
+here the right a transformation that is
+just moving um pixels around right if i
+apply this transformation now when i
+have images right hopefully you should
+be able to see that these are some
+rotation that i can apply to my image or
+i can apply some
+some deformation writing as in this
+video that you see right so so here's an
+example of a transformation that is
+defined in this two-dimensional grid
+that now i can apply it to transform my
+inputs in my high dimensional space okay
+and and this
+not only this the transformation that i
+have in this high dimensional space is
+linear okay and i think that taco uh
+maybe gave you the the you know the the
+right language for that is called a
+group representation right so this is a
+this is a transformation here using the
+left-hand side that is linear with
+respect to x
+all right
+so um
+so now let's try to to like natural
+first question is okay now we have this
+invariance
+um how can we connect the notion of
+invariance with uh with a you know with
+a statistical learning right with a with
+a problem of learning that we discussed
+uh two days ago
+so remember we have this function that
+we don't we we don't know and we want to
+learn and we are trying to learn this
+function within a class right this
+capital f was a class of uh function as
+a class of functions for example things
+that we can parametrize with neural
+networks
+and so here's a promise right so so now
+i i
+i assume when we make this you know this
+assumption that the function that we
+don't know that we want to learn is
+invariant with respect to some group
+right so it means that for any input in
+our space
+and for any transformation in our group
+the function
+uh is the same
+if we if we apply x if we apply the
+group transformation to the any input
+okay
+so this is an assumption this is a kind
+of a prior that uh i promise you right
+so so so you know that this is true all
+the time
+so natural question if this is true
+uh these are there are two natural
+questions right so okay uh how can we
+now leverage this this assumption in our
+hypothesis class can we do better
+uh now that we know this extra
+information
+and obviously it's like even if we can
+do better can we do can we do good
+enough so that we can break the course
+of the nationality right like the the
+you know the major issue that we had
+where uh you know the the the any any
+kind of quantitative guarantee was
+always very hard to get in higher
+dimensions
+okay so is this clear
+uh yeah and again please do not hesitate
+to stop me for any questions because i i
+don't see you in the camera so uh please
+do not hesitate to interrupt
+all right
+uh so these are the two questions that
+we are gonna study now
+okay so first let's forget about the
+algorithm let's forget about
+implementing anything let's just think
+about abstract like theoretical right so
+how can we now use these invariants with
+respect to this group of transformations
+to do better machine learning right to
+to learn more efficiently
+so the first idea right is to use what
+we call this smoothing operator like we
+are going to use the group of
+transformations to
+have a way to smooth functions
+and so
+let's assume for simplicity that the
+group is discrete right so we can just
+you know like sum like go through the
+group by just summing all the elements
+and so given any function f this is this
+is like the target function or like any
+function that we want to parameterize in
+our network we are we are going to
+define its smooth version
+as
+the average of the function
+over the elements of the group right so
+in in coordinates if you think about
+what happens here in this in this
+equation for any given input x
+the output of my of my hypothesis
+is not going to be f of x but it's going
+to be the average
+over the what we call the group orbit
+and what is the group orbit
+is all the possible transformed versions
+of x right so this is what you have here
+in the in the right hand side right so
+i'm basically
+i have any function that you know
+produces labels let's say that they have
+a you know like i think uh you know alex
+net or whatever right like any network
+and rather than using the output of alex
+net at this particular image i'm gonna
+average over all the predictions that
+the network does over all the possible
+rotated versions of this image right
+that's where this operator is like
+so now i ask the question
+if i apply this moving operator to my
+function f star what do i get right so
+remember that the the the assumption
+that we have on f star is that it's
+invariant
+right so remember what is the definition
+of invariance is that the function f
+star
+is the same at x or at any
+transformation of x
+so this means that the function f star
+when i look at it along each of these
+orbits
+gives me something that is
+constant right doesn't change
+so what happens if you have a function
+that is constant and you average it
+nothing changes right
+so a function that is constant along the
+orbits if i do the average nothing
+changes
+okay
+so this is a this is a
+so now let's try to build on this
+observation
+okay so now well if i know that my
+function uh target function doesn't
+change by averaging
+here's a natural idea right uh given any
+hypothesis class this could be let's say
+the family of you know fully connected
+neural networks
+we can make it invariant by applying the
+smoothing operator right so any function
+in my family now i'm gonna instead of
+using it directly i'm gonna use the
+smooth version of this function of this
+function right
+why because you know the target doesn't
+change so so i'm gonna you know i'm
+gonna i'm gonna consider it in my
+hypothesis class
+so here's an example right so let's
+consider the domain you know the
+discrete domain of the points right
+let's say a one-dimensional grid
+and here i'm considering as a group of
+transformations that translates the
+shifts okay so so this corresponds to
+the the group that is called the cyclic
+group of order d right and i i assume
+that you know once you shift this point
+the last point you go back at the
+beginning
+okay
+and now i consider as my hypothesis
+class
+f
+all the polynomials that i can build
+with the coordinates
+of degree key
+and now
+let me now let's think about what would
+we get if we take this polynomials and
+consider their smooth version
+so
+you know there's a question for you
+right but
+think about uh how you would now take a
+take one of any one of these functions
+and consider it smooth version right so
+remember that a smooth version right it
+should be invariant right with respect
+to all the permitted all the
+translations like all the shifts right
+so so
+think a little bit about how would that
+do and obviously this moving operator if
+you change the group right if you let's
+say replace the group of shifts by maybe
+a much larger group like the group of
+all possible permutations
+then this this function right that is a
+you know this the smooth the invariant
+function class will become small
+right so here the the bottom line is
+that if i had the larger that the group
+of transformations right like the gra
+the larger the the class of invariance
+the smaller is going to be this set
+right
+so there's less and less invariant
+functions right the uh you know the more
+the larger the group is
+i hope this is clear
+okay and these are two uh little
+exercises that i leave for for you if
+you wanna if you wanna if you wanna try
+to think about the answer
+i'm ready i'm also of course available
+in campus y
+all right so now
+let's try to uh
+to argue the following right is that the
+approximation error
+is not affected
+by
+smoothing on the group right so i claim
+that if now i given a target function f
+star
+if i try to minimize
+the error right
+on in my family class right in my
+function class capital f
+what i claim is that i pay no price if i
+reduce the set reduce the hypothesis
+space from capital f to its smooth
+version
+okay and why is that
+well the reason why is that is that in
+fact this operator
+this moving operator is a projection
+okay i'm just
+essentially i'm the i'm decomposing the
+space along the orbits and just keeping
+the average along each orbit
+so in fact it's an orthogonal projection
+right and so i what i can do is that any
+error any l2 error i can break it into
+the air that i make in the range of the
+operator
+plus the error that i make in the
+complement in the orthogonal complement
+right and this is a
+nothing else than the pythagoras theorem
+right because this is an orthogonal
+projector
+and so because my now my function
+f star is invariant
+right
+what i see is that because the function
+is invariant
+this term disappears right when i when i
+replace
+g by f star this term disappears so my
+error that i make right has two
+components
+is the error that i make on the
+invariant part plus
+i
+hit a price
+how many variants
+so obviously from this equation
+you can almost
+immediately see that i'm better off just
+uh you know assuming by construction
+that the yellow term here is zero right
+that this term doesn't doesn't doesn't
+appear
+and so obviously
+i
+i have a i have something that looks
+like a winning strategy here right
+because i have a function class that the
+one in green
+that has the same error the same
+approximation error and because
+the green space is smaller than the blue
+space because it's a projection
+i have i will have smaller statistical
+error right so i have the same
+approximation error and smaller
+statistical error so it means that it's
+better
+but the question is by how much
+right is it actually
+is it a gain that is minor that is
+marginal or is it a gain that is
+substantial
+any questions so far
+okay
+okay so now let's try to do a little bit
+of a
+quantitative statements here this is
+possibly the
+maybe the the the most technical slide
+of today so i hope bear with me
+uh
+so remember from uh from two um lectures
+ago the class of functions that were
+ellipses right that were just uh locally
+regular right
+and now we are gonna
+yes so
+there was a question come from campus
+wire someone was asking perfect okay
+please can you explain what is the
+group's music operator
+okay yes that's uh very important to
+understand the
+this concept yeah so let me go back to
+the definition
+[Music]
+good so the smoothing of the group
+smoothing operator is an is an operation
+that i make to a hypothesis to a you
+know to a function that maps input to my
+machine learning model to the odd okay
+and it's an operator that does the
+following
+here in this equation or maybe you can
+look at this equation that is even more
+clear is that
+given an input x
+i am going to
+consider all the transformed versions of
+x but this is the what what we call this
+orbit look at this picture right
+so almost think i think it has some kind
+of data augmentation right so you have
+all the possible transform version of
+the input
+then i'm going to apply my network my
+hypothesis f to each of them and then
+i'm going to take the average
+that's the group smoothing operator
+right
+and this group of moving operator
+has a has a immediate property there are
+two things that that are important
+the first one is that this is an
+orthogonal projection right so you can
+think about it that if i apply the
+smoothing operator twice
+i get the same thing right
+you know if i smooth two times i get
+exactly the same output right because
+the function
+right these orbits by definition of the
+group right they are the same
+irrespective of where i start
+and the other property that is important
+is that when my function f star is
+invariant in the first place
+right
+then when i apply the smoothing
+nothing changes right because if i have
+a function that is already constant
+along these orbits
+a constant function
+if i if i apply the average at every
+point it doesn't change right because
+the you know the function is already
+constant
+okay i hope that this is clarifying the
+definition and the the concept of group
+smoothing operator
+very good
+so now as i said i can i can consider
+like a you know the smooth hypothesis
+right foreign
+is the cyclic group
+cycle group so that was an example that
+was the different axons
+yeah so the cyclic group is a particular
+group that is think about the
+the you know like the arithmetic model
+of d right so think about like let's say
+the you know numbers like binary
+arithmetic right like you have binary in
+binary numbers right so zero plus zero
+equals zero zero plus one equals one one
+plus one equals zero right so this is an
+example of a group where i can think
+about this some kind of additive group
+but the only difference is that it has a
+kind of a periodic boundary condition
+right as i can i can you know every time
+i i arrive at the la at the largest
+number i go back to the beginning right
+that's what's called a secret group
+any more questions
+okay
+so you can continue
+continue perfect yes good
+so i was
+here
+okay
+but so this is uh this is the setup that
+where now we are going to try to
+quantify a little bit this game so
+remember that we had this
+space of a function that was very very
+large the space of lipsticks functions
+and the the conclusion from
+lecture 2
+was that this space of hypothesis was
+far too large right in the sense that
+there was no way we could guarantee that
+we can learn efficient that we can learn
+functions in this class with a number of
+samples that is not exponential in
+dimension right so it's like a massive
+little it's a tool it's a set that is
+very very large
+so now let's try to go to to make it
+smaller let's try to add this hypothesis
+of environments let's try to see if we
+can
+suddenly start to learn with more
+efficient like with smaller sample
+complexity if we add invariance into the
+slipsheets hypothesis
+so now my hypothesis is that this
+function f is going to be lip sheets
+right but also it's going to be
+invariant with respect to the with
+respect to a group of transformations
+right so it means essentially it means
+that this function f of x minus f of x
+prime right
+if x and x prime are in nearby orbits
+right then the value of the function
+doesn't change too much
+all right that's the that's the notion
+of uh
+lip sheets plus environment
+so here's a result uh that we
+we worked on with a couple of
+collaborators from from my group
+that says that okay if we now try to uh
+use
+uh you know learn with essentially with
+the optimum model machine learning model
+for learning ellipses functions which is
+kernel methods and we use a kernel that
+is invariant with the spectral accent of
+g
+indeed we can do better than if we don't
+use the grouping variants right so so in
+other words the this is the
+generalization like this is the
+the test error of of our learning is
+gonna it's gonna it's gonna have a
+a generalization error
+that essentially uh
+it's as if the algorithm instead of
+using n number of samples was using n
+times the size of the group
+okay so in that sentence as if the
+algorithm was is better right because as
+it was using more data points right it's
+a it's a
+it's there's a gain in sample complexity
+which is consistent with the intuition
+that we have so far right that the
+approximation error doesn't change and
+the generalization error is has to be
+better right so that's what we see here
+but there's a big problem there's a
+problem here right
+is that even if this number here that
+you see in blue is very large we said
+it's an exponential in dimension
+right this exponentially dimension is
+going to be killed by this rate right so
+here you see that the dimension is in
+the denominator right
+so if we have something here that is
+exponential in d
+this d here is going to be killed by
+this d here
+which means that the rate the gains
+are like the rates in number of samples
+is not going to change
+okay so the rate of learning like the
+the the generalization rate is still
+cursed by dimension okay so the only
+thing that invariants give us in this
+context is again in the constants right
+we can do better but the the kind of the
+major problem that we had before still
+remains right we still have this
+very bad dependency on dimension for
+this class of regulation
+let me also say that the you know the
+gains that we see here relative to not
+using the invariance are real right so
+so if you use a kernel that is not
+invariant then actually you can you
+cannot reach this generation error right
+so there's a there's actually a
+sharp contrast between invariant and
+non-invariant kernels
+okay so but the conclusion here right
+is that
+uh
+if you use them if we if we're using
+variants in our networks
+uh we are going to do better that's
+that's a guarantee that i tell you but
+so there's a there's an improvement in
+sample complexity
+but
+there's two uh things that that are you
+know that we still need to address the
+first one
+is that it's not sufficient right it's
+necessary right uh but it's not
+sufficient right we need some other tool
+to say to guarantee that we can learn
+with a number of samples that is not
+that does not blow up with the dimension
+right there's something missing what is
+missing
+and the other right is that so far this
+analysis that we have made right we have
+we have made everything from this
+smoothing operator right and this seems
+like a kind of a very abstract concept
+right there's no there's no there's no
+easy recipe for implementing this
+operator in practice in your algorithm
+in your computer right so how can we
+build these invariants in a way that is
+efficient right that is a you know that
+we can implement and this thing runs
+efficiently okay so these are the two
+important things that we are going to
+discuss next
+a good time also not to make a pause and
+ask for questions
+because i cannot access campus wire in
+real time so yeah if there's some
+questions either here on campus wire
+happy to to address them now
+otherwise i will move on
+yeah please i think um we can move ahead
+there's no questions right now perfect
+perfect thank you
+all right so now let's move to the to
+the second part of the lecture
+which is uh addressing the missing
+ingredient right which is the notion of
+scale multi-scale separation
+okay and so if you think about why deep
+learning works and what is the kind of
+the secret sauce of these architectures
+and you go to you know to the lectures
+of the
+the you know one like the pioneers of
+the field like joshua benjo or lagun
+you see that their uh arguments
+uh they all involve this notion of
+compositionality right like the fact
+that you can actually break a very
+complicated input right like a kind of
+image that has millions of pixels
+you can process it in ways that are step
+by step right so first you can focus on
+maybe local features right what they
+call these low level features then these
+low-level features are combined into
+more complicated structures and so on
+and so forth right and in fact
+this is a very intuitive idea right that
+that
+you know it's it's it's present in in
+deep learning but of course it was
+present in many many other areas before
+right like even people doing computer
+vision have exploited this idea and in
+fact this is an idea right this
+compositionality is an idea that is in a
+sense at the core of science on physics
+right so like the idea that we can
+process very complicated phenomena by
+breaking the problem into different
+steps right like first you know let's
+let's look for example at biology okay
+or uh yeah exactly biology or any kind
+of like a chemical process right so so
+there's actually ways in which you can
+first understand how you know how things
+behave at the level of uh
+sub atoms using quantum mechanics then
+at some point you need to understand a
+little bit of chemistry right maybe at
+this level and then at some point you
+need to start to start understanding
+things about biology right and like how
+molecules you know become proteins and
+then proteins become cells and then you
+see what you see the idea right and this
+idea is is present in many many areas of
+physics like when people study
+turbulence or when people study like a
+percolation phenomena critical phenomena
+even in you know many areas of data
+science we also have this idea
+okay so
+a complicated when we have when we are
+facing a complicated problem that has
+many dimensions natural idea in science
+try to break it into into smaller pieces
+very natural
+so in our context right uh we need to we
+can formalize this intuition uh with
+what we call the multi-resolution
+analysis okay and uh for simplicity i'm
+gonna just uh you know illustrate this
+principle uh using a two-dimensional
+grid the grid that you see here on the
+on the right
+okay
+so
+i think that the main idea right is that
+if i have any signal or any structure
+that lives in this
+rectangular grid omega
+there's a
+the the idea that i want to communicate
+that i want you to get like division is
+that i can always
+change the resolution right i can
+preserve the information that i see by
+changing the resolution right you do
+this all the time when you have a you
+know you take a picture with your phone
+or you know and then you want to send it
+to your friends you can send it you can
+change you can choose the resolution
+right you can either send it in full
+resolution it's going to be very you
+know it's going to take a long time it's
+going to be it's going to
+take a lot of space or you can compress
+it and make it smaller
+so this is actually instantiated uh
+mathematically in what we call a
+multi-resolution analysis right so what
+is a multi-resolution analysis like you
+know broadly speaking is that it's an
+it's a process by which you take any
+signal like any image right it's like
+this signal that lives in this
+two-dimensional grid and we can
+decompose it into a signal that lives in
+a in a coarser resolution right like
+here the the idea that i try to
+illustrate is this like resolution on
+orange has less pixels than the result
+than the gradient grain right
+and so i can express a
+an original signal x in terms of the
+course version right but of course when
+i when i take a when i when i go from
+the gray
+cell like grid to the orange grid i'm
+throwing information right i'm you know
+i'm using less number of pixels so the
+multi-resolution analysis what it does
+is it also preserves keeps the details
+at the given resolution omega that i
+need to reconstruct so it's really this
+process where i start from this like
+original image here
+and then i break it into the low
+resolution version that is this one here
+and then
+i need to preserve i need to keep the
+information that i that i need to go
+backwards right to go from the course
+resolution to the final resolution so in
+other words i need to preserve the
+details right that are encoded in this
+in this image here and this image here
+and these details
+are what is captured by what we call
+wavelets right the wavelets
+are
+essentially a bunch of filters that
+extract that really do this
+decomposition for you right and this is
+actually uh
+something that we are going to
+discuss with a little bit more detail in
+lecture seven when we are going to talk
+about grids
+but the key property that for now you
+need to you know i want you to to
+remember is that these filters right
+this little these wavelets they're
+they're think about these as little
+waves that are localized in space right
+right it's very different from a sine
+and cosine which are waves that keep
+going you know forever wavelets have a
+different properties that there's kind
+of little waves like
+waves that are localized in space
+and this is actually uh
+[Music]
+these web at the compositions are very
+important in many areas of you know
+might you know beyond computer vision
+but they are used in many many areas of
+science right
+um
+anyway
+all right so what is the link between uh
+this decomposition of you know this way
+of thinking about images in terms of
+different resolutions and or learning
+problem
+so here's an example right and and and
+this is really what is what we call the
+scale separation prime okay so let's see
+how the resolution of the input
+can give us a different category of
+price okay
+so
+first let's make the assumption that the
+target function that we don't know right
+f star
+has the property has a following
+property is that the function i need to
+learn and in fact i can i could also
+learn it directly from the course
+resolution right so i don't need to look
+at the image at full resolution to
+understand the function so here's an
+example
+let's say that we have a problem where f
+star of x just encodes the probability
+that uh like whether i'm in a beach or
+in a month
+right given the image i just need to
+guess whether it's a beach or it's a
+month
+okay so this seems to be a fun a
+function f star
+perhaps i don't need to get all the
+details i don't need to know you know i
+don't need to see all the waves in the
+sea and i don't need to see all the
+boats in the in the beach and i don't
+need to see all the trees in the
+mountain to know that it's a mountain or
+a beach right so in other words if now i
+remove the details and i just look at
+the course scale right for like here
+well i guess that we are you can all
+still tell that in the top we have a we
+have a beach right and in the bottom we
+have a mountain right
+so here's an example where the core
+scales dominate right so here i'm in a
+problem where essentially to approximate
+this function as star i don't need to
+think about the function x like the
+input x as being high resolution right
+so i can you know indeed i can just
+focus on the on the right hand side and
+what is the advantage of thinking of the
+function in terms of the low resolution
+well the lower resolution has much much
+less pixels right it has a much smaller
+number of pixels and so in that sense
+the number of you know the the the
+number of like the dimension of the
+input is much reduced right so the
+course of dimensionality in the tenth is
+is reduced
+just because i i can you know replace
+the input by something that has much
+smaller dimensionality
+okay this is example clear
+okay here's another example for you and
+obviously sorry sorry but obviously this
+assumption right that that i told you
+that you know that i can always kill the
+high frequencies it's not true in
+general right this is only true in
+certain cases right so so
+if i think for example as another
+example the you know recognizing this
+emit stations right
+so you can all uh look at the mnist
+digits here right and probably recognize
+the the digit but if i blur right so if
+i remo remove the high frequencies right
+as i did here in the in the right panel
+uh you know for me it's impossible to
+tell what is the digit
+okay
+so what it means is that this is a this
+is this is a this assumption that i just
+made about the you know this example of
+the beach and the
+and the mountain is a very strong
+assumption right it's i mean this cannot
+be the
+the basis right of of uh you know
+geometric deep learn right uh we need to
+be careful
+so here's another flavor of this
+equation right so there's another thing
+that we can assume
+right instead
+that the target function
+i can construct it i can approximate it
+in a way that i can think it as a linear
+combination
+of
+functions g
+that instead of depending on the full
+image they only depend on local local
+patches of the input right this is an
+example
+of this texture that i showed here right
+so if you want to you know separate
+between a brick wall and a patch of
+grass
+well i guess if you just extract a
+couple of windows from the brick wall
+and a couple of windows from the patch
+of grass you can already see right
+that
+you can already see that you know that
+you can separate this to these two
+clusters right you don't need to see the
+whole thing to realize that it's a grass
+or a brick right you can only look at
+local scales
+okay
+so this is an example another example
+where we can still we can also break the
+course of dimensionality right that's
+because obviously here the dimension
+that matters the dimension that matters
+is the dimension of the patch of the
+yellow patch doesn't matter the
+dimension of the whole thing
+okay
+so here's an another example where we
+can still avoid this course of
+dimensionality
+by making this assumption
+again is this assumption realistic for
+any general problem
+what do you think
+well this seems pretty strong right this
+so this example works for
+the case of these two classes these two
+textures but probably doesn't work in
+general right and here's an example uh
+okay so actually sorry before showing
+the things where it doesn't work this
+assumption is in fact uh
+also quite used in many problems in
+physics right like this locality right
+the fact that the local interactions
+dominate is a principle that is very
+common right in many areas of science
+but of course it's also strong
+assumption right here's like a little
+example that i that i took from from
+this
+paper by turk where you know if you just
+rely on the texture on local properties
+right you are missing kind of the global
+appearance of the problem like
+you can in a sense build examples where
+you still need to see all the image at
+once to realize what happens right so
+what we see here is that there are kind
+of different extremes right like that
+either we
+make an assumption that the course
+scales are the only thing that matters
+and then we can see that the problem is
+easy or we can say that the local skills
+are the only thing that matters and then
+the problem is also easy but neither of
+these two assumptions seems to be
+you know seems to be realistic enough
+right there's always problems where none
+of this none of these assumptions is
+going to be true
+so
+what we can do
+is in a sense more generally we can
+consider kind of a mix of the two right
+so we can consider a model that this is
+like this notion of compositional model
+right we can try to think about our
+function f right that we are trying to
+learn as a composition of two functions
+okay so first we have a step that we
+call this p like a coarsening right that
+is what the role of this step is to
+reduce the size of the grid right or the
+the reduce the corson the domain omega
+okay
+and then once we are in a course domain
+omega the idea is that we are already in
+a regime where the curse of
+dimensionality
+is somehow avoided right so so um we can
+now learn in this this function f tilde
+hopefully with a number of with a simple
+complexity that is not as you know bad
+as the original domain
+okay and the key point right is that in
+general we need these two guys to be
+trainable right the assumption that i
+made before like the two extremes where
+in one extreme i just told you that this
+object here this p
+is actually a linear coarsening that
+there's no no training that was the
+first example and in the second example
+i just gave an example where this f
+tilde was just like a like an average
+like a global pulling like an average
+pooling without anything else okay so in
+general we are going to be needing uh
+you know non-linear models that are
+trainable in both of these steps
+okay
+is this is this a separation is this
+skull separation prior
+clear any questions
+otherwise i will move on
+okay so natural question of course is
+okay now we have introduced this
+framework that is this model to
+express to learn functions as a
+composition why is the composition more
+efficient okay and this is the again the
+intuition the intuitive idea that you
+know joshua yan and everyone has been uh
+developing so
+there's actually um
+several frameworks where we can study
+this question of a benefit of
+composition quite precisely okay
+so for example
+in you know dynamic programming
+we have this framework of divide and
+conquer i like this strategy to solve
+like algorithmic tasks by breaking them
+into smaller tasks and then aggregating
+right so this in many many you know for
+many algorithmic problems
+you know dynamic programming is an
+example where where we get basically
+best
+you know good efficiency
+there in fact
+but in fact in the context of learning
+these benefits of composition are i
+would say it's fair to say that they're
+still not completely well understood
+right so we have intuition that these
+these models
+should be more efficient but we don't
+have very mature math to explain why
+okay and this is in a sense a work in
+progress
+okay
+but what we are gonna what was still
+what we're gonna settle is that the in
+any case this prior of scale separation
+this view of looking at the problem uh
+looking at parameterizing functions as a
+composition
+uh in a sense it's it can be combined
+very naturally with the with the other
+prior which is the prior of symmetry
+okay and so that's what we are going to
+see
+right
+now okay that's the third part
+which is the blueprint the geometric
+deep learning blueprint okay i will
+pause again before moving into the last
+part for if there's any question
+okay
+so now that we have seen the two
+uh
+fundamental geometric priors like
+invariant in first place and then scale
+separation in the other place
+let's try to see how we can combine them
+okay into uh into a plur into another
+kind of into an architecture or
+blueprint that we can use across many
+many many different domains
+okay
+so remember the wish lists that we want
+right so we want the our function class
+to be invariant to the transformations
+just because we have seen that it always
+helps
+we want to have multi-skill structure
+because we need it you know to break
+their course of dimensionality but of
+course we want this class of hypothesis
+to be very rich right to be very
+expressive right we want to be able to
+to approximate
+like a large class of target functions
+okay so how can we build an architecture
+that satisfies these three properties
+let's start
+with
+linear functions by linear impairments
+so
+we can first try to understand
+uh try to try to enumerate or uh yeah
+like to describe all the possible
+environments with respect to a group
+okay that are linear
+so how many are there
+in fact there are not so many
+okay
+there's
+essentially only one operator that is
+linear and invariant to the group and
+this is exactly the operator that we
+just saw before right this is the
+basically the average along the orbit
+okay
+in fact you can see that any operator
+that is any operator f
+that is both linear and invariant
+in fact has to be a function of the
+group average always okay and you can
+see it here there's basically two two
+steps here right so like in the first
+step here the first equality we are
+using the fact that it's invariant
+and in the second equality
+we are using the fact that f is linear
+okay so you can see that the you know
+the object that appears here is the
+group average
+okay so the group average
+is basically the only linear operator
+that gives us invariance to the group
+but of course this is not an operator
+that we can use
+uh for many things right because it's
+it's an operator it's very lossy imagine
+here right in this example of the faces
+right if i look at the average of all
+these all of these faces right across
+all rotations
+i'm probably going to be losing all the
+information i care about
+okay
+so clearly we need to have something
+that complements this average
+so how can we complement it
+so it turns out that the the natural way
+to complement that the right way to
+complement
+invariance
+is by looking at linear equivalence okay
+and i believe that taco already
+described
+what equivariance mean right but just
+for for security let me just recall the
+definition right so if i have a group
+that is acting on both the input and the
+output of this mapping right mapping b
+then this mapping is equivariant if
+essentially the group action commutes
+with b right so if i apply the
+transformation in the inputs right here
+and i apply b
+i get the same thing as if i first apply
+b
+and then apply the transformation in the
+output
+okay
+and there's many many examples i mean
+this concept of equivalence is central
+it's going to be very very central in
+this course right we are going to see it
+again and again and again and again
+so now
+uh
+so so uh let's see what i can do with
+linear equivalence okay so uh and for
+that you might ask okay but remember
+that what we had the goal we had at the
+end of the day is to learn invariant
+function right that's our that was our
+wish list right if we go back here the
+wish list was to get invariants right
+so what is the relationship between
+equivalence and invariance
+so you might say
+okay maybe i can i can take one of these
+guys that is equivariant and then
+compose it
+with a group average right do i get
+something different
+so if i take a linear equivariance and
+then i apply the linear invariant does
+it help
+well you can already see the answer
+right it doesn't help
+why
+do you think it doesn't help i
+combine so i i the goal here is to build
+more in variance right and so i
+i suggest that maybe we can look at
+equivalence
+so if i take one mapping that is
+equivalent with g
+that is linear and i compose it with a
+linear invariant that's the one that you
+had before this this group average
+do i get
+something
+new right do i get like a new invariant
+that they didn't have before
+and the answer
+is no right just because
+when i compose a linear equivalent with
+a linear invariant
+i still have a mapping that is linear
+right the composition of two linear maps
+is still linear
+and we just saw in the previous
+slide right that basically the only
+linear the only linear invariant is the
+average
+okay so
+if i start composing operators that are
+lin operators that are linear
+i'm not going to get any more
+expressivity
+okay
+so the alternative right and i guess
+that this is hinting the answer is that
+i need to go non-linear right we need
+something that break you know that that
+we need something that makes the
+operator nonlinear
+uh but also of course we need we need to
+apply something non-linear that doesn't
+break all the other properties that we
+are trying to build i think particular
+doesn't break the invariant of the
+equivalence
+and so
+um
+what is like the answer here is to
+consider
+operators that are non-linear
+but that
+that only acts element-wise right so
+these are transformations that we call
+raw
+that map images to images
+in a way
+that the
+transformed image at pixel u
+is only a function
+of the image of the value of the image
+at pixel u right so here's an example to
+illustrate what i mean first think about
+an operator that changes the color
+right
+of each of each pixel
+this transformation can be nonlinear can
+be anything you want
+but of course it's a transformation that
+only that looks pixel pixel one by one
+and applies the same mapping pixel after
+pixel right it doesn't it doesn't depend
+on the
+ensemble of pixels at the same time
+and so now i'm in business right because
+now what happens if i take a mapping b
+that is linear and equivalent to g
+and i compose it with one of these guys
+one of these element element-wise
+nonlinear mappings
+i have a new operator this b tilde
+and i claim that this operator
+is still equivalent
+okay
+and why would that be
+why is this operator equivalent after
+the non-linearity well because of this
+property right remember
+that
+uh
+an equivariant function right is
+to verify with variance i need to make
+sure that if i apply a group
+transformation right so on before b
+tilde i get the same thing if as if i
+apply the group transformation after b
+tilde
+but because this
+operator b
+is equivariant and this operator row
+only looks at pixels individually right
+i get this computation property right
+and i think this is an important edges
+size
+that i encourage you to
+to to verify by yourself okay
+and so
+the point here is that now we are kind
+of culminating
+into the blueprint
+is that now we can we have uh we have
+introdu we have now at our disposal
+kind of three important building blocks
+right let's just focus on these three
+for now
+okay the first one
+is
+if we can take an uh
+operator that is linear and equivalent
+with respect to the sum group g
+then i can consider a family of
+operators that are non-linear but
+element-wise
+okay
+and then i have an operator that is
+invariant with respect to g that can be
+linear right this is a global problem
+okay so now
+the point is that if i have these
+operators
+i can start building combining them
+composing with each other so i can start
+creating a very very rich family
+of transformations
+right that satisfy my wish list okay
+because from what i said if i take a
+green okay that is green and i compose
+it with a gray that is
+blue
+i still get something that is equivalent
+right and if now i compose it with
+something that is orange i get a new
+invariant that is different right from
+the original pooling okay because
+because now the non-linearity is really
+introducing other information
+okay
+and the the important point that i want
+to stress here is that the way we define
+these operations is very general right
+in the sense that we can apply it for
+many many versions of this domain right
+so depending on the domain omega and the
+group of transformations g
+right here here's a recipe where the
+only thing that we need is to understand
+the class of linear equivalence
+of that class right so given an omega
+and a group we just need to understand
+the class of linear equivalence and it
+turns out that this is something that we
+can do
+um
+in many many different domains right
+this is like a little diagram and here's
+an example right of the different
+combinations sorry of the domain omega
+and the group g
+okay so if we take as the main grid and
+we look at the translations
+the blueprint
+you know
+gives us convolutional neural networks
+if we take rotations on the sphere we
+get the spherical networks et cetera et
+cetera et cetera right so the same
+principle that i just described which is
+first understand the class of linear
+equivalence
+and then compose them with element-wise
+non-linearities and keep composing
+this gives all these different model
+architectures here right and they are
+all following the same principle
+all right
+just to
+to summarize what we discussed today and
+then we can have spend some minutes for
+questions
+so
+what we have discussed is is two uh
+geometric priors right the the
+invariance with respect to some group of
+transformations and then the scale
+separation okay
+and and these two priors have to be
+combined right so if we don't
+combine them
+a priority there's no hope that we can
+learn in high dimensions
+okay
+and so what we have seen is that uh
+through this notion of grouping variance
+and equivariance we can produce an
+architecture that is this geometric this
+gdl blueprint that is a is a kind of a
+first principles architecture right is a
+way to construct representations that
+are have all the properties that we want
+namely that they are they respect the
+multiscale uh prior they are respecting
+the invariance prior and that they can
+be very expressive right that they can
+approximate very complicated structures
+so what we are going to discuss in the
+next lectures by my colleagues by peter
+taco and also michael and myself
+is that we are going to now
+in the next lectures look at this very
+general blueprint and make it concrete
+under different domains uh and we are
+going to basically see how
+each domain brings its own specific uh
+properties right so so
+here in other words in the surface you
+might you might see that all these
+architectures are the same right they
+are basically have exactly the same
+structure well because the grid the
+sphere and this
+and these groups have some different
+properties
+these different different in the domain
+and the group are going to
+induce difference in the architecture
+and this is what we are going to
+describe in the next lectures
+so
+now this is the end of my presentation
+and i'm happy to take questions

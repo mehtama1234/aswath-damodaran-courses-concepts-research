@@ -1,0 +1,1854 @@
+Thanks for the invitation.
+Um I'm really
+I'm really happy to be part of this
+school.
+Um in this presentation I will be uh
+talking about a recent work we have and
+this is a joint work with uh James
+Rowbottom, Ben Chamberlain, Thomas
+Markovich, and Michael Bronstein.
+Um entitled Graph Neural Network as
+Gradient Flows.
+Um
+The structure of the presentation is
+actually going to be as follows. So,
+we
+are going to talk a lot about graph
+preliminaries,
+uh spectral analysis and diffusion
+energy on graphs, and dynamical systems
+on graphs. So,
+half of the presentation roughly is
+going to um
+be about
+uh classical tools on on sing to analyze
+signals on graphs
+and dynamical systems on graphs.
+This is independent of message passing
+neural networks, but this will be
+hopefully useful to provide a sort of
+context and some perhaps like lens
+that you can that you can have through
+which like look at the MPNN with uh some
+fresh eyes and then
+dig a little bit deeper into our paper.
+Um I uh trust that by now you've you've
+seen
+um
+generally what graph neural networks
+are.
+I'm going to recall that at some point,
+but I will be mostly focusing as I said
+on these
+uh analytical tools uh and in some
+regard also classical tools.
+Um so, let me start by setting mostly a
+few notations. So, we will consider
+always a graph
+uh consisting of a vertex set V and edge
+set E,
+and I will always assume this graph to
+be undirected.
+Um we have from now on whenever you're
+going to see the uh
+a notation N, this will be the number of
+nodes of the graph.
+Uh and we have the most important
+matrices that are
+denoted by A and D respectively, which
+are the adjacency matrices that
+uh represent the connectivity in a graph
+and the degree matrix, which is a
+diagonal matrix
+that um
+we get by basically row summing A. And
+so,
+just to set the dimensions, both A and D
+are going to be square
+um matrices of dimension n by n.
+Uh an important operator that we can
+construct out of A and D is the
+normalized adjacency that we denote by
+A-bar.
+And for people that have already seen
+graph convolution networks, i.e., GCNs,
+this is the
+uh matrix adopted in their paper and in
+in in that uh architecture. And there
+are a few reasons for why
+one would like to have A-bar rather than
+A.
+Uh I'm not going to spend time on this,
+but I want to say that this is a a
+fairly classical construction. And in
+fact,
+the arguably most important operator
+that one can associate with a graph is
+the Laplacian
+that I define as identity minus A-bar.
+Um now,
+a few things. So, first of all, I can
+think of that, that remember is a square
+n by n matrix,
+as an operator that acts on signals. So,
+a signal is a map that associates, say,
+to each node
+uh a scalar number. And therefore, I can
+represent this this signal as an
+n-dimensional vector, as I'm going to um
+show in the next slide.
+Um
+and therefore, I can think of the action
+of the Laplacian matrix on a signal,
+which is an n-dimensional vector, as an
+operator acting on the signal. And I
+have in this equation here in this box
+the
+expression of this operator.
+And for people that like have some
+familiarity with the standard Laplacian
+in you know Euclidean space, you can see
+why this matrix here delta is in fact
+called the Laplacian because there is an
+averaging type of property that is sort
+of similar to the second order operator
+in Euclidean space.
+Now, this Laplacian operator is
+symmetric and is also positive
+semi-definite. So, we can have we can
+you know look at these at its
+eigenvalues and we can order them from
+the lowest to highest.
+Now,
+two important properties. First of all,
+the lowest eigenvalue is always zero and
+in fact the multiplicity of this
+eigenvalue will give you the number of
+connected components in the graph.
+And second, the highest eigenvalue,
+which is also the spectral radius of the
+matrix, and I'm using the notation rho
+delta, it's always a number smaller or
+equal than two.
+Now, usually people refer to these
+eigenvalues as
+frequencies
+and I can also use the uh
+um I have a notation also for the
+eigenvectors of the Laplacian, which are
+these phi delta,
+which are n-dimensional vectors.
+Now, a maybe a a a an important
+observation is that there are other
+versions of Laplacians that one can use.
+Um um everything I'll I'll be saying
+will
+extend to the unnormalized Laplacian,
+too.
+Um
+but it will not extend to
+non-symmetric Laplacians like the random
+walk ones. And I I promise you that by
+the end of this talk you you you'll
+understand why.
+Now,
+how can we use the Laplacian? So, one
+one important quantity on a graph is a
+Dirichlet energy. So, as I said,
+consider a signal or feature on a graph,
+and we can think for example the
+temperature
+at each node of the graph. So, we have a
+temperature for each node of the graph,
+and we can think of now of this uh
+temperature for each node as a vector
+where I stack basically each each entry
+and get an n-dimensional vector. So,
+once now I have a signal as an
+n-dimensional vector, I can of course
+decompose this signal into the basis of
+eigenvectors of the Laplacian.
+Um
+I see there is
+there is no condition denominator
+Laplace equations. Um
+Technically, the you you would have
+you would have some
+connect connectedness type of
+assumption. So, something I I didn't
+want to like uh stress too much like uh
+make that this like to dance, but of
+course
+ideally one would like to avoid to
+consider isolated nodes
+um that would have basically degree
+zero.
+Or you could have isolated nodes with
+self-loops, at least they have positive
+degree. So,
+um we can think of a graph where we
+ignore isolated nodes, so that the
+denominator is always well defined.
+Um
+So,
+now what I was saying is if we have this
+decomposition into the eigenvector
+basis, then
+um
+we can use the Laplacian to so uh sort
+of measure the smoothness of the signal.
+Now,
+the Dirichlet energy, and a few of you
+might may uh already know the uh
+analogous quantity for Euclidean space,
+can be also defined on graphs, and we
+have this definition where basically we
+sum over all edges
+the deviation of this of the signal
+value that not I and the signal value to
+not J for all edges that connect I and J
+up to this normalization by degree, once
+again, let's let's remove isolated
+nodes.
+And I can rewrite this
+uh quantity in compact form as an inner
+product between the signal and the
+Laplacian, right?
+Um and in fact, I can use the eigen
+decomposition I had upstairs to
+write the Dirichlet energy in terms of
+the coefficients
+of the signal with respect to the eigen
+vector basis of the Laplacian.
+So, what I want to emphasize here is
+that the Dirichlet energy measures the
+smoothness of the signal because the
+lower the Dirichlet energy,
+the lower these
+deviations along edges, and therefore
+the smoother the signal. And vice versa,
+if the if the Dirichlet energy is
+higher, then the signal is going to be
+less smooth.
+Um and in fact,
+people refer to this quantity inside the
+L2 norm as the gradient of the of the
+feature
+along an edge.
+Um but what is important is that
+equivalently, because of these
+equalities, I can measure the smoothness
+of the signal in terms of
+the mass
+that the signal has projected on the
+lowest frequency eigen vector. So,
+the larger the CL for low L, then the
+the smoother the signal because we have
+lower Dirichlet energy.
+Um
+Oh.
+Okay, so I have two questions.
+Um
+maybe I I have a question for the um
+organizers or the like I can try to uh
+deal with them a little bit better. How
+much time do I have?
+Yeah, so you have 1 hour.
+1 hour. Okay.
+Um fine. Yeah, so
+why do we care about the smoothness of
+the signal? So, in general,
+you can think let's say for for example,
+you think of images, but and you can
+think of images as a subclass of graphs,
+right? Then
+you want to have some operations on
+images, and these operations uh
+for example, can be blurring or can be
+sharpening. So, these type of operations
+are
+blurring that
+would be like uh you kind of diffuse the
+image, and this is like it increasing
+the smoothness of the image, or you can
+do sharpening like enhancement, which
+means for example, you you do some edge
+detection, and you may in fact uh
+decrease the smoothness of the signal.
+So,
+assessing how smooth a signal is, like
+for example, colors on an image or an
+image itself, is one way of monitoring
+what kind of transformations you can do
+on that on that images.
+Um
+And you but you're going to see in a
+second why also like we care about that
+in the context of graphs and graph
+neural networks.
+Um
+I'm not sure what I should repeat
+specifically. If there's a point I
+should I have to repeat, I can I can do
+that.
+Uh if you had a loose signal
+Um
+So, the role of self-loops is actually
+an entire a topic that is not entirely
+understood.
+I I guess the heuristics is at least at
+least in the context of GNNs is that
+if you add a self-loop, nodes will tend
+to retain most information about
+themselves,
+and this will alleviate like mixing too
+much with the information of their
+neighbors. So, in fact, it might change
+uh information on the graph, but in a
+positive way. And especially if we have
+a heterophily uh rather than a
+homophily, but this is terminology that
+I will introduce later in in the chat in
+the talk, so I don't want to sort of
+like um confuse you too much at this
+point.
+Um right. So, this energy is a function
+that uh monitors smoothness in the
+graph.
+Uh but I also want to give you a rough
+picture that um perhaps also partly
+answers the questions about why do we
+care about smoothness, what is telling
+us about that. So, consider like a a
+process that changes on time in the
+graph. Like for example, you can think
+of temperature on a graph that evolves
+in time due to some, I don't know,
+external factor like heat
+uh up um that is applied to the graph.
+Now, for each time, we can always take
+the temperature as an n-dimensional
+vector and write this temperature in
+terms of the eigen vector basis. So, now
+the coefficients that with respect to
+this eigen vector basis will of course
+be functions of functions of time.
+Now, a rough description is the
+following. If the high frequency
+components, so we by that I mean the
+coefficients cl
+with l large, so the coefficients that
+multiply the eigen vectors of the
+Laplacian with larger eigen values, they
+decrease with time,
+so I keep the low frequency components,
+but I throw away the high frequency
+component, then I'm effectively
+effectively doing some blurring
+denoising type of operations, which is
+what for example also has been studied
+for images. So, this will increase the
+smoothness of the signal, right? So,
+this is a type of operation that will
+denoise the graph and can be useful in
+many in many situations.
+But on the other side, if I throw away
+the low frequency components and I keep
+the high frequency component, then I say
+that I have a high pass filtering,
+meaning that I do the other op the
+opposite transformation, I sharpen the
+signal, and I and I sort of like enhance
+the signal. Now,
+this image is essentially describing
+what I just said, because you have the
+same graph,
+and what you have is the four the first
+four eigen vectors of the Laplacian.
+Now,
+you can see how if you move from left to
+right, the eigen vector become
+becomes less and less smooth. So, in the
+first case,
+the eigen vector takes the same value at
+each node. So, you can think of
+temperature being the same everywhere.
+But then as you move from left to right,
+the signal becomes less and less smooth
+because now you have temperature that
+changes in in let's say multiple places
+as you as you go from left to right. So,
+left is low frequency, everything is
+smooth, everything changes very little,
+and then as you increase the frequency,
+uh you you decrease the smoothness and
+you can have signals that are also more
+complicated. Okay?
+Now,
+a very very standard example of an
+operation that is a low pass filtering,
+so an operation that makes the signal
+super smooth, is the heat equation. So,
+remember that I can have an input
+signal, say,
+temperature,
+and then
+the Dirichlet energy can be written in
+compact form as this inner product.
+So, let's say I want to minimize the
+Dirichlet energy. In other words, let's
+say I want to make my my signal, my
+feature, smoother. I want to do some
+blurring or some denoising, right?
+What I can do is take infinitesimal
+steps in the direction of steepest
+descent of the energy, and therefore
+basically obtain a dynamical system or
+differential equation where
+my
+feature evolves in time in the direction
+of of minus the gradient of the energy.
+But you can see from this equation here
+that if I take the gradient of that, I
+will just get minus the
+the Laplacian times the solution. So,
+this is the classical heat equation
+where we
+evolve the some some feature by minus
+the Laplacian of the graph. And in fact,
+by design, because we are evolving in
+the direction of of steepest descent of
+the energy, the energy will decrease in
+time, and in fact, if I let the heat
+equation run for infinite time,
+in the limit, I'm converging to
+something that
+is in the kernel of the Laplacian, as in
+satisfies Laplacian times the limit
+equals zero.
+So,
+the take-home message here is, if I have
+a low-pass dynamics, so a dynamics that
+is smoothing something that is denoising
+a a signal,
+if I let it run for too long, the
+feature become indistinguishable,
+because everything is becoming
+increasingly similar to each other up to
+a point where I can't distinguish
+anything no more, as in the picture I
+was showing you before, where the
+temperature was the same at each node.
+Um now, we've
+Right now, we've talked about scalar
+signals, but of course, most of the
+times, especially for GNNs, as as we'll
+see later, we have vector signals. So,
+for each node now, we have a
+D-dimensional vector, so we can
+represent the feature as a matrix that's
+of dimension N by D,
+and we can generalize the Dirichlet
+energy in this case fairly easily. So,
+we again sum over all edges, but now,
+instead of having the scalar deviation,
+we have the L2 norm of the vectors.
+And not surprisingly, as as I've shown
+you before, if you take the the gradient
+flow of that, so if you evolve the
+signal in the direction of minus the
+gradient of the Dirichlet energy, you're
+going to see the heat equation, but down
+on each coordinate, or aka in each
+feature channel. So, for each
+R that goes from 1 to D.
+Um
+this is a slide that may sound a bit
+technical, but in fact, it is the key
+approach that that we've used in our in
+our paper to analyze mathematically
+everything in an easy form. So,
+the upshot is if I'm given a feature
+matrix, I can always vectorize this
+matrix by stacking all the columns into
+a longer column, right?
+Uh now, if I do that, so I move from n
+by d to nd,
+then I can rewrite the Dirichlet energy
+in a compact form,
+and you can see now that the heat
+equation I was showing you above can be
+nicely written as a vector equation,
+where I have a vector on the left-hand
+side, then I have this operator, which
+is basically I'm I'm broadcasting the
+Laplacian on each entry, and then I have
+another vector here. So, I don't want to
+you to get too stressed about the
+details here, but and I invite you for
+example to maybe check out our paper for
+for the details, but the
+take-home message here is that this
+tensor product or Kronecker product
+formalism
+allows us to uh reduce matrix
+differential equations to vector
+differential equations, and vector
+differential equations are much easier
+to deal with.
+And I'm going to show you now a
+motivating example um that hopefully
+will uh also clear things out a little
+bit about uh this this stuff with with
+this graph in. So,
+let's suppose we have a dynamical
+process on a graph, and we want to say
+is this dynamical process
+a smoothing process or a sharpening
+process? So,
+are the low frequencies dominating or
+are the high frequencies dominating? How
+can we determine that?
+The the
+the key point is we want we can use the
+Dirichlet energy, but we have to
+normalize the solution first. And this
+motivating example would be to justify
+that.
+So,
+let's consider a very simple
+differential equation. We have a feature
+me solution feature matrix that is
+evolved as normalized adjacency times
+the solution and I can always factorize
+that as I as I showed you in the
+previous slide. Now, recall that the
+normalized adjacency is is just identity
+minus the Laplacian. Now, this is all
+that's symmetric matrix. So, linear
+dynamical equations, I can exponentiate
+and get my solution. So, for each for
+each feature channel, I just have to
+look at the exponential of this matrix
+times my initial condition.
+Now,
+exponentiating a matrix means
+essentially that I have to decompose the
+matrix using eigenvectors and
+eigenvalues. So,
+I can rewrite my solution as
+a combination
+of the eigenvectors of the Laplacian.
+Then, I have my the projection of my
+initial condition into the eigenvector.
+And then, I have an exponential here
+that is basically determining how fast
+or I am growing or how fast I am
+decaying in time along that eigenvector,
+right?
+Now, you recall that the smoothest
+eigenvector
+is the one that is satisfied equation
+delta phi zero equals zero. Now,
+if I'm looking at the projection along
+this eigenvector of my solution at time
+t,
+then I get this equation. So,
+my the projection along the
+smoothest eigenvector is actually
+growing exponentially fast. And this is
+the component that is growing the
+fastest in my equation. Now,
+if I have an equation and my the
+projection along the smoothest
+eigenvector is growing the fastest, I'd
+like to say this is a smoothing process
+because what is basically driving my
+equation is the vector that is the
+smoothest one. So, I I'm I I've told you
+that the Dirichlet energy measures the
+smoothness. So, is it true then that the
+Dirichlet energy is going to zero
+as we progress in time?
+This is not the case. So, the Dirichlet
+energy is still
+basically in almost any case will
+diverge to infinity. So, what is
+happening here? I I think I have a
+process that is smoothing, but the
+Dirichlet energy seem to go to infinity.
+Well, the point here is that we are not
+normalizing the solution. So,
+if we normalize the solution, so we
+divide the solution by its norm, then
+actually we find that the Dirichlet
+energy of this is going to zero.
+And in fact, for each channel, for each
+feature channel, the normalized solution
+is converging to something that is in
+the kernel of the Laplacian, so satisfy
+this equation.
+So, the upshot of this motivating
+example is the Dirichlet energy is not
+enough because it it does not account
+for the scale of a signal. We have to
+normalize the solution first. And once
+we normalize, now this quantity here is
+a good measurement of whether my process
+is becoming smoother and smoother or
+whether it's becoming
+like more sharp, like less smooth.
+Um these are definitions uh we've
+introduced in our paper to basically
+capture that. So,
+we say that a dynamical system
+initialized at some,
+you know, in input feature,
+is low-frequency dominant, and I'm I
+will be using this acronym LFT,
+if the Dirichlet energy of the
+normalized solution is going to zero for
+as we progress in time.
+And the reason why that makes sense is
+that one can actually show
+that
+if this is satisfied, then basically
+up to subsequences, and I invite you to
+read the appendices for why this
+condition in fact is necessary,
+um
+you will converge to a solution that is
+in the kernel of the Laplacian. So, this
+lemma is essentially telling you, yes,
+this definition makes sense. The
+Dirichlet energy of the normalized
+solution is in fact telling me
+whether
+what is the fastest component, what is
+the component that is driving my
+equation. And if this is going to zero,
+then
+such component would be the smoothest
+possible one.
+And we can have exactly the same
+definition, but for the case, which is
+the high frequency dominant. So, the
+Dirichlet energy satisfy this bound.
+That means that the Dirichlet energy of
+a normalized signal is always bounded by
+the spectral radius over two. The over
+two is a convention we've used in our
+paper.
+So,
+the very same motivation allows us to
+have the following definition. We say
+that a dynamical system on a graph is
+high frequency dominant or HFT if the
+Dirichlet energy of the normalized
+solution approaches its
+maximum as we progress in time. And
+again, this makes sense because we can
+show that if this is satisfied, then
+the normalized solution is converging to
+a signal
+that will be the largest frequency
+eigenvector. So, the least smooth
+eigenvector of the Laplacian.
+So,
+I've given a lot of information, but the
+take a message is now we have two
+definitions LFD and HFD.
+LFD
+dynamics means
+at the end of the day, I have a
+smoothing dynamics, something that will
+make things increasingly similar.
+HFD is the opposite dynamics, is a
+sharpening dynamics where I am enhancing
+rather than denoising.
+But why would we need such definitions
+in the context of GNNs. So, we finally
+uh
+can talk about MPNNs after all these
+ex courses. So,
+we have a graph, we have some input
+features,
+we have potentially an encoding map, and
+then we have update functions for each
+layer that process these features. And
+generally, message passing neural
+networks can be written like this. So,
+we have that the representation
+at each node at layer t + 1 is given as
+a function of the representation of the
+previous layer and the representations
+of each of each
+of each neighbor, right? So,
+message passing means I'm using the
+given graph as the actual computational
+graph to propagate information.
+Now, message passing networks are
+you know, quite successful in fact,
+quite simple, but we have to talk about
+problems. Otherwise, we
+our research will be over. So,
+we have problems, luckily enough, and
+the main ones are expressivity. We're
+not going to talk about expressivity in
+the classical sense of comparison with
+WL test today.
+The second problem is what I refer as
+low versus high pass. So,
+how do message passing networks perform
+if we need more than a smoothing
+process, if we need more than denoising?
+And this is related to this now
+classical problem of over smoothing,
+which happens if we stack many, many
+layers, and at the end, we see that the
+representation of each node are becoming
+indistinguishable.
+And another problem is over squashing.
+This is
+also something I I I worked on, and it
+basically is like
+it it's a problem of information flow
+that can struggle due to the graph
+topology. This is independent of the
+specific choice of MPNN, but will be
+affected by the graph topology. Now, in
+the rest of this presentation, I will be
+focusing on the second point, but of
+course, these are very much related. If
+we have an MPNN that can perform
+uh not just as a low pass, but also as
+for example as a high pass, then of
+course it's more expressive. And
+just to set some terminology, uh we
+usually think of a semi-supervised
+setting where we have a a subset of the
+nodes that are that are labeled
+and we want to predict labels on a test
+set.
+Now, there are two notions that usually
+people now refer to in this in this
+scenario. The first one is homophily.
+Homophily means neighbors
+often share the same label. So, labels
+are smooth and therefore a low pass is
+good here because uh most of the times
+we just want some denoising because
+everything I'm connected to is actually
+similar to me.
+The opposite case is heterophily. So,
+labels are not smooth and therefore we
+expect low pass to be actually bad and
+this is this finally circles back to the
+question of why do we care about
+smoothness that as someone asked at the
+beginning. So,
+we care about smoothness because if a
+process is
+increasing the smoothness of the signal,
+then such process could be uh beneficial
+if we have homophily,
+but it could be actually harmful uh
+uh
+damaging if we have heterophily because
+we are making things similar when they
+shouldn't.
+So, and the dual perspective of course,
+this extends also to task like graph
+classification and graph regression
+because one can think of homophily and
+heterophily as short-range relations. I
+only care about what's connected to me
+versus versus long-range relations. I
+actually care about things that are also
+not connected to me.
+Um the standard example of MPNNs are
+GCNs, so graph convolutional networks,
+where a layer is basically given by a
+some non-linear activation function,
+then we have a message passing matrix
+that encodes graph information, in this
+case the normalized adjacency. We have
+the solution, and then we have this
+right-hand side multiplication, which is
+referred to as channel mixing, because
+of course it will act on the on the
+entries of each feature and and
+potentially mix the entries.
+Now, GCNs, you know, are successful, are
+extremely simple, but there have been
+scenarios where they seem to struggle.
+So, the first one is heterophilic
+graphs,
+and the second one is a degradation when
+increasing the depth. So, this is the
+problem of over-smoothing, and
+there's been quite some analysis in the
+literature about this problem that can
+be sort of
+condensed in the following statement.
+So, what has been shown is that the
+Dirichlet energy of a solution of a GCN
+is going to zero
+if the singular values of the channel
+mixing are sufficiently small. And this
+sufficiently small is depending
+basically on properties like the
+spectral gap of the graph.
+So,
+this is not okay, because we know that
+if Dirichlet energy is going to zero,
+then we have a smoothing process, which
+of course may not be uh good, and we may
+lose information.
+But this statement is also
+tackling a specific angle of the
+problem.
+We have this assumption on the channel
+mixing, which is sufficiently small in
+terms of singular value. So,
+is it the case that we can generalize
+such a result when we don't have this
+assumption?
+Is it the case that sort of graph
+convolutional networks are in fact
+doomed, as in they can only act as
+low-pass, or maybe we can say something
+a little bit different.
+So,
+to kind of tackle some of these
+questions, we have
+uh
+tried to follow a sort of same
+multi-particle approach to GNNs, where
+we think of node features as particles
+in in RT.
+And we have this gradient flow
+framework, which we termed graph, where
+the message passing neural networks can
+be interpreted as some multi-particle
+dynamics that minimize a learnable
+energy.
+Now, uh on the right, just to give you a
+an idea,
+this is a small graph, and this is the
+actual gradient flow framework that is
+able to um sort of induce attraction on
+one of the sort of axis and repulsion on
+the other. And this is These are both
+useful to to you know, bring things that
+should be brought together closer, but
+also separate things that are different.
+Now, what does What What is the outline
+of our contribution? So,
+as I said, we don't parameterize the
+message passing neural network's
+equations, but we do parameterize an
+energy that models these interactions
+between particles, and then the message
+passing neural network will follow the
+direction of steepest descent of a
+learnable energy.
+Now, we show that the channel mixing W,
+in fact, can learn to induce either a
+low-frequency dominant or a
+high-frequency dominant dynamics
+thanks to its spectrum. So, the channel
+mixing, in fact, is powerful enough
+to
+adaptively learn to to do more smoothing
+or more enhancing thanks to its positive
+and negative eigenvalues.
+Um and in fact,
+if you think about the the
+picture I showed you before, you can you
+you in this framework, you can think of
+positive and negative eigenvalues of W
+as generating attraction attraction and
+repulsion. So, you can think of forces
+in in particle space.
+Um I'm going to address that question in
+a second. Uh at least I'm going to open
+the chat now.
+Um and then these
+sort of like
+dynamics can induce a framework that can
+learn to be LFD or HFD, so it can adapt
+to homophilic and heterophilic graphs
+because in the first case we expect, as
+I said, low frequency dominant to be
+good. In the second case we expect high
+frequency dominant to be good.
+Um
+Oh yeah, I mean uh this is not the
+presentation is going to be uh it's not
+going to be over here. Now we're going
+to
+uh you know, dig into and explain um
+uh more the role of the channel mixing,
+right?
+At least in this gradient flow
+framework.
+Um okay, so
+uh
+Right, I think yes.
+Okay, so just a recap, uh we're going to
+um
+look at um Jinan's dynamical equation.
+So remember like
+we can think of residual network ResNet
+as a discretization of differential
+equations when the step size
+uh goes to zero. And this is of course
+can be done in the case of residual
+message passing neural networks, too,
+where we have a residual block. We have
+a step size and then if the step size
+goes to zero, then this is just a
+discretization of differential
+equations.
+And
+there've been instances of continuous
+message passing neural networks. Um I
+think I need uh I have to like uh you
+know, speed up a bit to to go through
+the end. So I'm I'm just going to be
+saying here that in all of these models
+you actually parameterize the equation.
+So a kind of question would be how do we
+choose such equations, right?
+Now
+since we're looking at the framework of
+differential equations and dynamical
+systems, there is a a very very special
+class of differential equations that are
+gradient flows. Now, gradient flows are
+equations where
+the ODE is actually the
+steepest descent of an energy. So,
+you are evolving some equation some
+function in the direction of minus the
+gradient of an energy.
+Now, these equations are very special.
+They are used everywhere in in you know,
+in physics, in geometry, because instead
+of basically studying the equations, you
+can study the energy and the energy is
+already giving you a lot of information
+because you know that any solution you
+are going to you're going to you're
+going to get is minimizing the energy.
+So, you know the dynamics of what it's
+trying to achieve.
+So, that the key question that is sort
+of motivating our work is, okay, what if
+we parameterize an energy, so we learn
+an energy rather than the message
+passing neural network's equations.
+So, we can do that
+and
+if we do that, then we you can interpret
+this process as let's generalize the
+classical Dirichlet energy that is not
+learnable with something that allows us
+to find the right notion of smoothness
+for the problem.
+And now, we once we parameterize the the
+energy, the message passing neural
+network equations will just follow as uh
+the gradient flow of this energy, which
+means as minus the gradient of of this
+energy.
+Right?
+Now, let's try to um
+be a little bit more specific about
+that. So,
+how can we
+generalize the Dirichlet energy on a
+graph?
+So, let's suppose we have a matrix that
+represents essentially a metric in
+Euclidean space. So,
+this is a positive semi-definite matrix,
+so we can use the Cholesky decomposition
+to write this as W transpose W.
+And what we can do is
+on the left-hand side here, you had the
+classical Dirichlet energy where we sum
+over over all edges the gradient of the
+feature squared.
+And now we can generalize that by
+waiting this L2 norm with some learnable
+W. So, I'm let literally waiting the the
+the L2 norm.
+And this would be a reasonable first
+step. I don't have time to motivate
+this, but in our paper we draw some
+comparisons with harmonic map flow that
+were used in image processing, too.
+Now,
+let's say I want to minimize the
+Dirichlet energy weighted with W. So,
+what do we expect? So, we want to
+minimize this quantity, but this
+quantity is a sum of squared function,
+so each a sum and has to be minimized.
+So, we expect the gradient to go to zero
+except when is inside the kernel of H.
+So, except when basically, for example,
+W times the gradient is zero.
+And
+this is precisely what happens. So, we
+can treat W as learnable weights. We can
+derive the gradient flow of this energy,
+which is a quite simple equation. So,
+this resembles GCN because we have a
+solution, we have a message passing
+matrix that in this case is minus the
+Laplacian,
+but then on the right-hand side we have
+this channel mixing acting on the
+features.
+And now the proposition, and I'm going
+to state this informally, but we have
+the specific the
+precise statement in the paper, is that
+you there is no W we can learn
+that will separate the limit embeddings
+of nodes that have same degree and same
+input features. So, you give me two
+nodes,
+they have the same degree, they have
+same input features. If I run this
+equation for too long, their
+representation will become the same. I
+cannot distinguish these nodes anymore.
+And in fact, if W has a zero kernel, so
+the kernel of W is just a zero vector,
+then nodes with the same degree will
+converge to the same representation.
+This is irrespective of the their input
+features. So, this is a
+a bad thing. And in fact, in the context
+of GNNs, this is what people
+traditionally refer to as
+over-smoothing, where nodes that have
+same degree will converge to the same
+representation, forgetting all the other
+information, features, and anything of
+that sort.
+And this is in particular, so this is a
+little bit more technical, but
+over-smoothing this occurs
+independently of the spectral radius of
+W.
+So, this and this is true even for
+equations that are residual, because
+this is a differential equation. So,
+when we discretize, we're going to get
+residual equations. So, um this is
+different from what is was known or
+studied previously in literature. We
+have no type of assumption of the form
+we need singular values to be small
+enough, and we are looking at equations
+that are actually residual. So, the
+take-home message here is, if we can
+control the sign of the eigenvalues of
+the channel mixing, which is what is
+acting on the right,
+then this is very powerful, and it's
+going to generate the dynamics that can
+always be uh low-frequency dominant, and
+in fact, it will always over-smooth in
+the limit. So, this is not great. I
+mean,
+we said,
+"If we have something like that, it's
+going to definitely fail if we have a
+tropy, right?" So, how can we modify
+this a little bit
+to make it more general? So,
+remember that we have the Dirichlet
+energy that is written like this,
+with this weighted W. So, what we do is,
+okay, let's replace each occurrence of W
+transpose W
+with symmetric matrices omega and W
+that are now independent. And the
+symmetry is actually uh necessary here.
+If we do that, now the energy is written
+as a the
+of two terms. The first one, as you can
+see here,
+has no dependence on the edges, no
+dependence on the graph connectivity.
+The second one depends on the edge
+connectivity, because it it it will sum
+again over all edges. And then we have
+these inner products that are weighted
+by omega and W. So, how can we interpret
+this?
+Um
+of course, we can take the gradient flow
+of that, and the gradient flow it
+will become again increasingly similar
+to graph convolutional models, because
+it's a differential equation. But then
+we have a term that resembles graph
+sage, because we have feature sort of
+like mixing of the channels acting on
+the solution without any graph
+information. And then we have what is
+essentially graph convolutional block,
+right?
+Remember that omega and W here are
+symmetric matrices.
+But what I care about now is in the
+interpretation. So,
+not features are particles.
+So, the external energy is independent
+of the graph topology, as I as I was
+saying. So, this can be interpreted as
+an external field in in in this particle
+space.
+The pairwise energy is a potential
+energy that does depend on the edges and
+can be interpreted as pairwise
+interaction of the particles that are
+basically governed by W. And remember
+that in our framework, W and omega are
+what we are going to learn, right?
+But W is symmetric, so W can always be
+decomposed into positive and negative
+eigenvalues. And I'm using this notation
+just to mean this positive and negative
+eigenvalue decomposition.
+Now, if we do that, we can rewrite the
+same energy in a more explicit way as a
+first term that is just, again,
+independent of the graph structure.
+But then this these two terms are
+actually what very interesting, because
+now we have a gradient flow that
+minimizes the energy. So, if we want to
+minimize the energy, what we get is
+attraction.
+And this is through the positive
+eigenvalues of W because these terms
+here, remember the theta plus are
+encoding positive eigenvalues of W, is
+decreasing edge-wise.
+But we also have repulsion because
+the negative eigenvalues of W are acting
+now on the gradient, and these terms
+here are increasing along the evolution.
+The reason why they are increasing is
+because they appear here with a minus
+sign. So, if we take gradient descent,
+this uh last term here would increase.
+So, what we found is just without
+looking at the equation, just looking at
+the energy, we know that whatever
+message passing a network we're going to
+get as gradient flow of this energy,
+it will have two type of behaviors,
+attraction by the positive eigenvalues
+of W, repulsion by the negative
+eigenvalues of W. But attraction is
+something that makes things smoother
+because it it pulls things together.
+Repulsion is something that will
+enhance. It will pull things apart. So,
+we expect attraction to be
+inducing LFT dynamics, and repulsion to
+be inducing HFT dynamics.
+And this is precisely what happens.
+So,
+I think I have to run a little bit. So,
+I'm just going to say that this
+proposition, again, I I've reported an
+informal statement, is precisely saying
+what I've just said. So, if you have
+enough negative eigenvalues for W, and
+remember W is what you want to learn,
+with respect to the positive
+eigenvalues, then the graph high
+frequencies dominate. So, your dynamics
+is HFT. You are not going to oversmooth,
+and in fact, you are going to separate
+things apart. Remember that picture I
+was showing you before when you had this
+separation along one axis. So, the
+theoretical upshot is the channel mixing
+W that enters GCN and stuff like that is
+in fact quite powerful, and the
+distribution of its eigenvalues, in
+particular how much mass I have into the
+negative eigenvalues compared to the
+positive ones, determine if the dynamics
+is LFD or HFD. So, I can adapt um to do
+smoothing or enhancing.
+Um I'm going to skip this slide. This is
+just some comparison we do with uh a few
+continuous general models by showing
+that they actually
+uh are never HFD, so they can never act
+by as like high frequency dominated,
+which is a limitation.
+Um and then I can move to the
+the discretization of our framework,
+because at the end of the day we want to
+discretize our our equations, and of
+course we do that by introducing a step
+size, and then our linear gradient flow
+framework can can be written like this
+in in a simplified form,
+where the only constraint is essentially
+that our channel mixing is a symmetric
+matrix, and this is shared across
+layers.
+Um
+I think um yeah, I think I I I want to
+like maybe uh skip the details here, but
+this is so um I want to say that the
+main theorem of our paper is essentially
+translating the result from the
+continuous case, so time is continuous,
+to the discrete case, time uh is
+discrete, so we talk about layers. And
+this theorem is telling you a few
+things, um
+which um I think I I can just skip to
+here, to the take home messages, because
+uh we don't have time. So,
+once we discretize this gradient flow,
+we find that
+first, differently from previous
+results, I can induce a high frequency
+dominated dynamics thanks to the
+negative eigenvalues of W, and there is
+no requirement on how big these negative
+eigenvalues are, provided that the
+positive eigenvalues are small enough.
+So, it's the concentration of positive
+and negative eigenvalues of W that is
+really uh determining how the dynamics
+are inside an MPNN is going to behave.
+Also,
+we we found that if we drop a residual
+connection, then your dynamics is going
+to be low frequency dominated
+independently of the sign and magnitude
+of the eigenvalues of W. So, the
+eigenvalues of W can help you steering
+away to steer away the the process from
+being smoothing
+provided that you have a residual
+connection. Otherwise, they cannot do
+that.
+Um I'm going to finish this presentation
+by giving you some ablation studies that
+sort of corroborate and confirm our
+theoretical analysis.
+Um this slide is just to show you that
+basically the
+the ingredients of this framework are an
+encoding block that acts node-wise.
+We have symmetric channel mixing
+matrices omega and W that are shared
+across layers.
+We have a decoding block to for the
+classification. And then we have this
+simple linear
+message passing your network star
+residual because they come from a
+differential equations. And then we have
+this block here where we have
+potentially a source term. And And then
+we have the gradient flow blocks that I
+was describing with symmetric matrices.
+Um
+Of course, the key thing here is let's
+suppose for simplicity that omega is
+zero.
+How do we choose um
+um
+how do we enforce symmetry at the level
+of W? So,
+of course, the simplest case would be
+let's learn W prime and then let's
+consider W prime plus W prime transpose.
+That's That's simple enough, but there
+is no control on the spectrum here,
+right?
+On the other case, we have ways of
+controlling
+directly the spectrum by taking what we
+call prod or neck prod. So, we learn W
+prime, but then we take W prime
+transpose W prime. And but the problem
+of this, of course, is this construction
+will always give you eigen values with
+the same sign. So, either
+or all non-negative or all non-positive.
+And finally, we have
+what we call diagonally dominant.
+Um
+I don't think it's crucial here to
+discuss the details, but the the um
+main factor here is basically
+controlling the diagonal terms of W and
+the off-diagonal separately, and one can
+then rely on Gershgorin theorem to sort
+sort of like
+uh monitor the spectrum. And in fact, we
+have some ablation study in our paper
+that show that this configuration seems
+to be more efficient with respect to the
+hidden dimension. So,
+um an important bit is something that I
+hope you've already picked up is this
+model is or I should say framework is
+quite simple. So, it's linear.
+There is no attention mechanism. There
+is no, you know,
+some complicated stuff going on. And in
+fact, it's basically faster than GCN
+because we are also pre-processing using
+nodes rather than edges. So,
+and these ablation studies just to
+confirm this is like essentially a super
+light uh framework.
+Um now,
+I want to finish this presentation by
+saying
+the by showing you a few a few charts,
+but let me recap what our theory
+basically said. So,
+positive eigen values of W
+induce attraction in a residual
+convolution model. This is good if you
+have a homophily.
+Negative eigen values of W induce
+repulsion in a residual convolution
+model. This we expect to be good on uh
+heterophily.
+And then if we drop the residual block,
+then
+there is no W that can steer away the
+diffusion from low frequency dominance.
+So,
+if we drop the residual block, we expect
+the model to suffer
+in heterophily, no matter the spectrum
+of W.
+And to sort of justify these claims, we
+use these sort of synthetic data sets
+where
+we can sort of generate
+some
+targets of homophily by preferential
+attachment.
+Um
+the ablation study essentially confirmed
+that. So, for example, we observe that
+if we have
+only negative eigenvalues, this is going
+to be much better on low homophily, but
+it's going to be much worse on higher
+homophily because we can only do
+repulsion. And the other way around for
+prod, so if we have only positive
+eigenvalues.
+Um
+this is important because even if you
+have a residual connection, as our
+theory was showing, that if we only have
+positive eigenvalues, you can only do
+attraction, so you're going to suffer
+anyway when the homophily is is low. And
+you can see, for example, here the green
+plot. So, prod is a residual model, but
+it's going to be terrible with low
+homophily because it can only do
+attraction.
+Of course, if we have
+uh models that can adaptively learn to
+be either attractive or repulsive like
+the sum or diagonally dominant, they
+tend to be uh
+performant
+more robustly
+with respect to the target homophily.
+But, they are better essentially than
+GCN, which is this uh violet one,
+because GCN is not residual, and we know
+by our by our theory that it will suffer
+with low homophily, no matter the
+spectrum of W.
+And we have a similar ablation, but I
+think this is actually even more
+interesting, in my opinion, because
+what we do here is effectively
+explaining the smoothness of the
+prediction thanks to our analysis,
+because what we do is comparing the
+homophily of our prediction. So, we're
+essentially the smoothness of our
+prediction versus the homophily that is
+directly read from the encoding, so
+without any evolution. And what we find
+is again that if we only have negative
+eigenvalues, so we can only do
+repulsion, the smoothness is going to
+decrease.
+If we only have positive eigenvalues, so
+attraction, the smoothness can only
+increase.
+Um neutral variants are of course more
+robust.
+But an interesting behavior is that the
+encoding seems to learn to compensate
+for when the dynamics can either do only
+attraction or repulsion. So, for
+example, if you can only do attraction,
+then the encoding seems to learn to
+separate things initially a bit because
+it knows that inside the evolution, they
+will then put uh, you know, put
+get closer to each other.
+Um so, conclusions.
+We have a framework where the message
+passing neural network's equations
+minimize the multiparticle learnable
+energy.
+This allows us to analyze
+uh the role of the channel mixing and
+how its positive and negative
+eigenvalues matter in generating a low
+frequency dominant dynamics or a high
+frequency dominant dynamics. This we
+could refine some uh existing analysis
+for MPNNs that uh specific uh statements
+are in the paper. And from a practical
+perspective, sort of the framework kind
+of allows for educated choices because
+we can have a more explainable
+convolutional model where the spectrum
+of the channel mixing is directly
+related to the smoothness of the
+prediction, and we kind of refuse sort
+of like this idea that graph
+convolutional models are too simple
+because if we are residual, we have
+enough negative eigenvalues in the
+channel mixing, we can be dominated by
+the high frequency.
+Um and
+some limitations and future direction,
+what happens if of course we replace the
+time mixing in W now with atomic mixing
+that is symmetric but is also aware of
+features in time.
+But this would need to match this
+efficiency requirement. What can we say
+about dynamics that are neither LFD nor
+HFD? Of course this exist and these are
+maybe actually interesting. So, what can
+we say about those?
+Um and of course this energy formulation
+in fact points to models that are a bit
+more sophisticated but also more
+inspired by physics and this is going to
+be like I guess future work. Um
+I thank you a lot for your attention. Uh
+I hope that at least
+the first half of the talk you could
+bring something with you to to like
+maybe look at GNNs or MPNNs with this
+with the eyes of you know, this energy
+and and
+you know,
+signal theory and yeah, I guess I can
+take any other question now starting
+from
+Um you don't Yeah, you don't know if the
+nodes have
+homophily So, two points. First,
+there may be heuristics to estimate that
+based for example on the training set.
+Um
+but what I what I want to say is the the
+framework does not need to know that
+beforehand because
+what we observe in these ablation
+studies that W
+will learn to have more negative eigen
+values if uh basically this is needed
+for the graph. So, you don't need to
+inject this information beforehand. It's
+this flexibility that will learn based
+on the given graph. What we did is
+explaining
+the performance
+depending on the given level of
+homophily in this this in this synthetic
+experiment and showing that basically
+you can base you can literally explain
+the drop in performance depending on the
+homophily and depending on whether the
+model was able to learn negative eigen
+values or not.
+Uh I have not reported a table here. Of
+course, in our paper we we also run
+experiments on uh real data sets for not
+classification and we found that this
+model despite being extremely simple as
+I said, it's basically faster than GCN.
+It will be very competitive with
+way more sophisticated benchmarks that
+have been specifically designed to take
+to tackle heterophily.
+Yeah, you're welcome. I hope that
+answered your question.
+Ah, you know what I'm looking.
+Ah, yeah, sure.
+So,
+homophily means
+that
+the edge of a graph
+connect
+things that are similar to each other.
+Um
+So,
+this very much applies for example to
+social networks. So,
+most likely
+if you are um
+on a social network and um
+the the
+people that you let's say uh
+you follow
+are going to be according into some to
+some rule similar to you. Perhaps in
+terms of age, perhaps in terms of
+interest. So,
+the edges of the social network will
+tend to connect uh items or uh users for
+example that are similar to each other.
+Now,
+if for example instead you are
+you have a graph.
+Uh so, this is homophily and this is
+where because of this assumption
+if you want to then classify on the
+graph you would expect
+a
+sort of operations that denoise the
+graph and uh smooth things out to
+actually help because these operations
+will increase the similarity between the
+neighbors. The neighbors are actually,
+you know, coming from the same uh latent
+representation. They should have the
+same label. So, this is good.
+But, what happens in the other case? So,
+for example, what happens you know if
+you have a graph where um
+for example um
+on one side there are there are users
+but then on the I want to separate users
+from people that are cheating in a video
+game.
+And the edges are
+uh if I report a given user that is that
+is, you know, cheating in in in Warzone
+and I'm not happy about it.
+Now, the
+in this case,
+the edge is not connecting actually
+items or in this case okay, players that
+should be
+placed together. So, if you now have a
+process that
+uh smooths things out, it makes
+for example, myself increasingly similar
+to the people I'm reporting, then this
+would this would be bad. I mean, I'm not
+classifying correctly. So, heterophily
+means you actually want most of the
+times to separate things that are
+connected rather than place things that
+connected uh together and give them the
+same label.
+And you can describe that
+using low and high frequency because a
+process that is low frequency dominant
+place things that are um connected
+together. A process that is high
+frequency dominant will separate things.
+And in in the framework I've described,
+this could be like interpreted using the
+this physics approaches where you have
+attraction
+and repulsion. So, are you going to
+attract things along an edge, homophily,
+or you this would work on homophily, or
+you want to separate things along an
+edge, this would work better on
+heterophily.
+Um so,
+if
+Okay, so that I'm I'm in the first
+question um
+I'm not sure if
+there is a
+specific thing you're asking about the
+Laplacian. What I can say is
+um
+basically this method is as simple as it
+gets or this is I mean I I call it a
+method but the the reality is like it's
+more of a framework and in fact I didn't
+have time but in the paper we explore
+how this framework could for example
+support nonlinearities, activations,
+attention mechanisms and so on. But
+um
+this specific model this specific like
+instance of the framework I presented
+you today is as simple as it gets
+as in there is a a Laplacian symmetric
+or a Laplacian
+times the solution times the channel
+mixing. And there are actually there is
+active research to explain how you
+to justify how you can do that in a very
+scalable way. For example, you can
+separate this was worked by
+some of my colleagues as well. This is
+sign where you can for example separate
+the
+um aggregation step from the learning
+one. So you can sort sort of precompute
+uh for once uh the Laplacian times the
+solution and then you can learn
+separately using MLP for example or
+linear layers. And this
+can scale to very very large graphs. So
+the the
+the scalability here is definitely not
+an issue.
+Uh this would uh answer
+partly uh the question about
+applications as in this can scale a lot.
+But uh
+the reality is I don't see the paper and
+the work I presented as
+an application-oriented type of paper.
+It's more like
+an understanding of
+what blocks that are basically used
+inside almost any MPNN which is the
+channel mixing block
+uh understanding a bit better its role,
+understanding that if you want to have a
+a grasp of what's happening inside your
+MPNN. In fact, the spectrum of the
+channel mixing
+uh and how it interacts with the
+spectrum of the Laplacian matters a lot.
+And in fact, so much that the
+distribution of its eigenvalues will
+determine whether your MPNN will learn
+to be
+uh a smoothing MPNN or it will learn to
+be a sharpening MPNN. So,
+I don't I think the application of this
+paper is more about perhaps you don't
+need to to have a super complicated
+models provided you that
+the block you use, like the channel
+mixing, which is a simple
+everywhere present uh block, is
+uh there is more inductive bias there.
+There is more control. And this paper uh
+explains that.
+I don't have breakthrough uh yet.
+So,
+Yeah.
+Hi, Francisco.
+Hey.
+Yeah, so I think there is no more
+question.
+Perfect.
+I guess I can stop sharing.
+Yes. So, if like we have question, maybe
+you can
+put it in
+a Google Sheet and share with you.
+Of course. Yes.
+Um I uh
+promise you that at least
+the mathematical details are all um
+uh in the paper.
+Uh and uh but yeah,
+let me know if you have any
+There is There is one question.
+Yeah, so
+I think that the main the main take-home
+message is
+uh as I said of this paper is giving you
+some techniques
+that you can apply to understand some
+MPNNs.
+So, you have now a terminology
+that is justified, that is this
+low-frequency dominant, high-frequency
+dominant, and I
+I think it's actually quite interesting
+now to investigate terminology that can
+be more sophisticated as in what if it
+you can't you are neither LFT nor HFT.
+But then you can apply this type of
+techniques to
+you know, um
+other
+type of MPNNs. Um the heat equation is a
+is an MPNN, but it's like there's
+nothing learnable there.
+Um but now
+I think it's a it's an interesting
+question to understand, for example,
+how I can uh
+uh investigate graph attention networks
+or something that is nonlinear and has a
+dependence in the solution via this
+framework. That The answer is not always
+this uh affirmative. Uh
+the generally graph attention networks
+are not gradient flows, they're not
+minimizing energy because they are not
+symmetric. They are row stochastic, but
+they're not symmetric. Um generally,
+almost always, never symmetric. So,
+uh if you want to explain some more
+explainability, so so to speak, in this
+uh gradient flow framework, this will
+give you constraints
+in what you can do and what you can have
+at the level of the equation. But
+constraints at at most of times good
+because it will allow you to have better
+understanding, fewer parameters, and
+and and if it if it give you also like
+competitive performance then then that
+this is all good, right?
+At the end of the day, you know, if you
+think at least about classical
+mechanics,
+you you always have all your Lagrangian
+equations. So you always have some
+functional that is some Lagrangian that
+is governing your multi-particle
+dynamics and this is
+this describes
+extremely complicated
+physical systems. So the same sort of
+intuition is here, right? So why
+wouldn't we not
+have an energy
+perhaps increasingly more complicated
+and this is sort of like more future
+work that could
+explain and and govern my my gene and
+dynamics.
+Um
+So yeah, some of these techniques for
+sure can be applied to many other
+equations, but uh
+the the take-home message is not all
+differential equations are gradient
+flows.
+Uh
+some symmetry has to be in the equation
+for them to be gradient flows.
+Uh
+thanks. Now I'm embarrassed. But yeah,
+thanks.
+So,
+there is no more question from the
+audience.
+So, so I think there's no more question.
+Mhm. So,
+for like for those who are interested in
+working on this domain, they can maybe
+mhm, contact you maybe by email or
+LinkedIn. If you have some contact to
+share to student.
+Okay. Uh
+Just put it in the Zoom chat.
+In the Zoom chat? Yeah, I mean, I I
+guess uh what's my
+Yeah.
+I guess you can reach out here and
+Yes.
+I should also have a Twitter handle, but
+which I shared here, but I don't
+remember. So, let me check. Oh, yeah,
+this one.
+Yeah, I'm not like a
+I'm not too much like of a social media
+person, I guess. Right.
+Yes. Uh
+Yeah, you you can you can reach out to
+me on on the email. Also, um I want to
+uh
+I want to also have the
+um
+If you give me my 1 second, I just want
+to type the right email, but my
+I also have my main collaborator that uh
+you can also uh
+write to him that he's like also the
+go-to person for any question, for
+example, related to
+coding. I
+So, I think I might have LinkedIn, but
+it it was an old master's student
+account from like five or six years ago.
+No, right now I
+I basically I don't have LinkedIn, you
+know.
+I'm sorry about that.
+Um
+Okay, so um
+it was it was really nice presenting
+this. This is actually was the first
+time presenting this, so I apologize,
+but it must be like, okay, it's always
+rough. It takes a lot of few few
+iterations to to get it to get it good,
+but yeah,
+um
+Can you share the link to it? Of course,
+yeah.
+Um
+Yeah, sure.
+Um
+I think I have it open here somewhere.
+Uh
+Yes, this one.
+Um
+Yes.
+Okay.
+Well, thank you so much.
+Yeah, of course. Uh good luck and you
+know, have a good continuation of the
+school with the other talks. Uh yeah,
+enjoy the rest of the day.

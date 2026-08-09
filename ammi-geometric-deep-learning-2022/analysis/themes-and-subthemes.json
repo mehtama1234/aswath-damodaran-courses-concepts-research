@@ -1,0 +1,218 @@
+{
+  "course": {
+    "slug": "ammi-geometric-deep-learning-2022",
+    "title": "AMMI Geometric Deep Learning Course - Second Edition (2022)",
+    "instructor": "Michael Bronstein, Joan Bruna, Taco Cohen, Petar Veličković, and seminar speakers",
+    "transcript_count": 17,
+    "total_words": 172626,
+    "coverage_note": "Theme map is built from the full 17-session transcript corpus captured on August 9, 2026 after excluding the unrelated trailing playlist item."
+  },
+  "themes": [
+    {
+      "id": "geometric-deep-learning-starts-by-rejecting-unstructured-learning",
+      "name": "Geometric Deep Learning Starts By Rejecting Unstructured Learning",
+      "summary": "The opening block argues that modern machine learning needs explicit structural bias. Geometry is introduced as the language for deciding what kind of structure a domain contains and how a model should respect it.",
+      "lenses": [
+        "inductive-bias",
+        "high-dimensional-learning",
+        "representation"
+      ],
+      "evidence_sessions": [
+        1,
+        2,
+        3,
+        12
+      ],
+      "subthemes": [
+        {
+          "name": "High-dimensional learning breaks down without good priors",
+          "summary": "The introduction and high-dimensional lecture explain why generic learning becomes sample-hungry and unstable when structure is ignored.",
+          "evidence_sessions": [
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Geometric priors are the repair strategy, not a decorative add-on",
+          "summary": "The first priors lectures turn structure into a design principle: the model should be built around the transformations and relations that define the data.",
+          "evidence_sessions": [
+            3,
+            4
+          ]
+        },
+        {
+          "name": "The course treats geometric deep learning as a unifying blueprint",
+          "summary": "The field is presented as an umbrella view across graphs, grids, groups, manifolds, and newer application domains rather than as one narrow architecture family.",
+          "evidence_sessions": [
+            1,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "symmetry-is-the-central-language-for-encoding-structure",
+      "name": "Symmetry Is The Central Language For Encoding Structure",
+      "summary": "A core claim of the course is that invariance and equivariance are the right abstractions for deciding what information a model should preserve and how it should transform.",
+      "lenses": [
+        "symmetry",
+        "equivariance",
+        "group-theory"
+      ],
+      "evidence_sessions": [
+        3,
+        4,
+        8,
+        10,
+        15
+      ],
+      "subthemes": [
+        {
+          "name": "Invariance and equivariance formalize what should stay fixed or transform predictably",
+          "summary": "The priors block gives the course its control vocabulary: which transformations should leave predictions unchanged, and which should move them in rule-bound ways.",
+          "evidence_sessions": [
+            3,
+            4
+          ]
+        },
+        {
+          "name": "Groups and homogeneous spaces make global symmetry computational",
+          "summary": "The groups lecture translates algebraic symmetry into practical model construction, showing how familiar convolution is only one special case.",
+          "evidence_sessions": [
+            8
+          ]
+        },
+        {
+          "name": "Later talks push symmetry beyond textbook global actions",
+          "summary": "The seminar and late-lecture material widens the picture from standard group actions to more local, approximate, or abstract forms of structured equivariance.",
+          "evidence_sessions": [
+            10,
+            11,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": "domains-differ-so-the-operators-have-to-differ",
+      "name": "Domains Differ, So The Operators Have To Differ",
+      "summary": "The middle lectures show that there is no single universal operator. Sets, graphs, and grids each impose different locality, aggregation, and weight-sharing constraints.",
+      "lenses": [
+        "sets",
+        "graphs",
+        "grids"
+      ],
+      "evidence_sessions": [
+        5,
+        6,
+        7
+      ],
+      "subthemes": [
+        {
+          "name": "Sets require permutation-invariant aggregation",
+          "summary": "Set learning starts from the idea that ordering is accidental, so the architecture has to treat reordering as irrelevant.",
+          "evidence_sessions": [
+            5
+          ]
+        },
+        {
+          "name": "Graphs require relation-aware locality and message passing",
+          "summary": "Graph lectures show how relational neighborhoods become the unit of computation and why expressivity is tied to how information is propagated.",
+          "evidence_sessions": [
+            5,
+            6
+          ]
+        },
+        {
+          "name": "Grids recover classical convolution as one structured special case",
+          "summary": "The grids lecture re-anchors CNN intuitions inside the broader course blueprint by treating images as a particularly regular geometric domain.",
+          "evidence_sessions": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manifolds-and-local-frames-generalize-euclidean-intuition",
+      "name": "Manifolds And Local Frames Generalize Euclidean Intuition",
+      "summary": "The advanced geometry block moves beyond flat ambient spaces. Manifolds and gauge structure are used to show how learning changes when there is no single global coordinate system.",
+      "lenses": [
+        "manifolds",
+        "gauges",
+        "local-geometry"
+      ],
+      "evidence_sessions": [
+        9,
+        10,
+        11
+      ],
+      "subthemes": [
+        {
+          "name": "Manifolds turn curved spaces into first-class learning domains",
+          "summary": "The manifolds lecture reframes geometry as an intrinsic property of the data domain rather than an afterthought on top of Euclidean coordinates.",
+          "evidence_sessions": [
+            9
+          ]
+        },
+        {
+          "name": "Gauge equivariance replaces one global frame with compatible local ones",
+          "summary": "The gauges lecture handles cases where local reference frames matter and consistency across them is the real design constraint.",
+          "evidence_sessions": [
+            10
+          ]
+        },
+        {
+          "name": "Beyond-groups thinking asks what other organizing structures matter",
+          "summary": "The late lecture signals that useful inductive bias may come from objects more general than classical groups, forcing the field to keep expanding its toolkit.",
+          "evidence_sessions": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-frontier-is-measured-by-working-applications-not-only-theory",
+      "name": "The Frontier Is Measured By Working Applications, Not Only Theory",
+      "summary": "The course ends by showing the blueprint under pressure in active research settings. Scientific machine learning, expressive graph models, sheaf methods, and protein structure prediction all test whether geometric bias pays off in practice.",
+      "lenses": [
+        "applications",
+        "research-frontier",
+        "scientific-ml"
+      ],
+      "evidence_sessions": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "subthemes": [
+        {
+          "name": "Applications and trends turn the blueprint into a research agenda",
+          "summary": "The final lecture takes stock of where the framework has already worked and where the next conceptual bottlenecks lie.",
+          "evidence_sessions": [
+            12
+          ]
+        },
+        {
+          "name": "Scientific and expressive graph variants push beyond vanilla message passing",
+          "summary": "Physics-based GNNs, subgraph methods, and sheaf diffusion each extend the graph toolkit to handle stronger inductive requirements.",
+          "evidence_sessions": [
+            13,
+            14,
+            16
+          ]
+        },
+        {
+          "name": "Equivariance and protein structure show the payoff of getting geometry right",
+          "summary": "The late seminar pair uses abstract equivariance and AlphaFold to show that the course is ultimately about usable intelligence on structured domains, not isolated mathematical elegance.",
+          "evidence_sessions": [
+            15,
+            17
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2148 @@
+and today would like to talk about uh
+many folds meshes and geometric graphs
+so this is maybe a little bit more
+exotic i think in most computer science
+programs
+you uh usually don't encounter many
+folds
+so uh we'll try to convince you that
+these are interesting objects and
+they're worthwhile to to be normal and
+to be studied
+so um
+this was uh just to
+a reminder for you
+um a reminder for you what kind of
+domains we considered so far so we
+talked about the 5g of geometric
+depending and today we're talking the
+the last g so we're talking about uh
+manifolds meshes and geometric crafts
+and taco after me we'll be talking about
+uh gauges which is uh a generalization
+for manifolds so what is called bundles
+so um i remind you also that we could
+define different popular architectures
+as instances of the geometric deep
+running blueprint by choosing the domain
+and the symmetry group
+and for example in convolutional neural
+networks the domain was agreed and the
+symmetry group was a translation group
+we for example we talked about graph
+neural networks right or or deep sets
+where the domain was a graph or a set
+and the symmetry group was permutation
+so here we are talking about uh
+intrinsic or mesh cnns the domain will
+be some discretization of a manifold
+typically a measure or maybe a geometric
+graph and we'll see that we actually
+have two different types of symmetries
+or in variances one of them is global so
+we're talking about isometries with
+respect to some deformations and another
+one will be local so this will be what
+taco then will expand on will be called
+engaged symmetries
+so maybe first of all why it all uh
+manifolds are interesting so these are
+as i said a little bit exotic of an
+object
+in machine learning
+so when we deal with problems in
+computer vision and computer graphics
+we are trying to describe
+three-dimensional objects so
+three-dimensional objects in many cases
+you can describe them as volumes right
+as shown on the left here so
+basically instead of pixels you have
+voxels
+and
+in this case if you are not interested
+in what happens inside the object if you
+are interested just in the outside
+[Music]
+there is some
+some disturbance maybe you can turn off
+your audio uh uh then we can model it
+sorry benjamin i think uh
+thank you
+so an alternative to modeling the the
+volumetric representation of the object
+we can think of a two-dimensional
+surface that the the boundary surface of
+the object and this is
+a two-dimensional manifold right that is
+typically discretized as a mesh
+and as a result we have a significantly
+less wasteful representation
+so uh when we are talking about
+deformable objects uh like the human
+body for example or facial expressions
+so then we can use um techniques from
+differential geometry that allows very
+nature to think of deformations and
+describe deformations of many folds
+now in other applications that we will
+also see in our guest talk when modeling
+proteins
+so proteins are large molecules that
+that interact with each other and with
+with other molecules in our body
+and the way that they interact they
+present to the outside world what is
+called the molecular surface so we don't
+really care about to a large extent at
+least what happens inside how
+intricately the protein is folded
+so a way to abstract out this internal
+folding is to represent them as surfaces
+and again because they change their
+conformation when they interact it is
+important to be able to treat these
+these objects appropriately so the two
+types of environments that i mentioned
+as we'll see so if we have a manifold
+we'll uh need to work with it locally so
+first type of invariance will be the the
+ambiguity in the change of the or in the
+choice of the local system of
+coordinates that that's what we'll call
+the gauge
+the second type of symmetry is global
+it's a deformation for example when we
+deform one shape into another uh we can
+slightly stretch or bend it locally and
+we want to be invariant to these kind of
+deformations or at least approximately
+environment
+now
+what we've seen before for example when
+we take the grids as example right so
+convolution in the plane the way that
+that we worked and the way that for
+example convolutional neural networks
+work so we have some local filter that
+we move around our image
+and we correlate this filter with the
+content of the image in different
+locations
+so uh what allows us to do it is the
+fact that we can move the filter
+globally so we have some global
+representation of of our space and the
+group that attacks globally so we can
+move
+this local representation of the filter
+anywhere in the image this is typically
+not the case in differential geometry
+when we have a general manifold then the
+the
+the way that that our filter will move
+will depend on the path we go so if in
+the plane it doesn't matter which way i
+go on for example a sphere it will
+matter and we can also have some exotic
+uh cases such as the the non-orientable
+manifolds the mobius surface in which
+case uh i will not only have a different
+rotation but i can also have a flip
+of the chord date so i have a reflection
+i change the handedness instead of
+left-handed or right-handed system of
+coordinates i get the opposite one
+so there are several recipes how we can
+generalize the idea of this local
+filtering or convolution type
+of
+of architectures to non-euclidean
+domains so we can for example say that
+we fix the path so there is a kind of
+canonical path between two different
+points we'll call it the geodesic so i
+can go along a certain path i can fix
+the gauge so i can say that i don't have
+any ambiguity in my system of
+coordinates because i pre-computed we
+will see that it's in principle possible
+but it
+arrives it rises certain difficulties
+we can also say that okay if i have an
+ambiguity such as rotation let's
+do a form of pulling over all possible
+rotations
+then if again i have ambiguity of
+rotations i can say that they have a
+filter that is isotropic so it's
+rotationally environment and then it
+doesn't matter how i rotate the local
+frame and finally and this is what taco
+will be describing in his next lecture
+we can have a filter that is gauge
+equivalent so it will change in the same
+way as uh if i change the system of
+coordinates
+okay so i will focus mainly on these
+three possibilities of uh
+fixed gauge group pulling and isotropic
+filters but before that we'll need to
+get some background about differential
+geometry and basically we need to
+discuss three things so first of all how
+to define local stuff on many forms
+right so what i said that that we have a
+local filter that that in the euclidean
+case right on the grid we just extract a
+block of pixels from the image and we
+multiply them by
+by some some mask so this is uh
+significantly more elaborate on the
+manifold so we will need to understand
+what is a remaining metric and a
+probably exponential map in order to do
+it second question is how to move things
+around so we'll need to understand about
+uh parallel transport how i move
+things uh for example how i move a
+vector on the manifold such that it is
+uh i preserve the angle
+and then we'll talk about uh symmetries
+and environments that are related to
+manifolds and again the local version of
+it
+will be discussed in the next lecture
+so here is a crash course on manifolds
+so what are manifold so uh it's good to
+imagine something like the sphere or
+maybe this kind of two-dimensional blob
+okay so these are technically speaking
+are topological spaces so the difference
+between topology and geometry roughly is
+that we have the notion of neighborhood
+but you don't have the notion of
+distance so i can tell for my neighbors
+but i can i don't have the
+the uh the notion of how far they are
+right so i don't have the notion of a
+distance and i don't have the notion of
+angles so i don't have inner products so
+it is a very basic thing basically
+topology operates with
+a concept of open sets
+okay what is a smooth manifold basically
+we have small transitions between what
+is called local charts right and i have
+uh basically a manifold is a topological
+space that is locally equivalent to the
+eulerian space right this is what we
+call homeomorphic so an s dimensional
+manifold is locally homomorphic to an s
+dimensional equilibrium space and since
+in most cases we'll be talking about
+surfaces so these are two dimensional
+manifolds and there are locally
+topologically equivalent or homeomorphic
+to a plane okay and this is what we call
+the tangent space or the tangent plane
+uh it is you can think of it as attached
+to every point and we call it the
+tangent bundle collection of all the
+tangent spaces so again some
+technical subtleties so this is what is
+called a disjoint union so we consider
+the same spaces uh differently if
+they're attached to different points
+okay so bottom line we can
+represent
+the manifold the space around every
+point but we don't have a global
+representation for it right so we can
+work in the tangent space uh only
+locally
+so in the tangent space we have tangent
+vectors so i denote them by capital
+letters x
+and they model um kind of local
+displacement right so we'll we can then
+identify them with directional
+derivatives what is important to
+understand about vectors in geometry in
+general is that they are coordinate free
+right so these are abstract geometric
+structures and uh i don't know how uh
+you
+were thought about vectors but often uh
+you say you're said that a vector is an
+arrow right you can think of it as a
+kind of an arrow or you can think of it
+as a kind of array of numbers so both
+views are incorrect technically speaking
+because vectors are just abstract things
+and the only thing that you can do with
+them you can add them and you can
+multiply them by scalar and they satisfy
+a set of rules so that's how you define
+a vector space
+in order to think of a vector as
+an arrow you need an extra notion that
+is called the inner product and then
+you're talking about a space with a
+vector space in a paragraph it's called
+the hilbert space right so this is what
+gives you a notion of direction
+in order to talk about vectors as array
+of numbers you need coordinates so you
+need some bases
+with respect to which you can represent
+the vectors
+and this is the local basis so a choice
+of s in this case in our in this figure
+two vectors
+uh that are not collinear so they're
+linearly independent and they span the
+tangent space and they can represent
+with respect to these vectors any vector
+in the tangent space by projecting them
+on
+x1 and x2
+and this is what we'll call a gauge so
+basically the collection of these local
+bases
+that depends smoothly on the position so
+if i move from point u to a point nearby
+this
+choice of
+basis factors will not change abruptly
+okay so this is just a fancy name used
+in physics for this
+collection of local reference frames and
+what the gauge allows us to do with a
+vector is exactly represented as an
+array of coordinates so i will denote
+these the array of coordinates that
+coordinate the representation of a
+vector by small a bold letter x
+okay
+now the the the the fact that we
+consider so far manifold as a
+topological object means that
+uh it's a kind of uh very uh flexible
+infinitely flexible rubber object right
+and there is this joke about apologies
+breakfast
+that they can have coffee from a mug and
+then deform it continuously into a
+taurus into a donut and then eat it
+right so this means that we don't have
+really any notion of uh
+any notion of geometry on these objects
+so we need to equip
+our manifold with geometry and this is
+done uh through the notion that is
+called the romanian magic so remaining
+magic is just a local inner product at
+every dungeon space at every point right
+so it's typically denoted by g or just
+inner product with sub index u and it
+allows us to locally measure uh angle
+length and area right so the angle is
+just given as the the
+arc cosine of the inner product between
+two tangent vectors the length will be
+just the norm in used by this inner
+product and the area that we can measure
+it is the determinant of this uh of this
+quadratic form g so i can express it as
+a matrix with respect to subsystem of
+coordinates and the determinant is
+coordinate independent
+and we call
+quantities or
+properties that are expressible entirely
+in terms of the remaining magic
+intrinsic so once i have defined a magic
+on the manifold
+then
+if i
+do something to this manifold
+and the magic doesn't change
+then
+everything that is expressed in the
+metric also in terms of the magic also
+doesn't change so intrinsic properties
+are very important because they're
+invariant to certain types of
+deformations that we will call
+isometries
+so another important notion is the
+notion of geodesics so if i have two
+points on the manifold let's call the
+medium u and v
+i can define a curve so i parametrize it
+over some interval between zero and t
+capital
+uh that goes from point u to point v
+okay and the at time t so think of it as
+time so think of it as some kind of car
+that drives
+at from point u to point field so at
+time
+zero at the starting it's at point q and
+the time t
+that that has uh that has taken to drive
+there it gets to point v okay
+so we assume that the curve is smooth
+right so everything is differentiable we
+can uh talk about the tangent or
+velocity vector as the derivative of
+this uh of this curve with respect to
+the parameter t right
+and uh basically at every point it
+belongs
+to the tangent space at the relevant
+point right so if i'm now at point t
+then the velocity will be a tangent
+vector in this space of that in the
+tangent space at that point
+so how can we measure the length of the
+curve i can just break it into these
+small intervals and sum them up right so
+if i take the limit then we get integral
+over the the
+the length or right or the norm of the
+velocity vectors and a reminder that the
+norm is given by the demanding magic
+and if we integrate it between zero and
+t right with respect to the time
+parameter we get the length of the curve
+and geodesic is simply a length
+minimizing curve so out of all the
+possible
+smooth curves that connect to points u
+and v the one that is the shortest
+will be
+the geonysic
+so
+what is important to know about
+geodesics is that
+they are
+intrinsic
+so they
+are defined
+through the remaining metric right and
+you can see it here in the definition so
+uh if i if i change the manifold in a
+way that doesn't change statement or
+metric you can see from this formula
+that the length of the curve will not it
+will not change
+now given this we can also define a
+geodetic distance so i simply say that
+the way of measuring the distance
+between two points will be just build a
+geodesic between them and measure its
+lengths
+so there is a question about how can we
+determine the direction of any point
+on the manifold so it's not the
+direction of a point it's a direction of
+a vector right
+and uh the direction is relative so if i
+have two vectors in the tangent plane i
+can measure the angle between them using
+the remaining magic right using my inner
+product so that's
+that's how it's determined
+okay but we don't have a global
+direction uh so this is not something
+that that that that is that is defined
+so remaining magic acts only locally
+okay so here is a little bit confusing
+uh a little bit confusing um
+uh choice of terminology is that
+distances are often also called metrics
+right so there is a branch of geometry
+that is called magic geometry that
+operates with generalization of
+distances that are called metrics so in
+order not to confuse the two terms
+because we also called a magic this
+bilinear quadratic form that
+the inner product on the manifold so i
+will prefer to use the term distance
+okay so geodesic distance again is
+a way of measuring the distance between
+any two points on the manifold and it
+will be just given as the length of the
+geodesic collecting them what is
+important to understand that not always
+in general as you can you can assume in
+mathematics it doesn't uh
+it's not taken for granted that certain
+thing exists right so when we write a
+minimum it doesn't mean that the minimum
+exists so you can find examples of
+spaces where the minimum is never
+achieved right
+so uh we can show that that if the
+manifold is connected
+then in other words you cannot
+represent it as uh
+as the two coverings that are disjoined
+it
+we can achieve the minimum of a geodesic
+and then we call such uh magic space
+complete
+so completeness technically speaking
+means that every cochise sequence
+converges right and we'll see that that
+in romanian geometry there are several
+equivalent the definition of
+completeness
+okay what is also important on december
+geodesic distances are intrinsic so
+again if i bend the manifold without
+changing the remaining metric then
+the geologic distances will not change
+and an important result called the
+hopfreeno theorem
+makes
+establishes the equivalence between
+magic completeness in other words that
+every cauchy sequence converges in this
+uh magic space
+and uh geodesic completeness which means
+that i can shoot the geodesic from every
+any point in any interaction and follow
+it indefinitely so i can
+create a path and follow
+for it until i'm tired
+now um what another thing that geodesics
+allow us to do is to define what is
+called the parallel transport so it's a
+way of moving a vector from point u to
+point v right so let's say that i have
+this vector x at point u right so it's a
+tangent vector
+in the respective tangent space
+i can define a geodesic that goes from u
+to v right with these endpoints and now
+i can define a family of vectors i
+denote them x t right so they're
+parameterized by this curve by the
+geodesic
+and i want that along this curve
+the length of the vector is constant
+right so that's measured by the
+remaining magic and then the angle
+between the vector
+and the tangent to the curve the
+velocity vector is also constant so in
+other words i'm moving
+two vectors such that the angle between
+them is preserved so if this is
+satisfied we say that x
+is parallel transported along the curve
+okay
+so there is a
+question here
+why uh you define the inner product on
+gamma t instead of
+t of gamma t yeah so this is just a
+notation right so we said that we define
+the inner product at some point right
+and it's an inner product on the tangent
+space at that point
+so it's just to say that the inner
+product that is on the tangent space at
+that point and gamma t is a point on the
+manifold right so it's a point on the
+curve
+okay so this is this was just a notation
+right and parallel transport uh it is
+also called the connection basically
+it's this map between two dungeon spaces
+tangent space at point q and tangent
+space at point v
+and basically it's a mechanism to
+transport vectors between dungeon spaces
+it is also intrinsic so we i can express
+it in terms of remaining and magic only
+this is how i defined it and uh it
+amounts to rotation on the manifold with
+the metric
+the
+basically what happens to the vector
+right because we said that the the
+length of the vector is preserved i have
+a mechanism to measure it
+what happens to the vector is rotation
+right so this map just rotates the
+vector when i move it from one dungeon
+space to another right so it's an
+element of the special orthogonal group
+so i should also say that connection is
+more general
+than what i described here
+we can define it absolutely without
+resorting to romanian metric through
+what is called the covariant derivative
+so therefore uh you can have multiple
+connections defined on many faults but
+there is a special one that is called
+the leviticus connection that distortion
+free and compatible with the remaining
+magic so if i define
+basically i can define a connection
+manifold without any remainder magic but
+if i give you a manifold with the
+remaining magic remaining manifold then
+there is a unique connection that is a
+special one that is the leviticus the
+connection so in our case because we are
+talking about many remaining manifolds
+uh we will be assuming if we are talking
+about connection right or parallel
+transport then it will be this special
+one okay but allow me not to go into
+details what is meant by torsion
+so another important concept is
+exponential map
+uh and uh basically it's a way of
+mapping locally around point uh u2 to um
+to the manifold right basically the way
+that i can do it is if i have a point u
+i can always define a geodesic that
+starts
+at point u
+in some direction right so i can you can
+give me a vector x and i can define a
+curve for which the the tangent vector
+at uh
+at point zero will coincide with x okay
+and uh i can follow these geodesic
+and uh
+when this uh these geodesic is defined
+for any t right from zero to infinity
+this is what is what we call geodesic
+completeness right so i can follow this
+uh this path indefinitely
+and the exponential map
+is
+defined by taking
+a unit step along the geodesic in
+certain direction right so geodesic
+exponential map takes us from the
+tangent space so it takes a unit vector
+defines the geodesic in this direction
+and takes a unique step along this
+geodesic and it lends us to a point on a
+minifold okay
+so that's uh
+that's what exponential map does so
+basically what it allows us is a lot it
+allows us to work
+on the tangent plane
+but to go into fetch values of something
+from the manifold right as we'll see
+this will be very handy when we for
+example wants to define a local filter i
+will need to use the exponential map to
+bring the values of the function defined
+on the manifold and then uh
+then now i work in the plane right or in
+the in the euclidean space where it's
+much more convenient
+so uh as a
+before it is also intrinsic
+now what uh the subtle point is that
+geodesic completely doesn't guarantee
+that
+the the exponential map is a global
+different morphes in other words it's a
+differentiable bijective map with
+differentiable inverse so we might have
+some disasters like is shown here so if
+i extend it too much then there will be
+it will not be smooth it will be
+differentiable and the largest radius
+for which
+uh this map is differmorphic is called
+the injectivity radius so it might be
+different at every point and usually
+injectivity radius of the manifold is
+the smallest one across all the points
+so this is
+all you need to know about
+manifolds about differential geometry so
+let's now see how we use it uh to define
+something similar to convolution okay
+so
+we'll assume that we have some signal on
+the manifold right so it's a function
+defined at every point so let's say
+scalar function
+and we define a filter that i denote by
+like by psi like before in the tangent
+space okay
+so uh conceptually what will be the
+analogy of spatial convolution
+is that i take the integral
+of the filter right
+and i integrate on the tangent space at
+every point
+with the values of the function that i
+bring to this tangent space through the
+exponential map okay so i compose here
+the the signal with exponential map so
+it allows me to take
+a vector
+in the tangent space and it will
+correspond to the value of the function
+right so it gives me a local view on the
+function around the point q right so
+this is how it looks like
+and then i just correlate it with the
+filter that i define in this space and
+they get an analogy of convolution
+the problem here of course is that
+these are abstract geometric vectors
+right so i don't really have a way of
+computing this integral in order to do
+it i need to define a gauge right so i
+need to represent vectors as array of
+coordinates so i can uh deal with them
+on the computer
+and
+this implies that i need to define a
+local gauge so a local system of
+coordinates and the problem is that
+these gauges arbitrary right i can
+define it in many different ways
+so i need to say that the convolution
+here depends on the choice of the gauge
+and if i change the gauge you will get a
+different result right so if i
+rotate for example my local system of
+coordinates
+then uh the result of this uh of this
+integration
+will be different
+so
+the question is how can these gauge
+transform right so what is our ambiguity
+so if we just have a naked manifold so
+to say so just a topological object then
+any change of coordinates by an
+invertible matrix what is called the
+general linear group is allowed right so
+i don't have really any other structure
+so what they need to
+to
+to ensure that that is not degenerate
+otherwise any
+linear transformation is possible so any
+invertible matrix
+if i have an orientable manifold then i
+can talk about what is called gl plus
+and these are invertible matrices with
+positive determinant if i have a
+manifold with a volume form right so i
+you need to understand that these
+notions are independent of the metric
+right so you can define a volume volume
+form separately from from any romanian
+structure then we're talking about
+matrices with determinant equal to one
+right so determinant can be thought of
+as a representation of the volume
+if i have a manifold with the metric
+then i have
+an ocean of direction right so we can
+talk about
+uh we can restrict our ambiguity to
+orthogonal matrices that preserve
+directions now orthogonal matrices can
+still flip
+the orientation right and uh this is
+what exactly what happens on
+surfaces such as the the mobius
+surface
+where which is not orientable
+so if i have many fold that has magic
+and orientation that i can i can also
+restrict these matrices to have
+determinant one right so they preserve
+uh they preserve orientation and uh we
+are talking about the special orthogonal
+group and finally if you have a manifold
+with a frame field then there is no
+ambiguity so this
+gauge is prescribed exactly
+and here you can see
+a visualization of um of these
+ambiguities so uh this is a rotation
+ambiguity i can choose
+uh engage and i can rotate the arbitrary
+at every point what is important
+differently at every point
+if i have uh for example the mobius
+strip so it looks like the plane but the
+only thing that that changes here is
+that when i move from one point to
+another i can flip
+the system of coordinates and then when
+i have a fixed gauge like on the sphere
+for example we have some canonical way
+of choosing coordinates
+then uh
+there is no ambiguity whatsoever
+okay so in practical situations we deal
+with these two settings so we have
+either a
+fold with the frame filled we'll talk
+about it in a second or we have uh the
+the so3 or sois or so2
+ambiguity so local
+orientation preserving rotations
+so here as i said we have
+uh several possibilities so we can fix
+the gauge we can do uh crop pulling we
+can do isotropic filters
+and we can do gauge equivalent filters
+okay so the first thing is let's try to
+fix a gauge so there are actually
+techniques how to do it so you can take
+for example an intrinsic function
+and compute an intrinsic gradient of it
+we'll talk about it in a second and this
+gives you
+a set of vectors
+that are
+uh
+smooth
+but they can also be uh they can also
+vanish in a few points
+so if you are happy with the vectors
+vanishing at a few points
+then this is a valid this is a valid
+solution
+okay and um
+another possibility is to have an
+angular pooling so let's say that we use
+polar coordinates to define our filter
+in the tangent space in the tangent
+plane
+so here we can say that i don't know how
+to orient the filter so let's look at
+all the possible orientations
+and uh correlate the filter with uh
+basically rotated versions of the filter
+with my function
+and then take the maximum right so it's
+kind of correlation with the rotating
+mask
+so uh of course
+uh this way i
+throw away some information we can also
+have isotropic filters so isotropic
+filter means that now the filter is
+rotationally symmetric so it depends on
+the radius not on the angle and in this
+case
+i don't need to do what i have to do
+previously right but i lose
+discriminating discriminative power
+so the filter is the filter is symmetric
+now
+let's talk about deformation and
+variance
+and uh this is what we have achieved so
+far right so we have a filter that is
+defined intrinsically on the manifold
+and if i deform the manifold
+then
+i uh
+i don't suffer
+any deformations if this deformation is
+such that it doesn't change the romanian
+magic right
+what we will call an isometry so we can
+think of domain deformation as a map
+between two different manifolds right so
+we have a manifold omega we have another
+manifold omega wave and i have a map
+let's call it eta from omega to omega
+wave right
+now
+what is important to understand is what
+i need to
+i will need to describe now is how it
+changes the remaining metric right
+and usually you would just say that okay
+if i have a point i have infinitesimal
+displacement from this point
+i i can also make an infinite
+displacement from the image of the
+function
+right and this is what is called the
+differential
+so the analogy of this is called the
+push forward map so the analogy of
+differential in in remaining geometry is
+a map between two dungeon spaces
+remember that we said that the tangent
+vectors are a model of local
+displacement so that's exactly it so if
+i uh if i'm at point u
+and i make a displacement by a vector x
+then i can tell you how this
+displacement will affect the uh will be
+mapped by under the map eta
+by this uh
+uh by this function that i call this
+push forward right the eta
+that maps me to another tangent space on
+the manifold omega
+wave around the point at the u right the
+image of this point on the atom
+and uh
+this tells me how exactly i
+changed so i can define the opposite so
+if i can define the pullback so the
+pullback tells me
+basically how the metric will be
+affected and this is called the pullback
+matrix so i can take i can measure the
+distances
+right locally or i can measure inner
+products
+on the my original manifold right in the
+dungeon space
+around point u by going to the other
+manifold right by means of eta
+uh
+taking the magic from there and defining
+a new metric on my original main fault
+right you see it
+so there is a question do we have a
+guarantee on manifolds uniformity
+because the way we compute the geodesic
+sure this curve assumes the transition
+between
+all the points
+is the same so i'm not sure that i
+understand
+this question so the transition is
+defined by the remaining magic
+so any notion of length or direction is
+defined by the remaining metric and we
+are assuming that this is these are
+differentiable manifolds so we can make
+basically we can write limits right so
+we can take infinitesimal steps so all
+is properly defined
+right so but back to the the concept of
+pullback uh i hope you can understand
+this right so this is what is denoted by
+by uh eta star h
+so h is uh the magic on my second
+manifold on omega wave so i take tangent
+vectors right so magic takes a pair of
+100 factors x and y
+i map them by they push forward
+to the to the other manifold i take the
+metric of that other manifold and this
+gives me a magic on the original
+minifigure right so this is called the
+magic pullback and if this uh
+if these two metrics coincide right so
+if i
+uh the magic that is given by pullback
+on the new manifold coincides with the
+original one that i denoted by g
+for every point then we're talking about
+uh
+a map that is an isometry right so
+technically it's a different morpheme
+between remaining manifolds such that
+the pullback metric
+is equal to the original one right so
+it's a map that preserves remaining
+magic
+so another way of defining a zombie
+isometry in a different sense is i can
+say that i have
+two uh points u and v
+they will be mapped to some other points
+n of u and f of
+right i have the geodesic distances that
+i define right on each manifold so dg
+and the h
+and if these distances are preserved
+right
+then i can talk about what we will call
+a metric iso machine
+okay so basically it's a map now between
+matrix spaces
+and if this composition is preserved for
+every pair of points then we are talking
+about metric base of which okay so one
+follows automatic from another right so
+because we define geodesics as intrinsic
+so the
+romanian isometry preserves
+uh uh preserves uh distances as a result
+remaining iso which is uh uh necessary
+isometries and there is a theorem in
+differential geometry that says that on
+connected manifolds the two are
+equivalent right so there is a single
+concept of isometry so if i preserve
+remaining metric or preserve the
+geodesic distances
+the the
+two are equivalent okay
+and this allows us to talk about what we
+didn't discuss we i think we briefly
+alluded to in uh in juan's lecture
+uh
+signal deformation versus the main
+deformation right so i remind you that
+what we want for example when we talked
+about the variance we said that
+if i have
+a function that operates on signals on
+some domain right
+if i transform this signal by some group
+uh and the result of the function
+doesn't change then we're talking about
+grouping variance right
+so again the operation here was on
+signals on a domain
+so here we are in a different situation
+we have a domain deformation right so we
+have our domain that we deformed from
+omega we now went to omega wave
+and we want to make sure that
+the function that is computed now on
+this new domain on the signal on the new
+domain will be the same right so that's
+exactly what i showed in this slide
+before
+this kind of situation right so uh when
+i have some filter that is defined in
+this domain and you see that the
+deformation doesn't change the result of
+this filtering so that's exactly what i
+mean by
+uh by domain deformation now same way as
+we had some uh relaxed notion of this
+right so we could say that that
+uh if i have approximate invariance we
+could measure how far
+this deformation is from a group and we
+can bound the change in the value of the
+function right so that was crucial for
+convolutional neural networks for
+example we can also do something similar
+for the domain deformation so for
+example i can say how far am i from an
+isometry for example by measuring the
+metric distortion and this way i can say
+that that my function is approximately
+isometric environment so all these
+constructions that i described before
+will be environment under isometric
+deformations and approximately
+environment under approximate
+resolutions
+okay any questions so far
+okay
+so if there are no questions let's talk
+about uh the
+uh spectral
+approach to manifolds how to define the
+frequency form so we we talked about
+fourier transforms talking about crits
+so let's talk about the generalization
+of it right and this will be related to
+easy rocket filtering
+so i remind you that in the euclidean
+case
+uh when we define convolution we modeled
+it uh as a circular matrix that acts on
+a domain with on a grid with periodic
+boundary conditions and we've seen that
+convolutions or circular matrices
+commute
+and commuting matrices are jointly
+diagonalizable in the sense you can
+roughly say that they have the same
+eigenvectors and then they can pick up
+one of the conversions the shift
+operator and compute this eigenvectors
+that happen to be the discrete fourier
+transforms and you get that convolutions
+are diagonalized by the frequencies form
+okay
+now we can pick up here any matrix so
+for example instead of the shift
+operator you could pick up the laplacian
+operation so on the grid it looks like
+this right so this is second order
+derivative its eigenvectors are all will
+also be the dft and then again we get
+the same result
+so
+what we see is that that fourier basis
+functions right so they're laplacian
+eigen functions it's also very easy to
+verify that a two-dimensional the
+one-dimensional plus an operator is just
+second-order derivative so if i take
+second-order derivative of the
+exponential i get back the exponential
+scaled by the frequency squared right
+so this is the eigenvalue and this is
+the eigenfunction we can also interpret
+the fourier basis as orthogonal basis
+that minimizes the division energy so
+the actual energy will be the norm of
+the gradient of the function it tells us
+how smooth
+the signal is so we can interpret the
+fourier basis as the smoothest
+orthogonal basis with respect to this
+with respect to this
+function
+you can also interpret
+it as local difference from your
+neighbors right so if you write
+the uh this discrete version of
+laplacian agreed right so it will be the
+sum of the
+two neighbors minus twice
+the the neighbor in the middle right so
+if up to normalization right if you
+divide everything by two this will be
+how different you are from the average
+of your neighbors
+so we would like to define something
+similar on manifolds and for this
+purpose we'll need uh the notions of uh
+differential operations on many folds so
+let's first define a scar of field right
+so scholar field is just a real function
+that is defined in the meaningful so to
+every point i attach some value right so
+think of temperature of uh some surface
+okay so i will denote this space by
+calligraphic x of omega r
+okay what is a vector field so it's uh a
+function that takes us from every point
+uh on the manifolds to the tangent space
+right or the tangent bundle so at every
+point it assigns a tangent vector at the
+corresponding tangent tangent space at
+that point
+okay
+what is the point to apply for a
+transform to a metaphor okay good
+question so we don't apply the free
+transform to the manifold we will apply
+for your transforms to signals on
+defaults
+the point i can already anticipate is
+that once you do the fourier
+decomposition you can forget about the
+many folder you can work with the
+fourier coefficients so that's the power
+of the free analysis that you can
+abstract out completely the underlying
+domain okay so basically
+you have a basis in which you can
+represent signals
+okay we'll get to it in a second
+okay so these are vector fields and you
+can think of vector fields as a kind of
+local displacement displacement or flow
+of things on the meaningful right so you
+can think of flow of particles flow of
+temperature
+now we can equip these spaces with inner
+products right so again these are not
+inner products
+like we've seen before
+on tangent vectors so these are inner
+products between functions right
+so uh the way that i do inner product
+between two scholar functions is just
+multiply them point wise and then
+integrate okay and this integral is
+defined so i need to define what is d u
+so the u is given by the the volume
+element on the manifold and usually you
+can just take it from the
+from the remaining metric that will be
+the exactly the determinant of that
+magic that you've seen before
+now for uh vector fields the way that i
+define the inner product is i take the
+uh
+the local inner product using the
+remaining metric right for every point
+these are tangent vectors
+uh at t u right
+and i can take the uh the inner product
+between them right and this is scalar so
+then i integrate it on the entire
+manifold and i get a number right so
+this is how i take inner products
+between scalar fields and vector fields
+so i will use exactly the same notation
+so it will be clear from the context
+on what
+kind of data this inner product is
+applied okay
+so what is an intrinsic gradient so uh
+if i stand at the point right and i have
+values of a function
+on the manifold i am interested in the
+following question what is the direction
+of the steepest increase
+of the function at point u
+okay
+something that we are keenly interested
+in in many applications right well for
+example we do some optimization
+so we need for this purpose to define a
+directional derivative right so what is
+the directional derivative
+so directional derivative will tell you
+that uh
+if i move
+in the direction y
+what will be the value of the function
+as a result of this move right so
+it's exactly given by the differential
+that we defined before right so it's a
+map between two manifolds the the
+manifold one is omega the other metaphor
+this is r
+right so it's a trivial one so it tells
+us how
+the the function will change if i make a
+displacement in the fraction y right at
+every point
+so it is a linear functional right
+now you need to understand that that
+linear functionals on vectors are what
+is called dual vectors right
+so it's uh something that takes a vector
+and gives you a number
+right and the vector here is y
+and the number is
+how much the function has changed again
+i remind you that we cannot say uh x of
+u plus d u right because this u plus du
+is not defined so we need to work with
+these local displacements with
+differentials defined slightly more
+complicated than in the euclidean space
+okay
+now we know from uh uh
+from functional analysis that
+every dual vector
+has uh every presentation as a vector
+this is called the least representation
+theorem so basically every linear
+function on vectors can be written like
+this as an inner product right and the
+inner product here is the remaining
+metric because we are talking about
+vectors in the tangent space about
+tangent vectors so i can write uh the it
+is functional
+as an inner product of y with something
+with another vector so this vector is
+called the gradient
+right so that's actually the correct way
+of thinking of the gradient so usually
+you say that the gradient is the the the
+the vector uh basically an array of uh
+partial derivatives of function so this
+is not correct definition of the
+gradient the gradient
+is a representation of a linear
+functional that's called the
+differential
+that
+is coordinate dependent right so if you
+write it in a certain system of
+coordinates then indeed you can write it
+as an array of partial derivatives of
+the function okay but it's an abstract
+vector it's an abstract notion so that's
+what we call a nabla of x at point u
+right
+now what is an intrinsic gradient when
+we apply it to the vector field at every
+point
+so this will be a vector field right so
+it's an operator that takes us from
+scholar fields to vector fields
+and it tells us
+what is the steepest increase at every
+point of this scour field okay
+so basically i start with a scour field
+and i get into a vector field and every
+point it points in the direction of the
+steepest steepest increase of this color
+field
+so the divergence is the opposite so
+it's an operator that turns vector
+fields into scalar fields and we can
+think of it as a flow
+of the field for infinitesimal mode okay
+so how much comes in and how much comes
+out
+and uh you can also define right or you
+can think of it either as a property or
+as a definition that the these two
+operators the versions and the gradient
+are a joint
+a joint means that if i take an inner
+product between the vector field x right
+and here the inner product will be on
+vector fields and the gradient of its
+color field x lower case
+then it will be equal to the divergence
+of the vector field inner product with
+the scatter field x lower case right and
+the inner product here is on scar fields
+right
+so uh
+basically
+divergence is the adjoint operator
+of the gradient
+okay
+now we can also define the laplacian or
+the laplace build transparent as it's
+called in differential geometry so it's
+an operator that takes color fields and
+speeds out scalar fields
+uh you can think of it as a local
+difference between the function the
+point and its average neighbor the
+neighborhood value on some infinitesimal
+ball right now this is typically not how
+you are used to the opposite right so
+plus and for example in 2d is the sum of
+two-dimensional partial derivatives
+and what you get automatically from this
+definition that it should be rotation
+invariant right
+so it doesn't matter if i rotate the
+system of coordinates
+i uh i will get the same value right so
+this is not obvious from uh uh
+d squared
+uh uh x with respect to d u1 squared
+right plus the squared x with respect to
+du2 squared right the second order
+derivative with respect to the to both
+coordinates of the function so actually
+prove it
+that
+you have this rotational symmetry it's
+not difficult
+okay what what else do we know about the
+possible primary operator is that it's
+intrinsic and it is self-adjoint so in
+other words it's symmetric so basically
+you can write it as inner product of
+two gradients right so inner product i
+should say on the one vector fields
+uh which will be equal right because of
+the joint property i can move the uh
+i can move the gradient to the right
+hand side right and it becomes a network
+of scholar fields and the divergence of
+the gradient is exactly how we defined
+the laplace of the possible jumbo
+creature so this is how it's defined and
+because of its self-adjointness it will
+have real liking values which is
+important we can regard them as
+frequencies the analogy of frequencies
+in the fourier transform
+so the operator is
+named after pierre simon laplace and
+eugenio beltrami so beltrami was early
+italian differential geometry that
+generalized
+this operator to local coordinates in
+non-euclidean spaces
+now
+the laplacian is really ubiquitous you
+will find it everywhere in physics
+and one example where it appears
+prominently is in
+heat equations
+so heat equations were studied heat
+diffusion was studied as early as by sir
+isaac newton
+more than
+300 years ago
+and he came up with the law that is
+called the newton law of cooling that
+tells you that the rate of change of a
+temperature of an object is proportional
+to the difference in the temperatures
+between the object and its environment
+right
+so uh the diffusion equation is a
+differential version of this law of
+cooling so on the left-hand side x is
+the temperature right so it's a scalar
+field
+uh on the left-hand side we have the
+rate of change right so how much it
+changes instantaneously in time
+the on the right hand side you have the
+laplacian which measures the difference
+between the
+the temperature at the point and its
+environment
+and
+the diffusion diffusivity coefficient is
+some proportional coefficient
+right so here is another equation where
+it appears is the wave equation
+so that was formulated by french
+motivation mathematician the lumber
+and basically what it tells is that
+you have um
+you can
+you can think of a wave as a system of
+masses connected by springs right so the
+tiny invitational masses connected by
+tiny infinitesimal springs so the
+acceleration
+uh equals
+to from from newton's law we know uh
+equals to the the force
+attacks on these masses
+right and uh
+the acceleration will be second order
+derivative so that will be the
+displacement of the masses
+and the force here is the local elastic
+force this is hooke's law
+so
+again given by the by the
+in this case by one dimensional plasma
+so um this is what you see
+this is where you see that
+the laplacian uh the lassen appear in
+mathematical physics another experiment
+that you can do so i'm not sure you will
+hear the sound but basically here is a
+plate with a thin layer of sand on it
+and if you apply vibrations of different
+frequencies
+you see that at some frequencies certain
+patterns will be forming
+so this was an experiment that was first
+done by a german physicist called aaron
+squadly
+in the 18th century and basically he
+took
+he tried to visualize how different uh
+instruments sound why for example
+violin sounds better than a cheap violin
+that you buy four hundred dollars in in
+in
+in a violin shop
+so uh he put this uh layer of sand and
+applied vibrations to the plate right to
+the deck of the
+of the violin uh by passing a bow on it
+and he observed and drew these kind of
+patterns that were forming now at that
+time he didn't have a clue
+why actually this this happens or he
+made these
+experimental visualizations and he
+actually toured the the courts of of
+europe and even
+napoleon himself was so impressed that
+he offered a monetary reward for one who
+would be able to explain
+why this phenomenon happened so now of
+course we have an explanation so
+we if we look at the wave equation
+as we that we've seen before right so
+this is what governs the the vibrations
+of the plate so the way that we solve a
+wave equation is by separation of
+variables so we have a two-dimensional
+function of position and time right so
+let's say it's one dimensional broad
+that it vibrates so i can separate
+the solution into a product of the
+spatial part and the temporal part the
+denoted by phi and tau
+and if i plug it into the equation this
+is what i get right
+so i can rearrange it and i get
+uh the
+ratio of uh the derivative of tau over
+tau and the ratio of the derivative of
+phi
+over phi so this must be equal for every
+t and u so it means that it's constant
+and let's call this constant lambda
+and you see that the spatial part of the
+solution
+are laplacian eigen functions right so i
+get the laplacian of phi equals lambda
+phi so this is what is called in physics
+the helmholtz equation and we can
+interpret the phi's as vibration modes
+and lambdas the vibration frequencies so
+these are these are exactly
+uh they're the kind of
+the patterns that you observed in the
+the in cloudness experiment
+so uh the zero crossings
+of the eigen functions is where the the
+send doesn't jump right so where it
+stays fixed
+and uh this is what he observed it was
+the the the zero level set or the zero
+crossings of the eigenfunctions of the
+laplacian
+of that domain and the frequencies that
+the at which these patterns were formed
+are exactly lambdas the corresponding
+eigenvalues of this of this operator
+now i can compute the laplacian on on
+many folds in this way right so we
+cannot put send
+on uh on for example the human shape
+right because gravity will just let it
+fall back but we can do the same
+experiment computation so we can compute
+these these uh eigenfunctions
+and uh laplacian laplacian operation on
+a compact manifold has countable eigen
+decomposition so the eigenvalues are
+discrete
+and uh this is how they look like so the
+cool and hot colors represent negative
+and positive values so the first
+eigenvector is constant right like the
+the zero frequency the dc what is called
+uh in the free infrared analysis and
+then the first eigenvector is called the
+fetal vector so it tells you the kind of
+largest variation direction on a
+manifold and then as you go into higher
+frequencies then the oscillations right
+so how these eigen functions change from
+positive to negative values will
+increase
+what is important is that these eigen
+functions are
+intrinsic as a result they're isometric
+environments so if i bend this human
+nothing will change right so the
+eigenfunctions will look the same
+and we can define an analogy of the
+fourier transform that i can call a
+manifold fourier transform by just
+taking the inner products of scar by
+scalar field x with these eigen
+functions so these are given functions
+are also scholar fields right so these
+inner products give us the fourier
+coefficients right or the fourier
+transform so this this is the analogy of
+fourier series and the inverse fourier
+transform because it's an orthogonal
+basis we just take
+these coefficients and we sum up the the
+basis functions with these coefficients
+we get back
+the signal okay
+so it allows us to decompose scalar
+fields in some orthogonal basis
+and we can work now with the
+coefficients so basically we forget
+about the meaningful right so i get i
+work with these numbers with x k hat i
+don't know what is omega here i don't
+care what is omega here right so
+somebody asked
+why we need to define the the fourier
+transform on the minifield exactly
+because of this reason now i can
+completely abstract out what is omega
+what is the domain on which i defined it
+as long as i have a way of defining the
+laplacian on this domain net performance
+eigen composition i can forget now
+completely about this domain
+now what you also see that unlike uh for
+example the two-dimensional frequency
+form we have only one dimensional
+frequency here lambda right so we can
+order the eigenvalues for example in
+increasing order we don't have
+two-dimensional or three-dimensional
+frequencies so we don't have a notion of
+direction
+okay
+and we can define an analogy of
+convolution that is typically called
+spectral convolution by using what is a
+property of classical free transforms as
+a definition so remember that we could
+define uh convolution by taking the
+product pointwise product products
+frequency-wise products of the fourier
+transforms on the grid
+so here we can define our fourier
+transform as i take the products of the
+fourier coefficients of my signal and my
+filter
+right and i take
+uh
+now i these are the new weighting
+coefficients by which i write the
+eigenfunctions and i
+sum them up right so this weighted
+combination will give me some signal on
+the manifold okay
+so there are several drawbacks first of
+all we've seen that we have a fast way
+of doing
+the fragrance form
+on on grids because we have different
+types of fast-free transforms so here we
+don't have these possibilities so we
+need to multiply
+by basically project on the matrix of
+eigenvectors that is usually a dense
+matrix so it incurs n
+squared complexity
+so another thing that we see is that the
+filter will not be localized and second
+thing the third thing is that the
+filters will be isotropic right because
+we don't have a notion of directional
+frequency so the filter will look like
+this concentric creeks essentially
+and uh we know that it will be isometry
+environment right so as we change the
+manifold
+deform the manifold asymmetrically uh we
+expect the coefficients to be the same
+right and i get functions to be the same
+but in practice it is unstable because
+uh
+we don't really have uh
+exact isometries so even slight changes
+in the pass and when a ghost right in
+the composition will result in
+significant perturbations of the
+eigenvectors and a good visualization is
+this so we have a domain right so in
+this case it's a manifold representing a
+horse
+we have a signal that looks like these
+blobs
+and
+let's say that i do some kind of filter
+so the filter here does some form of
+edge detection so i can write it
+as a spectral filter so we have some
+coefficients
+these these are the three coefficients
+of the signal x and these are the the
+the eigenvectors okay
+now
+imagine that what i will do is i will
+use
+the
+i will deform the domain and i will use
+exactly the same coefficients right that
+they denoted by alpha coefficients of
+the filter on the new fourier
+coefficients of the signal that will be
+obtained in this new bases and you see
+that it's the result looks completely
+differently
+so because the deformation of the domain
+is not an exact isometric and especially
+at high frequencies i will get uh
+differently
+looking eigenvectors and this result
+i will have two bases that are different
+than the the three coefficients so to
+say don't speak the same language
+so i cannot apply simply the filter from
+one domain to another domain
+so what we can do we can do something
+different we can say that
+i can represent my filter as a kind of
+transfer function
+that i apply to the plus and operation
+and the way to apply a function to an
+operator is to uh apply it to its
+eigenvalues right so that's exactly what
+i do so now i have the fourier transform
+of the signal and i apply
+the uh
+the transfer function to the to the
+eigenvalues and this is my filter okay
+and it's a one-dimensional function that
+will look like something like this right
+so it might be a low pass filter or
+maybe a high pass filter or maybe some
+some other function and uh
+this way i get something that is stable
+right
+so you can see here so this will be this
+function that is
+localized around the point on the course
+and you can see that when the course is
+deformed then uh this
+and this function follows the
+deformation of the surface so no
+disasters happen
+now uh let's uh write it
+slightly differently
+so i can write the inner product right
+so the inner product is an integral
+with respect to v
+of the signal
+x and the the eigen function phi k
+so i just change the
+position of the summation and the
+integration and assuming that this is
+possible right so it is possible
+when i use the right type of integration
+label integration i can exchange uh
+infinite summation and
+and the integral
+and what i see here is some function
+that depends on two coordinates u and v
+right and this is what we call
+the heat kernel
+typically
+so it's kernel that is position
+dependent right so you can think of it
+as a kind of
+spatially
+uh
+trying convolutional field right so in
+convolution
+this thing will not depend on the
+coordinates it will depend on the second
+coordinate it will depend on the
+difference of the coordinates right so
+on general manifold we don't have any
+valid way of defining the notion of
+difference between u and v so we have a
+function of u and v right
+so let's just make a scenic check how it
+will look like in the elliott case so in
+the equilibrium case
+our
+basis functions will be just complex
+exponentials right so because they're
+complex also in the inner product we
+need to conjugate one of them so that's
+why one of them will come with plus
+and because
+exponentials are associative i can write
+it as exponential of u minus v so that's
+where the uh
+the standard euclidean case the
+convolution
+is a function of the difference between
+the two points and not of the two points
+right so this this kernel
+is the same at every point
+okay
+any questions so far
+so if there are no questions let's talk
+about discretization so we talked about
+so far about surfaces so the typical way
+of discretizing them is using meshes so
+measures you can think of them as a kind
+of
+graphs on steroids uh
+so the question is how do we determine
+the transfer function
+so that's exactly what you learned so
+you need to parameterize it in some way
+so for example it can be polynomial
+uh i will talk about it in a second
+and the coefficients of these of this
+polynomial are the lower number
+parameters
+so can the steepest increase also be
+interpreted as the steepest decrease for
+intrinsic gradient so the steepest
+decrease is minus the gradient right so
+the opposite direction
+so what is the link between convolution
+and the fourier transform so here there
+is no obvious link between spatial
+convolution as we defined it before
+and the uh
+and the conversion that that the
+spectral convolution we defined
+now so it only appears when you use
+isotropic filters okay so we can
+we can uh we'll talk about it again in a
+second when we talk about
+spectral
+graph conversion networks okay
+any further questions
+okay so i see that i'm slightly over
+time so let me try to rush through the
+discretization of manifolds so we
+discretize them as measures so
+a mesh
+basically this is what is called the
+simplicial complex
+so graphs are simply a complex they have
+uh
+they have synthesis of dimensions zero
+which are nodes synthesis of dimension
+1 which are edges
+meshes have also simplices of dimension
+1 which are triangles triangular faces
+so
+this is how they are defined and in
+particular we are interested in what is
+called manifold meshes so many fold
+meshes must be
+this case version of a manifold so the
+manifoldness
+means that each edge is shared by
+exactly two triangular faces
+right and
+the boundary of all triangles incident
+of each node forms a single group
+so i cannot have this kind of examples
+as shown on the right
+okay so
+the example of the horse here that is
+shown is an example of a discrete
+manifold or manifold mesh
+okay so with every point of
+with every node in this mesh i can
+associate
+some uh
+coordinates in r3 so this is called an
+embedding so it's a geometric
+realization of the manifold otherwise a
+mesh like a graph is a purely
+topological object we can define the
+discrete matching so i can measure just
+using the ingredient distance the length
+of every edge in the mesh right and this
+will be a discrete magic
+and anything that is expressible in
+terms of this discrete magic is called
+intrinsic so if i deform the mesh in a
+way that
+that this length is preserved then
+i'm talking about isometric deformations
+okay now in practice measures appear to
+be rigid
+so any deformation
+usually we don't have a continuous
+deformation that preserves the metric so
+that's why it's extremely important to
+have the notion of approximate
+resolutions in these cases
+so what is a discrete laplacian so the
+discrete laplacian uh is uh looks like
+this so i uh at every point
+i look at my neighbors right so i have a
+node u in the mesh
+i have a neighbor v
+and i
+look at the difference between u and v
+weighted by some coefficients and you
+can see that
+what it tells you is that it's some kind
+of difference between the
+node itself and the weighted average of
+the neighbors right so it's exactly the
+same interpretation as we had before so
+it's how different am i from my
+neighbors
+i can write it as an n by n matrix
+that looks like this so the matrix d is
+the degree matrix and w is the weight
+matrix so exactly as we've seen in the
+graph
+okay and typically it's sparse
+with order of number of edges and four
+meshes usually the number of ages is
+bounded the degree of the nodes is
+bounded so it's roughly as the number of
+nodes the number of non-zeros in this
+matrix
+so there are several ways of defining a
+plus laplacian operations on meshes
+the most common that is used in computer
+graphics is what is called the cotangent
+for cotangent formula it goes back to
+the 40s
+and
+this indifferent discrete differential
+geometry was introduced by
+pink allen poltier and by uh
+uh
+and
+schroeder and debran
+in the late 90s or 2000 early 2000s and
+basically what it tells the quadrangle
+formula tells you that the way that you
+compute these coefficients w will be by
+averaging the cotangent of the angles
+that are
+opposite to the h
+u
+right and you divide by the area
+area element that is formed by
+this
+polygon that is that is constructed upon
+the very centers of the triangles around
+the point q okay
+so this is how you compute these
+coefficients now it's not obvious from
+here that it's intrinsic but you can
+rewrite it uh in this way so you can
+express the coefficients
+using uh the
+length of the
+of the edges
+and you can also express
+the areas
+of the triangles using a heron semi
+perimeter formula so the bottom line
+this is all expressible in terms of the
+discrete magic the h length and
+therefore intrinsic
+so we can also ignore the faces and
+discretize the mesh as a graph right so
+i just have my neighbors i have just the
+edges and you can see that that here
+i get more or less the same thing right
+so the laplacian
+looks like this so i have the degree of
+x right if these are just combinatorial
+combinatorial plus and then i just have
+a one
+as the weight of the h u and v
+and we have the sum
+of the neighbors so again
+so this is a weighted combination so
+it's the the feature vector of the node
+right multiplied by the degree minus
+the sum of the feature vector of the
+neighbors so we've seen this already in
+graphical networks so it's a linear
+local
+permutation environment aggregator right
+that operates on the multi-set of my
+neighbors right and the feature vector
+itself
+and uh it it produces a node-wise
+permutation equivalent linear function
+right so if i multiply
+my
+coordinates right
+that are arranged into a matrix x by the
+laplacian i will get this linear
+function at this permutation equivalent
+if i permute the rows of this matrix
+the results will be promoted as well
+right so it's a particular case of what
+we've seen in graphing all networks with
+better
+now spectral cnns essentially operate
+like this
+so uh they apply
+some function to the plus and then
+operates on some signal defined on the
+nodes of the mesh or graph
+and
+the precursors of these methods actually
+come from discrete geometry processing
+uh as early as the works of forgable
+gabriel taubin from the 90s or the
+famous work of zahikardi and craig
+gotzman from thousands about spectral
+measure compression
+and graph signal processing so i feel
+that emerged in the
+harmonic analysis community
+uh notably the the groups of pierre van
+der geins and jose moura
+in the beginning of 2010.
+now the first uh construction of a
+spectrographed neural network was done
+by johann
+in uh
+2014 in their iclear paper where they
+applied essentially the graph fourier
+transform which is constructed exactly
+as they did on many folds
+and this was one of the
+papers that revived the interesting
+graphical networks that were defined
+before but it suffered from high
+complexity and stable and instabilities
+under perturbations
+um so the question is why do we need uh
+the laplacian uh in the case of measures
+so this is a way so measures the
+discretization of a menu right so i
+defined our plus on the manifold and uh
+i discretize the manifold as a mesh so
+the discrete version of the plus and or
+the plus build random operator is the
+mesh laplacian
+which is a special form of the graphical
+plus and right where these coefficients
+are computed according some function all
+of these both the mesh laplacian and the
+graph laplacian are special cases of
+these aggregation that we've seen in
+graphical networks okay
+so in order to deal with this
+instability that we've seen before
+with the example of the course uh
+polynomial spectral filters were uh
+proposed so that was the the chebnet and
+the work of mikhail de ferrar uh xavier
+bryson and pierre van der gries
+that applies polynomial filters to the
+plusen
+and some other functions of course are
+possible so we had a work that we called
+kylie net which uses rational spectral
+filters and also some stability results
+including the work of
+a student who now became a professor at
+a definite wrong levy
+with whom i worked
+that proved that such filters are stable
+so
+again let me recap how we do
+spectral filtering on a graph
+or on a mesh right so it's more or less
+the same
+so
+on an undirected graph the graph will
+pass and is symmetric matrix that that
+has orthogonal organic composition so i
+can take this matrix and decompose into
+eigenvectors phi that are orthogonal and
+a diagonal matrix values lambda okay so
+the graph fourier transform will be just
+multiplying by the the matrix phi
+transposed so phi contains as columns
+the basis vectors it incurs n squared
+complexity inverse fourier transform is
+uh multiplication by the inverse matrix
+right the transpose of phi again n
+squared complexity and then spectral
+convolution will be just a product
+of the fourier transform of the filter
+and the signal and usually we design the
+filter in the frequency domain and the
+frequency
+in the first space so it will be
+basically
+uh a multiplication by uh
+by phi
+of the product right so the inverse
+fourier transform of the product of
+differential forms
+now
+what chebyshevnet does is applies a
+polynomial filter to the graph of
+passing right so the graph applying the
+filter to laplacian i remind you it
+incurs
+applying this function to the
+eigenvalues and basically what
+what it amounts to
+is to take the powers of the laplacian
+and multiply them by some coefficients
+that are learnable right that we denote
+here by alpha and sum everything up
+so you see that we can avoid explicit
+eigen decomposition whatsoever right i
+don't really need to compute these phase
+multiplied by the phi they just need to
+take the powers of the laplace
+so what does it take to compute the
+power of the opposing if i have a
+polynomial of degree r so i need to
+multiply by
+a sparse matrix r times so it's order of
+the number of edges right on or on the
+mesh it will be order of
+uh of n approximately
+it is stable under graph deformations
+again i mentioned these results you can
+look up
+so we can show that if the the mesh is
+deformed a little bit
+then the result will be stable
+and basically you can see that even
+though we started as a spectral filter
+right that operates on like values of
+the plus and it boils down to simple
+local averaging right so laplacian what
+it does as we've seen it just averages
+your neighbors so you applied this
+averaging several times to the neighbors
+of the neighbors so basically what you
+get here is the convolutional flavor of
+a graphical network
+okay
+so that's how we close the loop so we
+started with
+we started with
+with spatial convolutions then we said
+that we have
+the ambiguity
+of the local
+choice of the gauge so we could use
+isotropic filters that come from
+spectral decomposition and indeed we see
+that that applying spectral filters
+spectral convolution
+boils down to
+isotropic filters in space
+so i will stop here
+please let me know if you have any
+questions and then with taco you will be
+talking about the more general
+construction of gauge equivalent filters

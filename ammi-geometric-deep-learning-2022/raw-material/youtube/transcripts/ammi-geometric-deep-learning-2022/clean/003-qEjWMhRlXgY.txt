@@ -1,0 +1,1522 @@
+i'm taco cohen and i'm going to present
+this uh the third lecture on uh
+geometric priors so far you've uh you
+you've heard uh michael give you an
+overview of geometric deep learning
+and john explained the difficulty of
+learning in high dimensions and so in
+this lecture we're going to start
+looking at the kinds of solutions
+proposed by geometric deep learning
+and specifically we're going to look at
+this central concept of symmetry
+and we'll introduce some of the
+fundamental concepts involved there such
+as groups representations
+and the notions of invariance and
+equivariance
+so here's an outline of the lecture
+today
+so first i will talk about
+uh geometric domains signals and fields
+of geometric quantities so in geometric
+deep learning the data that we're
+interested in are signals
+so think of things like images
+over some geometric domain for example
+an image over the image plane but of
+course in geometric deep learning we're
+interested in much more exotic kinds of
+spaces and types of data
+and even more generally we're interested
+in something called a field
+for example a vector field like the
+optical flow
+image or a diffusion tensor image that
+you you might record from a brain scan
+so also we'll talk about the kinds of
+data that we're going to be processing
+and then we'll look at this concept of
+symmetry
+uh so i'll explain that the general idea
+and how symmetry appears in machine
+learning in various guises
+then we'll look at the particular kinds
+of symmetries that we're interested in
+in geometric deep learning namely the
+symmetries of the domain
+we'll study some general mathematical
+concepts related to symmetries such as
+groups
+group actions and linear group actions
+also known as group representations
+and we'll look at a the specific way in
+which the group of symmetries acts on
+this space of signals that we defined in
+the beginning
+uh and then we'll look at the key
+concept that should help us
+uh uh uh you know learn better models uh
+uh which is uh which are these concepts
+of invariance and equivariance
+all right so let's do a quick recap
+of
+john's lecture
+so
+in general learning in high dimensional
+high dimensions is intractable
+uh the number of samples that you would
+need to get a reasonably dense coverage
+of your input space will grow
+exponentially uh with the the dimension
+so if you don't make any further
+assumptions uh this is not going to work
+even even nowadays with with internet
+scale data
+if you try to classify images with a
+nearest neighbor classifier or some
+other naive method
+you you wouldn't get very far
+um so in geometric deep learning however
+that as i said before the data are
+signals on some kind of space or domain
+so again think of images on a plane
+you can have signals on a sphere such as
+weather data you can have data living on
+a graph
+and various other kinds of of domains
+and this uh these domains typically are
+fairly low dimensional uh and they tend
+to come with uh certain uh symmetries
+that i'll talk about in in a minute uh
+and these uh these things should help us
+make learning tractable because we
+already know something about the
+structure of the data
+um yeah so in this lecture i'll i'll
+cover this principle of symmetry
+and in the next lecture jean will talk
+about another
+related idea called scale separation
+all right so to continue to recap uh as
+john explained in in learning there are
+or one way to think of it is that there
+are three sources of error
+you have the approximation error
+which means that the true function that
+you're trying to approximate say a label
+function that assigns a label to every
+image in your your data set or every
+image in your input space
+the the approximation error
+relates to
+the
+discrepancy between the true
+label function and the best one that you
+can find in your function class so if
+your function class is too small for
+example only containing linear functions
+or only containing containing very
+shallow
+neural networks or very or neural
+networks with few parameters then you'll
+have a high approximation error simply
+because the the class of functions is
+not flexible enough to approximate the
+the true function
+so this uh this suggests that you want
+to choose a very large function class
+you want to use uh big neural networks
+and indeed of course we've we've seen
+over the last few years that that is a
+very successful strategy however at
+least the classical theory of
+generalization tells us that
+we can we can then run into an issue
+where if we choose a very large function
+class
+uh we'll also need a lot of data uh so
+we get so so
+if we have a fixed amount of data as we
+increase the size of our function class
+or hypothesis class
+uh the statistical error will grow
+and then finally there's optimization
+error which is
+related to the fact that even if your
+function class has a good uh hypothesis
+in it
+you might not be able to find it this
+will not be
+covered very much in the in this course
+now
+what i'm going to talk about today is
+that using geometric prior so these
+ideas of symmetry and scale separation
+we can decrease the size or complexity
+of the hypothesis class for example will
+only admit
+equivariant neural networks
+without discarding useful hypotheses
+so this should then improve the
+statistical error
+because we're reducing the size of the
+function class
+we're not allowing any more any
+non-equivariant neural networks
+while not worsening the approximation
+error because if we know a priori
+that the true
+function that we're trying to
+approximate let's say the label function
+of a function that assigns a label to to
+an image
+should be invariant to various kinds of
+transformation of the image
+if we know that a priori then uh
+making the hypothesis class smaller by
+discarding functions that we know
+can't be uh uh
+correct anyway should not worsen the
+approximation error error
+okay
+so let's talk about geometric domains so
+as i mentioned in geometric deep
+learning the data lives on a domain
+which we usually indicate by omega so
+this domain could be various things but
+uh
+in in all cases the domain at the most
+basic level is a set
+um
+so and this set usually comes with some
+additional structure so you can have
+grids for example the
+as in the example of planar images each
+grid point indicate indicates a pixel
+location
+and the structure could be a
+neighborhood structure so you can say
+this pixel is next to another pixel or
+you could have a
+distance
+associated with the the domain as well
+saying what is the distance between any
+two points in the domain
+um you can have
+more generally
+uh
+your domain could be a homogeneous space
+we'll talk a little bit about what that
+means and there will be a whole lecture
+about this later in the course but think
+of examples like a sphere or a taurus uh
+or some other uh uh
+yeah there are other examples as well
+um graphs very important very popular
+these days uh is another example here
+again we have a neighbor structure or a
+topological structure that says which
+nodes are connected to which other nodes
+and finally we have manifolds which to
+stick with the 5g theme we labeled
+geodesics and gauges
+and that's that's that's another example
+of a domain
+so the key message
+of geometric deep learning is that
+neural networks for processing geometric
+data
+should respect the structure
+of the domain
+so for example if we uh consider the uh
+let's say this uh this sphere
+uh then there are certain things that
+that we consider meaningful structures
+such as for example the distance between
+two points
+um and uh other things that we we don't
+consider meaningful and the the neural
+network should respect that structure
+so we'll get a bit more precise about
+what that means in a second
+all right so as i said the the uh the
+data that we're interested in uh in
+geometric deep learning uh is uh
+so-called signals on a geometric domain
+so what is a signal well it's just a
+fancy word for a function
+so a signal on omega
+is a function we label it by x usually
+from omega to
+c
+where c is some kind of vector space
+and the dimensions of the vector space
+are usually called
+channels
+so again the simplest example is a
+planar image
+as we uh
+discussed before the
+domain here is set of
+grid points the locations of the pixels
+and for each pixel uh we then assign a
+three-dimensional vector that encodes
+the rg red green and blue
+values of that pixel and so even though
+usually we think of
+maybe in in more practical terms we
+think of an image
+as maybe a vector flat vector or
+maybe as a three-dimensional tensor with
+width
+and height and channel dimensions
+we can also mathematically describe it
+as a function
+and that's what we'll do here because
+that that that works
+nicely and generalizes
+very well
+another example would be a graph so here
+the domain
+would be the set of nodes which will
+label by the numbers 1 through n
+and then a signal
+on this on this graph
+could be
+the assignment of a
+a node feature vector
+to each each node for instance uh
+telling you for each atom what type of
+atom it is for example each gray node
+here corresponds to a carbon atom which
+would be coded by a one hot vector with
+a one in the c channel and then zero
+everywhere else
+uh so we can we can then consider the
+space of all c valued signals on omega
+and that's just the set of all f
+functions with omega as the domain and c
+as the co domain
+and that will be
+the input space
+for our neural network
+but also the feature spaces and perhaps
+the output space of the neural network
+uh will also be of this type so for
+example if you have an image
+uh you your input space would be
+uh signals
+with three channels on the plane and
+then if you apply a convolution layer
+maybe you have now more channels but
+it's still going to be some kind of
+space of signals on omega
+and in the case where you're doing
+segmentation of the image signing for
+each pixel
+for example semantic class then also the
+output would be again a signal in other
+cases where
+you're doing classification then the the
+output would be maybe just a single
+vector
+in any case we denote this space of
+signals by x of omega and c and
+sometimes when it's clear uh we'll leave
+out the omega and c
+all right so the first thing to notice
+uh about these uh
+spaces of signals
+is that they come with what's called a
+hilbert space structure it's it's just a
+fancy word
+uh for the the fact that uh it's a
+linear space and secondly that we can
+can uh
+define some kind of inner product which
+allows us to compare patterns so if you
+have an image you want to for example
+compare it to a filter by taking an
+inner product so first linearity so what
+does linearity mean mathematically uh
+just to remind you
+uh if we have a signal x
+we're going to think of that as a vector
+and another signal y we can form a new
+signal alpha x plus beta y
+and since that's a signal since it's a
+function
+we can evaluate it at u just like if you
+had a finite dimensional
+column vector or something you could
+index it by the dimension here u plays
+that role of index it's a spatial
+position that you evaluate this function
+at so how is this linear combination of
+functions defined
+well if we evaluate at u
+we
+we get um the the value of x at u
+times the scalar alpha plus the value of
+y at u times uh the scalar beta
+and so visually it looks like this we
+have here an image x and an image y
+and well i i haven't shown what it means
+to scale them but if you just add them
+then you superpose so for each pixel
+you're going to sum the values from the
+two images
+pixel wise addition
+uh all right so that's the conclusion
+the the space of signals is a vector
+space and that's that's pretty
+interesting because the the the the
+domain itself omega
+need not be a vector space in this case
+we took the image plane and in the image
+plane there's an operation of addition
+and and scalar multiplication defined as
+well but if the domain were a graph
+uh then we could still do a node wise
+addition of features
+and so the the the signal space is a
+linear space even though in a graph
+there's no
+notion of adding nodes uh defined
+uh if the domain is has an infinite
+number of points then the vector space
+is infinite dimensional but of course in
+practice when we do actual computations
+we have to somehow discretize uh to
+something finite
+and then the second point that really
+makes this not just a linear space but
+something called the hilbert space
+is that we can define an inner product
+that we can use to compare patterns
+uh and that that inner product is denote
+by denoted by these
+angular brackets
+so the inner product between signal x
+and the signal y
+is defined in terms of two things first
+of all an inner product
+on the
+feature vectors
+so remember our signal assigns to each
+point in the domain a vector and for
+those vectors let's say rgb vectors
+three-dimensional vectors
+we we should be able to compute an inner
+product well for r3 that's easy just
+multiply each of the three numbers and
+add them up
+the other thing we need is a measure mu
+on omega that allows us
+to assign some notion of of area to
+subsets
+of the of the domain and this measure in
+in some technical way is used to define
+a notion of integration over the
+domain
+and that then allows us to define this
+this inner product so the inner product
+of x and y
+is the integral of the domain
+of the inner product between the feature
+vectors at each
+position
+now if omega is finite dimensional
+or if it's a discrete space then you can
+use something called the counting
+measure which basically turns this
+integral into a sum and then
+you can see that this really reduces to
+the familiar notion of an inner product
+where you're sort of summing over all
+the points in your domain over all the
+dimensions
+of your vector essentially and your
+summing products of x and y
+all right so that's the conclusion the
+space of signals is a hilbert space
+and i've denoted here in purple some
+some some questions that you can look at
+uh after the lecture uh to to test your
+understanding and you can you can look
+up uh online the axioms of an inner
+product and then verify that indeed the
+thing i've defined here uh uh satisfies
+those actions
+uh now there's uh so i've said so far
+that the data are signals on a domain
+but if we want to be really precise then
+we have to
+generalize a little bit beyond that we
+won't be talking much about that in the
+in the first few lectures uh only later
+when we we talk about manifolds will
+this really start to play an important
+role
+but
+in in many cases uh we're interested in
+a a
+data that forms a field of geometric
+quantity so you see here a a mesh for
+example and at each point in the master
+mesh there's a little vector
+that together these vectors form what's
+called a vector field
+and now the key thing to notice is that
+each vector
+lives in the tangent space at the at the
+point where it uh where it's attached so
+the tangent space you can think of that
+as the best linear approximation of the
+manifold at that point
+and although all the tangent spaces at
+different points they're so called
+isomorphic they're all in this case
+two-dimensional vector spaces they are
+still different uh vector spaces they
+they
+yeah they're they're attached to
+different points they have different
+orientation if you want to visualize it
+like that
+so to keep things straight you have to
+say that uh
+instead of saying well i have a signal
+or function that maps a point u and
+omega to some
+feature vector x in a fixed vector space
+c
+uh when you're talking about fields you
+have to be clear that you're mapping
+your point u to a vector in the vector
+space attached at u that vector space is
+often called the fiber at you so for
+example this is tangent plane can be
+seen as a fiber at the point u here
+now again this is uh this is a
+technical stuff that that won't be so
+important in the beginning but it's good
+to be aware of this
+right so we will work with function
+spaces for now
+um
+then there are some cases where
+the
+data
+isn't naturally thought of as a signal
+on the domain but as the domain itself
+so sometimes for example you your data
+is a mesh such as this this this picture
+of a hand mesh
+and that's what you want to process by a
+neural network to make some prediction
+like what gesture
+the person is making
+uh and basically the way we we deal with
+that is is with a little bit of a hack
+by turning the domain into a signal on
+the domain so for example if your data
+is a graph
+then you can
+take the adjacency matrix that has a one
+whenever two nodes are connected and a
+zero otherwise you can view that as a
+signal on the domain omega by omega
+where omega is the set of nodes
+or if you have a mesh or manifold then
+there's something called the metric
+tensor
+that is intrinsic quantity that you can
+derive essentially from the the
+specification of the mesh or manifold
+and that can also be viewed as a a
+signal uh specifically a tensor field
+on the
+on the mesh
+so we turn the domain into a signal on
+that domain
+okay so now let's talk about symmetries
+first i'll talk about the general
+concept
+so what what is asymmetry
+so a symmetry of an object is a
+transformation of that object that
+leaves it unchanged so here we have as
+our object a triangle
+and what could be a transformation well
+we could rotate it and if we rotate it
+by
+2 pi over 3 a third of a circle
+then
+the triangle is mapped back onto itself
+so that's what happens if you follow
+this yellow arrow for example
+and so
+trees you can flip the triangle for
+example along the vertical axis axis and
+that's also asymmetry and you can see
+that these symmetries already for this
+very simple case start to interact in in
+quite intricate ways
+uh but uh but that's the uh uh that's
+that's a general idea
+what a symmetry is
+um now how is this relevant to machine
+learning uh well we'll look at a couple
+examples so the first one is symmetries
+of the parameterization
+so
+remember we have our input space x
+and we're going to define some layer or
+some
+whole
+network or function
+on x that outputs
+uh
+let's say a label y
+now this this function also depends of
+course on some weights that will denote
+by w
+so we have our
+for example neural network f that takes
+its input some
+yeah some data x and some weights w and
+outputs a label
+then we can have a transformation of the
+space of weights
+and we can say that transformation g is
+a symmetry of the parameterization if
+this equation holds if it's true
+that
+applying the neural network with a
+certain input x and some transformed
+weights
+is the same thing
+as uh applying the
+network to that same input with the
+original weights
+so an example
+so okay so first of all how does this
+relate to the definition well here we
+have our
+our our function f and essentially you
+can think of this function as being
+unchanged by this transformation g
+applied to the weights
+um so an example of such a symmetry
+would be swapping all the incoming and
+outcoming connections uh of uh of a
+hidden neuron so we have here a uh
+let's say what's this orange and gray
+neuron and we can swap them
+along with all the incoming and outgoing
+weights
+and then if we do a fourth pass here or
+four pass here
+we get exactly the the same
+same result
+i
+i'm not sure if you see my
+pointer i hope it's
+visible
+laser pointer okay
+um
+all right so that's that's the symmetry
+of the parameterization
+now uh this is uh this is a very
+interesting example but it will not be
+the main topic of geometric deep
+learning i just wanted to show it to you
+to to
+basically make the point uh that
+symmetries appear in all sorts of ways
+in machine learning
+and you can think of other weight space
+symmetries for example related to
+scaling of weights
+then there's the main example we'll
+think about throughout this course
+that's symmetries of the label function
+so we have the label function the the
+thing we're trying to approximate
+we denote that by l taking input x to
+label y
+and then we consider a transformation g
+now not from the weight space to itself
+but from the input space to itself
+so for instance we could have
+an image and we can apply the
+transformation of rotating it
+and then we say that this is a symmetry
+if the label function applied after this
+symmetry is the same as just applying
+the label function directly in this case
+this is an image of a dog and this is an
+image of a rotated dog but we just have
+the label dog so the the value here is
+the same so then we say that g is a
+symmetry of this label function
+now
+um
+it should be clear that if you know
+about the symmetries
+of your learning problem if you in fact
+if you knew all of them
+uh then learning would be very easy so
+that's shown by this example here we
+have a symbolic representation of our
+input space x by this venn diagram this
+this gray set
+here and there are a bunch of points in
+there and there they they come into two
+classes cats and dogs for for instance
+and by the gray arrows
+is indicated where a particular kind of
+symmetry transformation sends each point
+so this point is mapped to another point
+and as you can see
+all the points are mapped to a point in
+the same class which means that this is
+indeed a symmetry transformation and now
+there are many such symmetry
+transformations so you could draw many
+other kinds of sets of arrows
+that map the points in one class to
+other points in the same class
+and
+indeed any invertible map that respects
+the class boundaries is a symmetry of
+the label function
+now if we knew all of those symmetries
+we would only need one label per class
+so how do we how do we see that well
+if we start at any point in our space
+we can apply
+all the possible symmetries that we know
+about and we would end up
+for different symmetries we would get to
+different points but they would all be
+in the same class and indeed we would
+reach all points in the in this class
+and so up to a re-labeling
+or permutation of the labels uh knowing
+all the symmetries is the same as
+knowing the labels essentially
+uh so what does that tell us well it
+tells us first of all that knowing about
+symmetries can be very powerful but it
+also tells you that
+uh it's not realistic to expect that for
+non-trivial kinds of learning problems
+you you actually would know all of the
+symmetries a priori
+so
+what kinds of symmetries can we expect
+to know about
+uh and that's uh uh where we get to the
+main kind of symmetry that we're
+interested in in geometric deep learning
+namely symmetries that derive from the
+geometric domain on which the data is
+defined
+so again we have our domain omega
+and now we're going to consider symmetry
+of this domain so now that's a
+transformation not from the data space
+to itself but from omega
+the space on which the data lives to
+itself
+so what does it mean for that to be a
+symmetry
+well symmetry should leave something
+invariant
+but what that something is depends on
+how exactly you define your domain omega
+mathematically
+so
+a general but slightly vague way to say
+it is that
+this transformation g the symmetry
+should preserve the structure
+of omega so some examples
+if our set if our omega or
+whether an element is a member of the
+set or not but you cannot say anything
+about the distance between uh points or
+uh any other kind of relation between
+the the elements of the set
+so it's a very minimal kind of structure
+then any kind of permutation of the
+elements
+is a structure preserving map
+if you have a space where you have some
+notion of distance like a plane
+then you can consider the
+the
+group of isometries of distance
+preserving maps so in the case of the
+plane those would be rotations
+translations and reflections
+and that
+if we define uh omega to to have this
+distance structure then those would be
+the symmetries
+uh you can take the same space this
+image plane and you can say well we
+don't really think distances are always
+meaningful
+but we still want to preserve somehow
+the smooth structure of this space and
+in that case the group of symmetries
+would be the group of diffiomorphisms
+these arbitrary sort of smooth warpings
+of your space
+and there are many many other examples
+uh that we'll encounter throughout this
+course
+okay so now we'll study
+um
+the the the some basic facts and general
+facts about symmetries
+and the first thing we'll look at is
+that symmetries form certain kind of
+algebraic structure called a group
+so the collection of all symmetries of a
+given object is called a symmetry group
+so what does that mean well we make a
+few observations we first know that
+the identity transformation is always a
+symmetry right it doesn't change the
+object at all so it doesn't change the
+structure
+um it leaves a structure invariant
+uh the other thing the second thing to
+note is that given two symmetry
+transformations we can compose them
+doing one thing
+after another
+and that will also be a symmetry so if
+we rotate and the triangle and then
+reflect it
+that gives you a rotor reflection that's
+also a symmetry
+and given any symmetry the inverse of it
+is also a symmetry and those are
+basically the axioms of a group
+so
+in mathematics it's studied like this
+you you forget about the fact that
+your symmetries
+uh are transformations you just look at
+a set g
+the elements of which we'll call group
+elements and we think of them as
+transformations but they're just for now
+the way they're studied is there as
+abstract elements and the group comes
+with a binary operation that takes two
+group elements and produces another one
+that we call the composite
+and that's denoted by gh
+and it has to satisfy these these
+properties which reflect the
+observations i made on the last slide so
+first of all this this uh composition
+operation should be associative as is
+the composition of transformations
+in general there should be some identity
+transformation in the group that behaves
+like an identity if you do any
+transformation followed by identity by
+doing nothing that's the same as doing
+nothing and then this
+transformation g or just doing g
+and there should be inverses in the
+group so for each symmetry
+transformation there should be an
+inverse element g inverse that indeed
+behaves like an inverse in that if you
+compose it with g
+on either side you get the identity if i
+rotate to the right and then rotate to
+the left that's the same as as doing
+nothing
+now uh the reason
+so mathematicians have their reasons for
+studying groups in the abstract by for
+where they forget about the fact that
+the symmetries can be thought of as
+functions transforming say
+the input of your
+neural network
+but for us this is also an important
+point because
+you know let's say we're we're looking
+at translation uh symmetry so we have
+our our images they can be shifted and
+that won't change the label function
+well that shift uh that group of of
+shift transformations
+will act on the input space but it will
+also act on the feature spaces and in
+general it can do that in in different
+ways for example
+even quite trivially you might have a
+different number of channels so
+technically uh the the the group acts in
+different ways on these different
+feature spaces
+um and that can be uh encoded via this
+notion of a group action which i'll talk
+about in a second so we have to keep
+these notions straight we have the
+symmetry group
+uh that's a group whose elements are
+actual functions or transformations
+and the group operation then is the
+composition of maps we can also study
+the abstract group where we forget about
+what the g
+what the g's are as functions they're
+just elements of a set
+but we remember how they compose that
+you know if i
+do a certain transformation followed by
+another transformation maybe that's
+equal to the identity transformation or
+something like that we remember the
+compositional structure
+and yeah then you can study these groups
+and apps abstract and then if you want
+to talk again about how the group acts
+on data
+you need something called a group action
+where you take an element of the group
+and an element of your domain and you
+produce the transformed element of the
+domain
+and we'll study various kinds of group
+actions so for example the group again
+the group of translations could act on
+two-dimensional points can move a point
+in the plane or it can move a whole
+signal it can move the the whole image
+or it can move a whole stack of feature
+maps in your neural network
+right so here's a simple example for
+euclidean
+motion
+acting via matrix vector multiplication
+so uh what i was explaining here is a
+bit of a technical point
+that
+uh we we have different kinds of
+concepts so first we started by saying a
+symmetry group
+is a set of transformations of functions
+g from our domain to the domain let's
+say rotating a sphere translating an a
+plane etc
+and here you have a very concrete
+meaning of the of the group elements
+they are functions and the composition
+of the transformations is just function
+composition you can also study groups in
+the abstract where you forget about what
+the group elements are they're just
+elements of a set called the group but
+you forget the compositional structure
+so you
+and sorry you remember the the
+compositional structure
+so you remember that uh which elements
+compose into which other elements and
+then if you want to talk about how the
+group acts on data you need to introduce
+something called a group action which is
+a mapping
+from the group and the domain to the
+domain so let's say a rotation a point
+on the sphere and it produces the
+rotated point on the sphere
+this is useful for us because we'll have
+one group
+acting on different
+types of spaces namely the feature
+spaces in our neural network
+all right so
+if you want to get an intuitive feel for
+the structure of a group you can use
+these tools called cayley diagrams and
+tables
+and again i'm using here the simple
+example of symmetries of a triangle
+this group is generated by rotations and
+reflections indicated by the two colors
+of arrows that allow you to make any
+element in this group
+and what you can see read off here is if
+you have your triangle you rotate it
+by a third of a circle and then you flip
+it that's the same as starting here and
+flipping and then applying let's say two
+two thirds of a circle rotation
+various other kinds of relations between
+group elements now the same information
+can be coded in a table where along both
+the
+rows and the columns you list all the
+group elements so in this case doing
+nothing rotation
+uh rotate rotating twice there's no
+rotating three times because that's
+again the identity there's a mirror
+reflection mirror rotation mirror and
+twice the rotation and then you can look
+at each element in the in the table
+and you can see what the composition of
+these elements is so if you rotate twice
+you compose with rotating once you get e
+the identity element doing nothing
+for example
+so uh this allows you to to get a a bit
+of a feel for the structure of your
+group at least when the group is
+finite or an infinite
+group of course this becomes
+impractical to write on a piece of paper
+so there are various kinds of groups
+that you can look at there are discrete
+groups and continuous groups so uh among
+the discrete ones where we have finite
+groups such as this example of the
+symmetry of a triangle there are
+countably infinite groups such as the a
+group of translations of the plane of a
+line or like a set of points on the line
+uh or
+of a grid in 2d or higher dimensions and
+they're continuous and lead groups like
+compact groups like rotations
+locally compact groups like translations
+and euclidean motions and even non
+locally compact groups like
+diphthomorphisms the exact meaning of
+this is beyond the scope of this this
+lecture but
+basically
+the finite and compact groups and to
+some extent locally compact groups are
+are mathematically
+uh most easy to work with
+um then uh
+as i um
+mentioned these these symmetries
+that come from the structure of the
+domain they can also act on the space of
+signals and that's where things start to
+get interesting for geometric deep
+learning so if we have an action of a
+group g on omega for example we know how
+to uh permute the elem the nodes of a
+graph then we automatically
+get a an action of the same group on the
+space of signals on the domain and
+that's defined by this equation
+we have our signal x and the transformed
+signal gx
+evaluated at a point u
+is given by the original signal x
+indexed by the point g inverse u
+um and uh i think the next slide should
+this slide should make
+clear
+how that works so here we have uh
+here we have our or on the right we have
+our
+sorry about that we have our original
+our original uh signal with the bug here
+on the left hand side of the image
+and then we apply a translation
+so the bug on the left is going to move
+to the right
+and to know the value
+at for example this point here indicated
+by the arrow labeled u
+to note the g x at u
+we look at the original signals signal
+at x
+u minus t minus the translation so we
+take this point u we subtract the
+translation and we index the original
+image
+and that's what we mean by translating
+that that's the explanation for why
+there's this inverse in the equation
+here why we have to index the the image
+by minus t
+so the key point is
+if we have a group action on the domain
+we get a group action on the space of
+signals
+now here's something we can notice about
+this particular group action on signals
+it's that it's linear so we note that
+already that even
+does have a linear structure because we
+can add signals and
+scalar multiply them
+but this action i've just defined
+because it because it just moves points
+around is also a
+linear
+so
+what does that mean well here we have uh
+one image x and we have another image uh
+y
+we can add them then we get this
+combined image pixel what defined by
+pixel wise edition
+now what we can do is we can apply a
+transformation g let's say a vertical
+translation shifting things down then we
+come to this image on the bottom right
+and you can note that that's the same
+thing as
+taking each image x and y translating
+them downwards then adding the results
+up
+and so that is the definition of
+linearity so this transformation g is
+linear because if you apply it to a
+linear combination that's the same as
+applying the linear combination to the
+transformed uh signals
+and that holds in a very general
+setup of
+signals on a domain that has symmetries
+now an a just a name for such a linear
+group action is a group representation
+so we say this group is represented in
+the
+vector space by these linear
+transformations now if your vector space
+if your space of signals is finite
+dimensional then a linear transformation
+is just
+what can be represented by a matrix
+so that gives us this
+definition
+an n dimensional real valued
+representation of some group g
+is some mapping indicated by row that
+takes a group element and produces an n
+by n matrix
+so it assigns each
+of those elements an invertible matrix
+that's part of the definition and it
+must satisfy this equation which says if
+we compose two group elements
+and then get the matrix representing it
+that's the same as getting the matrices
+representing the individual group
+elements and then
+composing those
+so uh this is uh so for example if you
+have an uh and
+again the two-dimensional image
+um we have a translation group or a roto
+translation group we know how to apply
+those to
+uh
+two points on the plane
+um and then we can also uh get a uh an
+action on the space of signals i.e two
+dimensional images
+and that's linear so we can represent it
+as a matrix and that is the matrix
+representation
+is a matrix representation of the
+translation group
+so here's another example for
+one-dimensional signals with cyclic
+shifts and because lack of time i will
+not cover this now but i recommend to to
+look at the slides and study this a
+little bit to make sure you understand
+the concept
+um another example that's uh
+that's very important going to be very
+important in this course is the
+symmetries of sets and graphs so here
+the domain
+is a set of nodes or vertices
+of
+of our graph
+and the symmetries are all the possible
+ways to permute those those nodes
+and then we can study three kinds of
+graph features all of them corresponding
+to different representations
+of this symmetry group group of
+permutations the first one is a very
+trivial one it's called the scalar
+feature so if we have a graph and we
+want to assign for example a label to
+the the graph as a whole
+then clearly we don't want the label to
+change if we permute the nodes because
+permitting the nodes doesn't change the
+graph and so
+that can be
+you know formalized by saying that the
+output should transform as a scalar
+feature as a so-called trivial
+representation where the matrix that we
+assigned to any possible permutation is
+just a one by one matrix with a one
+in there
+i e it's just encoding the idea of
+invariance
+you can also have a vector feature where
+for each node in your graph or set you
+have some
+number
+and
+the way permutations act is just by
+permuting those numbers as you can see
+in this figure and another example could
+be where you have a tensor or matrix
+feature for example you might have a
+number or or a bunch of numbers
+associated with each edge
+in your
+your graph or each pair of nodes
+and then to permute such a feature
+means to permute both the rows and the
+columns of the matrix at the same time
+and that's another example of a group
+representation
+this i'm going to skip as well
+uh well the example of grids i think
+we've we've covered this extensively uh
+so uh
+there
+yeah you
+grids also have symmetries like
+translations rotations and flips
+and that setup can actually be
+generalized to something called
+homogeneous spaces so we'll talk about
+that in one of the later lectures
+so homogeneous space is defined
+as a space with a symmetry group such
+that
+for any two points that you can pick in
+this space for example any two points on
+the sphere there should exist at least
+one symmetry transformation in this case
+a rotation that maps one point into the
+other
+and as soon as you have this uh you you
+can well you can understand a lot about
+the spit these homogeneous spaces in in
+general
+and in particular you can you can
+develop a whole theory of equivalent
+convolutional networks for for
+homogeneous spaces so we'll look at how
+to develop convolutional networks not
+just for the plane but also the plane
+with rotation symmetries or sphere
+spherical data
+and other data as well and you can even
+think of the example of sets as a
+special case of this as well
+then
+there are symmetries of manifolds here
+we are dealing with something called
+gauge transformation which have to do
+with the
+transformation of the reference frame
+at each point
+so we'll talk more about this in a later
+lecture as well
+skip this
+right so now we we we get uh to uh
+the so we've now studied the notion of
+symmetry in general and see how seen how
+symmetries uh appear in machine learning
+in various ways
+um now let's talk about how we can
+actually use it
+in in geometric deep learning so the
+first idea that has been around
+basically as long as pattern recognition
+and machine learning has been around is
+this idea of invariance
+so
+excuse me
+so here the idea is that we have our
+input space and we have some uh symmetry
+transformations we have for example this
+letter a in various fonts and we have a
+symmetry rotation that produces various
+transformed versions of the of the same
+uh letter and we know those have the
+same label indicated by the color yellow
+here
+and so one very natural idea is to just
+say well why don't we
+find a representation of our data that's
+invariant to these symmetry
+transformations so if we rotate the
+image
+our representation denoted by this set
+will not change all the rotated versions
+of the same letter are mapped to the
+same point here
+now here as you can see you have less
+points this is a smaller space so it
+should be easier to do learning there's
+less distracting variation going on and
+still we can we can perfectly separate
+the classes as we could before no no
+points from different classes are mapped
+to the same representation
+so that's a natural idea but that you
+run into a problem when you uh consider
+this uh for the case of deep learning uh
+so
+and this relates also to the to the
+notion of skill separation that john
+will talk about uh next lecture so the
+basic observation is that to recognize
+whole objects you first need to
+recognize parts
+and that's basically where neural
+networks should be deep right you first
+did lower layers detect small edges and
+then object parts and then whole object
+and
+if you make the intermediate
+representation the representation of the
+parts
+if you make that invariant you will lose
+critical information as shown in this
+this diagram so here we have an original
+image of a face uh sideways we can
+rotate the whole image but if we just
+rotate the individual parts we don't
+have a correct face anymore
+um and so what this indicates is that
+the relative pose of the object parts
+contains critical information about uh
+what uh what the what the whole uh is
+and so you don't want the representation
+of the parts to be invariant to
+transformations you want to
+you know retain the
+uh information about the pose and so it
+can't be invariant so
+what can we do
+so the answer that uh that has become
+very popular is to use this idea of
+equivariance where
+you're still
+somehow respecting the structure of the
+group of the symmetries
+but
+at the same time you can preserve
+a lot of the pose information
+so what's the general setup here so we
+have as usual in a neural network we
+have a number of layers so we have an
+input space x0 and a feature space x1 x2
+x3 and we have mappings between them the
+mappings could be learned layers like a
+linear layer or convolution layer a
+non-linearity
+i don't know a batch normalization can
+be anything
+and we're just going to think of this
+for now as just a sequence of mappings
+then what's new is we also have a
+symmetry group
+uh i've discussed many examples by now
+and we have a group representation that
+tells us how this group acts on each of
+the feature spaces so maybe our input
+space is uh our rgb images uh and then
+we know how that transforms or maybe
+it's a vector field or maybe it's a
+diffusion tensor image in 3d or maybe
+it's a vector field on the sphere or
+whatever depending on what it is we have
+a different group and a different way
+that the group acts on this data
+and then we say that
+the layer f1 is equivariant if it's the
+case that if we apply the layer
+and then apply the transformation g
+any transformation from our group
+in the feature space that should be the
+same as applying it in the input space
+and then applying our layer and this
+should hold for all of the layers of the
+network and as a consequence then the
+whole network will also be equivariant
+so this is what it looks like for 2d if
+you translate the input image and then
+you apply a two-dimensional convolution
+with this simple edge detection filter
+you get the edges also translating so
+this is an example of equivariance
+uh
+usual convolutional networks that just
+translate filters
+are not equivariant to rotations as you
+see in this image rotating input here's
+the feature map and if you stabilize it
+so you back rotate the feature map you
+see that it's changing as the image is
+rotating so it's detecting this this
+feature map is detecting different
+features
+depending on how they are oriented
+now you can also develop rotation
+equivalent networks or what we call
+group equivalent convolutional networks
+and there
+the
+the feature map is is truly a rotation
+equivalent
+and
+um
+let's see yeah so here's
+another way to think about what uh why
+equivariance is a is a good idea
+basically
+so we have uh here on the bottom we have
+our input space and again we consider
+this problem of let's say simple digit
+classification
+uh we have the digit a in different
+fonts x and y are two uh points in that
+input space different fonts for the
+letter a
+we can transform them produce rotated
+versions of that rho 1 g of x rho 1 g
+of this should be y sorry about that
+um
+and then we have our neural network
+indicated by these uh
+vertical arrows
+and let's say that um this network has
+learned
+to map x and y to the same
+point in the feature space indicated
+here by a generic letter a that could be
+useful because it's just trying to
+recognize the type of letter not the
+font
+so we have f of x equals f of y now if
+this network f is equivariant then it
+should be the case that taking x
+transforming it
+and then mapping it to the feature space
+should give us the same result as
+mapping it to the feature space and then
+applying our transformation there
+so that already tells us where row 2 of
+g should send this point
+namely it should send it here but
+there's another constraint
+equivalence should hold for every
+transformation and every point in the
+input including y
+so if we apply the transformation to y
+and then map to latent space we get to
+different points so it's not clear where
+row 2 should send this
+point f of x
+uh so if your network is equivariant
+this situation will not occur and it
+will generalize in a way that's
+consistent uh with the symmetry
+transformation if these two points are
+deemed equivalent mapped to the same
+point in feature space then also the
+rotated versions of them are to be
+deemed equivalent
+um
+here's a comparison between data
+augmentation and equivariant
+equivariance
+but i again i'm sorry i don't have time
+to go over this
+but let's look at the summary of the
+session today
+so symmetries are transformations that
+leave an object invariant that's the
+general
+definition this concept appears in in
+many uh
+domains
+from geometry to physics and we've
+looked today at some examples from
+machine learning as well
+the algebraic structure that captures
+all the relevant features of symmetries
+are called groups
+they have these these properties such as
+closure under composition closure under
+inverses they have identities and an
+associative composition
+you can you can study them in the in the
+in in the abstract
+there are many kinds of groups discrete
+continuous etc
+now in machine learning we care about
+symmetries of the parameterization the
+label function and in geometric deep
+learning in particular we're interested
+in symmetries of the geometric domain on
+which the data lives
+so the symmetries of the domain they act
+linearly on the space of signals on the
+domain that's our data or the feature
+spaces in our network
+and to exploit symmetry and deep
+learning we use equivariant networks
+we make sure that if we transform the
+input
+then the output of the network or the
+output of the layer will also transform
+in the same way
+that puts a constraint
+on this layer or on the network and
+thereby reduces the function class which
+should make
+learning
+easier which should reduce your
+statistical error
+um and yeah in an equivalent network
+each feature space is associated with a
+group representation that is a way in
+which the group acts
+and each layer is equivalent with
+respect to these representations
+invariance is just a special case of
+equivariance
+where you use this trivial
+representation where every group
+elements acts by doing nothing
+and that's it for today and i'm happy to
+take questions thanks for your attention

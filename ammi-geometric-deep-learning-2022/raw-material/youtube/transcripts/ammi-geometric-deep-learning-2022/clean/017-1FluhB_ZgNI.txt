@@ -1,0 +1,1603 @@
+okay well yeah um yeah thank you for
+having me uh to kind of speak to you
+today um
+yeah my name's ross uh i'm coming to uh
+coming from uh deepmind science team
+and yeah today we're gonna be talking
+about uh the work done with alpha fold
+which you may have heard of which is our
+way of our method for solving the
+protein structure prediction problem
+um
+yeah and so we're going to cover some
+background on proteins because yeah i i
+won't assume that anyone knows uh you
+know what proteins are or how they work
+or why they're interesting
+uh so we'll do a bit of background on
+proteins and the physics of that and
+then dive into some of the
+machine learning components that make
+alpha fold work um yeah and chat about
+them a bit uh and yeah maybe then later
+look into some of the results and uh
+interpretation of that and some of the
+impact uh yeah and i think alpha fold is
+a super interesting case study for i
+guess what you've been uh learning about
+already
+because i guess it's it's a sort of
+non-standard machine learning um
+architecture but also incorporates these
+ideas of sort of geometric deep learning
+which i know you've
+been learning about
+and and yeah and it's also it's also
+something that has
+had an example of deep learning that's
+had practical uh impact out in the in
+the real world so i think they're always
+the most interesting things to to learn
+about
+oh yeah and uh please feel free to
+interrupt with questions but i'll try
+and leave some time at the end
+otherwise
+cool so uh yeah i think we'll first
+start by talking about proteins in
+general and why they're interesting and
+why we would like to use machine
+learning to to learn about them
+um so yeah to first start by explaining
+what really proteins are is you should
+bring i'm sure everyone's heard the word
+protein we should frame it as uh you
+know if an organism wants to do
+something within its cells or within the
+body generally how they'll do that is by
+having a protein which is specialized to
+that task so really you can think of
+them as these little
+molecular machines that are essential
+for life and for doing all sorts of the
+the processes
+um so but and and really these processes
+can span all sorts of things so for
+example it might be structural so you
+know it might be making up your hair or
+something or it could be to do with your
+immune system even so i'm sure more
+recently everyone's heard around the
+sort of the coronavirus lots of talk
+around the the spike protein and this is
+a protein of the virus which is
+important for sort of gaining access to
+a to a cell so proteins are really
+important for all these different kinds
+of
+functions across life
+and yeah proteins are large molecules
+obviously made up of atoms
+but in a sort of higher level of
+abstraction of that they're these long
+chains of amino acids and we're talking
+to what what that means exactly but so
+we can imagine a big long chain of amino
+acids almost like beads on a string
+and uh due to physics the forces of
+physics these things will jiggle around
+and fold up until they create some kind
+of
+3d molecule of the kind you can see on
+the slides here
+and so this exact 3d shape which the
+protein ends up folding into
+uh determines things relating to the the
+function of the
+protein and yeah so for example what it
+what it might do and what its purpose
+might be
+so yeah to expand on this idea of uh
+proteins as a
+collection of amino acids we can we can
+dive into what that means and so so we
+have all these uh little um
+these molecules which is sort of
+connected together one after another as
+i say like forming a string and so if
+we're thinking like computer scientists
+we can imagine that we can describe a
+protein basically as a string
+of letters
+in an alphabet of 20 or sometimes 21
+that being the sort of the number of
+different amino acids so we can almost
+think of it as like a
+like a word where each letter designates
+an amino acid and they're sort of
+ordered and connected together like that
+and you should also be thinking that um
+this is pretty much what your dna sort
+of encodes for so some section of your
+dna
+a gene is basically going to tell you
+the recipe for what order together to
+put together some amino acids to make a
+a specific protein
+uh and yeah um
+but so so what is it that actually makes
+these uh these amino acids that make up
+the protein what is it that actually
+makes them different and why uh why like
+why is it meaningful to have different
+orders of amino acids
+and and the reason for that is that all
+of the amino acids are made up of
+different
+collections of atoms they're sort of
+slightly uh different
+molecules and so as you can see on this
+uh on this slide on this poster
+here's examples of all of the different
+possible amino acids and they all have
+different uh
+uh chemical properties let's say so some
+of them maybe sort of uh have
+been electrically charged or some of
+them might be um
+uh hydrophobic so they really dislike
+being in contact with water
+and also you can see from here that they
+have sort of
+quite drastically different sizes just
+in the kind of the number of atoms
+almost so you can see that tryptophan in
+the bottom right
+has these really big
+loops of these rings
+uh whereas alanine in the bottom left is
+really quite small so um yeah this is
+not even going to give sort of physical
+constraints of where these molecules
+want to go
+and so as i said the
+the the amino acids will all sort of uh
+link together in a in a line almost so
+we have this this chain of amino acids
+and they all connect together along this
+single this sort of shared backbone that
+they all have
+uh running along the middle and the
+differences are actually in what's
+called the side chains and these are
+these uh all the
+these different kinds of these different
+kinds of atoms sort of hanging off the
+backbone
+and what gives the different amino acids
+their different uh these different uh
+chemical properties
+and so if you imagine this is kind of
+what a uh what a protein would look like
+if you just had a protein that had one
+of each different kind of amino acids
+you kind of have this contiguous
+backbone which connects together in a
+chain all the way along
+and then you have these the different
+side chains hanging off
+where so for example histidine has a
+certain side chain and cysteine has a
+has a different one
+and yeah when this these will fold up to
+create uh different 3d molecules
+and and yeah and the the 3d molecules
+which the 3d shape which the the protein
+folds up to form is exactly what we want
+to try and predict with with alpha fold
+and um yeah and why do we want to try
+and predict that why can't we just sort
+of measure it scientifically
+and the reason for that is we do have
+ways of trying to measure this
+scientifically they're just extremely uh
+difficult and uh time consuming they can
+take months or even years to solve the
+structure of a single protein
+and that's because the the methods which
+which can do this for example things
+like x-ray crystallography
+uh have many stages and many ways in
+which things can go wrong
+so for example if i had a new protein i
+wanted to solve the structure of say for
+example some
+yeah the hemoglobin uh
+and i wanted to learn its learning
+structure i would have to go through all
+of these steps on here i would need to
+make some dna that codes for the protein
+i would need to put it into some cells
+maybe some yeast or some e coli
+only to grow those cells so it produces
+the protein i need to smash the cells up
+to sort of extract the insides uh purify
+the protein so i only have my protein of
+interest and not all of the other
+proteins that are going on inside the
+cell i then need to sort of grow these
+crystals which is famously difficult to
+do
+so crystal's a pure protein
+then i can do what's called
+x-ray diffraction using some sort of
+high energy uh
+x-rays usually
+what's called a synchrotron
+again very expensive and difficult uh
+and then interpret the data and then
+maybe at the end but then i now can
+solve the protein structure from that
+but there's a lot of different steps and
+and can be very difficult so what we
+would like to do is basically skip all
+of those steps uh with machine learning
+and just go from step one
+straight to step eight and predict the
+the protein structure in in
+so that's what we're going to try and do
+but as you'll know um we can't do
+machine learning without data
+so we need data to to learn from and
+train our models and but luckily the the
+structural biology community
+has been collecting this data for a long
+time
+running these really difficult
+experiments and solving the 3d structure
+of many many proteins
+it's not the world's largest training
+set of all time but there is something
+like 200 000 solved protein structures
+out there
+and very conveniently they're all nicely
+logged away in what's called the protein
+data bank the pdb
+and yeah the community has been really
+good in um
+making all of this data publicly
+available for anyone to do research on
+which is really great um
+from a sort of uh yeah machine learning
+point of view to have access to all of
+this data
+yeah so this is the sort of starting
+point for us of what is our training set
+and it's the 200 000 protein structures
+that have already been solved by uh by
+the community
+um
+so
+uh yeah often already in this in this
+deck i think we've um
+shown some uh illustrations of the 3d
+structures of proteins
+uh but obviously these aren't things
+that you can see with your naked eye
+they're sort of down at the atomic scale
+and so the visualizations are always
+going to be a bit of a
+representation and there's always a few
+different ways of showing these
+so on the left hand side you can see
+the visualization of the protein
+with all of the atoms visualized uh so
+the the lines between the sort of
+blobs the green blue and red
+uh spheres are all individual atoms and
+the lines between them are showing bonds
+between the atoms and so in some senses
+it's sort of showing everything
+but in other sense it's very hard to
+pass this
+um
+you know it just looks like a big blob
+of atoms it doesn't seem to be that much
+structure inside it
+so commonly what people will do which is
+this picture on in the middle is just
+show this sort of uh cartoon
+representation of the protein uh which
+is just showing the the backbone and
+ignoring all of the side chains and in
+this one we can quite clearly see or
+much more clearly see but it's in fact
+is like a string uh a single string
+that's folded up
+and also what we can see is some common
+motifs so for example we see these uh
+these helices
+which called alpha helices and we can
+see some of the these arrows um
+which are there as well which get called
+beta strands or beta sheets and these
+are sort of common motifs that often are
+made up of proteins but obviously it's
+just a sort of artist's impression
+basically
+uh and yeah and i think this this um
+this middle representation is what we'll
+tend to uh be looking at most commonly
+and obviously on the right we've just
+got the two uh overlaid over each other
+so they're kind of showing the same
+thing just with different levels of
+detail
+cool and then
+it's important for us to think about uh
+what are the different causal
+relationships in uh
+in in sort of thinking about proteins
+because it happens on a few different
+levels
+so we're currently thinking about the
+protein being defined by its amino acid
+sequence
+as we've said this like this chain of
+amino acids and the order in which they
+exist on the chain and so that's sort of
+one level to think about it
+but we know that when that gets turned
+into a protein sort of when your body
+actually makes it
+we end up with this
+3d structure 3d molecule
+and it's there's a sort of causal
+relationship there that the physics sort
+of causes that molecule to take on a
+certain shape
+but obviously then that molecule then
+has a role within uh within your body so
+for example it might uh you know as i
+said it might be making your hair
+and then how strong your hair is might
+actually be important for you as an
+organism or it might be to do with your
+immune system and how intact your immune
+system is might uh affect how successful
+an organism is so this obviously then uh
+affects uh evolution at a species level
+so having a protein which is kind of
+gone wrong or has a a mutation in it
+could fundamentally affect the
+sort of trajectory of how this species
+goes on to evolve
+and that's actually a key insight which
+we can use in protein structure
+prediction
+because we can look at what is the um
+the evolutionary history of a single
+protein
+and we can actually use that to infer
+back in the other direction to try and
+learn something about the structure and
+i'll try and uh explain some intuition
+around how that works uh yeah on the
+next slide
+so
+yeah if you see these sort of little
+cartoons let's say about about the
+sequence where we imagine the sort of
+the different the various different
+arrows or different
+amino acids
+we can kind of think of the sequence
+that a protein has so for example again
+let's think of say hemoglobin
+but we can think of the hemoglobin
+sequence in lots of different species so
+in like humans or cats or dogs
+and so all of these are going to be kind
+of evolutionary even evolutionarily
+related
+and that means they're all going to be
+quite similar and hopefully are all
+going to do the same thing inside the
+body but the sequences all might uh vary
+quite slightly just due to you know
+random mutation and evolution
+uh but if we look through the sequences
+we might notice that certain mutations
+seem to happen uh
+seem to happen sort of uh
+uh in tandem with each other so for
+example these these uh sorry i don't
+have a pointer i don't think do i have a
+pointer uh oh yeah maybe hopefully
+hopefully you can see this pointer
+um
+so these um these sort of these two
+green
+green guys here
+uh at some point in the other species
+switch to these red guys but if i look
+over at this position these red guys
+switch to green guys and that could just
+be random chance but it could be the
+fact as we see here that in the 3d
+structure
+these two amino acids are interacting
+with each other and so if one mutates
+the other one has to mutate sort of to
+accommodate for that
+uh so there can be some signal which
+says that um
+yeah if if if amino acids tend to mutate
+together in in evolution then they might
+be they must be sort of related to each
+other in the in the 3d structure of the
+protein and we can use that signal to
+or we can hopefully use that signal to
+try and
+deduce something about the structure
+when we're trying to predict it using
+using alpha fold
+cool so hopefully that was uh
+a uh useful but whistle stop
+introduction to proteins and what we're
+trying to do here
+uh now i'm going to talk about the
+actual machine learning side of things
+so how we're going to use deep learning
+and ideas from geometric deep learning
+and all sorts of things
+to try and build a model that can take
+the sequence of amino acids of a protein
+and try and predict its 3d structure so
+literally try and predict xyz
+coordinates of all the atoms in the
+protein so it can give us one of these
+uh these nice uh 3d models
+so as you'll know like when we're
+thinking about deep learning and
+different neural network architectures
+there's all sorts of different
+considerations uh for different types of
+models and they all have different
+inductive biases aka they're all sort of
+designed for different types of data and
+baking in different
+sort of symmetries or whatnot
+um and so yeah we have uh convolutional
+networks which i guess we usually think
+of in computer vision so we're thinking
+about data that exists on a
+on a grid for example a regular grid and
+the information flow might be between
+neighboring pixels uh and
+yeah
+which makes a lot of sense for images
+for example and that was actually the
+basis of alpha fold one the original
+version
+of this model
+uh we also can think of recurrent
+networks like rnns or
+lstms uh and
+these are usually for thinking about
+data in ordered sequences whether
+they're kind of a progression of time or
+causality
+and in some ways that makes a bit of
+sense for proteins because we're
+thinking about things in uh in you know
+an ordered list almost but actually i
+think this information flow only going
+in one direction kind of doesn't doesn't
+fit our problem too nicely
+um yeah we can also think of things like
+graph networks um
+yeah which i i imagine you you might you
+might have come across um
+which uh yeah we can think about the
+information flow similar to in a
+convolutional neural network but over a
+more sort of general
+graph topology
+uh and yeah that makes a lot of sense
+for proteins because we have this sort
+of weird
+spatial graph almost but the problem is
+we don't know what the spatial graph is
+until we've predicted it and that's the
+sort of the problem we're trying to
+solve so we're kind of presupposing the
+problem there
+uh and yeah finally we have these sort
+of uh attention-based architectures uh
+like used in language in in transformers
+and here we're thinking about the data
+as being a sort of unordered set of
+entities
+uh which all may want to communicate
+with each other and whether or not they
+do communicate with each other is is
+this kind of uh dynamically uh driven
+process through our uh
+key and query attention uh which is sort
+of learnt and dynamically updated
+throughout the network
+uh and i think that really fits uh that
+really fits the the problem
+uh the the best as far as far as we're
+concerned
+so we think about um
+which of these fits onto the domain of
+proteins
+firstly we want an end to end system
+which can kind of take in an amino acid
+sequence so basically language
+as an input
+and can produce 3d xyz coordinates as an
+output that's already kind of a weird
+setup for uh deep learning so we're
+already going to have to do something
+a bit random
+uh but but yeah thinking about those
+inductive biases uh we we want residues
+which are close to each other in space
+sorry i should clarify when i say
+residues
+i i mean that interchangeably with amino
+acids so essentially these individual
+entities which make up the protein i'd
+call them either amino acids or residues
+um so yeah we kind of want to
+de-emphasize the fact that only
+neighbors can speak to each other
+because really sort of the protein can
+like bend round and different bits can
+all be in contact with each other so we
+kind of want to
+have a dynamic way of communication to
+happen like that so attention sounds
+perfect
+um we also want to
+reason quite a lot about sort of pairs
+of amino acids so how this and this
+interact with each other
+so we often start thinking about things
+in terms of this uh this this this
+pairwise representation
+so um
+so how does
+how does residue i communicate with
+residue j
+and this starts looking a bit like say
+like an affinity matrix for for a graph
+so it's not too dissimilar to sort of
+graph neural networks in that sense
+okay so i want to do a quick run through
+of what the sort of
+uh yeah the
+entire system looks like for alpha fold
+uh
+but yeah this might be a bit a bit
+whistle stop again
+so as i mentioned we first have the um
+the the input sequence the amino acid
+sequence which is what comes in at the
+at the very bottom
+um and yeah we talked a bit about the um
+the ability to use evolutionary history
+or genetics to
+um to infer something about the
+structure so in order to do that we
+first take the initial input sequence
+and look up in some genetics databases a
+whole set of sequences which we think
+might be evolutionary related to our to
+our protein of interest uh yeah we can
+do that with existing tools for the sort
+of database lookups and ideally for our
+initial input sequence we'll find
+say 30 to 100 or or more
+related sequences
+and that can kind of be the the proper
+input to our network
+then as i said we want to initialize
+not just a sort of
+uh a feature for each input sequence um
+for each input residue
+but actually a feature for each pair of
+each pair of residues so rather than
+sort of n input residues we have n
+squared pairs of residues
+this is going to be our pairwise feature
+and then kind of as an additional input
+sometimes we'll look up for if any
+if we think there's any similar proteins
+to this that have already been solved
+and we can use that as kind of clues for
+the network to to work on but i think
+that's uh that's the less important part
+of the of the architecture
+yeah so so so as i said we have these
+two different representations one of
+them is to do with the
+the the evolutionary history that's what
+we'll call the msa but a multiple
+sequence alignment
+and the other is to do with the pair
+representation and that's going to tell
+us something about the structure of the
+protein so
+how does how do each pair of residues
+relate to one another
+and and and actually what we want to do
+is obviously you want to be taking
+information from here which we know
+exists sort of hidden in this data and
+we want to be sort of feeding it into
+this which is our hypothesis about uh
+how the structure looks or yeah or what
+uh yeah what the 3d structure of this
+protein is and trying to sort of decode
+that from this
+then finally once we so yeah we put this
+through a very deep neural network which
+we call evoformer it's a kind of
+transformer
+and then ultimately these feature
+representations which are still sort of
+abstract features go into what we call
+the structure module which is where
+these abstract features get converted to
+something
+concrete an actual 3d structure that you
+might recognize as a protein something
+with xyz coordinates
+which we could say is a is a protein
+and yeah a final sort of interesting
+thing we we came across in developing
+this is that we're actually able to um
+take our final predictions from the
+network and then kind of feed them back
+in at the beginning of the network again
+and sort of ask the network to to try
+again and to sort of iterate on it
+iterate on its own prediction and see if
+it can improve it and we call that
+recycling and it's actually quite a
+general trick and it actually seems to
+work pretty well
+um it um you can you can i guess you can
+think of it as a sort of sneaky way to
+make your network deeper uh because
+you're really just sort of stacking
+multiple versions of the network
+together
+uh but yeah
+i i probably won't go much further into
+that
+oh yeah and then another thing we we
+produce as well as um
+the
+as well as the um the structure itself
+is we ask the network to
+estimate its own uncertainty or predict
+its own loss
+which we can actually use as a measure
+of confidence and i think this is
+another general uh
+thing that you could use in other
+domains which actually works
+surprisingly well it's kind of
+surprising that the network would be
+particularly good at estimating its own
+uncertainty
+but uh yeah it seems to work uh very
+nicely so we actually use this as a kind
+of confidence measure for our
+predictions like how how well does the
+network think that it's done
+okay so now uh i want to dive slightly
+more uh
+a bit more technically into what is it
+and what do one what do each of these
+layer individual layers do because we
+talked about how it's kind of like
+uh a transformer-like architecture but
+what is uh what does that mean so i'll
+dive into the sort of main layer of the
+network which is we call the evo former
+so as i mentioned we have these two
+different sort of parallel tracks of
+features we have the msa feature and the
+powerwise feature and these are actually
+going to update each other update
+themselves via self-attention
+uh so i i i
+i'm not i'm not sure if you've uh
+covered much on sort of transformer
+based architectures before
+but yeah we maybe don't have time to go
+into it um so much in this talk
+unfortunately
+but uh yeah these features are basically
+gonna sort of update themselves via
+self-attention but also we have some
+novel mechanism by which the we can sort
+of crosstalk these features so while the
+msa feature is doing self-attention on
+itself we can kind of bias that process
+by our current understanding of the
+structure here so we can sort of imagine
+the information is crossing across the
+streams
+and we can also do the exact same thing
+in the in the other direction and if
+anyone wants any would like any more
+details on uh yeah exactly how this
+process works maybe uh yeah we could we
+could cover it in the questions
+um but for now we can kind of think of
+it as
+yeah these channels are both updating
+themselves through self-attention but
+there's kind of a crosstalk mechanism
+between the two of them and yeah in
+order to make one compatible with the
+other we have a sort of an
+out-of-product operation here
+yeah and then uh the the pairwise
+feature which is yeah trying to
+represent the structure as we've as
+we've uh established
+uh then goes on to refine itself through
+what we call the uh triangular
+interactions and i'm going to dive into
+that a bit more because i think that's
+one of the more interesting
+contributions of the the alpha fold
+paper is a sort of uh and and also i
+think interesting for this course
+because it's very sort of geometrically
+motivated
+uh
+right so yeah i think the triangular
+operations we have here in offal is one
+of the key architectural uh
+uh contributions of the paper and really
+we're sort of taking something that's
+working entirely on abstract feature
+space like self-attention and trying to
+reinforce that it's talking about some
+spatial things so it's about
+3d objects in space
+what that means is that we need some
+notion of consistency
+so if all of these entities represent
+relationships between two pairs of
+objects then ultimately they all have to
+be self-consistent with each other so
+for example if you look at this if this
+if if this element represents this green
+arrow going from
+a to b
+and this element represents this red
+arrow going from b to c
+and that kind of constrains what this
+element should be telling us about
+because that's supposed to take us from
+c back to a and in a sort of consistent
+world uh these things are all sort of
+self-constraining you can imagine
+something like the triangle inequality
+that gives us some bounds on
+on these kinds of things or even if you
+if you know the vector
+directly then you're sort of fully
+constrained
+yeah but um
+so so so in order to create this um sort
+of cycle consistency we have a couple of
+different mechanisms
+one of them we call uh triangular
+attention
+uh
+so if you imagine if we're doing regular
+self-attention
+and uh yeah and this residue this this
+entity is attending to this one
+there's actually a third
+edge that's being missed from this
+calculation which is this one so we
+basically have a mechanism to sort of in
+all of our pairwise attention operations
+to sort of incorporate this third
+missing edge into the into the equation
+uh so to sort of make sure that it's
+always being considered in in terms of
+cycles
+uh then we have another one which we
+call the triangle multiplication
+which basically averages embeddings
+for a given edge over all of the length
+three cycles which is a part of
+uh and yeah i think the intuition for
+this can be kind of tricky so um
+i would if you're interested i'd highly
+recommend looking at the um the
+supplementary information in in the
+alpha fold paper because um yeah i think
+there's some quite nice explanations of
+what's going on here and yeah
+uh yeah thinking about how how this
+enforces some spatial consistency
+uh
+yeah so so the next thing i wanted to
+talk about is um
+what we call the structure module so
+this is the part of the network which
+it takes the abstract feature vectors
+that we talked about
+and transforms them actually into
+physical 3d
+uh coordinates
+so really a concrete realization of a
+protein
+now as we've said the the amino acids in
+the protein backbone are sort of
+contiguous and connected together to
+form a chain
+uh but we actually don't ever tell the
+network about that we basically just say
+okay here's a set of amino acids and you
+can sort of uh orient them as a as a
+translation and a rotation to sort of
+form like a reference frame
+uh in space
+uh and then basically give the network
+the free
+the ability to sort of freely move all
+these things around in space
+uh and sort of place them
+to form the protein and this is how we
+sort of create this 3d structure by uh
+taking this sort of gas of of residues
+and allowing the network to assemble
+them and iteratively update them that's
+what you can kind of see in this
+animation is the
+is the network's attempt at making the
+structure sort of being iteratively
+improved
+uh in uh in terms of thinking about the
+sort of geometric side of things uh
+because each residue has not just a
+position but a whole reference frame
+uh we can do all operations of our
+spatial attention
+uh in in the sort of local reference
+frame of each residue
+and uh yeah this naturally gives us a
+sort of uh yeah sa3 equivalent um
+transformer without the sort of um yeah
+i know there's
+quite a few different other variants of
+uh these invariant transformers uh
+around now but so this is how we've done
+it by uh basically just doing everything
+in in the local reference frame for each
+residue uh which is a nice property
+uh and yeah so this uh this is the stage
+of the network that kind of iteratively
+updates and refines the the protein
+structure into something that we
+recognize as a protein
+uh
+yeah and yeah i won't dwell on this too
+much just because in the interest of
+time
+but uh another thing that we did is try
+to make use of lots of the um
+the the unlabeled data we have so as
+as well as having 200 000
+uh solved protein structures we also
+have uh
+millions and millions even billions of
+uh protein sequences for which we don't
+know the structure
+and we want to know if we could actually
+make use of that for training so we used
+what's called a noisy student
+self-distillation
+and what that means is we train an
+initial model based on just all of the
+labeled data
+so the 200 000 protein structures
+then what we can do is we can take that
+trained model
+and make predictions on all of the
+unlabeled data so basically try and
+predict labels for all of the unlabeled
+data
+and because we have our
+confidence estimates for the network we
+can say we can take just the really
+confident predictions from
+all the unlabeled data and then retrain
+a model using
+using this much bigger training set
+uh and obviously the data isn't as high
+quality because it's predicted uh but we
+actually found this uh helped us in uh
+yeah in training a much better much
+better model
+and yeah uh yeah you can find uh these
+these figures in in the paper but
+actually uh
+rather than there being a sort of single
+idea that really helps the performance
+of alphavolt it's really uh the sort of
+sum total of lots of different ideas i
+think that's a useful learning for lots
+of different sort of machine learning
+systems that lots of different ideas can
+uh can compose
+cool and so we've talked about it a bit
+in a sort of theoretical sense sort of
+how does our fold work but it can be
+quite interesting to take a look at what
+the network's actually doing throughout
+all of the different layers
+so in order to do that we we looked at
+you know this big stack of 48
+transformer layers and thought
+what's the network's best guess at the
+protein structure at each each
+individual layer and sort of ask it to
+predict a structure after each layer in
+the network and you can see some really
+interesting things this is like as you
+go through the depth of the network
+what's the best guess of the this this
+protein structure and you see it's
+really trying lots of different things
+until it converges on on
+on on the correct answer actually after
+after hundreds of layers
+and even for some really big proteins
+you can see there's a there's quite a
+lot of variability happening
+quite deep into the network and
+obviously right at the start you start
+with something that doesn't look like a
+protein at all
+uh but
+yeah you see lots of sort of coordinated
+movement uh and always it sort of looks
+like a real protein more or less which i
+think is quite interesting
+um yeah and yeah another thing we
+observe is that as you go through the
+network
+the accuracy pretty much always gets
+better which is what you'd expect
+but you notice you you often make as you
+see with the green line here
+uh the network often makes some uh some
+you know some some discoveries more or
+less some big hops up in accuracy where
+it sort of figured out something better
+and pretty much never pretty much never
+sort of gives those accuracy gains up
+which i think is quite quite interesting
+cool um so
+now i'd like to talk quickly about um
+some of the some of the results we had
+and how we knew we'd sort of built uh
+quite a good system
+uh and yeah how we sort of evaluated
+this after after all the training
+so the main way in which we evaluated
+the model when we thought we had
+something that was good was we entered
+what's called casp the critical
+assessment of protein structure
+prediction and this is a blind
+assessment that happens every two years
+for the protein structure prediction
+community
+and it's pretty much impossible to cheat
+on which is great
+because you submit your predictions for
+a protein structure and then they
+actually go away and solve the protein
+after you've submitted your prediction
+so there's
+there's kind of no way you can cheat
+which is really great
+um
+and uh yeah we so we came away from this
+with a really great set of results which
+we uh
+yeah which we believed were actually
+competitive with experiment
+according to the the casper organizers
+which is really amazing and so we
+uh we're pretty sure that we had
+something that would be very useful for
+the community
+so so went ahead with trying to yeah
+open source the model so that this model
+is fully out there open source anyone
+can pick it up and use it for free even
+for commercial applications
+uh and published a paper on it
+but we also uh
+know that not everyone has the sort of
+the resources or the time or the ability
+to
+uh to run all of these predictions
+themselves
+so we've released a giant database of
+predicted structures
+uh and yeah this is what we call the the
+alpha fold database and it's currently
+online you can look up all sorts of
+proteins
+and find our predictions for them
+at the moment we have the full set of
+proteins for
+21 organisms so i think there's maybe
+about a million proteins there currently
+but very shortly we'll be updating it to
+approximately 100 million new proteins
+so that's going to be very exciting and
+yeah anyone can
+anyone can visit that right now and
+explore all of our
+predictions um
+yeah i think i'll just skip this just
+for time
+uh but yeah so we also uh
+noticed that others in the community had
+started picking up alpha fold
+for to help them with their experiments
+which is a very cool sort of closing of
+the loop so we found that people who've
+run experiments often their data can be
+noisy or quite inconclusive
+and uh by looking at our predicted
+outcomes for the structure it can sort
+of help them
+help them resolve their actual
+experimental results which is a really
+nice thing to see
+and yeah hopefully so we can we can help
+experimentalists do better experiments
+which is definitely definitely the aim
+uh another great thing we observed which
+is something that we've not uh aimed for
+at all was actually
+whenever we've been presenting these
+protein structures in this presentation
+um we've essentially assumed that they
+it has some fixed 3d structure
+um
+you know some some nice uh some nice
+solid
+conformation
+but actually in nature proteins are
+often quite disordered and just sort of
+floppy and waving around in space and
+that's actually really hard to measure
+with experiments because you kind of
+require it to be fixed in place
+uh but what we started observing is that
+um sometimes alpha fold is very
+unconfident in its predictions and will
+just create these big sort of uh
+oops
+yeah create these big sort of chains of
+spaghetti almost
+uh and
+you know originally people were thinking
+that that was maybe the algorithm just
+being bad here but it turns out that
+often when applefold is very unconfident
+it's actually because the protein in
+nature is unstructured
+and yeah it's actually a disordered
+protein intrinsically and so after turns
+out affords confidence
+is a very good predictor of whether or
+not the protein is actually naturally
+disordered
+uh which was a really cool discovery for
+us
+and yeah hopefully useful for the for
+the community
+uh
+cool yeah i think i've just got one last
+small section
+um
+so
+yeah everything we've talked about so
+far has basically more or less been
+proteins as these sort of uh single
+single entities that kind of float
+around in space as a blob but in the
+real world pretty much every protein
+like in order to do something or to
+affect some change has to interact with
+some other molecule maybe another
+protein or maybe
+a small drug or maybe a dna or something
+like that so pretty much the world of
+proteins is all about interactions
+and we found that once we open sourced
+the model the community found all kinds
+of ways to take our sort of single chain
+model and sort of hack it so it could uh
+make predictions about multiple chains
+together and think about protein-protein
+interactions which is very cool they
+mainly did it by adding sort of big
+linker regions between two proteins to
+sort of pretend that they're a single
+protein
+but that was a very cool thing to see
+um
+yeah and then uh yeah we said we
+followed up with that because we know
+that it's a
+it's a um
+a super useful thing for the community
+we followed up with that by training our
+own version which can deal with multiple
+protein complexes so now we can say
+things about sort of big assemblies of
+of proteins
+which is super important for
+yeah learning about how proteins work
+actually in in in nature and in the real
+world
+uh so hopefully that's something we can
+do much much more of
+uh proteins
+actually
+all across nature make some absolutely
+giant assemblies and that's the things
+that we we can't really say much about
+yet but that's largely just due to uh
+engineering constraints so definitely
+something that we can sort of be
+thinking about more in in the future
+and yeah something that came out very
+recently was a a huge collection of
+teams there's a special issue in in
+science
+where uh various uh structural biology
+groups have solved the structure of the
+the nuclear pore complex which is a very
+important large protein complex within
+uh within your cells and they actually
+without us being aware had made quite a
+lot of use of alpha fold in uh in
+solving this this doing this amazing
+work uh so yeah if we if we've had some
+tiny contribution to that that would be
+uh absolutely incredible uh so yeah
+exciting times ahead for uh yeah protein
+structure prediction i would say
+cool uh yeah and i think that's
+everything i had to say hopefully we've
+still got a bit of time for uh questions
+if there are any but yeah i just wanted
+to add that um all of this work is a
+yeah a huge team effort and i think
+that's some of the best ways to do
+uh machine learning so yeah thanks to
+all of these great uh collaborators and
+yeah hopefully that was um
+yeah an interesting interesting talk for
+you all yeah thank you
+thank you very much
+for the interesting
+[Music]
+oh yeah sure yep
+cool um
+uh okay so the first question relates to
+slide 21 i think
+uh it says what is the information we
+get with the the residue pairs
+um
+so
+um
+what i assume you might mean is um
+[Music]
+uh what is this um
+yeah my guess as to what the question is
+is
+uh what is this what is the info input
+information about about the residue
+pairs
+uh and yeah i guess that's that's
+slightly confusing because we actually
+have no input information about the
+residue pairs uh this really you could
+think of as kind of like an
+initialization
+of we we want to know something about
+the residue pairs and we want the neural
+network to discover something about the
+residue pairs but at the initial point
+we know nothing so you can imagine this
+being initialized as an array of zeros
+or something and hopefully the neural
+network will paint in information there
+to maybe give some intuition about what
+the kind of information that might be is
+so firstly i'd say these are kind of
+feature vectors so it's very difficult
+to say anything with certainty about it
+but what you could imagine is rather
+than feature vectors if for example
+the network was able to
+give you a scalar value for each residue
+pair which might be
+say the distance between each two
+so say like oh this is 10 angstroms from
+there and this is 10 angstroms from
+there and this is 50 angstroms from
+there
+you in principle could then do some sort
+of constraint satisfaction some kind of
+optimization process to try and turn
+that into a 3d structure
+and that's basically what the original
+alpha fold did um
+in this one because we're kind of
+talking fully about sort of deep
+learning there's maybe not such a
+there's maybe not such a interpretable
+way of thinking about it but i think
+those are kind of good ways those are
+kind of good sort of approximations to
+think about it that
+it's possible from information about
+residue pairs to try and then
+find a structure that satisfies all that
+information
+and that's kind of what we're trying to
+go for there it's about kind of
+trying to
+sculpt the neural network in such a way
+that the correct answer is sort of
+deducible from it
+so hopefully that's
+helpful um
+the next question is how do we know that
+the output protein is the one we want
+uh is a good one and yeah that's a
+that's a very important question uh i
+guess so i guess the
+uh i guess we can't know that for sure
+uh how we know it in practice is two
+ways one of them we you know do a
+classic train test validation splits
+that are of our training process so we
+can say
+okay so we've trained the network now we
+can take a held out set of data predict
+the structure and then measure against
+the true one and see how well we've done
+and so obviously that's something we can
+do you know while we're training the
+model
+but obviously for any practical
+application of this
+uh we kind of can't know the answer
+right because if we the only way we can
+find that answer is by doing the
+experiment and the entire reason the
+entire point for doing this was to not
+have to do the experiment
+so actually this is where the uh the
+confidence prediction comes in
+so now we feel pretty good that
+if alpha fold has
+a very high confidence in its prediction
+it's extremely likely that the answer is
+correct and we can sort of cross
+validate that on held our data and then
+we can sort of
+hopefully trust that for predictions on
+new data
+so yeah hopefully that's good
+um
+next one uh by transforming the
+structure into triangles we admit some
+atoms and the link between them
+uh
+don't we lose sorry i'm just scrolling
+don't we lose
+i guess that says information oh yeah
+don't lose information uh
+yeah it's a very good observation so so
+actually
+the the backbone of each
+amino acids is made up of three atoms
+um
+and those three atoms are always
+arranged in the same way for each amino
+acid so actually with three atoms like
+this we can define we can
+uniquely define a reference frame aka a
+triangle
+um so so actually because we have
+because we have some assumptions
+basically about how long the bond
+lengths are here
+we can actually um
+have a one-to-one relationship between
+the backbone and the
+the triangles basically without losing
+any information but that's because we
+know something about protein structures
+aka how long the bond lengths are and
+that kind of thing for the backbone uh
+for the side chains i didn't really talk
+about that because of time but we
+we also represent those in the network
+as well um and yeah we also use things
+we know about how uh how proteins are
+structured through that so yeah it's
+possible to do this without losing
+information but if if certain things
+weren't true about proteins aka the bond
+lengths being constant etc then you
+would lose information you're right
+uh why do we use transformers instead of
+other architectures like cnn and gnn
+uh yeah so i'd say the original version
+of alpha fold
+so the one from 2018 basically you did
+use cnns uh the reasons why we wanted to
+switch to attention-based things are
+essentially because
+we want uh residues to be able to
+uh well we want at least the bias to be
+not just that we think locally and
+expand outwards we kind of want it to be
+super easy for this residue to talk with
+this one because maybe in the structure
+it's really close
+um
+the reason we can't do that with a gnn
+like you might do with sort of small
+molecules or something like that
+is because we don't actually know this
+graph
+up front
+uh
+with it with regular with sort of
+more general molecule stuff it's quite
+possible you already know the connected
+the connectivity graph of the molecule
+or you almost certainly do know it
+so you can kind of bake that into your
+graph net
+for us we use attention because we
+basically want to start with a fully
+connected graph sort of everything
+talking to everything and then learn
+which things actually should talk to
+each other so you can think of the
+transformer here as a sort of soft
+relaxation of a gnm
+[Music]
+which metrics do we use to evaluate the
+model uh so there's various sort of uh
+protein specific distance metrics
+basically uh some called gdt some called
+ldt
+uh which are basically sort of yeah
+protein-specific ways of comparing two
+structures and looking at the distance
+between them you could just look at
+something like an rmsd
+between all the coordinates but there's
+some there's and and we do also do that
+but there's some uh there's there can be
+some issues with that which make it less
+useful
+uh
+next question uh the predicted structure
+is a unique and new one uh
+yes and no
+um so
+yeah in principle you would expect
+in principle you would expect the
+structure from
+a new sequence
+to be not fully identical to um
+an existing protein but often structures
+are very similar to other existing ones
+so for example the example i gave of
+like a hemoglobin protein in a dog a cat
+a human or whatever all the sequences to
+these might be a little bit different
+but the structure
+might ultimately be extremely similar
+because it's still trying to do the same
+thing in nature
+and so evolution will basically have
+conserved say like okay this sequence
+can maybe change a bit but it shouldn't
+change the resulting structure because
+we want this molecule to do the same
+thing
+so um i'd say you know down to atomic
+levels of detail the structure is unique
+but quite often you see things that are
+um
+quite often you see the um
+uh
+similar things oh okay i see the
+question has changed um but yeah so in
+principle yeah there should be
+more or less there's some subtlety to it
+but a single sequence as far as alpha
+fold is concerned a sequence uniquely
+maps to a structure
+but in nature these things aren't just
+fixed blobs they might move around a bit
+and have some dynamics
+and so
+that's not something that offer fold
+captures
+uh another question
+uh
+i do not clearly understand how the
+amino acid sequence is passed onto the
+models
+uh is it
+as an image graph text um
+sorry i wouldn't say
+oh right uh so so yeah so the amino acid
+sequence you can think of it passed as
+uh yeah as text essentially so you can
+imagine it basically as a
+set of tokens like with text and we can
+pass as uh um
+as a like as a one hop basically on text
+uh if that makes sense so so a one-hot
+encoding of the amino acids is the input
+uh did you include african dna in your
+experiments uh yeah so the so pretty
+much all of the data set we use is the
+the sort of sum total of all sequenced
+dna
+uh across you know
+not just across humans but across all
+sort of species all of all of nature
+so
+as in general we've just tried to use as
+much of the the sequenced data that
+exists
+i'm sure that there exists biases within
+uh
+what kind of sequencing has been done
+historically but as far as we're
+concerned we just use all all available
+data
+next question
+why do we need the triangular inequality
+constraint uh so i'd say it's not so
+much that we need it
+but i would say it's uh it's something
+which seems to make sense in terms of
+trying to enforce
+trying to force the network to think in
+a certain way almost to think about the
+representations that it makes
+should be um yeah self-consistent and i
+mean i guess the true the true answer to
+this which is true of lots of deep
+learning stuff is um
+uh that it worked better we tried it and
+it increased the performance and i think
+that's true of uh
+i think that's true of uh yeah almost
+everything in deep learning
+uh why do the multiple sequence
+alignment matrix entries like columns
+and rows have different functions
+um
+[Music]
+so
+uh so in principle
+in principle uh the i'm not sure exactly
+what you mean by different functions
+but
+the idea is kind of that all of the rows
+should have the same function in that
+all of the rows should correspond to
+like the same protein in a different
+species or some like small mutation of
+the of the original thing so the idea is
+um
+the idea is that
+we align them as well so each column
+should represent
+like should be aligned to the
+the input sequence
+and so the rows the columns should
+basically like how does this residue
+vary
+in evolution
+uh yeah sorry maybe that's not too
+helpful but yeah i don't think i quite
+followed the question
+uh and yeah this next one
+uh yeah sorry i don't quite understand
+the question is is the way of encoding
+the sequences
+oh uh
+so yeah maybe you mean the same as this
+question above how do we encode the
+sequences
+um
+and yeah this is basically just done
+with a sort of one hot encoding similar
+to how you might do it in natural
+language except your your set of tokens
+is just your amino acids rather than
+yeah letters or bite-pairing codings or
+something
+um what is the difference between
+alcohol and alpha 2 in model structure
+um
+so
+with the original alpha fold
+the model was basically a big
+convolutional neural network
+and what it did was predict the pairwise
+distances between each residues and then
+there was an optimization phase which
+produced a 3d structure sort of separate
+from the neural network
+with alpha fault 2
+the model is sort of end to end a big
+sort of transformer style model so we've
+gone from convolutions to transformers
+and we've also gone from a sort of
+two-step approach to just a single model
+and yeah i think both of those two
+things were were very important for the
+big sort of change in performance
+uh yeah really great questions thank you
+everyone
+yeah um oh yeah new question
+is there a new model that performs more
+perfectly than uh perfectly more than
+our fault two uh
+as far as i'm aware no um i i think as
+it stands there's um you know i don't
+think anything
+has uh has done better than alpha fold
+two yet uh you know i'm sure in the
+future we'll see uh more improvements
+and um
+yeah it'll be great great to see that uh
+but as far as i'm aware nothing has um
+uh nothing has outperformed it so far
+um but i mean you know we've we've fully
+open sourced the code and the weights so
+it's there for anyone to try and build
+upon and try and improve on so we'd we'd
+love to see that
