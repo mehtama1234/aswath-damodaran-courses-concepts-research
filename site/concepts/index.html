@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Concept Atlas - Aswath Damodaran Courses Concepts Research</title>
+    <style>
+      :root {
+        --bg: #f4f1ea;
+        --panel: #fffdf8;
+        --panel-alt: #f8f4ed;
+        --ink: #1f1f1b;
+        --muted: #605b52;
+        --line: #d7d0c4;
+        --accent: #0b6b6f;
+        --accent-soft: #d8ecec;
+        --shadow: 0 16px 40px rgba(32, 26, 16, 0.08);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: var(--bg);
+        color: var(--ink);
+        line-height: 1.6;
+      }
+      .page {
+        width: min(1180px, calc(100% - 24px));
+        margin: 0 auto;
+        padding: 24px 0 56px;
+      }
+      .back {
+        display: inline-flex;
+        align-items: center;
+        min-height: 36px;
+        padding: 0 12px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel);
+        color: var(--muted);
+        text-decoration: none;
+        margin-bottom: 18px;
+      }
+      .hero, .card, .section, .takeaway {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        box-shadow: var(--shadow);
+      }
+      .hero, .section {
+        padding: 24px;
+      }
+      .eyebrow {
+        display: inline-block;
+        padding: 6px 10px;
+        border-radius: 999px;
+        background: var(--accent-soft);
+        color: var(--accent);
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+      h1, h2, h3 {
+        margin: 0;
+        font-weight: 700;
+      }
+      h1 {
+        margin-top: 12px;
+        font-size: clamp(2rem, 4vw, 3.2rem);
+        line-height: 1.02;
+      }
+      h2 {
+        font-size: 1.3rem;
+        margin-bottom: 10px;
+      }
+      h3 {
+        font-size: 1rem;
+        margin-bottom: 8px;
+      }
+      p {
+        margin: 0;
+        color: var(--muted);
+      }
+      .lead {
+        color: var(--ink);
+        font-size: 1.05rem;
+        max-width: 78ch;
+      }
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 14px;
+      }
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        min-height: 30px;
+        padding: 0 10px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel-alt);
+        color: var(--muted);
+        font-size: 0.84rem;
+      }
+      .stack {
+        display: grid;
+        gap: 18px;
+        margin-top: 22px;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 16px;
+      }
+      .compare {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 16px;
+        margin-top: 16px;
+      }
+      .card {
+        padding: 16px;
+        background: var(--panel-alt);
+      }
+      .card a, a.link {
+        color: var(--accent);
+        font-weight: 700;
+        text-decoration: none;
+      }
+      .takeaway {
+        margin-top: 16px;
+        padding: 16px;
+        background: #1f2625;
+      }
+      .takeaway p {
+        color: #e5ece7;
+      }
+      .takeaway strong {
+        color: #ffffff;
+      }
+      .section-head {
+        margin-bottom: 14px;
+      }
+      .list {
+        margin: 10px 0 0;
+        padding-left: 18px;
+        color: var(--muted);
+      }
+      .list li + li {
+        margin-top: 8px;
+      }
+      @media (max-width: 980px) {
+        .grid, .compare {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <a class="back" href="../index.html">Back to root index</a>
+      <section class="hero">
+        <span class="eyebrow">Concept Atlas</span>
+        <h1>Shared Damodaran Concepts</h1>
+        <p class="lead">
+          Root-level concept pages that compare how recurring Damodaran ideas are
+          treated across multiple courses. This concept-first layer is generated
+          from the normalized registry rather than hand-authored one page at a
+          time.
+        </p>
+        <div class="meta">
+          <span class="chip">Concept pages: 11</span>
+          <span class="chip">Courses connected: 5</span>
+        </div>
+      </section>
+      <section class="section stack">
+        <div class="section-head">
+          <h2>Concepts</h2>
+          <p>Each concept page compares course-specific variants and links back into the underlying course sites.</p>
+        </div>
+        <div class="grid">
+          <article class="card">
+            <h3><a href="risk.html">Risk</a></h3>
+            <p>Risk is one of the clearest recurring Damodaran concepts across courses. It appears as a first-principles condition for return, a lived investor tradeoff, a formal corporate finance input, and a valuation building block, with the undergraduate valuation course adding a more visibly scaffolded route into discount-rate logic.</p>
+          </article>
+          <article class="card">
+            <h3><a href="valuation.html">Valuation</a></h3>
+            <p>Valuation is the integrating language across the active course set. It is where earlier assumptions about business reality, claims, time, and risk must become internally consistent, and it now appears in both undergraduate and MBA valuation forms inside the workspace.</p>
+          </article>
+          <article class="card">
+            <h3><a href="discipline.html">Discipline</a></h3>
+            <p>A large share of Damodaran&#x27;s teaching style is about forcing disciplined thinking against seductive shortcuts, loose labels, and inconsistent assumptions, and the undergraduate valuation course adds a clearer execution-focused version of that discipline.</p>
+          </article>
+          <article class="card">
+            <h3><a href="control.html">Control</a></h3>
+            <p>Control appears across both courses as a problem of agency, intervention, and overconfidence.</p>
+          </article>
+          <article class="card">
+            <h3><a href="trust-and-institutions.html">Trust and Institutions</a></h3>
+            <p>Both courses repeatedly show that finance depends on trust, legitimacy, authority, and institutional design.</p>
+          </article>
+          <article class="card">
+            <h3><a href="fit-and-constraints.html">Fit and Constraints</a></h3>
+            <p>Damodaran repeatedly returns to the fact that frameworks must fit the real actor using them, the real asset being analyzed, and the real nominal environment in which the claim exists. The undergraduate valuation course adds a clearer audience-level version of this idea by showing students where the default public-company template stops fitting the problem.</p>
+          </article>
+          <article class="card">
+            <h3><a href="capital-allocation.html">Capital Allocation</a></h3>
+            <p>Both courses are deeply concerned with where scarce capital should go, what standards should govern that choice, and how bad allocation decisions compound over time.</p>
+          </article>
+          <article class="card">
+            <h3><a href="optionality.html">Optionality</a></h3>
+            <p>Damodaran repeatedly returns to the value of future flexibility, but he treats optionality differently depending on whether the decision maker is an investor looking at growth or a manager choosing projects.</p>
+          </article>
+          <article class="card">
+            <h3><a href="narrative-versus-numbers.html">Narrative Versus Numbers</a></h3>
+            <p>A recurring Damodaran tension is that stories matter, but they only become useful when disciplined by numbers, incentives, explicit assumptions, and the actual structure of the claim being discussed. The undergraduate valuation course adds a particularly visible teaching bridge between narrative and model inputs.</p>
+          </article>
+          <article class="card">
+            <h3><a href="pricing.html">Pricing</a></h3>
+            <p>Damodaran treats pricing as a distinct language from intrinsic valuation, and the workspace now has enough cross-course material to compare how that distinction behaves in investor, valuation, and introductory settings.</p>
+          </article>
+          <article class="card">
+            <h3><a href="growth-and-reinvestment.html">Growth and Reinvestment</a></h3>
+            <p>Across courses, growth matters only when it can be financed, sustained, and converted into value rather than narrative excitement.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

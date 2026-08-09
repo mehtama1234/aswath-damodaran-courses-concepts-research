@@ -1,0 +1,2011 @@
+[
+  {
+    "start": "00:00:01.439",
+    "end": "00:00:02.310",
+    "start_seconds": 1.439,
+    "end_seconds": 2.31,
+    "text": "hi"
+  },
+  {
+    "start": "00:00:02.310",
+    "end": "00:00:02.320",
+    "start_seconds": 2.31,
+    "end_seconds": 2.32,
+    "text": "hi"
+  },
+  {
+    "start": "00:00:02.320",
+    "end": "00:00:04.309",
+    "start_seconds": 2.32,
+    "end_seconds": 4.309,
+    "text": "hi welcome to valuation"
+  },
+  {
+    "start": "00:00:04.309",
+    "end": "00:00:04.319",
+    "start_seconds": 4.309,
+    "end_seconds": 4.319,
+    "text": "welcome to valuation"
+  },
+  {
+    "start": "00:00:04.319",
+    "end": "00:00:06.190",
+    "start_seconds": 4.319,
+    "end_seconds": 6.19,
+    "text": "welcome to valuation i know many of you come in with"
+  },
+  {
+    "start": "00:00:06.190",
+    "end": "00:00:06.200",
+    "start_seconds": 6.19,
+    "end_seconds": 6.2,
+    "text": "i know many of you come in with"
+  },
+  {
+    "start": "00:00:06.200",
+    "end": "00:00:08.629",
+    "start_seconds": 6.2,
+    "end_seconds": 8.629,
+    "text": "i know many of you come in with preconceptions about what this class is"
+  },
+  {
+    "start": "00:00:08.629",
+    "end": "00:00:08.639",
+    "start_seconds": 8.629,
+    "end_seconds": 8.639,
+    "text": "preconceptions about what this class is"
+  },
+  {
+    "start": "00:00:08.639",
+    "end": "00:00:09.669",
+    "start_seconds": 8.639,
+    "end_seconds": 9.669,
+    "text": "preconceptions about what this class is about"
+  },
+  {
+    "start": "00:00:09.669",
+    "end": "00:00:09.679",
+    "start_seconds": 9.669,
+    "end_seconds": 9.679,
+    "text": "about"
+  },
+  {
+    "start": "00:00:09.679",
+    "end": "00:00:11.350",
+    "start_seconds": 9.679,
+    "end_seconds": 11.35,
+    "text": "about and rather than feed into those"
+  },
+  {
+    "start": "00:00:11.350",
+    "end": "00:00:11.360",
+    "start_seconds": 11.35,
+    "end_seconds": 11.36,
+    "text": "and rather than feed into those"
+  },
+  {
+    "start": "00:00:11.360",
+    "end": "00:00:12.789",
+    "start_seconds": 11.36,
+    "end_seconds": 12.789,
+    "text": "and rather than feed into those preconceptions"
+  },
+  {
+    "start": "00:00:12.789",
+    "end": "00:00:12.799",
+    "start_seconds": 12.789,
+    "end_seconds": 12.799,
+    "text": "preconceptions"
+  },
+  {
+    "start": "00:00:12.799",
+    "end": "00:00:14.789",
+    "start_seconds": 12.799,
+    "end_seconds": 14.789,
+    "text": "preconceptions i'd like to talk about what this class"
+  },
+  {
+    "start": "00:00:14.789",
+    "end": "00:00:14.799",
+    "start_seconds": 14.789,
+    "end_seconds": 14.799,
+    "text": "i'd like to talk about what this class"
+  },
+  {
+    "start": "00:00:14.799",
+    "end": "00:00:17.269",
+    "start_seconds": 14.799,
+    "end_seconds": 17.269,
+    "text": "i'd like to talk about what this class is not about and in the process perhaps"
+  },
+  {
+    "start": "00:00:17.269",
+    "end": "00:00:17.279",
+    "start_seconds": 17.269,
+    "end_seconds": 17.279,
+    "text": "is not about and in the process perhaps"
+  },
+  {
+    "start": "00:00:17.279",
+    "end": "00:00:19.189",
+    "start_seconds": 17.279,
+    "end_seconds": 19.189,
+    "text": "is not about and in the process perhaps perhaps you will get a sense of what"
+  },
+  {
+    "start": "00:00:19.189",
+    "end": "00:00:19.199",
+    "start_seconds": 19.189,
+    "end_seconds": 19.199,
+    "text": "perhaps you will get a sense of what"
+  },
+  {
+    "start": "00:00:19.199",
+    "end": "00:00:20.870",
+    "start_seconds": 19.199,
+    "end_seconds": 20.87,
+    "text": "perhaps you will get a sense of what this class is about"
+  },
+  {
+    "start": "00:00:20.870",
+    "end": "00:00:20.880",
+    "start_seconds": 20.87,
+    "end_seconds": 20.88,
+    "text": "this class is about"
+  },
+  {
+    "start": "00:00:20.880",
+    "end": "00:00:22.950",
+    "start_seconds": 20.88,
+    "end_seconds": 22.95,
+    "text": "this class is about i know for many of you valuation is a"
+  },
+  {
+    "start": "00:00:22.950",
+    "end": "00:00:22.960",
+    "start_seconds": 22.95,
+    "end_seconds": 22.96,
+    "text": "i know for many of you valuation is a"
+  },
+  {
+    "start": "00:00:22.960",
+    "end": "00:00:25.429",
+    "start_seconds": 22.96,
+    "end_seconds": 25.429,
+    "text": "i know for many of you valuation is a set of equations and formula and models"
+  },
+  {
+    "start": "00:00:25.429",
+    "end": "00:00:25.439",
+    "start_seconds": 25.429,
+    "end_seconds": 25.439,
+    "text": "set of equations and formula and models"
+  },
+  {
+    "start": "00:00:25.439",
+    "end": "00:00:26.790",
+    "start_seconds": 25.439,
+    "end_seconds": 26.79,
+    "text": "set of equations and formula and models and perhaps that is what you're"
+  },
+  {
+    "start": "00:00:26.790",
+    "end": "00:00:26.800",
+    "start_seconds": 26.79,
+    "end_seconds": 26.8,
+    "text": "and perhaps that is what you're"
+  },
+  {
+    "start": "00:00:26.800",
+    "end": "00:00:29.509",
+    "start_seconds": 26.8,
+    "end_seconds": 29.509,
+    "text": "and perhaps that is what you're expecting to get as science"
+  },
+  {
+    "start": "00:00:29.509",
+    "end": "00:00:29.519",
+    "start_seconds": 29.509,
+    "end_seconds": 29.519,
+    "text": "expecting to get as science"
+  },
+  {
+    "start": "00:00:29.519",
+    "end": "00:00:31.429",
+    "start_seconds": 29.519,
+    "end_seconds": 31.429,
+    "text": "expecting to get as science i'm sorry to disappoint you but"
+  },
+  {
+    "start": "00:00:31.429",
+    "end": "00:00:31.439",
+    "start_seconds": 31.429,
+    "end_seconds": 31.439,
+    "text": "i'm sorry to disappoint you but"
+  },
+  {
+    "start": "00:00:31.439",
+    "end": "00:00:34.630",
+    "start_seconds": 31.439,
+    "end_seconds": 34.63,
+    "text": "i'm sorry to disappoint you but valuation is not a science it is a craft"
+  },
+  {
+    "start": "00:00:34.630",
+    "end": "00:00:34.640",
+    "start_seconds": 34.63,
+    "end_seconds": 34.64,
+    "text": "valuation is not a science it is a craft"
+  },
+  {
+    "start": "00:00:34.640",
+    "end": "00:00:37.110",
+    "start_seconds": 34.64,
+    "end_seconds": 37.11,
+    "text": "valuation is not a science it is a craft and the essence of a craft is you learn"
+  },
+  {
+    "start": "00:00:37.110",
+    "end": "00:00:37.120",
+    "start_seconds": 37.11,
+    "end_seconds": 37.12,
+    "text": "and the essence of a craft is you learn"
+  },
+  {
+    "start": "00:00:37.120",
+    "end": "00:00:39.430",
+    "start_seconds": 37.12,
+    "end_seconds": 39.43,
+    "text": "and the essence of a craft is you learn through trial and error there is no"
+  },
+  {
+    "start": "00:00:39.430",
+    "end": "00:00:39.440",
+    "start_seconds": 39.43,
+    "end_seconds": 39.44,
+    "text": "through trial and error there is no"
+  },
+  {
+    "start": "00:00:39.440",
+    "end": "00:00:41.350",
+    "start_seconds": 39.44,
+    "end_seconds": 41.35,
+    "text": "through trial and error there is no perfect way of doing things there's a"
+  },
+  {
+    "start": "00:00:41.350",
+    "end": "00:00:41.360",
+    "start_seconds": 41.35,
+    "end_seconds": 41.36,
+    "text": "perfect way of doing things there's a"
+  },
+  {
+    "start": "00:00:41.360",
+    "end": "00:00:43.350",
+    "start_seconds": 41.36,
+    "end_seconds": 43.35,
+    "text": "perfect way of doing things there's a better way of doing things"
+  },
+  {
+    "start": "00:00:43.350",
+    "end": "00:00:43.360",
+    "start_seconds": 43.35,
+    "end_seconds": 43.36,
+    "text": "better way of doing things"
+  },
+  {
+    "start": "00:00:43.360",
+    "end": "00:00:45.750",
+    "start_seconds": 43.36,
+    "end_seconds": 45.75,
+    "text": "better way of doing things put simply you don't learn valuation by"
+  },
+  {
+    "start": "00:00:45.750",
+    "end": "00:00:45.760",
+    "start_seconds": 45.75,
+    "end_seconds": 45.76,
+    "text": "put simply you don't learn valuation by"
+  },
+  {
+    "start": "00:00:45.760",
+    "end": "00:00:47.590",
+    "start_seconds": 45.76,
+    "end_seconds": 47.59,
+    "text": "put simply you don't learn valuation by talking about it or watching other"
+  },
+  {
+    "start": "00:00:47.590",
+    "end": "00:00:47.600",
+    "start_seconds": 47.59,
+    "end_seconds": 47.6,
+    "text": "talking about it or watching other"
+  },
+  {
+    "start": "00:00:47.600",
+    "end": "00:00:49.590",
+    "start_seconds": 47.6,
+    "end_seconds": 49.59,
+    "text": "talking about it or watching other people talk about it"
+  },
+  {
+    "start": "00:00:49.590",
+    "end": "00:00:49.600",
+    "start_seconds": 49.59,
+    "end_seconds": 49.6,
+    "text": "people talk about it"
+  },
+  {
+    "start": "00:00:49.600",
+    "end": "00:00:52.630",
+    "start_seconds": 49.6,
+    "end_seconds": 52.63,
+    "text": "people talk about it so i hope that this class will help you"
+  },
+  {
+    "start": "00:00:52.630",
+    "end": "00:00:52.640",
+    "start_seconds": 52.63,
+    "end_seconds": 52.64,
+    "text": "so i hope that this class will help you"
+  },
+  {
+    "start": "00:00:52.640",
+    "end": "00:00:55.350",
+    "start_seconds": 52.64,
+    "end_seconds": 55.35,
+    "text": "so i hope that this class will help you learn valuation as a craft by doing it"
+  },
+  {
+    "start": "00:00:55.350",
+    "end": "00:00:55.360",
+    "start_seconds": 55.35,
+    "end_seconds": 55.36,
+    "text": "learn valuation as a craft by doing it"
+  },
+  {
+    "start": "00:00:55.360",
+    "end": "00:00:57.029",
+    "start_seconds": 55.36,
+    "end_seconds": 57.029,
+    "text": "learn valuation as a craft by doing it you will find that as you work through"
+  },
+  {
+    "start": "00:00:57.029",
+    "end": "00:00:57.039",
+    "start_seconds": 57.029,
+    "end_seconds": 57.039,
+    "text": "you will find that as you work through"
+  },
+  {
+    "start": "00:00:57.039",
+    "end": "00:00:59.189",
+    "start_seconds": 57.039,
+    "end_seconds": 59.189,
+    "text": "you will find that as you work through this class it will get easier when you"
+  },
+  {
+    "start": "00:00:59.189",
+    "end": "00:00:59.199",
+    "start_seconds": 59.189,
+    "end_seconds": 59.199,
+    "text": "this class it will get easier when you"
+  },
+  {
+    "start": "00:00:59.199",
+    "end": "00:01:00.630",
+    "start_seconds": 59.199,
+    "end_seconds": 60.63,
+    "text": "this class it will get easier when you start it's going to be difficult that's"
+  },
+  {
+    "start": "00:01:00.630",
+    "end": "00:01:00.640",
+    "start_seconds": 60.63,
+    "end_seconds": 60.64,
+    "text": "start it's going to be difficult that's"
+  },
+  {
+    "start": "00:01:00.640",
+    "end": "00:01:02.869",
+    "start_seconds": 60.64,
+    "end_seconds": 62.869,
+    "text": "start it's going to be difficult that's the nature of a craft and as you get"
+  },
+  {
+    "start": "00:01:02.869",
+    "end": "00:01:02.879",
+    "start_seconds": 62.869,
+    "end_seconds": 62.879,
+    "text": "the nature of a craft and as you get"
+  },
+  {
+    "start": "00:01:02.879",
+    "end": "00:01:05.030",
+    "start_seconds": 62.879,
+    "end_seconds": 65.03,
+    "text": "the nature of a craft and as you get more comfortable you'll start to get"
+  },
+  {
+    "start": "00:01:05.030",
+    "end": "00:01:05.040",
+    "start_seconds": 65.03,
+    "end_seconds": 65.04,
+    "text": "more comfortable you'll start to get"
+  },
+  {
+    "start": "00:01:05.040",
+    "end": "00:01:07.270",
+    "start_seconds": 65.04,
+    "end_seconds": 67.27,
+    "text": "more comfortable you'll start to get more comfortable also deviating from a"
+  },
+  {
+    "start": "00:01:07.270",
+    "end": "00:01:07.280",
+    "start_seconds": 67.27,
+    "end_seconds": 67.28,
+    "text": "more comfortable also deviating from a"
+  },
+  {
+    "start": "00:01:07.280",
+    "end": "00:01:08.230",
+    "start_seconds": 67.28,
+    "end_seconds": 68.23,
+    "text": "more comfortable also deviating from a script"
+  },
+  {
+    "start": "00:01:08.230",
+    "end": "00:01:08.240",
+    "start_seconds": 68.23,
+    "end_seconds": 68.24,
+    "text": "script"
+  },
+  {
+    "start": "00:01:08.240",
+    "end": "00:01:10.390",
+    "start_seconds": 68.24,
+    "end_seconds": 70.39,
+    "text": "script rather than cook from a recipe you'll be"
+  },
+  {
+    "start": "00:01:10.390",
+    "end": "00:01:10.400",
+    "start_seconds": 70.39,
+    "end_seconds": 70.4,
+    "text": "rather than cook from a recipe you'll be"
+  },
+  {
+    "start": "00:01:10.400",
+    "end": "00:01:12.710",
+    "start_seconds": 70.4,
+    "end_seconds": 72.71000000000001,
+    "text": "rather than cook from a recipe you'll be able to cook on your own"
+  },
+  {
+    "start": "00:01:12.710",
+    "end": "00:01:12.720",
+    "start_seconds": 72.71000000000001,
+    "end_seconds": 72.72,
+    "text": "able to cook on your own"
+  },
+  {
+    "start": "00:01:12.720",
+    "end": "00:01:13.990",
+    "start_seconds": 72.72,
+    "end_seconds": 73.99,
+    "text": "able to cook on your own second"
+  },
+  {
+    "start": "00:01:13.990",
+    "end": "00:01:14.000",
+    "start_seconds": 73.99,
+    "end_seconds": 74.0,
+    "text": "second"
+  },
+  {
+    "start": "00:01:14.000",
+    "end": "00:01:16.149",
+    "start_seconds": 74.0,
+    "end_seconds": 76.149,
+    "text": "second i know for many of you you're expecting"
+  },
+  {
+    "start": "00:01:16.149",
+    "end": "00:01:16.159",
+    "start_seconds": 76.149,
+    "end_seconds": 76.15899999999999,
+    "text": "i know for many of you you're expecting"
+  },
+  {
+    "start": "00:01:16.159",
+    "end": "00:01:18.550",
+    "start_seconds": 76.15899999999999,
+    "end_seconds": 78.55,
+    "text": "i know for many of you you're expecting a class built around valuing publicly"
+  },
+  {
+    "start": "00:01:18.550",
+    "end": "00:01:18.560",
+    "start_seconds": 78.55,
+    "end_seconds": 78.56,
+    "text": "a class built around valuing publicly"
+  },
+  {
+    "start": "00:01:18.560",
+    "end": "00:01:20.230",
+    "start_seconds": 78.56,
+    "end_seconds": 80.23,
+    "text": "a class built around valuing publicly traded companies"
+  },
+  {
+    "start": "00:01:20.230",
+    "end": "00:01:20.240",
+    "start_seconds": 80.23,
+    "end_seconds": 80.24,
+    "text": "traded companies"
+  },
+  {
+    "start": "00:01:20.240",
+    "end": "00:01:22.469",
+    "start_seconds": 80.24,
+    "end_seconds": 82.469,
+    "text": "traded companies you want to value the coca-colas the"
+  },
+  {
+    "start": "00:01:22.469",
+    "end": "00:01:22.479",
+    "start_seconds": 82.469,
+    "end_seconds": 82.479,
+    "text": "you want to value the coca-colas the"
+  },
+  {
+    "start": "00:01:22.479",
+    "end": "00:01:25.270",
+    "start_seconds": 82.479,
+    "end_seconds": 85.27,
+    "text": "you want to value the coca-colas the airbnbs the ubers the facebooks of the"
+  },
+  {
+    "start": "00:01:25.270",
+    "end": "00:01:25.280",
+    "start_seconds": 85.27,
+    "end_seconds": 85.28,
+    "text": "airbnbs the ubers the facebooks of the"
+  },
+  {
+    "start": "00:01:25.280",
+    "end": "00:01:27.670",
+    "start_seconds": 85.28,
+    "end_seconds": 87.67,
+    "text": "airbnbs the ubers the facebooks of the world and that's okay that's pretty much"
+  },
+  {
+    "start": "00:01:27.670",
+    "end": "00:01:27.680",
+    "start_seconds": 87.67,
+    "end_seconds": 87.68,
+    "text": "world and that's okay that's pretty much"
+  },
+  {
+    "start": "00:01:27.680",
+    "end": "00:01:30.149",
+    "start_seconds": 87.68,
+    "end_seconds": 90.149,
+    "text": "world and that's okay that's pretty much what many people think about valuation"
+  },
+  {
+    "start": "00:01:30.149",
+    "end": "00:01:30.159",
+    "start_seconds": 90.149,
+    "end_seconds": 90.15899999999999,
+    "text": "what many people think about valuation"
+  },
+  {
+    "start": "00:01:30.159",
+    "end": "00:01:32.230",
+    "start_seconds": 90.15899999999999,
+    "end_seconds": 92.22999999999999,
+    "text": "what many people think about valuation but i hope to make this class much more"
+  },
+  {
+    "start": "00:01:32.230",
+    "end": "00:01:32.240",
+    "start_seconds": 92.22999999999999,
+    "end_seconds": 92.24000000000001,
+    "text": "but i hope to make this class much more"
+  },
+  {
+    "start": "00:01:32.240",
+    "end": "00:01:34.710",
+    "start_seconds": 92.24000000000001,
+    "end_seconds": 94.71000000000001,
+    "text": "but i hope to make this class much more than valuing just public companies i"
+  },
+  {
+    "start": "00:01:34.710",
+    "end": "00:01:34.720",
+    "start_seconds": 94.71000000000001,
+    "end_seconds": 94.72,
+    "text": "than valuing just public companies i"
+  },
+  {
+    "start": "00:01:34.720",
+    "end": "00:01:36.310",
+    "start_seconds": 94.72,
+    "end_seconds": 96.31,
+    "text": "than valuing just public companies i want to talk about valuing private"
+  },
+  {
+    "start": "00:01:36.310",
+    "end": "00:01:36.320",
+    "start_seconds": 96.31,
+    "end_seconds": 96.32,
+    "text": "want to talk about valuing private"
+  },
+  {
+    "start": "00:01:36.320",
+    "end": "00:01:37.910",
+    "start_seconds": 96.32,
+    "end_seconds": 97.91,
+    "text": "want to talk about valuing private companies i want to talk about buying"
+  },
+  {
+    "start": "00:01:37.910",
+    "end": "00:01:37.920",
+    "start_seconds": 97.91,
+    "end_seconds": 97.92,
+    "text": "companies i want to talk about buying"
+  },
+  {
+    "start": "00:01:37.920",
+    "end": "00:01:40.069",
+    "start_seconds": 97.92,
+    "end_seconds": 100.069,
+    "text": "companies i want to talk about buying small companies and large companies"
+  },
+  {
+    "start": "00:01:40.069",
+    "end": "00:01:40.079",
+    "start_seconds": 100.069,
+    "end_seconds": 100.07900000000001,
+    "text": "small companies and large companies"
+  },
+  {
+    "start": "00:01:40.079",
+    "end": "00:01:41.830",
+    "start_seconds": 100.07900000000001,
+    "end_seconds": 101.83,
+    "text": "small companies and large companies develop market companies in emerging"
+  },
+  {
+    "start": "00:01:41.830",
+    "end": "00:01:41.840",
+    "start_seconds": 101.83,
+    "end_seconds": 101.84,
+    "text": "develop market companies in emerging"
+  },
+  {
+    "start": "00:01:41.840",
+    "end": "00:01:44.230",
+    "start_seconds": 101.84,
+    "end_seconds": 104.22999999999999,
+    "text": "develop market companies in emerging market companies and along the way what"
+  },
+  {
+    "start": "00:01:44.230",
+    "end": "00:01:44.240",
+    "start_seconds": 104.22999999999999,
+    "end_seconds": 104.24000000000001,
+    "text": "market companies and along the way what"
+  },
+  {
+    "start": "00:01:44.240",
+    "end": "00:01:46.230",
+    "start_seconds": 104.24000000000001,
+    "end_seconds": 106.22999999999999,
+    "text": "market companies and along the way what i hope you will see in this class is the"
+  },
+  {
+    "start": "00:01:46.230",
+    "end": "00:01:46.240",
+    "start_seconds": 106.22999999999999,
+    "end_seconds": 106.24000000000001,
+    "text": "i hope you will see in this class is the"
+  },
+  {
+    "start": "00:01:46.240",
+    "end": "00:01:49.030",
+    "start_seconds": 106.24000000000001,
+    "end_seconds": 109.03,
+    "text": "i hope you will see in this class is the principles of valuation are universal"
+  },
+  {
+    "start": "00:01:49.030",
+    "end": "00:01:49.040",
+    "start_seconds": 109.03,
+    "end_seconds": 109.03999999999999,
+    "text": "principles of valuation are universal"
+  },
+  {
+    "start": "00:01:49.040",
+    "end": "00:01:50.870",
+    "start_seconds": 109.03999999999999,
+    "end_seconds": 110.87,
+    "text": "principles of valuation are universal you don't really need to relearn"
+  },
+  {
+    "start": "00:01:50.870",
+    "end": "00:01:50.880",
+    "start_seconds": 110.87,
+    "end_seconds": 110.88,
+    "text": "you don't really need to relearn"
+  },
+  {
+    "start": "00:01:50.880",
+    "end": "00:01:53.270",
+    "start_seconds": 110.88,
+    "end_seconds": 113.27000000000001,
+    "text": "you don't really need to relearn valuation to value a specific group of"
+  },
+  {
+    "start": "00:01:53.270",
+    "end": "00:01:53.280",
+    "start_seconds": 113.27000000000001,
+    "end_seconds": 113.28,
+    "text": "valuation to value a specific group of"
+  },
+  {
+    "start": "00:01:53.280",
+    "end": "00:01:55.190",
+    "start_seconds": 113.28,
+    "end_seconds": 115.19,
+    "text": "valuation to value a specific group of companies you just need to take the"
+  },
+  {
+    "start": "00:01:55.190",
+    "end": "00:01:55.200",
+    "start_seconds": 115.19,
+    "end_seconds": 115.2,
+    "text": "companies you just need to take the"
+  },
+  {
+    "start": "00:01:55.200",
+    "end": "00:01:57.910",
+    "start_seconds": 115.2,
+    "end_seconds": 117.91,
+    "text": "companies you just need to take the existing principles evaluation and apply"
+  },
+  {
+    "start": "00:01:57.910",
+    "end": "00:01:57.920",
+    "start_seconds": 117.91,
+    "end_seconds": 117.92,
+    "text": "existing principles evaluation and apply"
+  },
+  {
+    "start": "00:01:57.920",
+    "end": "00:01:59.670",
+    "start_seconds": 117.92,
+    "end_seconds": 119.67,
+    "text": "existing principles evaluation and apply them differently"
+  },
+  {
+    "start": "00:01:59.670",
+    "end": "00:01:59.680",
+    "start_seconds": 119.67,
+    "end_seconds": 119.68,
+    "text": "them differently"
+  },
+  {
+    "start": "00:01:59.680",
+    "end": "00:02:01.510",
+    "start_seconds": 119.68,
+    "end_seconds": 121.51,
+    "text": "them differently along the way we'll talk about how value"
+  },
+  {
+    "start": "00:02:01.510",
+    "end": "00:02:01.520",
+    "start_seconds": 121.51,
+    "end_seconds": 121.52,
+    "text": "along the way we'll talk about how value"
+  },
+  {
+    "start": "00:02:01.520",
+    "end": "00:02:03.350",
+    "start_seconds": 121.52,
+    "end_seconds": 123.35,
+    "text": "along the way we'll talk about how value can be different from the inside when"
+  },
+  {
+    "start": "00:02:03.350",
+    "end": "00:02:03.360",
+    "start_seconds": 123.35,
+    "end_seconds": 123.36,
+    "text": "can be different from the inside when"
+  },
+  {
+    "start": "00:02:03.360",
+    "end": "00:02:05.510",
+    "start_seconds": 123.36,
+    "end_seconds": 125.51,
+    "text": "can be different from the inside when managers look at a company i suppose"
+  },
+  {
+    "start": "00:02:05.510",
+    "end": "00:02:05.520",
+    "start_seconds": 125.51,
+    "end_seconds": 125.52,
+    "text": "managers look at a company i suppose"
+  },
+  {
+    "start": "00:02:05.520",
+    "end": "00:02:07.270",
+    "start_seconds": 125.52,
+    "end_seconds": 127.27,
+    "text": "managers look at a company i suppose from the outside as investors looking at"
+  },
+  {
+    "start": "00:02:07.270",
+    "end": "00:02:07.280",
+    "start_seconds": 127.27,
+    "end_seconds": 127.28,
+    "text": "from the outside as investors looking at"
+  },
+  {
+    "start": "00:02:07.280",
+    "end": "00:02:09.510",
+    "start_seconds": 127.28,
+    "end_seconds": 129.51,
+    "text": "from the outside as investors looking at a company not because the principles"
+  },
+  {
+    "start": "00:02:09.510",
+    "end": "00:02:09.520",
+    "start_seconds": 129.51,
+    "end_seconds": 129.52,
+    "text": "a company not because the principles"
+  },
+  {
+    "start": "00:02:09.520",
+    "end": "00:02:11.750",
+    "start_seconds": 129.52,
+    "end_seconds": 131.75,
+    "text": "a company not because the principles change but because managers control more"
+  },
+  {
+    "start": "00:02:11.750",
+    "end": "00:02:11.760",
+    "start_seconds": 131.75,
+    "end_seconds": 131.76,
+    "text": "change but because managers control more"
+  },
+  {
+    "start": "00:02:11.760",
+    "end": "00:02:13.510",
+    "start_seconds": 131.76,
+    "end_seconds": 133.51,
+    "text": "change but because managers control more of the levers they can change the way a"
+  },
+  {
+    "start": "00:02:13.510",
+    "end": "00:02:13.520",
+    "start_seconds": 133.51,
+    "end_seconds": 133.52,
+    "text": "of the levers they can change the way a"
+  },
+  {
+    "start": "00:02:13.520",
+    "end": "00:02:14.949",
+    "start_seconds": 133.52,
+    "end_seconds": 134.949,
+    "text": "of the levers they can change the way a companies run"
+  },
+  {
+    "start": "00:02:14.949",
+    "end": "00:02:14.959",
+    "start_seconds": 134.949,
+    "end_seconds": 134.959,
+    "text": "companies run"
+  },
+  {
+    "start": "00:02:14.959",
+    "end": "00:02:17.190",
+    "start_seconds": 134.959,
+    "end_seconds": 137.19,
+    "text": "companies run by the end of this class i hope you can"
+  },
+  {
+    "start": "00:02:17.190",
+    "end": "00:02:17.200",
+    "start_seconds": 137.19,
+    "end_seconds": 137.2,
+    "text": "by the end of this class i hope you can"
+  },
+  {
+    "start": "00:02:17.200",
+    "end": "00:02:19.990",
+    "start_seconds": 137.2,
+    "end_seconds": 139.99,
+    "text": "by the end of this class i hope you can value just about any kind of business"
+  },
+  {
+    "start": "00:02:19.990",
+    "end": "00:02:20.000",
+    "start_seconds": 139.99,
+    "end_seconds": 140.0,
+    "text": "value just about any kind of business"
+  },
+  {
+    "start": "00:02:20.000",
+    "end": "00:02:22.710",
+    "start_seconds": 140.0,
+    "end_seconds": 142.71,
+    "text": "value just about any kind of business small or large in whatever sector in"
+  },
+  {
+    "start": "00:02:22.710",
+    "end": "00:02:22.720",
+    "start_seconds": 142.71,
+    "end_seconds": 142.72,
+    "text": "small or large in whatever sector in"
+  },
+  {
+    "start": "00:02:22.720",
+    "end": "00:02:24.710",
+    "start_seconds": 142.72,
+    "end_seconds": 144.71,
+    "text": "small or large in whatever sector in whatever market"
+  },
+  {
+    "start": "00:02:24.710",
+    "end": "00:02:24.720",
+    "start_seconds": 144.71,
+    "end_seconds": 144.72,
+    "text": "whatever market"
+  },
+  {
+    "start": "00:02:24.720",
+    "end": "00:02:26.790",
+    "start_seconds": 144.72,
+    "end_seconds": 146.79,
+    "text": "whatever market third i want to draw a contrast between"
+  },
+  {
+    "start": "00:02:26.790",
+    "end": "00:02:26.800",
+    "start_seconds": 146.79,
+    "end_seconds": 146.8,
+    "text": "third i want to draw a contrast between"
+  },
+  {
+    "start": "00:02:26.800",
+    "end": "00:02:29.110",
+    "start_seconds": 146.8,
+    "end_seconds": 149.11,
+    "text": "third i want to draw a contrast between two words we use interchangeably in"
+  },
+  {
+    "start": "00:02:29.110",
+    "end": "00:02:29.120",
+    "start_seconds": 149.11,
+    "end_seconds": 149.12,
+    "text": "two words we use interchangeably in"
+  },
+  {
+    "start": "00:02:29.120",
+    "end": "00:02:31.350",
+    "start_seconds": 149.12,
+    "end_seconds": 151.35,
+    "text": "two words we use interchangeably in investing value and price"
+  },
+  {
+    "start": "00:02:31.350",
+    "end": "00:02:31.360",
+    "start_seconds": 151.35,
+    "end_seconds": 151.36,
+    "text": "investing value and price"
+  },
+  {
+    "start": "00:02:31.360",
+    "end": "00:02:33.589",
+    "start_seconds": 151.36,
+    "end_seconds": 153.589,
+    "text": "investing value and price let me set this on the table if i"
+  },
+  {
+    "start": "00:02:33.589",
+    "end": "00:02:33.599",
+    "start_seconds": 153.589,
+    "end_seconds": 153.599,
+    "text": "let me set this on the table if i"
+  },
+  {
+    "start": "00:02:33.599",
+    "end": "00:02:35.589",
+    "start_seconds": 153.599,
+    "end_seconds": 155.589,
+    "text": "let me set this on the table if i believe that markets were efficient what"
+  },
+  {
+    "start": "00:02:35.589",
+    "end": "00:02:35.599",
+    "start_seconds": 155.589,
+    "end_seconds": 155.599,
+    "text": "believe that markets were efficient what"
+  },
+  {
+    "start": "00:02:35.599",
+    "end": "00:02:37.350",
+    "start_seconds": 155.599,
+    "end_seconds": 157.35,
+    "text": "believe that markets were efficient what i'm effectively saying the value and the"
+  },
+  {
+    "start": "00:02:37.350",
+    "end": "00:02:37.360",
+    "start_seconds": 157.35,
+    "end_seconds": 157.36,
+    "text": "i'm effectively saying the value and the"
+  },
+  {
+    "start": "00:02:37.360",
+    "end": "00:02:39.430",
+    "start_seconds": 157.36,
+    "end_seconds": 159.43,
+    "text": "i'm effectively saying the value and the price are pretty much the same thing and"
+  },
+  {
+    "start": "00:02:39.430",
+    "end": "00:02:39.440",
+    "start_seconds": 159.43,
+    "end_seconds": 159.44,
+    "text": "price are pretty much the same thing and"
+  },
+  {
+    "start": "00:02:39.440",
+    "end": "00:02:40.869",
+    "start_seconds": 159.44,
+    "end_seconds": 160.869,
+    "text": "price are pretty much the same thing and if you believe that there's really no"
+  },
+  {
+    "start": "00:02:40.869",
+    "end": "00:02:40.879",
+    "start_seconds": 160.869,
+    "end_seconds": 160.879,
+    "text": "if you believe that there's really no"
+  },
+  {
+    "start": "00:02:40.879",
+    "end": "00:02:42.790",
+    "start_seconds": 160.879,
+    "end_seconds": 162.79,
+    "text": "if you believe that there's really no point taking this class"
+  },
+  {
+    "start": "00:02:42.790",
+    "end": "00:02:42.800",
+    "start_seconds": 162.79,
+    "end_seconds": 162.8,
+    "text": "point taking this class"
+  },
+  {
+    "start": "00:02:42.800",
+    "end": "00:02:45.430",
+    "start_seconds": 162.8,
+    "end_seconds": 165.43,
+    "text": "point taking this class i believe that the value of an asset is"
+  },
+  {
+    "start": "00:02:45.430",
+    "end": "00:02:45.440",
+    "start_seconds": 165.43,
+    "end_seconds": 165.44,
+    "text": "i believe that the value of an asset is"
+  },
+  {
+    "start": "00:02:45.440",
+    "end": "00:02:47.589",
+    "start_seconds": 165.44,
+    "end_seconds": 167.589,
+    "text": "i believe that the value of an asset is driven by cash flows growth and risk and"
+  },
+  {
+    "start": "00:02:47.589",
+    "end": "00:02:47.599",
+    "start_seconds": 167.589,
+    "end_seconds": 167.599,
+    "text": "driven by cash flows growth and risk and"
+  },
+  {
+    "start": "00:02:47.599",
+    "end": "00:02:49.430",
+    "start_seconds": 167.599,
+    "end_seconds": 169.43,
+    "text": "driven by cash flows growth and risk and we're going to talk a lot about how to"
+  },
+  {
+    "start": "00:02:49.430",
+    "end": "00:02:49.440",
+    "start_seconds": 169.43,
+    "end_seconds": 169.44,
+    "text": "we're going to talk a lot about how to"
+  },
+  {
+    "start": "00:02:49.440",
+    "end": "00:02:51.830",
+    "start_seconds": 169.44,
+    "end_seconds": 171.82999999999998,
+    "text": "we're going to talk a lot about how to value an asset in this class"
+  },
+  {
+    "start": "00:02:51.830",
+    "end": "00:02:51.840",
+    "start_seconds": 171.82999999999998,
+    "end_seconds": 171.84,
+    "text": "value an asset in this class"
+  },
+  {
+    "start": "00:02:51.840",
+    "end": "00:02:53.110",
+    "start_seconds": 171.84,
+    "end_seconds": 173.11,
+    "text": "value an asset in this class but we're also going to talk about how"
+  },
+  {
+    "start": "00:02:53.110",
+    "end": "00:02:53.120",
+    "start_seconds": 173.11,
+    "end_seconds": 173.12,
+    "text": "but we're also going to talk about how"
+  },
+  {
+    "start": "00:02:53.120",
+    "end": "00:02:55.430",
+    "start_seconds": 173.12,
+    "end_seconds": 175.43,
+    "text": "but we're also going to talk about how to price that same asset what does that"
+  },
+  {
+    "start": "00:02:55.430",
+    "end": "00:02:55.440",
+    "start_seconds": 175.43,
+    "end_seconds": 175.44,
+    "text": "to price that same asset what does that"
+  },
+  {
+    "start": "00:02:55.440",
+    "end": "00:02:57.670",
+    "start_seconds": 175.44,
+    "end_seconds": 177.67000000000002,
+    "text": "to price that same asset what does that mean to price an asset you look at what"
+  },
+  {
+    "start": "00:02:57.670",
+    "end": "00:02:57.680",
+    "start_seconds": 177.67000000000002,
+    "end_seconds": 177.68,
+    "text": "mean to price an asset you look at what"
+  },
+  {
+    "start": "00:02:57.680",
+    "end": "00:02:59.990",
+    "start_seconds": 177.68,
+    "end_seconds": 179.99,
+    "text": "mean to price an asset you look at what other assets just like it are being"
+  },
+  {
+    "start": "00:02:59.990",
+    "end": "00:03:00.000",
+    "start_seconds": 179.99,
+    "end_seconds": 180.0,
+    "text": "other assets just like it are being"
+  },
+  {
+    "start": "00:03:00.000",
+    "end": "00:03:02.070",
+    "start_seconds": 180.0,
+    "end_seconds": 182.07,
+    "text": "other assets just like it are being priced at in the market and i'm going to"
+  },
+  {
+    "start": "00:03:02.070",
+    "end": "00:03:02.080",
+    "start_seconds": 182.07,
+    "end_seconds": 182.08,
+    "text": "priced at in the market and i'm going to"
+  },
+  {
+    "start": "00:03:02.080",
+    "end": "00:03:04.070",
+    "start_seconds": 182.08,
+    "end_seconds": 184.07,
+    "text": "priced at in the market and i'm going to argue that the pricing process can give"
+  },
+  {
+    "start": "00:03:04.070",
+    "end": "00:03:04.080",
+    "start_seconds": 184.07,
+    "end_seconds": 184.08,
+    "text": "argue that the pricing process can give"
+  },
+  {
+    "start": "00:03:04.080",
+    "end": "00:03:06.070",
+    "start_seconds": 184.08,
+    "end_seconds": 186.07,
+    "text": "argue that the pricing process can give your number very different than the"
+  },
+  {
+    "start": "00:03:06.070",
+    "end": "00:03:06.080",
+    "start_seconds": 186.07,
+    "end_seconds": 186.08,
+    "text": "your number very different than the"
+  },
+  {
+    "start": "00:03:06.080",
+    "end": "00:03:07.750",
+    "start_seconds": 186.08,
+    "end_seconds": 187.75,
+    "text": "your number very different than the value process"
+  },
+  {
+    "start": "00:03:07.750",
+    "end": "00:03:07.760",
+    "start_seconds": 187.75,
+    "end_seconds": 187.76,
+    "text": "value process"
+  },
+  {
+    "start": "00:03:07.760",
+    "end": "00:03:09.430",
+    "start_seconds": 187.76,
+    "end_seconds": 189.43,
+    "text": "value process we're going to go through both valuing"
+  },
+  {
+    "start": "00:03:09.430",
+    "end": "00:03:09.440",
+    "start_seconds": 189.43,
+    "end_seconds": 189.44,
+    "text": "we're going to go through both valuing"
+  },
+  {
+    "start": "00:03:09.440",
+    "end": "00:03:11.190",
+    "start_seconds": 189.44,
+    "end_seconds": 191.19,
+    "text": "we're going to go through both valuing and pricing assets along the way and"
+  },
+  {
+    "start": "00:03:11.190",
+    "end": "00:03:11.200",
+    "start_seconds": 191.19,
+    "end_seconds": 191.2,
+    "text": "and pricing assets along the way and"
+  },
+  {
+    "start": "00:03:11.200",
+    "end": "00:03:12.790",
+    "start_seconds": 191.2,
+    "end_seconds": 192.79,
+    "text": "and pricing assets along the way and we're going to look at some investments"
+  },
+  {
+    "start": "00:03:12.790",
+    "end": "00:03:12.800",
+    "start_seconds": 192.79,
+    "end_seconds": 192.8,
+    "text": "we're going to look at some investments"
+  },
+  {
+    "start": "00:03:12.800",
+    "end": "00:03:15.430",
+    "start_seconds": 192.8,
+    "end_seconds": 195.43,
+    "text": "we're going to look at some investments that cannot be valued currencies for"
+  },
+  {
+    "start": "00:03:15.430",
+    "end": "00:03:15.440",
+    "start_seconds": 195.43,
+    "end_seconds": 195.44,
+    "text": "that cannot be valued currencies for"
+  },
+  {
+    "start": "00:03:15.440",
+    "end": "00:03:17.270",
+    "start_seconds": 195.44,
+    "end_seconds": 197.27,
+    "text": "that cannot be valued currencies for instance cannot be valued they can only"
+  },
+  {
+    "start": "00:03:17.270",
+    "end": "00:03:17.280",
+    "start_seconds": 197.27,
+    "end_seconds": 197.28,
+    "text": "instance cannot be valued they can only"
+  },
+  {
+    "start": "00:03:17.280",
+    "end": "00:03:20.070",
+    "start_seconds": 197.28,
+    "end_seconds": 200.07,
+    "text": "instance cannot be valued they can only be priced a collectible cannot be valid"
+  },
+  {
+    "start": "00:03:20.070",
+    "end": "00:03:20.080",
+    "start_seconds": 200.07,
+    "end_seconds": 200.07999999999998,
+    "text": "be priced a collectible cannot be valid"
+  },
+  {
+    "start": "00:03:20.080",
+    "end": "00:03:22.390",
+    "start_seconds": 200.07999999999998,
+    "end_seconds": 202.39,
+    "text": "be priced a collectible cannot be valid it can only be priced"
+  },
+  {
+    "start": "00:03:22.390",
+    "end": "00:03:22.400",
+    "start_seconds": 202.39,
+    "end_seconds": 202.4,
+    "text": "it can only be priced"
+  },
+  {
+    "start": "00:03:22.400",
+    "end": "00:03:24.309",
+    "start_seconds": 202.4,
+    "end_seconds": 204.309,
+    "text": "it can only be priced fourth i'm going to surprise you i know"
+  },
+  {
+    "start": "00:03:24.309",
+    "end": "00:03:24.319",
+    "start_seconds": 204.309,
+    "end_seconds": 204.319,
+    "text": "fourth i'm going to surprise you i know"
+  },
+  {
+    "start": "00:03:24.319",
+    "end": "00:03:26.070",
+    "start_seconds": 204.319,
+    "end_seconds": 206.07,
+    "text": "fourth i'm going to surprise you i know many of you are going to come into this"
+  },
+  {
+    "start": "00:03:26.070",
+    "end": "00:03:26.080",
+    "start_seconds": 206.07,
+    "end_seconds": 206.07999999999998,
+    "text": "many of you are going to come into this"
+  },
+  {
+    "start": "00:03:26.080",
+    "end": "00:03:27.670",
+    "start_seconds": 206.07999999999998,
+    "end_seconds": 207.67000000000002,
+    "text": "many of you are going to come into this class expecting to see excel"
+  },
+  {
+    "start": "00:03:27.670",
+    "end": "00:03:27.680",
+    "start_seconds": 207.67000000000002,
+    "end_seconds": 207.68,
+    "text": "class expecting to see excel"
+  },
+  {
+    "start": "00:03:27.680",
+    "end": "00:03:28.949",
+    "start_seconds": 207.68,
+    "end_seconds": 208.949,
+    "text": "class expecting to see excel spreadsheets"
+  },
+  {
+    "start": "00:03:28.949",
+    "end": "00:03:28.959",
+    "start_seconds": 208.949,
+    "end_seconds": 208.959,
+    "text": "spreadsheets"
+  },
+  {
+    "start": "00:03:28.959",
+    "end": "00:03:31.190",
+    "start_seconds": 208.959,
+    "end_seconds": 211.19,
+    "text": "spreadsheets and i'll make a confession i've never"
+  },
+  {
+    "start": "00:03:31.190",
+    "end": "00:03:31.200",
+    "start_seconds": 211.19,
+    "end_seconds": 211.2,
+    "text": "and i'll make a confession i've never"
+  },
+  {
+    "start": "00:03:31.200",
+    "end": "00:03:32.869",
+    "start_seconds": 211.2,
+    "end_seconds": 212.869,
+    "text": "and i'll make a confession i've never opened an excel spreadsheet in the"
+  },
+  {
+    "start": "00:03:32.869",
+    "end": "00:03:32.879",
+    "start_seconds": 212.869,
+    "end_seconds": 212.879,
+    "text": "opened an excel spreadsheet in the"
+  },
+  {
+    "start": "00:03:32.879",
+    "end": "00:03:34.789",
+    "start_seconds": 212.879,
+    "end_seconds": 214.789,
+    "text": "opened an excel spreadsheet in the context of a class"
+  },
+  {
+    "start": "00:03:34.789",
+    "end": "00:03:34.799",
+    "start_seconds": 214.789,
+    "end_seconds": 214.799,
+    "text": "context of a class"
+  },
+  {
+    "start": "00:03:34.799",
+    "end": "00:03:37.430",
+    "start_seconds": 214.799,
+    "end_seconds": 217.43,
+    "text": "context of a class to me the essence of evaluation is not"
+  },
+  {
+    "start": "00:03:37.430",
+    "end": "00:03:37.440",
+    "start_seconds": 217.43,
+    "end_seconds": 217.44,
+    "text": "to me the essence of evaluation is not"
+  },
+  {
+    "start": "00:03:37.440",
+    "end": "00:03:39.430",
+    "start_seconds": 217.44,
+    "end_seconds": 219.43,
+    "text": "to me the essence of evaluation is not the collection of numbers that make it"
+  },
+  {
+    "start": "00:03:39.430",
+    "end": "00:03:39.440",
+    "start_seconds": 219.43,
+    "end_seconds": 219.44,
+    "text": "the collection of numbers that make it"
+  },
+  {
+    "start": "00:03:39.440",
+    "end": "00:03:41.750",
+    "start_seconds": 219.44,
+    "end_seconds": 221.75,
+    "text": "the collection of numbers that make it but the story behind the numbers"
+  },
+  {
+    "start": "00:03:41.750",
+    "end": "00:03:41.760",
+    "start_seconds": 221.75,
+    "end_seconds": 221.76,
+    "text": "but the story behind the numbers"
+  },
+  {
+    "start": "00:03:41.760",
+    "end": "00:03:43.509",
+    "start_seconds": 221.76,
+    "end_seconds": 223.50900000000001,
+    "text": "but the story behind the numbers you can hear a lot of storytelling in"
+  },
+  {
+    "start": "00:03:43.509",
+    "end": "00:03:43.519",
+    "start_seconds": 223.50900000000001,
+    "end_seconds": 223.519,
+    "text": "you can hear a lot of storytelling in"
+  },
+  {
+    "start": "00:03:43.519",
+    "end": "00:03:45.509",
+    "start_seconds": 223.519,
+    "end_seconds": 225.50900000000001,
+    "text": "you can hear a lot of storytelling in this class but storytelling with a"
+  },
+  {
+    "start": "00:03:45.509",
+    "end": "00:03:45.519",
+    "start_seconds": 225.50900000000001,
+    "end_seconds": 225.519,
+    "text": "this class but storytelling with a"
+  },
+  {
+    "start": "00:03:45.519",
+    "end": "00:03:46.470",
+    "start_seconds": 225.519,
+    "end_seconds": 226.47,
+    "text": "this class but storytelling with a purpose"
+  },
+  {
+    "start": "00:03:46.470",
+    "end": "00:03:46.480",
+    "start_seconds": 226.47,
+    "end_seconds": 226.48,
+    "text": "purpose"
+  },
+  {
+    "start": "00:03:46.480",
+    "end": "00:03:48.789",
+    "start_seconds": 226.48,
+    "end_seconds": 228.789,
+    "text": "purpose where every number in my evaluation is"
+  },
+  {
+    "start": "00:03:48.789",
+    "end": "00:03:48.799",
+    "start_seconds": 228.789,
+    "end_seconds": 228.799,
+    "text": "where every number in my evaluation is"
+  },
+  {
+    "start": "00:03:48.799",
+    "end": "00:03:51.110",
+    "start_seconds": 228.799,
+    "end_seconds": 231.11,
+    "text": "where every number in my evaluation is connected to a story and every story i"
+  },
+  {
+    "start": "00:03:51.110",
+    "end": "00:03:51.120",
+    "start_seconds": 231.11,
+    "end_seconds": 231.12,
+    "text": "connected to a story and every story i"
+  },
+  {
+    "start": "00:03:51.120",
+    "end": "00:03:53.190",
+    "start_seconds": 231.12,
+    "end_seconds": 233.19,
+    "text": "connected to a story and every story i tell you about a company is connected to"
+  },
+  {
+    "start": "00:03:53.190",
+    "end": "00:03:53.200",
+    "start_seconds": 233.19,
+    "end_seconds": 233.2,
+    "text": "tell you about a company is connected to"
+  },
+  {
+    "start": "00:03:53.200",
+    "end": "00:03:54.949",
+    "start_seconds": 233.2,
+    "end_seconds": 234.949,
+    "text": "tell you about a company is connected to numbers"
+  },
+  {
+    "start": "00:03:54.949",
+    "end": "00:03:54.959",
+    "start_seconds": 234.949,
+    "end_seconds": 234.959,
+    "text": "numbers"
+  },
+  {
+    "start": "00:03:54.959",
+    "end": "00:03:56.149",
+    "start_seconds": 234.959,
+    "end_seconds": 236.149,
+    "text": "numbers finally"
+  },
+  {
+    "start": "00:03:56.149",
+    "end": "00:03:56.159",
+    "start_seconds": 236.149,
+    "end_seconds": 236.159,
+    "text": "finally"
+  },
+  {
+    "start": "00:03:56.159",
+    "end": "00:03:57.990",
+    "start_seconds": 236.159,
+    "end_seconds": 237.99,
+    "text": "finally i don't believe in valuing things just"
+  },
+  {
+    "start": "00:03:57.990",
+    "end": "00:03:58.000",
+    "start_seconds": 237.99,
+    "end_seconds": 238.0,
+    "text": "i don't believe in valuing things just"
+  },
+  {
+    "start": "00:03:58.000",
+    "end": "00:03:59.990",
+    "start_seconds": 238.0,
+    "end_seconds": 239.99,
+    "text": "i don't believe in valuing things just for the sake of valuing them i'm a"
+  },
+  {
+    "start": "00:03:59.990",
+    "end": "00:04:00.000",
+    "start_seconds": 239.99,
+    "end_seconds": 240.0,
+    "text": "for the sake of valuing them i'm a"
+  },
+  {
+    "start": "00:04:00.000",
+    "end": "00:04:01.270",
+    "start_seconds": 240.0,
+    "end_seconds": 241.27,
+    "text": "for the sake of valuing them i'm a pragmatist"
+  },
+  {
+    "start": "00:04:01.270",
+    "end": "00:04:01.280",
+    "start_seconds": 241.27,
+    "end_seconds": 241.28,
+    "text": "pragmatist"
+  },
+  {
+    "start": "00:04:01.280",
+    "end": "00:04:03.589",
+    "start_seconds": 241.28,
+    "end_seconds": 243.589,
+    "text": "pragmatist i believe that if you value something"
+  },
+  {
+    "start": "00:04:03.589",
+    "end": "00:04:03.599",
+    "start_seconds": 243.589,
+    "end_seconds": 243.599,
+    "text": "i believe that if you value something"
+  },
+  {
+    "start": "00:04:03.599",
+    "end": "00:04:05.429",
+    "start_seconds": 243.599,
+    "end_seconds": 245.429,
+    "text": "i believe that if you value something you need to be willing to act on it what"
+  },
+  {
+    "start": "00:04:05.429",
+    "end": "00:04:05.439",
+    "start_seconds": 245.429,
+    "end_seconds": 245.439,
+    "text": "you need to be willing to act on it what"
+  },
+  {
+    "start": "00:04:05.439",
+    "end": "00:04:07.670",
+    "start_seconds": 245.439,
+    "end_seconds": 247.67,
+    "text": "you need to be willing to act on it what does that mean if you find something to"
+  },
+  {
+    "start": "00:04:07.670",
+    "end": "00:04:07.680",
+    "start_seconds": 247.67,
+    "end_seconds": 247.68,
+    "text": "does that mean if you find something to"
+  },
+  {
+    "start": "00:04:07.680",
+    "end": "00:04:09.750",
+    "start_seconds": 247.68,
+    "end_seconds": 249.75,
+    "text": "does that mean if you find something to be undervalued you have to be willing to"
+  },
+  {
+    "start": "00:04:09.750",
+    "end": "00:04:09.760",
+    "start_seconds": 249.75,
+    "end_seconds": 249.76,
+    "text": "be undervalued you have to be willing to"
+  },
+  {
+    "start": "00:04:09.760",
+    "end": "00:04:11.750",
+    "start_seconds": 249.76,
+    "end_seconds": 251.75,
+    "text": "be undervalued you have to be willing to buy it you're saying so what's so"
+  },
+  {
+    "start": "00:04:11.750",
+    "end": "00:04:11.760",
+    "start_seconds": 251.75,
+    "end_seconds": 251.76,
+    "text": "buy it you're saying so what's so"
+  },
+  {
+    "start": "00:04:11.760",
+    "end": "00:04:13.429",
+    "start_seconds": 251.76,
+    "end_seconds": 253.429,
+    "text": "buy it you're saying so what's so difficult about doing that"
+  },
+  {
+    "start": "00:04:13.429",
+    "end": "00:04:13.439",
+    "start_seconds": 253.429,
+    "end_seconds": 253.439,
+    "text": "difficult about doing that"
+  },
+  {
+    "start": "00:04:13.439",
+    "end": "00:04:15.110",
+    "start_seconds": 253.439,
+    "end_seconds": 255.11,
+    "text": "difficult about doing that you're going to recognize that there's a"
+  },
+  {
+    "start": "00:04:15.110",
+    "end": "00:04:15.120",
+    "start_seconds": 255.11,
+    "end_seconds": 255.12,
+    "text": "you're going to recognize that there's a"
+  },
+  {
+    "start": "00:04:15.120",
+    "end": "00:04:17.110",
+    "start_seconds": 255.12,
+    "end_seconds": 257.11,
+    "text": "you're going to recognize that there's a difference between figuring out that"
+  },
+  {
+    "start": "00:04:17.110",
+    "end": "00:04:17.120",
+    "start_seconds": 257.11,
+    "end_seconds": 257.12,
+    "text": "difference between figuring out that"
+  },
+  {
+    "start": "00:04:17.120",
+    "end": "00:04:20.069",
+    "start_seconds": 257.12,
+    "end_seconds": 260.069,
+    "text": "difference between figuring out that something is misvalued and acting on it"
+  },
+  {
+    "start": "00:04:20.069",
+    "end": "00:04:20.079",
+    "start_seconds": 260.069,
+    "end_seconds": 260.079,
+    "text": "something is misvalued and acting on it"
+  },
+  {
+    "start": "00:04:20.079",
+    "end": "00:04:22.230",
+    "start_seconds": 260.079,
+    "end_seconds": 262.23,
+    "text": "something is misvalued and acting on it and that difference can be bridged only"
+  },
+  {
+    "start": "00:04:22.230",
+    "end": "00:04:22.240",
+    "start_seconds": 262.23,
+    "end_seconds": 262.24,
+    "text": "and that difference can be bridged only"
+  },
+  {
+    "start": "00:04:22.240",
+    "end": "00:04:24.950",
+    "start_seconds": 262.24,
+    "end_seconds": 264.95,
+    "text": "and that difference can be bridged only with faith faith in what faith in your"
+  },
+  {
+    "start": "00:04:24.950",
+    "end": "00:04:24.960",
+    "start_seconds": 264.95,
+    "end_seconds": 264.96,
+    "text": "with faith faith in what faith in your"
+  },
+  {
+    "start": "00:04:24.960",
+    "end": "00:04:27.110",
+    "start_seconds": 264.96,
+    "end_seconds": 267.11,
+    "text": "with faith faith in what faith in your own value and faith that markets will"
+  },
+  {
+    "start": "00:04:27.110",
+    "end": "00:04:27.120",
+    "start_seconds": 267.11,
+    "end_seconds": 267.12,
+    "text": "own value and faith that markets will"
+  },
+  {
+    "start": "00:04:27.120",
+    "end": "00:04:30.150",
+    "start_seconds": 267.12,
+    "end_seconds": 270.15,
+    "text": "own value and faith that markets will correct that price will move to value"
+  },
+  {
+    "start": "00:04:30.150",
+    "end": "00:04:30.160",
+    "start_seconds": 270.15,
+    "end_seconds": 270.16,
+    "text": "correct that price will move to value"
+  },
+  {
+    "start": "00:04:30.160",
+    "end": "00:04:32.310",
+    "start_seconds": 270.16,
+    "end_seconds": 272.31,
+    "text": "correct that price will move to value much more difficult than it sounds on"
+  },
+  {
+    "start": "00:04:32.310",
+    "end": "00:04:32.320",
+    "start_seconds": 272.31,
+    "end_seconds": 272.32,
+    "text": "much more difficult than it sounds on"
+  },
+  {
+    "start": "00:04:32.320",
+    "end": "00:04:34.150",
+    "start_seconds": 272.32,
+    "end_seconds": 274.15,
+    "text": "much more difficult than it sounds on the outside"
+  },
+  {
+    "start": "00:04:34.150",
+    "end": "00:04:34.160",
+    "start_seconds": 274.15,
+    "end_seconds": 274.15999999999997,
+    "text": "the outside"
+  },
+  {
+    "start": "00:04:34.160",
+    "end": "00:04:36.230",
+    "start_seconds": 274.15999999999997,
+    "end_seconds": 276.23,
+    "text": "the outside so what i hope to during this do during"
+  },
+  {
+    "start": "00:04:36.230",
+    "end": "00:04:36.240",
+    "start_seconds": 276.23,
+    "end_seconds": 276.24,
+    "text": "so what i hope to during this do during"
+  },
+  {
+    "start": "00:04:36.240",
+    "end": "00:04:38.790",
+    "start_seconds": 276.24,
+    "end_seconds": 278.79,
+    "text": "so what i hope to during this do during this class is not just deliver the"
+  },
+  {
+    "start": "00:04:38.790",
+    "end": "00:04:38.800",
+    "start_seconds": 278.79,
+    "end_seconds": 278.8,
+    "text": "this class is not just deliver the"
+  },
+  {
+    "start": "00:04:38.800",
+    "end": "00:04:41.189",
+    "start_seconds": 278.8,
+    "end_seconds": 281.189,
+    "text": "this class is not just deliver the techniques and the tools evaluation but"
+  },
+  {
+    "start": "00:04:41.189",
+    "end": "00:04:41.199",
+    "start_seconds": 281.189,
+    "end_seconds": 281.199,
+    "text": "techniques and the tools evaluation but"
+  },
+  {
+    "start": "00:04:41.199",
+    "end": "00:04:43.510",
+    "start_seconds": 281.199,
+    "end_seconds": 283.51,
+    "text": "techniques and the tools evaluation but give you some insight into how you can"
+  },
+  {
+    "start": "00:04:43.510",
+    "end": "00:04:43.520",
+    "start_seconds": 283.51,
+    "end_seconds": 283.52,
+    "text": "give you some insight into how you can"
+  },
+  {
+    "start": "00:04:43.520",
+    "end": "00:04:45.749",
+    "start_seconds": 283.52,
+    "end_seconds": 285.749,
+    "text": "give you some insight into how you can connect stories to value the difference"
+  },
+  {
+    "start": "00:04:45.749",
+    "end": "00:04:45.759",
+    "start_seconds": 285.749,
+    "end_seconds": 285.759,
+    "text": "connect stories to value the difference"
+  },
+  {
+    "start": "00:04:45.759",
+    "end": "00:04:48.230",
+    "start_seconds": 285.759,
+    "end_seconds": 288.23,
+    "text": "connect stories to value the difference between value and price and how you go"
+  },
+  {
+    "start": "00:04:48.230",
+    "end": "00:04:48.240",
+    "start_seconds": 288.23,
+    "end_seconds": 288.24,
+    "text": "between value and price and how you go"
+  },
+  {
+    "start": "00:04:48.240",
+    "end": "00:04:50.469",
+    "start_seconds": 288.24,
+    "end_seconds": 290.469,
+    "text": "between value and price and how you go about acquiring the faith to be able to"
+  },
+  {
+    "start": "00:04:50.469",
+    "end": "00:04:50.479",
+    "start_seconds": 290.469,
+    "end_seconds": 290.479,
+    "text": "about acquiring the faith to be able to"
+  },
+  {
+    "start": "00:04:50.479",
+    "end": "00:04:52.629",
+    "start_seconds": 290.479,
+    "end_seconds": 292.629,
+    "text": "about acquiring the faith to be able to act on evaluations"
+  },
+  {
+    "start": "00:04:52.629",
+    "end": "00:04:52.639",
+    "start_seconds": 292.629,
+    "end_seconds": 292.639,
+    "text": "act on evaluations"
+  },
+  {
+    "start": "00:04:52.639",
+    "end": "00:04:54.950",
+    "start_seconds": 292.639,
+    "end_seconds": 294.95,
+    "text": "act on evaluations i hope you will find this class useful"
+  },
+  {
+    "start": "00:04:54.950",
+    "end": "00:04:54.960",
+    "start_seconds": 294.95,
+    "end_seconds": 294.96,
+    "text": "i hope you will find this class useful"
+  },
+  {
+    "start": "00:04:54.960",
+    "end": "00:04:56.469",
+    "start_seconds": 294.96,
+    "end_seconds": 296.469,
+    "text": "i hope you will find this class useful no matter what perspective"
+  },
+  {
+    "start": "00:04:56.469",
+    "end": "00:04:56.479",
+    "start_seconds": 296.469,
+    "end_seconds": 296.479,
+    "text": "no matter what perspective"
+  },
+  {
+    "start": "00:04:56.479",
+    "end": "00:05:00.199",
+    "start_seconds": 296.479,
+    "end_seconds": 300.199,
+    "text": "no matter what perspective you bring into the class"
+  }
+]

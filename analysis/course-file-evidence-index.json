@@ -1,0 +1,967 @@
+{
+  "workspace": "Aswath Damodaran Courses Concepts Research",
+  "updated_on": "2026-08-09",
+  "courses": [
+    {
+      "slug": "investment-philosophies-2026",
+      "title": "Investment Philosophies - The 2026 Edition",
+      "items": [
+        {
+          "id": "investment-philosophies-2026::analysis/README.md",
+          "path": "analysis/README.md",
+          "label": "Analysis: Readme",
+          "kind": "analysis",
+          "href": "../investment-philosophies-2026/analysis/README.md"
+        },
+        {
+          "id": "investment-philosophies-2026::analysis/course-thesis.md",
+          "path": "analysis/course-thesis.md",
+          "label": "Analysis: Course Thesis",
+          "kind": "analysis",
+          "href": "../investment-philosophies-2026/analysis/course-thesis.md"
+        },
+        {
+          "id": "investment-philosophies-2026::analysis/concepts.json",
+          "path": "analysis/concepts.json",
+          "label": "Analysis: Concepts",
+          "kind": "analysis",
+          "href": "../investment-philosophies-2026/analysis/concepts.json"
+        },
+        {
+          "id": "investment-philosophies-2026::analysis/session-briefs.md",
+          "path": "analysis/session-briefs.md",
+          "label": "Analysis: Session Briefs",
+          "kind": "analysis",
+          "href": "../investment-philosophies-2026/analysis/session-briefs.md"
+        },
+        {
+          "id": "investment-philosophies-2026::analysis/themes-and-subthemes.json",
+          "path": "analysis/themes-and-subthemes.json",
+          "label": "Analysis: Themes And Subthemes",
+          "kind": "analysis",
+          "href": "../investment-philosophies-2026/analysis/themes-and-subthemes.json"
+        },
+        {
+          "id": "investment-philosophies-2026::analysis/sessions.json",
+          "path": "analysis/sessions.json",
+          "label": "Analysis: Sessions",
+          "kind": "analysis",
+          "href": "../investment-philosophies-2026/analysis/sessions.json"
+        },
+        {
+          "id": "investment-philosophies-2026::analysis/discussions.json",
+          "path": "analysis/discussions.json",
+          "label": "Analysis: Discussions",
+          "kind": "analysis",
+          "href": "../investment-philosophies-2026/analysis/discussions.json"
+        },
+        {
+          "id": "investment-philosophies-2026::site/index.html",
+          "path": "site/index.html",
+          "label": "Site: Main Overview",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/index.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/course-thesis.html",
+          "path": "site/course-thesis.html",
+          "label": "Site: Course Thesis",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/course-thesis.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/themes.html",
+          "path": "site/themes.html",
+          "label": "Site: Themes",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/themes.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/subthemes.html",
+          "path": "site/subthemes.html",
+          "label": "Site: Subthemes",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/subthemes.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/discussions.html",
+          "path": "site/discussions.html",
+          "label": "Site: Discussions",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/discussions.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/sessions.html",
+          "path": "site/sessions.html",
+          "label": "Site: Sessions",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/sessions.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/concepts/active-vs-passive-and-the-control-fantasy.html",
+          "path": "site/concepts/active-vs-passive-and-the-control-fantasy.html",
+          "label": "Site Concept: Active Vs Passive And The Control Fantasy",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/concepts/active-vs-passive-and-the-control-fantasy.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/concepts/arbitrage-and-the-industrial-problem-of-edge.html",
+          "path": "site/concepts/arbitrage-and-the-industrial-problem-of-edge.html",
+          "label": "Site Concept: Arbitrage And The Industrial Problem Of Edge",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/concepts/arbitrage-and-the-industrial-problem-of-edge.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/concepts/culture-trust-and-alternative-assets.html",
+          "path": "site/concepts/culture-trust-and-alternative-assets.html",
+          "label": "Site Concept: Culture Trust And Alternative Assets",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/concepts/culture-trust-and-alternative-assets.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/concepts/index.html",
+          "path": "site/concepts/index.html",
+          "label": "Site Concept: Index",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/concepts/index.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/concepts/information-trading-and-social-processing.html",
+          "path": "site/concepts/information-trading-and-social-processing.html",
+          "label": "Site Concept: Information Trading And Social Processing",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/concepts/information-trading-and-social-processing.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/concepts/market-efficiency-and-behavioral-edge.html",
+          "path": "site/concepts/market-efficiency-and-behavioral-edge.html",
+          "label": "Site Concept: Market Efficiency And Behavioral Edge",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/concepts/market-efficiency-and-behavioral-edge.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/concepts/market-timing-and-the-impossible-dream.html",
+          "path": "site/concepts/market-timing-and-the-impossible-dream.html",
+          "label": "Site Concept: Market Timing And The Impossible Dream",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/concepts/market-timing-and-the-impossible-dream.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/concepts/philosophy-over-tactics.html",
+          "path": "site/concepts/philosophy-over-tactics.html",
+          "label": "Site Concept: Philosophy Over Tactics",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/concepts/philosophy-over-tactics.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/concepts/portfolio-fit-and-lived-consistency.html",
+          "path": "site/concepts/portfolio-fit-and-lived-consistency.html",
+          "label": "Site Concept: Portfolio Fit And Lived Consistency",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/concepts/portfolio-fit-and-lived-consistency.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/concepts/risk-return-and-friction.html",
+          "path": "site/concepts/risk-return-and-friction.html",
+          "label": "Site Concept: Risk Return And Friction",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/concepts/risk-return-and-friction.html"
+        },
+        {
+          "id": "investment-philosophies-2026::site/concepts/value-vs-growth.html",
+          "path": "site/concepts/value-vs-growth.html",
+          "label": "Site Concept: Value Vs Growth",
+          "kind": "site",
+          "href": "../investment-philosophies-2026/site/concepts/value-vs-growth.html"
+        }
+      ]
+    },
+    {
+      "slug": "foundations-of-finance",
+      "title": "Foundations of Finance",
+      "items": [
+        {
+          "id": "foundations-of-finance::analysis/README.md",
+          "path": "analysis/README.md",
+          "label": "Analysis: Readme",
+          "kind": "analysis",
+          "href": "../foundations-of-finance/analysis/README.md"
+        },
+        {
+          "id": "foundations-of-finance::analysis/session-inventory.md",
+          "path": "analysis/session-inventory.md",
+          "label": "Analysis: Session Inventory",
+          "kind": "analysis",
+          "href": "../foundations-of-finance/analysis/session-inventory.md"
+        },
+        {
+          "id": "foundations-of-finance::analysis/themes-and-subthemes.json",
+          "path": "analysis/themes-and-subthemes.json",
+          "label": "Analysis: Themes And Subthemes",
+          "kind": "analysis",
+          "href": "../foundations-of-finance/analysis/themes-and-subthemes.json"
+        },
+        {
+          "id": "foundations-of-finance::analysis/session-briefs.md",
+          "path": "analysis/session-briefs.md",
+          "label": "Analysis: Session Briefs",
+          "kind": "analysis",
+          "href": "../foundations-of-finance/analysis/session-briefs.md"
+        },
+        {
+          "id": "foundations-of-finance::analysis/sessions.json",
+          "path": "analysis/sessions.json",
+          "label": "Analysis: Sessions",
+          "kind": "analysis",
+          "href": "../foundations-of-finance/analysis/sessions.json"
+        },
+        {
+          "id": "foundations-of-finance::analysis/discussions.json",
+          "path": "analysis/discussions.json",
+          "label": "Analysis: Discussions",
+          "kind": "analysis",
+          "href": "../foundations-of-finance/analysis/discussions.json"
+        },
+        {
+          "id": "foundations-of-finance::site/index.html",
+          "path": "site/index.html",
+          "label": "Site: Main Overview",
+          "kind": "site",
+          "href": "../foundations-of-finance/site/index.html"
+        },
+        {
+          "id": "foundations-of-finance::site/course-thesis.html",
+          "path": "site/course-thesis.html",
+          "label": "Site: Course Thesis",
+          "kind": "site",
+          "href": "../foundations-of-finance/site/course-thesis.html"
+        },
+        {
+          "id": "foundations-of-finance::site/themes.html",
+          "path": "site/themes.html",
+          "label": "Site: Themes",
+          "kind": "site",
+          "href": "../foundations-of-finance/site/themes.html"
+        },
+        {
+          "id": "foundations-of-finance::site/subthemes.html",
+          "path": "site/subthemes.html",
+          "label": "Site: Subthemes",
+          "kind": "site",
+          "href": "../foundations-of-finance/site/subthemes.html"
+        },
+        {
+          "id": "foundations-of-finance::site/discussions.html",
+          "path": "site/discussions.html",
+          "label": "Site: Discussions",
+          "kind": "site",
+          "href": "../foundations-of-finance/site/discussions.html"
+        },
+        {
+          "id": "foundations-of-finance::site/sessions.html",
+          "path": "site/sessions.html",
+          "label": "Site: Sessions",
+          "kind": "site",
+          "href": "../foundations-of-finance/site/sessions.html"
+        },
+        {
+          "id": "foundations-of-finance::site/concepts/cash-flows-and-time-translate-economic-choices-into-value.html",
+          "path": "site/concepts/cash-flows-and-time-translate-economic-choices-into-value.html",
+          "label": "Site Concept: Cash Flows And Time Translate Economic Choices Into Value",
+          "kind": "site",
+          "href": "../foundations-of-finance/site/concepts/cash-flows-and-time-translate-economic-choices-into-value.html"
+        },
+        {
+          "id": "foundations-of-finance::site/concepts/finance-is-a-forward-looking-language-of-business.html",
+          "path": "site/concepts/finance-is-a-forward-looking-language-of-business.html",
+          "label": "Site Concept: Finance Is A Forward Looking Language Of Business",
+          "kind": "site",
+          "href": "../foundations-of-finance/site/concepts/finance-is-a-forward-looking-language-of-business.html"
+        },
+        {
+          "id": "foundations-of-finance::site/concepts/index.html",
+          "path": "site/concepts/index.html",
+          "label": "Site Concept: Index",
+          "kind": "site",
+          "href": "../foundations-of-finance/site/concepts/index.html"
+        },
+        {
+          "id": "foundations-of-finance::site/concepts/macro-forces-inflation-rates-and-currencies-shape-every-financial-decision.html",
+          "path": "site/concepts/macro-forces-inflation-rates-and-currencies-shape-every-financial-decision.html",
+          "label": "Site Concept: Macro Forces Inflation Rates And Currencies Shape Every Financial Decision",
+          "kind": "site",
+          "href": "../foundations-of-finance/site/concepts/macro-forces-inflation-rates-and-currencies-shape-every-financial-decision.html"
+        },
+        {
+          "id": "foundations-of-finance::site/concepts/risk-is-inescapable-but-it-must-be-measured-through-the-right-eyes.html",
+          "path": "site/concepts/risk-is-inescapable-but-it-must-be-measured-through-the-right-eyes.html",
+          "label": "Site Concept: Risk Is Inescapable But It Must Be Measured Through The Right Eyes",
+          "kind": "site",
+          "href": "../foundations-of-finance/site/concepts/risk-is-inescapable-but-it-must-be-measured-through-the-right-eyes.html"
+        },
+        {
+          "id": "foundations-of-finance::site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html",
+          "path": "site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html",
+          "label": "Site Concept: Valuation Starts By Understanding What Kind Of Claim You Own",
+          "kind": "site",
+          "href": "../foundations-of-finance/site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html"
+        }
+      ]
+    },
+    {
+      "slug": "valuation-mba-spring-2025",
+      "title": "Valuation MBA Spring 2025",
+      "items": [
+        {
+          "id": "valuation-mba-spring-2025::analysis/README.md",
+          "path": "analysis/README.md",
+          "label": "Analysis: Readme",
+          "kind": "analysis",
+          "href": "../valuation-mba-spring-2025/analysis/README.md"
+        },
+        {
+          "id": "valuation-mba-spring-2025::analysis/session-inventory.md",
+          "path": "analysis/session-inventory.md",
+          "label": "Analysis: Session Inventory",
+          "kind": "analysis",
+          "href": "../valuation-mba-spring-2025/analysis/session-inventory.md"
+        },
+        {
+          "id": "valuation-mba-spring-2025::analysis/session-briefs.md",
+          "path": "analysis/session-briefs.md",
+          "label": "Analysis: Session Briefs",
+          "kind": "analysis",
+          "href": "../valuation-mba-spring-2025/analysis/session-briefs.md"
+        },
+        {
+          "id": "valuation-mba-spring-2025::analysis/themes-and-subthemes.json",
+          "path": "analysis/themes-and-subthemes.json",
+          "label": "Analysis: Themes And Subthemes",
+          "kind": "analysis",
+          "href": "../valuation-mba-spring-2025/analysis/themes-and-subthemes.json"
+        },
+        {
+          "id": "valuation-mba-spring-2025::analysis/sessions.json",
+          "path": "analysis/sessions.json",
+          "label": "Analysis: Sessions",
+          "kind": "analysis",
+          "href": "../valuation-mba-spring-2025/analysis/sessions.json"
+        },
+        {
+          "id": "valuation-mba-spring-2025::analysis/themes.json",
+          "path": "analysis/themes.json",
+          "label": "Analysis: Themes",
+          "kind": "analysis",
+          "href": "../valuation-mba-spring-2025/analysis/themes.json"
+        },
+        {
+          "id": "valuation-mba-spring-2025::analysis/subthemes.json",
+          "path": "analysis/subthemes.json",
+          "label": "Analysis: Subthemes",
+          "kind": "analysis",
+          "href": "../valuation-mba-spring-2025/analysis/subthemes.json"
+        },
+        {
+          "id": "valuation-mba-spring-2025::analysis/discussions.json",
+          "path": "analysis/discussions.json",
+          "label": "Analysis: Discussions",
+          "kind": "analysis",
+          "href": "../valuation-mba-spring-2025/analysis/discussions.json"
+        },
+        {
+          "id": "valuation-mba-spring-2025::analysis/concepts.json",
+          "path": "analysis/concepts.json",
+          "label": "Analysis: Concepts",
+          "kind": "analysis",
+          "href": "../valuation-mba-spring-2025/analysis/concepts.json"
+        },
+        {
+          "id": "valuation-mba-spring-2025::analysis/evidence-map.json",
+          "path": "analysis/evidence-map.json",
+          "label": "Analysis: Evidence Map",
+          "kind": "analysis",
+          "href": "../valuation-mba-spring-2025/analysis/evidence-map.json"
+        },
+        {
+          "id": "valuation-mba-spring-2025::analysis/course-thesis.md",
+          "path": "analysis/course-thesis.md",
+          "label": "Analysis: Course Thesis",
+          "kind": "analysis",
+          "href": "../valuation-mba-spring-2025/analysis/course-thesis.md"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/index.html",
+          "path": "site/index.html",
+          "label": "Site: Main Overview",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/index.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/course-thesis.html",
+          "path": "site/course-thesis.html",
+          "label": "Site: Course Thesis",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/course-thesis.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/themes.html",
+          "path": "site/themes.html",
+          "label": "Site: Themes",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/themes.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/subthemes.html",
+          "path": "site/subthemes.html",
+          "label": "Site: Subthemes",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/subthemes.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/evidence.html",
+          "path": "site/evidence.html",
+          "label": "Site: Evidence",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/evidence.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/discussions.html",
+          "path": "site/discussions.html",
+          "label": "Site: Discussions",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/discussions.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/sessions.html",
+          "path": "site/sessions.html",
+          "label": "Site: Sessions",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/sessions.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/acquisition-valuation.html",
+          "path": "site/concepts/acquisition-valuation.html",
+          "label": "Site Concept: Acquisition Valuation",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/acquisition-valuation.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/asset-based-valuation-pricing.html",
+          "path": "site/concepts/asset-based-valuation-pricing.html",
+          "label": "Site Concept: Asset Based Valuation Pricing",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/asset-based-valuation-pricing.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/bermuda-triangle-of-valuation.html",
+          "path": "site/concepts/bermuda-triangle-of-valuation.html",
+          "label": "Site Concept: Bermuda Triangle Of Valuation",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/bermuda-triangle-of-valuation.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/cash-flow-consistency.html",
+          "path": "site/concepts/cash-flow-consistency.html",
+          "label": "Site Concept: Cash Flow Consistency",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/cash-flow-consistency.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/control-value.html",
+          "path": "site/concepts/control-value.html",
+          "label": "Site Concept: Control Value",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/control-value.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/cost-of-capital.html",
+          "path": "site/concepts/cost-of-capital.html",
+          "label": "Site Concept: Cost Of Capital",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/cost-of-capital.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/cost-of-equity.html",
+          "path": "site/concepts/cost-of-equity.html",
+          "label": "Site Concept: Cost Of Equity",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/cost-of-equity.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/country-risk.html",
+          "path": "site/concepts/country-risk.html",
+          "label": "Site Concept: Country Risk",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/country-risk.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/dcf-big-picture.html",
+          "path": "site/concepts/dcf-big-picture.html",
+          "label": "Site Concept: Dcf Big Picture",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/dcf-big-picture.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/discount-rate-consistency.html",
+          "path": "site/concepts/discount-rate-consistency.html",
+          "label": "Site Concept: Discount Rate Consistency",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/discount-rate-consistency.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/distressed-equity.html",
+          "path": "site/concepts/distressed-equity.html",
+          "label": "Site Concept: Distressed Equity",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/distressed-equity.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/equity-risk-premiums.html",
+          "path": "site/concepts/equity-risk-premiums.html",
+          "label": "Site Concept: Equity Risk Premiums",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/equity-risk-premiums.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/free-cash-flow-to-firm.html",
+          "path": "site/concepts/free-cash-flow-to-firm.html",
+          "label": "Site Concept: Free Cash Flow To Firm",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/free-cash-flow-to-firm.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/growth-estimation.html",
+          "path": "site/concepts/growth-estimation.html",
+          "label": "Site Concept: Growth Estimation",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/growth-estimation.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/growth-quality.html",
+          "path": "site/concepts/growth-quality.html",
+          "label": "Site Concept: Growth Quality",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/growth-quality.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/index.html",
+          "path": "site/concepts/index.html",
+          "label": "Site Concept: Index",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/index.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/intrinsic-value-vs-pricing.html",
+          "path": "site/concepts/intrinsic-value-vs-pricing.html",
+          "label": "Site Concept: Intrinsic Value Vs Pricing",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/intrinsic-value-vs-pricing.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/ipo-valuation-and-pricing.html",
+          "path": "site/concepts/ipo-valuation-and-pricing.html",
+          "label": "Site Concept: Ipo Valuation And Pricing",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/ipo-valuation-and-pricing.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/life-cycle-valuation.html",
+          "path": "site/concepts/life-cycle-valuation.html",
+          "label": "Site Concept: Life Cycle Valuation",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/life-cycle-valuation.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/liquidity-and-ownership.html",
+          "path": "site/concepts/liquidity-and-ownership.html",
+          "label": "Site Concept: Liquidity And Ownership",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/liquidity-and-ownership.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/market-pe-ratios.html",
+          "path": "site/concepts/market-pe-ratios.html",
+          "label": "Site Concept: Market Pe Ratios",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/market-pe-ratios.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/multiples-hide-assumptions.html",
+          "path": "site/concepts/multiples-hide-assumptions.html",
+          "label": "Site Concept: Multiples Hide Assumptions",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/multiples-hide-assumptions.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/natural-resources-as-options.html",
+          "path": "site/concepts/natural-resources-as-options.html",
+          "label": "Site Concept: Natural Resources As Options",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/natural-resources-as-options.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/patents-as-options.html",
+          "path": "site/concepts/patents-as-options.html",
+          "label": "Site Concept: Patents As Options",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/patents-as-options.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/peer-group-selection.html",
+          "path": "site/concepts/peer-group-selection.html",
+          "label": "Site Concept: Peer Group Selection",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/peer-group-selection.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/pricing-101.html",
+          "path": "site/concepts/pricing-101.html",
+          "label": "Site Concept: Pricing 101",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/pricing-101.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/pricing-analytics.html",
+          "path": "site/concepts/pricing-analytics.html",
+          "label": "Site Concept: Pricing Analytics",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/pricing-analytics.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/private-company-valuation.html",
+          "path": "site/concepts/private-company-valuation.html",
+          "label": "Site Concept: Private Company Valuation",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/private-company-valuation.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/real-options.html",
+          "path": "site/concepts/real-options.html",
+          "label": "Site Concept: Real Options",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/real-options.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/reinvestment.html",
+          "path": "site/concepts/reinvestment.html",
+          "label": "Site Concept: Reinvestment",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/reinvestment.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/relative-risk-and-betas.html",
+          "path": "site/concepts/relative-risk-and-betas.html",
+          "label": "Site Concept: Relative Risk And Betas",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/relative-risk-and-betas.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/riskfree-rates.html",
+          "path": "site/concepts/riskfree-rates.html",
+          "label": "Site Concept: Riskfree Rates",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/riskfree-rates.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/stock-based-compensation.html",
+          "path": "site/concepts/stock-based-compensation.html",
+          "label": "Site Concept: Stock Based Compensation",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/stock-based-compensation.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/stories-into-inputs.html",
+          "path": "site/concepts/stories-into-inputs.html",
+          "label": "Site Concept: Stories Into Inputs",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/stories-into-inputs.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/synergy.html",
+          "path": "site/concepts/synergy.html",
+          "label": "Site Concept: Synergy",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/synergy.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/terminal-value.html",
+          "path": "site/concepts/terminal-value.html",
+          "label": "Site Concept: Terminal Value",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/terminal-value.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/valuation-as-translated-judgment.html",
+          "path": "site/concepts/valuation-as-translated-judgment.html",
+          "label": "Site Concept: Valuation As Translated Judgment",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/valuation-as-translated-judgment.html"
+        },
+        {
+          "id": "valuation-mba-spring-2025::site/concepts/value-enhancement.html",
+          "path": "site/concepts/value-enhancement.html",
+          "label": "Site Concept: Value Enhancement",
+          "kind": "site",
+          "href": "../valuation-mba-spring-2025/site/concepts/value-enhancement.html"
+        }
+      ]
+    },
+    {
+      "slug": "valuation-undergraduate-spring-2025",
+      "title": "Valuation Undergraduate Spring 2025",
+      "items": [
+        {
+          "id": "valuation-undergraduate-spring-2025::analysis/README.md",
+          "path": "analysis/README.md",
+          "label": "Analysis: Readme",
+          "kind": "analysis",
+          "href": "../valuation-undergraduate-spring-2025/analysis/README.md"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::analysis/session-inventory.md",
+          "path": "analysis/session-inventory.md",
+          "label": "Analysis: Session Inventory",
+          "kind": "analysis",
+          "href": "../valuation-undergraduate-spring-2025/analysis/session-inventory.md"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::analysis/themes-and-subthemes.json",
+          "path": "analysis/themes-and-subthemes.json",
+          "label": "Analysis: Themes And Subthemes",
+          "kind": "analysis",
+          "href": "../valuation-undergraduate-spring-2025/analysis/themes-and-subthemes.json"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::analysis/course-thesis.md",
+          "path": "analysis/course-thesis.md",
+          "label": "Analysis: Course Thesis",
+          "kind": "analysis",
+          "href": "../valuation-undergraduate-spring-2025/analysis/course-thesis.md"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::analysis/concepts.json",
+          "path": "analysis/concepts.json",
+          "label": "Analysis: Concepts",
+          "kind": "analysis",
+          "href": "../valuation-undergraduate-spring-2025/analysis/concepts.json"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::analysis/evidence-map.json",
+          "path": "analysis/evidence-map.json",
+          "label": "Analysis: Evidence Map",
+          "kind": "analysis",
+          "href": "../valuation-undergraduate-spring-2025/analysis/evidence-map.json"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::analysis/session-briefs.md",
+          "path": "analysis/session-briefs.md",
+          "label": "Analysis: Session Briefs",
+          "kind": "analysis",
+          "href": "../valuation-undergraduate-spring-2025/analysis/session-briefs.md"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::analysis/sessions.json",
+          "path": "analysis/sessions.json",
+          "label": "Analysis: Sessions",
+          "kind": "analysis",
+          "href": "../valuation-undergraduate-spring-2025/analysis/sessions.json"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::analysis/discussions.json",
+          "path": "analysis/discussions.json",
+          "label": "Analysis: Discussions",
+          "kind": "analysis",
+          "href": "../valuation-undergraduate-spring-2025/analysis/discussions.json"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::site/index.html",
+          "path": "site/index.html",
+          "label": "Site: Main Overview",
+          "kind": "site",
+          "href": "../valuation-undergraduate-spring-2025/site/index.html"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::site/course-thesis.html",
+          "path": "site/course-thesis.html",
+          "label": "Site: Course Thesis",
+          "kind": "site",
+          "href": "../valuation-undergraduate-spring-2025/site/course-thesis.html"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::site/themes.html",
+          "path": "site/themes.html",
+          "label": "Site: Themes",
+          "kind": "site",
+          "href": "../valuation-undergraduate-spring-2025/site/themes.html"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::site/concepts/index.html",
+          "path": "site/concepts/index.html",
+          "label": "Site Concept: Index",
+          "kind": "site",
+          "href": "../valuation-undergraduate-spring-2025/site/concepts/index.html"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::site/evidence.html",
+          "path": "site/evidence.html",
+          "label": "Site: Evidence",
+          "kind": "site",
+          "href": "../valuation-undergraduate-spring-2025/site/evidence.html"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::site/sessions.html",
+          "path": "site/sessions.html",
+          "label": "Site: Sessions",
+          "kind": "site",
+          "href": "../valuation-undergraduate-spring-2025/site/sessions.html"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::site/subthemes.html",
+          "path": "site/subthemes.html",
+          "label": "Site: Subthemes",
+          "kind": "site",
+          "href": "../valuation-undergraduate-spring-2025/site/subthemes.html"
+        },
+        {
+          "id": "valuation-undergraduate-spring-2025::site/discussions.html",
+          "path": "site/discussions.html",
+          "label": "Site: Discussions",
+          "kind": "site",
+          "href": "../valuation-undergraduate-spring-2025/site/discussions.html"
+        }
+      ]
+    },
+    {
+      "slug": "corporate-finance-spring-2025",
+      "title": "Corporate Finance Spring 2025",
+      "items": [
+        {
+          "id": "corporate-finance-spring-2025::analysis/course-thesis.md",
+          "path": "analysis/course-thesis.md",
+          "label": "Analysis: Course Thesis",
+          "kind": "analysis",
+          "href": "../corporate-finance-spring-2025/analysis/course-thesis.md"
+        },
+        {
+          "id": "corporate-finance-spring-2025::analysis/session-briefs.md",
+          "path": "analysis/session-briefs.md",
+          "label": "Analysis: Session Briefs",
+          "kind": "analysis",
+          "href": "../corporate-finance-spring-2025/analysis/session-briefs.md"
+        },
+        {
+          "id": "corporate-finance-spring-2025::analysis/themes-and-subthemes.json",
+          "path": "analysis/themes-and-subthemes.json",
+          "label": "Analysis: Themes And Subthemes",
+          "kind": "analysis",
+          "href": "../corporate-finance-spring-2025/analysis/themes-and-subthemes.json"
+        },
+        {
+          "id": "corporate-finance-spring-2025::analysis/concepts.json",
+          "path": "analysis/concepts.json",
+          "label": "Analysis: Concepts",
+          "kind": "analysis",
+          "href": "../corporate-finance-spring-2025/analysis/concepts.json"
+        },
+        {
+          "id": "corporate-finance-spring-2025::analysis/evidence-map.json",
+          "path": "analysis/evidence-map.json",
+          "label": "Analysis: Evidence Map",
+          "kind": "analysis",
+          "href": "../corporate-finance-spring-2025/analysis/evidence-map.json"
+        },
+        {
+          "id": "corporate-finance-spring-2025::analysis/themes.json",
+          "path": "analysis/themes.json",
+          "label": "Analysis: Themes",
+          "kind": "analysis",
+          "href": "../corporate-finance-spring-2025/analysis/themes.json"
+        },
+        {
+          "id": "corporate-finance-spring-2025::analysis/subthemes.json",
+          "path": "analysis/subthemes.json",
+          "label": "Analysis: Subthemes",
+          "kind": "analysis",
+          "href": "../corporate-finance-spring-2025/analysis/subthemes.json"
+        },
+        {
+          "id": "corporate-finance-spring-2025::analysis/discussions.json",
+          "path": "analysis/discussions.json",
+          "label": "Analysis: Discussions",
+          "kind": "analysis",
+          "href": "../corporate-finance-spring-2025/analysis/discussions.json"
+        },
+        {
+          "id": "corporate-finance-spring-2025::analysis/sessions.json",
+          "path": "analysis/sessions.json",
+          "label": "Analysis: Sessions",
+          "kind": "analysis",
+          "href": "../corporate-finance-spring-2025/analysis/sessions.json"
+        },
+        {
+          "id": "corporate-finance-spring-2025::site/index.html",
+          "path": "site/index.html",
+          "label": "Site: Main Overview",
+          "kind": "site",
+          "href": "../corporate-finance-spring-2025/site/index.html"
+        },
+        {
+          "id": "corporate-finance-spring-2025::site/course-thesis.html",
+          "path": "site/course-thesis.html",
+          "label": "Site: Course Thesis",
+          "kind": "site",
+          "href": "../corporate-finance-spring-2025/site/course-thesis.html"
+        },
+        {
+          "id": "corporate-finance-spring-2025::site/themes.html",
+          "path": "site/themes.html",
+          "label": "Site: Themes",
+          "kind": "site",
+          "href": "../corporate-finance-spring-2025/site/themes.html"
+        },
+        {
+          "id": "corporate-finance-spring-2025::site/subthemes.html",
+          "path": "site/subthemes.html",
+          "label": "Site: Subthemes",
+          "kind": "site",
+          "href": "../corporate-finance-spring-2025/site/subthemes.html"
+        },
+        {
+          "id": "corporate-finance-spring-2025::site/evidence.html",
+          "path": "site/evidence.html",
+          "label": "Site: Evidence",
+          "kind": "site",
+          "href": "../corporate-finance-spring-2025/site/evidence.html"
+        },
+        {
+          "id": "corporate-finance-spring-2025::site/discussions.html",
+          "path": "site/discussions.html",
+          "label": "Site: Discussions",
+          "kind": "site",
+          "href": "../corporate-finance-spring-2025/site/discussions.html"
+        },
+        {
+          "id": "corporate-finance-spring-2025::site/sessions.html",
+          "path": "site/sessions.html",
+          "label": "Site: Sessions",
+          "kind": "site",
+          "href": "../corporate-finance-spring-2025/site/sessions.html"
+        },
+        {
+          "id": "corporate-finance-spring-2025::site/concepts/index.html",
+          "path": "site/concepts/index.html",
+          "label": "Site Concept: Index",
+          "kind": "site",
+          "href": "../corporate-finance-spring-2025/site/concepts/index.html"
+        },
+        {
+          "id": "corporate-finance-spring-2025::site/concepts/*.html",
+          "path": "site/concepts/*.html",
+          "label": "Site Concept: *",
+          "kind": "site",
+          "href": "../corporate-finance-spring-2025/site/concepts/*.html"
+        }
+      ]
+    }
+  ]
+}

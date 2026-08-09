@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aswath Damodaran Courses Concepts Research</title>
+    <style>
+      :root {
+        --bg: #f4f1ea;
+        --panel: #fffdf8;
+        --panel-alt: #f8f4ed;
+        --ink: #1f1f1b;
+        --muted: #605b52;
+        --line: #d7d0c4;
+        --accent: #0b6b6f;
+        --accent-soft: #d8ecec;
+        --shadow: 0 16px 40px rgba(32, 26, 16, 0.08);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: var(--bg);
+        color: var(--ink);
+        line-height: 1.58;
+      }
+      .page { width: min(1180px, calc(100% - 24px)); margin: 0 auto; padding: 24px 0 56px; }
+      .hero, .card, .band, .essay {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        box-shadow: var(--shadow);
+      }
+      .hero { padding: 28px; display: grid; grid-template-columns: 1.25fr 0.95fr; gap: 24px; }
+      .eyebrow {
+        display: inline-block;
+        padding: 6px 10px;
+        border-radius: 999px;
+        background: var(--accent-soft);
+        color: var(--accent);
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+      h1, h2, h3 { margin: 0; font-weight: 700; }
+      h1 { margin-top: 12px; font-size: clamp(2.2rem, 4vw, 3.5rem); line-height: 1.02; }
+      h2 { font-size: 1.36rem; margin-bottom: 10px; }
+      h3 { font-size: 1rem; margin-bottom: 8px; }
+      p { margin: 0; color: var(--muted); }
+      .lead { color: var(--ink); font-size: 1.05rem; max-width: 72ch; }
+      .meta, .chip-list { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        min-height: 30px;
+        padding: 0 10px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel-alt);
+        color: var(--muted);
+        font-size: 0.84rem;
+      }
+      .hero-aside { display: grid; gap: 16px; }
+      .aside-card {
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: linear-gradient(180deg, #fffdf8 0%, #f6f0e6 100%);
+      }
+      .section { margin-top: 24px; }
+      .section-head { margin-bottom: 14px; }
+      .grid-2 { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+      .grid-3 { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+      .card { padding: 20px; }
+      .card a, .essay a { color: var(--accent); font-weight: 700; text-decoration: none; }
+      ul { margin: 10px 0 0; padding-left: 18px; color: var(--muted); }
+      li + li { margin-top: 8px; }
+      .stats { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin-top: 14px; }
+      .stat {
+        padding: 14px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel-alt);
+      }
+      .stat .label { font-size: 0.76rem; text-transform: uppercase; font-weight: 700; color: var(--muted); }
+      .stat .value { margin-top: 6px; font-size: 1.4rem; font-weight: 700; color: var(--ink); }
+      .essay { padding: 20px; }
+      @media (max-width: 980px) {
+        .hero, .grid-2, .grid-3 { grid-template-columns: 1fr; }
+      }
+      @media (max-width: 720px) {
+        .page { width: min(100% - 20px, 1180px); padding-top: 14px; }
+        .hero, .card, .essay { padding: 16px; }
+        .stats { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero">
+        <div>
+          <span class="eyebrow">Root Research Index</span>
+          <h1>Aswath Damodaran Courses Concepts Research</h1>
+          <p class="lead">
+            A multi-course research workspace for turning Damodaran playlists
+            into transcript corpora, theme systems, concept pages, discussion
+            layers, and reader-facing HTML artifacts. The goal is not only to
+            capture transcripts, but to build reusable intellectual structure
+            across courses.
+          </p>
+          <div class="meta">
+            <span class="chip">Updated: August 9, 2026</span>
+            <span class="chip">Courses with real outputs: 5</span>
+            <span class="chip">Manifest-driven transcript pipeline</span>
+          </div>
+        </div>
+        <div class="hero-aside">
+          <div class="aside-card">
+            <h2>What Exists Now</h2>
+            <p>
+              The workspace now contains five active course workspaces,
+              including an undergraduate valuation sequence that now has its
+              own reader-facing site layer alongside a full transcript corpus.
+            </p>
+          </div>
+          <div class="aside-card">
+            <h2>Big Next Step</h2>
+            <p>
+              Expand the applied analysis layer with more sectors and companies,
+              then deepen the evidence links from those writeups back into root
+              concepts and course-level material.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Workspace Snapshot</h2>
+        </div>
+        <div class="grid-3">
+          <article class="card">
+            <h3>Courses Seeded</h3>
+            <p>Five Damodaran course workspaces are active, with foundations extended into a concept site and undergraduate valuation upgraded into a transcript-backed reader-facing atlas.</p>
+          </article>
+          <article class="card">
+            <h3>Transcript Backbone</h3>
+            <p>All five courses are driven by the same manifest-based transcript capture and indexing workflow.</p>
+          </article>
+          <article class="card">
+            <h3>Research Direction</h3>
+            <p>The system is moving from course intelligence into reusable cross-course concepts, synthesis, and applied analysis.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Courses</h2>
+          <p>These cards summarize the current state of each course-specific workspace.</p>
+        </div>
+        <div class="grid-2">
+          <article class="card">
+            <h3><a href="../investment-philosophies-2026/site/index.html">Investment Philosophies - The 2026 Edition</a></h3>
+            <p>
+              Full transcript corpus with concept pages now wrapped in a richer
+              navigation layer: themes, subthemes, transcript-backed
+              discussions, sessions, thesis, and concept pages across 43
+              investment-philosophy lectures.
+            </p>
+            <div class="stats">
+              <div class="stat">
+                <div class="label">Videos</div>
+                <div class="value">43</div>
+              </div>
+              <div class="stat">
+                <div class="label">Transcripts</div>
+                <div class="value">43</div>
+              </div>
+              <div class="stat">
+                <div class="label">Words</div>
+                <div class="value">138,353</div>
+              </div>
+              <div class="stat">
+                <div class="label">Current Layer</div>
+                <div class="value">Rich atlas</div>
+              </div>
+            </div>
+            <ul>
+              <li><a href="../investment-philosophies-2026/site/index.html">Main course overview</a></li>
+              <li><a href="../investment-philosophies-2026/site/course-thesis.html">Long-form course thesis</a></li>
+              <li><a href="../investment-philosophies-2026/site/themes.html">Themes</a></li>
+              <li><a href="../investment-philosophies-2026/site/discussions.html">Discussions</a></li>
+              <li><a href="../investment-philosophies-2026/site/sessions.html">Sessions</a></li>
+              <li><a href="../investment-philosophies-2026/analysis/session-briefs.md">Session brief map</a></li>
+              <li><a href="../investment-philosophies-2026/analysis/themes-and-subthemes.json">Theme and subtheme tree</a></li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3><a href="../foundations-of-finance/site/index.html">Foundations of Finance</a></h3>
+            <p>
+              Introductory finance bridge course with partial transcript
+              coverage, concept pages, and now a stronger session/theme/
+              discussion layer connecting business structure, cash flows, risk,
+              time value, claims, inflation, and currencies.
+            </p>
+            <div class="stats">
+              <div class="stat">
+                <div class="label">Videos</div>
+                <div class="value">13</div>
+              </div>
+              <div class="stat">
+                <div class="label">Transcripts</div>
+                <div class="value">11</div>
+              </div>
+              <div class="stat">
+                <div class="label">Words</div>
+                <div class="value">31,493</div>
+              </div>
+              <div class="stat">
+                <div class="label">Current Layer</div>
+                <div class="value">Partial rich atlas</div>
+              </div>
+            </div>
+            <ul>
+              <li><a href="../foundations-of-finance/site/index.html">Main course overview</a></li>
+              <li><a href="../foundations-of-finance/site/course-thesis.html">Course thesis</a></li>
+              <li><a href="../foundations-of-finance/site/concepts/index.html">Concept atlas</a></li>
+              <li><a href="../foundations-of-finance/site/themes.html">Themes</a></li>
+              <li><a href="../foundations-of-finance/site/discussions.html">Discussions</a></li>
+              <li><a href="../foundations-of-finance/site/sessions.html">Sessions</a></li>
+              <li><a href="../foundations-of-finance/analysis/session-inventory.md">Session inventory</a></li>
+              <li><a href="../foundations-of-finance/analysis/themes-and-subthemes.json">Theme and subtheme tree</a></li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3><a href="../valuation-mba-spring-2025/site/index.html">Valuation MBA Spring 2025</a></h3>
+            <p>
+              Full transcript corpus captured and promoted into a rich valuation
+              atlas: thesis, themes, subthemes, evidence map, discussions,
+              session pages, and 37 transcript-backed concept pages spanning
+              DCF, pricing, growth, optionality, acquisitions, and control.
+            </p>
+            <div class="stats">
+              <div class="stat">
+                <div class="label">Videos</div>
+                <div class="value">27</div>
+              </div>
+              <div class="stat">
+                <div class="label">Transcripts</div>
+                <div class="value">27</div>
+              </div>
+              <div class="stat">
+                <div class="label">Words</div>
+                <div class="value">360,131</div>
+              </div>
+              <div class="stat">
+                <div class="label">Concepts</div>
+                <div class="value">37</div>
+              </div>
+            </div>
+            <ul>
+              <li><a href="../valuation-mba-spring-2025/site/index.html">Main course overview</a></li>
+              <li><a href="../valuation-mba-spring-2025/site/course-thesis.html">Long-form course thesis</a></li>
+              <li><a href="../valuation-mba-spring-2025/site/concepts/index.html">Concept atlas</a></li>
+              <li><a href="../valuation-mba-spring-2025/site/evidence.html">Evidence map</a></li>
+              <li><a href="../valuation-mba-spring-2025/site/sessions.html">Session map</a></li>
+              <li><a href="../valuation-mba-spring-2025/analysis/session-inventory.md">Session inventory</a></li>
+              <li><a href="../valuation-mba-spring-2025/analysis/themes-and-subthemes.json">Theme and subtheme tree</a></li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3><a href="../valuation-undergraduate-spring-2025/site/index.html">Valuation Undergraduate Spring 2025</a></h3>
+            <p>
+              Full undergraduate valuation corpus with concept pages now wrapped
+              in a richer session, subtheme, and discussion layer. It is the
+              clearest audience-level comparison partner for the MBA valuation
+              atlas and now has much closer surface-area parity.
+            </p>
+            <div class="stats">
+              <div class="stat">
+                <div class="label">Videos</div>
+                <div class="value">28</div>
+              </div>
+              <div class="stat">
+                <div class="label">Transcripts</div>
+                <div class="value">28</div>
+              </div>
+              <div class="stat">
+                <div class="label">Words</div>
+                <div class="value">359,388</div>
+              </div>
+              <div class="stat">
+                <div class="label">Concepts</div>
+                <div class="value">23</div>
+              </div>
+            </div>
+            <ul>
+              <li><a href="../valuation-undergraduate-spring-2025/site/index.html">Main course overview</a></li>
+              <li><a href="../valuation-undergraduate-spring-2025/site/course-thesis.html">Long-form course thesis</a></li>
+              <li><a href="../valuation-undergraduate-spring-2025/site/themes.html">Theme map</a></li>
+              <li><a href="../valuation-undergraduate-spring-2025/site/subthemes.html">Subthemes</a></li>
+              <li><a href="../valuation-undergraduate-spring-2025/site/concepts/index.html">Concept atlas</a></li>
+              <li><a href="../valuation-undergraduate-spring-2025/site/evidence.html">Evidence map</a></li>
+              <li><a href="../valuation-undergraduate-spring-2025/site/discussions.html">Discussions</a></li>
+              <li><a href="../valuation-undergraduate-spring-2025/site/sessions.html">Session map</a></li>
+              <li><a href="../valuation-undergraduate-spring-2025/analysis/session-inventory.md">Session inventory</a></li>
+              <li><a href="../valuation-undergraduate-spring-2025/analysis/session-briefs.md">Session briefs</a></li>
+              <li><a href="../valuation-undergraduate-spring-2025/analysis/themes-and-subthemes.json">Theme and subtheme tree</a></li>
+              <li><a href="../valuation-undergraduate-spring-2025/analysis/concepts.json">Concept registry</a></li>
+              <li><a href="../valuation-undergraduate-spring-2025/raw-material/youtube/transcript-index.json">Transcript index</a></li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3><a href="../corporate-finance-spring-2025/site/index.html">Corporate Finance Spring 2025</a></h3>
+            <p>
+              A large transcript base upgraded into a thesis-led corporate
+              finance concept atlas with session briefs, cue-level evidence,
+              and 20 reader-facing concept pages.
+            </p>
+            <div class="stats">
+              <div class="stat">
+                <div class="label">Videos</div>
+                <div class="value">27</div>
+              </div>
+              <div class="stat">
+                <div class="label">Transcripts</div>
+                <div class="value">26</div>
+              </div>
+              <div class="stat">
+                <div class="label">Words</div>
+                <div class="value">355,601</div>
+              </div>
+              <div class="stat">
+                <div class="label">Site Style</div>
+                <div class="value">Concept-led</div>
+              </div>
+            </div>
+            <ul>
+              <li><a href="../corporate-finance-spring-2025/site/index.html">Main course overview</a></li>
+              <li><a href="../corporate-finance-spring-2025/site/course-thesis.html">Long-form course thesis</a></li>
+              <li><a href="../corporate-finance-spring-2025/site/concepts/index.html">Concept atlas</a></li>
+              <li><a href="../corporate-finance-spring-2025/site/evidence.html">Evidence map</a></li>
+              <li><a href="../corporate-finance-spring-2025/site/themes.html">Themes</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Cross-Course Value</h2>
+          <p>The workspace is now in a position to support real comparison work rather than only isolated course summaries.</p>
+        </div>
+        <div class="grid-3">
+          <article class="card">
+            <h3>Recurring Concepts</h3>
+            <p>Risk, valuation, narrative, efficiency, timing, and institutional trust can now be tracked across multiple courses.</p>
+          </article>
+          <article class="card">
+            <h3>Research Reuse</h3>
+            <p>Course pages can support company analysis, sector framing, course building, and broader societal or consumer writeups.</p>
+          </article>
+          <article class="card">
+            <h3>Future Expansion</h3>
+            <p>Additional playlists can be added under the same manifest-driven structure without rebuilding the core workflow.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Comparison Layer</h2>
+          <p>A generated cross-course synthesis layer now exists at the root level.</p>
+        </div>
+        <article class="essay">
+          <h3><a href="root-synthesis-essay.html">What The Active Damodaran Workspace Is Really Showing</a></h3>
+          <p>
+            A root-level long-form essay tying together the societal, cultural,
+            consumer, industrial, and pedagogical patterns now visible across
+            the active courses.
+          </p>
+        </article>
+        <article class="essay" style="margin-top:16px">
+          <h3><a href="sector-and-company-writeup-framework.html">Sector And Company Writeup Framework</a></h3>
+          <p>
+            A reusable guide for turning the root concept, comparison, and
+            synthesis layers into detailed sector writeups, company analyses,
+            and future investment memos.
+          </p>
+        </article>
+        <article class="essay">
+          <h3><a href="cross-course-comparison.html">Recurring Damodaran Ideas Across Courses</a></h3>
+          <p>
+            A generated four-course synthesis layer spanning foundations,
+            investing, corporate finance, and valuation across recurring
+            Damodaran ideas.
+          </p>
+        </article>
+        <article class="essay" style="margin-top:16px">
+          <h3><a href="valuation-audience-comparison.html">Undergraduate Versus MBA Valuation</a></h3>
+          <p>
+            A dedicated comparison page showing how the same valuation logic is
+            taught differently across Damodaran's undergraduate and MBA
+            valuation courses.
+          </p>
+        </article>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Applied Analysis</h2>
+          <p>The root workspace now has first-pass downstream outputs that use the Damodaran concept layer for sector and company analysis.</p>
+        </div>
+        <article class="essay" style="margin-bottom:16px">
+          <h3><a href="applied-analysis.html">Applied Analysis Index</a></h3>
+          <p>
+            A root catalog page for the growing sector and company analysis
+            layer built on top of the workspace's concept and synthesis system.
+          </p>
+        </article>
+        <article class="essay" style="margin-bottom:16px">
+          <h3><a href="applied-evidence.html">Applied Evidence Registry</a></h3>
+          <p>
+            A structured source-trail page showing which root concepts,
+            comparison layers, and course-level materials support each applied
+            brief.
+          </p>
+        </article>
+        <article class="essay">
+          <h3><a href="streaming-platforms-sector-brief.html">Streaming Platforms Sector Brief</a></h3>
+          <p>
+            A first applied sector brief showing how the root synthesis,
+            normalized concepts, and comparison pages can be turned into a real
+            industry reading.
+          </p>
+        </article>
+        <article class="essay" style="margin-top:16px">
+          <h3><a href="netflix-company-brief.html">Netflix Company Brief</a></h3>
+          <p>
+            A first applied company brief showing how the workspace can be used
+            for narrative, reinvestment, life-cycle, and valuation analysis on
+            a real business.
+          </p>
+        </article>
+        <article class="essay" style="margin-top:16px">
+          <h3><a href="enterprise-software-sector-brief.html">Enterprise Software Sector Brief</a></h3>
+          <p>
+            A sector brief on recurring-revenue software economics, retention
+            quality, reinvestment, and the valuation traps hidden inside
+            category prestige.
+          </p>
+        </article>
+        <article class="essay" style="margin-top:16px">
+          <h3><a href="costco-company-brief.html">Costco Company Brief</a></h3>
+          <p>
+            A company brief on membership economics, consumer trust,
+            operational discipline, and how durable quality should be valued.
+          </p>
+        </article>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Normalized Concepts</h2>
+          <p>The root workspace now also has a stable concept registry that maps shared Damodaran ideas across courses.</p>
+        </div>
+        <article class="essay">
+          <h3><a href="normalized-concepts.html">Shared Damodaran Concepts Across Courses</a></h3>
+          <p>
+            A normalized concept layer spanning risk, valuation, discipline,
+            control, trust, and fit, with course-specific variants and direct
+            links into existing course sites.
+          </p>
+        </article>
+        <article class="essay" style="margin-top:16px">
+          <h3><a href="concepts/index.html">Concept Atlas</a></h3>
+          <p>
+            A concept-first navigation layer with root pages for Risk,
+            Valuation, Discipline, Control, Trust and Institutions, and Fit and
+            Constraints.
+          </p>
+        </article>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Recommended Next Work</h2>
+        </div>
+        <article class="essay">
+          <p>
+            The next high-value step is to expand the new applied layer:
+            generate more sector briefs, add more company briefs, and begin
+            tying those outputs back into specific root concepts and course
+            evidence so the workspace becomes a reusable analysis engine rather
+            than only a course-intelligence archive.
+          </p>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>

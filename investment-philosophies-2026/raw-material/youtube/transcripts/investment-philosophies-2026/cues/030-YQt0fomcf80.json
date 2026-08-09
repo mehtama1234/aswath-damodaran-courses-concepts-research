@@ -1,0 +1,5987 @@
+[
+  {
+    "start": "00:00:01.040",
+    "end": "00:00:03.750",
+    "start_seconds": 1.04,
+    "end_seconds": 3.75,
+    "text": "Hi, welcome back."
+  },
+  {
+    "start": "00:00:03.750",
+    "end": "00:00:03.760",
+    "start_seconds": 3.75,
+    "end_seconds": 3.76,
+    "text": "Hi, welcome back."
+  },
+  {
+    "start": "00:00:03.760",
+    "end": "00:00:05.550",
+    "start_seconds": 3.76,
+    "end_seconds": 5.55,
+    "text": "Hi, welcome back. In the first session on arbitrage, I"
+  },
+  {
+    "start": "00:00:05.550",
+    "end": "00:00:05.560",
+    "start_seconds": 5.55,
+    "end_seconds": 5.56,
+    "text": "In the first session on arbitrage, I"
+  },
+  {
+    "start": "00:00:05.560",
+    "end": "00:00:07.430",
+    "start_seconds": 5.56,
+    "end_seconds": 7.43,
+    "text": "In the first session on arbitrage, I talked about the promise of arbitrage,"
+  },
+  {
+    "start": "00:00:07.430",
+    "end": "00:00:07.440",
+    "start_seconds": 7.43,
+    "end_seconds": 7.44,
+    "text": "talked about the promise of arbitrage,"
+  },
+  {
+    "start": "00:00:07.440",
+    "end": "00:00:09.030",
+    "start_seconds": 7.44,
+    "end_seconds": 9.03,
+    "text": "talked about the promise of arbitrage, the fact that you can take no risk,"
+  },
+  {
+    "start": "00:00:09.030",
+    "end": "00:00:09.040",
+    "start_seconds": 9.03,
+    "end_seconds": 9.04,
+    "text": "the fact that you can take no risk,"
+  },
+  {
+    "start": "00:00:09.040",
+    "end": "00:00:10.750",
+    "start_seconds": 9.04,
+    "end_seconds": 10.75,
+    "text": "the fact that you can take no risk, invest no money, and walk away with a"
+  },
+  {
+    "start": "00:00:10.750",
+    "end": "00:00:10.760",
+    "start_seconds": 10.75,
+    "end_seconds": 10.76,
+    "text": "invest no money, and walk away with a"
+  },
+  {
+    "start": "00:00:10.760",
+    "end": "00:00:13.590",
+    "start_seconds": 10.76,
+    "end_seconds": 13.59,
+    "text": "invest no money, and walk away with a sure profit. That's alluring, right? And"
+  },
+  {
+    "start": "00:00:13.590",
+    "end": "00:00:13.600",
+    "start_seconds": 13.59,
+    "end_seconds": 13.6,
+    "text": "sure profit. That's alluring, right? And"
+  },
+  {
+    "start": "00:00:13.600",
+    "end": "00:00:15.910",
+    "start_seconds": 13.6,
+    "end_seconds": 15.91,
+    "text": "sure profit. That's alluring, right? And not surprisingly, people trying to sell"
+  },
+  {
+    "start": "00:00:15.910",
+    "end": "00:00:15.920",
+    "start_seconds": 15.91,
+    "end_seconds": 15.92,
+    "text": "not surprisingly, people trying to sell"
+  },
+  {
+    "start": "00:00:15.920",
+    "end": "00:00:17.710",
+    "start_seconds": 15.92,
+    "end_seconds": 17.71,
+    "text": "not surprisingly, people trying to sell investment strategies have discovered"
+  },
+  {
+    "start": "00:00:17.710",
+    "end": "00:00:17.720",
+    "start_seconds": 17.71,
+    "end_seconds": 17.72,
+    "text": "investment strategies have discovered"
+  },
+  {
+    "start": "00:00:17.720",
+    "end": "00:00:19.950",
+    "start_seconds": 17.72,
+    "end_seconds": 19.95,
+    "text": "investment strategies have discovered that calling it arbitrage makes it more"
+  },
+  {
+    "start": "00:00:19.950",
+    "end": "00:00:19.960",
+    "start_seconds": 19.95,
+    "end_seconds": 19.96,
+    "text": "that calling it arbitrage makes it more"
+  },
+  {
+    "start": "00:00:19.960",
+    "end": "00:00:21.270",
+    "start_seconds": 19.96,
+    "end_seconds": 21.27,
+    "text": "that calling it arbitrage makes it more sellable."
+  },
+  {
+    "start": "00:00:21.270",
+    "end": "00:00:21.280",
+    "start_seconds": 21.27,
+    "end_seconds": 21.28,
+    "text": "sellable."
+  },
+  {
+    "start": "00:00:21.280",
+    "end": "00:00:22.870",
+    "start_seconds": 21.28,
+    "end_seconds": 22.87,
+    "text": "sellable. In this session, I want to talk about"
+  },
+  {
+    "start": "00:00:22.870",
+    "end": "00:00:22.880",
+    "start_seconds": 22.87,
+    "end_seconds": 22.88,
+    "text": "In this session, I want to talk about"
+  },
+  {
+    "start": "00:00:22.880",
+    "end": "00:00:24.870",
+    "start_seconds": 22.88,
+    "end_seconds": 24.87,
+    "text": "In this session, I want to talk about what I call pseudo or speculative"
+  },
+  {
+    "start": "00:00:24.870",
+    "end": "00:00:24.880",
+    "start_seconds": 24.87,
+    "end_seconds": 24.88,
+    "text": "what I call pseudo or speculative"
+  },
+  {
+    "start": "00:00:24.880",
+    "end": "00:00:27.590",
+    "start_seconds": 24.88,
+    "end_seconds": 27.59,
+    "text": "what I call pseudo or speculative arbitrage, which is really not arbitrage"
+  },
+  {
+    "start": "00:00:27.590",
+    "end": "00:00:27.600",
+    "start_seconds": 27.59,
+    "end_seconds": 27.6,
+    "text": "arbitrage, which is really not arbitrage"
+  },
+  {
+    "start": "00:00:27.600",
+    "end": "00:00:29.310",
+    "start_seconds": 27.6,
+    "end_seconds": 29.31,
+    "text": "arbitrage, which is really not arbitrage at all. It's just a risky investment"
+  },
+  {
+    "start": "00:00:29.310",
+    "end": "00:00:29.320",
+    "start_seconds": 29.31,
+    "end_seconds": 29.32,
+    "text": "at all. It's just a risky investment"
+  },
+  {
+    "start": "00:00:29.320",
+    "end": "00:00:30.830",
+    "start_seconds": 29.32,
+    "end_seconds": 30.83,
+    "text": "at all. It's just a risky investment strategy. It doesn't have to be a bad"
+  },
+  {
+    "start": "00:00:30.830",
+    "end": "00:00:30.840",
+    "start_seconds": 30.83,
+    "end_seconds": 30.84,
+    "text": "strategy. It doesn't have to be a bad"
+  },
+  {
+    "start": "00:00:30.840",
+    "end": "00:00:32.630",
+    "start_seconds": 30.84,
+    "end_seconds": 32.63,
+    "text": "strategy. It doesn't have to be a bad one. It could be a good one. But the"
+  },
+  {
+    "start": "00:00:32.630",
+    "end": "00:00:32.640",
+    "start_seconds": 32.63,
+    "end_seconds": 32.64,
+    "text": "one. It could be a good one. But the"
+  },
+  {
+    "start": "00:00:32.640",
+    "end": "00:00:35.150",
+    "start_seconds": 32.64,
+    "end_seconds": 35.15,
+    "text": "one. It could be a good one. But the word arbitrage here doesn't fit because"
+  },
+  {
+    "start": "00:00:35.150",
+    "end": "00:00:35.160",
+    "start_seconds": 35.15,
+    "end_seconds": 35.16,
+    "text": "word arbitrage here doesn't fit because"
+  },
+  {
+    "start": "00:00:35.160",
+    "end": "00:00:37.390",
+    "start_seconds": 35.16,
+    "end_seconds": 37.39,
+    "text": "word arbitrage here doesn't fit because these strategies actually expose their"
+  },
+  {
+    "start": "00:00:37.390",
+    "end": "00:00:37.400",
+    "start_seconds": 37.39,
+    "end_seconds": 37.4,
+    "text": "these strategies actually expose their"
+  },
+  {
+    "start": "00:00:37.400",
+    "end": "00:00:39.710",
+    "start_seconds": 37.4,
+    "end_seconds": 39.71,
+    "text": "these strategies actually expose their investors to lots of risk. So, you're"
+  },
+  {
+    "start": "00:00:39.710",
+    "end": "00:00:39.720",
+    "start_seconds": 39.71,
+    "end_seconds": 39.72,
+    "text": "investors to lots of risk. So, you're"
+  },
+  {
+    "start": "00:00:39.720",
+    "end": "00:00:41.590",
+    "start_seconds": 39.72,
+    "end_seconds": 41.59,
+    "text": "investors to lots of risk. So, you're saying, \"Why would people use the word"
+  },
+  {
+    "start": "00:00:41.590",
+    "end": "00:00:41.600",
+    "start_seconds": 41.59,
+    "end_seconds": 41.6,
+    "text": "saying, \"Why would people use the word"
+  },
+  {
+    "start": "00:00:41.600",
+    "end": "00:00:43.070",
+    "start_seconds": 41.6,
+    "end_seconds": 43.07,
+    "text": "saying, \"Why would people use the word arbitrage to describe them?\" As I"
+  },
+  {
+    "start": "00:00:43.070",
+    "end": "00:00:43.080",
+    "start_seconds": 43.07,
+    "end_seconds": 43.08,
+    "text": "arbitrage to describe them?\" As I"
+  },
+  {
+    "start": "00:00:43.080",
+    "end": "00:00:44.510",
+    "start_seconds": 43.08,
+    "end_seconds": 44.51,
+    "text": "arbitrage to describe them?\" As I mentioned,"
+  },
+  {
+    "start": "00:00:44.510",
+    "end": "00:00:44.520",
+    "start_seconds": 44.51,
+    "end_seconds": 44.52,
+    "text": "mentioned,"
+  },
+  {
+    "start": "00:00:44.520",
+    "end": "00:00:46.630",
+    "start_seconds": 44.52,
+    "end_seconds": 46.63,
+    "text": "mentioned, it's because the people selling these"
+  },
+  {
+    "start": "00:00:46.630",
+    "end": "00:00:46.640",
+    "start_seconds": 46.63,
+    "end_seconds": 46.64,
+    "text": "it's because the people selling these"
+  },
+  {
+    "start": "00:00:46.640",
+    "end": "00:00:48.630",
+    "start_seconds": 46.64,
+    "end_seconds": 48.63,
+    "text": "it's because the people selling these strategies have either deluded"
+  },
+  {
+    "start": "00:00:48.630",
+    "end": "00:00:48.640",
+    "start_seconds": 48.63,
+    "end_seconds": 48.64,
+    "text": "strategies have either deluded"
+  },
+  {
+    "start": "00:00:48.640",
+    "end": "00:00:50.150",
+    "start_seconds": 48.64,
+    "end_seconds": 50.15,
+    "text": "strategies have either deluded themselves into believing these"
+  },
+  {
+    "start": "00:00:50.150",
+    "end": "00:00:50.160",
+    "start_seconds": 50.15,
+    "end_seconds": 50.16,
+    "text": "themselves into believing these"
+  },
+  {
+    "start": "00:00:50.160",
+    "end": "00:00:52.390",
+    "start_seconds": 50.16,
+    "end_seconds": 52.39,
+    "text": "themselves into believing these strategies are riskless, or they've they"
+  },
+  {
+    "start": "00:00:52.390",
+    "end": "00:00:52.400",
+    "start_seconds": 52.39,
+    "end_seconds": 52.4,
+    "text": "strategies are riskless, or they've they"
+  },
+  {
+    "start": "00:00:52.400",
+    "end": "00:00:54.110",
+    "start_seconds": 52.4,
+    "end_seconds": 54.11,
+    "text": "strategies are riskless, or they've they want to delude others into believing"
+  },
+  {
+    "start": "00:00:54.110",
+    "end": "00:00:54.120",
+    "start_seconds": 54.11,
+    "end_seconds": 54.12,
+    "text": "want to delude others into believing"
+  },
+  {
+    "start": "00:00:54.120",
+    "end": "00:00:56.630",
+    "start_seconds": 54.12,
+    "end_seconds": 56.63,
+    "text": "want to delude others into believing they're riskless. The truth is, these"
+  },
+  {
+    "start": "00:00:56.630",
+    "end": "00:00:56.640",
+    "start_seconds": 56.63,
+    "end_seconds": 56.64,
+    "text": "they're riskless. The truth is, these"
+  },
+  {
+    "start": "00:00:56.640",
+    "end": "00:00:58.990",
+    "start_seconds": 56.64,
+    "end_seconds": 58.99,
+    "text": "they're riskless. The truth is, these are risky strategies. Sooner the people"
+  },
+  {
+    "start": "00:00:58.990",
+    "end": "00:00:59.000",
+    "start_seconds": 58.99,
+    "end_seconds": 59.0,
+    "text": "are risky strategies. Sooner the people"
+  },
+  {
+    "start": "00:00:59.000",
+    "end": "00:01:00.870",
+    "start_seconds": 59.0,
+    "end_seconds": 60.87,
+    "text": "are risky strategies. Sooner the people using these strategies accept that, the"
+  },
+  {
+    "start": "00:01:00.870",
+    "end": "00:01:00.880",
+    "start_seconds": 60.87,
+    "end_seconds": 60.88,
+    "text": "using these strategies accept that, the"
+  },
+  {
+    "start": "00:01:00.880",
+    "end": "00:01:03.230",
+    "start_seconds": 60.88,
+    "end_seconds": 63.23,
+    "text": "using these strategies accept that, the healthier their investing will be in"
+  },
+  {
+    "start": "00:01:03.230",
+    "end": "00:01:03.240",
+    "start_seconds": 63.23,
+    "end_seconds": 63.24,
+    "text": "healthier their investing will be in"
+  },
+  {
+    "start": "00:01:03.240",
+    "end": "00:01:04.829",
+    "start_seconds": 63.24,
+    "end_seconds": 64.829,
+    "text": "healthier their investing will be in this space."
+  },
+  {
+    "start": "00:01:04.829",
+    "end": "00:01:04.839",
+    "start_seconds": 64.829,
+    "end_seconds": 64.839,
+    "text": "this space."
+  },
+  {
+    "start": "00:01:04.839",
+    "end": "00:01:07.070",
+    "start_seconds": 64.839,
+    "end_seconds": 67.07,
+    "text": "this space. So, let's look at some examples."
+  },
+  {
+    "start": "00:01:07.070",
+    "end": "00:01:07.080",
+    "start_seconds": 67.07,
+    "end_seconds": 67.08,
+    "text": "So, let's look at some examples."
+  },
+  {
+    "start": "00:01:07.080",
+    "end": "00:01:08.910",
+    "start_seconds": 67.08,
+    "end_seconds": 68.91,
+    "text": "So, let's look at some examples. The first is what's called paired"
+  },
+  {
+    "start": "00:01:08.910",
+    "end": "00:01:08.920",
+    "start_seconds": 68.91,
+    "end_seconds": 68.92,
+    "text": "The first is what's called paired"
+  },
+  {
+    "start": "00:01:08.920",
+    "end": "00:01:10.510",
+    "start_seconds": 68.92,
+    "end_seconds": 70.51,
+    "text": "The first is what's called paired arbitrage."
+  },
+  {
+    "start": "00:01:10.510",
+    "end": "00:01:10.520",
+    "start_seconds": 70.51,
+    "end_seconds": 70.52,
+    "text": "arbitrage."
+  },
+  {
+    "start": "00:01:10.520",
+    "end": "00:01:12.550",
+    "start_seconds": 70.52,
+    "end_seconds": 72.55,
+    "text": "arbitrage. Some of you might have read about"
+  },
+  {
+    "start": "00:01:12.550",
+    "end": "00:01:12.560",
+    "start_seconds": 72.55,
+    "end_seconds": 72.56,
+    "text": "Some of you might have read about"
+  },
+  {
+    "start": "00:01:12.560",
+    "end": "00:01:15.230",
+    "start_seconds": 72.56,
+    "end_seconds": 75.23,
+    "text": "Some of you might have read about Long-Term Capital Management. This is a"
+  },
+  {
+    "start": "00:01:15.230",
+    "end": "00:01:15.240",
+    "start_seconds": 75.23,
+    "end_seconds": 75.24,
+    "text": "Long-Term Capital Management. This is a"
+  },
+  {
+    "start": "00:01:15.240",
+    "end": "00:01:17.270",
+    "start_seconds": 75.24,
+    "end_seconds": 77.27,
+    "text": "Long-Term Capital Management. This is a This is an entity that was created in"
+  },
+  {
+    "start": "00:01:17.270",
+    "end": "00:01:17.280",
+    "start_seconds": 77.27,
+    "end_seconds": 77.28,
+    "text": "This is an entity that was created in"
+  },
+  {
+    "start": "00:01:17.280",
+    "end": "00:01:20.710",
+    "start_seconds": 77.28,
+    "end_seconds": 80.71000000000001,
+    "text": "This is an entity that was created in the 1990s with stellar credentials. John"
+  },
+  {
+    "start": "00:01:20.710",
+    "end": "00:01:20.720",
+    "start_seconds": 80.71000000000001,
+    "end_seconds": 80.72,
+    "text": "the 1990s with stellar credentials. John"
+  },
+  {
+    "start": "00:01:20.720",
+    "end": "00:01:22.710",
+    "start_seconds": 80.72,
+    "end_seconds": 82.71000000000001,
+    "text": "the 1990s with stellar credentials. John Meriwether came from Salomon, where he"
+  },
+  {
+    "start": "00:01:22.710",
+    "end": "00:01:22.720",
+    "start_seconds": 82.71000000000001,
+    "end_seconds": 82.72,
+    "text": "Meriwether came from Salomon, where he"
+  },
+  {
+    "start": "00:01:22.720",
+    "end": "00:01:25.470",
+    "start_seconds": 82.72,
+    "end_seconds": 85.47,
+    "text": "Meriwether came from Salomon, where he built this great fixed income business,"
+  },
+  {
+    "start": "00:01:25.470",
+    "end": "00:01:25.480",
+    "start_seconds": 85.47,
+    "end_seconds": 85.48,
+    "text": "built this great fixed income business,"
+  },
+  {
+    "start": "00:01:25.480",
+    "end": "00:01:27.670",
+    "start_seconds": 85.48,
+    "end_seconds": 87.67,
+    "text": "built this great fixed income business, and he brought in, you know, two Nobel"
+  },
+  {
+    "start": "00:01:27.670",
+    "end": "00:01:27.680",
+    "start_seconds": 87.67,
+    "end_seconds": 87.68,
+    "text": "and he brought in, you know, two Nobel"
+  },
+  {
+    "start": "00:01:27.680",
+    "end": "00:01:30.270",
+    "start_seconds": 87.68,
+    "end_seconds": 90.27,
+    "text": "and he brought in, you know, two Nobel Prize winners, and Bob Merton, and Myron"
+  },
+  {
+    "start": "00:01:30.270",
+    "end": "00:01:30.280",
+    "start_seconds": 90.27,
+    "end_seconds": 90.28,
+    "text": "Prize winners, and Bob Merton, and Myron"
+  },
+  {
+    "start": "00:01:30.280",
+    "end": "00:01:32.510",
+    "start_seconds": 90.28,
+    "end_seconds": 92.50999999999999,
+    "text": "Prize winners, and Bob Merton, and Myron Scholes, and created Long-Term Capital"
+  },
+  {
+    "start": "00:01:32.510",
+    "end": "00:01:32.520",
+    "start_seconds": 92.50999999999999,
+    "end_seconds": 92.52000000000001,
+    "text": "Scholes, and created Long-Term Capital"
+  },
+  {
+    "start": "00:01:32.520",
+    "end": "00:01:34.550",
+    "start_seconds": 92.52000000000001,
+    "end_seconds": 94.55,
+    "text": "Scholes, and created Long-Term Capital Management. The promise was, \"We have"
+  },
+  {
+    "start": "00:01:34.550",
+    "end": "00:01:34.560",
+    "start_seconds": 94.55,
+    "end_seconds": 94.56,
+    "text": "Management. The promise was, \"We have"
+  },
+  {
+    "start": "00:01:34.560",
+    "end": "00:01:37.310",
+    "start_seconds": 94.56,
+    "end_seconds": 97.31,
+    "text": "Management. The promise was, \"We have the smartest people in finance in our"
+  },
+  {
+    "start": "00:01:37.310",
+    "end": "00:01:37.320",
+    "start_seconds": 97.31,
+    "end_seconds": 97.32,
+    "text": "the smartest people in finance in our"
+  },
+  {
+    "start": "00:01:37.320",
+    "end": "00:01:39.390",
+    "start_seconds": 97.32,
+    "end_seconds": 99.39,
+    "text": "the smartest people in finance in our midst, and we're going to find sure"
+  },
+  {
+    "start": "00:01:39.390",
+    "end": "00:01:39.400",
+    "start_seconds": 99.39,
+    "end_seconds": 99.4,
+    "text": "midst, and we're going to find sure"
+  },
+  {
+    "start": "00:01:39.400",
+    "end": "00:01:40.990",
+    "start_seconds": 99.4,
+    "end_seconds": 100.99000000000001,
+    "text": "midst, and we're going to find sure profits to make.\""
+  },
+  {
+    "start": "00:01:40.990",
+    "end": "00:01:41.000",
+    "start_seconds": 100.99000000000001,
+    "end_seconds": 101.0,
+    "text": "profits to make.\""
+  },
+  {
+    "start": "00:01:41.000",
+    "end": "00:01:43.910",
+    "start_seconds": 101.0,
+    "end_seconds": 103.91,
+    "text": "profits to make.\" One of the strategies that they adopted"
+  },
+  {
+    "start": "00:01:43.910",
+    "end": "00:01:43.920",
+    "start_seconds": 103.91,
+    "end_seconds": 103.92,
+    "text": "One of the strategies that they adopted"
+  },
+  {
+    "start": "00:01:43.920",
+    "end": "00:01:45.390",
+    "start_seconds": 103.92,
+    "end_seconds": 105.39,
+    "text": "One of the strategies that they adopted to kind of to allow for the fact that"
+  },
+  {
+    "start": "00:01:45.390",
+    "end": "00:01:45.400",
+    "start_seconds": 105.39,
+    "end_seconds": 105.4,
+    "text": "to kind of to allow for the fact that"
+  },
+  {
+    "start": "00:01:45.400",
+    "end": "00:01:46.590",
+    "start_seconds": 105.4,
+    "end_seconds": 106.59,
+    "text": "to kind of to allow for the fact that they were growing, and a lot of money"
+  },
+  {
+    "start": "00:01:46.590",
+    "end": "00:01:46.600",
+    "start_seconds": 106.59,
+    "end_seconds": 106.6,
+    "text": "they were growing, and a lot of money"
+  },
+  {
+    "start": "00:01:46.600",
+    "end": "00:01:48.270",
+    "start_seconds": 106.6,
+    "end_seconds": 108.27000000000001,
+    "text": "they were growing, and a lot of money was coming in, was paired arbitrage."
+  },
+  {
+    "start": "00:01:48.270",
+    "end": "00:01:48.280",
+    "start_seconds": 108.27000000000001,
+    "end_seconds": 108.28,
+    "text": "was coming in, was paired arbitrage."
+  },
+  {
+    "start": "00:01:48.280",
+    "end": "00:01:49.070",
+    "start_seconds": 108.28,
+    "end_seconds": 109.07,
+    "text": "was coming in, was paired arbitrage. You're saying, \"What's paired"
+  },
+  {
+    "start": "00:01:49.070",
+    "end": "00:01:49.080",
+    "start_seconds": 109.07,
+    "end_seconds": 109.08,
+    "text": "You're saying, \"What's paired"
+  },
+  {
+    "start": "00:01:49.080",
+    "end": "00:01:50.350",
+    "start_seconds": 109.08,
+    "end_seconds": 110.35,
+    "text": "You're saying, \"What's paired arbitrage?\""
+  },
+  {
+    "start": "00:01:50.350",
+    "end": "00:01:50.360",
+    "start_seconds": 110.35,
+    "end_seconds": 110.36,
+    "text": "arbitrage?\""
+  },
+  {
+    "start": "00:01:50.360",
+    "end": "00:01:51.750",
+    "start_seconds": 110.36,
+    "end_seconds": 111.75,
+    "text": "arbitrage?\" You take two stocks that have"
+  },
+  {
+    "start": "00:01:51.750",
+    "end": "00:01:51.760",
+    "start_seconds": 111.75,
+    "end_seconds": 111.75999999999999,
+    "text": "You take two stocks that have"
+  },
+  {
+    "start": "00:01:51.760",
+    "end": "00:01:54.430",
+    "start_seconds": 111.75999999999999,
+    "end_seconds": 114.43,
+    "text": "You take two stocks that have historically moved together."
+  },
+  {
+    "start": "00:01:54.430",
+    "end": "00:01:54.440",
+    "start_seconds": 114.43,
+    "end_seconds": 114.44,
+    "text": "historically moved together."
+  },
+  {
+    "start": "00:01:54.440",
+    "end": "00:01:56.110",
+    "start_seconds": 114.44,
+    "end_seconds": 116.11,
+    "text": "historically moved together. Let's take an example that in the US in"
+  },
+  {
+    "start": "00:01:56.110",
+    "end": "00:01:56.120",
+    "start_seconds": 116.11,
+    "end_seconds": 116.12,
+    "text": "Let's take an example that in the US in"
+  },
+  {
+    "start": "00:01:56.120",
+    "end": "00:01:58.750",
+    "start_seconds": 116.12,
+    "end_seconds": 118.75,
+    "text": "Let's take an example that in the US in the 20th century had resonance."
+  },
+  {
+    "start": "00:01:58.750",
+    "end": "00:01:58.760",
+    "start_seconds": 118.75,
+    "end_seconds": 118.75999999999999,
+    "text": "the 20th century had resonance."
+  },
+  {
+    "start": "00:01:58.760",
+    "end": "00:02:01.910",
+    "start_seconds": 118.75999999999999,
+    "end_seconds": 121.91,
+    "text": "the 20th century had resonance. GM and Ford, the two largest automobile"
+  },
+  {
+    "start": "00:02:01.910",
+    "end": "00:02:01.920",
+    "start_seconds": 121.91,
+    "end_seconds": 121.92,
+    "text": "GM and Ford, the two largest automobile"
+  },
+  {
+    "start": "00:02:01.920",
+    "end": "00:02:03.910",
+    "start_seconds": 121.92,
+    "end_seconds": 123.91,
+    "text": "GM and Ford, the two largest automobile companies in the US for much of the 20th"
+  },
+  {
+    "start": "00:02:03.910",
+    "end": "00:02:03.920",
+    "start_seconds": 123.91,
+    "end_seconds": 123.92,
+    "text": "companies in the US for much of the 20th"
+  },
+  {
+    "start": "00:02:03.920",
+    "end": "00:02:05.070",
+    "start_seconds": 123.92,
+    "end_seconds": 125.07,
+    "text": "companies in the US for much of the 20th century."
+  },
+  {
+    "start": "00:02:05.070",
+    "end": "00:02:05.080",
+    "start_seconds": 125.07,
+    "end_seconds": 125.08,
+    "text": "century."
+  },
+  {
+    "start": "00:02:05.080",
+    "end": "00:02:07.310",
+    "start_seconds": 125.08,
+    "end_seconds": 127.31,
+    "text": "century. And over much of the 20th century, they"
+  },
+  {
+    "start": "00:02:07.310",
+    "end": "00:02:07.320",
+    "start_seconds": 127.31,
+    "end_seconds": 127.32,
+    "text": "And over much of the 20th century, they"
+  },
+  {
+    "start": "00:02:07.320",
+    "end": "00:02:10.109",
+    "start_seconds": 127.32,
+    "end_seconds": 130.109,
+    "text": "And over much of the 20th century, they moved in a in a way that was fairly"
+  },
+  {
+    "start": "00:02:10.109",
+    "end": "00:02:10.119",
+    "start_seconds": 130.109,
+    "end_seconds": 130.119,
+    "text": "moved in a in a way that was fairly"
+  },
+  {
+    "start": "00:02:10.119",
+    "end": "00:02:12.670",
+    "start_seconds": 130.119,
+    "end_seconds": 132.67,
+    "text": "moved in a in a way that was fairly predictable. GM traded at a higher PE"
+  },
+  {
+    "start": "00:02:12.670",
+    "end": "00:02:12.680",
+    "start_seconds": 132.67,
+    "end_seconds": 132.68,
+    "text": "predictable. GM traded at a higher PE"
+  },
+  {
+    "start": "00:02:12.680",
+    "end": "00:02:14.630",
+    "start_seconds": 132.68,
+    "end_seconds": 134.63,
+    "text": "predictable. GM traded at a higher PE ratio than Ford and lots of good reasons"
+  },
+  {
+    "start": "00:02:14.630",
+    "end": "00:02:14.640",
+    "start_seconds": 134.63,
+    "end_seconds": 134.64,
+    "text": "ratio than Ford and lots of good reasons"
+  },
+  {
+    "start": "00:02:14.640",
+    "end": "00:02:15.830",
+    "start_seconds": 134.64,
+    "end_seconds": 135.83,
+    "text": "ratio than Ford and lots of good reasons were given."
+  },
+  {
+    "start": "00:02:15.830",
+    "end": "00:02:15.840",
+    "start_seconds": 135.83,
+    "end_seconds": 135.84,
+    "text": "were given."
+  },
+  {
+    "start": "00:02:15.840",
+    "end": "00:02:18.670",
+    "start_seconds": 135.84,
+    "end_seconds": 138.67000000000002,
+    "text": "were given. But they had a ratio of prices that"
+  },
+  {
+    "start": "00:02:18.670",
+    "end": "00:02:18.680",
+    "start_seconds": 138.67000000000002,
+    "end_seconds": 138.68,
+    "text": "But they had a ratio of prices that"
+  },
+  {
+    "start": "00:02:18.680",
+    "end": "00:02:20.670",
+    "start_seconds": 138.68,
+    "end_seconds": 140.67000000000002,
+    "text": "But they had a ratio of prices that stayed pretty stable over time. So"
+  },
+  {
+    "start": "00:02:20.670",
+    "end": "00:02:20.680",
+    "start_seconds": 140.67000000000002,
+    "end_seconds": 140.68,
+    "text": "stayed pretty stable over time. So"
+  },
+  {
+    "start": "00:02:20.680",
+    "end": "00:02:22.910",
+    "start_seconds": 140.68,
+    "end_seconds": 142.91,
+    "text": "stayed pretty stable over time. So here's how paired arbitrage works."
+  },
+  {
+    "start": "00:02:22.910",
+    "end": "00:02:22.920",
+    "start_seconds": 142.91,
+    "end_seconds": 142.92000000000002,
+    "text": "here's how paired arbitrage works."
+  },
+  {
+    "start": "00:02:22.920",
+    "end": "00:02:24.510",
+    "start_seconds": 142.92000000000002,
+    "end_seconds": 144.51,
+    "text": "here's how paired arbitrage works. You have two stocks that have moved,"
+  },
+  {
+    "start": "00:02:24.510",
+    "end": "00:02:24.520",
+    "start_seconds": 144.51,
+    "end_seconds": 144.52,
+    "text": "You have two stocks that have moved,"
+  },
+  {
+    "start": "00:02:24.520",
+    "end": "00:02:26.430",
+    "start_seconds": 144.52,
+    "end_seconds": 146.43,
+    "text": "You have two stocks that have moved, let's say in a two to one ratio for the"
+  },
+  {
+    "start": "00:02:26.430",
+    "end": "00:02:26.440",
+    "start_seconds": 146.43,
+    "end_seconds": 146.44,
+    "text": "let's say in a two to one ratio for the"
+  },
+  {
+    "start": "00:02:26.440",
+    "end": "00:02:29.830",
+    "start_seconds": 146.44,
+    "end_seconds": 149.82999999999998,
+    "text": "let's say in a two to one ratio for the last so GM trades at twice Ford and it's"
+  },
+  {
+    "start": "00:02:29.830",
+    "end": "00:02:29.840",
+    "start_seconds": 149.82999999999998,
+    "end_seconds": 149.84,
+    "text": "last so GM trades at twice Ford and it's"
+  },
+  {
+    "start": "00:02:29.840",
+    "end": "00:02:32.350",
+    "start_seconds": 149.84,
+    "end_seconds": 152.35,
+    "text": "last so GM trades at twice Ford and it's done it for the last 50 years."
+  },
+  {
+    "start": "00:02:32.350",
+    "end": "00:02:32.360",
+    "start_seconds": 152.35,
+    "end_seconds": 152.36,
+    "text": "done it for the last 50 years."
+  },
+  {
+    "start": "00:02:32.360",
+    "end": "00:02:35.070",
+    "start_seconds": 152.36,
+    "end_seconds": 155.07,
+    "text": "done it for the last 50 years. If GM trades at two and a half times"
+  },
+  {
+    "start": "00:02:35.070",
+    "end": "00:02:35.080",
+    "start_seconds": 155.07,
+    "end_seconds": 155.07999999999998,
+    "text": "If GM trades at two and a half times"
+  },
+  {
+    "start": "00:02:35.080",
+    "end": "00:02:37.390",
+    "start_seconds": 155.07999999999998,
+    "end_seconds": 157.39,
+    "text": "If GM trades at two and a half times Ford today, you argue that GM is"
+  },
+  {
+    "start": "00:02:37.390",
+    "end": "00:02:37.400",
+    "start_seconds": 157.39,
+    "end_seconds": 157.4,
+    "text": "Ford today, you argue that GM is"
+  },
+  {
+    "start": "00:02:37.400",
+    "end": "00:02:39.110",
+    "start_seconds": 157.4,
+    "end_seconds": 159.11,
+    "text": "Ford today, you argue that GM is overvalued relative to Ford and you"
+  },
+  {
+    "start": "00:02:39.110",
+    "end": "00:02:39.120",
+    "start_seconds": 159.11,
+    "end_seconds": 159.12,
+    "text": "overvalued relative to Ford and you"
+  },
+  {
+    "start": "00:02:39.120",
+    "end": "00:02:41.750",
+    "start_seconds": 159.12,
+    "end_seconds": 161.75,
+    "text": "overvalued relative to Ford and you carry through. You buy Ford, you sell GM"
+  },
+  {
+    "start": "00:02:41.750",
+    "end": "00:02:41.760",
+    "start_seconds": 161.75,
+    "end_seconds": 161.76,
+    "text": "carry through. You buy Ford, you sell GM"
+  },
+  {
+    "start": "00:02:41.760",
+    "end": "00:02:43.830",
+    "start_seconds": 161.76,
+    "end_seconds": 163.82999999999998,
+    "text": "carry through. You buy Ford, you sell GM and you hope for convergence."
+  },
+  {
+    "start": "00:02:43.830",
+    "end": "00:02:43.840",
+    "start_seconds": 163.82999999999998,
+    "end_seconds": 163.84,
+    "text": "and you hope for convergence."
+  },
+  {
+    "start": "00:02:43.840",
+    "end": "00:02:45.910",
+    "start_seconds": 163.84,
+    "end_seconds": 165.91,
+    "text": "and you hope for convergence. You can already see paired arbitrage is"
+  },
+  {
+    "start": "00:02:45.910",
+    "end": "00:02:45.920",
+    "start_seconds": 165.91,
+    "end_seconds": 165.92000000000002,
+    "text": "You can already see paired arbitrage is"
+  },
+  {
+    "start": "00:02:45.920",
+    "end": "00:02:49.110",
+    "start_seconds": 165.92000000000002,
+    "end_seconds": 169.11,
+    "text": "You can already see paired arbitrage is ultimately built on mean reversion."
+  },
+  {
+    "start": "00:02:49.110",
+    "end": "00:02:49.120",
+    "start_seconds": 169.11,
+    "end_seconds": 169.12,
+    "text": "ultimately built on mean reversion."
+  },
+  {
+    "start": "00:02:49.120",
+    "end": "00:02:50.990",
+    "start_seconds": 169.12,
+    "end_seconds": 170.99,
+    "text": "ultimately built on mean reversion. Not just in one stock, but in two stocks"
+  },
+  {
+    "start": "00:02:50.990",
+    "end": "00:02:51.000",
+    "start_seconds": 170.99,
+    "end_seconds": 171.0,
+    "text": "Not just in one stock, but in two stocks"
+  },
+  {
+    "start": "00:02:51.000",
+    "end": "00:02:53.470",
+    "start_seconds": 171.0,
+    "end_seconds": 173.47,
+    "text": "Not just in one stock, but in two stocks moving together. And historically, the"
+  },
+  {
+    "start": "00:02:53.470",
+    "end": "00:02:53.480",
+    "start_seconds": 173.47,
+    "end_seconds": 173.48,
+    "text": "moving together. And historically, the"
+  },
+  {
+    "start": "00:02:53.480",
+    "end": "00:02:55.510",
+    "start_seconds": 173.48,
+    "end_seconds": 175.51,
+    "text": "moving together. And historically, the conventional practice is to look at"
+  },
+  {
+    "start": "00:02:55.510",
+    "end": "00:02:55.520",
+    "start_seconds": 175.51,
+    "end_seconds": 175.52,
+    "text": "conventional practice is to look at"
+  },
+  {
+    "start": "00:02:55.520",
+    "end": "00:02:57.710",
+    "start_seconds": 175.52,
+    "end_seconds": 177.71,
+    "text": "conventional practice is to look at stocks that are in the same business"
+  },
+  {
+    "start": "00:02:57.710",
+    "end": "00:02:57.720",
+    "start_seconds": 177.71,
+    "end_seconds": 177.72,
+    "text": "stocks that are in the same business"
+  },
+  {
+    "start": "00:02:57.720",
+    "end": "00:02:59.710",
+    "start_seconds": 177.72,
+    "end_seconds": 179.71,
+    "text": "stocks that are in the same business that have been tied together"
+  },
+  {
+    "start": "00:02:59.710",
+    "end": "00:02:59.720",
+    "start_seconds": 179.71,
+    "end_seconds": 179.72,
+    "text": "that have been tied together"
+  },
+  {
+    "start": "00:02:59.720",
+    "end": "00:03:01.670",
+    "start_seconds": 179.72,
+    "end_seconds": 181.67,
+    "text": "that have been tied together and look at the data to see what that"
+  },
+  {
+    "start": "00:03:01.670",
+    "end": "00:03:01.680",
+    "start_seconds": 181.67,
+    "end_seconds": 181.68,
+    "text": "and look at the data to see what that"
+  },
+  {
+    "start": "00:03:01.680",
+    "end": "00:03:03.229",
+    "start_seconds": 181.68,
+    "end_seconds": 183.229,
+    "text": "and look at the data to see what that pattern is."
+  },
+  {
+    "start": "00:03:03.229",
+    "end": "00:03:03.239",
+    "start_seconds": 183.229,
+    "end_seconds": 183.239,
+    "text": "pattern is."
+  },
+  {
+    "start": "00:03:03.239",
+    "end": "00:03:04.990",
+    "start_seconds": 183.239,
+    "end_seconds": 184.99,
+    "text": "pattern is. Already, you can see that paired"
+  },
+  {
+    "start": "00:03:04.990",
+    "end": "00:03:05.000",
+    "start_seconds": 184.99,
+    "end_seconds": 185.0,
+    "text": "Already, you can see that paired"
+  },
+  {
+    "start": "00:03:05.000",
+    "end": "00:03:06.590",
+    "start_seconds": 185.0,
+    "end_seconds": 186.59,
+    "text": "Already, you can see that paired arbitrage"
+  },
+  {
+    "start": "00:03:06.590",
+    "end": "00:03:06.600",
+    "start_seconds": 186.59,
+    "end_seconds": 186.6,
+    "text": "arbitrage"
+  },
+  {
+    "start": "00:03:06.600",
+    "end": "00:03:08.710",
+    "start_seconds": 186.6,
+    "end_seconds": 188.71,
+    "text": "arbitrage is not a riskless strategy. It has"
+  },
+  {
+    "start": "00:03:08.710",
+    "end": "00:03:08.720",
+    "start_seconds": 188.71,
+    "end_seconds": 188.72,
+    "text": "is not a riskless strategy. It has"
+  },
+  {
+    "start": "00:03:08.720",
+    "end": "00:03:10.710",
+    "start_seconds": 188.72,
+    "end_seconds": 190.71,
+    "text": "is not a riskless strategy. It has worked on average so studies suggest"
+  },
+  {
+    "start": "00:03:10.710",
+    "end": "00:03:10.720",
+    "start_seconds": 190.71,
+    "end_seconds": 190.72,
+    "text": "worked on average so studies suggest"
+  },
+  {
+    "start": "00:03:10.720",
+    "end": "00:03:12.150",
+    "start_seconds": 190.72,
+    "end_seconds": 192.15,
+    "text": "worked on average so studies suggest that it works."
+  },
+  {
+    "start": "00:03:12.150",
+    "end": "00:03:12.160",
+    "start_seconds": 192.15,
+    "end_seconds": 192.16,
+    "text": "that it works."
+  },
+  {
+    "start": "00:03:12.160",
+    "end": "00:03:14.790",
+    "start_seconds": 192.16,
+    "end_seconds": 194.79,
+    "text": "that it works. But the returns you make are relatively"
+  },
+  {
+    "start": "00:03:14.790",
+    "end": "00:03:14.800",
+    "start_seconds": 194.79,
+    "end_seconds": 194.8,
+    "text": "But the returns you make are relatively"
+  },
+  {
+    "start": "00:03:14.800",
+    "end": "00:03:17.949",
+    "start_seconds": 194.8,
+    "end_seconds": 197.949,
+    "text": "But the returns you make are relatively small. Okay? They in fact, in a one"
+  },
+  {
+    "start": "00:03:17.949",
+    "end": "00:03:17.959",
+    "start_seconds": 197.949,
+    "end_seconds": 197.959,
+    "text": "small. Okay? They in fact, in a one"
+  },
+  {
+    "start": "00:03:17.959",
+    "end": "00:03:20.430",
+    "start_seconds": 197.959,
+    "end_seconds": 200.43,
+    "text": "small. Okay? They in fact, in a one study looked at finding a magic partner"
+  },
+  {
+    "start": "00:03:20.430",
+    "end": "00:03:20.440",
+    "start_seconds": 200.43,
+    "end_seconds": 200.44,
+    "text": "study looked at finding a magic partner"
+  },
+  {
+    "start": "00:03:20.440",
+    "end": "00:03:21.990",
+    "start_seconds": 200.44,
+    "end_seconds": 201.99,
+    "text": "study looked at finding a magic partner for each stock just based in the data by"
+  },
+  {
+    "start": "00:03:21.990",
+    "end": "00:03:22.000",
+    "start_seconds": 201.99,
+    "end_seconds": 202.0,
+    "text": "for each stock just based in the data by"
+  },
+  {
+    "start": "00:03:22.000",
+    "end": "00:03:23.550",
+    "start_seconds": 202.0,
+    "end_seconds": 203.55,
+    "text": "for each stock just based in the data by looking at how they move together. They"
+  },
+  {
+    "start": "00:03:23.550",
+    "end": "00:03:23.560",
+    "start_seconds": 203.55,
+    "end_seconds": 203.56,
+    "text": "looking at how they move together. They"
+  },
+  {
+    "start": "00:03:23.560",
+    "end": "00:03:25.790",
+    "start_seconds": 203.56,
+    "end_seconds": 205.79,
+    "text": "looking at how they move together. They paired the stocks with the smallest at"
+  },
+  {
+    "start": "00:03:25.790",
+    "end": "00:03:25.800",
+    "start_seconds": 205.79,
+    "end_seconds": 205.8,
+    "text": "paired the stocks with the smallest at"
+  },
+  {
+    "start": "00:03:25.800",
+    "end": "00:03:27.710",
+    "start_seconds": 205.8,
+    "end_seconds": 207.71,
+    "text": "paired the stocks with the smallest at the highest correlation with each other."
+  },
+  {
+    "start": "00:03:27.710",
+    "end": "00:03:27.720",
+    "start_seconds": 207.71,
+    "end_seconds": 207.72,
+    "text": "the highest correlation with each other."
+  },
+  {
+    "start": "00:03:27.720",
+    "end": "00:03:30.030",
+    "start_seconds": 207.72,
+    "end_seconds": 210.03,
+    "text": "the highest correlation with each other. And over a 15-year period, this strategy"
+  },
+  {
+    "start": "00:03:30.030",
+    "end": "00:03:30.040",
+    "start_seconds": 210.03,
+    "end_seconds": 210.04,
+    "text": "And over a 15-year period, this strategy"
+  },
+  {
+    "start": "00:03:30.040",
+    "end": "00:03:32.949",
+    "start_seconds": 210.04,
+    "end_seconds": 212.949,
+    "text": "And over a 15-year period, this strategy seemed to earn significant returns, an"
+  },
+  {
+    "start": "00:03:32.949",
+    "end": "00:03:32.959",
+    "start_seconds": 212.949,
+    "end_seconds": 212.959,
+    "text": "seemed to earn significant returns, an"
+  },
+  {
+    "start": "00:03:32.959",
+    "end": "00:03:36.070",
+    "start_seconds": 212.959,
+    "end_seconds": 216.07,
+    "text": "seemed to earn significant returns, an excess return of about 6%. Again, not"
+  },
+  {
+    "start": "00:03:36.070",
+    "end": "00:03:36.080",
+    "start_seconds": 216.07,
+    "end_seconds": 216.07999999999998,
+    "text": "excess return of about 6%. Again, not"
+  },
+  {
+    "start": "00:03:36.080",
+    "end": "00:03:38.270",
+    "start_seconds": 216.07999999999998,
+    "end_seconds": 218.27,
+    "text": "excess return of about 6%. Again, not mind-blowing, but well, you know, that's"
+  },
+  {
+    "start": "00:03:38.270",
+    "end": "00:03:38.280",
+    "start_seconds": 218.27,
+    "end_seconds": 218.28,
+    "text": "mind-blowing, but well, you know, that's"
+  },
+  {
+    "start": "00:03:38.280",
+    "end": "00:03:40.270",
+    "start_seconds": 218.28,
+    "end_seconds": 220.27,
+    "text": "mind-blowing, but well, you know, that's still it's you're not going to sneeze at"
+  },
+  {
+    "start": "00:03:40.270",
+    "end": "00:03:40.280",
+    "start_seconds": 220.27,
+    "end_seconds": 220.28,
+    "text": "still it's you're not going to sneeze at"
+  },
+  {
+    "start": "00:03:40.280",
+    "end": "00:03:42.630",
+    "start_seconds": 220.28,
+    "end_seconds": 222.63,
+    "text": "still it's you're not going to sneeze at it. That's a pretty good excess return."
+  },
+  {
+    "start": "00:03:42.630",
+    "end": "00:03:42.640",
+    "start_seconds": 222.63,
+    "end_seconds": 222.64,
+    "text": "it. That's a pretty good excess return."
+  },
+  {
+    "start": "00:03:42.640",
+    "end": "00:03:45.630",
+    "start_seconds": 222.64,
+    "end_seconds": 225.63,
+    "text": "it. That's a pretty good excess return. And so at least on paper, it looked like"
+  },
+  {
+    "start": "00:03:45.630",
+    "end": "00:03:45.640",
+    "start_seconds": 225.63,
+    "end_seconds": 225.64,
+    "text": "And so at least on paper, it looked like"
+  },
+  {
+    "start": "00:03:45.640",
+    "end": "00:03:48.310",
+    "start_seconds": 225.64,
+    "end_seconds": 228.31,
+    "text": "And so at least on paper, it looked like paired stocks strategies work."
+  },
+  {
+    "start": "00:03:48.310",
+    "end": "00:03:48.320",
+    "start_seconds": 228.31,
+    "end_seconds": 228.32,
+    "text": "paired stocks strategies work."
+  },
+  {
+    "start": "00:03:48.320",
+    "end": "00:03:50.030",
+    "start_seconds": 228.32,
+    "end_seconds": 230.03,
+    "text": "paired stocks strategies work. So what can go wrong?"
+  },
+  {
+    "start": "00:03:50.030",
+    "end": "00:03:50.040",
+    "start_seconds": 230.03,
+    "end_seconds": 230.04,
+    "text": "So what can go wrong?"
+  },
+  {
+    "start": "00:03:50.040",
+    "end": "00:03:51.310",
+    "start_seconds": 230.04,
+    "end_seconds": 231.31,
+    "text": "So what can go wrong? First is"
+  },
+  {
+    "start": "00:03:51.310",
+    "end": "00:03:51.320",
+    "start_seconds": 231.31,
+    "end_seconds": 231.32,
+    "text": "First is"
+  },
+  {
+    "start": "00:03:51.320",
+    "end": "00:03:53.310",
+    "start_seconds": 231.32,
+    "end_seconds": 233.31,
+    "text": "First is it is not a riskless strategy. It's"
+  },
+  {
+    "start": "00:03:53.310",
+    "end": "00:03:53.320",
+    "start_seconds": 233.31,
+    "end_seconds": 233.32,
+    "text": "it is not a riskless strategy. It's"
+  },
+  {
+    "start": "00:03:53.320",
+    "end": "00:03:55.270",
+    "start_seconds": 233.32,
+    "end_seconds": 235.27,
+    "text": "it is not a riskless strategy. It's risky because you're building it on mean"
+  },
+  {
+    "start": "00:03:55.270",
+    "end": "00:03:55.280",
+    "start_seconds": 235.27,
+    "end_seconds": 235.28,
+    "text": "risky because you're building it on mean"
+  },
+  {
+    "start": "00:03:55.280",
+    "end": "00:03:57.390",
+    "start_seconds": 235.28,
+    "end_seconds": 237.39,
+    "text": "risky because you're building it on mean reversion and history repeating itself,"
+  },
+  {
+    "start": "00:03:57.390",
+    "end": "00:03:57.400",
+    "start_seconds": 237.39,
+    "end_seconds": 237.4,
+    "text": "reversion and history repeating itself,"
+  },
+  {
+    "start": "00:03:57.400",
+    "end": "00:03:58.950",
+    "start_seconds": 237.4,
+    "end_seconds": 238.95,
+    "text": "reversion and history repeating itself, and history doesn't always repeat"
+  },
+  {
+    "start": "00:03:58.950",
+    "end": "00:03:58.960",
+    "start_seconds": 238.95,
+    "end_seconds": 238.96,
+    "text": "and history doesn't always repeat"
+  },
+  {
+    "start": "00:03:58.960",
+    "end": "00:04:00.670",
+    "start_seconds": 238.96,
+    "end_seconds": 240.67,
+    "text": "and history doesn't always repeat itself. In fact, staying with a"
+  },
+  {
+    "start": "00:04:00.670",
+    "end": "00:04:00.680",
+    "start_seconds": 240.67,
+    "end_seconds": 240.68,
+    "text": "itself. In fact, staying with a"
+  },
+  {
+    "start": "00:04:00.680",
+    "end": "00:04:03.750",
+    "start_seconds": 240.68,
+    "end_seconds": 243.75,
+    "text": "itself. In fact, staying with a long-term capital management story,"
+  },
+  {
+    "start": "00:04:03.750",
+    "end": "00:04:03.760",
+    "start_seconds": 243.75,
+    "end_seconds": 243.76,
+    "text": "long-term capital management story,"
+  },
+  {
+    "start": "00:04:03.760",
+    "end": "00:04:05.510",
+    "start_seconds": 243.76,
+    "end_seconds": 245.51,
+    "text": "long-term capital management story, long-term capital management blew up"
+  },
+  {
+    "start": "00:04:05.510",
+    "end": "00:04:05.520",
+    "start_seconds": 245.51,
+    "end_seconds": 245.52,
+    "text": "long-term capital management blew up"
+  },
+  {
+    "start": "00:04:05.520",
+    "end": "00:04:07.550",
+    "start_seconds": 245.52,
+    "end_seconds": 247.55,
+    "text": "long-term capital management blew up partly because their paired stocks"
+  },
+  {
+    "start": "00:04:07.550",
+    "end": "00:04:07.560",
+    "start_seconds": 247.55,
+    "end_seconds": 247.56,
+    "text": "partly because their paired stocks"
+  },
+  {
+    "start": "00:04:07.560",
+    "end": "00:04:09.470",
+    "start_seconds": 247.56,
+    "end_seconds": 249.47,
+    "text": "partly because their paired stocks strategy blew up. Things that they"
+  },
+  {
+    "start": "00:04:09.470",
+    "end": "00:04:09.480",
+    "start_seconds": 249.47,
+    "end_seconds": 249.48,
+    "text": "strategy blew up. Things that they"
+  },
+  {
+    "start": "00:04:09.480",
+    "end": "00:04:11.030",
+    "start_seconds": 249.48,
+    "end_seconds": 251.03,
+    "text": "strategy blew up. Things that they thought would move together stopped"
+  },
+  {
+    "start": "00:04:11.030",
+    "end": "00:04:11.040",
+    "start_seconds": 251.03,
+    "end_seconds": 251.04,
+    "text": "thought would move together stopped"
+  },
+  {
+    "start": "00:04:11.040",
+    "end": "00:04:12.750",
+    "start_seconds": 251.04,
+    "end_seconds": 252.75,
+    "text": "thought would move together stopped moving together."
+  },
+  {
+    "start": "00:04:12.750",
+    "end": "00:04:12.760",
+    "start_seconds": 252.75,
+    "end_seconds": 252.76,
+    "text": "moving together."
+  },
+  {
+    "start": "00:04:12.760",
+    "end": "00:04:15.750",
+    "start_seconds": 252.76,
+    "end_seconds": 255.75,
+    "text": "moving together. And as as people you know, jumped onto"
+  },
+  {
+    "start": "00:04:15.750",
+    "end": "00:04:15.760",
+    "start_seconds": 255.75,
+    "end_seconds": 255.76,
+    "text": "And as as people you know, jumped onto"
+  },
+  {
+    "start": "00:04:15.760",
+    "end": "00:04:17.430",
+    "start_seconds": 255.76,
+    "end_seconds": 257.43,
+    "text": "And as as people you know, jumped onto the bandwagon and tried the same"
+  },
+  {
+    "start": "00:04:17.430",
+    "end": "00:04:17.440",
+    "start_seconds": 257.43,
+    "end_seconds": 257.44,
+    "text": "the bandwagon and tried the same"
+  },
+  {
+    "start": "00:04:17.440",
+    "end": "00:04:19.630",
+    "start_seconds": 257.44,
+    "end_seconds": 259.63,
+    "text": "the bandwagon and tried the same strategy, trying the it's the profit"
+  },
+  {
+    "start": "00:04:19.630",
+    "end": "00:04:19.640",
+    "start_seconds": 259.63,
+    "end_seconds": 259.64,
+    "text": "strategy, trying the it's the profit"
+  },
+  {
+    "start": "00:04:19.640",
+    "end": "00:04:22.390",
+    "start_seconds": 259.64,
+    "end_seconds": 262.39,
+    "text": "strategy, trying the it's the profit seemed to wear off. So, very quickly,"
+  },
+  {
+    "start": "00:04:22.390",
+    "end": "00:04:22.400",
+    "start_seconds": 262.39,
+    "end_seconds": 262.4,
+    "text": "seemed to wear off. So, very quickly,"
+  },
+  {
+    "start": "00:04:22.400",
+    "end": "00:04:24.150",
+    "start_seconds": 262.4,
+    "end_seconds": 264.15,
+    "text": "seemed to wear off. So, very quickly, you know, the excess returns you saw"
+  },
+  {
+    "start": "00:04:24.150",
+    "end": "00:04:24.160",
+    "start_seconds": 264.15,
+    "end_seconds": 264.16,
+    "text": "you know, the excess returns you saw"
+  },
+  {
+    "start": "00:04:24.160",
+    "end": "00:04:26.270",
+    "start_seconds": 264.16,
+    "end_seconds": 266.27,
+    "text": "you know, the excess returns you saw start to wear off over time."
+  },
+  {
+    "start": "00:04:26.270",
+    "end": "00:04:26.280",
+    "start_seconds": 266.27,
+    "end_seconds": 266.28,
+    "text": "start to wear off over time."
+  },
+  {
+    "start": "00:04:26.280",
+    "end": "00:04:28.790",
+    "start_seconds": 266.28,
+    "end_seconds": 268.79,
+    "text": "start to wear off over time. So, paired stock stocks strategy taking"
+  },
+  {
+    "start": "00:04:28.790",
+    "end": "00:04:28.800",
+    "start_seconds": 268.79,
+    "end_seconds": 268.8,
+    "text": "So, paired stock stocks strategy taking"
+  },
+  {
+    "start": "00:04:28.800",
+    "end": "00:04:30.390",
+    "start_seconds": 268.8,
+    "end_seconds": 270.39,
+    "text": "So, paired stock stocks strategy taking two companies that have historically"
+  },
+  {
+    "start": "00:04:30.390",
+    "end": "00:04:30.400",
+    "start_seconds": 270.39,
+    "end_seconds": 270.4,
+    "text": "two companies that have historically"
+  },
+  {
+    "start": "00:04:30.400",
+    "end": "00:04:32.590",
+    "start_seconds": 270.4,
+    "end_seconds": 272.59000000000003,
+    "text": "two companies that have historically moved together in a ratio that has been"
+  },
+  {
+    "start": "00:04:32.590",
+    "end": "00:04:32.600",
+    "start_seconds": 272.59000000000003,
+    "end_seconds": 272.6,
+    "text": "moved together in a ratio that has been"
+  },
+  {
+    "start": "00:04:32.600",
+    "end": "00:04:33.909",
+    "start_seconds": 272.6,
+    "end_seconds": 273.909,
+    "text": "moved together in a ratio that has been predictable,"
+  },
+  {
+    "start": "00:04:33.909",
+    "end": "00:04:33.919",
+    "start_seconds": 273.909,
+    "end_seconds": 273.919,
+    "text": "predictable,"
+  },
+  {
+    "start": "00:04:33.919",
+    "end": "00:04:36.350",
+    "start_seconds": 273.919,
+    "end_seconds": 276.35,
+    "text": "predictable, and you've tried to take advantage of it"
+  },
+  {
+    "start": "00:04:36.350",
+    "end": "00:04:36.360",
+    "start_seconds": 276.35,
+    "end_seconds": 276.36,
+    "text": "and you've tried to take advantage of it"
+  },
+  {
+    "start": "00:04:36.360",
+    "end": "00:04:39.350",
+    "start_seconds": 276.36,
+    "end_seconds": 279.35,
+    "text": "and you've tried to take advantage of it when that when the actual ratio deviates"
+  },
+  {
+    "start": "00:04:39.350",
+    "end": "00:04:39.360",
+    "start_seconds": 279.35,
+    "end_seconds": 279.36,
+    "text": "when that when the actual ratio deviates"
+  },
+  {
+    "start": "00:04:39.360",
+    "end": "00:04:41.630",
+    "start_seconds": 279.36,
+    "end_seconds": 281.63,
+    "text": "when that when the actual ratio deviates from that predictable ratio. But, you're"
+  },
+  {
+    "start": "00:04:41.630",
+    "end": "00:04:41.640",
+    "start_seconds": 281.63,
+    "end_seconds": 281.64,
+    "text": "from that predictable ratio. But, you're"
+  },
+  {
+    "start": "00:04:41.640",
+    "end": "00:04:43.750",
+    "start_seconds": 281.64,
+    "end_seconds": 283.75,
+    "text": "from that predictable ratio. But, you're built on mean reversion, and that stops"
+  },
+  {
+    "start": "00:04:43.750",
+    "end": "00:04:43.760",
+    "start_seconds": 283.75,
+    "end_seconds": 283.76,
+    "text": "built on mean reversion, and that stops"
+  },
+  {
+    "start": "00:04:43.760",
+    "end": "00:04:46.750",
+    "start_seconds": 283.76,
+    "end_seconds": 286.75,
+    "text": "built on mean reversion, and that stops working, you're going to lose money."
+  },
+  {
+    "start": "00:04:46.750",
+    "end": "00:04:46.760",
+    "start_seconds": 286.75,
+    "end_seconds": 286.76,
+    "text": "working, you're going to lose money."
+  },
+  {
+    "start": "00:04:46.760",
+    "end": "00:04:48.750",
+    "start_seconds": 286.76,
+    "end_seconds": 288.75,
+    "text": "working, you're going to lose money. Let's move on to merger arbitrage."
+  },
+  {
+    "start": "00:04:48.750",
+    "end": "00:04:48.760",
+    "start_seconds": 288.75,
+    "end_seconds": 288.76,
+    "text": "Let's move on to merger arbitrage."
+  },
+  {
+    "start": "00:04:48.760",
+    "end": "00:04:51.150",
+    "start_seconds": 288.76,
+    "end_seconds": 291.15,
+    "text": "Let's move on to merger arbitrage. Again, a massive misuse of the word"
+  },
+  {
+    "start": "00:04:51.150",
+    "end": "00:04:51.160",
+    "start_seconds": 291.15,
+    "end_seconds": 291.15999999999997,
+    "text": "Again, a massive misuse of the word"
+  },
+  {
+    "start": "00:04:51.160",
+    "end": "00:04:54.150",
+    "start_seconds": 291.15999999999997,
+    "end_seconds": 294.15,
+    "text": "Again, a massive misuse of the word arbitrage. What's merger arbitrage?"
+  },
+  {
+    "start": "00:04:54.150",
+    "end": "00:04:54.160",
+    "start_seconds": 294.15,
+    "end_seconds": 294.15999999999997,
+    "text": "arbitrage. What's merger arbitrage?"
+  },
+  {
+    "start": "00:04:54.160",
+    "end": "00:04:55.710",
+    "start_seconds": 294.15999999999997,
+    "end_seconds": 295.71,
+    "text": "arbitrage. What's merger arbitrage? Earlier in the session, we looked at"
+  },
+  {
+    "start": "00:04:55.710",
+    "end": "00:04:55.720",
+    "start_seconds": 295.71,
+    "end_seconds": 295.72,
+    "text": "Earlier in the session, we looked at"
+  },
+  {
+    "start": "00:04:55.720",
+    "end": "00:04:57.510",
+    "start_seconds": 295.72,
+    "end_seconds": 297.51,
+    "text": "Earlier in the session, we looked at what happens around acquisitions, right?"
+  },
+  {
+    "start": "00:04:57.510",
+    "end": "00:04:57.520",
+    "start_seconds": 297.51,
+    "end_seconds": 297.52,
+    "text": "what happens around acquisitions, right?"
+  },
+  {
+    "start": "00:04:57.520",
+    "end": "00:04:58.750",
+    "start_seconds": 297.52,
+    "end_seconds": 298.75,
+    "text": "what happens around acquisitions, right? There's a target company, there's an"
+  },
+  {
+    "start": "00:04:58.750",
+    "end": "00:04:58.760",
+    "start_seconds": 298.75,
+    "end_seconds": 298.76,
+    "text": "There's a target company, there's an"
+  },
+  {
+    "start": "00:04:58.760",
+    "end": "00:05:01.030",
+    "start_seconds": 298.76,
+    "end_seconds": 301.03,
+    "text": "There's a target company, there's an acquiring company. The acquiring company"
+  },
+  {
+    "start": "00:05:01.030",
+    "end": "00:05:01.040",
+    "start_seconds": 301.03,
+    "end_seconds": 301.04,
+    "text": "acquiring company. The acquiring company"
+  },
+  {
+    "start": "00:05:01.040",
+    "end": "00:05:04.350",
+    "start_seconds": 301.04,
+    "end_seconds": 304.35,
+    "text": "acquiring company. The acquiring company comes in and makes its acquisition bid,"
+  },
+  {
+    "start": "00:05:04.350",
+    "end": "00:05:04.360",
+    "start_seconds": 304.35,
+    "end_seconds": 304.36,
+    "text": "comes in and makes its acquisition bid,"
+  },
+  {
+    "start": "00:05:04.360",
+    "end": "00:05:06.909",
+    "start_seconds": 304.36,
+    "end_seconds": 306.909,
+    "text": "comes in and makes its acquisition bid, and the target company stock price jumps"
+  },
+  {
+    "start": "00:05:06.909",
+    "end": "00:05:06.919",
+    "start_seconds": 306.909,
+    "end_seconds": 306.919,
+    "text": "and the target company stock price jumps"
+  },
+  {
+    "start": "00:05:06.919",
+    "end": "00:05:09.030",
+    "start_seconds": 306.919,
+    "end_seconds": 309.03,
+    "text": "and the target company stock price jumps on the announcement. But, it turns out"
+  },
+  {
+    "start": "00:05:09.030",
+    "end": "00:05:09.040",
+    "start_seconds": 309.03,
+    "end_seconds": 309.04,
+    "text": "on the announcement. But, it turns out"
+  },
+  {
+    "start": "00:05:09.040",
+    "end": "00:05:11.470",
+    "start_seconds": 309.04,
+    "end_seconds": 311.47,
+    "text": "on the announcement. But, it turns out it doesn't jump all the way up to the"
+  },
+  {
+    "start": "00:05:11.470",
+    "end": "00:05:11.480",
+    "start_seconds": 311.47,
+    "end_seconds": 311.48,
+    "text": "it doesn't jump all the way up to the"
+  },
+  {
+    "start": "00:05:11.480",
+    "end": "00:05:13.230",
+    "start_seconds": 311.48,
+    "end_seconds": 313.23,
+    "text": "it doesn't jump all the way up to the price that the acquiring company is"
+  },
+  {
+    "start": "00:05:13.230",
+    "end": "00:05:13.240",
+    "start_seconds": 313.23,
+    "end_seconds": 313.24,
+    "text": "price that the acquiring company is"
+  },
+  {
+    "start": "00:05:13.240",
+    "end": "00:05:15.190",
+    "start_seconds": 313.24,
+    "end_seconds": 315.19,
+    "text": "price that the acquiring company is offering. So, when an acquiring company"
+  },
+  {
+    "start": "00:05:15.190",
+    "end": "00:05:15.200",
+    "start_seconds": 315.19,
+    "end_seconds": 315.2,
+    "text": "offering. So, when an acquiring company"
+  },
+  {
+    "start": "00:05:15.200",
+    "end": "00:05:17.190",
+    "start_seconds": 315.2,
+    "end_seconds": 317.19,
+    "text": "offering. So, when an acquiring company offers a $50 price, the target company"
+  },
+  {
+    "start": "00:05:17.190",
+    "end": "00:05:17.200",
+    "start_seconds": 317.19,
+    "end_seconds": 317.2,
+    "text": "offers a $50 price, the target company"
+  },
+  {
+    "start": "00:05:17.200",
+    "end": "00:05:19.909",
+    "start_seconds": 317.2,
+    "end_seconds": 319.909,
+    "text": "offers a $50 price, the target company will often go to 46 or 47, not all the"
+  },
+  {
+    "start": "00:05:19.909",
+    "end": "00:05:19.919",
+    "start_seconds": 319.909,
+    "end_seconds": 319.919,
+    "text": "will often go to 46 or 47, not all the"
+  },
+  {
+    "start": "00:05:19.919",
+    "end": "00:05:22.950",
+    "start_seconds": 319.919,
+    "end_seconds": 322.95,
+    "text": "will often go to 46 or 47, not all the way to 50. Why? Because there's a chance"
+  },
+  {
+    "start": "00:05:22.950",
+    "end": "00:05:22.960",
+    "start_seconds": 322.95,
+    "end_seconds": 322.96,
+    "text": "way to 50. Why? Because there's a chance"
+  },
+  {
+    "start": "00:05:22.960",
+    "end": "00:05:25.870",
+    "start_seconds": 322.96,
+    "end_seconds": 325.87,
+    "text": "way to 50. Why? Because there's a chance that the merger might not work, and"
+  },
+  {
+    "start": "00:05:25.870",
+    "end": "00:05:25.880",
+    "start_seconds": 325.87,
+    "end_seconds": 325.88,
+    "text": "that the merger might not work, and"
+  },
+  {
+    "start": "00:05:25.880",
+    "end": "00:05:27.750",
+    "start_seconds": 325.88,
+    "end_seconds": 327.75,
+    "text": "that the merger might not work, and investors hold back."
+  },
+  {
+    "start": "00:05:27.750",
+    "end": "00:05:27.760",
+    "start_seconds": 327.75,
+    "end_seconds": 327.76,
+    "text": "investors hold back."
+  },
+  {
+    "start": "00:05:27.760",
+    "end": "00:05:31.510",
+    "start_seconds": 327.76,
+    "end_seconds": 331.51,
+    "text": "investors hold back. Merger arbitrage is built on that fact."
+  },
+  {
+    "start": "00:05:31.510",
+    "end": "00:05:31.520",
+    "start_seconds": 331.51,
+    "end_seconds": 331.52,
+    "text": "Merger arbitrage is built on that fact."
+  },
+  {
+    "start": "00:05:31.520",
+    "end": "00:05:33.350",
+    "start_seconds": 331.52,
+    "end_seconds": 333.35,
+    "text": "Merger arbitrage is built on that fact. That there's a drift between what"
+  },
+  {
+    "start": "00:05:33.350",
+    "end": "00:05:33.360",
+    "start_seconds": 333.35,
+    "end_seconds": 333.36,
+    "text": "That there's a drift between what"
+  },
+  {
+    "start": "00:05:33.360",
+    "end": "00:05:35.030",
+    "start_seconds": 333.36,
+    "end_seconds": 335.03,
+    "text": "That there's a drift between what happens right after the announcement and"
+  },
+  {
+    "start": "00:05:35.030",
+    "end": "00:05:35.040",
+    "start_seconds": 335.03,
+    "end_seconds": 335.04,
+    "text": "happens right after the announcement and"
+  },
+  {
+    "start": "00:05:35.040",
+    "end": "00:05:37.350",
+    "start_seconds": 335.04,
+    "end_seconds": 337.35,
+    "text": "happens right after the announcement and the eventual price. You're still making"
+  },
+  {
+    "start": "00:05:37.350",
+    "end": "00:05:37.360",
+    "start_seconds": 337.35,
+    "end_seconds": 337.36,
+    "text": "the eventual price. You're still making"
+  },
+  {
+    "start": "00:05:37.360",
+    "end": "00:05:39.510",
+    "start_seconds": 337.36,
+    "end_seconds": 339.51,
+    "text": "the eventual price. You're still making a bet that the merger will succeed. And"
+  },
+  {
+    "start": "00:05:39.510",
+    "end": "00:05:39.520",
+    "start_seconds": 339.51,
+    "end_seconds": 339.52,
+    "text": "a bet that the merger will succeed. And"
+  },
+  {
+    "start": "00:05:39.520",
+    "end": "00:05:41.390",
+    "start_seconds": 339.52,
+    "end_seconds": 341.39,
+    "text": "a bet that the merger will succeed. And if you're good about picking the mergers"
+  },
+  {
+    "start": "00:05:41.390",
+    "end": "00:05:41.400",
+    "start_seconds": 341.39,
+    "end_seconds": 341.4,
+    "text": "if you're good about picking the mergers"
+  },
+  {
+    "start": "00:05:41.400",
+    "end": "00:05:44.110",
+    "start_seconds": 341.4,
+    "end_seconds": 344.11,
+    "text": "if you're good about picking the mergers that you know are going to succeed, then"
+  },
+  {
+    "start": "00:05:44.110",
+    "end": "00:05:44.120",
+    "start_seconds": 344.11,
+    "end_seconds": 344.12,
+    "text": "that you know are going to succeed, then"
+  },
+  {
+    "start": "00:05:44.120",
+    "end": "00:05:45.870",
+    "start_seconds": 344.12,
+    "end_seconds": 345.87,
+    "text": "that you know are going to succeed, then you will make money as the stock goes"
+  },
+  {
+    "start": "00:05:45.870",
+    "end": "00:05:45.880",
+    "start_seconds": 345.87,
+    "end_seconds": 345.88,
+    "text": "you will make money as the stock goes"
+  },
+  {
+    "start": "00:05:45.880",
+    "end": "00:05:48.110",
+    "start_seconds": 345.88,
+    "end_seconds": 348.11,
+    "text": "you will make money as the stock goes from 47 to 50, the target company's"
+  },
+  {
+    "start": "00:05:48.110",
+    "end": "00:05:48.120",
+    "start_seconds": 348.11,
+    "end_seconds": 348.12,
+    "text": "from 47 to 50, the target company's"
+  },
+  {
+    "start": "00:05:48.120",
+    "end": "00:05:49.510",
+    "start_seconds": 348.12,
+    "end_seconds": 349.51,
+    "text": "from 47 to 50, the target company's stock price."
+  },
+  {
+    "start": "00:05:49.510",
+    "end": "00:05:49.520",
+    "start_seconds": 349.51,
+    "end_seconds": 349.52,
+    "text": "stock price."
+  },
+  {
+    "start": "00:05:49.520",
+    "end": "00:05:51.590",
+    "start_seconds": 349.52,
+    "end_seconds": 351.59000000000003,
+    "text": "stock price. In a more sophisticated variant where"
+  },
+  {
+    "start": "00:05:51.590",
+    "end": "00:05:51.600",
+    "start_seconds": 351.59000000000003,
+    "end_seconds": 351.6,
+    "text": "In a more sophisticated variant where"
+  },
+  {
+    "start": "00:05:51.600",
+    "end": "00:05:53.350",
+    "start_seconds": 351.6,
+    "end_seconds": 353.35,
+    "text": "In a more sophisticated variant where you have share exchanges, where you have"
+  },
+  {
+    "start": "00:05:53.350",
+    "end": "00:05:53.360",
+    "start_seconds": 353.35,
+    "end_seconds": 353.36,
+    "text": "you have share exchanges, where you have"
+  },
+  {
+    "start": "00:05:53.360",
+    "end": "00:05:55.390",
+    "start_seconds": 353.36,
+    "end_seconds": 355.39,
+    "text": "you have share exchanges, where you have the acquiring company and the target"
+  },
+  {
+    "start": "00:05:55.390",
+    "end": "00:05:55.400",
+    "start_seconds": 355.39,
+    "end_seconds": 355.4,
+    "text": "the acquiring company and the target"
+  },
+  {
+    "start": "00:05:55.400",
+    "end": "00:05:57.110",
+    "start_seconds": 355.4,
+    "end_seconds": 357.11,
+    "text": "the acquiring company and the target company shares come into play because"
+  },
+  {
+    "start": "00:05:57.110",
+    "end": "00:05:57.120",
+    "start_seconds": 357.11,
+    "end_seconds": 357.12,
+    "text": "company shares come into play because"
+  },
+  {
+    "start": "00:05:57.120",
+    "end": "00:05:58.550",
+    "start_seconds": 357.12,
+    "end_seconds": 358.55,
+    "text": "company shares come into play because two shares of the acquiring company"
+  },
+  {
+    "start": "00:05:58.550",
+    "end": "00:05:58.560",
+    "start_seconds": 358.55,
+    "end_seconds": 358.56,
+    "text": "two shares of the acquiring company"
+  },
+  {
+    "start": "00:05:58.560",
+    "end": "00:06:01.150",
+    "start_seconds": 358.56,
+    "end_seconds": 361.15,
+    "text": "two shares of the acquiring company going to go pay for a share, merger"
+  },
+  {
+    "start": "00:06:01.150",
+    "end": "00:06:01.160",
+    "start_seconds": 361.15,
+    "end_seconds": 361.16,
+    "text": "going to go pay for a share, merger"
+  },
+  {
+    "start": "00:06:01.160",
+    "end": "00:06:03.070",
+    "start_seconds": 361.16,
+    "end_seconds": 363.07,
+    "text": "going to go pay for a share, merger arbitrage, you might buy shares in both"
+  },
+  {
+    "start": "00:06:03.070",
+    "end": "00:06:03.080",
+    "start_seconds": 363.07,
+    "end_seconds": 363.08,
+    "text": "arbitrage, you might buy shares in both"
+  },
+  {
+    "start": "00:06:03.080",
+    "end": "00:06:04.910",
+    "start_seconds": 363.08,
+    "end_seconds": 364.91,
+    "text": "arbitrage, you might buy shares in both companies and try to take advantage of"
+  },
+  {
+    "start": "00:06:04.910",
+    "end": "00:06:04.920",
+    "start_seconds": 364.91,
+    "end_seconds": 364.92,
+    "text": "companies and try to take advantage of"
+  },
+  {
+    "start": "00:06:04.920",
+    "end": "00:06:07.550",
+    "start_seconds": 364.92,
+    "end_seconds": 367.55,
+    "text": "companies and try to take advantage of the combined value going up"
+  },
+  {
+    "start": "00:06:07.550",
+    "end": "00:06:07.560",
+    "start_seconds": 367.55,
+    "end_seconds": 367.56,
+    "text": "the combined value going up"
+  },
+  {
+    "start": "00:06:07.560",
+    "end": "00:06:09.230",
+    "start_seconds": 367.56,
+    "end_seconds": 369.23,
+    "text": "the combined value going up as the uncertainty about the merger"
+  },
+  {
+    "start": "00:06:09.230",
+    "end": "00:06:09.240",
+    "start_seconds": 369.23,
+    "end_seconds": 369.24,
+    "text": "as the uncertainty about the merger"
+  },
+  {
+    "start": "00:06:09.240",
+    "end": "00:06:11.390",
+    "start_seconds": 369.24,
+    "end_seconds": 371.39,
+    "text": "as the uncertainty about the merger disappears. But ultimately, merger"
+  },
+  {
+    "start": "00:06:11.390",
+    "end": "00:06:11.400",
+    "start_seconds": 371.39,
+    "end_seconds": 371.4,
+    "text": "disappears. But ultimately, merger"
+  },
+  {
+    "start": "00:06:11.400",
+    "end": "00:06:15.390",
+    "start_seconds": 371.4,
+    "end_seconds": 375.39,
+    "text": "disappears. But ultimately, merger arbitrage is a bet on mergers being"
+  },
+  {
+    "start": "00:06:15.390",
+    "end": "00:06:15.400",
+    "start_seconds": 375.39,
+    "end_seconds": 375.4,
+    "text": "arbitrage is a bet on mergers being"
+  },
+  {
+    "start": "00:06:15.400",
+    "end": "00:06:16.990",
+    "start_seconds": 375.4,
+    "end_seconds": 376.99,
+    "text": "arbitrage is a bet on mergers being consummated."
+  },
+  {
+    "start": "00:06:16.990",
+    "end": "00:06:17.000",
+    "start_seconds": 376.99,
+    "end_seconds": 377.0,
+    "text": "consummated."
+  },
+  {
+    "start": "00:06:17.000",
+    "end": "00:06:19.190",
+    "start_seconds": 377.0,
+    "end_seconds": 379.19,
+    "text": "consummated. Again, if you look at studies,"
+  },
+  {
+    "start": "00:06:19.190",
+    "end": "00:06:19.200",
+    "start_seconds": 379.19,
+    "end_seconds": 379.2,
+    "text": "Again, if you look at studies,"
+  },
+  {
+    "start": "00:06:19.200",
+    "end": "00:06:22.110",
+    "start_seconds": 379.2,
+    "end_seconds": 382.11,
+    "text": "Again, if you look at studies, one study looked at 4,750 mergers and"
+  },
+  {
+    "start": "00:06:22.110",
+    "end": "00:06:22.120",
+    "start_seconds": 382.11,
+    "end_seconds": 382.12,
+    "text": "one study looked at 4,750 mergers and"
+  },
+  {
+    "start": "00:06:22.120",
+    "end": "00:06:24.110",
+    "start_seconds": 382.12,
+    "end_seconds": 384.11,
+    "text": "one study looked at 4,750 mergers and concluded that merger arbitrage"
+  },
+  {
+    "start": "00:06:24.110",
+    "end": "00:06:24.120",
+    "start_seconds": 384.11,
+    "end_seconds": 384.12,
+    "text": "concluded that merger arbitrage"
+  },
+  {
+    "start": "00:06:24.120",
+    "end": "00:06:25.990",
+    "start_seconds": 384.12,
+    "end_seconds": 385.99,
+    "text": "concluded that merger arbitrage generated returns. So basically, on"
+  },
+  {
+    "start": "00:06:25.990",
+    "end": "00:06:26.000",
+    "start_seconds": 385.99,
+    "end_seconds": 386.0,
+    "text": "generated returns. So basically, on"
+  },
+  {
+    "start": "00:06:26.000",
+    "end": "00:06:28.390",
+    "start_seconds": 386.0,
+    "end_seconds": 388.39,
+    "text": "generated returns. So basically, on these mergers, they looked at what would"
+  },
+  {
+    "start": "00:06:28.390",
+    "end": "00:06:28.400",
+    "start_seconds": 388.39,
+    "end_seconds": 388.4,
+    "text": "these mergers, they looked at what would"
+  },
+  {
+    "start": "00:06:28.400",
+    "end": "00:06:30.710",
+    "start_seconds": 388.4,
+    "end_seconds": 390.71,
+    "text": "these mergers, they looked at what would happen if you bought the target company"
+  },
+  {
+    "start": "00:06:30.710",
+    "end": "00:06:30.720",
+    "start_seconds": 390.71,
+    "end_seconds": 390.72,
+    "text": "happen if you bought the target company"
+  },
+  {
+    "start": "00:06:30.720",
+    "end": "00:06:33.430",
+    "start_seconds": 390.72,
+    "end_seconds": 393.43,
+    "text": "happen if you bought the target company at the the price right right after the"
+  },
+  {
+    "start": "00:06:33.430",
+    "end": "00:06:33.440",
+    "start_seconds": 393.43,
+    "end_seconds": 393.44,
+    "text": "at the the price right right after the"
+  },
+  {
+    "start": "00:06:33.440",
+    "end": "00:06:35.630",
+    "start_seconds": 393.44,
+    "end_seconds": 395.63,
+    "text": "at the the price right right after the acquisition announcement and waited and"
+  },
+  {
+    "start": "00:06:35.630",
+    "end": "00:06:35.640",
+    "start_seconds": 395.63,
+    "end_seconds": 395.64,
+    "text": "acquisition announcement and waited and"
+  },
+  {
+    "start": "00:06:35.640",
+    "end": "00:06:37.790",
+    "start_seconds": 395.64,
+    "end_seconds": 397.79,
+    "text": "acquisition announcement and waited and collected. They said, \"Even allowing for"
+  },
+  {
+    "start": "00:06:37.790",
+    "end": "00:06:37.800",
+    "start_seconds": 397.79,
+    "end_seconds": 397.8,
+    "text": "collected. They said, \"Even allowing for"
+  },
+  {
+    "start": "00:06:37.800",
+    "end": "00:06:41.310",
+    "start_seconds": 397.8,
+    "end_seconds": 401.31,
+    "text": "collected. They said, \"Even allowing for failures, you make a 9.25% return over"
+  },
+  {
+    "start": "00:06:41.310",
+    "end": "00:06:41.320",
+    "start_seconds": 401.31,
+    "end_seconds": 401.32,
+    "text": "failures, you make a 9.25% return over"
+  },
+  {
+    "start": "00:06:41.320",
+    "end": "00:06:43.150",
+    "start_seconds": 401.32,
+    "end_seconds": 403.15,
+    "text": "failures, you make a 9.25% return over and above what you need to.\""
+  },
+  {
+    "start": "00:06:43.150",
+    "end": "00:06:43.160",
+    "start_seconds": 403.15,
+    "end_seconds": 403.15999999999997,
+    "text": "and above what you need to.\""
+  },
+  {
+    "start": "00:06:43.160",
+    "end": "00:06:45.470",
+    "start_seconds": 403.15999999999997,
+    "end_seconds": 405.47,
+    "text": "and above what you need to.\" But if you bring in the effect of"
+  },
+  {
+    "start": "00:06:45.470",
+    "end": "00:06:45.480",
+    "start_seconds": 405.47,
+    "end_seconds": 405.48,
+    "text": "But if you bring in the effect of"
+  },
+  {
+    "start": "00:06:45.480",
+    "end": "00:06:47.270",
+    "start_seconds": 405.48,
+    "end_seconds": 407.27,
+    "text": "But if you bring in the effect of transactions causing the price impact,"
+  },
+  {
+    "start": "00:06:47.270",
+    "end": "00:06:47.280",
+    "start_seconds": 407.27,
+    "end_seconds": 407.28,
+    "text": "transactions causing the price impact,"
+  },
+  {
+    "start": "00:06:47.280",
+    "end": "00:06:48.909",
+    "start_seconds": 407.28,
+    "end_seconds": 408.909,
+    "text": "transactions causing the price impact, you have about 2/3 of those returns"
+  },
+  {
+    "start": "00:06:48.909",
+    "end": "00:06:48.919",
+    "start_seconds": 408.909,
+    "end_seconds": 408.919,
+    "text": "you have about 2/3 of those returns"
+  },
+  {
+    "start": "00:06:48.919",
+    "end": "00:06:50.590",
+    "start_seconds": 408.919,
+    "end_seconds": 410.59000000000003,
+    "text": "you have about 2/3 of those returns disappear. So it's a pretty modest"
+  },
+  {
+    "start": "00:06:50.590",
+    "end": "00:06:50.600",
+    "start_seconds": 410.59000000000003,
+    "end_seconds": 410.6,
+    "text": "disappear. So it's a pretty modest"
+  },
+  {
+    "start": "00:06:50.600",
+    "end": "00:06:52.430",
+    "start_seconds": 410.6,
+    "end_seconds": 412.43,
+    "text": "disappear. So it's a pretty modest excess return."
+  },
+  {
+    "start": "00:06:52.430",
+    "end": "00:06:52.440",
+    "start_seconds": 412.43,
+    "end_seconds": 412.44,
+    "text": "excess return."
+  },
+  {
+    "start": "00:06:52.440",
+    "end": "00:06:54.230",
+    "start_seconds": 412.44,
+    "end_seconds": 414.23,
+    "text": "excess return. But here's the bigger problem. When"
+  },
+  {
+    "start": "00:06:54.230",
+    "end": "00:06:54.240",
+    "start_seconds": 414.23,
+    "end_seconds": 414.24,
+    "text": "But here's the bigger problem. When"
+  },
+  {
+    "start": "00:06:54.240",
+    "end": "00:06:56.630",
+    "start_seconds": 414.24,
+    "end_seconds": 416.63,
+    "text": "But here's the bigger problem. When there's a failure, a merger falls apart,"
+  },
+  {
+    "start": "00:06:56.630",
+    "end": "00:06:56.640",
+    "start_seconds": 416.63,
+    "end_seconds": 416.64,
+    "text": "there's a failure, a merger falls apart,"
+  },
+  {
+    "start": "00:06:56.640",
+    "end": "00:06:58.390",
+    "start_seconds": 416.64,
+    "end_seconds": 418.39,
+    "text": "there's a failure, a merger falls apart, and some mergers do,"
+  },
+  {
+    "start": "00:06:58.390",
+    "end": "00:06:58.400",
+    "start_seconds": 418.39,
+    "end_seconds": 418.4,
+    "text": "and some mergers do,"
+  },
+  {
+    "start": "00:06:58.400",
+    "end": "00:07:01.110",
+    "start_seconds": 418.4,
+    "end_seconds": 421.11,
+    "text": "and some mergers do, these strategies create very large"
+  },
+  {
+    "start": "00:07:01.110",
+    "end": "00:07:01.120",
+    "start_seconds": 421.11,
+    "end_seconds": 421.12,
+    "text": "these strategies create very large"
+  },
+  {
+    "start": "00:07:01.120",
+    "end": "00:07:03.030",
+    "start_seconds": 421.12,
+    "end_seconds": 423.03,
+    "text": "these strategies create very large negative returns."
+  },
+  {
+    "start": "00:07:03.030",
+    "end": "00:07:03.040",
+    "start_seconds": 423.03,
+    "end_seconds": 423.04,
+    "text": "negative returns."
+  },
+  {
+    "start": "00:07:03.040",
+    "end": "00:07:04.750",
+    "start_seconds": 423.04,
+    "end_seconds": 424.75,
+    "text": "negative returns. That's something you're going to notice"
+  },
+  {
+    "start": "00:07:04.750",
+    "end": "00:07:04.760",
+    "start_seconds": 424.75,
+    "end_seconds": 424.76,
+    "text": "That's something you're going to notice"
+  },
+  {
+    "start": "00:07:04.760",
+    "end": "00:07:06.590",
+    "start_seconds": 424.76,
+    "end_seconds": 426.59,
+    "text": "That's something you're going to notice with all of these speculative arbitrage"
+  },
+  {
+    "start": "00:07:06.590",
+    "end": "00:07:06.600",
+    "start_seconds": 426.59,
+    "end_seconds": 426.6,
+    "text": "with all of these speculative arbitrage"
+  },
+  {
+    "start": "00:07:06.600",
+    "end": "00:07:10.030",
+    "start_seconds": 426.6,
+    "end_seconds": 430.03,
+    "text": "with all of these speculative arbitrage strategies. They work most of the time,"
+  },
+  {
+    "start": "00:07:10.030",
+    "end": "00:07:10.040",
+    "start_seconds": 430.03,
+    "end_seconds": 430.04,
+    "text": "strategies. They work most of the time,"
+  },
+  {
+    "start": "00:07:10.040",
+    "end": "00:07:12.270",
+    "start_seconds": 430.04,
+    "end_seconds": 432.27,
+    "text": "strategies. They work most of the time, but when they fail, they have big"
+  },
+  {
+    "start": "00:07:12.270",
+    "end": "00:07:12.280",
+    "start_seconds": 432.27,
+    "end_seconds": 432.28,
+    "text": "but when they fail, they have big"
+  },
+  {
+    "start": "00:07:12.280",
+    "end": "00:07:14.590",
+    "start_seconds": 432.28,
+    "end_seconds": 434.59,
+    "text": "but when they fail, they have big negative payoffs. The reason that's"
+  },
+  {
+    "start": "00:07:14.590",
+    "end": "00:07:14.600",
+    "start_seconds": 434.59,
+    "end_seconds": 434.6,
+    "text": "negative payoffs. The reason that's"
+  },
+  {
+    "start": "00:07:14.600",
+    "end": "00:07:16.390",
+    "start_seconds": 434.6,
+    "end_seconds": 436.39,
+    "text": "negative payoffs. The reason that's relevant is you can do a study of these"
+  },
+  {
+    "start": "00:07:16.390",
+    "end": "00:07:16.400",
+    "start_seconds": 436.39,
+    "end_seconds": 436.4,
+    "text": "relevant is you can do a study of these"
+  },
+  {
+    "start": "00:07:16.400",
+    "end": "00:07:19.350",
+    "start_seconds": 436.4,
+    "end_seconds": 439.35,
+    "text": "relevant is you can do a study of these strategies and they might work and work"
+  },
+  {
+    "start": "00:07:19.350",
+    "end": "00:07:19.360",
+    "start_seconds": 439.35,
+    "end_seconds": 439.36,
+    "text": "strategies and they might work and work"
+  },
+  {
+    "start": "00:07:19.360",
+    "end": "00:07:20.830",
+    "start_seconds": 439.36,
+    "end_seconds": 440.83,
+    "text": "strategies and they might work and work and work, and over the 5 years you"
+  },
+  {
+    "start": "00:07:20.830",
+    "end": "00:07:20.840",
+    "start_seconds": 440.83,
+    "end_seconds": 440.84,
+    "text": "and work, and over the 5 years you"
+  },
+  {
+    "start": "00:07:20.840",
+    "end": "00:07:22.190",
+    "start_seconds": 440.84,
+    "end_seconds": 442.19,
+    "text": "and work, and over the 5 years you looked at them, they earned great"
+  },
+  {
+    "start": "00:07:22.190",
+    "end": "00:07:22.200",
+    "start_seconds": 442.19,
+    "end_seconds": 442.2,
+    "text": "looked at them, they earned great"
+  },
+  {
+    "start": "00:07:22.200",
+    "end": "00:07:23.550",
+    "start_seconds": 442.2,
+    "end_seconds": 443.55,
+    "text": "looked at them, they earned great returns."
+  },
+  {
+    "start": "00:07:23.550",
+    "end": "00:07:23.560",
+    "start_seconds": 443.55,
+    "end_seconds": 443.56,
+    "text": "returns."
+  },
+  {
+    "start": "00:07:23.560",
+    "end": "00:07:25.670",
+    "start_seconds": 443.56,
+    "end_seconds": 445.67,
+    "text": "returns. But the sixth year, that catastrophic"
+  },
+  {
+    "start": "00:07:25.670",
+    "end": "00:07:25.680",
+    "start_seconds": 445.67,
+    "end_seconds": 445.68,
+    "text": "But the sixth year, that catastrophic"
+  },
+  {
+    "start": "00:07:25.680",
+    "end": "00:07:27.990",
+    "start_seconds": 445.68,
+    "end_seconds": 447.99,
+    "text": "But the sixth year, that catastrophic event happens and wipes out all of the"
+  },
+  {
+    "start": "00:07:27.990",
+    "end": "00:07:28.000",
+    "start_seconds": 447.99,
+    "end_seconds": 448.0,
+    "text": "event happens and wipes out all of the"
+  },
+  {
+    "start": "00:07:28.000",
+    "end": "00:07:31.590",
+    "start_seconds": 448.0,
+    "end_seconds": 451.59,
+    "text": "event happens and wipes out all of the money you made over the 5 years."
+  },
+  {
+    "start": "00:07:31.590",
+    "end": "00:07:31.600",
+    "start_seconds": 451.59,
+    "end_seconds": 451.6,
+    "text": "money you made over the 5 years."
+  },
+  {
+    "start": "00:07:31.600",
+    "end": "00:07:33.750",
+    "start_seconds": 451.6,
+    "end_seconds": 453.75,
+    "text": "money you made over the 5 years. So if you look at success at speculative"
+  },
+  {
+    "start": "00:07:33.750",
+    "end": "00:07:33.760",
+    "start_seconds": 453.75,
+    "end_seconds": 453.76,
+    "text": "So if you look at success at speculative"
+  },
+  {
+    "start": "00:07:33.760",
+    "end": "00:07:35.990",
+    "start_seconds": 453.76,
+    "end_seconds": 455.99,
+    "text": "So if you look at success at speculative arbitrage, one of the keys, I think, is"
+  },
+  {
+    "start": "00:07:35.990",
+    "end": "00:07:36.000",
+    "start_seconds": 455.99,
+    "end_seconds": 456.0,
+    "text": "arbitrage, one of the keys, I think, is"
+  },
+  {
+    "start": "00:07:36.000",
+    "end": "00:07:37.710",
+    "start_seconds": 456.0,
+    "end_seconds": 457.71,
+    "text": "arbitrage, one of the keys, I think, is to be careful about how much debt to"
+  },
+  {
+    "start": "00:07:37.710",
+    "end": "00:07:37.720",
+    "start_seconds": 457.71,
+    "end_seconds": 457.72,
+    "text": "to be careful about how much debt to"
+  },
+  {
+    "start": "00:07:37.720",
+    "end": "00:07:38.870",
+    "start_seconds": 457.72,
+    "end_seconds": 458.87,
+    "text": "to be careful about how much debt to use."
+  },
+  {
+    "start": "00:07:38.870",
+    "end": "00:07:38.880",
+    "start_seconds": 458.87,
+    "end_seconds": 458.88,
+    "text": "use."
+  },
+  {
+    "start": "00:07:38.880",
+    "end": "00:07:40.590",
+    "start_seconds": 458.88,
+    "end_seconds": 460.59000000000003,
+    "text": "use. If you remember pure arbitrage, you"
+  },
+  {
+    "start": "00:07:40.590",
+    "end": "00:07:40.600",
+    "start_seconds": 460.59000000000003,
+    "end_seconds": 460.6,
+    "text": "If you remember pure arbitrage, you"
+  },
+  {
+    "start": "00:07:40.600",
+    "end": "00:07:43.430",
+    "start_seconds": 460.6,
+    "end_seconds": 463.43,
+    "text": "If you remember pure arbitrage, you borrowed all of the money you needed to"
+  },
+  {
+    "start": "00:07:43.430",
+    "end": "00:07:43.440",
+    "start_seconds": 463.43,
+    "end_seconds": 463.44,
+    "text": "borrowed all of the money you needed to"
+  },
+  {
+    "start": "00:07:43.440",
+    "end": "00:07:44.830",
+    "start_seconds": 463.44,
+    "end_seconds": 464.83,
+    "text": "borrowed all of the money you needed to buy"
+  },
+  {
+    "start": "00:07:44.830",
+    "end": "00:07:44.840",
+    "start_seconds": 464.83,
+    "end_seconds": 464.84000000000003,
+    "text": "buy"
+  },
+  {
+    "start": "00:07:44.840",
+    "end": "00:07:46.590",
+    "start_seconds": 464.84000000000003,
+    "end_seconds": 466.59000000000003,
+    "text": "buy buy something. Why? Because there's no"
+  },
+  {
+    "start": "00:07:46.590",
+    "end": "00:07:46.600",
+    "start_seconds": 466.59000000000003,
+    "end_seconds": 466.6,
+    "text": "buy something. Why? Because there's no"
+  },
+  {
+    "start": "00:07:46.600",
+    "end": "00:07:48.030",
+    "start_seconds": 466.6,
+    "end_seconds": 468.03,
+    "text": "buy something. Why? Because there's no risk. It doesn't matter that you borrow"
+  },
+  {
+    "start": "00:07:48.030",
+    "end": "00:07:48.040",
+    "start_seconds": 468.03,
+    "end_seconds": 468.04,
+    "text": "risk. It doesn't matter that you borrow"
+  },
+  {
+    "start": "00:07:48.040",
+    "end": "00:07:50.870",
+    "start_seconds": 468.04,
+    "end_seconds": 470.87,
+    "text": "risk. It doesn't matter that you borrow 100% whether it's a futures arbitrage or"
+  },
+  {
+    "start": "00:07:50.870",
+    "end": "00:07:50.880",
+    "start_seconds": 470.87,
+    "end_seconds": 470.88,
+    "text": "100% whether it's a futures arbitrage or"
+  },
+  {
+    "start": "00:07:50.880",
+    "end": "00:07:51.510",
+    "start_seconds": 470.88,
+    "end_seconds": 471.51,
+    "text": "100% whether it's a futures arbitrage or an"
+  },
+  {
+    "start": "00:07:51.510",
+    "end": "00:07:51.520",
+    "start_seconds": 471.51,
+    "end_seconds": 471.52,
+    "text": "an"
+  },
+  {
+    "start": "00:07:51.520",
+    "end": "00:07:54.950",
+    "start_seconds": 471.52,
+    "end_seconds": 474.95,
+    "text": "an or replicating option arbitrage."
+  },
+  {
+    "start": "00:07:54.950",
+    "end": "00:07:54.960",
+    "start_seconds": 474.95,
+    "end_seconds": 474.96,
+    "text": "or replicating option arbitrage."
+  },
+  {
+    "start": "00:07:54.960",
+    "end": "00:07:56.910",
+    "start_seconds": 474.96,
+    "end_seconds": 476.90999999999997,
+    "text": "or replicating option arbitrage. Borrowing is riskless because you"
+  },
+  {
+    "start": "00:07:56.910",
+    "end": "00:07:56.920",
+    "start_seconds": 476.90999999999997,
+    "end_seconds": 476.92,
+    "text": "Borrowing is riskless because you"
+  },
+  {
+    "start": "00:07:56.920",
+    "end": "00:07:59.030",
+    "start_seconds": 476.92,
+    "end_seconds": 479.03,
+    "text": "Borrowing is riskless because you created a riskless strategy. If you"
+  },
+  {
+    "start": "00:07:59.030",
+    "end": "00:07:59.040",
+    "start_seconds": 479.03,
+    "end_seconds": 479.04,
+    "text": "created a riskless strategy. If you"
+  },
+  {
+    "start": "00:07:59.040",
+    "end": "00:08:02.630",
+    "start_seconds": 479.04,
+    "end_seconds": 482.63,
+    "text": "created a riskless strategy. If you create a risky strategy,"
+  },
+  {
+    "start": "00:08:02.630",
+    "end": "00:08:02.640",
+    "start_seconds": 482.63,
+    "end_seconds": 482.64,
+    "text": "create a risky strategy,"
+  },
+  {
+    "start": "00:08:02.640",
+    "end": "00:08:04.350",
+    "start_seconds": 482.64,
+    "end_seconds": 484.35,
+    "text": "create a risky strategy, you might not be able to borrow 100%,"
+  },
+  {
+    "start": "00:08:04.350",
+    "end": "00:08:04.360",
+    "start_seconds": 484.35,
+    "end_seconds": 484.36,
+    "text": "you might not be able to borrow 100%,"
+  },
+  {
+    "start": "00:08:04.360",
+    "end": "00:08:06.550",
+    "start_seconds": 484.36,
+    "end_seconds": 486.55,
+    "text": "you might not be able to borrow 100%, 90%. We might not be able to borrow any"
+  },
+  {
+    "start": "00:08:06.550",
+    "end": "00:08:06.560",
+    "start_seconds": 486.55,
+    "end_seconds": 486.56,
+    "text": "90%. We might not be able to borrow any"
+  },
+  {
+    "start": "00:08:06.560",
+    "end": "00:08:09.150",
+    "start_seconds": 486.56,
+    "end_seconds": 489.15,
+    "text": "90%. We might not be able to borrow any money if it's a risky enough strategy."
+  },
+  {
+    "start": "00:08:09.150",
+    "end": "00:08:09.160",
+    "start_seconds": 489.15,
+    "end_seconds": 489.16,
+    "text": "money if it's a risky enough strategy."
+  },
+  {
+    "start": "00:08:09.160",
+    "end": "00:08:10.990",
+    "start_seconds": 489.16,
+    "end_seconds": 490.99,
+    "text": "money if it's a risky enough strategy. One of the reasons again Long-Term"
+  },
+  {
+    "start": "00:08:10.990",
+    "end": "00:08:11.000",
+    "start_seconds": 490.99,
+    "end_seconds": 491.0,
+    "text": "One of the reasons again Long-Term"
+  },
+  {
+    "start": "00:08:11.000",
+    "end": "00:08:13.350",
+    "start_seconds": 491.0,
+    "end_seconds": 493.35,
+    "text": "One of the reasons again Long-Term Capital Management failed was not just"
+  },
+  {
+    "start": "00:08:13.350",
+    "end": "00:08:13.360",
+    "start_seconds": 493.35,
+    "end_seconds": 493.36,
+    "text": "Capital Management failed was not just"
+  },
+  {
+    "start": "00:08:13.360",
+    "end": "00:08:15.390",
+    "start_seconds": 493.36,
+    "end_seconds": 495.39,
+    "text": "Capital Management failed was not just that fair paired"
+  },
+  {
+    "start": "00:08:15.390",
+    "end": "00:08:15.400",
+    "start_seconds": 495.39,
+    "end_seconds": 495.4,
+    "text": "that fair paired"
+  },
+  {
+    "start": "00:08:15.400",
+    "end": "00:08:17.990",
+    "start_seconds": 495.4,
+    "end_seconds": 497.99,
+    "text": "that fair paired no fair trading didn't work, but that"
+  },
+  {
+    "start": "00:08:17.990",
+    "end": "00:08:18.000",
+    "start_seconds": 497.99,
+    "end_seconds": 498.0,
+    "text": "no fair trading didn't work, but that"
+  },
+  {
+    "start": "00:08:18.000",
+    "end": "00:08:22.030",
+    "start_seconds": 498.0,
+    "end_seconds": 502.03,
+    "text": "no fair trading didn't work, but that they borrowed way too much money to fund"
+  },
+  {
+    "start": "00:08:22.030",
+    "end": "00:08:22.040",
+    "start_seconds": 502.03,
+    "end_seconds": 502.04,
+    "text": "they borrowed way too much money to fund"
+  },
+  {
+    "start": "00:08:22.040",
+    "end": "00:08:24.590",
+    "start_seconds": 502.04,
+    "end_seconds": 504.59,
+    "text": "they borrowed way too much money to fund a strategy as risky as pair trading."
+  },
+  {
+    "start": "00:08:24.590",
+    "end": "00:08:24.600",
+    "start_seconds": 504.59,
+    "end_seconds": 504.6,
+    "text": "a strategy as risky as pair trading."
+  },
+  {
+    "start": "00:08:24.600",
+    "end": "00:08:26.150",
+    "start_seconds": 504.6,
+    "end_seconds": 506.15,
+    "text": "a strategy as risky as pair trading. So, when it gets to near and speculative"
+  },
+  {
+    "start": "00:08:26.150",
+    "end": "00:08:26.160",
+    "start_seconds": 506.15,
+    "end_seconds": 506.16,
+    "text": "So, when it gets to near and speculative"
+  },
+  {
+    "start": "00:08:26.160",
+    "end": "00:08:28.110",
+    "start_seconds": 506.16,
+    "end_seconds": 508.11,
+    "text": "So, when it gets to near and speculative arbitrage, I think you have to adjust"
+  },
+  {
+    "start": "00:08:28.110",
+    "end": "00:08:28.120",
+    "start_seconds": 508.11,
+    "end_seconds": 508.12,
+    "text": "arbitrage, I think you have to adjust"
+  },
+  {
+    "start": "00:08:28.120",
+    "end": "00:08:29.670",
+    "start_seconds": 508.12,
+    "end_seconds": 509.67,
+    "text": "arbitrage, I think you have to adjust your leverage."
+  },
+  {
+    "start": "00:08:29.670",
+    "end": "00:08:29.680",
+    "start_seconds": 509.67,
+    "end_seconds": 509.68,
+    "text": "your leverage."
+  },
+  {
+    "start": "00:08:29.680",
+    "end": "00:08:31.630",
+    "start_seconds": 509.68,
+    "end_seconds": 511.63,
+    "text": "your leverage. And to make money, you got to make sure"
+  },
+  {
+    "start": "00:08:31.630",
+    "end": "00:08:31.640",
+    "start_seconds": 511.63,
+    "end_seconds": 511.64,
+    "text": "And to make money, you got to make sure"
+  },
+  {
+    "start": "00:08:31.640",
+    "end": "00:08:34.070",
+    "start_seconds": 511.64,
+    "end_seconds": 514.07,
+    "text": "And to make money, you got to make sure you don't have a market impact as you do"
+  },
+  {
+    "start": "00:08:34.070",
+    "end": "00:08:34.080",
+    "start_seconds": 514.07,
+    "end_seconds": 514.08,
+    "text": "you don't have a market impact as you do"
+  },
+  {
+    "start": "00:08:34.080",
+    "end": "00:08:36.430",
+    "start_seconds": 514.08,
+    "end_seconds": 516.43,
+    "text": "you don't have a market impact as you do all of this. So, when you try to go out"
+  },
+  {
+    "start": "00:08:36.430",
+    "end": "00:08:36.440",
+    "start_seconds": 516.43,
+    "end_seconds": 516.44,
+    "text": "all of this. So, when you try to go out"
+  },
+  {
+    "start": "00:08:36.440",
+    "end": "00:08:38.390",
+    "start_seconds": 516.44,
+    "end_seconds": 518.39,
+    "text": "all of this. So, when you try to go out there and in the process of trying to"
+  },
+  {
+    "start": "00:08:38.390",
+    "end": "00:08:38.400",
+    "start_seconds": 518.39,
+    "end_seconds": 518.4,
+    "text": "there and in the process of trying to"
+  },
+  {
+    "start": "00:08:38.400",
+    "end": "00:08:41.110",
+    "start_seconds": 518.4,
+    "end_seconds": 521.11,
+    "text": "there and in the process of trying to take advantage of a mispricing, you push"
+  },
+  {
+    "start": "00:08:41.110",
+    "end": "00:08:41.120",
+    "start_seconds": 521.11,
+    "end_seconds": 521.12,
+    "text": "take advantage of a mispricing, you push"
+  },
+  {
+    "start": "00:08:41.120",
+    "end": "00:08:43.230",
+    "start_seconds": 521.12,
+    "end_seconds": 523.23,
+    "text": "take advantage of a mispricing, you push up the price of whatever you're trying"
+  },
+  {
+    "start": "00:08:43.230",
+    "end": "00:08:43.240",
+    "start_seconds": 523.23,
+    "end_seconds": 523.24,
+    "text": "up the price of whatever you're trying"
+  },
+  {
+    "start": "00:08:43.240",
+    "end": "00:08:44.470",
+    "start_seconds": 523.24,
+    "end_seconds": 524.47,
+    "text": "up the price of whatever you're trying to buy or push down the price of"
+  },
+  {
+    "start": "00:08:44.470",
+    "end": "00:08:44.480",
+    "start_seconds": 524.47,
+    "end_seconds": 524.48,
+    "text": "to buy or push down the price of"
+  },
+  {
+    "start": "00:08:44.480",
+    "end": "00:08:46.150",
+    "start_seconds": 524.48,
+    "end_seconds": 526.15,
+    "text": "to buy or push down the price of whatever you're trying to sell. You can"
+  },
+  {
+    "start": "00:08:46.150",
+    "end": "00:08:46.160",
+    "start_seconds": 526.15,
+    "end_seconds": 526.16,
+    "text": "whatever you're trying to sell. You can"
+  },
+  {
+    "start": "00:08:46.160",
+    "end": "00:08:48.150",
+    "start_seconds": 526.16,
+    "end_seconds": 528.15,
+    "text": "whatever you're trying to sell. You can very quickly wipe out the profits you"
+  },
+  {
+    "start": "00:08:48.150",
+    "end": "00:08:48.160",
+    "start_seconds": 528.15,
+    "end_seconds": 528.16,
+    "text": "very quickly wipe out the profits you"
+  },
+  {
+    "start": "00:08:48.160",
+    "end": "00:08:50.870",
+    "start_seconds": 528.16,
+    "end_seconds": 530.87,
+    "text": "very quickly wipe out the profits you make. So, this might be a philosophy"
+  },
+  {
+    "start": "00:08:50.870",
+    "end": "00:08:50.880",
+    "start_seconds": 530.87,
+    "end_seconds": 530.88,
+    "text": "make. So, this might be a philosophy"
+  },
+  {
+    "start": "00:08:50.880",
+    "end": "00:08:52.910",
+    "start_seconds": 530.88,
+    "end_seconds": 532.91,
+    "text": "make. So, this might be a philosophy that works better for a small fund,"
+  },
+  {
+    "start": "00:08:52.910",
+    "end": "00:08:52.920",
+    "start_seconds": 532.91,
+    "end_seconds": 532.92,
+    "text": "that works better for a small fund,"
+  },
+  {
+    "start": "00:08:52.920",
+    "end": "00:08:55.110",
+    "start_seconds": 532.92,
+    "end_seconds": 535.11,
+    "text": "that works better for a small fund, somebody with a limited amount of"
+  },
+  {
+    "start": "00:08:55.110",
+    "end": "00:08:55.120",
+    "start_seconds": 535.11,
+    "end_seconds": 535.12,
+    "text": "somebody with a limited amount of"
+  },
+  {
+    "start": "00:08:55.120",
+    "end": "00:08:57.270",
+    "start_seconds": 535.12,
+    "end_seconds": 537.27,
+    "text": "somebody with a limited amount of capital. It might not work as you scale"
+  },
+  {
+    "start": "00:08:57.270",
+    "end": "00:08:57.280",
+    "start_seconds": 537.27,
+    "end_seconds": 537.28,
+    "text": "capital. It might not work as you scale"
+  },
+  {
+    "start": "00:08:57.280",
+    "end": "00:09:00.030",
+    "start_seconds": 537.28,
+    "end_seconds": 540.03,
+    "text": "capital. It might not work as you scale up. And again, going back to Long-Term"
+  },
+  {
+    "start": "00:09:00.030",
+    "end": "00:09:00.040",
+    "start_seconds": 540.03,
+    "end_seconds": 540.04,
+    "text": "up. And again, going back to Long-Term"
+  },
+  {
+    "start": "00:09:00.040",
+    "end": "00:09:02.230",
+    "start_seconds": 540.04,
+    "end_seconds": 542.23,
+    "text": "up. And again, going back to Long-Term Capital Management, one reason I think"
+  },
+  {
+    "start": "00:09:02.230",
+    "end": "00:09:02.240",
+    "start_seconds": 542.23,
+    "end_seconds": 542.24,
+    "text": "Capital Management, one reason I think"
+  },
+  {
+    "start": "00:09:02.240",
+    "end": "00:09:04.750",
+    "start_seconds": 542.24,
+    "end_seconds": 544.75,
+    "text": "Capital Management, one reason I think they failed is they got too big."
+  },
+  {
+    "start": "00:09:04.750",
+    "end": "00:09:04.760",
+    "start_seconds": 544.75,
+    "end_seconds": 544.76,
+    "text": "they failed is they got too big."
+  },
+  {
+    "start": "00:09:04.760",
+    "end": "00:09:06.270",
+    "start_seconds": 544.76,
+    "end_seconds": 546.27,
+    "text": "they failed is they got too big. And once you get bigger, you start to"
+  },
+  {
+    "start": "00:09:06.270",
+    "end": "00:09:06.280",
+    "start_seconds": 546.27,
+    "end_seconds": 546.28,
+    "text": "And once you get bigger, you start to"
+  },
+  {
+    "start": "00:09:06.280",
+    "end": "00:09:07.870",
+    "start_seconds": 546.28,
+    "end_seconds": 547.87,
+    "text": "And once you get bigger, you start to have a market impact and that very"
+  },
+  {
+    "start": "00:09:07.870",
+    "end": "00:09:07.880",
+    "start_seconds": 547.87,
+    "end_seconds": 547.88,
+    "text": "have a market impact and that very"
+  },
+  {
+    "start": "00:09:07.880",
+    "end": "00:09:11.030",
+    "start_seconds": 547.88,
+    "end_seconds": 551.03,
+    "text": "have a market impact and that very quickly can wipe out your profits."
+  },
+  {
+    "start": "00:09:11.030",
+    "end": "00:09:11.040",
+    "start_seconds": 551.03,
+    "end_seconds": 551.04,
+    "text": "quickly can wipe out your profits."
+  },
+  {
+    "start": "00:09:11.040",
+    "end": "00:09:12.430",
+    "start_seconds": 551.04,
+    "end_seconds": 552.43,
+    "text": "quickly can wipe out your profits. Now, to complete this process of"
+  },
+  {
+    "start": "00:09:12.430",
+    "end": "00:09:12.440",
+    "start_seconds": 552.43,
+    "end_seconds": 552.44,
+    "text": "Now, to complete this process of"
+  },
+  {
+    "start": "00:09:12.440",
+    "end": "00:09:14.790",
+    "start_seconds": 552.44,
+    "end_seconds": 554.79,
+    "text": "Now, to complete this process of arbitrage, even though it doesn't quite"
+  },
+  {
+    "start": "00:09:14.790",
+    "end": "00:09:14.800",
+    "start_seconds": 554.79,
+    "end_seconds": 554.8,
+    "text": "arbitrage, even though it doesn't quite"
+  },
+  {
+    "start": "00:09:14.800",
+    "end": "00:09:16.790",
+    "start_seconds": 554.8,
+    "end_seconds": 556.79,
+    "text": "arbitrage, even though it doesn't quite fit, I'm going to bring in hedge funds."
+  },
+  {
+    "start": "00:09:16.790",
+    "end": "00:09:16.800",
+    "start_seconds": 556.79,
+    "end_seconds": 556.8,
+    "text": "fit, I'm going to bring in hedge funds."
+  },
+  {
+    "start": "00:09:16.800",
+    "end": "00:09:18.510",
+    "start_seconds": 556.8,
+    "end_seconds": 558.51,
+    "text": "fit, I'm going to bring in hedge funds. What can hedge funds do that traditional"
+  },
+  {
+    "start": "00:09:18.510",
+    "end": "00:09:18.520",
+    "start_seconds": 558.51,
+    "end_seconds": 558.52,
+    "text": "What can hedge funds do that traditional"
+  },
+  {
+    "start": "00:09:18.520",
+    "end": "00:09:20.829",
+    "start_seconds": 558.52,
+    "end_seconds": 560.829,
+    "text": "What can hedge funds do that traditional mutual funds cannot?"
+  },
+  {
+    "start": "00:09:20.829",
+    "end": "00:09:20.839",
+    "start_seconds": 560.829,
+    "end_seconds": 560.8389999999999,
+    "text": "mutual funds cannot?"
+  },
+  {
+    "start": "00:09:20.839",
+    "end": "00:09:22.270",
+    "start_seconds": 560.8389999999999,
+    "end_seconds": 562.27,
+    "text": "mutual funds cannot? I think the biggest difference, and if"
+  },
+  {
+    "start": "00:09:22.270",
+    "end": "00:09:22.280",
+    "start_seconds": 562.27,
+    "end_seconds": 562.28,
+    "text": "I think the biggest difference, and if"
+  },
+  {
+    "start": "00:09:22.280",
+    "end": "00:09:23.590",
+    "start_seconds": 562.28,
+    "end_seconds": 563.59,
+    "text": "I think the biggest difference, and if you're truly a hedge fund, you should be"
+  },
+  {
+    "start": "00:09:23.590",
+    "end": "00:09:23.600",
+    "start_seconds": 563.59,
+    "end_seconds": 563.6,
+    "text": "you're truly a hedge fund, you should be"
+  },
+  {
+    "start": "00:09:23.600",
+    "end": "00:09:25.190",
+    "start_seconds": 563.6,
+    "end_seconds": 565.19,
+    "text": "you're truly a hedge fund, you should be exploiting this difference, is you can"
+  },
+  {
+    "start": "00:09:25.190",
+    "end": "00:09:25.200",
+    "start_seconds": 565.19,
+    "end_seconds": 565.2,
+    "text": "exploiting this difference, is you can"
+  },
+  {
+    "start": "00:09:25.200",
+    "end": "00:09:28.550",
+    "start_seconds": 565.2,
+    "end_seconds": 568.55,
+    "text": "exploiting this difference, is you can both go long, buy, and sell short."
+  },
+  {
+    "start": "00:09:28.550",
+    "end": "00:09:28.560",
+    "start_seconds": 568.55,
+    "end_seconds": 568.56,
+    "text": "both go long, buy, and sell short."
+  },
+  {
+    "start": "00:09:28.560",
+    "end": "00:09:29.910",
+    "start_seconds": 568.56,
+    "end_seconds": 569.91,
+    "text": "both go long, buy, and sell short. Traditional mutual funds can't sell"
+  },
+  {
+    "start": "00:09:29.910",
+    "end": "00:09:29.920",
+    "start_seconds": 569.91,
+    "end_seconds": 569.92,
+    "text": "Traditional mutual funds can't sell"
+  },
+  {
+    "start": "00:09:29.920",
+    "end": "00:09:32.270",
+    "start_seconds": 569.92,
+    "end_seconds": 572.27,
+    "text": "Traditional mutual funds can't sell short. So, to the extent that you can go"
+  },
+  {
+    "start": "00:09:32.270",
+    "end": "00:09:32.280",
+    "start_seconds": 572.27,
+    "end_seconds": 572.28,
+    "text": "short. So, to the extent that you can go"
+  },
+  {
+    "start": "00:09:32.280",
+    "end": "00:09:34.390",
+    "start_seconds": 572.28,
+    "end_seconds": 574.39,
+    "text": "short. So, to the extent that you can go long and sell short, hedge funds at"
+  },
+  {
+    "start": "00:09:34.390",
+    "end": "00:09:34.400",
+    "start_seconds": 574.39,
+    "end_seconds": 574.4,
+    "text": "long and sell short, hedge funds at"
+  },
+  {
+    "start": "00:09:34.400",
+    "end": "00:09:35.710",
+    "start_seconds": 574.4,
+    "end_seconds": 575.71,
+    "text": "long and sell short, hedge funds at least have the the"
+  },
+  {
+    "start": "00:09:35.710",
+    "end": "00:09:35.720",
+    "start_seconds": 575.71,
+    "end_seconds": 575.72,
+    "text": "least have the the"
+  },
+  {
+    "start": "00:09:35.720",
+    "end": "00:09:37.630",
+    "start_seconds": 575.72,
+    "end_seconds": 577.63,
+    "text": "least have the the of creating positions"
+  },
+  {
+    "start": "00:09:37.630",
+    "end": "00:09:37.640",
+    "start_seconds": 577.63,
+    "end_seconds": 577.64,
+    "text": "of creating positions"
+  },
+  {
+    "start": "00:09:37.640",
+    "end": "00:09:40.990",
+    "start_seconds": 577.64,
+    "end_seconds": 580.99,
+    "text": "of creating positions that if not riskless are very low risk"
+  },
+  {
+    "start": "00:09:40.990",
+    "end": "00:09:41.000",
+    "start_seconds": 580.99,
+    "end_seconds": 581.0,
+    "text": "that if not riskless are very low risk"
+  },
+  {
+    "start": "00:09:41.000",
+    "end": "00:09:43.350",
+    "start_seconds": 581.0,
+    "end_seconds": 583.35,
+    "text": "that if not riskless are very low risk because you're both long and short in"
+  },
+  {
+    "start": "00:09:43.350",
+    "end": "00:09:43.360",
+    "start_seconds": 583.35,
+    "end_seconds": 583.36,
+    "text": "because you're both long and short in"
+  },
+  {
+    "start": "00:09:43.360",
+    "end": "00:09:44.590",
+    "start_seconds": 583.36,
+    "end_seconds": 584.59,
+    "text": "because you're both long and short in investments."
+  },
+  {
+    "start": "00:09:44.590",
+    "end": "00:09:44.600",
+    "start_seconds": 584.59,
+    "end_seconds": 584.6,
+    "text": "investments."
+  },
+  {
+    "start": "00:09:44.600",
+    "end": "00:09:46.830",
+    "start_seconds": 584.6,
+    "end_seconds": 586.83,
+    "text": "investments. And within hedge funds you have a huge"
+  },
+  {
+    "start": "00:09:46.830",
+    "end": "00:09:46.840",
+    "start_seconds": 586.83,
+    "end_seconds": 586.84,
+    "text": "And within hedge funds you have a huge"
+  },
+  {
+    "start": "00:09:46.840",
+    "end": "00:09:48.750",
+    "start_seconds": 586.84,
+    "end_seconds": 588.75,
+    "text": "And within hedge funds you have a huge range of hedge funds. Some bet on macro"
+  },
+  {
+    "start": "00:09:48.750",
+    "end": "00:09:48.760",
+    "start_seconds": 588.75,
+    "end_seconds": 588.76,
+    "text": "range of hedge funds. Some bet on macro"
+  },
+  {
+    "start": "00:09:48.760",
+    "end": "00:09:51.070",
+    "start_seconds": 588.76,
+    "end_seconds": 591.07,
+    "text": "range of hedge funds. Some bet on macro events, some bet on micro, some do value"
+  },
+  {
+    "start": "00:09:51.070",
+    "end": "00:09:51.080",
+    "start_seconds": 591.07,
+    "end_seconds": 591.08,
+    "text": "events, some bet on micro, some do value"
+  },
+  {
+    "start": "00:09:51.080",
+    "end": "00:09:53.270",
+    "start_seconds": 591.08,
+    "end_seconds": 593.27,
+    "text": "events, some bet on micro, some do value growth. So you can take every single"
+  },
+  {
+    "start": "00:09:53.270",
+    "end": "00:09:53.280",
+    "start_seconds": 593.27,
+    "end_seconds": 593.28,
+    "text": "growth. So you can take every single"
+  },
+  {
+    "start": "00:09:53.280",
+    "end": "00:09:54.910",
+    "start_seconds": 593.28,
+    "end_seconds": 594.91,
+    "text": "growth. So you can take every single investment philosophy we've talked about"
+  },
+  {
+    "start": "00:09:54.910",
+    "end": "00:09:54.920",
+    "start_seconds": 594.91,
+    "end_seconds": 594.92,
+    "text": "investment philosophy we've talked about"
+  },
+  {
+    "start": "00:09:54.920",
+    "end": "00:09:56.790",
+    "start_seconds": 594.92,
+    "end_seconds": 596.79,
+    "text": "investment philosophy we've talked about so far in this class and create a hedge"
+  },
+  {
+    "start": "00:09:56.790",
+    "end": "00:09:56.800",
+    "start_seconds": 596.79,
+    "end_seconds": 596.8,
+    "text": "so far in this class and create a hedge"
+  },
+  {
+    "start": "00:09:56.800",
+    "end": "00:09:58.670",
+    "start_seconds": 596.8,
+    "end_seconds": 598.67,
+    "text": "so far in this class and create a hedge fund around it."
+  },
+  {
+    "start": "00:09:58.670",
+    "end": "00:09:58.680",
+    "start_seconds": 598.67,
+    "end_seconds": 598.68,
+    "text": "fund around it."
+  },
+  {
+    "start": "00:09:58.680",
+    "end": "00:10:00.990",
+    "start_seconds": 598.68,
+    "end_seconds": 600.99,
+    "text": "fund around it. So let's look at hedge funds"
+  },
+  {
+    "start": "00:10:00.990",
+    "end": "00:10:01.000",
+    "start_seconds": 600.99,
+    "end_seconds": 601.0,
+    "text": "So let's look at hedge funds"
+  },
+  {
+    "start": "00:10:01.000",
+    "end": "00:10:02.990",
+    "start_seconds": 601.0,
+    "end_seconds": 602.99,
+    "text": "So let's look at hedge funds and the early promise that drives so"
+  },
+  {
+    "start": "00:10:02.990",
+    "end": "00:10:03.000",
+    "start_seconds": 602.99,
+    "end_seconds": 603.0,
+    "text": "and the early promise that drives so"
+  },
+  {
+    "start": "00:10:03.000",
+    "end": "00:10:06.030",
+    "start_seconds": 603.0,
+    "end_seconds": 606.03,
+    "text": "and the early promise that drives so much of why people hold them in such"
+  },
+  {
+    "start": "00:10:06.030",
+    "end": "00:10:06.040",
+    "start_seconds": 606.03,
+    "end_seconds": 606.04,
+    "text": "much of why people hold them in such"
+  },
+  {
+    "start": "00:10:06.040",
+    "end": "00:10:08.790",
+    "start_seconds": 606.04,
+    "end_seconds": 608.79,
+    "text": "much of why people hold them in such high regard. Early in the process, hedge"
+  },
+  {
+    "start": "00:10:08.790",
+    "end": "00:10:08.800",
+    "start_seconds": 608.79,
+    "end_seconds": 608.8,
+    "text": "high regard. Early in the process, hedge"
+  },
+  {
+    "start": "00:10:08.800",
+    "end": "00:10:11.110",
+    "start_seconds": 608.8,
+    "end_seconds": 611.11,
+    "text": "high regard. Early in the process, hedge funds and hedge funds are not new to the"
+  },
+  {
+    "start": "00:10:11.110",
+    "end": "00:10:11.120",
+    "start_seconds": 611.11,
+    "end_seconds": 611.12,
+    "text": "funds and hedge funds are not new to the"
+  },
+  {
+    "start": "00:10:11.120",
+    "end": "00:10:12.550",
+    "start_seconds": 611.12,
+    "end_seconds": 612.55,
+    "text": "funds and hedge funds are not new to the market. They've come and gone and"
+  },
+  {
+    "start": "00:10:12.550",
+    "end": "00:10:12.560",
+    "start_seconds": 612.55,
+    "end_seconds": 612.56,
+    "text": "market. They've come and gone and"
+  },
+  {
+    "start": "00:10:12.560",
+    "end": "00:10:14.950",
+    "start_seconds": 612.56,
+    "end_seconds": 614.95,
+    "text": "market. They've come and gone and there's some lessons in history from why"
+  },
+  {
+    "start": "00:10:14.950",
+    "end": "00:10:14.960",
+    "start_seconds": 614.95,
+    "end_seconds": 614.96,
+    "text": "there's some lessons in history from why"
+  },
+  {
+    "start": "00:10:14.960",
+    "end": "00:10:16.470",
+    "start_seconds": 614.96,
+    "end_seconds": 616.47,
+    "text": "there's some lessons in history from why they've gone."
+  },
+  {
+    "start": "00:10:16.470",
+    "end": "00:10:16.480",
+    "start_seconds": 616.47,
+    "end_seconds": 616.48,
+    "text": "they've gone."
+  },
+  {
+    "start": "00:10:16.480",
+    "end": "00:10:18.350",
+    "start_seconds": 616.48,
+    "end_seconds": 618.35,
+    "text": "they've gone. I mean hedge funds exist in the early"
+  },
+  {
+    "start": "00:10:18.350",
+    "end": "00:10:18.360",
+    "start_seconds": 618.35,
+    "end_seconds": 618.36,
+    "text": "I mean hedge funds exist in the early"
+  },
+  {
+    "start": "00:10:18.360",
+    "end": "00:10:20.990",
+    "start_seconds": 618.36,
+    "end_seconds": 620.99,
+    "text": "I mean hedge funds exist in the early part of the 1900s but then you know big"
+  },
+  {
+    "start": "00:10:20.990",
+    "end": "00:10:21.000",
+    "start_seconds": 620.99,
+    "end_seconds": 621.0,
+    "text": "part of the 1900s but then you know big"
+  },
+  {
+    "start": "00:10:21.000",
+    "end": "00:10:22.870",
+    "start_seconds": 621.0,
+    "end_seconds": 622.87,
+    "text": "part of the 1900s but then you know big collapses and then they went away, they"
+  },
+  {
+    "start": "00:10:22.870",
+    "end": "00:10:22.880",
+    "start_seconds": 622.87,
+    "end_seconds": 622.88,
+    "text": "collapses and then they went away, they"
+  },
+  {
+    "start": "00:10:22.880",
+    "end": "00:10:24.510",
+    "start_seconds": 622.88,
+    "end_seconds": 624.51,
+    "text": "collapses and then they went away, they came back again."
+  },
+  {
+    "start": "00:10:24.510",
+    "end": "00:10:24.520",
+    "start_seconds": 624.51,
+    "end_seconds": 624.52,
+    "text": "came back again."
+  },
+  {
+    "start": "00:10:24.520",
+    "end": "00:10:26.470",
+    "start_seconds": 624.52,
+    "end_seconds": 626.47,
+    "text": "came back again. And in their most least recent iteration"
+  },
+  {
+    "start": "00:10:26.470",
+    "end": "00:10:26.480",
+    "start_seconds": 626.47,
+    "end_seconds": 626.48,
+    "text": "And in their most least recent iteration"
+  },
+  {
+    "start": "00:10:26.480",
+    "end": "00:10:28.750",
+    "start_seconds": 626.48,
+    "end_seconds": 628.75,
+    "text": "And in their most least recent iteration at least early on it looked like hedge"
+  },
+  {
+    "start": "00:10:28.750",
+    "end": "00:10:28.760",
+    "start_seconds": 628.75,
+    "end_seconds": 628.76,
+    "text": "at least early on it looked like hedge"
+  },
+  {
+    "start": "00:10:28.760",
+    "end": "00:10:32.510",
+    "start_seconds": 628.76,
+    "end_seconds": 632.51,
+    "text": "at least early on it looked like hedge funds were delivering a payoff. And what"
+  },
+  {
+    "start": "00:10:32.510",
+    "end": "00:10:32.520",
+    "start_seconds": 632.51,
+    "end_seconds": 632.52,
+    "text": "funds were delivering a payoff. And what"
+  },
+  {
+    "start": "00:10:32.520",
+    "end": "00:10:34.310",
+    "start_seconds": 632.52,
+    "end_seconds": 634.31,
+    "text": "funds were delivering a payoff. And what were not because they earned higher"
+  },
+  {
+    "start": "00:10:34.310",
+    "end": "00:10:34.320",
+    "start_seconds": 634.31,
+    "end_seconds": 634.32,
+    "text": "were not because they earned higher"
+  },
+  {
+    "start": "00:10:34.320",
+    "end": "00:10:36.830",
+    "start_seconds": 634.32,
+    "end_seconds": 636.83,
+    "text": "were not because they earned higher returns than traditional mutual funds"
+  },
+  {
+    "start": "00:10:36.830",
+    "end": "00:10:36.840",
+    "start_seconds": 636.83,
+    "end_seconds": 636.84,
+    "text": "returns than traditional mutual funds"
+  },
+  {
+    "start": "00:10:36.840",
+    "end": "00:10:39.550",
+    "start_seconds": 636.84,
+    "end_seconds": 639.55,
+    "text": "returns than traditional mutual funds but because of the risk return trade-off"
+  },
+  {
+    "start": "00:10:39.550",
+    "end": "00:10:39.560",
+    "start_seconds": 639.55,
+    "end_seconds": 639.56,
+    "text": "but because of the risk return trade-off"
+  },
+  {
+    "start": "00:10:39.560",
+    "end": "00:10:41.350",
+    "start_seconds": 639.56,
+    "end_seconds": 641.35,
+    "text": "but because of the risk return trade-off that they delivered which was better"
+  },
+  {
+    "start": "00:10:41.350",
+    "end": "00:10:41.360",
+    "start_seconds": 641.35,
+    "end_seconds": 641.36,
+    "text": "that they delivered which was better"
+  },
+  {
+    "start": "00:10:41.360",
+    "end": "00:10:44.190",
+    "start_seconds": 641.36,
+    "end_seconds": 644.19,
+    "text": "that they delivered which was better than the risk and return you would make"
+  },
+  {
+    "start": "00:10:44.190",
+    "end": "00:10:44.200",
+    "start_seconds": 644.19,
+    "end_seconds": 644.2,
+    "text": "than the risk and return you would make"
+  },
+  {
+    "start": "00:10:44.200",
+    "end": "00:10:46.910",
+    "start_seconds": 644.2,
+    "end_seconds": 646.91,
+    "text": "than the risk and return you would make by just investing your money in stocks."
+  },
+  {
+    "start": "00:10:46.910",
+    "end": "00:10:46.920",
+    "start_seconds": 646.91,
+    "end_seconds": 646.92,
+    "text": "by just investing your money in stocks."
+  },
+  {
+    "start": "00:10:46.920",
+    "end": "00:10:48.270",
+    "start_seconds": 646.92,
+    "end_seconds": 648.27,
+    "text": "by just investing your money in stocks. So for instance, if you look at this"
+  },
+  {
+    "start": "00:10:48.270",
+    "end": "00:10:48.280",
+    "start_seconds": 648.27,
+    "end_seconds": 648.28,
+    "text": "So for instance, if you look at this"
+  },
+  {
+    "start": "00:10:48.280",
+    "end": "00:10:49.829",
+    "start_seconds": 648.28,
+    "end_seconds": 649.829,
+    "text": "So for instance, if you look at this study of hedge funds in their early"
+  },
+  {
+    "start": "00:10:49.829",
+    "end": "00:10:49.839",
+    "start_seconds": 649.829,
+    "end_seconds": 649.8389999999999,
+    "text": "study of hedge funds in their early"
+  },
+  {
+    "start": "00:10:49.839",
+    "end": "00:10:51.870",
+    "start_seconds": 649.8389999999999,
+    "end_seconds": 651.87,
+    "text": "study of hedge funds in their early years, the average return you earned on"
+  },
+  {
+    "start": "00:10:51.870",
+    "end": "00:10:51.880",
+    "start_seconds": 651.87,
+    "end_seconds": 651.88,
+    "text": "years, the average return you earned on"
+  },
+  {
+    "start": "00:10:51.880",
+    "end": "00:10:54.430",
+    "start_seconds": 651.88,
+    "end_seconds": 654.43,
+    "text": "years, the average return you earned on hedge funds was only 13.26%"
+  },
+  {
+    "start": "00:10:54.430",
+    "end": "00:10:54.440",
+    "start_seconds": 654.43,
+    "end_seconds": 654.44,
+    "text": "hedge funds was only 13.26%"
+  },
+  {
+    "start": "00:10:54.440",
+    "end": "00:10:56.670",
+    "start_seconds": 654.44,
+    "end_seconds": 656.67,
+    "text": "hedge funds was only 13.26% you think what do you mean only 13.26%?"
+  },
+  {
+    "start": "00:10:56.670",
+    "end": "00:10:56.680",
+    "start_seconds": 656.67,
+    "end_seconds": 656.68,
+    "text": "you think what do you mean only 13.26%?"
+  },
+  {
+    "start": "00:10:56.680",
+    "end": "00:10:58.150",
+    "start_seconds": 656.68,
+    "end_seconds": 658.15,
+    "text": "you think what do you mean only 13.26%? That was actually lower than somebody"
+  },
+  {
+    "start": "00:10:58.150",
+    "end": "00:10:58.160",
+    "start_seconds": 658.15,
+    "end_seconds": 658.16,
+    "text": "That was actually lower than somebody"
+  },
+  {
+    "start": "00:10:58.160",
+    "end": "00:11:00.870",
+    "start_seconds": 658.16,
+    "end_seconds": 660.87,
+    "text": "That was actually lower than somebody put their money in the S&P 500. Saying"
+  },
+  {
+    "start": "00:11:00.870",
+    "end": "00:11:00.880",
+    "start_seconds": 660.87,
+    "end_seconds": 660.88,
+    "text": "put their money in the S&P 500. Saying"
+  },
+  {
+    "start": "00:11:00.880",
+    "end": "00:11:03.990",
+    "start_seconds": 660.88,
+    "end_seconds": 663.99,
+    "text": "put their money in the S&P 500. Saying why would I then invest in hedge funds?"
+  },
+  {
+    "start": "00:11:03.990",
+    "end": "00:11:04.000",
+    "start_seconds": 663.99,
+    "end_seconds": 664.0,
+    "text": "why would I then invest in hedge funds?"
+  },
+  {
+    "start": "00:11:04.000",
+    "end": "00:11:05.630",
+    "start_seconds": 664.0,
+    "end_seconds": 665.63,
+    "text": "why would I then invest in hedge funds? Because it turns out that while the"
+  },
+  {
+    "start": "00:11:05.630",
+    "end": "00:11:05.640",
+    "start_seconds": 665.63,
+    "end_seconds": 665.64,
+    "text": "Because it turns out that while the"
+  },
+  {
+    "start": "00:11:05.640",
+    "end": "00:11:07.710",
+    "start_seconds": 665.64,
+    "end_seconds": 667.71,
+    "text": "Because it turns out that while the return was lower, they also had a much"
+  },
+  {
+    "start": "00:11:07.710",
+    "end": "00:11:07.720",
+    "start_seconds": 667.71,
+    "end_seconds": 667.72,
+    "text": "return was lower, they also had a much"
+  },
+  {
+    "start": "00:11:07.720",
+    "end": "00:11:10.470",
+    "start_seconds": 667.72,
+    "end_seconds": 670.47,
+    "text": "return was lower, they also had a much lower standard deviation in returns than"
+  },
+  {
+    "start": "00:11:10.470",
+    "end": "00:11:10.480",
+    "start_seconds": 670.47,
+    "end_seconds": 670.48,
+    "text": "lower standard deviation in returns than"
+  },
+  {
+    "start": "00:11:10.480",
+    "end": "00:11:12.829",
+    "start_seconds": 670.48,
+    "end_seconds": 672.829,
+    "text": "lower standard deviation in returns than the S&P 500. Remember we talked about"
+  },
+  {
+    "start": "00:11:12.829",
+    "end": "00:11:12.839",
+    "start_seconds": 672.829,
+    "end_seconds": 672.839,
+    "text": "the S&P 500. Remember we talked about"
+  },
+  {
+    "start": "00:11:12.839",
+    "end": "00:11:15.070",
+    "start_seconds": 672.839,
+    "end_seconds": 675.07,
+    "text": "the S&P 500. Remember we talked about Sharpe ratios? You take the return and"
+  },
+  {
+    "start": "00:11:15.070",
+    "end": "00:11:15.080",
+    "start_seconds": 675.07,
+    "end_seconds": 675.08,
+    "text": "Sharpe ratios? You take the return and"
+  },
+  {
+    "start": "00:11:15.080",
+    "end": "00:11:17.190",
+    "start_seconds": 675.08,
+    "end_seconds": 677.19,
+    "text": "Sharpe ratios? You take the return and divide by the standard deviation. If you"
+  },
+  {
+    "start": "00:11:17.190",
+    "end": "00:11:17.200",
+    "start_seconds": 677.19,
+    "end_seconds": 677.2,
+    "text": "divide by the standard deviation. If you"
+  },
+  {
+    "start": "00:11:17.200",
+    "end": "00:11:18.990",
+    "start_seconds": 677.2,
+    "end_seconds": 678.99,
+    "text": "divide by the standard deviation. If you compute the Sharpe ratios for hedge"
+  },
+  {
+    "start": "00:11:18.990",
+    "end": "00:11:19.000",
+    "start_seconds": 678.99,
+    "end_seconds": 679.0,
+    "text": "compute the Sharpe ratios for hedge"
+  },
+  {
+    "start": "00:11:19.000",
+    "end": "00:11:22.630",
+    "start_seconds": 679.0,
+    "end_seconds": 682.63,
+    "text": "compute the Sharpe ratios for hedge funds, 13.26 / 9.07, that's a much"
+  },
+  {
+    "start": "00:11:22.630",
+    "end": "00:11:22.640",
+    "start_seconds": 682.63,
+    "end_seconds": 682.64,
+    "text": "funds, 13.26 / 9.07, that's a much"
+  },
+  {
+    "start": "00:11:22.640",
+    "end": "00:11:24.750",
+    "start_seconds": 682.64,
+    "end_seconds": 684.75,
+    "text": "funds, 13.26 / 9.07, that's a much better Sharpe ratio than what you get"
+  },
+  {
+    "start": "00:11:24.750",
+    "end": "00:11:24.760",
+    "start_seconds": 684.75,
+    "end_seconds": 684.76,
+    "text": "better Sharpe ratio than what you get"
+  },
+  {
+    "start": "00:11:24.760",
+    "end": "00:11:26.590",
+    "start_seconds": 684.76,
+    "end_seconds": 686.59,
+    "text": "better Sharpe ratio than what you get for the S&P 500."
+  },
+  {
+    "start": "00:11:26.590",
+    "end": "00:11:26.600",
+    "start_seconds": 686.59,
+    "end_seconds": 686.6,
+    "text": "for the S&P 500."
+  },
+  {
+    "start": "00:11:26.600",
+    "end": "00:11:29.190",
+    "start_seconds": 686.6,
+    "end_seconds": 689.19,
+    "text": "for the S&P 500. That's always been the sales pitch for"
+  },
+  {
+    "start": "00:11:29.190",
+    "end": "00:11:29.200",
+    "start_seconds": 689.19,
+    "end_seconds": 689.2,
+    "text": "That's always been the sales pitch for"
+  },
+  {
+    "start": "00:11:29.200",
+    "end": "00:11:31.030",
+    "start_seconds": 689.2,
+    "end_seconds": 691.03,
+    "text": "That's always been the sales pitch for hedge funds. Not that they deliver"
+  },
+  {
+    "start": "00:11:31.030",
+    "end": "00:11:31.040",
+    "start_seconds": 691.03,
+    "end_seconds": 691.04,
+    "text": "hedge funds. Not that they deliver"
+  },
+  {
+    "start": "00:11:31.040",
+    "end": "00:11:32.990",
+    "start_seconds": 691.04,
+    "end_seconds": 692.99,
+    "text": "hedge funds. Not that they deliver higher absolute returns but that they"
+  },
+  {
+    "start": "00:11:32.990",
+    "end": "00:11:33.000",
+    "start_seconds": 692.99,
+    "end_seconds": 693.0,
+    "text": "higher absolute returns but that they"
+  },
+  {
+    "start": "00:11:33.000",
+    "end": "00:11:35.110",
+    "start_seconds": 693.0,
+    "end_seconds": 695.11,
+    "text": "higher absolute returns but that they deliver much better trade-offs in terms"
+  },
+  {
+    "start": "00:11:35.110",
+    "end": "00:11:35.120",
+    "start_seconds": 695.11,
+    "end_seconds": 695.12,
+    "text": "deliver much better trade-offs in terms"
+  },
+  {
+    "start": "00:11:35.120",
+    "end": "00:11:37.110",
+    "start_seconds": 695.12,
+    "end_seconds": 697.11,
+    "text": "deliver much better trade-offs in terms of return and risk."
+  },
+  {
+    "start": "00:11:37.110",
+    "end": "00:11:37.120",
+    "start_seconds": 697.11,
+    "end_seconds": 697.12,
+    "text": "of return and risk."
+  },
+  {
+    "start": "00:11:37.120",
+    "end": "00:11:38.710",
+    "start_seconds": 697.12,
+    "end_seconds": 698.71,
+    "text": "of return and risk. The catch though is"
+  },
+  {
+    "start": "00:11:38.710",
+    "end": "00:11:38.720",
+    "start_seconds": 698.71,
+    "end_seconds": 698.72,
+    "text": "The catch though is"
+  },
+  {
+    "start": "00:11:38.720",
+    "end": "00:11:42.630",
+    "start_seconds": 698.72,
+    "end_seconds": 702.63,
+    "text": "The catch though is hedge funds also have astoundingly high"
+  },
+  {
+    "start": "00:11:42.630",
+    "end": "00:11:42.640",
+    "start_seconds": 702.63,
+    "end_seconds": 702.64,
+    "text": "hedge funds also have astoundingly high"
+  },
+  {
+    "start": "00:11:42.640",
+    "end": "00:11:45.430",
+    "start_seconds": 702.64,
+    "end_seconds": 705.43,
+    "text": "hedge funds also have astoundingly high costs. Many hedge funds follow what's"
+  },
+  {
+    "start": "00:11:45.430",
+    "end": "00:11:45.440",
+    "start_seconds": 705.43,
+    "end_seconds": 705.44,
+    "text": "costs. Many hedge funds follow what's"
+  },
+  {
+    "start": "00:11:45.440",
+    "end": "00:11:47.030",
+    "start_seconds": 705.44,
+    "end_seconds": 707.03,
+    "text": "costs. Many hedge funds follow what's called the two and 20, which means they"
+  },
+  {
+    "start": "00:11:47.030",
+    "end": "00:11:47.040",
+    "start_seconds": 707.03,
+    "end_seconds": 707.04,
+    "text": "called the two and 20, which means they"
+  },
+  {
+    "start": "00:11:47.040",
+    "end": "00:11:49.510",
+    "start_seconds": 707.04,
+    "end_seconds": 709.51,
+    "text": "called the two and 20, which means they take 2% of your money every year and 20%"
+  },
+  {
+    "start": "00:11:49.510",
+    "end": "00:11:49.520",
+    "start_seconds": 709.51,
+    "end_seconds": 709.52,
+    "text": "take 2% of your money every year and 20%"
+  },
+  {
+    "start": "00:11:49.520",
+    "end": "00:11:50.870",
+    "start_seconds": 709.52,
+    "end_seconds": 710.87,
+    "text": "take 2% of your money every year and 20% of the upside."
+  },
+  {
+    "start": "00:11:50.870",
+    "end": "00:11:50.880",
+    "start_seconds": 710.87,
+    "end_seconds": 710.88,
+    "text": "of the upside."
+  },
+  {
+    "start": "00:11:50.880",
+    "end": "00:11:53.030",
+    "start_seconds": 710.88,
+    "end_seconds": 713.03,
+    "text": "of the upside. If you bring in those fees and costs,"
+  },
+  {
+    "start": "00:11:53.030",
+    "end": "00:11:53.040",
+    "start_seconds": 713.03,
+    "end_seconds": 713.04,
+    "text": "If you bring in those fees and costs,"
+  },
+  {
+    "start": "00:11:53.040",
+    "end": "00:11:55.150",
+    "start_seconds": 713.04,
+    "end_seconds": 715.15,
+    "text": "If you bring in those fees and costs, it's not clear even these big payoffs"
+  },
+  {
+    "start": "00:11:55.150",
+    "end": "00:11:55.160",
+    "start_seconds": 715.15,
+    "end_seconds": 715.16,
+    "text": "it's not clear even these big payoffs"
+  },
+  {
+    "start": "00:11:55.160",
+    "end": "00:11:58.270",
+    "start_seconds": 715.16,
+    "end_seconds": 718.27,
+    "text": "it's not clear even these big payoffs last, but that's something to factor in."
+  },
+  {
+    "start": "00:11:58.270",
+    "end": "00:11:58.280",
+    "start_seconds": 718.27,
+    "end_seconds": 718.28,
+    "text": "last, but that's something to factor in."
+  },
+  {
+    "start": "00:11:58.280",
+    "end": "00:12:00.350",
+    "start_seconds": 718.28,
+    "end_seconds": 720.35,
+    "text": "last, but that's something to factor in. Now, if you look across categories that"
+  },
+  {
+    "start": "00:12:00.350",
+    "end": "00:12:00.360",
+    "start_seconds": 720.35,
+    "end_seconds": 720.36,
+    "text": "Now, if you look across categories that"
+  },
+  {
+    "start": "00:12:00.360",
+    "end": "00:12:03.150",
+    "start_seconds": 720.36,
+    "end_seconds": 723.15,
+    "text": "Now, if you look across categories that return risk trade-off, you know,"
+  },
+  {
+    "start": "00:12:03.150",
+    "end": "00:12:03.160",
+    "start_seconds": 723.15,
+    "end_seconds": 723.16,
+    "text": "return risk trade-off, you know,"
+  },
+  {
+    "start": "00:12:03.160",
+    "end": "00:12:05.430",
+    "start_seconds": 723.16,
+    "end_seconds": 725.43,
+    "text": "return risk trade-off, you know, the gross return net returns vary across"
+  },
+  {
+    "start": "00:12:05.430",
+    "end": "00:12:05.440",
+    "start_seconds": 725.43,
+    "end_seconds": 725.44,
+    "text": "the gross return net returns vary across"
+  },
+  {
+    "start": "00:12:05.440",
+    "end": "00:12:07.950",
+    "start_seconds": 725.44,
+    "end_seconds": 727.95,
+    "text": "the gross return net returns vary across categories, but what they all share in"
+  },
+  {
+    "start": "00:12:07.950",
+    "end": "00:12:07.960",
+    "start_seconds": 727.95,
+    "end_seconds": 727.96,
+    "text": "categories, but what they all share in"
+  },
+  {
+    "start": "00:12:07.960",
+    "end": "00:12:10.390",
+    "start_seconds": 727.96,
+    "end_seconds": 730.39,
+    "text": "categories, but what they all share in common is a sales pitch, which is we can"
+  },
+  {
+    "start": "00:12:10.390",
+    "end": "00:12:10.400",
+    "start_seconds": 730.39,
+    "end_seconds": 730.4,
+    "text": "common is a sales pitch, which is we can"
+  },
+  {
+    "start": "00:12:10.400",
+    "end": "00:12:12.830",
+    "start_seconds": 730.4,
+    "end_seconds": 732.83,
+    "text": "common is a sales pitch, which is we can get you these returns with much lower"
+  },
+  {
+    "start": "00:12:12.830",
+    "end": "00:12:12.840",
+    "start_seconds": 732.83,
+    "end_seconds": 732.84,
+    "text": "get you these returns with much lower"
+  },
+  {
+    "start": "00:12:12.840",
+    "end": "00:12:15.150",
+    "start_seconds": 732.84,
+    "end_seconds": 735.15,
+    "text": "get you these returns with much lower risk than going into a long only"
+  },
+  {
+    "start": "00:12:15.150",
+    "end": "00:12:15.160",
+    "start_seconds": 735.15,
+    "end_seconds": 735.16,
+    "text": "risk than going into a long only"
+  },
+  {
+    "start": "00:12:15.160",
+    "end": "00:12:16.910",
+    "start_seconds": 735.16,
+    "end_seconds": 736.91,
+    "text": "risk than going into a long only strategy."
+  },
+  {
+    "start": "00:12:16.910",
+    "end": "00:12:16.920",
+    "start_seconds": 736.91,
+    "end_seconds": 736.92,
+    "text": "strategy."
+  },
+  {
+    "start": "00:12:16.920",
+    "end": "00:12:18.350",
+    "start_seconds": 736.92,
+    "end_seconds": 738.35,
+    "text": "strategy. Now, let's look at hedge funds a little"
+  },
+  {
+    "start": "00:12:18.350",
+    "end": "00:12:18.360",
+    "start_seconds": 738.35,
+    "end_seconds": 738.36,
+    "text": "Now, let's look at hedge funds a little"
+  },
+  {
+    "start": "00:12:18.360",
+    "end": "00:12:21.030",
+    "start_seconds": 738.36,
+    "end_seconds": 741.03,
+    "text": "Now, let's look at hedge funds a little closer to see what it is you might have"
+  },
+  {
+    "start": "00:12:21.030",
+    "end": "00:12:21.040",
+    "start_seconds": 741.03,
+    "end_seconds": 741.04,
+    "text": "closer to see what it is you might have"
+  },
+  {
+    "start": "00:12:21.040",
+    "end": "00:12:22.670",
+    "start_seconds": 741.04,
+    "end_seconds": 742.67,
+    "text": "closer to see what it is you might have to worry about if you're an investor"
+  },
+  {
+    "start": "00:12:22.670",
+    "end": "00:12:22.680",
+    "start_seconds": 742.67,
+    "end_seconds": 742.68,
+    "text": "to worry about if you're an investor"
+  },
+  {
+    "start": "00:12:22.680",
+    "end": "00:12:23.790",
+    "start_seconds": 742.68,
+    "end_seconds": 743.79,
+    "text": "to worry about if you're an investor thinking about putting your money in"
+  },
+  {
+    "start": "00:12:23.790",
+    "end": "00:12:23.800",
+    "start_seconds": 743.79,
+    "end_seconds": 743.8,
+    "text": "thinking about putting your money in"
+  },
+  {
+    "start": "00:12:23.800",
+    "end": "00:12:26.550",
+    "start_seconds": 743.8,
+    "end_seconds": 746.55,
+    "text": "thinking about putting your money in hedge funds. It's true. They offer much"
+  },
+  {
+    "start": "00:12:26.550",
+    "end": "00:12:26.560",
+    "start_seconds": 746.55,
+    "end_seconds": 746.56,
+    "text": "hedge funds. It's true. They offer much"
+  },
+  {
+    "start": "00:12:26.560",
+    "end": "00:12:28.430",
+    "start_seconds": 746.56,
+    "end_seconds": 748.43,
+    "text": "hedge funds. It's true. They offer much better risk return risk trade-offs, and"
+  },
+  {
+    "start": "00:12:28.430",
+    "end": "00:12:28.440",
+    "start_seconds": 748.43,
+    "end_seconds": 748.44,
+    "text": "better risk return risk trade-offs, and"
+  },
+  {
+    "start": "00:12:28.440",
+    "end": "00:12:30.390",
+    "start_seconds": 748.44,
+    "end_seconds": 750.39,
+    "text": "better risk return risk trade-offs, and this has been pretty much the case in"
+  },
+  {
+    "start": "00:12:30.390",
+    "end": "00:12:30.400",
+    "start_seconds": 750.39,
+    "end_seconds": 750.4,
+    "text": "this has been pretty much the case in"
+  },
+  {
+    "start": "00:12:30.400",
+    "end": "00:12:32.310",
+    "start_seconds": 750.4,
+    "end_seconds": 752.31,
+    "text": "this has been pretty much the case in every study of hedge funds."
+  },
+  {
+    "start": "00:12:32.310",
+    "end": "00:12:32.320",
+    "start_seconds": 752.31,
+    "end_seconds": 752.32,
+    "text": "every study of hedge funds."
+  },
+  {
+    "start": "00:12:32.320",
+    "end": "00:12:35.110",
+    "start_seconds": 752.32,
+    "end_seconds": 755.11,
+    "text": "every study of hedge funds. But there's a significant survival risk"
+  },
+  {
+    "start": "00:12:35.110",
+    "end": "00:12:35.120",
+    "start_seconds": 755.11,
+    "end_seconds": 755.12,
+    "text": "But there's a significant survival risk"
+  },
+  {
+    "start": "00:12:35.120",
+    "end": "00:12:37.350",
+    "start_seconds": 755.12,
+    "end_seconds": 757.35,
+    "text": "But there's a significant survival risk that if you don't factor in, will bias"
+  },
+  {
+    "start": "00:12:37.350",
+    "end": "00:12:37.360",
+    "start_seconds": 757.35,
+    "end_seconds": 757.36,
+    "text": "that if you don't factor in, will bias"
+  },
+  {
+    "start": "00:12:37.360",
+    "end": "00:12:39.390",
+    "start_seconds": 757.36,
+    "end_seconds": 759.39,
+    "text": "that if you don't factor in, will bias you towards finding hedge funds to be"
+  },
+  {
+    "start": "00:12:39.390",
+    "end": "00:12:39.400",
+    "start_seconds": 759.39,
+    "end_seconds": 759.4,
+    "text": "you towards finding hedge funds to be"
+  },
+  {
+    "start": "00:12:39.400",
+    "end": "00:12:41.510",
+    "start_seconds": 759.4,
+    "end_seconds": 761.51,
+    "text": "you towards finding hedge funds to be better investors than they truly are."
+  },
+  {
+    "start": "00:12:41.510",
+    "end": "00:12:41.520",
+    "start_seconds": 761.51,
+    "end_seconds": 761.52,
+    "text": "better investors than they truly are."
+  },
+  {
+    "start": "00:12:41.520",
+    "end": "00:12:43.829",
+    "start_seconds": 761.52,
+    "end_seconds": 763.829,
+    "text": "better investors than they truly are. What am I talking about? A bad mutual"
+  },
+  {
+    "start": "00:12:43.829",
+    "end": "00:12:43.839",
+    "start_seconds": 763.829,
+    "end_seconds": 763.8389999999999,
+    "text": "What am I talking about? A bad mutual"
+  },
+  {
+    "start": "00:12:43.839",
+    "end": "00:12:46.350",
+    "start_seconds": 763.8389999999999,
+    "end_seconds": 766.35,
+    "text": "What am I talking about? A bad mutual fund can stay bad and not go away. A bad"
+  },
+  {
+    "start": "00:12:46.350",
+    "end": "00:12:46.360",
+    "start_seconds": 766.35,
+    "end_seconds": 766.36,
+    "text": "fund can stay bad and not go away. A bad"
+  },
+  {
+    "start": "00:12:46.360",
+    "end": "00:12:47.829",
+    "start_seconds": 766.36,
+    "end_seconds": 767.829,
+    "text": "fund can stay bad and not go away. A bad hedge fund"
+  },
+  {
+    "start": "00:12:47.829",
+    "end": "00:12:47.839",
+    "start_seconds": 767.829,
+    "end_seconds": 767.8389999999999,
+    "text": "hedge fund"
+  },
+  {
+    "start": "00:12:47.839",
+    "end": "00:12:49.990",
+    "start_seconds": 767.8389999999999,
+    "end_seconds": 769.99,
+    "text": "hedge fund goes away. The way this shows up in"
+  },
+  {
+    "start": "00:12:49.990",
+    "end": "00:12:50.000",
+    "start_seconds": 769.99,
+    "end_seconds": 770.0,
+    "text": "goes away. The way this shows up in"
+  },
+  {
+    "start": "00:12:50.000",
+    "end": "00:12:51.870",
+    "start_seconds": 770.0,
+    "end_seconds": 771.87,
+    "text": "goes away. The way this shows up in studies, if I look at existing hedge"
+  },
+  {
+    "start": "00:12:51.870",
+    "end": "00:12:51.880",
+    "start_seconds": 771.87,
+    "end_seconds": 771.88,
+    "text": "studies, if I look at existing hedge"
+  },
+  {
+    "start": "00:12:51.880",
+    "end": "00:12:53.510",
+    "start_seconds": 771.88,
+    "end_seconds": 773.51,
+    "text": "studies, if I look at existing hedge funds and work backwards, I will"
+  },
+  {
+    "start": "00:12:53.510",
+    "end": "00:12:53.520",
+    "start_seconds": 773.51,
+    "end_seconds": 773.52,
+    "text": "funds and work backwards, I will"
+  },
+  {
+    "start": "00:12:53.520",
+    "end": "00:12:56.070",
+    "start_seconds": 773.52,
+    "end_seconds": 776.07,
+    "text": "funds and work backwards, I will overstate the returns of hedge funds."
+  },
+  {
+    "start": "00:12:56.070",
+    "end": "00:12:56.080",
+    "start_seconds": 776.07,
+    "end_seconds": 776.08,
+    "text": "overstate the returns of hedge funds."
+  },
+  {
+    "start": "00:12:56.080",
+    "end": "00:12:58.590",
+    "start_seconds": 776.08,
+    "end_seconds": 778.59,
+    "text": "overstate the returns of hedge funds. Why? Cuz to see what hedge funds made"
+  },
+  {
+    "start": "00:12:58.590",
+    "end": "00:12:58.600",
+    "start_seconds": 778.59,
+    "end_seconds": 778.6,
+    "text": "Why? Cuz to see what hedge funds made"
+  },
+  {
+    "start": "00:12:58.600",
+    "end": "00:13:00.790",
+    "start_seconds": 778.6,
+    "end_seconds": 780.79,
+    "text": "Why? Cuz to see what hedge funds made over the last 5 years, I need to go back"
+  },
+  {
+    "start": "00:13:00.790",
+    "end": "00:13:00.800",
+    "start_seconds": 780.79,
+    "end_seconds": 780.8,
+    "text": "over the last 5 years, I need to go back"
+  },
+  {
+    "start": "00:13:00.800",
+    "end": "00:13:02.990",
+    "start_seconds": 780.8,
+    "end_seconds": 782.99,
+    "text": "over the last 5 years, I need to go back in time 5 years ago, put my money in"
+  },
+  {
+    "start": "00:13:02.990",
+    "end": "00:13:03.000",
+    "start_seconds": 782.99,
+    "end_seconds": 783.0,
+    "text": "in time 5 years ago, put my money in"
+  },
+  {
+    "start": "00:13:03.000",
+    "end": "00:13:05.430",
+    "start_seconds": 783.0,
+    "end_seconds": 785.43,
+    "text": "in time 5 years ago, put my money in hedge funds as they existed then, and"
+  },
+  {
+    "start": "00:13:05.430",
+    "end": "00:13:05.440",
+    "start_seconds": 785.43,
+    "end_seconds": 785.44,
+    "text": "hedge funds as they existed then, and"
+  },
+  {
+    "start": "00:13:05.440",
+    "end": "00:13:07.310",
+    "start_seconds": 785.44,
+    "end_seconds": 787.31,
+    "text": "hedge funds as they existed then, and allow for the fact that hedge funds that"
+  },
+  {
+    "start": "00:13:07.310",
+    "end": "00:13:07.320",
+    "start_seconds": 787.31,
+    "end_seconds": 787.32,
+    "text": "allow for the fact that hedge funds that"
+  },
+  {
+    "start": "00:13:07.320",
+    "end": "00:13:08.990",
+    "start_seconds": 787.32,
+    "end_seconds": 788.99,
+    "text": "allow for the fact that hedge funds that die are the ones where I will lose the"
+  },
+  {
+    "start": "00:13:08.990",
+    "end": "00:13:09.000",
+    "start_seconds": 788.99,
+    "end_seconds": 789.0,
+    "text": "die are the ones where I will lose the"
+  },
+  {
+    "start": "00:13:09.000",
+    "end": "00:13:11.470",
+    "start_seconds": 789.0,
+    "end_seconds": 791.47,
+    "text": "die are the ones where I will lose the most money. This is survival issue with"
+  },
+  {
+    "start": "00:13:11.470",
+    "end": "00:13:11.480",
+    "start_seconds": 791.47,
+    "end_seconds": 791.48,
+    "text": "most money. This is survival issue with"
+  },
+  {
+    "start": "00:13:11.480",
+    "end": "00:13:12.790",
+    "start_seconds": 791.48,
+    "end_seconds": 792.79,
+    "text": "most money. This is survival issue with hedge funds."
+  },
+  {
+    "start": "00:13:12.790",
+    "end": "00:13:12.800",
+    "start_seconds": 792.79,
+    "end_seconds": 792.8,
+    "text": "hedge funds."
+  },
+  {
+    "start": "00:13:12.800",
+    "end": "00:13:14.550",
+    "start_seconds": 792.8,
+    "end_seconds": 794.55,
+    "text": "hedge funds. And if you factor in that survival"
+  },
+  {
+    "start": "00:13:14.550",
+    "end": "00:13:14.560",
+    "start_seconds": 794.55,
+    "end_seconds": 794.56,
+    "text": "And if you factor in that survival"
+  },
+  {
+    "start": "00:13:14.560",
+    "end": "00:13:16.270",
+    "start_seconds": 794.56,
+    "end_seconds": 796.27,
+    "text": "And if you factor in that survival issue, and the fact that hedge funds"
+  },
+  {
+    "start": "00:13:16.270",
+    "end": "00:13:16.280",
+    "start_seconds": 796.27,
+    "end_seconds": 796.28,
+    "text": "issue, and the fact that hedge funds"
+  },
+  {
+    "start": "00:13:16.280",
+    "end": "00:13:18.110",
+    "start_seconds": 796.28,
+    "end_seconds": 798.11,
+    "text": "issue, and the fact that hedge funds have become so much bigger in terms of"
+  },
+  {
+    "start": "00:13:18.110",
+    "end": "00:13:18.120",
+    "start_seconds": 798.11,
+    "end_seconds": 798.12,
+    "text": "have become so much bigger in terms of"
+  },
+  {
+    "start": "00:13:18.120",
+    "end": "00:13:19.829",
+    "start_seconds": 798.12,
+    "end_seconds": 799.829,
+    "text": "have become so much bigger in terms of money they invest,"
+  },
+  {
+    "start": "00:13:19.829",
+    "end": "00:13:19.839",
+    "start_seconds": 799.829,
+    "end_seconds": 799.8389999999999,
+    "text": "money they invest,"
+  },
+  {
+    "start": "00:13:19.839",
+    "end": "00:13:23.310",
+    "start_seconds": 799.8389999999999,
+    "end_seconds": 803.31,
+    "text": "money they invest, a reality check is coming into play."
+  },
+  {
+    "start": "00:13:23.310",
+    "end": "00:13:23.320",
+    "start_seconds": 803.31,
+    "end_seconds": 803.32,
+    "text": "a reality check is coming into play."
+  },
+  {
+    "start": "00:13:23.320",
+    "end": "00:13:24.870",
+    "start_seconds": 803.32,
+    "end_seconds": 804.87,
+    "text": "a reality check is coming into play. Remember we talked about alphas, what"
+  },
+  {
+    "start": "00:13:24.870",
+    "end": "00:13:24.880",
+    "start_seconds": 804.87,
+    "end_seconds": 804.88,
+    "text": "Remember we talked about alphas, what"
+  },
+  {
+    "start": "00:13:24.880",
+    "end": "00:13:27.430",
+    "start_seconds": 804.88,
+    "end_seconds": 807.43,
+    "text": "Remember we talked about alphas, what you earn over and above."
+  },
+  {
+    "start": "00:13:27.430",
+    "end": "00:13:27.440",
+    "start_seconds": 807.43,
+    "end_seconds": 807.44,
+    "text": "you earn over and above."
+  },
+  {
+    "start": "00:13:27.440",
+    "end": "00:13:29.390",
+    "start_seconds": 807.44,
+    "end_seconds": 809.39,
+    "text": "you earn over and above. Even allowing for the fact that hedge"
+  },
+  {
+    "start": "00:13:29.390",
+    "end": "00:13:29.400",
+    "start_seconds": 809.39,
+    "end_seconds": 809.4,
+    "text": "Even allowing for the fact that hedge"
+  },
+  {
+    "start": "00:13:29.400",
+    "end": "00:13:31.590",
+    "start_seconds": 809.4,
+    "end_seconds": 811.59,
+    "text": "Even allowing for the fact that hedge funds might deliver less risk than"
+  },
+  {
+    "start": "00:13:31.590",
+    "end": "00:13:31.600",
+    "start_seconds": 811.59,
+    "end_seconds": 811.6,
+    "text": "funds might deliver less risk than"
+  },
+  {
+    "start": "00:13:31.600",
+    "end": "00:13:33.030",
+    "start_seconds": 811.6,
+    "end_seconds": 813.03,
+    "text": "funds might deliver less risk than traditional funds, and you calculate the"
+  },
+  {
+    "start": "00:13:33.030",
+    "end": "00:13:33.040",
+    "start_seconds": 813.03,
+    "end_seconds": 813.04,
+    "text": "traditional funds, and you calculate the"
+  },
+  {
+    "start": "00:13:33.040",
+    "end": "00:13:35.150",
+    "start_seconds": 813.04,
+    "end_seconds": 815.15,
+    "text": "traditional funds, and you calculate the alpha based on that lower risk,"
+  },
+  {
+    "start": "00:13:35.150",
+    "end": "00:13:35.160",
+    "start_seconds": 815.15,
+    "end_seconds": 815.16,
+    "text": "alpha based on that lower risk,"
+  },
+  {
+    "start": "00:13:35.160",
+    "end": "00:13:37.110",
+    "start_seconds": 815.16,
+    "end_seconds": 817.11,
+    "text": "alpha based on that lower risk, the alphas of hedge funds have been on a"
+  },
+  {
+    "start": "00:13:37.110",
+    "end": "00:13:37.120",
+    "start_seconds": 817.11,
+    "end_seconds": 817.12,
+    "text": "the alphas of hedge funds have been on a"
+  },
+  {
+    "start": "00:13:37.120",
+    "end": "00:13:40.750",
+    "start_seconds": 817.12,
+    "end_seconds": 820.75,
+    "text": "the alphas of hedge funds have been on a downward trend for a long time."
+  },
+  {
+    "start": "00:13:40.750",
+    "end": "00:13:40.760",
+    "start_seconds": 820.75,
+    "end_seconds": 820.76,
+    "text": "downward trend for a long time."
+  },
+  {
+    "start": "00:13:40.760",
+    "end": "00:13:43.870",
+    "start_seconds": 820.76,
+    "end_seconds": 823.87,
+    "text": "downward trend for a long time. In fact, for the last decade, you cannot"
+  },
+  {
+    "start": "00:13:43.870",
+    "end": "00:13:43.880",
+    "start_seconds": 823.87,
+    "end_seconds": 823.88,
+    "text": "In fact, for the last decade, you cannot"
+  },
+  {
+    "start": "00:13:43.880",
+    "end": "00:13:45.990",
+    "start_seconds": 823.88,
+    "end_seconds": 825.99,
+    "text": "In fact, for the last decade, you cannot reject the hypothesis that the alphas of"
+  },
+  {
+    "start": "00:13:45.990",
+    "end": "00:13:46.000",
+    "start_seconds": 825.99,
+    "end_seconds": 826.0,
+    "text": "reject the hypothesis that the alphas of"
+  },
+  {
+    "start": "00:13:46.000",
+    "end": "00:13:49.030",
+    "start_seconds": 826.0,
+    "end_seconds": 829.03,
+    "text": "reject the hypothesis that the alphas of hedge funds have dropped to zero."
+  },
+  {
+    "start": "00:13:49.030",
+    "end": "00:13:49.040",
+    "start_seconds": 829.03,
+    "end_seconds": 829.04,
+    "text": "hedge funds have dropped to zero."
+  },
+  {
+    "start": "00:13:49.040",
+    "end": "00:13:50.990",
+    "start_seconds": 829.04,
+    "end_seconds": 830.99,
+    "text": "hedge funds have dropped to zero. You say, \"Why is this happening?\" Again,"
+  },
+  {
+    "start": "00:13:50.990",
+    "end": "00:13:51.000",
+    "start_seconds": 830.99,
+    "end_seconds": 831.0,
+    "text": "You say, \"Why is this happening?\" Again,"
+  },
+  {
+    "start": "00:13:51.000",
+    "end": "00:13:54.270",
+    "start_seconds": 831.0,
+    "end_seconds": 834.27,
+    "text": "You say, \"Why is this happening?\" Again, imitation. Lots of capital coming in is"
+  },
+  {
+    "start": "00:13:54.270",
+    "end": "00:13:54.280",
+    "start_seconds": 834.27,
+    "end_seconds": 834.28,
+    "text": "imitation. Lots of capital coming in is"
+  },
+  {
+    "start": "00:13:54.280",
+    "end": "00:13:56.230",
+    "start_seconds": 834.28,
+    "end_seconds": 836.23,
+    "text": "imitation. Lots of capital coming in is wiping out the excess returns with hedge"
+  },
+  {
+    "start": "00:13:56.230",
+    "end": "00:13:56.240",
+    "start_seconds": 836.23,
+    "end_seconds": 836.24,
+    "text": "wiping out the excess returns with hedge"
+  },
+  {
+    "start": "00:13:56.240",
+    "end": "00:13:57.550",
+    "start_seconds": 836.24,
+    "end_seconds": 837.55,
+    "text": "wiping out the excess returns with hedge funds. If you remember, we discovered"
+  },
+  {
+    "start": "00:13:57.550",
+    "end": "00:13:57.560",
+    "start_seconds": 837.55,
+    "end_seconds": 837.56,
+    "text": "funds. If you remember, we discovered"
+  },
+  {
+    "start": "00:13:57.560",
+    "end": "00:14:00.350",
+    "start_seconds": 837.56,
+    "end_seconds": 840.35,
+    "text": "funds. If you remember, we discovered the same phenomenon with private equity."
+  },
+  {
+    "start": "00:14:00.350",
+    "end": "00:14:00.360",
+    "start_seconds": 840.35,
+    "end_seconds": 840.36,
+    "text": "the same phenomenon with private equity."
+  },
+  {
+    "start": "00:14:00.360",
+    "end": "00:14:01.710",
+    "start_seconds": 840.36,
+    "end_seconds": 841.71,
+    "text": "the same phenomenon with private equity. Two of the pillars of alternative"
+  },
+  {
+    "start": "00:14:01.710",
+    "end": "00:14:01.720",
+    "start_seconds": 841.71,
+    "end_seconds": 841.72,
+    "text": "Two of the pillars of alternative"
+  },
+  {
+    "start": "00:14:01.720",
+    "end": "00:14:04.070",
+    "start_seconds": 841.72,
+    "end_seconds": 844.07,
+    "text": "Two of the pillars of alternative investing have seen their alphas"
+  },
+  {
+    "start": "00:14:04.070",
+    "end": "00:14:04.080",
+    "start_seconds": 844.07,
+    "end_seconds": 844.08,
+    "text": "investing have seen their alphas"
+  },
+  {
+    "start": "00:14:04.080",
+    "end": "00:14:07.070",
+    "start_seconds": 844.08,
+    "end_seconds": 847.07,
+    "text": "investing have seen their alphas decrease over time because of more money"
+  },
+  {
+    "start": "00:14:07.070",
+    "end": "00:14:07.080",
+    "start_seconds": 847.07,
+    "end_seconds": 847.08,
+    "text": "decrease over time because of more money"
+  },
+  {
+    "start": "00:14:07.080",
+    "end": "00:14:08.430",
+    "start_seconds": 847.08,
+    "end_seconds": 848.43,
+    "text": "decrease over time because of more money coming in."
+  },
+  {
+    "start": "00:14:08.430",
+    "end": "00:14:08.440",
+    "start_seconds": 848.43,
+    "end_seconds": 848.44,
+    "text": "coming in."
+  },
+  {
+    "start": "00:14:08.440",
+    "end": "00:14:09.830",
+    "start_seconds": 848.44,
+    "end_seconds": 849.83,
+    "text": "coming in. So, let's summarize what we've learned"
+  },
+  {
+    "start": "00:14:09.830",
+    "end": "00:14:09.840",
+    "start_seconds": 849.83,
+    "end_seconds": 849.84,
+    "text": "So, let's summarize what we've learned"
+  },
+  {
+    "start": "00:14:09.840",
+    "end": "00:14:11.350",
+    "start_seconds": 849.84,
+    "end_seconds": 851.35,
+    "text": "So, let's summarize what we've learned with arbitrage."
+  },
+  {
+    "start": "00:14:11.350",
+    "end": "00:14:11.360",
+    "start_seconds": 851.35,
+    "end_seconds": 851.36,
+    "text": "with arbitrage."
+  },
+  {
+    "start": "00:14:11.360",
+    "end": "00:14:13.550",
+    "start_seconds": 851.36,
+    "end_seconds": 853.55,
+    "text": "with arbitrage. Arbitrage can take three forms. It can"
+  },
+  {
+    "start": "00:14:13.550",
+    "end": "00:14:13.560",
+    "start_seconds": 853.55,
+    "end_seconds": 853.56,
+    "text": "Arbitrage can take three forms. It can"
+  },
+  {
+    "start": "00:14:13.560",
+    "end": "00:14:15.510",
+    "start_seconds": 853.56,
+    "end_seconds": 855.51,
+    "text": "Arbitrage can take three forms. It can be pure arbitrage, where you have two"
+  },
+  {
+    "start": "00:14:15.510",
+    "end": "00:14:15.520",
+    "start_seconds": 855.51,
+    "end_seconds": 855.52,
+    "text": "be pure arbitrage, where you have two"
+  },
+  {
+    "start": "00:14:15.520",
+    "end": "00:14:17.270",
+    "start_seconds": 855.52,
+    "end_seconds": 857.27,
+    "text": "be pure arbitrage, where you have two assets exactly the same cash flows"
+  },
+  {
+    "start": "00:14:17.270",
+    "end": "00:14:17.280",
+    "start_seconds": 857.27,
+    "end_seconds": 857.28,
+    "text": "assets exactly the same cash flows"
+  },
+  {
+    "start": "00:14:17.280",
+    "end": "00:14:19.510",
+    "start_seconds": 857.28,
+    "end_seconds": 859.51,
+    "text": "assets exactly the same cash flows trading at different prices. They can"
+  },
+  {
+    "start": "00:14:19.510",
+    "end": "00:14:19.520",
+    "start_seconds": 859.51,
+    "end_seconds": 859.52,
+    "text": "trading at different prices. They can"
+  },
+  {
+    "start": "00:14:19.520",
+    "end": "00:14:22.350",
+    "start_seconds": 859.52,
+    "end_seconds": 862.35,
+    "text": "trading at different prices. They can borrow 100%, lock in the profit, you"
+  },
+  {
+    "start": "00:14:22.350",
+    "end": "00:14:22.360",
+    "start_seconds": 862.35,
+    "end_seconds": 862.36,
+    "text": "borrow 100%, lock in the profit, you"
+  },
+  {
+    "start": "00:14:22.360",
+    "end": "00:14:24.310",
+    "start_seconds": 862.36,
+    "end_seconds": 864.31,
+    "text": "borrow 100%, lock in the profit, you have pure arbitrage profits. That's"
+  },
+  {
+    "start": "00:14:24.310",
+    "end": "00:14:24.320",
+    "start_seconds": 864.31,
+    "end_seconds": 864.32,
+    "text": "have pure arbitrage profits. That's"
+  },
+  {
+    "start": "00:14:24.320",
+    "end": "00:14:27.070",
+    "start_seconds": 864.32,
+    "end_seconds": 867.07,
+    "text": "have pure arbitrage profits. That's great, but it's rare, and it doesn't"
+  },
+  {
+    "start": "00:14:27.070",
+    "end": "00:14:27.080",
+    "start_seconds": 867.07,
+    "end_seconds": 867.08,
+    "text": "great, but it's rare, and it doesn't"
+  },
+  {
+    "start": "00:14:27.080",
+    "end": "00:14:28.710",
+    "start_seconds": 867.08,
+    "end_seconds": 868.71,
+    "text": "great, but it's rare, and it doesn't last very long."
+  },
+  {
+    "start": "00:14:28.710",
+    "end": "00:14:28.720",
+    "start_seconds": 868.71,
+    "end_seconds": 868.72,
+    "text": "last very long."
+  },
+  {
+    "start": "00:14:28.720",
+    "end": "00:14:31.470",
+    "start_seconds": 868.72,
+    "end_seconds": 871.47,
+    "text": "last very long. Near arbitrage is more common,"
+  },
+  {
+    "start": "00:14:31.470",
+    "end": "00:14:31.480",
+    "start_seconds": 871.47,
+    "end_seconds": 871.48,
+    "text": "Near arbitrage is more common,"
+  },
+  {
+    "start": "00:14:31.480",
+    "end": "00:14:33.590",
+    "start_seconds": 871.48,
+    "end_seconds": 873.59,
+    "text": "Near arbitrage is more common, but near arbitrage comes with some risk,"
+  },
+  {
+    "start": "00:14:33.590",
+    "end": "00:14:33.600",
+    "start_seconds": 873.59,
+    "end_seconds": 873.6,
+    "text": "but near arbitrage comes with some risk,"
+  },
+  {
+    "start": "00:14:33.600",
+    "end": "00:14:35.470",
+    "start_seconds": 873.6,
+    "end_seconds": 875.47,
+    "text": "but near arbitrage comes with some risk, and you got to adjust for that when you"
+  },
+  {
+    "start": "00:14:35.470",
+    "end": "00:14:35.480",
+    "start_seconds": 875.47,
+    "end_seconds": 875.48,
+    "text": "and you got to adjust for that when you"
+  },
+  {
+    "start": "00:14:35.480",
+    "end": "00:14:36.829",
+    "start_seconds": 875.48,
+    "end_seconds": 876.829,
+    "text": "and you got to adjust for that when you borrow money."
+  },
+  {
+    "start": "00:14:36.829",
+    "end": "00:14:36.839",
+    "start_seconds": 876.829,
+    "end_seconds": 876.8389999999999,
+    "text": "borrow money."
+  },
+  {
+    "start": "00:14:36.839",
+    "end": "00:14:38.870",
+    "start_seconds": 876.8389999999999,
+    "end_seconds": 878.87,
+    "text": "borrow money. And there can be that some risk, and"
+  },
+  {
+    "start": "00:14:38.870",
+    "end": "00:14:38.880",
+    "start_seconds": 878.87,
+    "end_seconds": 878.88,
+    "text": "And there can be that some risk, and"
+  },
+  {
+    "start": "00:14:38.880",
+    "end": "00:14:40.870",
+    "start_seconds": 878.88,
+    "end_seconds": 880.87,
+    "text": "And there can be that some risk, and sometimes blow up on you. And pseudo"
+  },
+  {
+    "start": "00:14:40.870",
+    "end": "00:14:40.880",
+    "start_seconds": 880.87,
+    "end_seconds": 880.88,
+    "text": "sometimes blow up on you. And pseudo"
+  },
+  {
+    "start": "00:14:40.880",
+    "end": "00:14:42.670",
+    "start_seconds": 880.88,
+    "end_seconds": 882.67,
+    "text": "sometimes blow up on you. And pseudo arbitrage is really not arbitrage. I"
+  },
+  {
+    "start": "00:14:42.670",
+    "end": "00:14:42.680",
+    "start_seconds": 882.67,
+    "end_seconds": 882.68,
+    "text": "arbitrage is really not arbitrage. I"
+  },
+  {
+    "start": "00:14:42.680",
+    "end": "00:14:44.430",
+    "start_seconds": 882.68,
+    "end_seconds": 884.43,
+    "text": "arbitrage is really not arbitrage. I don't even know why we attach the term"
+  },
+  {
+    "start": "00:14:44.430",
+    "end": "00:14:44.440",
+    "start_seconds": 884.43,
+    "end_seconds": 884.44,
+    "text": "don't even know why we attach the term"
+  },
+  {
+    "start": "00:14:44.440",
+    "end": "00:14:46.070",
+    "start_seconds": 884.44,
+    "end_seconds": 886.07,
+    "text": "don't even know why we attach the term arbitrage for it."
+  },
+  {
+    "start": "00:14:46.070",
+    "end": "00:14:46.080",
+    "start_seconds": 886.07,
+    "end_seconds": 886.08,
+    "text": "arbitrage for it."
+  },
+  {
+    "start": "00:14:46.080",
+    "end": "00:14:47.950",
+    "start_seconds": 886.08,
+    "end_seconds": 887.95,
+    "text": "arbitrage for it. It's just risky strategies. They might"
+  },
+  {
+    "start": "00:14:47.950",
+    "end": "00:14:47.960",
+    "start_seconds": 887.95,
+    "end_seconds": 887.96,
+    "text": "It's just risky strategies. They might"
+  },
+  {
+    "start": "00:14:47.960",
+    "end": "00:14:50.710",
+    "start_seconds": 887.96,
+    "end_seconds": 890.71,
+    "text": "It's just risky strategies. They might be good risky strategies. They might"
+  },
+  {
+    "start": "00:14:50.710",
+    "end": "00:14:50.720",
+    "start_seconds": 890.71,
+    "end_seconds": 890.72,
+    "text": "be good risky strategies. They might"
+  },
+  {
+    "start": "00:14:50.720",
+    "end": "00:14:52.790",
+    "start_seconds": 890.72,
+    "end_seconds": 892.79,
+    "text": "be good risky strategies. They might deliver returns that justify the risk,"
+  },
+  {
+    "start": "00:14:52.790",
+    "end": "00:14:52.800",
+    "start_seconds": 892.79,
+    "end_seconds": 892.8,
+    "text": "deliver returns that justify the risk,"
+  },
+  {
+    "start": "00:14:52.800",
+    "end": "00:14:55.630",
+    "start_seconds": 892.8,
+    "end_seconds": 895.63,
+    "text": "deliver returns that justify the risk, but arbitrage doesn't belong in here."
+  },
+  {
+    "start": "00:14:55.630",
+    "end": "00:14:55.640",
+    "start_seconds": 895.63,
+    "end_seconds": 895.64,
+    "text": "but arbitrage doesn't belong in here."
+  },
+  {
+    "start": "00:14:55.640",
+    "end": "00:14:57.790",
+    "start_seconds": 895.64,
+    "end_seconds": 897.79,
+    "text": "but arbitrage doesn't belong in here. Hedge funds, in theory, could do"
+  },
+  {
+    "start": "00:14:57.790",
+    "end": "00:14:57.800",
+    "start_seconds": 897.79,
+    "end_seconds": 897.8,
+    "text": "Hedge funds, in theory, could do"
+  },
+  {
+    "start": "00:14:57.800",
+    "end": "00:15:00.829",
+    "start_seconds": 897.8,
+    "end_seconds": 900.829,
+    "text": "Hedge funds, in theory, could do arbitrage, but in practice, they don't."
+  },
+  {
+    "start": "00:15:00.829",
+    "end": "00:15:00.839",
+    "start_seconds": 900.829,
+    "end_seconds": 900.839,
+    "text": "arbitrage, but in practice, they don't."
+  },
+  {
+    "start": "00:15:00.839",
+    "end": "00:15:03.710",
+    "start_seconds": 900.839,
+    "end_seconds": 903.71,
+    "text": "arbitrage, but in practice, they don't. They have lower risk strategies coming"
+  },
+  {
+    "start": "00:15:03.710",
+    "end": "00:15:03.720",
+    "start_seconds": 903.71,
+    "end_seconds": 903.72,
+    "text": "They have lower risk strategies coming"
+  },
+  {
+    "start": "00:15:03.720",
+    "end": "00:15:06.070",
+    "start_seconds": 903.72,
+    "end_seconds": 906.07,
+    "text": "They have lower risk strategies coming from the fact that they can sell short."
+  },
+  {
+    "start": "00:15:06.070",
+    "end": "00:15:06.080",
+    "start_seconds": 906.07,
+    "end_seconds": 906.08,
+    "text": "from the fact that they can sell short."
+  },
+  {
+    "start": "00:15:06.080",
+    "end": "00:15:08.110",
+    "start_seconds": 906.08,
+    "end_seconds": 908.11,
+    "text": "from the fact that they can sell short. And at least, over time, we've"
+  },
+  {
+    "start": "00:15:08.110",
+    "end": "00:15:08.120",
+    "start_seconds": 908.11,
+    "end_seconds": 908.12,
+    "text": "And at least, over time, we've"
+  },
+  {
+    "start": "00:15:08.120",
+    "end": "00:15:09.950",
+    "start_seconds": 908.12,
+    "end_seconds": 909.95,
+    "text": "And at least, over time, we've discovered their alphas have decreased"
+  },
+  {
+    "start": "00:15:09.950",
+    "end": "00:15:09.960",
+    "start_seconds": 909.95,
+    "end_seconds": 909.96,
+    "text": "discovered their alphas have decreased"
+  },
+  {
+    "start": "00:15:09.960",
+    "end": "00:15:11.390",
+    "start_seconds": 909.96,
+    "end_seconds": 911.39,
+    "text": "discovered their alphas have decreased as they become bigger, and become more"
+  },
+  {
+    "start": "00:15:11.390",
+    "end": "00:15:11.400",
+    "start_seconds": 911.39,
+    "end_seconds": 911.4,
+    "text": "as they become bigger, and become more"
+  },
+  {
+    "start": "00:15:11.400",
+    "end": "00:15:13.070",
+    "start_seconds": 911.4,
+    "end_seconds": 913.07,
+    "text": "as they become bigger, and become more difficult for you to create excess"
+  },
+  {
+    "start": "00:15:13.070",
+    "end": "00:15:13.080",
+    "start_seconds": 913.07,
+    "end_seconds": 913.08,
+    "text": "difficult for you to create excess"
+  },
+  {
+    "start": "00:15:13.080",
+    "end": "00:15:15.150",
+    "start_seconds": 913.08,
+    "end_seconds": 915.15,
+    "text": "difficult for you to create excess returns."
+  },
+  {
+    "start": "00:15:15.150",
+    "end": "00:15:15.160",
+    "start_seconds": 915.15,
+    "end_seconds": 915.16,
+    "text": "returns."
+  },
+  {
+    "start": "00:15:15.160",
+    "end": "00:15:16.470",
+    "start_seconds": 915.16,
+    "end_seconds": 916.47,
+    "text": "returns. So, I hope you found this session"
+  },
+  {
+    "start": "00:15:16.470",
+    "end": "00:15:16.480",
+    "start_seconds": 916.47,
+    "end_seconds": 916.48,
+    "text": "So, I hope you found this session"
+  },
+  {
+    "start": "00:15:16.480",
+    "end": "00:15:18.910",
+    "start_seconds": 916.48,
+    "end_seconds": 918.91,
+    "text": "So, I hope you found this session useful, and I thank you very much for"
+  },
+  {
+    "start": "00:15:18.910",
+    "end": "00:15:18.920",
+    "start_seconds": 918.91,
+    "end_seconds": 918.92,
+    "text": "useful, and I thank you very much for"
+  },
+  {
+    "start": "00:15:18.920",
+    "end": "00:15:21.440",
+    "start_seconds": 918.92,
+    "end_seconds": 921.44,
+    "text": "useful, and I thank you very much for listening."
+  }
+]

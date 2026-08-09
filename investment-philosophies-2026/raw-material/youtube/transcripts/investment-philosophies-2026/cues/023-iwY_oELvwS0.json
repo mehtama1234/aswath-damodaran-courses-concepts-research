@@ -1,0 +1,4188 @@
+[
+  {
+    "start": "00:00:00.320",
+    "end": "00:00:02.230",
+    "start_seconds": 0.32,
+    "end_seconds": 2.23,
+    "text": "Hi, welcome back."
+  },
+  {
+    "start": "00:00:02.230",
+    "end": "00:00:02.240",
+    "start_seconds": 2.23,
+    "end_seconds": 2.24,
+    "text": "Hi, welcome back."
+  },
+  {
+    "start": "00:00:02.240",
+    "end": "00:00:03.950",
+    "start_seconds": 2.24,
+    "end_seconds": 3.95,
+    "text": "Hi, welcome back. In this session I'd like to talk about"
+  },
+  {
+    "start": "00:00:03.950",
+    "end": "00:00:03.960",
+    "start_seconds": 3.95,
+    "end_seconds": 3.96,
+    "text": "In this session I'd like to talk about"
+  },
+  {
+    "start": "00:00:03.960",
+    "end": "00:00:06.430",
+    "start_seconds": 3.96,
+    "end_seconds": 6.43,
+    "text": "In this session I'd like to talk about trading on information, buying or"
+  },
+  {
+    "start": "00:00:06.430",
+    "end": "00:00:06.440",
+    "start_seconds": 6.43,
+    "end_seconds": 6.44,
+    "text": "trading on information, buying or"
+  },
+  {
+    "start": "00:00:06.440",
+    "end": "00:00:08.590",
+    "start_seconds": 6.44,
+    "end_seconds": 8.59,
+    "text": "trading on information, buying or selling based on information."
+  },
+  {
+    "start": "00:00:08.590",
+    "end": "00:00:08.600",
+    "start_seconds": 8.59,
+    "end_seconds": 8.6,
+    "text": "selling based on information."
+  },
+  {
+    "start": "00:00:08.600",
+    "end": "00:00:10.230",
+    "start_seconds": 8.6,
+    "end_seconds": 10.23,
+    "text": "selling based on information. Wall Street is full of these little"
+  },
+  {
+    "start": "00:00:10.230",
+    "end": "00:00:10.240",
+    "start_seconds": 10.23,
+    "end_seconds": 10.24,
+    "text": "Wall Street is full of these little"
+  },
+  {
+    "start": "00:00:10.240",
+    "end": "00:00:12.670",
+    "start_seconds": 10.24,
+    "end_seconds": 12.67,
+    "text": "Wall Street is full of these little adages, buy on the rumor, sell on the"
+  },
+  {
+    "start": "00:00:12.670",
+    "end": "00:00:12.680",
+    "start_seconds": 12.67,
+    "end_seconds": 12.68,
+    "text": "adages, buy on the rumor, sell on the"
+  },
+  {
+    "start": "00:00:12.680",
+    "end": "00:00:14.390",
+    "start_seconds": 12.68,
+    "end_seconds": 14.39,
+    "text": "adages, buy on the rumor, sell on the news. Is that true?"
+  },
+  {
+    "start": "00:00:14.390",
+    "end": "00:00:14.400",
+    "start_seconds": 14.39,
+    "end_seconds": 14.4,
+    "text": "news. Is that true?"
+  },
+  {
+    "start": "00:00:14.400",
+    "end": "00:00:16.350",
+    "start_seconds": 14.4,
+    "end_seconds": 16.35,
+    "text": "news. Is that true? So to set the foundation for what we're"
+  },
+  {
+    "start": "00:00:16.350",
+    "end": "00:00:16.360",
+    "start_seconds": 16.35,
+    "end_seconds": 16.36,
+    "text": "So to set the foundation for what we're"
+  },
+  {
+    "start": "00:00:16.360",
+    "end": "00:00:17.990",
+    "start_seconds": 16.36,
+    "end_seconds": 17.99,
+    "text": "So to set the foundation for what we're going to do in this session, let's think"
+  },
+  {
+    "start": "00:00:17.990",
+    "end": "00:00:18.000",
+    "start_seconds": 17.99,
+    "end_seconds": 18.0,
+    "text": "going to do in this session, let's think"
+  },
+  {
+    "start": "00:00:18.000",
+    "end": "00:00:21.150",
+    "start_seconds": 18.0,
+    "end_seconds": 21.15,
+    "text": "going to do in this session, let's think about what information is and how this"
+  },
+  {
+    "start": "00:00:21.150",
+    "end": "00:00:21.160",
+    "start_seconds": 21.15,
+    "end_seconds": 21.16,
+    "text": "about what information is and how this"
+  },
+  {
+    "start": "00:00:21.160",
+    "end": "00:00:23.790",
+    "start_seconds": 21.16,
+    "end_seconds": 23.79,
+    "text": "about what information is and how this process plays out."
+  },
+  {
+    "start": "00:00:23.790",
+    "end": "00:00:23.800",
+    "start_seconds": 23.79,
+    "end_seconds": 23.8,
+    "text": "process plays out."
+  },
+  {
+    "start": "00:00:23.800",
+    "end": "00:00:25.910",
+    "start_seconds": 23.8,
+    "end_seconds": 25.91,
+    "text": "process plays out. When you track a stock in the market,"
+  },
+  {
+    "start": "00:00:25.910",
+    "end": "00:00:25.920",
+    "start_seconds": 25.91,
+    "end_seconds": 25.92,
+    "text": "When you track a stock in the market,"
+  },
+  {
+    "start": "00:00:25.920",
+    "end": "00:00:27.790",
+    "start_seconds": 25.92,
+    "end_seconds": 27.79,
+    "text": "When you track a stock in the market, you have investors holding the stock and"
+  },
+  {
+    "start": "00:00:27.790",
+    "end": "00:00:27.800",
+    "start_seconds": 27.79,
+    "end_seconds": 27.8,
+    "text": "you have investors holding the stock and"
+  },
+  {
+    "start": "00:00:27.800",
+    "end": "00:00:29.830",
+    "start_seconds": 27.8,
+    "end_seconds": 29.83,
+    "text": "you have investors holding the stock and new information comes out about the"
+  },
+  {
+    "start": "00:00:29.830",
+    "end": "00:00:29.840",
+    "start_seconds": 29.83,
+    "end_seconds": 29.84,
+    "text": "new information comes out about the"
+  },
+  {
+    "start": "00:00:29.840",
+    "end": "00:00:31.710",
+    "start_seconds": 29.84,
+    "end_seconds": 31.71,
+    "text": "new information comes out about the stock. It could be an earnings report, a"
+  },
+  {
+    "start": "00:00:31.710",
+    "end": "00:00:31.720",
+    "start_seconds": 31.71,
+    "end_seconds": 31.72,
+    "text": "stock. It could be an earnings report, a"
+  },
+  {
+    "start": "00:00:31.720",
+    "end": "00:00:33.790",
+    "start_seconds": 31.72,
+    "end_seconds": 33.79,
+    "text": "stock. It could be an earnings report, a rumor about a stock, a management"
+  },
+  {
+    "start": "00:00:33.790",
+    "end": "00:00:33.800",
+    "start_seconds": 33.79,
+    "end_seconds": 33.8,
+    "text": "rumor about a stock, a management"
+  },
+  {
+    "start": "00:00:33.800",
+    "end": "00:00:34.990",
+    "start_seconds": 33.8,
+    "end_seconds": 34.99,
+    "text": "rumor about a stock, a management change."
+  },
+  {
+    "start": "00:00:34.990",
+    "end": "00:00:35.000",
+    "start_seconds": 34.99,
+    "end_seconds": 35.0,
+    "text": "change."
+  },
+  {
+    "start": "00:00:35.000",
+    "end": "00:00:37.070",
+    "start_seconds": 35.0,
+    "end_seconds": 37.07,
+    "text": "change. Investors attempt to assess the effect"
+  },
+  {
+    "start": "00:00:37.070",
+    "end": "00:00:37.080",
+    "start_seconds": 37.07,
+    "end_seconds": 37.08,
+    "text": "Investors attempt to assess the effect"
+  },
+  {
+    "start": "00:00:37.080",
+    "end": "00:00:39.950",
+    "start_seconds": 37.08,
+    "end_seconds": 39.95,
+    "text": "Investors attempt to assess the effect on price {slash} value based on that"
+  },
+  {
+    "start": "00:00:39.950",
+    "end": "00:00:39.960",
+    "start_seconds": 39.95,
+    "end_seconds": 39.96,
+    "text": "on price {slash} value based on that"
+  },
+  {
+    "start": "00:00:39.960",
+    "end": "00:00:41.750",
+    "start_seconds": 39.96,
+    "end_seconds": 41.75,
+    "text": "on price {slash} value based on that information."
+  },
+  {
+    "start": "00:00:41.750",
+    "end": "00:00:41.760",
+    "start_seconds": 41.75,
+    "end_seconds": 41.76,
+    "text": "information."
+  },
+  {
+    "start": "00:00:41.760",
+    "end": "00:00:43.270",
+    "start_seconds": 41.76,
+    "end_seconds": 43.27,
+    "text": "information. Now that assessment can be different for"
+  },
+  {
+    "start": "00:00:43.270",
+    "end": "00:00:43.280",
+    "start_seconds": 43.27,
+    "end_seconds": 43.28,
+    "text": "Now that assessment can be different for"
+  },
+  {
+    "start": "00:00:43.280",
+    "end": "00:00:45.630",
+    "start_seconds": 43.28,
+    "end_seconds": 45.63,
+    "text": "Now that assessment can be different for different investors. Why? Because the"
+  },
+  {
+    "start": "00:00:45.630",
+    "end": "00:00:45.640",
+    "start_seconds": 45.63,
+    "end_seconds": 45.64,
+    "text": "different investors. Why? Because the"
+  },
+  {
+    "start": "00:00:45.640",
+    "end": "00:00:47.230",
+    "start_seconds": 45.64,
+    "end_seconds": 47.23,
+    "text": "different investors. Why? Because the information they receive can actually be"
+  },
+  {
+    "start": "00:00:47.230",
+    "end": "00:00:47.240",
+    "start_seconds": 47.23,
+    "end_seconds": 47.24,
+    "text": "information they receive can actually be"
+  },
+  {
+    "start": "00:00:47.240",
+    "end": "00:00:49.350",
+    "start_seconds": 47.24,
+    "end_seconds": 49.35,
+    "text": "information they receive can actually be different. That might not be the case"
+  },
+  {
+    "start": "00:00:49.350",
+    "end": "00:00:49.360",
+    "start_seconds": 49.35,
+    "end_seconds": 49.36,
+    "text": "different. That might not be the case"
+  },
+  {
+    "start": "00:00:49.360",
+    "end": "00:00:50.790",
+    "start_seconds": 49.36,
+    "end_seconds": 50.79,
+    "text": "different. That might not be the case with an earnings report, but it could be"
+  },
+  {
+    "start": "00:00:50.790",
+    "end": "00:00:50.800",
+    "start_seconds": 50.79,
+    "end_seconds": 50.8,
+    "text": "with an earnings report, but it could be"
+  },
+  {
+    "start": "00:00:50.800",
+    "end": "00:00:52.470",
+    "start_seconds": 50.8,
+    "end_seconds": 52.47,
+    "text": "with an earnings report, but it could be the case with a rumor. And the way they"
+  },
+  {
+    "start": "00:00:52.470",
+    "end": "00:00:52.480",
+    "start_seconds": 52.47,
+    "end_seconds": 52.48,
+    "text": "the case with a rumor. And the way they"
+  },
+  {
+    "start": "00:00:52.480",
+    "end": "00:00:55.190",
+    "start_seconds": 52.48,
+    "end_seconds": 55.19,
+    "text": "the case with a rumor. And the way they process that same information,"
+  },
+  {
+    "start": "00:00:55.190",
+    "end": "00:00:55.200",
+    "start_seconds": 55.19,
+    "end_seconds": 55.2,
+    "text": "process that same information,"
+  },
+  {
+    "start": "00:00:55.200",
+    "end": "00:00:56.670",
+    "start_seconds": 55.2,
+    "end_seconds": 56.67,
+    "text": "process that same information, a thousand investors can look at the"
+  },
+  {
+    "start": "00:00:56.670",
+    "end": "00:00:56.680",
+    "start_seconds": 56.67,
+    "end_seconds": 56.68,
+    "text": "a thousand investors can look at the"
+  },
+  {
+    "start": "00:00:56.680",
+    "end": "00:00:58.270",
+    "start_seconds": 56.68,
+    "end_seconds": 58.27,
+    "text": "a thousand investors can look at the same earnings report and come to a"
+  },
+  {
+    "start": "00:00:58.270",
+    "end": "00:00:58.280",
+    "start_seconds": 58.27,
+    "end_seconds": 58.28,
+    "text": "same earnings report and come to a"
+  },
+  {
+    "start": "00:00:58.280",
+    "end": "00:01:00.630",
+    "start_seconds": 58.28,
+    "end_seconds": 60.63,
+    "text": "same earnings report and come to a thousand different conclusions about"
+  },
+  {
+    "start": "00:01:00.630",
+    "end": "00:01:00.640",
+    "start_seconds": 60.63,
+    "end_seconds": 60.64,
+    "text": "thousand different conclusions about"
+  },
+  {
+    "start": "00:01:00.640",
+    "end": "00:01:03.070",
+    "start_seconds": 60.64,
+    "end_seconds": 63.07,
+    "text": "thousand different conclusions about that. The ultimate price change will"
+  },
+  {
+    "start": "00:01:03.070",
+    "end": "00:01:03.080",
+    "start_seconds": 63.07,
+    "end_seconds": 63.08,
+    "text": "that. The ultimate price change will"
+  },
+  {
+    "start": "00:01:03.080",
+    "end": "00:01:05.350",
+    "start_seconds": 63.08,
+    "end_seconds": 65.35,
+    "text": "that. The ultimate price change will depend on demand and supply."
+  },
+  {
+    "start": "00:01:05.350",
+    "end": "00:01:05.360",
+    "start_seconds": 65.35,
+    "end_seconds": 65.36,
+    "text": "depend on demand and supply."
+  },
+  {
+    "start": "00:01:05.360",
+    "end": "00:01:07.270",
+    "start_seconds": 65.36,
+    "end_seconds": 67.27,
+    "text": "depend on demand and supply. It's a messy process, right? Information"
+  },
+  {
+    "start": "00:01:07.270",
+    "end": "00:01:07.280",
+    "start_seconds": 67.27,
+    "end_seconds": 67.28,
+    "text": "It's a messy process, right? Information"
+  },
+  {
+    "start": "00:01:07.280",
+    "end": "00:01:09.830",
+    "start_seconds": 67.28,
+    "end_seconds": 69.83,
+    "text": "It's a messy process, right? Information comes in, investors try to reassess,"
+  },
+  {
+    "start": "00:01:09.830",
+    "end": "00:01:09.840",
+    "start_seconds": 69.83,
+    "end_seconds": 69.84,
+    "text": "comes in, investors try to reassess,"
+  },
+  {
+    "start": "00:01:09.840",
+    "end": "00:01:11.550",
+    "start_seconds": 69.84,
+    "end_seconds": 71.55,
+    "text": "comes in, investors try to reassess, sometimes they get it right, sometimes"
+  },
+  {
+    "start": "00:01:11.550",
+    "end": "00:01:11.560",
+    "start_seconds": 71.55,
+    "end_seconds": 71.56,
+    "text": "sometimes they get it right, sometimes"
+  },
+  {
+    "start": "00:01:11.560",
+    "end": "00:01:13.110",
+    "start_seconds": 71.56,
+    "end_seconds": 73.11,
+    "text": "sometimes they get it right, sometimes they get it wrong."
+  },
+  {
+    "start": "00:01:13.110",
+    "end": "00:01:13.120",
+    "start_seconds": 73.11,
+    "end_seconds": 73.12,
+    "text": "they get it wrong."
+  },
+  {
+    "start": "00:01:13.120",
+    "end": "00:01:14.910",
+    "start_seconds": 73.12,
+    "end_seconds": 74.91,
+    "text": "they get it wrong. So let's think broadly about the"
+  },
+  {
+    "start": "00:01:14.910",
+    "end": "00:01:14.920",
+    "start_seconds": 74.91,
+    "end_seconds": 74.92,
+    "text": "So let's think broadly about the"
+  },
+  {
+    "start": "00:01:14.920",
+    "end": "00:01:17.510",
+    "start_seconds": 74.92,
+    "end_seconds": 77.51,
+    "text": "So let's think broadly about the different ways in which information play"
+  },
+  {
+    "start": "00:01:17.510",
+    "end": "00:01:17.520",
+    "start_seconds": 77.51,
+    "end_seconds": 77.52,
+    "text": "different ways in which information play"
+  },
+  {
+    "start": "00:01:17.520",
+    "end": "00:01:19.190",
+    "start_seconds": 77.52,
+    "end_seconds": 79.19,
+    "text": "different ways in which information play out in the market."
+  },
+  {
+    "start": "00:01:19.190",
+    "end": "00:01:19.200",
+    "start_seconds": 79.19,
+    "end_seconds": 79.2,
+    "text": "out in the market."
+  },
+  {
+    "start": "00:01:19.200",
+    "end": "00:01:23.230",
+    "start_seconds": 79.2,
+    "end_seconds": 83.23,
+    "text": "out in the market. If you live in a truly efficient market,"
+  },
+  {
+    "start": "00:01:23.230",
+    "end": "00:01:23.240",
+    "start_seconds": 83.23,
+    "end_seconds": 83.24,
+    "text": "If you live in a truly efficient market,"
+  },
+  {
+    "start": "00:01:23.240",
+    "end": "00:01:24.710",
+    "start_seconds": 83.24,
+    "end_seconds": 84.71000000000001,
+    "text": "If you live in a truly efficient market, should prices change? Yes, when new"
+  },
+  {
+    "start": "00:01:24.710",
+    "end": "00:01:24.720",
+    "start_seconds": 84.71000000000001,
+    "end_seconds": 84.72,
+    "text": "should prices change? Yes, when new"
+  },
+  {
+    "start": "00:01:24.720",
+    "end": "00:01:26.310",
+    "start_seconds": 84.72,
+    "end_seconds": 86.31,
+    "text": "should prices change? Yes, when new information comes out, but they should"
+  },
+  {
+    "start": "00:01:26.310",
+    "end": "00:01:26.320",
+    "start_seconds": 86.31,
+    "end_seconds": 86.32,
+    "text": "information comes out, but they should"
+  },
+  {
+    "start": "00:01:26.320",
+    "end": "00:01:28.950",
+    "start_seconds": 86.32,
+    "end_seconds": 88.95,
+    "text": "information comes out, but they should change instantaneously."
+  },
+  {
+    "start": "00:01:28.950",
+    "end": "00:01:28.960",
+    "start_seconds": 88.95,
+    "end_seconds": 88.96000000000001,
+    "text": "change instantaneously."
+  },
+  {
+    "start": "00:01:28.960",
+    "end": "00:01:31.790",
+    "start_seconds": 88.96000000000001,
+    "end_seconds": 91.78999999999999,
+    "text": "change instantaneously. So that's if If you get new good news"
+  },
+  {
+    "start": "00:01:31.790",
+    "end": "00:01:31.800",
+    "start_seconds": 91.78999999999999,
+    "end_seconds": 91.8,
+    "text": "So that's if If you get new good news"
+  },
+  {
+    "start": "00:01:31.800",
+    "end": "00:01:33.870",
+    "start_seconds": 91.8,
+    "end_seconds": 93.87,
+    "text": "So that's if If you get new good news about a stock"
+  },
+  {
+    "start": "00:01:33.870",
+    "end": "00:01:33.880",
+    "start_seconds": 93.87,
+    "end_seconds": 93.88,
+    "text": "about a stock"
+  },
+  {
+    "start": "00:01:33.880",
+    "end": "00:01:35.910",
+    "start_seconds": 93.88,
+    "end_seconds": 95.91,
+    "text": "about a stock or a company, the stock price should pop"
+  },
+  {
+    "start": "00:01:35.910",
+    "end": "00:01:35.920",
+    "start_seconds": 95.91,
+    "end_seconds": 95.92,
+    "text": "or a company, the stock price should pop"
+  },
+  {
+    "start": "00:01:35.920",
+    "end": "00:01:37.550",
+    "start_seconds": 95.92,
+    "end_seconds": 97.55,
+    "text": "or a company, the stock price should pop up to reflect that good news, but then"
+  },
+  {
+    "start": "00:01:37.550",
+    "end": "00:01:37.560",
+    "start_seconds": 97.55,
+    "end_seconds": 97.56,
+    "text": "up to reflect that good news, but then"
+  },
+  {
+    "start": "00:01:37.560",
+    "end": "00:01:39.310",
+    "start_seconds": 97.56,
+    "end_seconds": 99.31,
+    "text": "up to reflect that good news, but then it should level off."
+  },
+  {
+    "start": "00:01:39.310",
+    "end": "00:01:39.320",
+    "start_seconds": 99.31,
+    "end_seconds": 99.32,
+    "text": "it should level off."
+  },
+  {
+    "start": "00:01:39.320",
+    "end": "00:01:41.310",
+    "start_seconds": 99.32,
+    "end_seconds": 101.31,
+    "text": "it should level off. So in an efficient market, there will be"
+  },
+  {
+    "start": "00:01:41.310",
+    "end": "00:01:41.320",
+    "start_seconds": 101.31,
+    "end_seconds": 101.32,
+    "text": "So in an efficient market, there will be"
+  },
+  {
+    "start": "00:01:41.320",
+    "end": "00:01:43.070",
+    "start_seconds": 101.32,
+    "end_seconds": 103.07,
+    "text": "So in an efficient market, there will be price changes, but they will be"
+  },
+  {
+    "start": "00:01:43.070",
+    "end": "00:01:43.080",
+    "start_seconds": 103.07,
+    "end_seconds": 103.08,
+    "text": "price changes, but they will be"
+  },
+  {
+    "start": "00:01:43.080",
+    "end": "00:01:44.630",
+    "start_seconds": 103.08,
+    "end_seconds": 104.63,
+    "text": "price changes, but they will be instantaneous"
+  },
+  {
+    "start": "00:01:44.630",
+    "end": "00:01:44.640",
+    "start_seconds": 104.63,
+    "end_seconds": 104.64,
+    "text": "instantaneous"
+  },
+  {
+    "start": "00:01:44.640",
+    "end": "00:01:47.550",
+    "start_seconds": 104.64,
+    "end_seconds": 107.55,
+    "text": "instantaneous as the information is revealed."
+  },
+  {
+    "start": "00:01:47.550",
+    "end": "00:01:47.560",
+    "start_seconds": 107.55,
+    "end_seconds": 107.56,
+    "text": "as the information is revealed."
+  },
+  {
+    "start": "00:01:47.560",
+    "end": "00:01:49.590",
+    "start_seconds": 107.56,
+    "end_seconds": 109.59,
+    "text": "as the information is revealed. If you have a slow learning market,"
+  },
+  {
+    "start": "00:01:49.590",
+    "end": "00:01:49.600",
+    "start_seconds": 109.59,
+    "end_seconds": 109.6,
+    "text": "If you have a slow learning market,"
+  },
+  {
+    "start": "00:01:49.600",
+    "end": "00:01:51.790",
+    "start_seconds": 109.6,
+    "end_seconds": 111.78999999999999,
+    "text": "If you have a slow learning market, here's what will happen."
+  },
+  {
+    "start": "00:01:51.790",
+    "end": "00:01:51.800",
+    "start_seconds": 111.78999999999999,
+    "end_seconds": 111.8,
+    "text": "here's what will happen."
+  },
+  {
+    "start": "00:01:51.800",
+    "end": "00:01:53.310",
+    "start_seconds": 111.8,
+    "end_seconds": 113.31,
+    "text": "here's what will happen. Information comes out, it's still good"
+  },
+  {
+    "start": "00:01:53.310",
+    "end": "00:01:53.320",
+    "start_seconds": 113.31,
+    "end_seconds": 113.32,
+    "text": "Information comes out, it's still good"
+  },
+  {
+    "start": "00:01:53.320",
+    "end": "00:01:55.470",
+    "start_seconds": 113.32,
+    "end_seconds": 115.47,
+    "text": "Information comes out, it's still good news. Investors push up the price a"
+  },
+  {
+    "start": "00:01:55.470",
+    "end": "00:01:55.480",
+    "start_seconds": 115.47,
+    "end_seconds": 115.47999999999999,
+    "text": "news. Investors push up the price a"
+  },
+  {
+    "start": "00:01:55.480",
+    "end": "00:01:56.870",
+    "start_seconds": 115.47999999999999,
+    "end_seconds": 116.87,
+    "text": "news. Investors push up the price a little, but they're not quite done."
+  },
+  {
+    "start": "00:01:56.870",
+    "end": "00:01:56.880",
+    "start_seconds": 116.87,
+    "end_seconds": 116.88,
+    "text": "little, but they're not quite done."
+  },
+  {
+    "start": "00:01:56.880",
+    "end": "00:01:59.270",
+    "start_seconds": 116.88,
+    "end_seconds": 119.27000000000001,
+    "text": "little, but they're not quite done. Other investors take more time. So, over"
+  },
+  {
+    "start": "00:01:59.270",
+    "end": "00:01:59.280",
+    "start_seconds": 119.27000000000001,
+    "end_seconds": 119.28,
+    "text": "Other investors take more time. So, over"
+  },
+  {
+    "start": "00:01:59.280",
+    "end": "00:02:02.590",
+    "start_seconds": 119.28,
+    "end_seconds": 122.59,
+    "text": "Other investors take more time. So, over time the price will drift up"
+  },
+  {
+    "start": "00:02:02.590",
+    "end": "00:02:02.600",
+    "start_seconds": 122.59,
+    "end_seconds": 122.6,
+    "text": "time the price will drift up"
+  },
+  {
+    "start": "00:02:02.600",
+    "end": "00:02:04.550",
+    "start_seconds": 122.6,
+    "end_seconds": 124.55,
+    "text": "time the price will drift up to what it should be. How long that"
+  },
+  {
+    "start": "00:02:04.550",
+    "end": "00:02:04.560",
+    "start_seconds": 124.55,
+    "end_seconds": 124.56,
+    "text": "to what it should be. How long that"
+  },
+  {
+    "start": "00:02:04.560",
+    "end": "00:02:06.469",
+    "start_seconds": 124.56,
+    "end_seconds": 126.469,
+    "text": "to what it should be. How long that drift last can vary depending on how"
+  },
+  {
+    "start": "00:02:06.469",
+    "end": "00:02:06.479",
+    "start_seconds": 126.469,
+    "end_seconds": 126.479,
+    "text": "drift last can vary depending on how"
+  },
+  {
+    "start": "00:02:06.479",
+    "end": "00:02:07.950",
+    "start_seconds": 126.479,
+    "end_seconds": 127.95,
+    "text": "drift last can vary depending on how efficient the market is. It could be in"
+  },
+  {
+    "start": "00:02:07.950",
+    "end": "00:02:07.960",
+    "start_seconds": 127.95,
+    "end_seconds": 127.96,
+    "text": "efficient the market is. It could be in"
+  },
+  {
+    "start": "00:02:07.960",
+    "end": "00:02:09.870",
+    "start_seconds": 127.96,
+    "end_seconds": 129.87,
+    "text": "efficient the market is. It could be in 5 minutes, 10 minutes, or it could take"
+  },
+  {
+    "start": "00:02:09.870",
+    "end": "00:02:09.880",
+    "start_seconds": 129.87,
+    "end_seconds": 129.88,
+    "text": "5 minutes, 10 minutes, or it could take"
+  },
+  {
+    "start": "00:02:09.880",
+    "end": "00:02:11.870",
+    "start_seconds": 129.88,
+    "end_seconds": 131.87,
+    "text": "5 minutes, 10 minutes, or it could take 5 days to do this."
+  },
+  {
+    "start": "00:02:11.870",
+    "end": "00:02:11.880",
+    "start_seconds": 131.87,
+    "end_seconds": 131.88,
+    "text": "5 days to do this."
+  },
+  {
+    "start": "00:02:11.880",
+    "end": "00:02:14.350",
+    "start_seconds": 131.88,
+    "end_seconds": 134.35,
+    "text": "5 days to do this. That's a slow learning market."
+  },
+  {
+    "start": "00:02:14.350",
+    "end": "00:02:14.360",
+    "start_seconds": 134.35,
+    "end_seconds": 134.36,
+    "text": "That's a slow learning market."
+  },
+  {
+    "start": "00:02:14.360",
+    "end": "00:02:16.230",
+    "start_seconds": 134.36,
+    "end_seconds": 136.23,
+    "text": "That's a slow learning market. What if you have an overreacting market?"
+  },
+  {
+    "start": "00:02:16.230",
+    "end": "00:02:16.240",
+    "start_seconds": 136.23,
+    "end_seconds": 136.24,
+    "text": "What if you have an overreacting market?"
+  },
+  {
+    "start": "00:02:16.240",
+    "end": "00:02:18.110",
+    "start_seconds": 136.24,
+    "end_seconds": 138.11,
+    "text": "What if you have an overreacting market? The good news comes out, the price pops,"
+  },
+  {
+    "start": "00:02:18.110",
+    "end": "00:02:18.120",
+    "start_seconds": 138.11,
+    "end_seconds": 138.12,
+    "text": "The good news comes out, the price pops,"
+  },
+  {
+    "start": "00:02:18.120",
+    "end": "00:02:20.070",
+    "start_seconds": 138.12,
+    "end_seconds": 140.07,
+    "text": "The good news comes out, the price pops, but it pops up too much. It goes up too"
+  },
+  {
+    "start": "00:02:20.070",
+    "end": "00:02:20.080",
+    "start_seconds": 140.07,
+    "end_seconds": 140.07999999999998,
+    "text": "but it pops up too much. It goes up too"
+  },
+  {
+    "start": "00:02:20.080",
+    "end": "00:02:21.070",
+    "start_seconds": 140.07999999999998,
+    "end_seconds": 141.07,
+    "text": "but it pops up too much. It goes up too much."
+  },
+  {
+    "start": "00:02:21.070",
+    "end": "00:02:21.080",
+    "start_seconds": 141.07,
+    "end_seconds": 141.07999999999998,
+    "text": "much."
+  },
+  {
+    "start": "00:02:21.080",
+    "end": "00:02:22.949",
+    "start_seconds": 141.07999999999998,
+    "end_seconds": 142.949,
+    "text": "much. And because it goes up too much in the"
+  },
+  {
+    "start": "00:02:22.949",
+    "end": "00:02:22.959",
+    "start_seconds": 142.949,
+    "end_seconds": 142.959,
+    "text": "And because it goes up too much in the"
+  },
+  {
+    "start": "00:02:22.959",
+    "end": "00:02:25.510",
+    "start_seconds": 142.959,
+    "end_seconds": 145.51,
+    "text": "And because it goes up too much in the days or the hours or the minutes after"
+  },
+  {
+    "start": "00:02:25.510",
+    "end": "00:02:25.520",
+    "start_seconds": 145.51,
+    "end_seconds": 145.52,
+    "text": "days or the hours or the minutes after"
+  },
+  {
+    "start": "00:02:25.520",
+    "end": "00:02:27.870",
+    "start_seconds": 145.52,
+    "end_seconds": 147.87,
+    "text": "days or the hours or the minutes after the price will drift down."
+  },
+  {
+    "start": "00:02:27.870",
+    "end": "00:02:27.880",
+    "start_seconds": 147.87,
+    "end_seconds": 147.88,
+    "text": "the price will drift down."
+  },
+  {
+    "start": "00:02:27.880",
+    "end": "00:02:29.750",
+    "start_seconds": 147.88,
+    "end_seconds": 149.75,
+    "text": "the price will drift down. The keyword is drift. In an efficient"
+  },
+  {
+    "start": "00:02:29.750",
+    "end": "00:02:29.760",
+    "start_seconds": 149.75,
+    "end_seconds": 149.76,
+    "text": "The keyword is drift. In an efficient"
+  },
+  {
+    "start": "00:02:29.760",
+    "end": "00:02:33.110",
+    "start_seconds": 149.76,
+    "end_seconds": 153.11,
+    "text": "The keyword is drift. In an efficient market, there should be no price drift."
+  },
+  {
+    "start": "00:02:33.110",
+    "end": "00:02:33.120",
+    "start_seconds": 153.11,
+    "end_seconds": 153.12,
+    "text": "market, there should be no price drift."
+  },
+  {
+    "start": "00:02:33.120",
+    "end": "00:02:35.070",
+    "start_seconds": 153.12,
+    "end_seconds": 155.07,
+    "text": "market, there should be no price drift. In a market that's not quite efficient"
+  },
+  {
+    "start": "00:02:35.070",
+    "end": "00:02:35.080",
+    "start_seconds": 155.07,
+    "end_seconds": 155.07999999999998,
+    "text": "In a market that's not quite efficient"
+  },
+  {
+    "start": "00:02:35.080",
+    "end": "00:02:36.670",
+    "start_seconds": 155.07999999999998,
+    "end_seconds": 156.67000000000002,
+    "text": "In a market that's not quite efficient in assessing information, there can be"
+  },
+  {
+    "start": "00:02:36.670",
+    "end": "00:02:36.680",
+    "start_seconds": 156.67000000000002,
+    "end_seconds": 156.68,
+    "text": "in assessing information, there can be"
+  },
+  {
+    "start": "00:02:36.680",
+    "end": "00:02:38.750",
+    "start_seconds": 156.68,
+    "end_seconds": 158.75,
+    "text": "in assessing information, there can be price drifts up if it's a slow learning"
+  },
+  {
+    "start": "00:02:38.750",
+    "end": "00:02:38.760",
+    "start_seconds": 158.75,
+    "end_seconds": 158.76,
+    "text": "price drifts up if it's a slow learning"
+  },
+  {
+    "start": "00:02:38.760",
+    "end": "00:02:41.590",
+    "start_seconds": 158.76,
+    "end_seconds": 161.59,
+    "text": "price drifts up if it's a slow learning market or price drifts down"
+  },
+  {
+    "start": "00:02:41.590",
+    "end": "00:02:41.600",
+    "start_seconds": 161.59,
+    "end_seconds": 161.6,
+    "text": "market or price drifts down"
+  },
+  {
+    "start": "00:02:41.600",
+    "end": "00:02:43.310",
+    "start_seconds": 161.6,
+    "end_seconds": 163.31,
+    "text": "market or price drifts down if it's an overreacting market on good"
+  },
+  {
+    "start": "00:02:43.310",
+    "end": "00:02:43.320",
+    "start_seconds": 163.31,
+    "end_seconds": 163.32,
+    "text": "if it's an overreacting market on good"
+  },
+  {
+    "start": "00:02:43.320",
+    "end": "00:02:44.990",
+    "start_seconds": 163.32,
+    "end_seconds": 164.99,
+    "text": "if it's an overreacting market on good news, and the reverse is going to be"
+  },
+  {
+    "start": "00:02:44.990",
+    "end": "00:02:45.000",
+    "start_seconds": 164.99,
+    "end_seconds": 165.0,
+    "text": "news, and the reverse is going to be"
+  },
+  {
+    "start": "00:02:45.000",
+    "end": "00:02:47.350",
+    "start_seconds": 165.0,
+    "end_seconds": 167.35,
+    "text": "news, and the reverse is going to be true on bad news."
+  },
+  {
+    "start": "00:02:47.350",
+    "end": "00:02:47.360",
+    "start_seconds": 167.35,
+    "end_seconds": 167.36,
+    "text": "true on bad news."
+  },
+  {
+    "start": "00:02:47.360",
+    "end": "00:02:49.110",
+    "start_seconds": 167.36,
+    "end_seconds": 169.11,
+    "text": "true on bad news. So, if you want to trade on information,"
+  },
+  {
+    "start": "00:02:49.110",
+    "end": "00:02:49.120",
+    "start_seconds": 169.11,
+    "end_seconds": 169.12,
+    "text": "So, if you want to trade on information,"
+  },
+  {
+    "start": "00:02:49.120",
+    "end": "00:02:51.310",
+    "start_seconds": 169.12,
+    "end_seconds": 171.31,
+    "text": "So, if you want to trade on information, you need to start by making a judgment"
+  },
+  {
+    "start": "00:02:51.310",
+    "end": "00:02:51.320",
+    "start_seconds": 171.31,
+    "end_seconds": 171.32,
+    "text": "you need to start by making a judgment"
+  },
+  {
+    "start": "00:02:51.320",
+    "end": "00:02:53.110",
+    "start_seconds": 171.32,
+    "end_seconds": 173.11,
+    "text": "you need to start by making a judgment on which of these three views of the"
+  },
+  {
+    "start": "00:02:53.110",
+    "end": "00:02:53.120",
+    "start_seconds": 173.11,
+    "end_seconds": 173.12,
+    "text": "on which of these three views of the"
+  },
+  {
+    "start": "00:02:53.120",
+    "end": "00:02:55.070",
+    "start_seconds": 173.12,
+    "end_seconds": 175.07,
+    "text": "on which of these three views of the world you adopt when it comes to"
+  },
+  {
+    "start": "00:02:55.070",
+    "end": "00:02:55.080",
+    "start_seconds": 175.07,
+    "end_seconds": 175.07999999999998,
+    "text": "world you adopt when it comes to"
+  },
+  {
+    "start": "00:02:55.080",
+    "end": "00:02:56.470",
+    "start_seconds": 175.07999999999998,
+    "end_seconds": 176.47,
+    "text": "world you adopt when it comes to information."
+  },
+  {
+    "start": "00:02:56.470",
+    "end": "00:02:56.480",
+    "start_seconds": 176.47,
+    "end_seconds": 176.48,
+    "text": "information."
+  },
+  {
+    "start": "00:02:56.480",
+    "end": "00:02:58.550",
+    "start_seconds": 176.48,
+    "end_seconds": 178.55,
+    "text": "information. Cuz there are broadly three strategies"
+  },
+  {
+    "start": "00:02:58.550",
+    "end": "00:02:58.560",
+    "start_seconds": 178.55,
+    "end_seconds": 178.56,
+    "text": "Cuz there are broadly three strategies"
+  },
+  {
+    "start": "00:02:58.560",
+    "end": "00:03:01.350",
+    "start_seconds": 178.56,
+    "end_seconds": 181.35,
+    "text": "Cuz there are broadly three strategies you can use for trading on information."
+  },
+  {
+    "start": "00:03:01.350",
+    "end": "00:03:01.360",
+    "start_seconds": 181.35,
+    "end_seconds": 181.36,
+    "text": "you can use for trading on information."
+  },
+  {
+    "start": "00:03:01.360",
+    "end": "00:03:03.150",
+    "start_seconds": 181.36,
+    "end_seconds": 183.15,
+    "text": "you can use for trading on information. The first is you can trade ahead of the"
+  },
+  {
+    "start": "00:03:03.150",
+    "end": "00:03:03.160",
+    "start_seconds": 183.15,
+    "end_seconds": 183.16,
+    "text": "The first is you can trade ahead of the"
+  },
+  {
+    "start": "00:03:03.160",
+    "end": "00:03:04.550",
+    "start_seconds": 183.16,
+    "end_seconds": 184.55,
+    "text": "The first is you can trade ahead of the news."
+  },
+  {
+    "start": "00:03:04.550",
+    "end": "00:03:04.560",
+    "start_seconds": 184.55,
+    "end_seconds": 184.56,
+    "text": "news."
+  },
+  {
+    "start": "00:03:04.560",
+    "end": "00:03:06.229",
+    "start_seconds": 184.56,
+    "end_seconds": 186.229,
+    "text": "news. If you can pull this off, this has the"
+  },
+  {
+    "start": "00:03:06.229",
+    "end": "00:03:06.239",
+    "start_seconds": 186.229,
+    "end_seconds": 186.239,
+    "text": "If you can pull this off, this has the"
+  },
+  {
+    "start": "00:03:06.239",
+    "end": "00:03:09.030",
+    "start_seconds": 186.239,
+    "end_seconds": 189.03,
+    "text": "If you can pull this off, this has the biggest upside. What does this mean?"
+  },
+  {
+    "start": "00:03:09.030",
+    "end": "00:03:09.040",
+    "start_seconds": 189.03,
+    "end_seconds": 189.04,
+    "text": "biggest upside. What does this mean?"
+  },
+  {
+    "start": "00:03:09.040",
+    "end": "00:03:11.910",
+    "start_seconds": 189.04,
+    "end_seconds": 191.91,
+    "text": "biggest upside. What does this mean? Before an earnings report comes out, you"
+  },
+  {
+    "start": "00:03:11.910",
+    "end": "00:03:11.920",
+    "start_seconds": 191.91,
+    "end_seconds": 191.92,
+    "text": "Before an earnings report comes out, you"
+  },
+  {
+    "start": "00:03:11.920",
+    "end": "00:03:13.630",
+    "start_seconds": 191.92,
+    "end_seconds": 193.63,
+    "text": "Before an earnings report comes out, you start buying companies where you think"
+  },
+  {
+    "start": "00:03:13.630",
+    "end": "00:03:13.640",
+    "start_seconds": 193.63,
+    "end_seconds": 193.64,
+    "text": "start buying companies where you think"
+  },
+  {
+    "start": "00:03:13.640",
+    "end": "00:03:14.949",
+    "start_seconds": 193.64,
+    "end_seconds": 194.949,
+    "text": "start buying companies where you think the earnings announcement is going to"
+  },
+  {
+    "start": "00:03:14.949",
+    "end": "00:03:14.959",
+    "start_seconds": 194.949,
+    "end_seconds": 194.959,
+    "text": "the earnings announcement is going to"
+  },
+  {
+    "start": "00:03:14.959",
+    "end": "00:03:17.550",
+    "start_seconds": 194.959,
+    "end_seconds": 197.55,
+    "text": "the earnings announcement is going to contain good news. How do you know that?"
+  },
+  {
+    "start": "00:03:17.550",
+    "end": "00:03:17.560",
+    "start_seconds": 197.55,
+    "end_seconds": 197.56,
+    "text": "contain good news. How do you know that?"
+  },
+  {
+    "start": "00:03:17.560",
+    "end": "00:03:18.830",
+    "start_seconds": 197.56,
+    "end_seconds": 198.82999999999998,
+    "text": "contain good news. How do you know that? You do research. You come up with your"
+  },
+  {
+    "start": "00:03:18.830",
+    "end": "00:03:18.840",
+    "start_seconds": 198.82999999999998,
+    "end_seconds": 198.84,
+    "text": "You do research. You come up with your"
+  },
+  {
+    "start": "00:03:18.840",
+    "end": "00:03:20.190",
+    "start_seconds": 198.84,
+    "end_seconds": 200.19,
+    "text": "You do research. You come up with your own way of doing it. We'll talk about"
+  },
+  {
+    "start": "00:03:20.190",
+    "end": "00:03:20.200",
+    "start_seconds": 200.19,
+    "end_seconds": 200.2,
+    "text": "own way of doing it. We'll talk about"
+  },
+  {
+    "start": "00:03:20.200",
+    "end": "00:03:21.590",
+    "start_seconds": 200.2,
+    "end_seconds": 201.59,
+    "text": "own way of doing it. We'll talk about different ways you might get that"
+  },
+  {
+    "start": "00:03:21.590",
+    "end": "00:03:21.600",
+    "start_seconds": 201.59,
+    "end_seconds": 201.6,
+    "text": "different ways you might get that"
+  },
+  {
+    "start": "00:03:21.600",
+    "end": "00:03:23.390",
+    "start_seconds": 201.6,
+    "end_seconds": 203.39,
+    "text": "different ways you might get that assessment."
+  },
+  {
+    "start": "00:03:23.390",
+    "end": "00:03:23.400",
+    "start_seconds": 203.39,
+    "end_seconds": 203.4,
+    "text": "assessment."
+  },
+  {
+    "start": "00:03:23.400",
+    "end": "00:03:25.030",
+    "start_seconds": 203.4,
+    "end_seconds": 205.03,
+    "text": "assessment. But you buy it before And when the"
+  },
+  {
+    "start": "00:03:25.030",
+    "end": "00:03:25.040",
+    "start_seconds": 205.03,
+    "end_seconds": 205.04,
+    "text": "But you buy it before And when the"
+  },
+  {
+    "start": "00:03:25.040",
+    "end": "00:03:26.710",
+    "start_seconds": 205.04,
+    "end_seconds": 206.71,
+    "text": "But you buy it before And when the earnings report comes out, assuming you"
+  },
+  {
+    "start": "00:03:26.710",
+    "end": "00:03:26.720",
+    "start_seconds": 206.71,
+    "end_seconds": 206.72,
+    "text": "earnings report comes out, assuming you"
+  },
+  {
+    "start": "00:03:26.720",
+    "end": "00:03:27.910",
+    "start_seconds": 206.72,
+    "end_seconds": 207.91,
+    "text": "earnings report comes out, assuming you were right and the earnings report is"
+  },
+  {
+    "start": "00:03:27.910",
+    "end": "00:03:27.920",
+    "start_seconds": 207.91,
+    "end_seconds": 207.92000000000002,
+    "text": "were right and the earnings report is"
+  },
+  {
+    "start": "00:03:27.920",
+    "end": "00:03:28.990",
+    "start_seconds": 207.92000000000002,
+    "end_seconds": 208.99,
+    "text": "were right and the earnings report is good news, you get the jump in the"
+  },
+  {
+    "start": "00:03:28.990",
+    "end": "00:03:29.000",
+    "start_seconds": 208.99,
+    "end_seconds": 209.0,
+    "text": "good news, you get the jump in the"
+  },
+  {
+    "start": "00:03:29.000",
+    "end": "00:03:31.670",
+    "start_seconds": 209.0,
+    "end_seconds": 211.67000000000002,
+    "text": "good news, you get the jump in the price, trading ahead of the news."
+  },
+  {
+    "start": "00:03:31.670",
+    "end": "00:03:31.680",
+    "start_seconds": 211.67000000000002,
+    "end_seconds": 211.68,
+    "text": "price, trading ahead of the news."
+  },
+  {
+    "start": "00:03:31.680",
+    "end": "00:03:33.590",
+    "start_seconds": 211.68,
+    "end_seconds": 213.59,
+    "text": "price, trading ahead of the news. You can trade on the news. The earnings"
+  },
+  {
+    "start": "00:03:33.590",
+    "end": "00:03:33.600",
+    "start_seconds": 213.59,
+    "end_seconds": 213.6,
+    "text": "You can trade on the news. The earnings"
+  },
+  {
+    "start": "00:03:33.600",
+    "end": "00:03:35.550",
+    "start_seconds": 213.6,
+    "end_seconds": 215.55,
+    "text": "You can trade on the news. The earnings report comes out, you buy the stock"
+  },
+  {
+    "start": "00:03:35.550",
+    "end": "00:03:35.560",
+    "start_seconds": 215.55,
+    "end_seconds": 215.56,
+    "text": "report comes out, you buy the stock"
+  },
+  {
+    "start": "00:03:35.560",
+    "end": "00:03:38.590",
+    "start_seconds": 215.56,
+    "end_seconds": 218.59,
+    "text": "report comes out, you buy the stock instantaneously if it's good news,"
+  },
+  {
+    "start": "00:03:38.590",
+    "end": "00:03:38.600",
+    "start_seconds": 218.59,
+    "end_seconds": 218.6,
+    "text": "instantaneously if it's good news,"
+  },
+  {
+    "start": "00:03:38.600",
+    "end": "00:03:40.550",
+    "start_seconds": 218.6,
+    "end_seconds": 220.55,
+    "text": "instantaneously if it's good news, hoping to take advantage of it. Or you"
+  },
+  {
+    "start": "00:03:40.550",
+    "end": "00:03:40.560",
+    "start_seconds": 220.55,
+    "end_seconds": 220.56,
+    "text": "hoping to take advantage of it. Or you"
+  },
+  {
+    "start": "00:03:40.560",
+    "end": "00:03:41.830",
+    "start_seconds": 220.56,
+    "end_seconds": 221.82999999999998,
+    "text": "hoping to take advantage of it. Or you sell the short"
+  },
+  {
+    "start": "00:03:41.830",
+    "end": "00:03:41.840",
+    "start_seconds": 221.82999999999998,
+    "end_seconds": 221.84,
+    "text": "sell the short"
+  },
+  {
+    "start": "00:03:41.840",
+    "end": "00:03:43.870",
+    "start_seconds": 221.84,
+    "end_seconds": 223.87,
+    "text": "sell the short stock in And which one you do will"
+  },
+  {
+    "start": "00:03:43.870",
+    "end": "00:03:43.880",
+    "start_seconds": 223.87,
+    "end_seconds": 223.88,
+    "text": "stock in And which one you do will"
+  },
+  {
+    "start": "00:03:43.880",
+    "end": "00:03:46.229",
+    "start_seconds": 223.88,
+    "end_seconds": 226.22899999999998,
+    "text": "stock in And which one you do will depend on whether you think, you know,"
+  },
+  {
+    "start": "00:03:46.229",
+    "end": "00:03:46.239",
+    "start_seconds": 226.22899999999998,
+    "end_seconds": 226.239,
+    "text": "depend on whether you think, you know,"
+  },
+  {
+    "start": "00:03:46.239",
+    "end": "00:03:49.310",
+    "start_seconds": 226.239,
+    "end_seconds": 229.31,
+    "text": "depend on whether you think, you know, the the effect is going to be, you know,"
+  },
+  {
+    "start": "00:03:49.310",
+    "end": "00:03:49.320",
+    "start_seconds": 229.31,
+    "end_seconds": 229.32,
+    "text": "the the effect is going to be, you know,"
+  },
+  {
+    "start": "00:03:49.320",
+    "end": "00:03:50.790",
+    "start_seconds": 229.32,
+    "end_seconds": 230.79,
+    "text": "the the effect is going to be, you know, is is fully played out or whether"
+  },
+  {
+    "start": "00:03:50.790",
+    "end": "00:03:50.800",
+    "start_seconds": 230.79,
+    "end_seconds": 230.8,
+    "text": "is is fully played out or whether"
+  },
+  {
+    "start": "00:03:50.800",
+    "end": "00:03:52.510",
+    "start_seconds": 230.8,
+    "end_seconds": 232.51,
+    "text": "is is fully played out or whether there's going to be a drift."
+  },
+  {
+    "start": "00:03:52.510",
+    "end": "00:03:52.520",
+    "start_seconds": 232.51,
+    "end_seconds": 232.52,
+    "text": "there's going to be a drift."
+  },
+  {
+    "start": "00:03:52.520",
+    "end": "00:03:54.350",
+    "start_seconds": 232.52,
+    "end_seconds": 234.35,
+    "text": "there's going to be a drift. And you could even do this on volatility"
+  },
+  {
+    "start": "00:03:54.350",
+    "end": "00:03:54.360",
+    "start_seconds": 234.35,
+    "end_seconds": 234.36,
+    "text": "And you could even do this on volatility"
+  },
+  {
+    "start": "00:03:54.360",
+    "end": "00:03:55.670",
+    "start_seconds": 234.36,
+    "end_seconds": 235.67000000000002,
+    "text": "And you could even do this on volatility changing."
+  },
+  {
+    "start": "00:03:55.670",
+    "end": "00:03:55.680",
+    "start_seconds": 235.67000000000002,
+    "end_seconds": 235.68,
+    "text": "changing."
+  },
+  {
+    "start": "00:03:55.680",
+    "end": "00:03:58.390",
+    "start_seconds": 235.68,
+    "end_seconds": 238.39,
+    "text": "changing. Or you could trade after the news."
+  },
+  {
+    "start": "00:03:58.390",
+    "end": "00:03:58.400",
+    "start_seconds": 238.39,
+    "end_seconds": 238.4,
+    "text": "Or you could trade after the news."
+  },
+  {
+    "start": "00:03:58.400",
+    "end": "00:03:59.670",
+    "start_seconds": 238.4,
+    "end_seconds": 239.67000000000002,
+    "text": "Or you could trade after the news. Yeah."
+  },
+  {
+    "start": "00:03:59.670",
+    "end": "00:03:59.680",
+    "start_seconds": 239.67000000000002,
+    "end_seconds": 239.68,
+    "text": "Yeah."
+  },
+  {
+    "start": "00:03:59.680",
+    "end": "00:04:01.390",
+    "start_seconds": 239.68,
+    "end_seconds": 241.39,
+    "text": "Yeah. What does that mean? You wait a day"
+  },
+  {
+    "start": "00:04:01.390",
+    "end": "00:04:01.400",
+    "start_seconds": 241.39,
+    "end_seconds": 241.4,
+    "text": "What does that mean? You wait a day"
+  },
+  {
+    "start": "00:04:01.400",
+    "end": "00:04:03.150",
+    "start_seconds": 241.4,
+    "end_seconds": 243.15,
+    "text": "What does that mean? You wait a day after the earnings report and you try to"
+  },
+  {
+    "start": "00:04:03.150",
+    "end": "00:04:03.160",
+    "start_seconds": 243.15,
+    "end_seconds": 243.16,
+    "text": "after the earnings report and you try to"
+  },
+  {
+    "start": "00:04:03.160",
+    "end": "00:04:05.190",
+    "start_seconds": 243.16,
+    "end_seconds": 245.19,
+    "text": "after the earnings report and you try to take advantage of that continuing drift"
+  },
+  {
+    "start": "00:04:05.190",
+    "end": "00:04:05.200",
+    "start_seconds": 245.19,
+    "end_seconds": 245.2,
+    "text": "take advantage of that continuing drift"
+  },
+  {
+    "start": "00:04:05.200",
+    "end": "00:04:06.949",
+    "start_seconds": 245.2,
+    "end_seconds": 246.949,
+    "text": "take advantage of that continuing drift in either direction."
+  },
+  {
+    "start": "00:04:06.949",
+    "end": "00:04:06.959",
+    "start_seconds": 246.949,
+    "end_seconds": 246.959,
+    "text": "in either direction."
+  },
+  {
+    "start": "00:04:06.959",
+    "end": "00:04:08.630",
+    "start_seconds": 246.959,
+    "end_seconds": 248.63,
+    "text": "in either direction. Buying or selling on that drift. You can"
+  },
+  {
+    "start": "00:04:08.630",
+    "end": "00:04:08.640",
+    "start_seconds": 248.63,
+    "end_seconds": 248.64,
+    "text": "Buying or selling on that drift. You can"
+  },
+  {
+    "start": "00:04:08.640",
+    "end": "00:04:10.590",
+    "start_seconds": 248.64,
+    "end_seconds": 250.59,
+    "text": "Buying or selling on that drift. You can trade ahead of the news, on the news, or"
+  },
+  {
+    "start": "00:04:10.590",
+    "end": "00:04:10.600",
+    "start_seconds": 250.59,
+    "end_seconds": 250.6,
+    "text": "trade ahead of the news, on the news, or"
+  },
+  {
+    "start": "00:04:10.600",
+    "end": "00:04:12.790",
+    "start_seconds": 250.6,
+    "end_seconds": 252.79,
+    "text": "trade ahead of the news, on the news, or after the news. Let's take a look at"
+  },
+  {
+    "start": "00:04:12.790",
+    "end": "00:04:12.800",
+    "start_seconds": 252.79,
+    "end_seconds": 252.8,
+    "text": "after the news. Let's take a look at"
+  },
+  {
+    "start": "00:04:12.800",
+    "end": "00:04:15.030",
+    "start_seconds": 252.8,
+    "end_seconds": 255.03,
+    "text": "after the news. Let's take a look at each of those different types of"
+  },
+  {
+    "start": "00:04:15.030",
+    "end": "00:04:15.040",
+    "start_seconds": 255.03,
+    "end_seconds": 255.04,
+    "text": "each of those different types of"
+  },
+  {
+    "start": "00:04:15.040",
+    "end": "00:04:17.390",
+    "start_seconds": 255.04,
+    "end_seconds": 257.39,
+    "text": "each of those different types of information trading strategies."
+  },
+  {
+    "start": "00:04:17.390",
+    "end": "00:04:17.400",
+    "start_seconds": 257.39,
+    "end_seconds": 257.4,
+    "text": "information trading strategies."
+  },
+  {
+    "start": "00:04:17.400",
+    "end": "00:04:19.110",
+    "start_seconds": 257.4,
+    "end_seconds": 259.11,
+    "text": "information trading strategies. First, ahead of the news."
+  },
+  {
+    "start": "00:04:19.110",
+    "end": "00:04:19.120",
+    "start_seconds": 259.11,
+    "end_seconds": 259.12,
+    "text": "First, ahead of the news."
+  },
+  {
+    "start": "00:04:19.120",
+    "end": "00:04:21.150",
+    "start_seconds": 259.12,
+    "end_seconds": 261.15,
+    "text": "First, ahead of the news. How do you make an assessment that that"
+  },
+  {
+    "start": "00:04:21.150",
+    "end": "00:04:21.160",
+    "start_seconds": 261.15,
+    "end_seconds": 261.16,
+    "text": "How do you make an assessment that that"
+  },
+  {
+    "start": "00:04:21.160",
+    "end": "00:04:22.830",
+    "start_seconds": 261.16,
+    "end_seconds": 262.83,
+    "text": "How do you make an assessment that that news report that's not due to come out a"
+  },
+  {
+    "start": "00:04:22.830",
+    "end": "00:04:22.840",
+    "start_seconds": 262.83,
+    "end_seconds": 262.84,
+    "text": "news report that's not due to come out a"
+  },
+  {
+    "start": "00:04:22.840",
+    "end": "00:04:24.550",
+    "start_seconds": 262.84,
+    "end_seconds": 264.55,
+    "text": "news report that's not due to come out a week from now is going to contain good"
+  },
+  {
+    "start": "00:04:24.550",
+    "end": "00:04:24.560",
+    "start_seconds": 264.55,
+    "end_seconds": 264.56,
+    "text": "week from now is going to contain good"
+  },
+  {
+    "start": "00:04:24.560",
+    "end": "00:04:27.150",
+    "start_seconds": 264.56,
+    "end_seconds": 267.15,
+    "text": "week from now is going to contain good news or bad news?"
+  },
+  {
+    "start": "00:04:27.150",
+    "end": "00:04:27.160",
+    "start_seconds": 267.15,
+    "end_seconds": 267.16,
+    "text": "news or bad news?"
+  },
+  {
+    "start": "00:04:27.160",
+    "end": "00:04:29.310",
+    "start_seconds": 267.16,
+    "end_seconds": 269.31,
+    "text": "news or bad news? There's one way, which is probably"
+  },
+  {
+    "start": "00:04:29.310",
+    "end": "00:04:29.320",
+    "start_seconds": 269.31,
+    "end_seconds": 269.32,
+    "text": "There's one way, which is probably"
+  },
+  {
+    "start": "00:04:29.320",
+    "end": "00:04:31.750",
+    "start_seconds": 269.32,
+    "end_seconds": 271.75,
+    "text": "There's one way, which is probably illegal in the US and in much of the"
+  },
+  {
+    "start": "00:04:31.750",
+    "end": "00:04:31.760",
+    "start_seconds": 271.75,
+    "end_seconds": 271.76,
+    "text": "illegal in the US and in much of the"
+  },
+  {
+    "start": "00:04:31.760",
+    "end": "00:04:32.990",
+    "start_seconds": 271.76,
+    "end_seconds": 272.99,
+    "text": "illegal in the US and in much of the world, which is you have inside"
+  },
+  {
+    "start": "00:04:32.990",
+    "end": "00:04:33.000",
+    "start_seconds": 272.99,
+    "end_seconds": 273.0,
+    "text": "world, which is you have inside"
+  },
+  {
+    "start": "00:04:33.000",
+    "end": "00:04:34.470",
+    "start_seconds": 273.0,
+    "end_seconds": 274.47,
+    "text": "world, which is you have inside information."
+  },
+  {
+    "start": "00:04:34.470",
+    "end": "00:04:34.480",
+    "start_seconds": 274.47,
+    "end_seconds": 274.48,
+    "text": "information."
+  },
+  {
+    "start": "00:04:34.480",
+    "end": "00:04:36.430",
+    "start_seconds": 274.48,
+    "end_seconds": 276.43,
+    "text": "information. And let's face it."
+  },
+  {
+    "start": "00:04:36.430",
+    "end": "00:04:36.440",
+    "start_seconds": 276.43,
+    "end_seconds": 276.44,
+    "text": "And let's face it."
+  },
+  {
+    "start": "00:04:36.440",
+    "end": "00:04:38.390",
+    "start_seconds": 276.44,
+    "end_seconds": 278.39,
+    "text": "And let's face it. I know I'm cynical on this. Insider"
+  },
+  {
+    "start": "00:04:38.390",
+    "end": "00:04:38.400",
+    "start_seconds": 278.39,
+    "end_seconds": 278.4,
+    "text": "I know I'm cynical on this. Insider"
+  },
+  {
+    "start": "00:04:38.400",
+    "end": "00:04:40.470",
+    "start_seconds": 278.4,
+    "end_seconds": 280.47,
+    "text": "I know I'm cynical on this. Insider information exists. People trade on it."
+  },
+  {
+    "start": "00:04:40.470",
+    "end": "00:04:40.480",
+    "start_seconds": 280.47,
+    "end_seconds": 280.48,
+    "text": "information exists. People trade on it."
+  },
+  {
+    "start": "00:04:40.480",
+    "end": "00:04:41.909",
+    "start_seconds": 280.48,
+    "end_seconds": 281.909,
+    "text": "information exists. People trade on it. There's going to be a drift ahead of"
+  },
+  {
+    "start": "00:04:41.909",
+    "end": "00:04:41.919",
+    "start_seconds": 281.909,
+    "end_seconds": 281.919,
+    "text": "There's going to be a drift ahead of"
+  },
+  {
+    "start": "00:04:41.919",
+    "end": "00:04:43.710",
+    "start_seconds": 281.919,
+    "end_seconds": 283.71,
+    "text": "There's going to be a drift ahead of good news"
+  },
+  {
+    "start": "00:04:43.710",
+    "end": "00:04:43.720",
+    "start_seconds": 283.71,
+    "end_seconds": 283.72,
+    "text": "good news"
+  },
+  {
+    "start": "00:04:43.720",
+    "end": "00:04:45.670",
+    "start_seconds": 283.72,
+    "end_seconds": 285.67,
+    "text": "good news or bad news. Insider or private"
+  },
+  {
+    "start": "00:04:45.670",
+    "end": "00:04:45.680",
+    "start_seconds": 285.67,
+    "end_seconds": 285.68,
+    "text": "or bad news. Insider or private"
+  },
+  {
+    "start": "00:04:45.680",
+    "end": "00:04:47.470",
+    "start_seconds": 285.68,
+    "end_seconds": 287.47,
+    "text": "or bad news. Insider or private information."
+  },
+  {
+    "start": "00:04:47.470",
+    "end": "00:04:47.480",
+    "start_seconds": 287.47,
+    "end_seconds": 287.48,
+    "text": "information."
+  },
+  {
+    "start": "00:04:47.480",
+    "end": "00:04:49.070",
+    "start_seconds": 287.48,
+    "end_seconds": 289.07,
+    "text": "information. The second is rumor mills. There's"
+  },
+  {
+    "start": "00:04:49.070",
+    "end": "00:04:49.080",
+    "start_seconds": 289.07,
+    "end_seconds": 289.08,
+    "text": "The second is rumor mills. There's"
+  },
+  {
+    "start": "00:04:49.080",
+    "end": "00:04:51.350",
+    "start_seconds": 289.08,
+    "end_seconds": 291.35,
+    "text": "The second is rumor mills. There's rumors all the time about companies. The"
+  },
+  {
+    "start": "00:04:51.350",
+    "end": "00:04:51.360",
+    "start_seconds": 291.35,
+    "end_seconds": 291.36,
+    "text": "rumors all the time about companies. The"
+  },
+  {
+    "start": "00:04:51.360",
+    "end": "00:04:53.750",
+    "start_seconds": 291.36,
+    "end_seconds": 293.75,
+    "text": "rumors all the time about companies. The problem is most of them are false, but"
+  },
+  {
+    "start": "00:04:53.750",
+    "end": "00:04:53.760",
+    "start_seconds": 293.75,
+    "end_seconds": 293.76,
+    "text": "problem is most of them are false, but"
+  },
+  {
+    "start": "00:04:53.760",
+    "end": "00:04:56.990",
+    "start_seconds": 293.76,
+    "end_seconds": 296.99,
+    "text": "problem is most of them are false, but perhaps you have a good a source of good"
+  },
+  {
+    "start": "00:04:56.990",
+    "end": "00:04:57.000",
+    "start_seconds": 296.99,
+    "end_seconds": 297.0,
+    "text": "perhaps you have a good a source of good"
+  },
+  {
+    "start": "00:04:57.000",
+    "end": "00:04:59.590",
+    "start_seconds": 297.0,
+    "end_seconds": 299.59000000000003,
+    "text": "perhaps you have a good a source of good rumors. Rumors that actually have basis."
+  },
+  {
+    "start": "00:04:59.590",
+    "end": "00:04:59.600",
+    "start_seconds": 299.59000000000003,
+    "end_seconds": 299.6,
+    "text": "rumors. Rumors that actually have basis."
+  },
+  {
+    "start": "00:04:59.600",
+    "end": "00:05:00.909",
+    "start_seconds": 299.6,
+    "end_seconds": 300.909,
+    "text": "rumors. Rumors that actually have basis. That might be a way."
+  },
+  {
+    "start": "00:05:00.909",
+    "end": "00:05:00.919",
+    "start_seconds": 300.909,
+    "end_seconds": 300.919,
+    "text": "That might be a way."
+  },
+  {
+    "start": "00:05:00.919",
+    "end": "00:05:02.750",
+    "start_seconds": 300.919,
+    "end_seconds": 302.75,
+    "text": "That might be a way. Or you could do research. Maybe you come"
+  },
+  {
+    "start": "00:05:02.750",
+    "end": "00:05:02.760",
+    "start_seconds": 302.75,
+    "end_seconds": 302.76,
+    "text": "Or you could do research. Maybe you come"
+  },
+  {
+    "start": "00:05:02.760",
+    "end": "00:05:05.590",
+    "start_seconds": 302.76,
+    "end_seconds": 305.59,
+    "text": "Or you could do research. Maybe you come up with a way of forecasting which types"
+  },
+  {
+    "start": "00:05:05.590",
+    "end": "00:05:05.600",
+    "start_seconds": 305.59,
+    "end_seconds": 305.6,
+    "text": "up with a way of forecasting which types"
+  },
+  {
+    "start": "00:05:05.600",
+    "end": "00:05:07.870",
+    "start_seconds": 305.6,
+    "end_seconds": 307.87,
+    "text": "up with a way of forecasting which types of companies are going to report"
+  },
+  {
+    "start": "00:05:07.870",
+    "end": "00:05:07.880",
+    "start_seconds": 307.87,
+    "end_seconds": 307.88,
+    "text": "of companies are going to report"
+  },
+  {
+    "start": "00:05:07.880",
+    "end": "00:05:09.710",
+    "start_seconds": 307.88,
+    "end_seconds": 309.71,
+    "text": "of companies are going to report good earnings."
+  },
+  {
+    "start": "00:05:09.710",
+    "end": "00:05:09.720",
+    "start_seconds": 309.71,
+    "end_seconds": 309.72,
+    "text": "good earnings."
+  },
+  {
+    "start": "00:05:09.720",
+    "end": "00:05:13.030",
+    "start_seconds": 309.72,
+    "end_seconds": 313.03,
+    "text": "good earnings. Insider information, rumor, or research."
+  },
+  {
+    "start": "00:05:13.030",
+    "end": "00:05:13.040",
+    "start_seconds": 313.03,
+    "end_seconds": 313.04,
+    "text": "Insider information, rumor, or research."
+  },
+  {
+    "start": "00:05:13.040",
+    "end": "00:05:15.150",
+    "start_seconds": 313.04,
+    "end_seconds": 315.15,
+    "text": "Insider information, rumor, or research. Now, how you trade on this will depend"
+  },
+  {
+    "start": "00:05:15.150",
+    "end": "00:05:15.160",
+    "start_seconds": 315.15,
+    "end_seconds": 315.16,
+    "text": "Now, how you trade on this will depend"
+  },
+  {
+    "start": "00:05:15.160",
+    "end": "00:05:17.150",
+    "start_seconds": 315.16,
+    "end_seconds": 317.15,
+    "text": "Now, how you trade on this will depend on how reliable"
+  },
+  {
+    "start": "00:05:17.150",
+    "end": "00:05:17.160",
+    "start_seconds": 317.15,
+    "end_seconds": 317.16,
+    "text": "on how reliable"
+  },
+  {
+    "start": "00:05:17.160",
+    "end": "00:05:19.070",
+    "start_seconds": 317.16,
+    "end_seconds": 319.07,
+    "text": "on how reliable that in- that news source is, right? To"
+  },
+  {
+    "start": "00:05:19.070",
+    "end": "00:05:19.080",
+    "start_seconds": 319.07,
+    "end_seconds": 319.08,
+    "text": "that in- that news source is, right? To"
+  },
+  {
+    "start": "00:05:19.080",
+    "end": "00:05:20.830",
+    "start_seconds": 319.08,
+    "end_seconds": 320.83,
+    "text": "that in- that news source is, right? To the extent that you're trading on a"
+  },
+  {
+    "start": "00:05:20.830",
+    "end": "00:05:20.840",
+    "start_seconds": 320.83,
+    "end_seconds": 320.84,
+    "text": "the extent that you're trading on a"
+  },
+  {
+    "start": "00:05:20.840",
+    "end": "00:05:22.670",
+    "start_seconds": 320.84,
+    "end_seconds": 322.67,
+    "text": "the extent that you're trading on a rumor and the rumor is very speculative,"
+  },
+  {
+    "start": "00:05:22.670",
+    "end": "00:05:22.680",
+    "start_seconds": 322.67,
+    "end_seconds": 322.68,
+    "text": "rumor and the rumor is very speculative,"
+  },
+  {
+    "start": "00:05:22.680",
+    "end": "00:05:24.990",
+    "start_seconds": 322.68,
+    "end_seconds": 324.99,
+    "text": "rumor and the rumor is very speculative, you got to hold back a lot more than if"
+  },
+  {
+    "start": "00:05:24.990",
+    "end": "00:05:25.000",
+    "start_seconds": 324.99,
+    "end_seconds": 325.0,
+    "text": "you got to hold back a lot more than if"
+  },
+  {
+    "start": "00:05:25.000",
+    "end": "00:05:26.550",
+    "start_seconds": 325.0,
+    "end_seconds": 326.55,
+    "text": "you got to hold back a lot more than if you're trading on inside information"
+  },
+  {
+    "start": "00:05:26.550",
+    "end": "00:05:26.560",
+    "start_seconds": 326.55,
+    "end_seconds": 326.56,
+    "text": "you're trading on inside information"
+  },
+  {
+    "start": "00:05:26.560",
+    "end": "00:05:28.630",
+    "start_seconds": 326.56,
+    "end_seconds": 328.63,
+    "text": "you're trading on inside information that is guaranteed."
+  },
+  {
+    "start": "00:05:28.630",
+    "end": "00:05:28.640",
+    "start_seconds": 328.63,
+    "end_seconds": 328.64,
+    "text": "that is guaranteed."
+  },
+  {
+    "start": "00:05:28.640",
+    "end": "00:05:30.909",
+    "start_seconds": 328.64,
+    "end_seconds": 330.909,
+    "text": "that is guaranteed. And your investment strategy will also"
+  },
+  {
+    "start": "00:05:30.909",
+    "end": "00:05:30.919",
+    "start_seconds": 330.909,
+    "end_seconds": 330.919,
+    "text": "And your investment strategy will also"
+  },
+  {
+    "start": "00:05:30.919",
+    "end": "00:05:33.909",
+    "start_seconds": 330.919,
+    "end_seconds": 333.909,
+    "text": "And your investment strategy will also depend on on not only will it when you"
+  },
+  {
+    "start": "00:05:33.909",
+    "end": "00:05:33.919",
+    "start_seconds": 333.909,
+    "end_seconds": 333.919,
+    "text": "depend on on not only will it when you"
+  },
+  {
+    "start": "00:05:33.919",
+    "end": "00:05:36.030",
+    "start_seconds": 333.919,
+    "end_seconds": 336.03,
+    "text": "depend on on not only will it when you trade depend, but how much you trade and"
+  },
+  {
+    "start": "00:05:36.030",
+    "end": "00:05:36.040",
+    "start_seconds": 336.03,
+    "end_seconds": 336.04,
+    "text": "trade depend, but how much you trade and"
+  },
+  {
+    "start": "00:05:36.040",
+    "end": "00:05:37.670",
+    "start_seconds": 336.04,
+    "end_seconds": 337.67,
+    "text": "trade depend, but how much you trade and how big the trade can be will also"
+  },
+  {
+    "start": "00:05:37.670",
+    "end": "00:05:37.680",
+    "start_seconds": 337.67,
+    "end_seconds": 337.68,
+    "text": "how big the trade can be will also"
+  },
+  {
+    "start": "00:05:37.680",
+    "end": "00:05:38.909",
+    "start_seconds": 337.68,
+    "end_seconds": 338.909,
+    "text": "how big the trade can be will also depend on the reliability of the"
+  },
+  {
+    "start": "00:05:38.909",
+    "end": "00:05:38.919",
+    "start_seconds": 338.909,
+    "end_seconds": 338.919,
+    "text": "depend on the reliability of the"
+  },
+  {
+    "start": "00:05:38.919",
+    "end": "00:05:40.550",
+    "start_seconds": 338.919,
+    "end_seconds": 340.55,
+    "text": "depend on the reliability of the strategy."
+  },
+  {
+    "start": "00:05:40.550",
+    "end": "00:05:40.560",
+    "start_seconds": 340.55,
+    "end_seconds": 340.56,
+    "text": "strategy."
+  },
+  {
+    "start": "00:05:40.560",
+    "end": "00:05:42.510",
+    "start_seconds": 340.56,
+    "end_seconds": 342.51,
+    "text": "strategy. So, those are the things that you can"
+  },
+  {
+    "start": "00:05:42.510",
+    "end": "00:05:42.520",
+    "start_seconds": 342.51,
+    "end_seconds": 342.52,
+    "text": "So, those are the things that you can"
+  },
+  {
+    "start": "00:05:42.520",
+    "end": "00:05:44.830",
+    "start_seconds": 342.52,
+    "end_seconds": 344.83,
+    "text": "So, those are the things that you can use to trade ahead of the news."
+  },
+  {
+    "start": "00:05:44.830",
+    "end": "00:05:44.840",
+    "start_seconds": 344.83,
+    "end_seconds": 344.84000000000003,
+    "text": "use to trade ahead of the news."
+  },
+  {
+    "start": "00:05:44.840",
+    "end": "00:05:47.110",
+    "start_seconds": 344.84000000000003,
+    "end_seconds": 347.11,
+    "text": "use to trade ahead of the news. What about on the news? You can trade on"
+  },
+  {
+    "start": "00:05:47.110",
+    "end": "00:05:47.120",
+    "start_seconds": 347.11,
+    "end_seconds": 347.12,
+    "text": "What about on the news? You can trade on"
+  },
+  {
+    "start": "00:05:47.120",
+    "end": "00:05:49.710",
+    "start_seconds": 347.12,
+    "end_seconds": 349.71,
+    "text": "What about on the news? You can trade on the immediate price reaction."
+  },
+  {
+    "start": "00:05:49.710",
+    "end": "00:05:49.720",
+    "start_seconds": 349.71,
+    "end_seconds": 349.72,
+    "text": "the immediate price reaction."
+  },
+  {
+    "start": "00:05:49.720",
+    "end": "00:05:51.350",
+    "start_seconds": 349.72,
+    "end_seconds": 351.35,
+    "text": "the immediate price reaction. Good news comes out about a company, the"
+  },
+  {
+    "start": "00:05:51.350",
+    "end": "00:05:51.360",
+    "start_seconds": 351.35,
+    "end_seconds": 351.36,
+    "text": "Good news comes out about a company, the"
+  },
+  {
+    "start": "00:05:51.360",
+    "end": "00:05:53.510",
+    "start_seconds": 351.36,
+    "end_seconds": 353.51,
+    "text": "Good news comes out about a company, the price jumps, you might decide the price"
+  },
+  {
+    "start": "00:05:53.510",
+    "end": "00:05:53.520",
+    "start_seconds": 353.51,
+    "end_seconds": 353.52,
+    "text": "price jumps, you might decide the price"
+  },
+  {
+    "start": "00:05:53.520",
+    "end": "00:05:55.750",
+    "start_seconds": 353.52,
+    "end_seconds": 355.75,
+    "text": "price jumps, you might decide the price jump was too much and you sell the"
+  },
+  {
+    "start": "00:05:55.750",
+    "end": "00:05:55.760",
+    "start_seconds": 355.75,
+    "end_seconds": 355.76,
+    "text": "jump was too much and you sell the"
+  },
+  {
+    "start": "00:05:55.760",
+    "end": "00:05:58.470",
+    "start_seconds": 355.76,
+    "end_seconds": 358.47,
+    "text": "jump was too much and you sell the stock. Or the price jump was too little"
+  },
+  {
+    "start": "00:05:58.470",
+    "end": "00:05:58.480",
+    "start_seconds": 358.47,
+    "end_seconds": 358.48,
+    "text": "stock. Or the price jump was too little"
+  },
+  {
+    "start": "00:05:58.480",
+    "end": "00:05:59.830",
+    "start_seconds": 358.48,
+    "end_seconds": 359.83,
+    "text": "stock. Or the price jump was too little and you buy the stock. You're taking"
+  },
+  {
+    "start": "00:05:59.830",
+    "end": "00:05:59.840",
+    "start_seconds": 359.83,
+    "end_seconds": 359.84000000000003,
+    "text": "and you buy the stock. You're taking"
+  },
+  {
+    "start": "00:05:59.840",
+    "end": "00:06:01.350",
+    "start_seconds": 359.84000000000003,
+    "end_seconds": 361.35,
+    "text": "and you buy the stock. You're taking advantage of the drift that's going to"
+  },
+  {
+    "start": "00:06:01.350",
+    "end": "00:06:01.360",
+    "start_seconds": 361.35,
+    "end_seconds": 361.36,
+    "text": "advantage of the drift that's going to"
+  },
+  {
+    "start": "00:06:01.360",
+    "end": "00:06:03.150",
+    "start_seconds": 361.36,
+    "end_seconds": 363.15,
+    "text": "advantage of the drift that's going to come if you're right after the"
+  },
+  {
+    "start": "00:06:03.150",
+    "end": "00:06:03.160",
+    "start_seconds": 363.15,
+    "end_seconds": 363.16,
+    "text": "come if you're right after the"
+  },
+  {
+    "start": "00:06:03.160",
+    "end": "00:06:04.510",
+    "start_seconds": 363.16,
+    "end_seconds": 364.51,
+    "text": "come if you're right after the announcement."
+  },
+  {
+    "start": "00:06:04.510",
+    "end": "00:06:04.520",
+    "start_seconds": 364.51,
+    "end_seconds": 364.52,
+    "text": "announcement."
+  },
+  {
+    "start": "00:06:04.520",
+    "end": "00:06:06.510",
+    "start_seconds": 364.52,
+    "end_seconds": 366.51,
+    "text": "announcement. But you can also trade on volatility."
+  },
+  {
+    "start": "00:06:06.510",
+    "end": "00:06:06.520",
+    "start_seconds": 366.51,
+    "end_seconds": 366.52,
+    "text": "But you can also trade on volatility."
+  },
+  {
+    "start": "00:06:06.520",
+    "end": "00:06:08.430",
+    "start_seconds": 366.52,
+    "end_seconds": 368.43,
+    "text": "But you can also trade on volatility. You think, \"What does that mean?\""
+  },
+  {
+    "start": "00:06:08.430",
+    "end": "00:06:08.440",
+    "start_seconds": 368.43,
+    "end_seconds": 368.44,
+    "text": "You think, \"What does that mean?\""
+  },
+  {
+    "start": "00:06:08.440",
+    "end": "00:06:10.670",
+    "start_seconds": 368.44,
+    "end_seconds": 370.67,
+    "text": "You think, \"What does that mean?\" Over the last 40 years, there have been"
+  },
+  {
+    "start": "00:06:10.670",
+    "end": "00:06:10.680",
+    "start_seconds": 370.67,
+    "end_seconds": 370.68,
+    "text": "Over the last 40 years, there have been"
+  },
+  {
+    "start": "00:06:10.680",
+    "end": "00:06:12.390",
+    "start_seconds": 370.68,
+    "end_seconds": 372.39,
+    "text": "Over the last 40 years, there have been instruments that have been created that"
+  },
+  {
+    "start": "00:06:12.390",
+    "end": "00:06:12.400",
+    "start_seconds": 372.39,
+    "end_seconds": 372.4,
+    "text": "instruments that have been created that"
+  },
+  {
+    "start": "00:06:12.400",
+    "end": "00:06:14.270",
+    "start_seconds": 372.4,
+    "end_seconds": 374.27,
+    "text": "instruments that have been created that are less about the level of the price"
+  },
+  {
+    "start": "00:06:14.270",
+    "end": "00:06:14.280",
+    "start_seconds": 374.27,
+    "end_seconds": 374.28,
+    "text": "are less about the level of the price"
+  },
+  {
+    "start": "00:06:14.280",
+    "end": "00:06:17.070",
+    "start_seconds": 374.28,
+    "end_seconds": 377.07,
+    "text": "are less about the level of the price and more proxies for volatility."
+  },
+  {
+    "start": "00:06:17.070",
+    "end": "00:06:17.080",
+    "start_seconds": 377.07,
+    "end_seconds": 377.08,
+    "text": "and more proxies for volatility."
+  },
+  {
+    "start": "00:06:17.080",
+    "end": "00:06:19.310",
+    "start_seconds": 377.08,
+    "end_seconds": 379.31,
+    "text": "and more proxies for volatility. In the In the overall market, this can"
+  },
+  {
+    "start": "00:06:19.310",
+    "end": "00:06:19.320",
+    "start_seconds": 379.31,
+    "end_seconds": 379.32,
+    "text": "In the In the overall market, this can"
+  },
+  {
+    "start": "00:06:19.320",
+    "end": "00:06:21.110",
+    "start_seconds": 379.32,
+    "end_seconds": 381.11,
+    "text": "In the In the overall market, this can take the form of the VIX. The VIX is"
+  },
+  {
+    "start": "00:06:21.110",
+    "end": "00:06:21.120",
+    "start_seconds": 381.11,
+    "end_seconds": 381.12,
+    "text": "take the form of the VIX. The VIX is"
+  },
+  {
+    "start": "00:06:21.120",
+    "end": "00:06:23.590",
+    "start_seconds": 381.12,
+    "end_seconds": 383.59,
+    "text": "take the form of the VIX. The VIX is actually an index on equity market"
+  },
+  {
+    "start": "00:06:23.590",
+    "end": "00:06:23.600",
+    "start_seconds": 383.59,
+    "end_seconds": 383.6,
+    "text": "actually an index on equity market"
+  },
+  {
+    "start": "00:06:23.600",
+    "end": "00:06:24.990",
+    "start_seconds": 383.6,
+    "end_seconds": 384.99,
+    "text": "actually an index on equity market volatility."
+  },
+  {
+    "start": "00:06:24.990",
+    "end": "00:06:25.000",
+    "start_seconds": 384.99,
+    "end_seconds": 385.0,
+    "text": "volatility."
+  },
+  {
+    "start": "00:06:25.000",
+    "end": "00:06:27.150",
+    "start_seconds": 385.0,
+    "end_seconds": 387.15,
+    "text": "volatility. And what you're trading on is that the"
+  },
+  {
+    "start": "00:06:27.150",
+    "end": "00:06:27.160",
+    "start_seconds": 387.15,
+    "end_seconds": 387.16,
+    "text": "And what you're trading on is that the"
+  },
+  {
+    "start": "00:06:27.160",
+    "end": "00:06:29.470",
+    "start_seconds": 387.16,
+    "end_seconds": 389.47,
+    "text": "And what you're trading on is that the level of volatility itself might change"
+  },
+  {
+    "start": "00:06:29.470",
+    "end": "00:06:29.480",
+    "start_seconds": 389.47,
+    "end_seconds": 389.48,
+    "text": "level of volatility itself might change"
+  },
+  {
+    "start": "00:06:29.480",
+    "end": "00:06:31.270",
+    "start_seconds": 389.48,
+    "end_seconds": 391.27,
+    "text": "level of volatility itself might change over time."
+  },
+  {
+    "start": "00:06:31.270",
+    "end": "00:06:31.280",
+    "start_seconds": 391.27,
+    "end_seconds": 391.28,
+    "text": "over time."
+  },
+  {
+    "start": "00:06:31.280",
+    "end": "00:06:33.830",
+    "start_seconds": 391.28,
+    "end_seconds": 393.83,
+    "text": "over time. So, news comes out,"
+  },
+  {
+    "start": "00:06:33.830",
+    "end": "00:06:33.840",
+    "start_seconds": 393.83,
+    "end_seconds": 393.84000000000003,
+    "text": "So, news comes out,"
+  },
+  {
+    "start": "00:06:33.840",
+    "end": "00:06:35.990",
+    "start_seconds": 393.84000000000003,
+    "end_seconds": 395.99,
+    "text": "So, news comes out, it can affect not just the the price"
+  },
+  {
+    "start": "00:06:35.990",
+    "end": "00:06:36.000",
+    "start_seconds": 395.99,
+    "end_seconds": 396.0,
+    "text": "it can affect not just the the price"
+  },
+  {
+    "start": "00:06:36.000",
+    "end": "00:06:37.630",
+    "start_seconds": 396.0,
+    "end_seconds": 397.63,
+    "text": "it can affect not just the the price level, but the volatility in the stock."
+  },
+  {
+    "start": "00:06:37.630",
+    "end": "00:06:37.640",
+    "start_seconds": 397.63,
+    "end_seconds": 397.64,
+    "text": "level, but the volatility in the stock."
+  },
+  {
+    "start": "00:06:37.640",
+    "end": "00:06:40.070",
+    "start_seconds": 397.64,
+    "end_seconds": 400.07,
+    "text": "level, but the volatility in the stock. The stock could get riskier or safer."
+  },
+  {
+    "start": "00:06:40.070",
+    "end": "00:06:40.080",
+    "start_seconds": 400.07,
+    "end_seconds": 400.08,
+    "text": "The stock could get riskier or safer."
+  },
+  {
+    "start": "00:06:40.080",
+    "end": "00:06:41.670",
+    "start_seconds": 400.08,
+    "end_seconds": 401.67,
+    "text": "The stock could get riskier or safer. And you're making an assessment in"
+  },
+  {
+    "start": "00:06:41.670",
+    "end": "00:06:41.680",
+    "start_seconds": 401.67,
+    "end_seconds": 401.68,
+    "text": "And you're making an assessment in"
+  },
+  {
+    "start": "00:06:41.680",
+    "end": "00:06:43.470",
+    "start_seconds": 401.68,
+    "end_seconds": 403.47,
+    "text": "And you're making an assessment in whether the volatility that the market"
+  },
+  {
+    "start": "00:06:43.470",
+    "end": "00:06:43.480",
+    "start_seconds": 403.47,
+    "end_seconds": 403.48,
+    "text": "whether the volatility that the market"
+  },
+  {
+    "start": "00:06:43.480",
+    "end": "00:06:46.390",
+    "start_seconds": 403.48,
+    "end_seconds": 406.39,
+    "text": "whether the volatility that the market is building in is just right."
+  },
+  {
+    "start": "00:06:46.390",
+    "end": "00:06:46.400",
+    "start_seconds": 406.39,
+    "end_seconds": 406.4,
+    "text": "is building in is just right."
+  },
+  {
+    "start": "00:06:46.400",
+    "end": "00:06:48.030",
+    "start_seconds": 406.4,
+    "end_seconds": 408.03,
+    "text": "is building in is just right. So, let's take an example."
+  },
+  {
+    "start": "00:06:48.030",
+    "end": "00:06:48.040",
+    "start_seconds": 408.03,
+    "end_seconds": 408.04,
+    "text": "So, let's take an example."
+  },
+  {
+    "start": "00:06:48.040",
+    "end": "00:06:49.550",
+    "start_seconds": 408.04,
+    "end_seconds": 409.55,
+    "text": "So, let's take an example. Let's suppose an earnings report comes"
+  },
+  {
+    "start": "00:06:49.550",
+    "end": "00:06:49.560",
+    "start_seconds": 409.55,
+    "end_seconds": 409.56,
+    "text": "Let's suppose an earnings report comes"
+  },
+  {
+    "start": "00:06:49.560",
+    "end": "00:06:51.630",
+    "start_seconds": 409.56,
+    "end_seconds": 411.63,
+    "text": "Let's suppose an earnings report comes out that reveals that this company is"
+  },
+  {
+    "start": "00:06:51.630",
+    "end": "00:06:51.640",
+    "start_seconds": 411.63,
+    "end_seconds": 411.64,
+    "text": "out that reveals that this company is"
+  },
+  {
+    "start": "00:06:51.640",
+    "end": "00:06:54.710",
+    "start_seconds": 411.64,
+    "end_seconds": 414.71,
+    "text": "out that reveals that this company is entering riskier businesses."
+  },
+  {
+    "start": "00:06:54.710",
+    "end": "00:06:54.720",
+    "start_seconds": 414.71,
+    "end_seconds": 414.72,
+    "text": "entering riskier businesses."
+  },
+  {
+    "start": "00:06:54.720",
+    "end": "00:06:55.670",
+    "start_seconds": 414.72,
+    "end_seconds": 415.67,
+    "text": "entering riskier businesses. Well, that's going to increase the"
+  },
+  {
+    "start": "00:06:55.670",
+    "end": "00:06:55.680",
+    "start_seconds": 415.67,
+    "end_seconds": 415.68,
+    "text": "Well, that's going to increase the"
+  },
+  {
+    "start": "00:06:55.680",
+    "end": "00:06:57.830",
+    "start_seconds": 415.68,
+    "end_seconds": 417.83,
+    "text": "Well, that's going to increase the volatility in the company, right?"
+  },
+  {
+    "start": "00:06:57.830",
+    "end": "00:06:57.840",
+    "start_seconds": 417.83,
+    "end_seconds": 417.84000000000003,
+    "text": "volatility in the company, right?"
+  },
+  {
+    "start": "00:06:57.840",
+    "end": "00:07:00.470",
+    "start_seconds": 417.84000000000003,
+    "end_seconds": 420.47,
+    "text": "volatility in the company, right? You go to the market and option prices"
+  },
+  {
+    "start": "00:07:00.470",
+    "end": "00:07:00.480",
+    "start_seconds": 420.47,
+    "end_seconds": 420.48,
+    "text": "You go to the market and option prices"
+  },
+  {
+    "start": "00:07:00.480",
+    "end": "00:07:01.790",
+    "start_seconds": 420.48,
+    "end_seconds": 421.79,
+    "text": "You go to the market and option prices have gone up to reflect, but they've"
+  },
+  {
+    "start": "00:07:01.790",
+    "end": "00:07:01.800",
+    "start_seconds": 421.79,
+    "end_seconds": 421.8,
+    "text": "have gone up to reflect, but they've"
+  },
+  {
+    "start": "00:07:01.800",
+    "end": "00:07:03.510",
+    "start_seconds": 421.8,
+    "end_seconds": 423.51,
+    "text": "have gone up to reflect, but they've gone up too much. In other words, the"
+  },
+  {
+    "start": "00:07:03.510",
+    "end": "00:07:03.520",
+    "start_seconds": 423.51,
+    "end_seconds": 423.52,
+    "text": "gone up too much. In other words, the"
+  },
+  {
+    "start": "00:07:03.520",
+    "end": "00:07:06.030",
+    "start_seconds": 423.52,
+    "end_seconds": 426.03,
+    "text": "gone up too much. In other words, the market has overestimated how much"
+  },
+  {
+    "start": "00:07:06.030",
+    "end": "00:07:06.040",
+    "start_seconds": 426.03,
+    "end_seconds": 426.04,
+    "text": "market has overestimated how much"
+  },
+  {
+    "start": "00:07:06.040",
+    "end": "00:07:08.070",
+    "start_seconds": 426.04,
+    "end_seconds": 428.07,
+    "text": "market has overestimated how much volatility should change and you're"
+  },
+  {
+    "start": "00:07:08.070",
+    "end": "00:07:08.080",
+    "start_seconds": 428.07,
+    "end_seconds": 428.08,
+    "text": "volatility should change and you're"
+  },
+  {
+    "start": "00:07:08.080",
+    "end": "00:07:09.990",
+    "start_seconds": 428.08,
+    "end_seconds": 429.99,
+    "text": "volatility should change and you're trading on that volatility."
+  },
+  {
+    "start": "00:07:09.990",
+    "end": "00:07:10.000",
+    "start_seconds": 429.99,
+    "end_seconds": 430.0,
+    "text": "trading on that volatility."
+  },
+  {
+    "start": "00:07:10.000",
+    "end": "00:07:11.950",
+    "start_seconds": 430.0,
+    "end_seconds": 431.95,
+    "text": "trading on that volatility. So, whether it's using options or direct"
+  },
+  {
+    "start": "00:07:11.950",
+    "end": "00:07:11.960",
+    "start_seconds": 431.95,
+    "end_seconds": 431.96,
+    "text": "So, whether it's using options or direct"
+  },
+  {
+    "start": "00:07:11.960",
+    "end": "00:07:13.990",
+    "start_seconds": 431.96,
+    "end_seconds": 433.99,
+    "text": "So, whether it's using options or direct instruments on volatility, you're trying"
+  },
+  {
+    "start": "00:07:13.990",
+    "end": "00:07:14.000",
+    "start_seconds": 433.99,
+    "end_seconds": 434.0,
+    "text": "instruments on volatility, you're trying"
+  },
+  {
+    "start": "00:07:14.000",
+    "end": "00:07:15.590",
+    "start_seconds": 434.0,
+    "end_seconds": 435.59,
+    "text": "instruments on volatility, you're trying to take advantage of shifts in"
+  },
+  {
+    "start": "00:07:15.590",
+    "end": "00:07:15.600",
+    "start_seconds": 435.59,
+    "end_seconds": 435.6,
+    "text": "to take advantage of shifts in"
+  },
+  {
+    "start": "00:07:15.600",
+    "end": "00:07:17.150",
+    "start_seconds": 435.6,
+    "end_seconds": 437.15,
+    "text": "to take advantage of shifts in volatility that you think are either too"
+  },
+  {
+    "start": "00:07:17.150",
+    "end": "00:07:17.160",
+    "start_seconds": 437.15,
+    "end_seconds": 437.16,
+    "text": "volatility that you think are either too"
+  },
+  {
+    "start": "00:07:17.160",
+    "end": "00:07:20.270",
+    "start_seconds": 437.16,
+    "end_seconds": 440.27,
+    "text": "volatility that you think are either too low or too high given the information."
+  },
+  {
+    "start": "00:07:20.270",
+    "end": "00:07:20.280",
+    "start_seconds": 440.27,
+    "end_seconds": 440.28,
+    "text": "low or too high given the information."
+  },
+  {
+    "start": "00:07:20.280",
+    "end": "00:07:21.990",
+    "start_seconds": 440.28,
+    "end_seconds": 441.99,
+    "text": "low or too high given the information. So, in addition to trading on the level"
+  },
+  {
+    "start": "00:07:21.990",
+    "end": "00:07:22.000",
+    "start_seconds": 441.99,
+    "end_seconds": 442.0,
+    "text": "So, in addition to trading on the level"
+  },
+  {
+    "start": "00:07:22.000",
+    "end": "00:07:23.150",
+    "start_seconds": 442.0,
+    "end_seconds": 443.15,
+    "text": "So, in addition to trading on the level of the price, you're trading on the"
+  },
+  {
+    "start": "00:07:23.150",
+    "end": "00:07:23.160",
+    "start_seconds": 443.15,
+    "end_seconds": 443.16,
+    "text": "of the price, you're trading on the"
+  },
+  {
+    "start": "00:07:23.160",
+    "end": "00:07:24.909",
+    "start_seconds": 443.16,
+    "end_seconds": 444.909,
+    "text": "of the price, you're trading on the volatility in the price."
+  },
+  {
+    "start": "00:07:24.909",
+    "end": "00:07:24.919",
+    "start_seconds": 444.909,
+    "end_seconds": 444.919,
+    "text": "volatility in the price."
+  },
+  {
+    "start": "00:07:24.919",
+    "end": "00:07:26.670",
+    "start_seconds": 444.919,
+    "end_seconds": 446.67,
+    "text": "volatility in the price. That's on the news."
+  },
+  {
+    "start": "00:07:26.670",
+    "end": "00:07:26.680",
+    "start_seconds": 446.67,
+    "end_seconds": 446.68,
+    "text": "That's on the news."
+  },
+  {
+    "start": "00:07:26.680",
+    "end": "00:07:28.310",
+    "start_seconds": 446.68,
+    "end_seconds": 448.31,
+    "text": "That's on the news. What about afterwards?"
+  },
+  {
+    "start": "00:07:28.310",
+    "end": "00:07:28.320",
+    "start_seconds": 448.31,
+    "end_seconds": 448.32,
+    "text": "What about afterwards?"
+  },
+  {
+    "start": "00:07:28.320",
+    "end": "00:07:30.350",
+    "start_seconds": 448.32,
+    "end_seconds": 450.35,
+    "text": "What about afterwards? There, the judgment that you made about"
+  },
+  {
+    "start": "00:07:30.350",
+    "end": "00:07:30.360",
+    "start_seconds": 450.35,
+    "end_seconds": 450.36,
+    "text": "There, the judgment that you made about"
+  },
+  {
+    "start": "00:07:30.360",
+    "end": "00:07:32.310",
+    "start_seconds": 450.36,
+    "end_seconds": 452.31,
+    "text": "There, the judgment that you made about whether markets are slow to learn or"
+  },
+  {
+    "start": "00:07:32.310",
+    "end": "00:07:32.320",
+    "start_seconds": 452.31,
+    "end_seconds": 452.32,
+    "text": "whether markets are slow to learn or"
+  },
+  {
+    "start": "00:07:32.320",
+    "end": "00:07:33.950",
+    "start_seconds": 452.32,
+    "end_seconds": 453.95,
+    "text": "whether markets are slow to learn or overreacting come into play. If it's a"
+  },
+  {
+    "start": "00:07:33.950",
+    "end": "00:07:33.960",
+    "start_seconds": 453.95,
+    "end_seconds": 453.96,
+    "text": "overreacting come into play. If it's a"
+  },
+  {
+    "start": "00:07:33.960",
+    "end": "00:07:35.909",
+    "start_seconds": 453.96,
+    "end_seconds": 455.909,
+    "text": "overreacting come into play. If it's a slow learning market, here's what you're"
+  },
+  {
+    "start": "00:07:35.909",
+    "end": "00:07:35.919",
+    "start_seconds": 455.909,
+    "end_seconds": 455.919,
+    "text": "slow learning market, here's what you're"
+  },
+  {
+    "start": "00:07:35.919",
+    "end": "00:07:37.710",
+    "start_seconds": 455.919,
+    "end_seconds": 457.71,
+    "text": "slow learning market, here's what you're going to do. You're going to buy after"
+  },
+  {
+    "start": "00:07:37.710",
+    "end": "00:07:37.720",
+    "start_seconds": 457.71,
+    "end_seconds": 457.72,
+    "text": "going to do. You're going to buy after"
+  },
+  {
+    "start": "00:07:37.720",
+    "end": "00:07:40.110",
+    "start_seconds": 457.72,
+    "end_seconds": 460.11,
+    "text": "going to do. You're going to buy after good news. You're going to sell after"
+  },
+  {
+    "start": "00:07:40.110",
+    "end": "00:07:40.120",
+    "start_seconds": 460.11,
+    "end_seconds": 460.12,
+    "text": "good news. You're going to sell after"
+  },
+  {
+    "start": "00:07:40.120",
+    "end": "00:07:42.630",
+    "start_seconds": 460.12,
+    "end_seconds": 462.63,
+    "text": "good news. You're going to sell after bad news. You see why, right? Cuz you"
+  },
+  {
+    "start": "00:07:42.630",
+    "end": "00:07:42.640",
+    "start_seconds": 462.63,
+    "end_seconds": 462.64,
+    "text": "bad news. You see why, right? Cuz you"
+  },
+  {
+    "start": "00:07:42.640",
+    "end": "00:07:44.830",
+    "start_seconds": 462.64,
+    "end_seconds": 464.83,
+    "text": "bad news. You see why, right? Cuz you buy after good news, the drift continues"
+  },
+  {
+    "start": "00:07:44.830",
+    "end": "00:07:44.840",
+    "start_seconds": 464.83,
+    "end_seconds": 464.84000000000003,
+    "text": "buy after good news, the drift continues"
+  },
+  {
+    "start": "00:07:44.840",
+    "end": "00:07:46.590",
+    "start_seconds": 464.84000000000003,
+    "end_seconds": 466.59000000000003,
+    "text": "buy after good news, the drift continues to be positive, you make money on it."
+  },
+  {
+    "start": "00:07:46.590",
+    "end": "00:07:46.600",
+    "start_seconds": 466.59000000000003,
+    "end_seconds": 466.6,
+    "text": "to be positive, you make money on it."
+  },
+  {
+    "start": "00:07:46.600",
+    "end": "00:07:48.550",
+    "start_seconds": 466.6,
+    "end_seconds": 468.55,
+    "text": "to be positive, you make money on it. You sell after bad news, it's a drift"
+  },
+  {
+    "start": "00:07:48.550",
+    "end": "00:07:48.560",
+    "start_seconds": 468.55,
+    "end_seconds": 468.56,
+    "text": "You sell after bad news, it's a drift"
+  },
+  {
+    "start": "00:07:48.560",
+    "end": "00:07:49.910",
+    "start_seconds": 468.56,
+    "end_seconds": 469.90999999999997,
+    "text": "You sell after bad news, it's a drift down"
+  },
+  {
+    "start": "00:07:49.910",
+    "end": "00:07:49.920",
+    "start_seconds": 469.90999999999997,
+    "end_seconds": 469.92,
+    "text": "down"
+  },
+  {
+    "start": "00:07:49.920",
+    "end": "00:07:52.070",
+    "start_seconds": 469.92,
+    "end_seconds": 472.07,
+    "text": "down on which you make money as well."
+  },
+  {
+    "start": "00:07:52.070",
+    "end": "00:07:52.080",
+    "start_seconds": 472.07,
+    "end_seconds": 472.08,
+    "text": "on which you make money as well."
+  },
+  {
+    "start": "00:07:52.080",
+    "end": "00:07:54.150",
+    "start_seconds": 472.08,
+    "end_seconds": 474.15,
+    "text": "on which you make money as well. If you have an overreacting market, you"
+  },
+  {
+    "start": "00:07:54.150",
+    "end": "00:07:54.160",
+    "start_seconds": 474.15,
+    "end_seconds": 474.15999999999997,
+    "text": "If you have an overreacting market, you"
+  },
+  {
+    "start": "00:07:54.160",
+    "end": "00:07:56.350",
+    "start_seconds": 474.15999999999997,
+    "end_seconds": 476.35,
+    "text": "If you have an overreacting market, you reverse the strategy. You sell after"
+  },
+  {
+    "start": "00:07:56.350",
+    "end": "00:07:56.360",
+    "start_seconds": 476.35,
+    "end_seconds": 476.36,
+    "text": "reverse the strategy. You sell after"
+  },
+  {
+    "start": "00:07:56.360",
+    "end": "00:07:57.750",
+    "start_seconds": 476.36,
+    "end_seconds": 477.75,
+    "text": "reverse the strategy. You sell after good news because you think markets"
+  },
+  {
+    "start": "00:07:57.750",
+    "end": "00:07:57.760",
+    "start_seconds": 477.75,
+    "end_seconds": 477.76,
+    "text": "good news because you think markets"
+  },
+  {
+    "start": "00:07:57.760",
+    "end": "00:08:00.030",
+    "start_seconds": 477.76,
+    "end_seconds": 480.03,
+    "text": "good news because you think markets overreact, there'll be a drift down,"
+  },
+  {
+    "start": "00:08:00.030",
+    "end": "00:08:00.040",
+    "start_seconds": 480.03,
+    "end_seconds": 480.04,
+    "text": "overreact, there'll be a drift down,"
+  },
+  {
+    "start": "00:08:00.040",
+    "end": "00:08:02.270",
+    "start_seconds": 480.04,
+    "end_seconds": 482.27,
+    "text": "overreact, there'll be a drift down, and you buy after bad news."
+  },
+  {
+    "start": "00:08:02.270",
+    "end": "00:08:02.280",
+    "start_seconds": 482.27,
+    "end_seconds": 482.28,
+    "text": "and you buy after bad news."
+  },
+  {
+    "start": "00:08:02.280",
+    "end": "00:08:04.790",
+    "start_seconds": 482.28,
+    "end_seconds": 484.79,
+    "text": "and you buy after bad news. In both cases, not only do you have need"
+  },
+  {
+    "start": "00:08:04.790",
+    "end": "00:08:04.800",
+    "start_seconds": 484.79,
+    "end_seconds": 484.8,
+    "text": "In both cases, not only do you have need"
+  },
+  {
+    "start": "00:08:04.800",
+    "end": "00:08:06.470",
+    "start_seconds": 484.8,
+    "end_seconds": 486.47,
+    "text": "In both cases, not only do you have need to get the timing of when you buy or"
+  },
+  {
+    "start": "00:08:06.470",
+    "end": "00:08:06.480",
+    "start_seconds": 486.47,
+    "end_seconds": 486.48,
+    "text": "to get the timing of when you buy or"
+  },
+  {
+    "start": "00:08:06.480",
+    "end": "00:08:08.070",
+    "start_seconds": 486.48,
+    "end_seconds": 488.07,
+    "text": "to get the timing of when you buy or sell right, you got to get the timing of"
+  },
+  {
+    "start": "00:08:08.070",
+    "end": "00:08:08.080",
+    "start_seconds": 488.07,
+    "end_seconds": 488.08,
+    "text": "sell right, you got to get the timing of"
+  },
+  {
+    "start": "00:08:08.080",
+    "end": "00:08:11.030",
+    "start_seconds": 488.08,
+    "end_seconds": 491.03,
+    "text": "sell right, you got to get the timing of when you exit your strategy also right,"
+  },
+  {
+    "start": "00:08:11.030",
+    "end": "00:08:11.040",
+    "start_seconds": 491.03,
+    "end_seconds": 491.04,
+    "text": "when you exit your strategy also right,"
+  },
+  {
+    "start": "00:08:11.040",
+    "end": "00:08:14.870",
+    "start_seconds": 491.04,
+    "end_seconds": 494.87,
+    "text": "when you exit your strategy also right, but"
+  },
+  {
+    "start": "00:08:14.880",
+    "end": "00:08:16.670",
+    "start_seconds": 494.88,
+    "end_seconds": 496.67,
+    "text": "So, you can trade on the news, you can"
+  },
+  {
+    "start": "00:08:16.670",
+    "end": "00:08:16.680",
+    "start_seconds": 496.67,
+    "end_seconds": 496.68,
+    "text": "So, you can trade on the news, you can"
+  },
+  {
+    "start": "00:08:16.680",
+    "end": "00:08:18.230",
+    "start_seconds": 496.68,
+    "end_seconds": 498.23,
+    "text": "So, you can trade on the news, you can trade before the news, you can trade"
+  },
+  {
+    "start": "00:08:18.230",
+    "end": "00:08:18.240",
+    "start_seconds": 498.23,
+    "end_seconds": 498.24,
+    "text": "trade before the news, you can trade"
+  },
+  {
+    "start": "00:08:18.240",
+    "end": "00:08:20.790",
+    "start_seconds": 498.24,
+    "end_seconds": 500.79,
+    "text": "trade before the news, you can trade after the news. Now, all of this,"
+  },
+  {
+    "start": "00:08:20.790",
+    "end": "00:08:20.800",
+    "start_seconds": 500.79,
+    "end_seconds": 500.8,
+    "text": "after the news. Now, all of this,"
+  },
+  {
+    "start": "00:08:20.800",
+    "end": "00:08:23.230",
+    "start_seconds": 500.8,
+    "end_seconds": 503.23,
+    "text": "after the news. Now, all of this, execution becomes a much more critical"
+  },
+  {
+    "start": "00:08:23.230",
+    "end": "00:08:23.240",
+    "start_seconds": 503.23,
+    "end_seconds": 503.24,
+    "text": "execution becomes a much more critical"
+  },
+  {
+    "start": "00:08:23.240",
+    "end": "00:08:25.190",
+    "start_seconds": 503.24,
+    "end_seconds": 505.19,
+    "text": "execution becomes a much more critical part of your strategy. Unlike"
+  },
+  {
+    "start": "00:08:25.190",
+    "end": "00:08:25.200",
+    "start_seconds": 505.19,
+    "end_seconds": 505.2,
+    "text": "part of your strategy. Unlike"
+  },
+  {
+    "start": "00:08:25.200",
+    "end": "00:08:26.909",
+    "start_seconds": 505.2,
+    "end_seconds": 506.909,
+    "text": "part of your strategy. Unlike traditional value or growth investing"
+  },
+  {
+    "start": "00:08:26.909",
+    "end": "00:08:26.919",
+    "start_seconds": 506.909,
+    "end_seconds": 506.919,
+    "text": "traditional value or growth investing"
+  },
+  {
+    "start": "00:08:26.919",
+    "end": "00:08:28.470",
+    "start_seconds": 506.919,
+    "end_seconds": 508.47,
+    "text": "traditional value or growth investing where we did not talk much about"
+  },
+  {
+    "start": "00:08:28.470",
+    "end": "00:08:28.480",
+    "start_seconds": 508.47,
+    "end_seconds": 508.48,
+    "text": "where we did not talk much about"
+  },
+  {
+    "start": "00:08:28.480",
+    "end": "00:08:30.310",
+    "start_seconds": 508.48,
+    "end_seconds": 510.31,
+    "text": "where we did not talk much about execution, when you have an"
+  },
+  {
+    "start": "00:08:30.310",
+    "end": "00:08:30.320",
+    "start_seconds": 510.31,
+    "end_seconds": 510.32,
+    "text": "execution, when you have an"
+  },
+  {
+    "start": "00:08:30.320",
+    "end": "00:08:32.550",
+    "start_seconds": 510.32,
+    "end_seconds": 512.55,
+    "text": "execution, when you have an information-based strategy, it matters"
+  },
+  {
+    "start": "00:08:32.550",
+    "end": "00:08:32.560",
+    "start_seconds": 512.55,
+    "end_seconds": 512.56,
+    "text": "information-based strategy, it matters"
+  },
+  {
+    "start": "00:08:32.560",
+    "end": "00:08:34.750",
+    "start_seconds": 512.56,
+    "end_seconds": 514.75,
+    "text": "information-based strategy, it matters when you trade and how quickly you trade"
+  },
+  {
+    "start": "00:08:34.750",
+    "end": "00:08:34.760",
+    "start_seconds": 514.75,
+    "end_seconds": 514.76,
+    "text": "when you trade and how quickly you trade"
+  },
+  {
+    "start": "00:08:34.760",
+    "end": "00:08:36.990",
+    "start_seconds": 514.76,
+    "end_seconds": 516.99,
+    "text": "when you trade and how quickly you trade and how low your and how low or high"
+  },
+  {
+    "start": "00:08:36.990",
+    "end": "00:08:37.000",
+    "start_seconds": 516.99,
+    "end_seconds": 517.0,
+    "text": "and how low your and how low or high"
+  },
+  {
+    "start": "00:08:37.000",
+    "end": "00:08:39.469",
+    "start_seconds": 517.0,
+    "end_seconds": 519.469,
+    "text": "and how low your and how low or high your transactions costs are. So, you"
+  },
+  {
+    "start": "00:08:39.469",
+    "end": "00:08:39.479",
+    "start_seconds": 519.469,
+    "end_seconds": 519.479,
+    "text": "your transactions costs are. So, you"
+  },
+  {
+    "start": "00:08:39.479",
+    "end": "00:08:41.110",
+    "start_seconds": 519.479,
+    "end_seconds": 521.11,
+    "text": "your transactions costs are. So, you have to make judgments about the"
+  },
+  {
+    "start": "00:08:41.110",
+    "end": "00:08:41.120",
+    "start_seconds": 521.11,
+    "end_seconds": 521.12,
+    "text": "have to make judgments about the"
+  },
+  {
+    "start": "00:08:41.120",
+    "end": "00:08:43.589",
+    "start_seconds": 521.12,
+    "end_seconds": 523.5889999999999,
+    "text": "have to make judgments about the execution part."
+  },
+  {
+    "start": "00:08:43.589",
+    "end": "00:08:43.599",
+    "start_seconds": 523.5889999999999,
+    "end_seconds": 523.599,
+    "text": "execution part."
+  },
+  {
+    "start": "00:08:43.599",
+    "end": "00:08:46.230",
+    "start_seconds": 523.599,
+    "end_seconds": 526.23,
+    "text": "execution part. And the transactions costs will come"
+  },
+  {
+    "start": "00:08:46.230",
+    "end": "00:08:46.240",
+    "start_seconds": 526.23,
+    "end_seconds": 526.24,
+    "text": "And the transactions costs will come"
+  },
+  {
+    "start": "00:08:46.240",
+    "end": "00:08:48.670",
+    "start_seconds": 526.24,
+    "end_seconds": 528.67,
+    "text": "And the transactions costs will come with that strategy. With an information"
+  },
+  {
+    "start": "00:08:48.670",
+    "end": "00:08:48.680",
+    "start_seconds": 528.67,
+    "end_seconds": 528.68,
+    "text": "with that strategy. With an information"
+  },
+  {
+    "start": "00:08:48.680",
+    "end": "00:08:50.750",
+    "start_seconds": 528.68,
+    "end_seconds": 530.75,
+    "text": "with that strategy. With an information trading strategy, if you're not careful,"
+  },
+  {
+    "start": "00:08:50.750",
+    "end": "00:08:50.760",
+    "start_seconds": 530.75,
+    "end_seconds": 530.76,
+    "text": "trading strategy, if you're not careful,"
+  },
+  {
+    "start": "00:08:50.760",
+    "end": "00:08:53.070",
+    "start_seconds": 530.76,
+    "end_seconds": 533.07,
+    "text": "trading strategy, if you're not careful, you might make money before transactions"
+  },
+  {
+    "start": "00:08:53.070",
+    "end": "00:08:53.080",
+    "start_seconds": 533.07,
+    "end_seconds": 533.08,
+    "text": "you might make money before transactions"
+  },
+  {
+    "start": "00:08:53.080",
+    "end": "00:08:54.230",
+    "start_seconds": 533.08,
+    "end_seconds": 534.23,
+    "text": "you might make money before transactions costs,"
+  },
+  {
+    "start": "00:08:54.230",
+    "end": "00:08:54.240",
+    "start_seconds": 534.23,
+    "end_seconds": 534.24,
+    "text": "costs,"
+  },
+  {
+    "start": "00:08:54.240",
+    "end": "00:08:55.910",
+    "start_seconds": 534.24,
+    "end_seconds": 535.91,
+    "text": "costs, but very quickly wipe them out with your"
+  },
+  {
+    "start": "00:08:55.910",
+    "end": "00:08:55.920",
+    "start_seconds": 535.91,
+    "end_seconds": 535.92,
+    "text": "but very quickly wipe them out with your"
+  },
+  {
+    "start": "00:08:55.920",
+    "end": "00:08:57.430",
+    "start_seconds": 535.92,
+    "end_seconds": 537.43,
+    "text": "but very quickly wipe them out with your trading costs."
+  },
+  {
+    "start": "00:08:57.430",
+    "end": "00:08:57.440",
+    "start_seconds": 537.43,
+    "end_seconds": 537.44,
+    "text": "trading costs."
+  },
+  {
+    "start": "00:08:57.440",
+    "end": "00:08:59.750",
+    "start_seconds": 537.44,
+    "end_seconds": 539.75,
+    "text": "trading costs. And if your information is coming from"
+  },
+  {
+    "start": "00:08:59.750",
+    "end": "00:08:59.760",
+    "start_seconds": 539.75,
+    "end_seconds": 539.76,
+    "text": "And if your information is coming from"
+  },
+  {
+    "start": "00:08:59.760",
+    "end": "00:09:02.430",
+    "start_seconds": 539.76,
+    "end_seconds": 542.43,
+    "text": "And if your information is coming from that gray area between inside"
+  },
+  {
+    "start": "00:09:02.430",
+    "end": "00:09:02.440",
+    "start_seconds": 542.43,
+    "end_seconds": 542.44,
+    "text": "that gray area between inside"
+  },
+  {
+    "start": "00:09:02.440",
+    "end": "00:09:04.550",
+    "start_seconds": 542.44,
+    "end_seconds": 544.55,
+    "text": "that gray area between inside information that's illegal and private"
+  },
+  {
+    "start": "00:09:04.550",
+    "end": "00:09:04.560",
+    "start_seconds": 544.55,
+    "end_seconds": 544.56,
+    "text": "information that's illegal and private"
+  },
+  {
+    "start": "00:09:04.560",
+    "end": "00:09:06.510",
+    "start_seconds": 544.56,
+    "end_seconds": 546.51,
+    "text": "information that's illegal and private information that's legal,"
+  },
+  {
+    "start": "00:09:06.510",
+    "end": "00:09:06.520",
+    "start_seconds": 546.51,
+    "end_seconds": 546.52,
+    "text": "information that's legal,"
+  },
+  {
+    "start": "00:09:06.520",
+    "end": "00:09:07.750",
+    "start_seconds": 546.52,
+    "end_seconds": 547.75,
+    "text": "information that's legal, you got to make sure you're on the right"
+  },
+  {
+    "start": "00:09:07.750",
+    "end": "00:09:07.760",
+    "start_seconds": 547.75,
+    "end_seconds": 547.76,
+    "text": "you got to make sure you're on the right"
+  },
+  {
+    "start": "00:09:07.760",
+    "end": "00:09:09.870",
+    "start_seconds": 547.76,
+    "end_seconds": 549.87,
+    "text": "you got to make sure you're on the right side of the line. Cuz that's a different"
+  },
+  {
+    "start": "00:09:09.870",
+    "end": "00:09:09.880",
+    "start_seconds": 549.87,
+    "end_seconds": 549.88,
+    "text": "side of the line. Cuz that's a different"
+  },
+  {
+    "start": "00:09:09.880",
+    "end": "00:09:11.510",
+    "start_seconds": 549.88,
+    "end_seconds": 551.51,
+    "text": "side of the line. Cuz that's a different kind of risk, a risk you might end up in"
+  },
+  {
+    "start": "00:09:11.510",
+    "end": "00:09:11.520",
+    "start_seconds": 551.51,
+    "end_seconds": 551.52,
+    "text": "kind of risk, a risk you might end up in"
+  },
+  {
+    "start": "00:09:11.520",
+    "end": "00:09:13.670",
+    "start_seconds": 551.52,
+    "end_seconds": 553.67,
+    "text": "kind of risk, a risk you might end up in jail cuz you used information you"
+  },
+  {
+    "start": "00:09:13.670",
+    "end": "00:09:13.680",
+    "start_seconds": 553.67,
+    "end_seconds": 553.68,
+    "text": "jail cuz you used information you"
+  },
+  {
+    "start": "00:09:13.680",
+    "end": "00:09:15.630",
+    "start_seconds": 553.68,
+    "end_seconds": 555.63,
+    "text": "jail cuz you used information you shouldn't have used to trade."
+  },
+  {
+    "start": "00:09:15.630",
+    "end": "00:09:15.640",
+    "start_seconds": 555.63,
+    "end_seconds": 555.64,
+    "text": "shouldn't have used to trade."
+  },
+  {
+    "start": "00:09:15.640",
+    "end": "00:09:17.510",
+    "start_seconds": 555.64,
+    "end_seconds": 557.51,
+    "text": "shouldn't have used to trade. So, let's summarize."
+  },
+  {
+    "start": "00:09:17.510",
+    "end": "00:09:17.520",
+    "start_seconds": 557.51,
+    "end_seconds": 557.52,
+    "text": "So, let's summarize."
+  },
+  {
+    "start": "00:09:17.520",
+    "end": "00:09:20.430",
+    "start_seconds": 557.52,
+    "end_seconds": 560.43,
+    "text": "So, let's summarize. An information event is a news story"
+  },
+  {
+    "start": "00:09:20.430",
+    "end": "00:09:20.440",
+    "start_seconds": 560.43,
+    "end_seconds": 560.44,
+    "text": "An information event is a news story"
+  },
+  {
+    "start": "00:09:20.440",
+    "end": "00:09:22.270",
+    "start_seconds": 560.44,
+    "end_seconds": 562.27,
+    "text": "An information event is a news story either about the company, the market,"
+  },
+  {
+    "start": "00:09:22.270",
+    "end": "00:09:22.280",
+    "start_seconds": 562.27,
+    "end_seconds": 562.28,
+    "text": "either about the company, the market,"
+  },
+  {
+    "start": "00:09:22.280",
+    "end": "00:09:25.110",
+    "start_seconds": 562.28,
+    "end_seconds": 565.11,
+    "text": "either about the company, the market, the sector that can move prices."
+  },
+  {
+    "start": "00:09:25.110",
+    "end": "00:09:25.120",
+    "start_seconds": 565.11,
+    "end_seconds": 565.12,
+    "text": "the sector that can move prices."
+  },
+  {
+    "start": "00:09:25.120",
+    "end": "00:09:27.270",
+    "start_seconds": 565.12,
+    "end_seconds": 567.27,
+    "text": "the sector that can move prices. In information-based trading strategies,"
+  },
+  {
+    "start": "00:09:27.270",
+    "end": "00:09:27.280",
+    "start_seconds": 567.27,
+    "end_seconds": 567.28,
+    "text": "In information-based trading strategies,"
+  },
+  {
+    "start": "00:09:27.280",
+    "end": "00:09:28.790",
+    "start_seconds": 567.28,
+    "end_seconds": 568.79,
+    "text": "In information-based trading strategies, you start with the presumption that"
+  },
+  {
+    "start": "00:09:28.790",
+    "end": "00:09:28.800",
+    "start_seconds": 568.79,
+    "end_seconds": 568.8,
+    "text": "you start with the presumption that"
+  },
+  {
+    "start": "00:09:28.800",
+    "end": "00:09:31.230",
+    "start_seconds": 568.8,
+    "end_seconds": 571.23,
+    "text": "you start with the presumption that markets don't always react the right"
+  },
+  {
+    "start": "00:09:31.230",
+    "end": "00:09:31.240",
+    "start_seconds": 571.23,
+    "end_seconds": 571.24,
+    "text": "markets don't always react the right"
+  },
+  {
+    "start": "00:09:31.240",
+    "end": "00:09:33.470",
+    "start_seconds": 571.24,
+    "end_seconds": 573.47,
+    "text": "markets don't always react the right way, right way in terms of adjusting"
+  },
+  {
+    "start": "00:09:33.470",
+    "end": "00:09:33.480",
+    "start_seconds": 573.47,
+    "end_seconds": 573.48,
+    "text": "way, right way in terms of adjusting"
+  },
+  {
+    "start": "00:09:33.480",
+    "end": "00:09:35.430",
+    "start_seconds": 573.48,
+    "end_seconds": 575.43,
+    "text": "way, right way in terms of adjusting prices to information, and you're going"
+  },
+  {
+    "start": "00:09:35.430",
+    "end": "00:09:35.440",
+    "start_seconds": 575.43,
+    "end_seconds": 575.44,
+    "text": "prices to information, and you're going"
+  },
+  {
+    "start": "00:09:35.440",
+    "end": "00:09:38.030",
+    "start_seconds": 575.44,
+    "end_seconds": 578.03,
+    "text": "prices to information, and you're going to try to exploit those mistakes to make"
+  },
+  {
+    "start": "00:09:38.030",
+    "end": "00:09:38.040",
+    "start_seconds": 578.03,
+    "end_seconds": 578.04,
+    "text": "to try to exploit those mistakes to make"
+  },
+  {
+    "start": "00:09:38.040",
+    "end": "00:09:39.710",
+    "start_seconds": 578.04,
+    "end_seconds": 579.71,
+    "text": "to try to exploit those mistakes to make money for yourself."
+  },
+  {
+    "start": "00:09:39.710",
+    "end": "00:09:39.720",
+    "start_seconds": 579.71,
+    "end_seconds": 579.72,
+    "text": "money for yourself."
+  },
+  {
+    "start": "00:09:39.720",
+    "end": "00:09:41.670",
+    "start_seconds": 579.72,
+    "end_seconds": 581.67,
+    "text": "money for yourself. Now having said all of that this session"
+  },
+  {
+    "start": "00:09:41.670",
+    "end": "00:09:41.680",
+    "start_seconds": 581.67,
+    "end_seconds": 581.68,
+    "text": "Now having said all of that this session"
+  },
+  {
+    "start": "00:09:41.680",
+    "end": "00:09:43.110",
+    "start_seconds": 581.68,
+    "end_seconds": 583.11,
+    "text": "Now having said all of that this session has been pretty abstract because we"
+  },
+  {
+    "start": "00:09:43.110",
+    "end": "00:09:43.120",
+    "start_seconds": 583.11,
+    "end_seconds": 583.12,
+    "text": "has been pretty abstract because we"
+  },
+  {
+    "start": "00:09:43.120",
+    "end": "00:09:45.230",
+    "start_seconds": 583.12,
+    "end_seconds": 585.23,
+    "text": "has been pretty abstract because we haven't actually defined individual"
+  },
+  {
+    "start": "00:09:45.230",
+    "end": "00:09:45.240",
+    "start_seconds": 585.23,
+    "end_seconds": 585.24,
+    "text": "haven't actually defined individual"
+  },
+  {
+    "start": "00:09:45.240",
+    "end": "00:09:47.470",
+    "start_seconds": 585.24,
+    "end_seconds": 587.47,
+    "text": "haven't actually defined individual information events. In the next few"
+  },
+  {
+    "start": "00:09:47.470",
+    "end": "00:09:47.480",
+    "start_seconds": 587.47,
+    "end_seconds": 587.48,
+    "text": "information events. In the next few"
+  },
+  {
+    "start": "00:09:47.480",
+    "end": "00:09:48.790",
+    "start_seconds": 587.48,
+    "end_seconds": 588.79,
+    "text": "information events. In the next few sessions we're going to talk about"
+  },
+  {
+    "start": "00:09:48.790",
+    "end": "00:09:48.800",
+    "start_seconds": 588.79,
+    "end_seconds": 588.8,
+    "text": "sessions we're going to talk about"
+  },
+  {
+    "start": "00:09:48.800",
+    "end": "00:09:50.710",
+    "start_seconds": 588.8,
+    "end_seconds": 590.71,
+    "text": "sessions we're going to talk about earnings reports, insider trading"
+  },
+  {
+    "start": "00:09:50.710",
+    "end": "00:09:50.720",
+    "start_seconds": 590.71,
+    "end_seconds": 590.72,
+    "text": "earnings reports, insider trading"
+  },
+  {
+    "start": "00:09:50.720",
+    "end": "00:09:52.750",
+    "start_seconds": 590.72,
+    "end_seconds": 592.75,
+    "text": "earnings reports, insider trading filings, you know,"
+  },
+  {
+    "start": "00:09:52.750",
+    "end": "00:09:52.760",
+    "start_seconds": 592.75,
+    "end_seconds": 592.76,
+    "text": "filings, you know,"
+  },
+  {
+    "start": "00:09:52.760",
+    "end": "00:09:54.350",
+    "start_seconds": 592.76,
+    "end_seconds": 594.35,
+    "text": "filings, you know, the acquisition announcements,"
+  },
+  {
+    "start": "00:09:54.350",
+    "end": "00:09:54.360",
+    "start_seconds": 594.35,
+    "end_seconds": 594.36,
+    "text": "the acquisition announcements,"
+  },
+  {
+    "start": "00:09:54.360",
+    "end": "00:09:56.830",
+    "start_seconds": 594.36,
+    "end_seconds": 596.83,
+    "text": "the acquisition announcements, management changes, the kinds of news"
+  },
+  {
+    "start": "00:09:56.830",
+    "end": "00:09:56.840",
+    "start_seconds": 596.83,
+    "end_seconds": 596.84,
+    "text": "management changes, the kinds of news"
+  },
+  {
+    "start": "00:09:56.840",
+    "end": "00:09:58.870",
+    "start_seconds": 596.84,
+    "end_seconds": 598.87,
+    "text": "management changes, the kinds of news stories that hit markets and look at"
+  },
+  {
+    "start": "00:09:58.870",
+    "end": "00:09:58.880",
+    "start_seconds": 598.87,
+    "end_seconds": 598.88,
+    "text": "stories that hit markets and look at"
+  },
+  {
+    "start": "00:09:58.880",
+    "end": "00:10:00.790",
+    "start_seconds": 598.88,
+    "end_seconds": 600.79,
+    "text": "stories that hit markets and look at what the evidence shows about about how"
+  },
+  {
+    "start": "00:10:00.790",
+    "end": "00:10:00.800",
+    "start_seconds": 600.79,
+    "end_seconds": 600.8,
+    "text": "what the evidence shows about about how"
+  },
+  {
+    "start": "00:10:00.800",
+    "end": "00:10:04.070",
+    "start_seconds": 600.8,
+    "end_seconds": 604.07,
+    "text": "what the evidence shows about about how well or badly markets do in responding"
+  },
+  {
+    "start": "00:10:04.070",
+    "end": "00:10:04.080",
+    "start_seconds": 604.07,
+    "end_seconds": 604.08,
+    "text": "well or badly markets do in responding"
+  },
+  {
+    "start": "00:10:04.080",
+    "end": "00:10:06.110",
+    "start_seconds": 604.08,
+    "end_seconds": 606.11,
+    "text": "well or badly markets do in responding to those new that news."
+  },
+  {
+    "start": "00:10:06.110",
+    "end": "00:10:06.120",
+    "start_seconds": 606.11,
+    "end_seconds": 606.12,
+    "text": "to those new that news."
+  },
+  {
+    "start": "00:10:06.120",
+    "end": "00:10:09.680",
+    "start_seconds": 606.12,
+    "end_seconds": 609.68,
+    "text": "to those new that news. Thank you very much for listening."
+  }
+]

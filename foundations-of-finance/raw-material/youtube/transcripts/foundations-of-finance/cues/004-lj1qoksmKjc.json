@@ -1,0 +1,5749 @@
+[
+  {
+    "start": "00:00:00.399",
+    "end": "00:00:02.790",
+    "start_seconds": 0.399,
+    "end_seconds": 2.79,
+    "text": "this is session four of the foundations"
+  },
+  {
+    "start": "00:00:02.790",
+    "end": "00:00:02.800",
+    "start_seconds": 2.79,
+    "end_seconds": 2.8,
+    "text": "this is session four of the foundations"
+  },
+  {
+    "start": "00:00:02.800",
+    "end": "00:00:05.430",
+    "start_seconds": 2.8,
+    "end_seconds": 5.43,
+    "text": "this is session four of the foundations and finance module and in this session"
+  },
+  {
+    "start": "00:00:05.430",
+    "end": "00:00:05.440",
+    "start_seconds": 5.43,
+    "end_seconds": 5.44,
+    "text": "and finance module and in this session"
+  },
+  {
+    "start": "00:00:05.440",
+    "end": "00:00:07.990",
+    "start_seconds": 5.44,
+    "end_seconds": 7.99,
+    "text": "and finance module and in this session i'd like to talk about risk a concept"
+  },
+  {
+    "start": "00:00:07.990",
+    "end": "00:00:08.000",
+    "start_seconds": 7.99,
+    "end_seconds": 8.0,
+    "text": "i'd like to talk about risk a concept"
+  },
+  {
+    "start": "00:00:08.000",
+    "end": "00:00:09.990",
+    "start_seconds": 8.0,
+    "end_seconds": 9.99,
+    "text": "i'd like to talk about risk a concept that drives our decision making in"
+  },
+  {
+    "start": "00:00:09.990",
+    "end": "00:00:10.000",
+    "start_seconds": 9.99,
+    "end_seconds": 10.0,
+    "text": "that drives our decision making in"
+  },
+  {
+    "start": "00:00:10.000",
+    "end": "00:00:12.070",
+    "start_seconds": 10.0,
+    "end_seconds": 12.07,
+    "text": "that drives our decision making in finance"
+  },
+  {
+    "start": "00:00:12.070",
+    "end": "00:00:12.080",
+    "start_seconds": 12.07,
+    "end_seconds": 12.08,
+    "text": "finance"
+  },
+  {
+    "start": "00:00:12.080",
+    "end": "00:00:14.310",
+    "start_seconds": 12.08,
+    "end_seconds": 14.31,
+    "text": "finance risk has always been around and for much"
+  },
+  {
+    "start": "00:00:14.310",
+    "end": "00:00:14.320",
+    "start_seconds": 14.31,
+    "end_seconds": 14.32,
+    "text": "risk has always been around and for much"
+  },
+  {
+    "start": "00:00:14.320",
+    "end": "00:00:15.829",
+    "start_seconds": 14.32,
+    "end_seconds": 15.829,
+    "text": "risk has always been around and for much of human existence that risk was"
+  },
+  {
+    "start": "00:00:15.829",
+    "end": "00:00:15.839",
+    "start_seconds": 15.829,
+    "end_seconds": 15.839,
+    "text": "of human existence that risk was"
+  },
+  {
+    "start": "00:00:15.839",
+    "end": "00:00:17.590",
+    "start_seconds": 15.839,
+    "end_seconds": 17.59,
+    "text": "of human existence that risk was physical risk"
+  },
+  {
+    "start": "00:00:17.590",
+    "end": "00:00:17.600",
+    "start_seconds": 17.59,
+    "end_seconds": 17.6,
+    "text": "physical risk"
+  },
+  {
+    "start": "00:00:17.600",
+    "end": "00:00:19.670",
+    "start_seconds": 17.6,
+    "end_seconds": 19.67,
+    "text": "physical risk a cave person would not survive if he"
+  },
+  {
+    "start": "00:00:19.670",
+    "end": "00:00:19.680",
+    "start_seconds": 19.67,
+    "end_seconds": 19.68,
+    "text": "a cave person would not survive if he"
+  },
+  {
+    "start": "00:00:19.680",
+    "end": "00:00:21.990",
+    "start_seconds": 19.68,
+    "end_seconds": 21.99,
+    "text": "a cave person would not survive if he did not take physical risks"
+  },
+  {
+    "start": "00:00:21.990",
+    "end": "00:00:22.000",
+    "start_seconds": 21.99,
+    "end_seconds": 22.0,
+    "text": "did not take physical risks"
+  },
+  {
+    "start": "00:00:22.000",
+    "end": "00:00:24.710",
+    "start_seconds": 22.0,
+    "end_seconds": 24.71,
+    "text": "did not take physical risks but about 600 years ago you started to"
+  },
+  {
+    "start": "00:00:24.710",
+    "end": "00:00:24.720",
+    "start_seconds": 24.71,
+    "end_seconds": 24.72,
+    "text": "but about 600 years ago you started to"
+  },
+  {
+    "start": "00:00:24.720",
+    "end": "00:00:26.870",
+    "start_seconds": 24.72,
+    "end_seconds": 26.87,
+    "text": "but about 600 years ago you started to see a separation between physical risk"
+  },
+  {
+    "start": "00:00:26.870",
+    "end": "00:00:26.880",
+    "start_seconds": 26.87,
+    "end_seconds": 26.88,
+    "text": "see a separation between physical risk"
+  },
+  {
+    "start": "00:00:26.880",
+    "end": "00:00:28.070",
+    "start_seconds": 26.88,
+    "end_seconds": 28.07,
+    "text": "see a separation between physical risk and financial risk"
+  },
+  {
+    "start": "00:00:28.070",
+    "end": "00:00:28.080",
+    "start_seconds": 28.07,
+    "end_seconds": 28.08,
+    "text": "and financial risk"
+  },
+  {
+    "start": "00:00:28.080",
+    "end": "00:00:29.910",
+    "start_seconds": 28.08,
+    "end_seconds": 29.91,
+    "text": "and financial risk and here's what i'm talking about i'm"
+  },
+  {
+    "start": "00:00:29.910",
+    "end": "00:00:29.920",
+    "start_seconds": 29.91,
+    "end_seconds": 29.92,
+    "text": "and here's what i'm talking about i'm"
+  },
+  {
+    "start": "00:00:29.920",
+    "end": "00:00:31.429",
+    "start_seconds": 29.92,
+    "end_seconds": 31.429,
+    "text": "and here's what i'm talking about i'm talking about that wealthy"
+  },
+  {
+    "start": "00:00:31.429",
+    "end": "00:00:31.439",
+    "start_seconds": 31.429,
+    "end_seconds": 31.439,
+    "text": "talking about that wealthy"
+  },
+  {
+    "start": "00:00:31.439",
+    "end": "00:00:34.310",
+    "start_seconds": 31.439,
+    "end_seconds": 34.31,
+    "text": "talking about that wealthy individual in england who put who bought"
+  },
+  {
+    "start": "00:00:34.310",
+    "end": "00:00:34.320",
+    "start_seconds": 34.31,
+    "end_seconds": 34.32,
+    "text": "individual in england who put who bought"
+  },
+  {
+    "start": "00:00:34.320",
+    "end": "00:00:35.270",
+    "start_seconds": 34.32,
+    "end_seconds": 35.27,
+    "text": "individual in england who put who bought a ship"
+  },
+  {
+    "start": "00:00:35.270",
+    "end": "00:00:35.280",
+    "start_seconds": 35.27,
+    "end_seconds": 35.28,
+    "text": "a ship"
+  },
+  {
+    "start": "00:00:35.280",
+    "end": "00:00:37.030",
+    "start_seconds": 35.28,
+    "end_seconds": 37.03,
+    "text": "a ship put sailors on the ship and sent them"
+  },
+  {
+    "start": "00:00:37.030",
+    "end": "00:00:37.040",
+    "start_seconds": 37.03,
+    "end_seconds": 37.04,
+    "text": "put sailors on the ship and sent them"
+  },
+  {
+    "start": "00:00:37.040",
+    "end": "00:00:39.750",
+    "start_seconds": 37.04,
+    "end_seconds": 39.75,
+    "text": "put sailors on the ship and sent them off to the far east to get spices"
+  },
+  {
+    "start": "00:00:39.750",
+    "end": "00:00:39.760",
+    "start_seconds": 39.75,
+    "end_seconds": 39.76,
+    "text": "off to the far east to get spices"
+  },
+  {
+    "start": "00:00:39.760",
+    "end": "00:00:42.869",
+    "start_seconds": 39.76,
+    "end_seconds": 42.869,
+    "text": "off to the far east to get spices if the ship came back in one piece"
+  },
+  {
+    "start": "00:00:42.869",
+    "end": "00:00:42.879",
+    "start_seconds": 42.869,
+    "end_seconds": 42.879,
+    "text": "if the ship came back in one piece"
+  },
+  {
+    "start": "00:00:42.879",
+    "end": "00:00:45.590",
+    "start_seconds": 42.879,
+    "end_seconds": 45.59,
+    "text": "if the ship came back in one piece he became wealthy and if the ship did"
+  },
+  {
+    "start": "00:00:45.590",
+    "end": "00:00:45.600",
+    "start_seconds": 45.59,
+    "end_seconds": 45.6,
+    "text": "he became wealthy and if the ship did"
+  },
+  {
+    "start": "00:00:45.600",
+    "end": "00:00:47.190",
+    "start_seconds": 45.6,
+    "end_seconds": 47.19,
+    "text": "he became wealthy and if the ship did not make it back either it"
+  },
+  {
+    "start": "00:00:47.190",
+    "end": "00:00:47.200",
+    "start_seconds": 47.19,
+    "end_seconds": 47.2,
+    "text": "not make it back either it"
+  },
+  {
+    "start": "00:00:47.200",
+    "end": "00:00:49.029",
+    "start_seconds": 47.2,
+    "end_seconds": 49.029,
+    "text": "not make it back either it because it sunk or was attacked by"
+  },
+  {
+    "start": "00:00:49.029",
+    "end": "00:00:49.039",
+    "start_seconds": 49.029,
+    "end_seconds": 49.039,
+    "text": "because it sunk or was attacked by"
+  },
+  {
+    "start": "00:00:49.039",
+    "end": "00:00:50.630",
+    "start_seconds": 49.039,
+    "end_seconds": 50.63,
+    "text": "because it sunk or was attacked by pirates the sailors were the ones who"
+  },
+  {
+    "start": "00:00:50.630",
+    "end": "00:00:50.640",
+    "start_seconds": 50.63,
+    "end_seconds": 50.64,
+    "text": "pirates the sailors were the ones who"
+  },
+  {
+    "start": "00:00:50.640",
+    "end": "00:00:51.350",
+    "start_seconds": 50.64,
+    "end_seconds": 51.35,
+    "text": "pirates the sailors were the ones who died you saw"
+  },
+  {
+    "start": "00:00:51.350",
+    "end": "00:00:51.360",
+    "start_seconds": 51.35,
+    "end_seconds": 51.36,
+    "text": "died you saw"
+  },
+  {
+    "start": "00:00:51.360",
+    "end": "00:00:53.750",
+    "start_seconds": 51.36,
+    "end_seconds": 53.75,
+    "text": "died you saw separation between physical risk and"
+  },
+  {
+    "start": "00:00:53.750",
+    "end": "00:00:53.760",
+    "start_seconds": 53.75,
+    "end_seconds": 53.76,
+    "text": "separation between physical risk and"
+  },
+  {
+    "start": "00:00:53.760",
+    "end": "00:00:55.590",
+    "start_seconds": 53.76,
+    "end_seconds": 55.59,
+    "text": "separation between physical risk and financial risk"
+  },
+  {
+    "start": "00:00:55.590",
+    "end": "00:00:55.600",
+    "start_seconds": 55.59,
+    "end_seconds": 55.6,
+    "text": "financial risk"
+  },
+  {
+    "start": "00:00:55.600",
+    "end": "00:00:57.510",
+    "start_seconds": 55.6,
+    "end_seconds": 57.51,
+    "text": "financial risk since that time though we've started to"
+  },
+  {
+    "start": "00:00:57.510",
+    "end": "00:00:57.520",
+    "start_seconds": 57.51,
+    "end_seconds": 57.52,
+    "text": "since that time though we've started to"
+  },
+  {
+    "start": "00:00:57.520",
+    "end": "00:00:58.790",
+    "start_seconds": 57.52,
+    "end_seconds": 58.79,
+    "text": "since that time though we've started to see that separation"
+  },
+  {
+    "start": "00:00:58.790",
+    "end": "00:00:58.800",
+    "start_seconds": 58.79,
+    "end_seconds": 58.8,
+    "text": "see that separation"
+  },
+  {
+    "start": "00:00:58.800",
+    "end": "00:01:01.270",
+    "start_seconds": 58.8,
+    "end_seconds": 61.27,
+    "text": "see that separation increase today when we talk about risk"
+  },
+  {
+    "start": "00:01:01.270",
+    "end": "00:01:01.280",
+    "start_seconds": 61.27,
+    "end_seconds": 61.28,
+    "text": "increase today when we talk about risk"
+  },
+  {
+    "start": "00:01:01.280",
+    "end": "00:01:02.630",
+    "start_seconds": 61.28,
+    "end_seconds": 62.63,
+    "text": "increase today when we talk about risk and investing it's almost"
+  },
+  {
+    "start": "00:01:02.630",
+    "end": "00:01:02.640",
+    "start_seconds": 62.63,
+    "end_seconds": 62.64,
+    "text": "and investing it's almost"
+  },
+  {
+    "start": "00:01:02.640",
+    "end": "00:01:04.869",
+    "start_seconds": 62.64,
+    "end_seconds": 64.869,
+    "text": "and investing it's almost never a physical risk it's a financial"
+  },
+  {
+    "start": "00:01:04.869",
+    "end": "00:01:04.879",
+    "start_seconds": 64.869,
+    "end_seconds": 64.879,
+    "text": "never a physical risk it's a financial"
+  },
+  {
+    "start": "00:01:04.879",
+    "end": "00:01:05.830",
+    "start_seconds": 64.879,
+    "end_seconds": 65.83,
+    "text": "never a physical risk it's a financial risk"
+  },
+  {
+    "start": "00:01:05.830",
+    "end": "00:01:05.840",
+    "start_seconds": 65.83,
+    "end_seconds": 65.84,
+    "text": "risk"
+  },
+  {
+    "start": "00:01:05.840",
+    "end": "00:01:07.190",
+    "start_seconds": 65.84,
+    "end_seconds": 67.19,
+    "text": "risk so here's the question i want to start"
+  },
+  {
+    "start": "00:01:07.190",
+    "end": "00:01:07.200",
+    "start_seconds": 67.19,
+    "end_seconds": 67.2,
+    "text": "so here's the question i want to start"
+  },
+  {
+    "start": "00:01:07.200",
+    "end": "00:01:09.270",
+    "start_seconds": 67.2,
+    "end_seconds": 69.27,
+    "text": "so here's the question i want to start with what is risk"
+  },
+  {
+    "start": "00:01:09.270",
+    "end": "00:01:09.280",
+    "start_seconds": 69.27,
+    "end_seconds": 69.28,
+    "text": "with what is risk"
+  },
+  {
+    "start": "00:01:09.280",
+    "end": "00:01:11.910",
+    "start_seconds": 69.28,
+    "end_seconds": 71.91,
+    "text": "with what is risk and my answer is don't play with words"
+  },
+  {
+    "start": "00:01:11.910",
+    "end": "00:01:11.920",
+    "start_seconds": 71.91,
+    "end_seconds": 71.92,
+    "text": "and my answer is don't play with words"
+  },
+  {
+    "start": "00:01:11.920",
+    "end": "00:01:13.190",
+    "start_seconds": 71.92,
+    "end_seconds": 73.19,
+    "text": "and my answer is don't play with words what am i talking about"
+  },
+  {
+    "start": "00:01:13.190",
+    "end": "00:01:13.200",
+    "start_seconds": 73.19,
+    "end_seconds": 73.2,
+    "text": "what am i talking about"
+  },
+  {
+    "start": "00:01:13.200",
+    "end": "00:01:15.910",
+    "start_seconds": 73.2,
+    "end_seconds": 75.91,
+    "text": "what am i talking about in the 1920s frank knight an economist"
+  },
+  {
+    "start": "00:01:15.910",
+    "end": "00:01:15.920",
+    "start_seconds": 75.91,
+    "end_seconds": 75.92,
+    "text": "in the 1920s frank knight an economist"
+  },
+  {
+    "start": "00:01:15.920",
+    "end": "00:01:16.710",
+    "start_seconds": 75.92,
+    "end_seconds": 76.71000000000001,
+    "text": "in the 1920s frank knight an economist argued that"
+  },
+  {
+    "start": "00:01:16.710",
+    "end": "00:01:16.720",
+    "start_seconds": 76.71000000000001,
+    "end_seconds": 76.72,
+    "text": "argued that"
+  },
+  {
+    "start": "00:01:16.720",
+    "end": "00:01:18.950",
+    "start_seconds": 76.72,
+    "end_seconds": 78.95,
+    "text": "argued that uncertainty was different from risk and"
+  },
+  {
+    "start": "00:01:18.950",
+    "end": "00:01:18.960",
+    "start_seconds": 78.95,
+    "end_seconds": 78.96000000000001,
+    "text": "uncertainty was different from risk and"
+  },
+  {
+    "start": "00:01:18.960",
+    "end": "00:01:20.870",
+    "start_seconds": 78.96000000000001,
+    "end_seconds": 80.87,
+    "text": "uncertainty was different from risk and here's the distinction he drew"
+  },
+  {
+    "start": "00:01:20.870",
+    "end": "00:01:20.880",
+    "start_seconds": 80.87,
+    "end_seconds": 80.88,
+    "text": "here's the distinction he drew"
+  },
+  {
+    "start": "00:01:20.880",
+    "end": "00:01:22.469",
+    "start_seconds": 80.88,
+    "end_seconds": 82.469,
+    "text": "here's the distinction he drew he said let's assume you have two"
+  },
+  {
+    "start": "00:01:22.469",
+    "end": "00:01:22.479",
+    "start_seconds": 82.469,
+    "end_seconds": 82.479,
+    "text": "he said let's assume you have two"
+  },
+  {
+    "start": "00:01:22.479",
+    "end": "00:01:24.870",
+    "start_seconds": 82.479,
+    "end_seconds": 84.87,
+    "text": "he said let's assume you have two individuals drawing from an urn of red"
+  },
+  {
+    "start": "00:01:24.870",
+    "end": "00:01:24.880",
+    "start_seconds": 84.87,
+    "end_seconds": 84.88,
+    "text": "individuals drawing from an urn of red"
+  },
+  {
+    "start": "00:01:24.880",
+    "end": "00:01:26.710",
+    "start_seconds": 84.88,
+    "end_seconds": 86.71000000000001,
+    "text": "individuals drawing from an urn of red and black balls and the first individual"
+  },
+  {
+    "start": "00:01:26.710",
+    "end": "00:01:26.720",
+    "start_seconds": 86.71000000000001,
+    "end_seconds": 86.72,
+    "text": "and black balls and the first individual"
+  },
+  {
+    "start": "00:01:26.720",
+    "end": "00:01:28.469",
+    "start_seconds": 86.72,
+    "end_seconds": 88.469,
+    "text": "and black balls and the first individual doesn't know how many red balls and"
+  },
+  {
+    "start": "00:01:28.469",
+    "end": "00:01:28.479",
+    "start_seconds": 88.469,
+    "end_seconds": 88.479,
+    "text": "doesn't know how many red balls and"
+  },
+  {
+    "start": "00:01:28.479",
+    "end": "00:01:29.670",
+    "start_seconds": 88.479,
+    "end_seconds": 89.67,
+    "text": "doesn't know how many red balls and black balls"
+  },
+  {
+    "start": "00:01:29.670",
+    "end": "00:01:29.680",
+    "start_seconds": 89.67,
+    "end_seconds": 89.68,
+    "text": "black balls"
+  },
+  {
+    "start": "00:01:29.680",
+    "end": "00:01:32.710",
+    "start_seconds": 89.68,
+    "end_seconds": 92.71000000000001,
+    "text": "black balls there are in the urn he is uncertain the"
+  },
+  {
+    "start": "00:01:32.710",
+    "end": "00:01:32.720",
+    "start_seconds": 92.71000000000001,
+    "end_seconds": 92.72,
+    "text": "there are in the urn he is uncertain the"
+  },
+  {
+    "start": "00:01:32.720",
+    "end": "00:01:34.069",
+    "start_seconds": 92.72,
+    "end_seconds": 94.069,
+    "text": "there are in the urn he is uncertain the second individual though"
+  },
+  {
+    "start": "00:01:34.069",
+    "end": "00:01:34.079",
+    "start_seconds": 94.069,
+    "end_seconds": 94.07900000000001,
+    "text": "second individual though"
+  },
+  {
+    "start": "00:01:34.079",
+    "end": "00:01:36.069",
+    "start_seconds": 94.07900000000001,
+    "end_seconds": 96.069,
+    "text": "second individual though knows how many red and black balls there"
+  },
+  {
+    "start": "00:01:36.069",
+    "end": "00:01:36.079",
+    "start_seconds": 96.069,
+    "end_seconds": 96.07900000000001,
+    "text": "knows how many red and black balls there"
+  },
+  {
+    "start": "00:01:36.079",
+    "end": "00:01:37.429",
+    "start_seconds": 96.07900000000001,
+    "end_seconds": 97.429,
+    "text": "knows how many red and black balls there are he is"
+  },
+  {
+    "start": "00:01:37.429",
+    "end": "00:01:37.439",
+    "start_seconds": 97.429,
+    "end_seconds": 97.439,
+    "text": "are he is"
+  },
+  {
+    "start": "00:01:37.439",
+    "end": "00:01:38.950",
+    "start_seconds": 97.439,
+    "end_seconds": 98.95,
+    "text": "are he is taking risks because he can give you a"
+  },
+  {
+    "start": "00:01:38.950",
+    "end": "00:01:38.960",
+    "start_seconds": 98.95,
+    "end_seconds": 98.96000000000001,
+    "text": "taking risks because he can give you a"
+  },
+  {
+    "start": "00:01:38.960",
+    "end": "00:01:41.270",
+    "start_seconds": 98.96000000000001,
+    "end_seconds": 101.27000000000001,
+    "text": "taking risks because he can give you a probability i don't like that"
+  },
+  {
+    "start": "00:01:41.270",
+    "end": "00:01:41.280",
+    "start_seconds": 101.27000000000001,
+    "end_seconds": 101.28,
+    "text": "probability i don't like that"
+  },
+  {
+    "start": "00:01:41.280",
+    "end": "00:01:43.429",
+    "start_seconds": 101.28,
+    "end_seconds": 103.429,
+    "text": "probability i don't like that to me risk is risk whether you put a"
+  },
+  {
+    "start": "00:01:43.429",
+    "end": "00:01:43.439",
+    "start_seconds": 103.429,
+    "end_seconds": 103.439,
+    "text": "to me risk is risk whether you put a"
+  },
+  {
+    "start": "00:01:43.439",
+    "end": "00:01:44.310",
+    "start_seconds": 103.439,
+    "end_seconds": 104.31,
+    "text": "to me risk is risk whether you put a number on it"
+  },
+  {
+    "start": "00:01:44.310",
+    "end": "00:01:44.320",
+    "start_seconds": 104.31,
+    "end_seconds": 104.32,
+    "text": "number on it"
+  },
+  {
+    "start": "00:01:44.320",
+    "end": "00:01:47.030",
+    "start_seconds": 104.32,
+    "end_seconds": 107.03,
+    "text": "number on it or not is your choice but just because"
+  },
+  {
+    "start": "00:01:47.030",
+    "end": "00:01:47.040",
+    "start_seconds": 107.03,
+    "end_seconds": 107.03999999999999,
+    "text": "or not is your choice but just because"
+  },
+  {
+    "start": "00:01:47.040",
+    "end": "00:01:48.149",
+    "start_seconds": 107.03999999999999,
+    "end_seconds": 108.149,
+    "text": "or not is your choice but just because you cannot put a"
+  },
+  {
+    "start": "00:01:48.149",
+    "end": "00:01:48.159",
+    "start_seconds": 108.149,
+    "end_seconds": 108.15899999999999,
+    "text": "you cannot put a"
+  },
+  {
+    "start": "00:01:48.159",
+    "end": "00:01:49.590",
+    "start_seconds": 108.15899999999999,
+    "end_seconds": 109.59,
+    "text": "you cannot put a number on it doesn't mean that there's"
+  },
+  {
+    "start": "00:01:49.590",
+    "end": "00:01:49.600",
+    "start_seconds": 109.59,
+    "end_seconds": 109.6,
+    "text": "number on it doesn't mean that there's"
+  },
+  {
+    "start": "00:01:49.600",
+    "end": "00:01:52.310",
+    "start_seconds": 109.6,
+    "end_seconds": 112.31,
+    "text": "number on it doesn't mean that there's no risk so with that"
+  },
+  {
+    "start": "00:01:52.310",
+    "end": "00:01:52.320",
+    "start_seconds": 112.31,
+    "end_seconds": 112.32,
+    "text": "no risk so with that"
+  },
+  {
+    "start": "00:01:52.320",
+    "end": "00:01:54.870",
+    "start_seconds": 112.32,
+    "end_seconds": 114.87,
+    "text": "no risk so with that on as the basis let's go further to me a"
+  },
+  {
+    "start": "00:01:54.870",
+    "end": "00:01:54.880",
+    "start_seconds": 114.87,
+    "end_seconds": 114.88,
+    "text": "on as the basis let's go further to me a"
+  },
+  {
+    "start": "00:01:54.880",
+    "end": "00:01:56.389",
+    "start_seconds": 114.88,
+    "end_seconds": 116.38900000000001,
+    "text": "on as the basis let's go further to me a good definition of risk"
+  },
+  {
+    "start": "00:01:56.389",
+    "end": "00:01:56.399",
+    "start_seconds": 116.38900000000001,
+    "end_seconds": 116.399,
+    "text": "good definition of risk"
+  },
+  {
+    "start": "00:01:56.399",
+    "end": "00:01:59.429",
+    "start_seconds": 116.399,
+    "end_seconds": 119.429,
+    "text": "good definition of risk is one that captures the fact that it is"
+  },
+  {
+    "start": "00:01:59.429",
+    "end": "00:01:59.439",
+    "start_seconds": 119.429,
+    "end_seconds": 119.439,
+    "text": "is one that captures the fact that it is"
+  },
+  {
+    "start": "00:01:59.439",
+    "end": "00:01:59.910",
+    "start_seconds": 119.439,
+    "end_seconds": 119.91,
+    "text": "is one that captures the fact that it is dual"
+  },
+  {
+    "start": "00:01:59.910",
+    "end": "00:01:59.920",
+    "start_seconds": 119.91,
+    "end_seconds": 119.92,
+    "text": "dual"
+  },
+  {
+    "start": "00:01:59.920",
+    "end": "00:02:01.910",
+    "start_seconds": 119.92,
+    "end_seconds": 121.91,
+    "text": "dual dual in what sense risk can't just be"
+  },
+  {
+    "start": "00:02:01.910",
+    "end": "00:02:01.920",
+    "start_seconds": 121.91,
+    "end_seconds": 121.92,
+    "text": "dual in what sense risk can't just be"
+  },
+  {
+    "start": "00:02:01.920",
+    "end": "00:02:03.190",
+    "start_seconds": 121.92,
+    "end_seconds": 123.19,
+    "text": "dual in what sense risk can't just be viewed as a negative"
+  },
+  {
+    "start": "00:02:03.190",
+    "end": "00:02:03.200",
+    "start_seconds": 123.19,
+    "end_seconds": 123.2,
+    "text": "viewed as a negative"
+  },
+  {
+    "start": "00:02:03.200",
+    "end": "00:02:05.670",
+    "start_seconds": 123.2,
+    "end_seconds": 125.67,
+    "text": "viewed as a negative and here's why if risk is just a"
+  },
+  {
+    "start": "00:02:05.670",
+    "end": "00:02:05.680",
+    "start_seconds": 125.67,
+    "end_seconds": 125.68,
+    "text": "and here's why if risk is just a"
+  },
+  {
+    "start": "00:02:05.680",
+    "end": "00:02:06.550",
+    "start_seconds": 125.68,
+    "end_seconds": 126.55,
+    "text": "and here's why if risk is just a negative"
+  },
+  {
+    "start": "00:02:06.550",
+    "end": "00:02:06.560",
+    "start_seconds": 126.55,
+    "end_seconds": 126.56,
+    "text": "negative"
+  },
+  {
+    "start": "00:02:06.560",
+    "end": "00:02:08.630",
+    "start_seconds": 126.56,
+    "end_seconds": 128.63,
+    "text": "negative the way we should respond to risk is by"
+  },
+  {
+    "start": "00:02:08.630",
+    "end": "00:02:08.640",
+    "start_seconds": 128.63,
+    "end_seconds": 128.64,
+    "text": "the way we should respond to risk is by"
+  },
+  {
+    "start": "00:02:08.640",
+    "end": "00:02:09.749",
+    "start_seconds": 128.64,
+    "end_seconds": 129.749,
+    "text": "the way we should respond to risk is by avoiding it right"
+  },
+  {
+    "start": "00:02:09.749",
+    "end": "00:02:09.759",
+    "start_seconds": 129.749,
+    "end_seconds": 129.75900000000001,
+    "text": "avoiding it right"
+  },
+  {
+    "start": "00:02:09.759",
+    "end": "00:02:12.229",
+    "start_seconds": 129.75900000000001,
+    "end_seconds": 132.22899999999998,
+    "text": "avoiding it right so the best risk management strategies"
+  },
+  {
+    "start": "00:02:12.229",
+    "end": "00:02:12.239",
+    "start_seconds": 132.22899999999998,
+    "end_seconds": 132.239,
+    "text": "so the best risk management strategies"
+  },
+  {
+    "start": "00:02:12.239",
+    "end": "00:02:14.070",
+    "start_seconds": 132.239,
+    "end_seconds": 134.07,
+    "text": "so the best risk management strategies would be risk avoidance strategies"
+  },
+  {
+    "start": "00:02:14.070",
+    "end": "00:02:14.080",
+    "start_seconds": 134.07,
+    "end_seconds": 134.08,
+    "text": "would be risk avoidance strategies"
+  },
+  {
+    "start": "00:02:14.080",
+    "end": "00:02:16.949",
+    "start_seconds": 134.08,
+    "end_seconds": 136.949,
+    "text": "would be risk avoidance strategies and that's no way to build a business in"
+  },
+  {
+    "start": "00:02:16.949",
+    "end": "00:02:16.959",
+    "start_seconds": 136.949,
+    "end_seconds": 136.959,
+    "text": "and that's no way to build a business in"
+  },
+  {
+    "start": "00:02:16.959",
+    "end": "00:02:18.869",
+    "start_seconds": 136.959,
+    "end_seconds": 138.869,
+    "text": "and that's no way to build a business in fact if you look at great businesses and"
+  },
+  {
+    "start": "00:02:18.869",
+    "end": "00:02:18.879",
+    "start_seconds": 138.869,
+    "end_seconds": 138.879,
+    "text": "fact if you look at great businesses and"
+  },
+  {
+    "start": "00:02:18.879",
+    "end": "00:02:19.510",
+    "start_seconds": 138.879,
+    "end_seconds": 139.51,
+    "text": "fact if you look at great businesses and you think of"
+  },
+  {
+    "start": "00:02:19.510",
+    "end": "00:02:19.520",
+    "start_seconds": 139.51,
+    "end_seconds": 139.52,
+    "text": "you think of"
+  },
+  {
+    "start": "00:02:19.520",
+    "end": "00:02:21.910",
+    "start_seconds": 139.52,
+    "end_seconds": 141.91,
+    "text": "you think of how they became great they became great"
+  },
+  {
+    "start": "00:02:21.910",
+    "end": "00:02:21.920",
+    "start_seconds": 141.91,
+    "end_seconds": 141.92000000000002,
+    "text": "how they became great they became great"
+  },
+  {
+    "start": "00:02:21.920",
+    "end": "00:02:23.589",
+    "start_seconds": 141.92000000000002,
+    "end_seconds": 143.589,
+    "text": "how they became great they became great not by avoiding risk"
+  },
+  {
+    "start": "00:02:23.589",
+    "end": "00:02:23.599",
+    "start_seconds": 143.589,
+    "end_seconds": 143.599,
+    "text": "not by avoiding risk"
+  },
+  {
+    "start": "00:02:23.599",
+    "end": "00:02:26.229",
+    "start_seconds": 143.599,
+    "end_seconds": 146.22899999999998,
+    "text": "not by avoiding risk but by seeking out risk not by seeking"
+  },
+  {
+    "start": "00:02:26.229",
+    "end": "00:02:26.239",
+    "start_seconds": 146.22899999999998,
+    "end_seconds": 146.239,
+    "text": "but by seeking out risk not by seeking"
+  },
+  {
+    "start": "00:02:26.239",
+    "end": "00:02:28.309",
+    "start_seconds": 146.239,
+    "end_seconds": 148.309,
+    "text": "but by seeking out risk not by seeking at every risk but seeking out the right"
+  },
+  {
+    "start": "00:02:28.309",
+    "end": "00:02:28.319",
+    "start_seconds": 148.309,
+    "end_seconds": 148.319,
+    "text": "at every risk but seeking out the right"
+  },
+  {
+    "start": "00:02:28.319",
+    "end": "00:02:29.430",
+    "start_seconds": 148.319,
+    "end_seconds": 149.43,
+    "text": "at every risk but seeking out the right kind of risk"
+  },
+  {
+    "start": "00:02:29.430",
+    "end": "00:02:29.440",
+    "start_seconds": 149.43,
+    "end_seconds": 149.44,
+    "text": "kind of risk"
+  },
+  {
+    "start": "00:02:29.440",
+    "end": "00:02:31.190",
+    "start_seconds": 149.44,
+    "end_seconds": 151.19,
+    "text": "kind of risk to me that is the essence of risk"
+  },
+  {
+    "start": "00:02:31.190",
+    "end": "00:02:31.200",
+    "start_seconds": 151.19,
+    "end_seconds": 151.2,
+    "text": "to me that is the essence of risk"
+  },
+  {
+    "start": "00:02:31.200",
+    "end": "00:02:32.869",
+    "start_seconds": 151.2,
+    "end_seconds": 152.869,
+    "text": "to me that is the essence of risk management to understand"
+  },
+  {
+    "start": "00:02:32.869",
+    "end": "00:02:32.879",
+    "start_seconds": 152.869,
+    "end_seconds": 152.879,
+    "text": "management to understand"
+  },
+  {
+    "start": "00:02:32.879",
+    "end": "00:02:34.869",
+    "start_seconds": 152.879,
+    "end_seconds": 154.869,
+    "text": "management to understand that risk is both a positive and a"
+  },
+  {
+    "start": "00:02:34.869",
+    "end": "00:02:34.879",
+    "start_seconds": 154.869,
+    "end_seconds": 154.879,
+    "text": "that risk is both a positive and a"
+  },
+  {
+    "start": "00:02:34.879",
+    "end": "00:02:35.990",
+    "start_seconds": 154.879,
+    "end_seconds": 155.99,
+    "text": "that risk is both a positive and a negative and"
+  },
+  {
+    "start": "00:02:35.990",
+    "end": "00:02:36.000",
+    "start_seconds": 155.99,
+    "end_seconds": 156.0,
+    "text": "negative and"
+  },
+  {
+    "start": "00:02:36.000",
+    "end": "00:02:37.990",
+    "start_seconds": 156.0,
+    "end_seconds": 157.99,
+    "text": "negative and good risk-taking means that you're"
+  },
+  {
+    "start": "00:02:37.990",
+    "end": "00:02:38.000",
+    "start_seconds": 157.99,
+    "end_seconds": 158.0,
+    "text": "good risk-taking means that you're"
+  },
+  {
+    "start": "00:02:38.000",
+    "end": "00:02:39.350",
+    "start_seconds": 158.0,
+    "end_seconds": 159.35,
+    "text": "good risk-taking means that you're weighing the trade-off"
+  },
+  {
+    "start": "00:02:39.350",
+    "end": "00:02:39.360",
+    "start_seconds": 159.35,
+    "end_seconds": 159.36,
+    "text": "weighing the trade-off"
+  },
+  {
+    "start": "00:02:39.360",
+    "end": "00:02:40.790",
+    "start_seconds": 159.36,
+    "end_seconds": 160.79,
+    "text": "weighing the trade-off and you're taking those risks where the"
+  },
+  {
+    "start": "00:02:40.790",
+    "end": "00:02:40.800",
+    "start_seconds": 160.79,
+    "end_seconds": 160.8,
+    "text": "and you're taking those risks where the"
+  },
+  {
+    "start": "00:02:40.800",
+    "end": "00:02:42.390",
+    "start_seconds": 160.8,
+    "end_seconds": 162.39,
+    "text": "and you're taking those risks where the good outweighs the bad you know"
+  },
+  {
+    "start": "00:02:42.390",
+    "end": "00:02:42.400",
+    "start_seconds": 162.39,
+    "end_seconds": 162.4,
+    "text": "good outweighs the bad you know"
+  },
+  {
+    "start": "00:02:42.400",
+    "end": "00:02:44.630",
+    "start_seconds": 162.4,
+    "end_seconds": 164.63,
+    "text": "good outweighs the bad you know no guarantees but that's the essence of"
+  },
+  {
+    "start": "00:02:44.630",
+    "end": "00:02:44.640",
+    "start_seconds": 164.63,
+    "end_seconds": 164.64,
+    "text": "no guarantees but that's the essence of"
+  },
+  {
+    "start": "00:02:44.640",
+    "end": "00:02:45.830",
+    "start_seconds": 164.64,
+    "end_seconds": 165.82999999999998,
+    "text": "no guarantees but that's the essence of risk-taking"
+  },
+  {
+    "start": "00:02:45.830",
+    "end": "00:02:45.840",
+    "start_seconds": 165.82999999999998,
+    "end_seconds": 165.84,
+    "text": "risk-taking"
+  },
+  {
+    "start": "00:02:45.840",
+    "end": "00:02:48.550",
+    "start_seconds": 165.84,
+    "end_seconds": 168.55,
+    "text": "risk-taking so one of the first starting points for"
+  },
+  {
+    "start": "00:02:48.550",
+    "end": "00:02:48.560",
+    "start_seconds": 168.55,
+    "end_seconds": 168.56,
+    "text": "so one of the first starting points for"
+  },
+  {
+    "start": "00:02:48.560",
+    "end": "00:02:50.869",
+    "start_seconds": 168.56,
+    "end_seconds": 170.869,
+    "text": "so one of the first starting points for risk is to redefine risk as both good"
+  },
+  {
+    "start": "00:02:50.869",
+    "end": "00:02:50.879",
+    "start_seconds": 170.869,
+    "end_seconds": 170.879,
+    "text": "risk is to redefine risk as both good"
+  },
+  {
+    "start": "00:02:50.879",
+    "end": "00:02:51.670",
+    "start_seconds": 170.879,
+    "end_seconds": 171.67000000000002,
+    "text": "risk is to redefine risk as both good and bad"
+  },
+  {
+    "start": "00:02:51.670",
+    "end": "00:02:51.680",
+    "start_seconds": 171.67000000000002,
+    "end_seconds": 171.68,
+    "text": "and bad"
+  },
+  {
+    "start": "00:02:51.680",
+    "end": "00:02:54.150",
+    "start_seconds": 171.68,
+    "end_seconds": 174.15,
+    "text": "and bad positive and negative now with that in"
+  },
+  {
+    "start": "00:02:54.150",
+    "end": "00:02:54.160",
+    "start_seconds": 174.15,
+    "end_seconds": 174.16,
+    "text": "positive and negative now with that in"
+  },
+  {
+    "start": "00:02:54.160",
+    "end": "00:02:54.869",
+    "start_seconds": 174.16,
+    "end_seconds": 174.869,
+    "text": "positive and negative now with that in place"
+  },
+  {
+    "start": "00:02:54.869",
+    "end": "00:02:54.879",
+    "start_seconds": 174.869,
+    "end_seconds": 174.879,
+    "text": "place"
+  },
+  {
+    "start": "00:02:54.879",
+    "end": "00:02:57.190",
+    "start_seconds": 174.879,
+    "end_seconds": 177.19,
+    "text": "place let's start off by understanding why we"
+  },
+  {
+    "start": "00:02:57.190",
+    "end": "00:02:57.200",
+    "start_seconds": 177.19,
+    "end_seconds": 177.2,
+    "text": "let's start off by understanding why we"
+  },
+  {
+    "start": "00:02:57.200",
+    "end": "00:02:59.670",
+    "start_seconds": 177.2,
+    "end_seconds": 179.67000000000002,
+    "text": "let's start off by understanding why we think about risk so much in finance"
+  },
+  {
+    "start": "00:02:59.670",
+    "end": "00:02:59.680",
+    "start_seconds": 179.67000000000002,
+    "end_seconds": 179.68,
+    "text": "think about risk so much in finance"
+  },
+  {
+    "start": "00:02:59.680",
+    "end": "00:03:02.149",
+    "start_seconds": 179.68,
+    "end_seconds": 182.149,
+    "text": "think about risk so much in finance as human beings we're risk averse you"
+  },
+  {
+    "start": "00:03:02.149",
+    "end": "00:03:02.159",
+    "start_seconds": 182.149,
+    "end_seconds": 182.159,
+    "text": "as human beings we're risk averse you"
+  },
+  {
+    "start": "00:03:02.159",
+    "end": "00:03:03.509",
+    "start_seconds": 182.159,
+    "end_seconds": 183.509,
+    "text": "as human beings we're risk averse you see what are you talking about"
+  },
+  {
+    "start": "00:03:03.509",
+    "end": "00:03:03.519",
+    "start_seconds": 183.509,
+    "end_seconds": 183.519,
+    "text": "see what are you talking about"
+  },
+  {
+    "start": "00:03:03.519",
+    "end": "00:03:05.830",
+    "start_seconds": 183.519,
+    "end_seconds": 185.83,
+    "text": "see what are you talking about let me try a simple experiment on you"
+  },
+  {
+    "start": "00:03:05.830",
+    "end": "00:03:05.840",
+    "start_seconds": 185.83,
+    "end_seconds": 185.84,
+    "text": "let me try a simple experiment on you"
+  },
+  {
+    "start": "00:03:05.840",
+    "end": "00:03:06.710",
+    "start_seconds": 185.84,
+    "end_seconds": 186.71,
+    "text": "let me try a simple experiment on you let's suppose"
+  },
+  {
+    "start": "00:03:06.710",
+    "end": "00:03:06.720",
+    "start_seconds": 186.71,
+    "end_seconds": 186.72,
+    "text": "let's suppose"
+  },
+  {
+    "start": "00:03:06.720",
+    "end": "00:03:08.470",
+    "start_seconds": 186.72,
+    "end_seconds": 188.47,
+    "text": "let's suppose i'm going to flip a coin and i'll pay"
+  },
+  {
+    "start": "00:03:08.470",
+    "end": "00:03:08.480",
+    "start_seconds": 188.47,
+    "end_seconds": 188.48,
+    "text": "i'm going to flip a coin and i'll pay"
+  },
+  {
+    "start": "00:03:08.480",
+    "end": "00:03:11.270",
+    "start_seconds": 188.48,
+    "end_seconds": 191.27,
+    "text": "i'm going to flip a coin and i'll pay you a dollar if the coin comes up tails"
+  },
+  {
+    "start": "00:03:11.270",
+    "end": "00:03:11.280",
+    "start_seconds": 191.27,
+    "end_seconds": 191.28,
+    "text": "you a dollar if the coin comes up tails"
+  },
+  {
+    "start": "00:03:11.280",
+    "end": "00:03:13.350",
+    "start_seconds": 191.28,
+    "end_seconds": 193.35,
+    "text": "you a dollar if the coin comes up tails on the first flip and i will pay you"
+  },
+  {
+    "start": "00:03:13.350",
+    "end": "00:03:13.360",
+    "start_seconds": 193.35,
+    "end_seconds": 193.36,
+    "text": "on the first flip and i will pay you"
+  },
+  {
+    "start": "00:03:13.360",
+    "end": "00:03:15.910",
+    "start_seconds": 193.36,
+    "end_seconds": 195.91,
+    "text": "on the first flip and i will pay you nothing if it comes up heads"
+  },
+  {
+    "start": "00:03:15.910",
+    "end": "00:03:15.920",
+    "start_seconds": 195.91,
+    "end_seconds": 195.92,
+    "text": "nothing if it comes up heads"
+  },
+  {
+    "start": "00:03:15.920",
+    "end": "00:03:17.430",
+    "start_seconds": 195.92,
+    "end_seconds": 197.43,
+    "text": "nothing if it comes up heads and i'm going to keep repeating this"
+  },
+  {
+    "start": "00:03:17.430",
+    "end": "00:03:17.440",
+    "start_seconds": 197.43,
+    "end_seconds": 197.44,
+    "text": "and i'm going to keep repeating this"
+  },
+  {
+    "start": "00:03:17.440",
+    "end": "00:03:19.990",
+    "start_seconds": 197.44,
+    "end_seconds": 199.99,
+    "text": "and i'm going to keep repeating this experiment right so each time i flip"
+  },
+  {
+    "start": "00:03:19.990",
+    "end": "00:03:20.000",
+    "start_seconds": 199.99,
+    "end_seconds": 200.0,
+    "text": "experiment right so each time i flip"
+  },
+  {
+    "start": "00:03:20.000",
+    "end": "00:03:20.869",
+    "start_seconds": 200.0,
+    "end_seconds": 200.869,
+    "text": "experiment right so each time i flip this coin"
+  },
+  {
+    "start": "00:03:20.869",
+    "end": "00:03:20.879",
+    "start_seconds": 200.869,
+    "end_seconds": 200.879,
+    "text": "this coin"
+  },
+  {
+    "start": "00:03:20.879",
+    "end": "00:03:24.070",
+    "start_seconds": 200.879,
+    "end_seconds": 204.07,
+    "text": "this coin you should your expected value is 50"
+  },
+  {
+    "start": "00:03:24.070",
+    "end": "00:03:24.080",
+    "start_seconds": 204.07,
+    "end_seconds": 204.07999999999998,
+    "text": "you should your expected value is 50"
+  },
+  {
+    "start": "00:03:24.080",
+    "end": "00:03:25.110",
+    "start_seconds": 204.07999999999998,
+    "end_seconds": 205.11,
+    "text": "you should your expected value is 50 cents right"
+  },
+  {
+    "start": "00:03:25.110",
+    "end": "00:03:25.120",
+    "start_seconds": 205.11,
+    "end_seconds": 205.12,
+    "text": "cents right"
+  },
+  {
+    "start": "00:03:25.120",
+    "end": "00:03:27.750",
+    "start_seconds": 205.12,
+    "end_seconds": 207.75,
+    "text": "cents right and it builds up over time if you take"
+  },
+  {
+    "start": "00:03:27.750",
+    "end": "00:03:27.760",
+    "start_seconds": 207.75,
+    "end_seconds": 207.76,
+    "text": "and it builds up over time if you take"
+  },
+  {
+    "start": "00:03:27.760",
+    "end": "00:03:29.750",
+    "start_seconds": 207.76,
+    "end_seconds": 209.75,
+    "text": "and it builds up over time if you take this expected value and you build it"
+  },
+  {
+    "start": "00:03:29.750",
+    "end": "00:03:29.760",
+    "start_seconds": 209.75,
+    "end_seconds": 209.76,
+    "text": "this expected value and you build it"
+  },
+  {
+    "start": "00:03:29.760",
+    "end": "00:03:30.390",
+    "start_seconds": 209.76,
+    "end_seconds": 210.39,
+    "text": "this expected value and you build it through"
+  },
+  {
+    "start": "00:03:30.390",
+    "end": "00:03:30.400",
+    "start_seconds": 210.39,
+    "end_seconds": 210.4,
+    "text": "through"
+  },
+  {
+    "start": "00:03:30.400",
+    "end": "00:03:32.390",
+    "start_seconds": 210.4,
+    "end_seconds": 212.39,
+    "text": "through the expected value if i'm going to do"
+  },
+  {
+    "start": "00:03:32.390",
+    "end": "00:03:32.400",
+    "start_seconds": 212.39,
+    "end_seconds": 212.4,
+    "text": "the expected value if i'm going to do"
+  },
+  {
+    "start": "00:03:32.400",
+    "end": "00:03:34.149",
+    "start_seconds": 212.4,
+    "end_seconds": 214.149,
+    "text": "the expected value if i'm going to do this an infinite number of times"
+  },
+  {
+    "start": "00:03:34.149",
+    "end": "00:03:34.159",
+    "start_seconds": 214.149,
+    "end_seconds": 214.159,
+    "text": "this an infinite number of times"
+  },
+  {
+    "start": "00:03:34.159",
+    "end": "00:03:37.110",
+    "start_seconds": 214.159,
+    "end_seconds": 217.11,
+    "text": "this an infinite number of times should be infinite you are you willing"
+  },
+  {
+    "start": "00:03:37.110",
+    "end": "00:03:37.120",
+    "start_seconds": 217.11,
+    "end_seconds": 217.12,
+    "text": "should be infinite you are you willing"
+  },
+  {
+    "start": "00:03:37.120",
+    "end": "00:03:38.949",
+    "start_seconds": 217.12,
+    "end_seconds": 218.949,
+    "text": "should be infinite you are you willing to pay an infinite amount for this set"
+  },
+  {
+    "start": "00:03:38.949",
+    "end": "00:03:38.959",
+    "start_seconds": 218.949,
+    "end_seconds": 218.959,
+    "text": "to pay an infinite amount for this set"
+  },
+  {
+    "start": "00:03:38.959",
+    "end": "00:03:40.710",
+    "start_seconds": 218.959,
+    "end_seconds": 220.71,
+    "text": "to pay an infinite amount for this set of experiments where i'm going to keep"
+  },
+  {
+    "start": "00:03:40.710",
+    "end": "00:03:40.720",
+    "start_seconds": 220.71,
+    "end_seconds": 220.72,
+    "text": "of experiments where i'm going to keep"
+  },
+  {
+    "start": "00:03:40.720",
+    "end": "00:03:42.390",
+    "start_seconds": 220.72,
+    "end_seconds": 222.39,
+    "text": "of experiments where i'm going to keep flipping a dollar if it comes up tails"
+  },
+  {
+    "start": "00:03:42.390",
+    "end": "00:03:42.400",
+    "start_seconds": 222.39,
+    "end_seconds": 222.4,
+    "text": "flipping a dollar if it comes up tails"
+  },
+  {
+    "start": "00:03:42.400",
+    "end": "00:03:43.270",
+    "start_seconds": 222.4,
+    "end_seconds": 223.27,
+    "text": "flipping a dollar if it comes up tails i'll repeat it"
+  },
+  {
+    "start": "00:03:43.270",
+    "end": "00:03:43.280",
+    "start_seconds": 223.27,
+    "end_seconds": 223.28,
+    "text": "i'll repeat it"
+  },
+  {
+    "start": "00:03:43.280",
+    "end": "00:03:46.149",
+    "start_seconds": 223.28,
+    "end_seconds": 226.149,
+    "text": "i'll repeat it and i'll keep going well think about it"
+  },
+  {
+    "start": "00:03:46.149",
+    "end": "00:03:46.159",
+    "start_seconds": 226.149,
+    "end_seconds": 226.159,
+    "text": "and i'll keep going well think about it"
+  },
+  {
+    "start": "00:03:46.159",
+    "end": "00:03:47.509",
+    "start_seconds": 226.159,
+    "end_seconds": 227.50900000000001,
+    "text": "and i'll keep going well think about it i don't know what the answer you would"
+  },
+  {
+    "start": "00:03:47.509",
+    "end": "00:03:47.519",
+    "start_seconds": 227.50900000000001,
+    "end_seconds": 227.519,
+    "text": "i don't know what the answer you would"
+  },
+  {
+    "start": "00:03:47.519",
+    "end": "00:03:49.430",
+    "start_seconds": 227.519,
+    "end_seconds": 229.43,
+    "text": "i don't know what the answer you would give us but this is the experiment that"
+  },
+  {
+    "start": "00:03:49.430",
+    "end": "00:03:49.440",
+    "start_seconds": 229.43,
+    "end_seconds": 229.44,
+    "text": "give us but this is the experiment that"
+  },
+  {
+    "start": "00:03:49.440",
+    "end": "00:03:51.030",
+    "start_seconds": 229.44,
+    "end_seconds": 231.03,
+    "text": "give us but this is the experiment that nick bernoulli ran"
+  },
+  {
+    "start": "00:03:51.030",
+    "end": "00:03:51.040",
+    "start_seconds": 231.03,
+    "end_seconds": 231.04,
+    "text": "nick bernoulli ran"
+  },
+  {
+    "start": "00:03:51.040",
+    "end": "00:03:52.470",
+    "start_seconds": 231.04,
+    "end_seconds": 232.47,
+    "text": "nick bernoulli ran i don't i don't know whether he went by"
+  },
+  {
+    "start": "00:03:52.470",
+    "end": "00:03:52.480",
+    "start_seconds": 232.47,
+    "end_seconds": 232.48,
+    "text": "i don't i don't know whether he went by"
+  },
+  {
+    "start": "00:03:52.480",
+    "end": "00:03:54.710",
+    "start_seconds": 232.48,
+    "end_seconds": 234.71,
+    "text": "i don't i don't know whether he went by the name nicholas is perhaps"
+  },
+  {
+    "start": "00:03:54.710",
+    "end": "00:03:54.720",
+    "start_seconds": 234.71,
+    "end_seconds": 234.72,
+    "text": "the name nicholas is perhaps"
+  },
+  {
+    "start": "00:03:54.720",
+    "end": "00:03:57.990",
+    "start_seconds": 234.72,
+    "end_seconds": 237.99,
+    "text": "the name nicholas is perhaps what he went by in the 1700s he wanted"
+  },
+  {
+    "start": "00:03:57.990",
+    "end": "00:03:58.000",
+    "start_seconds": 237.99,
+    "end_seconds": 238.0,
+    "text": "what he went by in the 1700s he wanted"
+  },
+  {
+    "start": "00:03:58.000",
+    "end": "00:03:58.550",
+    "start_seconds": 238.0,
+    "end_seconds": 238.55,
+    "text": "what he went by in the 1700s he wanted to see"
+  },
+  {
+    "start": "00:03:58.550",
+    "end": "00:03:58.560",
+    "start_seconds": 238.55,
+    "end_seconds": 238.56,
+    "text": "to see"
+  },
+  {
+    "start": "00:03:58.560",
+    "end": "00:04:00.309",
+    "start_seconds": 238.56,
+    "end_seconds": 240.309,
+    "text": "to see whether people would pay an infinite"
+  },
+  {
+    "start": "00:04:00.309",
+    "end": "00:04:00.319",
+    "start_seconds": 240.309,
+    "end_seconds": 240.319,
+    "text": "whether people would pay an infinite"
+  },
+  {
+    "start": "00:04:00.319",
+    "end": "00:04:02.229",
+    "start_seconds": 240.319,
+    "end_seconds": 242.229,
+    "text": "whether people would pay an infinite amount of money because the expected"
+  },
+  {
+    "start": "00:04:02.229",
+    "end": "00:04:02.239",
+    "start_seconds": 242.229,
+    "end_seconds": 242.239,
+    "text": "amount of money because the expected"
+  },
+  {
+    "start": "00:04:02.239",
+    "end": "00:04:03.990",
+    "start_seconds": 242.239,
+    "end_seconds": 243.99,
+    "text": "amount of money because the expected value of the series of outcomes is"
+  },
+  {
+    "start": "00:04:03.990",
+    "end": "00:04:04.000",
+    "start_seconds": 243.99,
+    "end_seconds": 244.0,
+    "text": "value of the series of outcomes is"
+  },
+  {
+    "start": "00:04:04.000",
+    "end": "00:04:05.030",
+    "start_seconds": 244.0,
+    "end_seconds": 245.03,
+    "text": "value of the series of outcomes is infinite"
+  },
+  {
+    "start": "00:04:05.030",
+    "end": "00:04:05.040",
+    "start_seconds": 245.03,
+    "end_seconds": 245.04,
+    "text": "infinite"
+  },
+  {
+    "start": "00:04:05.040",
+    "end": "00:04:06.789",
+    "start_seconds": 245.04,
+    "end_seconds": 246.789,
+    "text": "infinite he found on average that people paid"
+  },
+  {
+    "start": "00:04:06.789",
+    "end": "00:04:06.799",
+    "start_seconds": 246.789,
+    "end_seconds": 246.799,
+    "text": "he found on average that people paid"
+  },
+  {
+    "start": "00:04:06.799",
+    "end": "00:04:08.789",
+    "start_seconds": 246.799,
+    "end_seconds": 248.789,
+    "text": "he found on average that people paid about two dollars to play the game"
+  },
+  {
+    "start": "00:04:08.789",
+    "end": "00:04:08.799",
+    "start_seconds": 248.789,
+    "end_seconds": 248.799,
+    "text": "about two dollars to play the game"
+  },
+  {
+    "start": "00:04:08.799",
+    "end": "00:04:11.830",
+    "start_seconds": 248.799,
+    "end_seconds": 251.83,
+    "text": "about two dollars to play the game and he started asking why he basically"
+  },
+  {
+    "start": "00:04:11.830",
+    "end": "00:04:11.840",
+    "start_seconds": 251.83,
+    "end_seconds": 251.84,
+    "text": "and he started asking why he basically"
+  },
+  {
+    "start": "00:04:11.840",
+    "end": "00:04:13.350",
+    "start_seconds": 251.84,
+    "end_seconds": 253.35,
+    "text": "and he started asking why he basically discovered"
+  },
+  {
+    "start": "00:04:13.350",
+    "end": "00:04:13.360",
+    "start_seconds": 253.35,
+    "end_seconds": 253.36,
+    "text": "discovered"
+  },
+  {
+    "start": "00:04:13.360",
+    "end": "00:04:15.110",
+    "start_seconds": 253.36,
+    "end_seconds": 255.11,
+    "text": "discovered that in that people were risk wars"
+  },
+  {
+    "start": "00:04:15.110",
+    "end": "00:04:15.120",
+    "start_seconds": 255.11,
+    "end_seconds": 255.12,
+    "text": "that in that people were risk wars"
+  },
+  {
+    "start": "00:04:15.120",
+    "end": "00:04:16.629",
+    "start_seconds": 255.12,
+    "end_seconds": 256.629,
+    "text": "that in that people were risk wars you're saying it took people that long"
+  },
+  {
+    "start": "00:04:16.629",
+    "end": "00:04:16.639",
+    "start_seconds": 256.629,
+    "end_seconds": 256.639,
+    "text": "you're saying it took people that long"
+  },
+  {
+    "start": "00:04:16.639",
+    "end": "00:04:17.670",
+    "start_seconds": 256.639,
+    "end_seconds": 257.67,
+    "text": "you're saying it took people that long to figure it out"
+  },
+  {
+    "start": "00:04:17.670",
+    "end": "00:04:17.680",
+    "start_seconds": 257.67,
+    "end_seconds": 257.68,
+    "text": "to figure it out"
+  },
+  {
+    "start": "00:04:17.680",
+    "end": "00:04:19.270",
+    "start_seconds": 257.68,
+    "end_seconds": 259.27,
+    "text": "to figure it out well he was the first one who made it"
+  },
+  {
+    "start": "00:04:19.270",
+    "end": "00:04:19.280",
+    "start_seconds": 259.27,
+    "end_seconds": 259.28,
+    "text": "well he was the first one who made it"
+  },
+  {
+    "start": "00:04:19.280",
+    "end": "00:04:21.830",
+    "start_seconds": 259.28,
+    "end_seconds": 261.83,
+    "text": "well he was the first one who made it concrete he also noticed that the value"
+  },
+  {
+    "start": "00:04:21.830",
+    "end": "00:04:21.840",
+    "start_seconds": 261.83,
+    "end_seconds": 261.84,
+    "text": "concrete he also noticed that the value"
+  },
+  {
+    "start": "00:04:21.840",
+    "end": "00:04:24.150",
+    "start_seconds": 261.84,
+    "end_seconds": 264.15,
+    "text": "concrete he also noticed that the value that people attached"
+  },
+  {
+    "start": "00:04:24.150",
+    "end": "00:04:24.160",
+    "start_seconds": 264.15,
+    "end_seconds": 264.16,
+    "text": "that people attached"
+  },
+  {
+    "start": "00:04:24.160",
+    "end": "00:04:26.310",
+    "start_seconds": 264.16,
+    "end_seconds": 266.31,
+    "text": "that people attached was different for different people a"
+  },
+  {
+    "start": "00:04:26.310",
+    "end": "00:04:26.320",
+    "start_seconds": 266.31,
+    "end_seconds": 266.32,
+    "text": "was different for different people a"
+  },
+  {
+    "start": "00:04:26.320",
+    "end": "00:04:27.670",
+    "start_seconds": 266.32,
+    "end_seconds": 267.67,
+    "text": "was different for different people a second big"
+  },
+  {
+    "start": "00:04:27.670",
+    "end": "00:04:27.680",
+    "start_seconds": 267.67,
+    "end_seconds": 267.68,
+    "text": "second big"
+  },
+  {
+    "start": "00:04:27.680",
+    "end": "00:04:30.550",
+    "start_seconds": 267.68,
+    "end_seconds": 270.55,
+    "text": "second big uncovering that peop that risk aversion"
+  },
+  {
+    "start": "00:04:30.550",
+    "end": "00:04:30.560",
+    "start_seconds": 270.55,
+    "end_seconds": 270.56,
+    "text": "uncovering that peop that risk aversion"
+  },
+  {
+    "start": "00:04:30.560",
+    "end": "00:04:31.430",
+    "start_seconds": 270.56,
+    "end_seconds": 271.43,
+    "text": "uncovering that peop that risk aversion varies across"
+  },
+  {
+    "start": "00:04:31.430",
+    "end": "00:04:31.440",
+    "start_seconds": 271.43,
+    "end_seconds": 271.44,
+    "text": "varies across"
+  },
+  {
+    "start": "00:04:31.440",
+    "end": "00:04:33.830",
+    "start_seconds": 271.44,
+    "end_seconds": 273.83,
+    "text": "varies across individuals and the third thing he found"
+  },
+  {
+    "start": "00:04:33.830",
+    "end": "00:04:33.840",
+    "start_seconds": 273.83,
+    "end_seconds": 273.84000000000003,
+    "text": "individuals and the third thing he found"
+  },
+  {
+    "start": "00:04:33.840",
+    "end": "00:04:34.469",
+    "start_seconds": 273.84000000000003,
+    "end_seconds": 274.469,
+    "text": "individuals and the third thing he found also"
+  },
+  {
+    "start": "00:04:34.469",
+    "end": "00:04:34.479",
+    "start_seconds": 274.469,
+    "end_seconds": 274.479,
+    "text": "also"
+  },
+  {
+    "start": "00:04:34.479",
+    "end": "00:04:37.670",
+    "start_seconds": 274.479,
+    "end_seconds": 277.67,
+    "text": "also was that as people got wealthier"
+  },
+  {
+    "start": "00:04:37.670",
+    "end": "00:04:37.680",
+    "start_seconds": 277.67,
+    "end_seconds": 277.68,
+    "text": "was that as people got wealthier"
+  },
+  {
+    "start": "00:04:37.680",
+    "end": "00:04:39.749",
+    "start_seconds": 277.68,
+    "end_seconds": 279.749,
+    "text": "was that as people got wealthier they seemed to be willing to pay more"
+  },
+  {
+    "start": "00:04:39.749",
+    "end": "00:04:39.759",
+    "start_seconds": 279.749,
+    "end_seconds": 279.759,
+    "text": "they seemed to be willing to pay more"
+  },
+  {
+    "start": "00:04:39.759",
+    "end": "00:04:41.909",
+    "start_seconds": 279.759,
+    "end_seconds": 281.909,
+    "text": "they seemed to be willing to pay more that people got less risk averse as they"
+  },
+  {
+    "start": "00:04:41.909",
+    "end": "00:04:41.919",
+    "start_seconds": 281.909,
+    "end_seconds": 281.919,
+    "text": "that people got less risk averse as they"
+  },
+  {
+    "start": "00:04:41.919",
+    "end": "00:04:43.749",
+    "start_seconds": 281.919,
+    "end_seconds": 283.749,
+    "text": "that people got less risk averse as they got wealthier"
+  },
+  {
+    "start": "00:04:43.749",
+    "end": "00:04:43.759",
+    "start_seconds": 283.749,
+    "end_seconds": 283.759,
+    "text": "got wealthier"
+  },
+  {
+    "start": "00:04:43.759",
+    "end": "00:04:46.070",
+    "start_seconds": 283.759,
+    "end_seconds": 286.07,
+    "text": "got wealthier those are the building blocks for how we"
+  },
+  {
+    "start": "00:04:46.070",
+    "end": "00:04:46.080",
+    "start_seconds": 286.07,
+    "end_seconds": 286.08,
+    "text": "those are the building blocks for how we"
+  },
+  {
+    "start": "00:04:46.080",
+    "end": "00:04:48.070",
+    "start_seconds": 286.08,
+    "end_seconds": 288.07,
+    "text": "those are the building blocks for how we think still think about risk aversion"
+  },
+  {
+    "start": "00:04:48.070",
+    "end": "00:04:48.080",
+    "start_seconds": 288.07,
+    "end_seconds": 288.08,
+    "text": "think still think about risk aversion"
+  },
+  {
+    "start": "00:04:48.080",
+    "end": "00:04:50.710",
+    "start_seconds": 288.08,
+    "end_seconds": 290.71,
+    "text": "think still think about risk aversion in economics and finance in fact there"
+  },
+  {
+    "start": "00:04:50.710",
+    "end": "00:04:50.720",
+    "start_seconds": 290.71,
+    "end_seconds": 290.72,
+    "text": "in economics and finance in fact there"
+  },
+  {
+    "start": "00:04:50.720",
+    "end": "00:04:52.950",
+    "start_seconds": 290.72,
+    "end_seconds": 292.95,
+    "text": "in economics and finance in fact there are two ways we measure risk aversion"
+  },
+  {
+    "start": "00:04:52.950",
+    "end": "00:04:52.960",
+    "start_seconds": 292.95,
+    "end_seconds": 292.96,
+    "text": "are two ways we measure risk aversion"
+  },
+  {
+    "start": "00:04:52.960",
+    "end": "00:04:55.270",
+    "start_seconds": 292.96,
+    "end_seconds": 295.27,
+    "text": "are two ways we measure risk aversion the first is with what we call certainty"
+  },
+  {
+    "start": "00:04:55.270",
+    "end": "00:04:55.280",
+    "start_seconds": 295.27,
+    "end_seconds": 295.28,
+    "text": "the first is with what we call certainty"
+  },
+  {
+    "start": "00:04:55.280",
+    "end": "00:04:56.870",
+    "start_seconds": 295.28,
+    "end_seconds": 296.87,
+    "text": "the first is with what we call certainty equivalence"
+  },
+  {
+    "start": "00:04:56.870",
+    "end": "00:04:56.880",
+    "start_seconds": 296.87,
+    "end_seconds": 296.88,
+    "text": "equivalence"
+  },
+  {
+    "start": "00:04:56.880",
+    "end": "00:04:58.710",
+    "start_seconds": 296.88,
+    "end_seconds": 298.71,
+    "text": "equivalence that sounds fancy but let me give you a"
+  },
+  {
+    "start": "00:04:58.710",
+    "end": "00:04:58.720",
+    "start_seconds": 298.71,
+    "end_seconds": 298.72,
+    "text": "that sounds fancy but let me give you a"
+  },
+  {
+    "start": "00:04:58.720",
+    "end": "00:05:00.629",
+    "start_seconds": 298.72,
+    "end_seconds": 300.629,
+    "text": "that sounds fancy but let me give you a very simple example"
+  },
+  {
+    "start": "00:05:00.629",
+    "end": "00:05:00.639",
+    "start_seconds": 300.629,
+    "end_seconds": 300.639,
+    "text": "very simple example"
+  },
+  {
+    "start": "00:05:00.639",
+    "end": "00:05:03.909",
+    "start_seconds": 300.639,
+    "end_seconds": 303.909,
+    "text": "very simple example let's assume that i give you a 50 that i"
+  },
+  {
+    "start": "00:05:03.909",
+    "end": "00:05:03.919",
+    "start_seconds": 303.909,
+    "end_seconds": 303.919,
+    "text": "let's assume that i give you a 50 that i"
+  },
+  {
+    "start": "00:05:03.919",
+    "end": "00:05:04.629",
+    "start_seconds": 303.919,
+    "end_seconds": 304.629,
+    "text": "let's assume that i give you a 50 that i give you"
+  },
+  {
+    "start": "00:05:04.629",
+    "end": "00:05:04.639",
+    "start_seconds": 304.629,
+    "end_seconds": 304.639,
+    "text": "give you"
+  },
+  {
+    "start": "00:05:04.639",
+    "end": "00:05:07.110",
+    "start_seconds": 304.639,
+    "end_seconds": 307.11,
+    "text": "give you a bet 50 of the time you're going to"
+  },
+  {
+    "start": "00:05:07.110",
+    "end": "00:05:07.120",
+    "start_seconds": 307.11,
+    "end_seconds": 307.12,
+    "text": "a bet 50 of the time you're going to"
+  },
+  {
+    "start": "00:05:07.120",
+    "end": "00:05:08.629",
+    "start_seconds": 307.12,
+    "end_seconds": 308.629,
+    "text": "a bet 50 of the time you're going to make a thousand dollars 50"
+  },
+  {
+    "start": "00:05:08.629",
+    "end": "00:05:08.639",
+    "start_seconds": 308.629,
+    "end_seconds": 308.639,
+    "text": "make a thousand dollars 50"
+  },
+  {
+    "start": "00:05:08.639",
+    "end": "00:05:11.670",
+    "start_seconds": 308.639,
+    "end_seconds": 311.67,
+    "text": "make a thousand dollars 50 of the time you're going to make nothing"
+  },
+  {
+    "start": "00:05:11.670",
+    "end": "00:05:11.680",
+    "start_seconds": 311.67,
+    "end_seconds": 311.68,
+    "text": "of the time you're going to make nothing"
+  },
+  {
+    "start": "00:05:11.680",
+    "end": "00:05:13.590",
+    "start_seconds": 311.68,
+    "end_seconds": 313.59,
+    "text": "of the time you're going to make nothing and i ask you how much you'd be willing"
+  },
+  {
+    "start": "00:05:13.590",
+    "end": "00:05:13.600",
+    "start_seconds": 313.59,
+    "end_seconds": 313.6,
+    "text": "and i ask you how much you'd be willing"
+  },
+  {
+    "start": "00:05:13.600",
+    "end": "00:05:15.350",
+    "start_seconds": 313.6,
+    "end_seconds": 315.35,
+    "text": "and i ask you how much you'd be willing to pay for that bet"
+  },
+  {
+    "start": "00:05:15.350",
+    "end": "00:05:15.360",
+    "start_seconds": 315.35,
+    "end_seconds": 315.36,
+    "text": "to pay for that bet"
+  },
+  {
+    "start": "00:05:15.360",
+    "end": "00:05:18.070",
+    "start_seconds": 315.36,
+    "end_seconds": 318.07,
+    "text": "to pay for that bet the expected value of that bet is five"
+  },
+  {
+    "start": "00:05:18.070",
+    "end": "00:05:18.080",
+    "start_seconds": 318.07,
+    "end_seconds": 318.08,
+    "text": "the expected value of that bet is five"
+  },
+  {
+    "start": "00:05:18.080",
+    "end": "00:05:19.270",
+    "start_seconds": 318.08,
+    "end_seconds": 319.27,
+    "text": "the expected value of that bet is five hundred dollars right"
+  },
+  {
+    "start": "00:05:19.270",
+    "end": "00:05:19.280",
+    "start_seconds": 319.27,
+    "end_seconds": 319.28,
+    "text": "hundred dollars right"
+  },
+  {
+    "start": "00:05:19.280",
+    "end": "00:05:20.870",
+    "start_seconds": 319.28,
+    "end_seconds": 320.87,
+    "text": "hundred dollars right fifty percent times a thousand plus"
+  },
+  {
+    "start": "00:05:20.870",
+    "end": "00:05:20.880",
+    "start_seconds": 320.87,
+    "end_seconds": 320.88,
+    "text": "fifty percent times a thousand plus"
+  },
+  {
+    "start": "00:05:20.880",
+    "end": "00:05:22.390",
+    "start_seconds": 320.88,
+    "end_seconds": 322.39,
+    "text": "fifty percent times a thousand plus fifty times perfect"
+  },
+  {
+    "start": "00:05:22.390",
+    "end": "00:05:22.400",
+    "start_seconds": 322.39,
+    "end_seconds": 322.4,
+    "text": "fifty times perfect"
+  },
+  {
+    "start": "00:05:22.400",
+    "end": "00:05:24.150",
+    "start_seconds": 322.4,
+    "end_seconds": 324.15,
+    "text": "fifty times perfect the question i would ask is how much"
+  },
+  {
+    "start": "00:05:24.150",
+    "end": "00:05:24.160",
+    "start_seconds": 324.15,
+    "end_seconds": 324.16,
+    "text": "the question i would ask is how much"
+  },
+  {
+    "start": "00:05:24.160",
+    "end": "00:05:25.749",
+    "start_seconds": 324.16,
+    "end_seconds": 325.749,
+    "text": "the question i would ask is how much would you accept as a"
+  },
+  {
+    "start": "00:05:25.749",
+    "end": "00:05:25.759",
+    "start_seconds": 325.749,
+    "end_seconds": 325.759,
+    "text": "would you accept as a"
+  },
+  {
+    "start": "00:05:25.759",
+    "end": "00:05:27.830",
+    "start_seconds": 325.759,
+    "end_seconds": 327.83,
+    "text": "would you accept as a certainty equivalent as a guaranteed"
+  },
+  {
+    "start": "00:05:27.830",
+    "end": "00:05:27.840",
+    "start_seconds": 327.83,
+    "end_seconds": 327.84,
+    "text": "certainty equivalent as a guaranteed"
+  },
+  {
+    "start": "00:05:27.840",
+    "end": "00:05:31.909",
+    "start_seconds": 327.84,
+    "end_seconds": 331.909,
+    "text": "certainty equivalent as a guaranteed amount instead of that expected value"
+  },
+  {
+    "start": "00:05:31.909",
+    "end": "00:05:31.919",
+    "start_seconds": 331.909,
+    "end_seconds": 331.919,
+    "text": "amount instead of that expected value"
+  },
+  {
+    "start": "00:05:31.919",
+    "end": "00:05:34.790",
+    "start_seconds": 331.919,
+    "end_seconds": 334.79,
+    "text": "amount instead of that expected value if you said 500 you're risk neutral"
+  },
+  {
+    "start": "00:05:34.790",
+    "end": "00:05:34.800",
+    "start_seconds": 334.79,
+    "end_seconds": 334.8,
+    "text": "if you said 500 you're risk neutral"
+  },
+  {
+    "start": "00:05:34.800",
+    "end": "00:05:36.469",
+    "start_seconds": 334.8,
+    "end_seconds": 336.469,
+    "text": "if you said 500 you're risk neutral because you're accepting the expected"
+  },
+  {
+    "start": "00:05:36.469",
+    "end": "00:05:36.479",
+    "start_seconds": 336.469,
+    "end_seconds": 336.479,
+    "text": "because you're accepting the expected"
+  },
+  {
+    "start": "00:05:36.479",
+    "end": "00:05:38.150",
+    "start_seconds": 336.479,
+    "end_seconds": 338.15,
+    "text": "because you're accepting the expected value which is uncertain"
+  },
+  {
+    "start": "00:05:38.150",
+    "end": "00:05:38.160",
+    "start_seconds": 338.15,
+    "end_seconds": 338.15999999999997,
+    "text": "value which is uncertain"
+  },
+  {
+    "start": "00:05:38.160",
+    "end": "00:05:41.189",
+    "start_seconds": 338.15999999999997,
+    "end_seconds": 341.189,
+    "text": "value which is uncertain if you said 400 your risk averse"
+  },
+  {
+    "start": "00:05:41.189",
+    "end": "00:05:41.199",
+    "start_seconds": 341.189,
+    "end_seconds": 341.199,
+    "text": "if you said 400 your risk averse"
+  },
+  {
+    "start": "00:05:41.199",
+    "end": "00:05:43.189",
+    "start_seconds": 341.199,
+    "end_seconds": 343.189,
+    "text": "if you said 400 your risk averse if you said 300 you're even more"
+  },
+  {
+    "start": "00:05:43.189",
+    "end": "00:05:43.199",
+    "start_seconds": 343.189,
+    "end_seconds": 343.199,
+    "text": "if you said 300 you're even more"
+  },
+  {
+    "start": "00:05:43.199",
+    "end": "00:05:45.029",
+    "start_seconds": 343.199,
+    "end_seconds": 345.029,
+    "text": "if you said 300 you're even more risk-averse it's called a certain"
+  },
+  {
+    "start": "00:05:45.029",
+    "end": "00:05:45.039",
+    "start_seconds": 345.029,
+    "end_seconds": 345.039,
+    "text": "risk-averse it's called a certain"
+  },
+  {
+    "start": "00:05:45.039",
+    "end": "00:05:46.150",
+    "start_seconds": 345.039,
+    "end_seconds": 346.15,
+    "text": "risk-averse it's called a certain equivalent"
+  },
+  {
+    "start": "00:05:46.150",
+    "end": "00:05:46.160",
+    "start_seconds": 346.15,
+    "end_seconds": 346.15999999999997,
+    "text": "equivalent"
+  },
+  {
+    "start": "00:05:46.160",
+    "end": "00:05:48.629",
+    "start_seconds": 346.15999999999997,
+    "end_seconds": 348.629,
+    "text": "equivalent and the more risk-averse you are the"
+  },
+  {
+    "start": "00:05:48.629",
+    "end": "00:05:48.639",
+    "start_seconds": 348.629,
+    "end_seconds": 348.639,
+    "text": "and the more risk-averse you are the"
+  },
+  {
+    "start": "00:05:48.639",
+    "end": "00:05:50.550",
+    "start_seconds": 348.639,
+    "end_seconds": 350.55,
+    "text": "and the more risk-averse you are the less you will accept as a guaranteed"
+  },
+  {
+    "start": "00:05:50.550",
+    "end": "00:05:50.560",
+    "start_seconds": 350.55,
+    "end_seconds": 350.56,
+    "text": "less you will accept as a guaranteed"
+  },
+  {
+    "start": "00:05:50.560",
+    "end": "00:05:52.550",
+    "start_seconds": 350.56,
+    "end_seconds": 352.55,
+    "text": "less you will accept as a guaranteed amount for that uncertainty expected"
+  },
+  {
+    "start": "00:05:52.550",
+    "end": "00:05:52.560",
+    "start_seconds": 352.55,
+    "end_seconds": 352.56,
+    "text": "amount for that uncertainty expected"
+  },
+  {
+    "start": "00:05:52.560",
+    "end": "00:05:53.029",
+    "start_seconds": 352.56,
+    "end_seconds": 353.029,
+    "text": "amount for that uncertainty expected value"
+  },
+  {
+    "start": "00:05:53.029",
+    "end": "00:05:53.039",
+    "start_seconds": 353.029,
+    "end_seconds": 353.039,
+    "text": "value"
+  },
+  {
+    "start": "00:05:53.039",
+    "end": "00:05:54.390",
+    "start_seconds": 353.039,
+    "end_seconds": 354.39,
+    "text": "value that's one way to think about risk"
+  },
+  {
+    "start": "00:05:54.390",
+    "end": "00:05:54.400",
+    "start_seconds": 354.39,
+    "end_seconds": 354.4,
+    "text": "that's one way to think about risk"
+  },
+  {
+    "start": "00:05:54.400",
+    "end": "00:05:57.270",
+    "start_seconds": 354.4,
+    "end_seconds": 357.27,
+    "text": "that's one way to think about risk aversion the second in the nikon"
+  },
+  {
+    "start": "00:05:57.270",
+    "end": "00:05:57.280",
+    "start_seconds": 357.27,
+    "end_seconds": 357.28,
+    "text": "aversion the second in the nikon"
+  },
+  {
+    "start": "00:05:57.280",
+    "end": "00:05:59.189",
+    "start_seconds": 357.28,
+    "end_seconds": 359.189,
+    "text": "aversion the second in the nikon economics we call these risk aversion"
+  },
+  {
+    "start": "00:05:59.189",
+    "end": "00:05:59.199",
+    "start_seconds": 359.189,
+    "end_seconds": 359.199,
+    "text": "economics we call these risk aversion"
+  },
+  {
+    "start": "00:05:59.199",
+    "end": "00:06:00.309",
+    "start_seconds": 359.199,
+    "end_seconds": 360.309,
+    "text": "economics we call these risk aversion coefficients"
+  },
+  {
+    "start": "00:06:00.309",
+    "end": "00:06:00.319",
+    "start_seconds": 360.309,
+    "end_seconds": 360.319,
+    "text": "coefficients"
+  },
+  {
+    "start": "00:06:00.319",
+    "end": "00:06:03.029",
+    "start_seconds": 360.319,
+    "end_seconds": 363.029,
+    "text": "coefficients is if i can define utility functions"
+  },
+  {
+    "start": "00:06:03.029",
+    "end": "00:06:03.039",
+    "start_seconds": 363.029,
+    "end_seconds": 363.039,
+    "text": "is if i can define utility functions"
+  },
+  {
+    "start": "00:06:03.039",
+    "end": "00:06:04.870",
+    "start_seconds": 363.039,
+    "end_seconds": 364.87,
+    "text": "is if i can define utility functions this is the way i measure how happy you"
+  },
+  {
+    "start": "00:06:04.870",
+    "end": "00:06:04.880",
+    "start_seconds": 364.87,
+    "end_seconds": 364.88,
+    "text": "this is the way i measure how happy you"
+  },
+  {
+    "start": "00:06:04.880",
+    "end": "00:06:05.350",
+    "start_seconds": 364.88,
+    "end_seconds": 365.35,
+    "text": "this is the way i measure how happy you are"
+  },
+  {
+    "start": "00:06:05.350",
+    "end": "00:06:05.360",
+    "start_seconds": 365.35,
+    "end_seconds": 365.36,
+    "text": "are"
+  },
+  {
+    "start": "00:06:05.360",
+    "end": "00:06:07.270",
+    "start_seconds": 365.36,
+    "end_seconds": 367.27,
+    "text": "are those utility functions will have a"
+  },
+  {
+    "start": "00:06:07.270",
+    "end": "00:06:07.280",
+    "start_seconds": 367.27,
+    "end_seconds": 367.28,
+    "text": "those utility functions will have a"
+  },
+  {
+    "start": "00:06:07.280",
+    "end": "00:06:09.270",
+    "start_seconds": 367.28,
+    "end_seconds": 369.27,
+    "text": "those utility functions will have a place in them for your risk aversion"
+  },
+  {
+    "start": "00:06:09.270",
+    "end": "00:06:09.280",
+    "start_seconds": 369.27,
+    "end_seconds": 369.28,
+    "text": "place in them for your risk aversion"
+  },
+  {
+    "start": "00:06:09.280",
+    "end": "00:06:10.950",
+    "start_seconds": 369.28,
+    "end_seconds": 370.95,
+    "text": "place in them for your risk aversion and i can measure your risk aversion"
+  },
+  {
+    "start": "00:06:10.950",
+    "end": "00:06:10.960",
+    "start_seconds": 370.95,
+    "end_seconds": 370.96,
+    "text": "and i can measure your risk aversion"
+  },
+  {
+    "start": "00:06:10.960",
+    "end": "00:06:13.110",
+    "start_seconds": 370.96,
+    "end_seconds": 373.11,
+    "text": "and i can measure your risk aversion with the risk aversion coefficient"
+  },
+  {
+    "start": "00:06:13.110",
+    "end": "00:06:13.120",
+    "start_seconds": 373.11,
+    "end_seconds": 373.12,
+    "text": "with the risk aversion coefficient"
+  },
+  {
+    "start": "00:06:13.120",
+    "end": "00:06:15.670",
+    "start_seconds": 373.12,
+    "end_seconds": 375.67,
+    "text": "with the risk aversion coefficient much messier much more technical but it"
+  },
+  {
+    "start": "00:06:15.670",
+    "end": "00:06:15.680",
+    "start_seconds": 375.67,
+    "end_seconds": 375.68,
+    "text": "much messier much more technical but it"
+  },
+  {
+    "start": "00:06:15.680",
+    "end": "00:06:17.430",
+    "start_seconds": 375.68,
+    "end_seconds": 377.43,
+    "text": "much messier much more technical but it comes from utility functions but they're"
+  },
+  {
+    "start": "00:06:17.430",
+    "end": "00:06:17.440",
+    "start_seconds": 377.43,
+    "end_seconds": 377.44,
+    "text": "comes from utility functions but they're"
+  },
+  {
+    "start": "00:06:17.440",
+    "end": "00:06:17.830",
+    "start_seconds": 377.44,
+    "end_seconds": 377.83,
+    "text": "comes from utility functions but they're both"
+  },
+  {
+    "start": "00:06:17.830",
+    "end": "00:06:17.840",
+    "start_seconds": 377.83,
+    "end_seconds": 377.84,
+    "text": "both"
+  },
+  {
+    "start": "00:06:17.840",
+    "end": "00:06:20.070",
+    "start_seconds": 377.84,
+    "end_seconds": 380.07,
+    "text": "both measures of risk aversion and they both"
+  },
+  {
+    "start": "00:06:20.070",
+    "end": "00:06:20.080",
+    "start_seconds": 380.07,
+    "end_seconds": 380.08,
+    "text": "measures of risk aversion and they both"
+  },
+  {
+    "start": "00:06:20.080",
+    "end": "00:06:20.950",
+    "start_seconds": 380.08,
+    "end_seconds": 380.95,
+    "text": "measures of risk aversion and they both try to capture"
+  },
+  {
+    "start": "00:06:20.950",
+    "end": "00:06:20.960",
+    "start_seconds": 380.95,
+    "end_seconds": 380.96,
+    "text": "try to capture"
+  },
+  {
+    "start": "00:06:20.960",
+    "end": "00:06:23.749",
+    "start_seconds": 380.96,
+    "end_seconds": 383.749,
+    "text": "try to capture how risk-averse you are now over the"
+  },
+  {
+    "start": "00:06:23.749",
+    "end": "00:06:23.759",
+    "start_seconds": 383.749,
+    "end_seconds": 383.759,
+    "text": "how risk-averse you are now over the"
+  },
+  {
+    "start": "00:06:23.759",
+    "end": "00:06:24.629",
+    "start_seconds": 383.759,
+    "end_seconds": 384.629,
+    "text": "how risk-averse you are now over the last"
+  },
+  {
+    "start": "00:06:24.629",
+    "end": "00:06:24.639",
+    "start_seconds": 384.629,
+    "end_seconds": 384.639,
+    "text": "last"
+  },
+  {
+    "start": "00:06:24.639",
+    "end": "00:06:27.909",
+    "start_seconds": 384.639,
+    "end_seconds": 387.909,
+    "text": "last decades we've had studies that looked at"
+  },
+  {
+    "start": "00:06:27.909",
+    "end": "00:06:27.919",
+    "start_seconds": 387.909,
+    "end_seconds": 387.919,
+    "text": "decades we've had studies that looked at"
+  },
+  {
+    "start": "00:06:27.919",
+    "end": "00:06:29.909",
+    "start_seconds": 387.919,
+    "end_seconds": 389.909,
+    "text": "decades we've had studies that looked at differences in risk aversion across"
+  },
+  {
+    "start": "00:06:29.909",
+    "end": "00:06:29.919",
+    "start_seconds": 389.909,
+    "end_seconds": 389.919,
+    "text": "differences in risk aversion across"
+  },
+  {
+    "start": "00:06:29.919",
+    "end": "00:06:31.909",
+    "start_seconds": 389.919,
+    "end_seconds": 391.909,
+    "text": "differences in risk aversion across people how risk-averse people are"
+  },
+  {
+    "start": "00:06:31.909",
+    "end": "00:06:31.919",
+    "start_seconds": 391.909,
+    "end_seconds": 391.919,
+    "text": "people how risk-averse people are"
+  },
+  {
+    "start": "00:06:31.919",
+    "end": "00:06:34.150",
+    "start_seconds": 391.919,
+    "end_seconds": 394.15,
+    "text": "people how risk-averse people are and there are four sets of studies that"
+  },
+  {
+    "start": "00:06:34.150",
+    "end": "00:06:34.160",
+    "start_seconds": 394.15,
+    "end_seconds": 394.15999999999997,
+    "text": "and there are four sets of studies that"
+  },
+  {
+    "start": "00:06:34.160",
+    "end": "00:06:35.590",
+    "start_seconds": 394.15999999999997,
+    "end_seconds": 395.59000000000003,
+    "text": "and there are four sets of studies that draw these conclusions"
+  },
+  {
+    "start": "00:06:35.590",
+    "end": "00:06:35.600",
+    "start_seconds": 395.59000000000003,
+    "end_seconds": 395.6,
+    "text": "draw these conclusions"
+  },
+  {
+    "start": "00:06:35.600",
+    "end": "00:06:37.430",
+    "start_seconds": 395.6,
+    "end_seconds": 397.43,
+    "text": "draw these conclusions the first are experimental studies where"
+  },
+  {
+    "start": "00:06:37.430",
+    "end": "00:06:37.440",
+    "start_seconds": 397.43,
+    "end_seconds": 397.44,
+    "text": "the first are experimental studies where"
+  },
+  {
+    "start": "00:06:37.440",
+    "end": "00:06:39.909",
+    "start_seconds": 397.44,
+    "end_seconds": 399.909,
+    "text": "the first are experimental studies where you take 15 20 25 people and you offer"
+  },
+  {
+    "start": "00:06:39.909",
+    "end": "00:06:39.919",
+    "start_seconds": 399.909,
+    "end_seconds": 399.919,
+    "text": "you take 15 20 25 people and you offer"
+  },
+  {
+    "start": "00:06:39.919",
+    "end": "00:06:41.830",
+    "start_seconds": 399.919,
+    "end_seconds": 401.83,
+    "text": "you take 15 20 25 people and you offer them these choices to see what they"
+  },
+  {
+    "start": "00:06:41.830",
+    "end": "00:06:41.840",
+    "start_seconds": 401.83,
+    "end_seconds": 401.84000000000003,
+    "text": "them these choices to see what they"
+  },
+  {
+    "start": "00:06:41.840",
+    "end": "00:06:42.390",
+    "start_seconds": 401.84000000000003,
+    "end_seconds": 402.39,
+    "text": "them these choices to see what they choose"
+  },
+  {
+    "start": "00:06:42.390",
+    "end": "00:06:42.400",
+    "start_seconds": 402.39,
+    "end_seconds": 402.4,
+    "text": "choose"
+  },
+  {
+    "start": "00:06:42.400",
+    "end": "00:06:43.909",
+    "start_seconds": 402.4,
+    "end_seconds": 403.909,
+    "text": "choose and based on these controlled"
+  },
+  {
+    "start": "00:06:43.909",
+    "end": "00:06:43.919",
+    "start_seconds": 403.909,
+    "end_seconds": 403.919,
+    "text": "and based on these controlled"
+  },
+  {
+    "start": "00:06:43.919",
+    "end": "00:06:45.590",
+    "start_seconds": 403.919,
+    "end_seconds": 405.59000000000003,
+    "text": "and based on these controlled experiments you make judgments about"
+  },
+  {
+    "start": "00:06:45.590",
+    "end": "00:06:45.600",
+    "start_seconds": 405.59000000000003,
+    "end_seconds": 405.6,
+    "text": "experiments you make judgments about"
+  },
+  {
+    "start": "00:06:45.600",
+    "end": "00:06:46.790",
+    "start_seconds": 405.6,
+    "end_seconds": 406.79,
+    "text": "experiments you make judgments about risk aversion"
+  },
+  {
+    "start": "00:06:46.790",
+    "end": "00:06:46.800",
+    "start_seconds": 406.79,
+    "end_seconds": 406.8,
+    "text": "risk aversion"
+  },
+  {
+    "start": "00:06:46.800",
+    "end": "00:06:48.710",
+    "start_seconds": 406.8,
+    "end_seconds": 408.71,
+    "text": "risk aversion the second are surveys where you ask"
+  },
+  {
+    "start": "00:06:48.710",
+    "end": "00:06:48.720",
+    "start_seconds": 408.71,
+    "end_seconds": 408.72,
+    "text": "the second are surveys where you ask"
+  },
+  {
+    "start": "00:06:48.720",
+    "end": "00:06:50.230",
+    "start_seconds": 408.72,
+    "end_seconds": 410.23,
+    "text": "the second are surveys where you ask people how they deal with"
+  },
+  {
+    "start": "00:06:50.230",
+    "end": "00:06:50.240",
+    "start_seconds": 410.23,
+    "end_seconds": 410.24,
+    "text": "people how they deal with"
+  },
+  {
+    "start": "00:06:50.240",
+    "end": "00:06:52.070",
+    "start_seconds": 410.24,
+    "end_seconds": 412.07,
+    "text": "people how they deal with risk in real the real world how much"
+  },
+  {
+    "start": "00:06:52.070",
+    "end": "00:06:52.080",
+    "start_seconds": 412.07,
+    "end_seconds": 412.08,
+    "text": "risk in real the real world how much"
+  },
+  {
+    "start": "00:06:52.080",
+    "end": "00:06:53.749",
+    "start_seconds": 412.08,
+    "end_seconds": 413.749,
+    "text": "risk in real the real world how much insurance they buy what portfolio"
+  },
+  {
+    "start": "00:06:53.749",
+    "end": "00:06:53.759",
+    "start_seconds": 413.749,
+    "end_seconds": 413.759,
+    "text": "insurance they buy what portfolio"
+  },
+  {
+    "start": "00:06:53.759",
+    "end": "00:06:54.950",
+    "start_seconds": 413.759,
+    "end_seconds": 414.95,
+    "text": "insurance they buy what portfolio choices they make"
+  },
+  {
+    "start": "00:06:54.950",
+    "end": "00:06:54.960",
+    "start_seconds": 414.95,
+    "end_seconds": 414.96,
+    "text": "choices they make"
+  },
+  {
+    "start": "00:06:54.960",
+    "end": "00:06:56.790",
+    "start_seconds": 414.96,
+    "end_seconds": 416.79,
+    "text": "choices they make and you draw from those conclusions"
+  },
+  {
+    "start": "00:06:56.790",
+    "end": "00:06:56.800",
+    "start_seconds": 416.79,
+    "end_seconds": 416.8,
+    "text": "and you draw from those conclusions"
+  },
+  {
+    "start": "00:06:56.800",
+    "end": "00:06:58.309",
+    "start_seconds": 416.8,
+    "end_seconds": 418.30899999999997,
+    "text": "and you draw from those conclusions about risk aversion"
+  },
+  {
+    "start": "00:06:58.309",
+    "end": "00:06:58.319",
+    "start_seconds": 418.30899999999997,
+    "end_seconds": 418.319,
+    "text": "about risk aversion"
+  },
+  {
+    "start": "00:06:58.319",
+    "end": "00:07:00.309",
+    "start_seconds": 418.319,
+    "end_seconds": 420.309,
+    "text": "about risk aversion the third and this is one of my favorite"
+  },
+  {
+    "start": "00:07:00.309",
+    "end": "00:07:00.319",
+    "start_seconds": 420.309,
+    "end_seconds": 420.319,
+    "text": "the third and this is one of my favorite"
+  },
+  {
+    "start": "00:07:00.319",
+    "end": "00:07:02.309",
+    "start_seconds": 420.319,
+    "end_seconds": 422.309,
+    "text": "the third and this is one of my favorite devices you look at what people pay for"
+  },
+  {
+    "start": "00:07:02.309",
+    "end": "00:07:02.319",
+    "start_seconds": 422.309,
+    "end_seconds": 422.319,
+    "text": "devices you look at what people pay for"
+  },
+  {
+    "start": "00:07:02.319",
+    "end": "00:07:03.749",
+    "start_seconds": 422.319,
+    "end_seconds": 423.749,
+    "text": "devices you look at what people pay for risky assets stocks"
+  },
+  {
+    "start": "00:07:03.749",
+    "end": "00:07:03.759",
+    "start_seconds": 423.749,
+    "end_seconds": 423.759,
+    "text": "risky assets stocks"
+  },
+  {
+    "start": "00:07:03.759",
+    "end": "00:07:06.150",
+    "start_seconds": 423.759,
+    "end_seconds": 426.15,
+    "text": "risky assets stocks bonds you're in a sense getting from the"
+  },
+  {
+    "start": "00:07:06.150",
+    "end": "00:07:06.160",
+    "start_seconds": 426.15,
+    "end_seconds": 426.16,
+    "text": "bonds you're in a sense getting from the"
+  },
+  {
+    "start": "00:07:06.160",
+    "end": "00:07:08.150",
+    "start_seconds": 426.16,
+    "end_seconds": 428.15,
+    "text": "bonds you're in a sense getting from the price a measure of how risk-averse they"
+  },
+  {
+    "start": "00:07:08.150",
+    "end": "00:07:08.160",
+    "start_seconds": 428.15,
+    "end_seconds": 428.16,
+    "text": "price a measure of how risk-averse they"
+  },
+  {
+    "start": "00:07:08.160",
+    "end": "00:07:09.270",
+    "start_seconds": 428.16,
+    "end_seconds": 429.27,
+    "text": "price a measure of how risk-averse they are"
+  },
+  {
+    "start": "00:07:09.270",
+    "end": "00:07:09.280",
+    "start_seconds": 429.27,
+    "end_seconds": 429.28,
+    "text": "are"
+  },
+  {
+    "start": "00:07:09.280",
+    "end": "00:07:12.070",
+    "start_seconds": 429.28,
+    "end_seconds": 432.07,
+    "text": "are and finally there are if you go to"
+  },
+  {
+    "start": "00:07:12.070",
+    "end": "00:07:12.080",
+    "start_seconds": 432.07,
+    "end_seconds": 432.08,
+    "text": "and finally there are if you go to"
+  },
+  {
+    "start": "00:07:12.080",
+    "end": "00:07:14.309",
+    "start_seconds": 432.08,
+    "end_seconds": 434.309,
+    "text": "and finally there are if you go to casinos you go to game shows you go to"
+  },
+  {
+    "start": "00:07:14.309",
+    "end": "00:07:14.319",
+    "start_seconds": 434.309,
+    "end_seconds": 434.319,
+    "text": "casinos you go to game shows you go to"
+  },
+  {
+    "start": "00:07:14.319",
+    "end": "00:07:16.390",
+    "start_seconds": 434.319,
+    "end_seconds": 436.39,
+    "text": "casinos you go to game shows you go to the racetrack you're getting a measure"
+  },
+  {
+    "start": "00:07:16.390",
+    "end": "00:07:16.400",
+    "start_seconds": 436.39,
+    "end_seconds": 436.4,
+    "text": "the racetrack you're getting a measure"
+  },
+  {
+    "start": "00:07:16.400",
+    "end": "00:07:17.510",
+    "start_seconds": 436.4,
+    "end_seconds": 437.51,
+    "text": "the racetrack you're getting a measure of how people"
+  },
+  {
+    "start": "00:07:17.510",
+    "end": "00:07:17.520",
+    "start_seconds": 437.51,
+    "end_seconds": 437.52,
+    "text": "of how people"
+  },
+  {
+    "start": "00:07:17.520",
+    "end": "00:07:19.670",
+    "start_seconds": 437.52,
+    "end_seconds": 439.67,
+    "text": "of how people deal with risk almost on a"
+  },
+  {
+    "start": "00:07:19.670",
+    "end": "00:07:19.680",
+    "start_seconds": 439.67,
+    "end_seconds": 439.68,
+    "text": "deal with risk almost on a"
+  },
+  {
+    "start": "00:07:19.680",
+    "end": "00:07:21.589",
+    "start_seconds": 439.68,
+    "end_seconds": 441.589,
+    "text": "deal with risk almost on a minute-by-minute basis by looking at"
+  },
+  {
+    "start": "00:07:21.589",
+    "end": "00:07:21.599",
+    "start_seconds": 441.589,
+    "end_seconds": 441.599,
+    "text": "minute-by-minute basis by looking at"
+  },
+  {
+    "start": "00:07:21.599",
+    "end": "00:07:23.029",
+    "start_seconds": 441.599,
+    "end_seconds": 443.029,
+    "text": "minute-by-minute basis by looking at what they bet on and how much they're"
+  },
+  {
+    "start": "00:07:23.029",
+    "end": "00:07:23.039",
+    "start_seconds": 443.029,
+    "end_seconds": 443.039,
+    "text": "what they bet on and how much they're"
+  },
+  {
+    "start": "00:07:23.039",
+    "end": "00:07:24.309",
+    "start_seconds": 443.039,
+    "end_seconds": 444.309,
+    "text": "what they bet on and how much they're willing to bet"
+  },
+  {
+    "start": "00:07:24.309",
+    "end": "00:07:24.319",
+    "start_seconds": 444.309,
+    "end_seconds": 444.319,
+    "text": "willing to bet"
+  },
+  {
+    "start": "00:07:24.319",
+    "end": "00:07:25.749",
+    "start_seconds": 444.319,
+    "end_seconds": 445.749,
+    "text": "willing to bet now if you look at the collective"
+  },
+  {
+    "start": "00:07:25.749",
+    "end": "00:07:25.759",
+    "start_seconds": 445.749,
+    "end_seconds": 445.759,
+    "text": "now if you look at the collective"
+  },
+  {
+    "start": "00:07:25.759",
+    "end": "00:07:27.589",
+    "start_seconds": 445.759,
+    "end_seconds": 447.589,
+    "text": "now if you look at the collective evidence from this risk aversion here's"
+  },
+  {
+    "start": "00:07:27.589",
+    "end": "00:07:27.599",
+    "start_seconds": 447.589,
+    "end_seconds": 447.599,
+    "text": "evidence from this risk aversion here's"
+  },
+  {
+    "start": "00:07:27.599",
+    "end": "00:07:29.670",
+    "start_seconds": 447.599,
+    "end_seconds": 449.67,
+    "text": "evidence from this risk aversion here's what we seem to have uncovered"
+  },
+  {
+    "start": "00:07:29.670",
+    "end": "00:07:29.680",
+    "start_seconds": 449.67,
+    "end_seconds": 449.68,
+    "text": "what we seem to have uncovered"
+  },
+  {
+    "start": "00:07:29.680",
+    "end": "00:07:31.029",
+    "start_seconds": 449.68,
+    "end_seconds": 451.029,
+    "text": "what we seem to have uncovered and i'm not claiming this as a"
+  },
+  {
+    "start": "00:07:31.029",
+    "end": "00:07:31.039",
+    "start_seconds": 451.029,
+    "end_seconds": 451.039,
+    "text": "and i'm not claiming this as a"
+  },
+  {
+    "start": "00:07:31.039",
+    "end": "00:07:32.550",
+    "start_seconds": 451.039,
+    "end_seconds": 452.55,
+    "text": "and i'm not claiming this as a generalization but these are general"
+  },
+  {
+    "start": "00:07:32.550",
+    "end": "00:07:32.560",
+    "start_seconds": 452.55,
+    "end_seconds": 452.56,
+    "text": "generalization but these are general"
+  },
+  {
+    "start": "00:07:32.560",
+    "end": "00:07:33.589",
+    "start_seconds": 452.56,
+    "end_seconds": 453.589,
+    "text": "generalization but these are general findings"
+  },
+  {
+    "start": "00:07:33.589",
+    "end": "00:07:33.599",
+    "start_seconds": 453.589,
+    "end_seconds": 453.599,
+    "text": "findings"
+  },
+  {
+    "start": "00:07:33.599",
+    "end": "00:07:35.510",
+    "start_seconds": 453.599,
+    "end_seconds": 455.51,
+    "text": "findings when men are compared with women at"
+  },
+  {
+    "start": "00:07:35.510",
+    "end": "00:07:35.520",
+    "start_seconds": 455.51,
+    "end_seconds": 455.52,
+    "text": "when men are compared with women at"
+  },
+  {
+    "start": "00:07:35.520",
+    "end": "00:07:37.189",
+    "start_seconds": 455.52,
+    "end_seconds": 457.189,
+    "text": "when men are compared with women at least these studies seem to find that"
+  },
+  {
+    "start": "00:07:37.189",
+    "end": "00:07:37.199",
+    "start_seconds": 457.189,
+    "end_seconds": 457.199,
+    "text": "least these studies seem to find that"
+  },
+  {
+    "start": "00:07:37.199",
+    "end": "00:07:37.990",
+    "start_seconds": 457.199,
+    "end_seconds": 457.99,
+    "text": "least these studies seem to find that men are"
+  },
+  {
+    "start": "00:07:37.990",
+    "end": "00:07:38.000",
+    "start_seconds": 457.99,
+    "end_seconds": 458.0,
+    "text": "men are"
+  },
+  {
+    "start": "00:07:38.000",
+    "end": "00:07:40.710",
+    "start_seconds": 458.0,
+    "end_seconds": 460.71,
+    "text": "men are less risk-aversed than women when it"
+  },
+  {
+    "start": "00:07:40.710",
+    "end": "00:07:40.720",
+    "start_seconds": 460.71,
+    "end_seconds": 460.72,
+    "text": "less risk-aversed than women when it"
+  },
+  {
+    "start": "00:07:40.720",
+    "end": "00:07:42.790",
+    "start_seconds": 460.72,
+    "end_seconds": 462.79,
+    "text": "less risk-aversed than women when it comes to small bets"
+  },
+  {
+    "start": "00:07:42.790",
+    "end": "00:07:42.800",
+    "start_seconds": 462.79,
+    "end_seconds": 462.8,
+    "text": "comes to small bets"
+  },
+  {
+    "start": "00:07:42.800",
+    "end": "00:07:45.830",
+    "start_seconds": 462.8,
+    "end_seconds": 465.83,
+    "text": "comes to small bets so survivor offer you a 50 bet on a game"
+  },
+  {
+    "start": "00:07:45.830",
+    "end": "00:07:45.840",
+    "start_seconds": 465.83,
+    "end_seconds": 465.84000000000003,
+    "text": "so survivor offer you a 50 bet on a game"
+  },
+  {
+    "start": "00:07:45.840",
+    "end": "00:07:47.909",
+    "start_seconds": 465.84000000000003,
+    "end_seconds": 467.909,
+    "text": "so survivor offer you a 50 bet on a game men tend to be much more cavalier about"
+  },
+  {
+    "start": "00:07:47.909",
+    "end": "00:07:47.919",
+    "start_seconds": 467.909,
+    "end_seconds": 467.919,
+    "text": "men tend to be much more cavalier about"
+  },
+  {
+    "start": "00:07:47.919",
+    "end": "00:07:49.350",
+    "start_seconds": 467.919,
+    "end_seconds": 469.35,
+    "text": "men tend to be much more cavalier about accepting small bets"
+  },
+  {
+    "start": "00:07:49.350",
+    "end": "00:07:49.360",
+    "start_seconds": 469.35,
+    "end_seconds": 469.36,
+    "text": "accepting small bets"
+  },
+  {
+    "start": "00:07:49.360",
+    "end": "00:07:51.830",
+    "start_seconds": 469.36,
+    "end_seconds": 471.83,
+    "text": "accepting small bets but as the bets get larger men and women"
+  },
+  {
+    "start": "00:07:51.830",
+    "end": "00:07:51.840",
+    "start_seconds": 471.83,
+    "end_seconds": 471.84000000000003,
+    "text": "but as the bets get larger men and women"
+  },
+  {
+    "start": "00:07:51.840",
+    "end": "00:07:54.710",
+    "start_seconds": 471.84000000000003,
+    "end_seconds": 474.71,
+    "text": "but as the bets get larger men and women seem to be about equally risk averse"
+  },
+  {
+    "start": "00:07:54.710",
+    "end": "00:07:54.720",
+    "start_seconds": 474.71,
+    "end_seconds": 474.72,
+    "text": "seem to be about equally risk averse"
+  },
+  {
+    "start": "00:07:54.720",
+    "end": "00:07:57.029",
+    "start_seconds": 474.72,
+    "end_seconds": 477.029,
+    "text": "seem to be about equally risk averse young men are less risk averse than"
+  },
+  {
+    "start": "00:07:57.029",
+    "end": "00:07:57.039",
+    "start_seconds": 477.029,
+    "end_seconds": 477.039,
+    "text": "young men are less risk averse than"
+  },
+  {
+    "start": "00:07:57.039",
+    "end": "00:07:58.070",
+    "start_seconds": 477.039,
+    "end_seconds": 478.07,
+    "text": "young men are less risk averse than young women but as"
+  },
+  {
+    "start": "00:07:58.070",
+    "end": "00:07:58.080",
+    "start_seconds": 478.07,
+    "end_seconds": 478.08,
+    "text": "young women but as"
+  },
+  {
+    "start": "00:07:58.080",
+    "end": "00:08:00.150",
+    "start_seconds": 478.08,
+    "end_seconds": 480.15,
+    "text": "young women but as as people age men and women are about"
+  },
+  {
+    "start": "00:08:00.150",
+    "end": "00:08:00.160",
+    "start_seconds": 480.15,
+    "end_seconds": 480.16,
+    "text": "as people age men and women are about"
+  },
+  {
+    "start": "00:08:00.160",
+    "end": "00:08:02.230",
+    "start_seconds": 480.16,
+    "end_seconds": 482.23,
+    "text": "as people age men and women are about equally risk averse"
+  },
+  {
+    "start": "00:08:02.230",
+    "end": "00:08:02.240",
+    "start_seconds": 482.23,
+    "end_seconds": 482.24,
+    "text": "equally risk averse"
+  },
+  {
+    "start": "00:08:02.240",
+    "end": "00:08:03.830",
+    "start_seconds": 482.24,
+    "end_seconds": 483.83,
+    "text": "equally risk averse studies also have looked at does your"
+  },
+  {
+    "start": "00:08:03.830",
+    "end": "00:08:03.840",
+    "start_seconds": 483.83,
+    "end_seconds": 483.84,
+    "text": "studies also have looked at does your"
+  },
+  {
+    "start": "00:08:03.840",
+    "end": "00:08:05.510",
+    "start_seconds": 483.84,
+    "end_seconds": 485.51,
+    "text": "studies also have looked at does your risk aversion increase or decrease as"
+  },
+  {
+    "start": "00:08:05.510",
+    "end": "00:08:05.520",
+    "start_seconds": 485.51,
+    "end_seconds": 485.52,
+    "text": "risk aversion increase or decrease as"
+  },
+  {
+    "start": "00:08:05.520",
+    "end": "00:08:07.430",
+    "start_seconds": 485.52,
+    "end_seconds": 487.43,
+    "text": "risk aversion increase or decrease as you become more experienced"
+  },
+  {
+    "start": "00:08:07.430",
+    "end": "00:08:07.440",
+    "start_seconds": 487.43,
+    "end_seconds": 487.44,
+    "text": "you become more experienced"
+  },
+  {
+    "start": "00:08:07.440",
+    "end": "00:08:10.710",
+    "start_seconds": 487.44,
+    "end_seconds": 490.71,
+    "text": "you become more experienced at a particular set of bets so for"
+  },
+  {
+    "start": "00:08:10.710",
+    "end": "00:08:10.720",
+    "start_seconds": 490.71,
+    "end_seconds": 490.72,
+    "text": "at a particular set of bets so for"
+  },
+  {
+    "start": "00:08:10.720",
+    "end": "00:08:11.350",
+    "start_seconds": 490.72,
+    "end_seconds": 491.35,
+    "text": "at a particular set of bets so for instance"
+  },
+  {
+    "start": "00:08:11.350",
+    "end": "00:08:11.360",
+    "start_seconds": 491.35,
+    "end_seconds": 491.36,
+    "text": "instance"
+  },
+  {
+    "start": "00:08:11.360",
+    "end": "00:08:13.510",
+    "start_seconds": 491.36,
+    "end_seconds": 493.51,
+    "text": "instance a study compared bids from naive"
+  },
+  {
+    "start": "00:08:13.510",
+    "end": "00:08:13.520",
+    "start_seconds": 493.51,
+    "end_seconds": 493.52,
+    "text": "a study compared bids from naive"
+  },
+  {
+    "start": "00:08:13.520",
+    "end": "00:08:15.270",
+    "start_seconds": 493.52,
+    "end_seconds": 495.27,
+    "text": "a study compared bids from naive students people who'd never done this in"
+  },
+  {
+    "start": "00:08:15.270",
+    "end": "00:08:15.280",
+    "start_seconds": 495.27,
+    "end_seconds": 495.28,
+    "text": "students people who'd never done this in"
+  },
+  {
+    "start": "00:08:15.280",
+    "end": "00:08:17.029",
+    "start_seconds": 495.28,
+    "end_seconds": 497.029,
+    "text": "students people who'd never done this in construction industry experts for"
+  },
+  {
+    "start": "00:08:17.029",
+    "end": "00:08:17.039",
+    "start_seconds": 497.029,
+    "end_seconds": 497.039,
+    "text": "construction industry experts for"
+  },
+  {
+    "start": "00:08:17.039",
+    "end": "00:08:18.790",
+    "start_seconds": 497.039,
+    "end_seconds": 498.79,
+    "text": "construction industry experts for bidding on real estate and they found"
+  },
+  {
+    "start": "00:08:18.790",
+    "end": "00:08:18.800",
+    "start_seconds": 498.79,
+    "end_seconds": 498.8,
+    "text": "bidding on real estate and they found"
+  },
+  {
+    "start": "00:08:18.800",
+    "end": "00:08:19.510",
+    "start_seconds": 498.8,
+    "end_seconds": 499.51,
+    "text": "bidding on real estate and they found that as"
+  },
+  {
+    "start": "00:08:19.510",
+    "end": "00:08:19.520",
+    "start_seconds": 499.51,
+    "end_seconds": 499.52,
+    "text": "that as"
+  },
+  {
+    "start": "00:08:19.520",
+    "end": "00:08:22.469",
+    "start_seconds": 499.52,
+    "end_seconds": 502.469,
+    "text": "that as people became more experts more the more"
+  },
+  {
+    "start": "00:08:22.469",
+    "end": "00:08:22.479",
+    "start_seconds": 502.469,
+    "end_seconds": 502.479,
+    "text": "people became more experts more the more"
+  },
+  {
+    "start": "00:08:22.479",
+    "end": "00:08:23.830",
+    "start_seconds": 502.479,
+    "end_seconds": 503.83,
+    "text": "people became more experts more the more expertise you had"
+  },
+  {
+    "start": "00:08:23.830",
+    "end": "00:08:23.840",
+    "start_seconds": 503.83,
+    "end_seconds": 503.84,
+    "text": "expertise you had"
+  },
+  {
+    "start": "00:08:23.840",
+    "end": "00:08:26.070",
+    "start_seconds": 503.84,
+    "end_seconds": 506.07,
+    "text": "expertise you had the less risk averse you became"
+  },
+  {
+    "start": "00:08:26.070",
+    "end": "00:08:26.080",
+    "start_seconds": 506.07,
+    "end_seconds": 506.08,
+    "text": "the less risk averse you became"
+  },
+  {
+    "start": "00:08:26.080",
+    "end": "00:08:27.430",
+    "start_seconds": 506.08,
+    "end_seconds": 507.43,
+    "text": "the less risk averse you became something to think about when you think"
+  },
+  {
+    "start": "00:08:27.430",
+    "end": "00:08:27.440",
+    "start_seconds": 507.43,
+    "end_seconds": 507.44,
+    "text": "something to think about when you think"
+  },
+  {
+    "start": "00:08:27.440",
+    "end": "00:08:28.950",
+    "start_seconds": 507.44,
+    "end_seconds": 508.95,
+    "text": "something to think about when you think about traders out there"
+  },
+  {
+    "start": "00:08:28.950",
+    "end": "00:08:28.960",
+    "start_seconds": 508.95,
+    "end_seconds": 508.96,
+    "text": "about traders out there"
+  },
+  {
+    "start": "00:08:28.960",
+    "end": "00:08:31.110",
+    "start_seconds": 508.96,
+    "end_seconds": 511.11,
+    "text": "about traders out there that traders as they trade longer and"
+  },
+  {
+    "start": "00:08:31.110",
+    "end": "00:08:31.120",
+    "start_seconds": 511.11,
+    "end_seconds": 511.12,
+    "text": "that traders as they trade longer and"
+  },
+  {
+    "start": "00:08:31.120",
+    "end": "00:08:33.269",
+    "start_seconds": 511.12,
+    "end_seconds": 513.269,
+    "text": "that traders as they trade longer and longer actually become less risk of us"
+  },
+  {
+    "start": "00:08:33.269",
+    "end": "00:08:33.279",
+    "start_seconds": 513.269,
+    "end_seconds": 513.279,
+    "text": "longer actually become less risk of us"
+  },
+  {
+    "start": "00:08:33.279",
+    "end": "00:08:35.430",
+    "start_seconds": 513.279,
+    "end_seconds": 515.43,
+    "text": "longer actually become less risk of us because they either learn more about the"
+  },
+  {
+    "start": "00:08:35.430",
+    "end": "00:08:35.440",
+    "start_seconds": 515.43,
+    "end_seconds": 515.44,
+    "text": "because they either learn more about the"
+  },
+  {
+    "start": "00:08:35.440",
+    "end": "00:08:36.469",
+    "start_seconds": 515.44,
+    "end_seconds": 516.469,
+    "text": "because they either learn more about the market or"
+  },
+  {
+    "start": "00:08:36.469",
+    "end": "00:08:36.479",
+    "start_seconds": 516.469,
+    "end_seconds": 516.479,
+    "text": "market or"
+  },
+  {
+    "start": "00:08:36.479",
+    "end": "00:08:38.070",
+    "start_seconds": 516.479,
+    "end_seconds": 518.07,
+    "text": "market or worse they think they've learned more"
+  },
+  {
+    "start": "00:08:38.070",
+    "end": "00:08:38.080",
+    "start_seconds": 518.07,
+    "end_seconds": 518.08,
+    "text": "worse they think they've learned more"
+  },
+  {
+    "start": "00:08:38.080",
+    "end": "00:08:39.670",
+    "start_seconds": 518.08,
+    "end_seconds": 519.67,
+    "text": "worse they think they've learned more about the market"
+  },
+  {
+    "start": "00:08:39.670",
+    "end": "00:08:39.680",
+    "start_seconds": 519.67,
+    "end_seconds": 519.68,
+    "text": "about the market"
+  },
+  {
+    "start": "00:08:39.680",
+    "end": "00:08:42.070",
+    "start_seconds": 519.68,
+    "end_seconds": 522.07,
+    "text": "about the market young versus old people no surprise here"
+  },
+  {
+    "start": "00:08:42.070",
+    "end": "00:08:42.080",
+    "start_seconds": 522.07,
+    "end_seconds": 522.08,
+    "text": "young versus old people no surprise here"
+  },
+  {
+    "start": "00:08:42.080",
+    "end": "00:08:42.870",
+    "start_seconds": 522.08,
+    "end_seconds": 522.87,
+    "text": "young versus old people no surprise here young people"
+  },
+  {
+    "start": "00:08:42.870",
+    "end": "00:08:42.880",
+    "start_seconds": 522.87,
+    "end_seconds": 522.88,
+    "text": "young people"
+  },
+  {
+    "start": "00:08:42.880",
+    "end": "00:08:45.590",
+    "start_seconds": 522.88,
+    "end_seconds": 525.59,
+    "text": "young people are less risk averse than older people"
+  },
+  {
+    "start": "00:08:45.590",
+    "end": "00:08:45.600",
+    "start_seconds": 525.59,
+    "end_seconds": 525.6,
+    "text": "are less risk averse than older people"
+  },
+  {
+    "start": "00:08:45.600",
+    "end": "00:08:47.509",
+    "start_seconds": 525.6,
+    "end_seconds": 527.509,
+    "text": "are less risk averse than older people something to again keep in mind as you"
+  },
+  {
+    "start": "00:08:47.509",
+    "end": "00:08:47.519",
+    "start_seconds": 527.509,
+    "end_seconds": 527.519,
+    "text": "something to again keep in mind as you"
+  },
+  {
+    "start": "00:08:47.519",
+    "end": "00:08:48.150",
+    "start_seconds": 527.519,
+    "end_seconds": 528.15,
+    "text": "something to again keep in mind as you watch the"
+  },
+  {
+    "start": "00:08:48.150",
+    "end": "00:08:48.160",
+    "start_seconds": 528.15,
+    "end_seconds": 528.16,
+    "text": "watch the"
+  },
+  {
+    "start": "00:08:48.160",
+    "end": "00:08:51.430",
+    "start_seconds": 528.16,
+    "end_seconds": 531.43,
+    "text": "watch the aging of of japan and europe"
+  },
+  {
+    "start": "00:08:51.430",
+    "end": "00:08:51.440",
+    "start_seconds": 531.43,
+    "end_seconds": 531.44,
+    "text": "aging of of japan and europe"
+  },
+  {
+    "start": "00:08:51.440",
+    "end": "00:08:53.110",
+    "start_seconds": 531.44,
+    "end_seconds": 533.11,
+    "text": "aging of of japan and europe perhaps that has something to say about"
+  },
+  {
+    "start": "00:08:53.110",
+    "end": "00:08:53.120",
+    "start_seconds": 533.11,
+    "end_seconds": 533.12,
+    "text": "perhaps that has something to say about"
+  },
+  {
+    "start": "00:08:53.120",
+    "end": "00:08:54.949",
+    "start_seconds": 533.12,
+    "end_seconds": 534.949,
+    "text": "perhaps that has something to say about how how much risk aversion you're going"
+  },
+  {
+    "start": "00:08:54.949",
+    "end": "00:08:54.959",
+    "start_seconds": 534.949,
+    "end_seconds": 534.9590000000001,
+    "text": "how how much risk aversion you're going"
+  },
+  {
+    "start": "00:08:54.959",
+    "end": "00:08:55.590",
+    "start_seconds": 534.9590000000001,
+    "end_seconds": 535.59,
+    "text": "how how much risk aversion you're going to see"
+  },
+  {
+    "start": "00:08:55.590",
+    "end": "00:08:55.600",
+    "start_seconds": 535.59,
+    "end_seconds": 535.6,
+    "text": "to see"
+  },
+  {
+    "start": "00:08:55.600",
+    "end": "00:08:58.150",
+    "start_seconds": 535.6,
+    "end_seconds": 538.15,
+    "text": "to see both in product and financial markets"
+  },
+  {
+    "start": "00:08:58.150",
+    "end": "00:08:58.160",
+    "start_seconds": 538.15,
+    "end_seconds": 538.16,
+    "text": "both in product and financial markets"
+  },
+  {
+    "start": "00:08:58.160",
+    "end": "00:08:59.910",
+    "start_seconds": 538.16,
+    "end_seconds": 539.91,
+    "text": "both in product and financial markets and finally when you compare across"
+  },
+  {
+    "start": "00:08:59.910",
+    "end": "00:08:59.920",
+    "start_seconds": 539.91,
+    "end_seconds": 539.92,
+    "text": "and finally when you compare across"
+  },
+  {
+    "start": "00:08:59.920",
+    "end": "00:09:01.990",
+    "start_seconds": 539.92,
+    "end_seconds": 541.99,
+    "text": "and finally when you compare across races and cultures the evidence is"
+  },
+  {
+    "start": "00:09:01.990",
+    "end": "00:09:02.000",
+    "start_seconds": 541.99,
+    "end_seconds": 542.0,
+    "text": "races and cultures the evidence is"
+  },
+  {
+    "start": "00:09:02.000",
+    "end": "00:09:03.670",
+    "start_seconds": 542.0,
+    "end_seconds": 543.67,
+    "text": "races and cultures the evidence is actually interesting because"
+  },
+  {
+    "start": "00:09:03.670",
+    "end": "00:09:03.680",
+    "start_seconds": 543.67,
+    "end_seconds": 543.68,
+    "text": "actually interesting because"
+  },
+  {
+    "start": "00:09:03.680",
+    "end": "00:09:05.990",
+    "start_seconds": 543.68,
+    "end_seconds": 545.99,
+    "text": "actually interesting because contrary to conventional wisdom there"
+  },
+  {
+    "start": "00:09:05.990",
+    "end": "00:09:06.000",
+    "start_seconds": 545.99,
+    "end_seconds": 546.0,
+    "text": "contrary to conventional wisdom there"
+  },
+  {
+    "start": "00:09:06.000",
+    "end": "00:09:08.070",
+    "start_seconds": 546.0,
+    "end_seconds": 548.07,
+    "text": "contrary to conventional wisdom there are no conservative cultures"
+  },
+  {
+    "start": "00:09:08.070",
+    "end": "00:09:08.080",
+    "start_seconds": 548.07,
+    "end_seconds": 548.08,
+    "text": "are no conservative cultures"
+  },
+  {
+    "start": "00:09:08.080",
+    "end": "00:09:10.389",
+    "start_seconds": 548.08,
+    "end_seconds": 550.389,
+    "text": "are no conservative cultures it looks like risk aversion is about the"
+  },
+  {
+    "start": "00:09:10.389",
+    "end": "00:09:10.399",
+    "start_seconds": 550.389,
+    "end_seconds": 550.399,
+    "text": "it looks like risk aversion is about the"
+  },
+  {
+    "start": "00:09:10.399",
+    "end": "00:09:12.470",
+    "start_seconds": 550.399,
+    "end_seconds": 552.47,
+    "text": "it looks like risk aversion is about the same across cultures across"
+  },
+  {
+    "start": "00:09:12.470",
+    "end": "00:09:12.480",
+    "start_seconds": 552.47,
+    "end_seconds": 552.48,
+    "text": "same across cultures across"
+  },
+  {
+    "start": "00:09:12.480",
+    "end": "00:09:15.269",
+    "start_seconds": 552.48,
+    "end_seconds": 555.269,
+    "text": "same across cultures across races people are more alike than they're"
+  },
+  {
+    "start": "00:09:15.269",
+    "end": "00:09:15.279",
+    "start_seconds": 555.269,
+    "end_seconds": 555.279,
+    "text": "races people are more alike than they're"
+  },
+  {
+    "start": "00:09:15.279",
+    "end": "00:09:16.790",
+    "start_seconds": 555.279,
+    "end_seconds": 556.79,
+    "text": "races people are more alike than they're different"
+  },
+  {
+    "start": "00:09:16.790",
+    "end": "00:09:16.800",
+    "start_seconds": 556.79,
+    "end_seconds": 556.8,
+    "text": "different"
+  },
+  {
+    "start": "00:09:16.800",
+    "end": "00:09:20.230",
+    "start_seconds": 556.8,
+    "end_seconds": 560.23,
+    "text": "different now that said over the last few decades"
+  },
+  {
+    "start": "00:09:20.230",
+    "end": "00:09:20.240",
+    "start_seconds": 560.23,
+    "end_seconds": 560.24,
+    "text": "now that said over the last few decades"
+  },
+  {
+    "start": "00:09:20.240",
+    "end": "00:09:22.470",
+    "start_seconds": 560.24,
+    "end_seconds": 562.47,
+    "text": "now that said over the last few decades especially in the last 35 to 40 years"
+  },
+  {
+    "start": "00:09:22.470",
+    "end": "00:09:22.480",
+    "start_seconds": 562.47,
+    "end_seconds": 562.48,
+    "text": "especially in the last 35 to 40 years"
+  },
+  {
+    "start": "00:09:22.480",
+    "end": "00:09:24.790",
+    "start_seconds": 562.48,
+    "end_seconds": 564.79,
+    "text": "especially in the last 35 to 40 years the area of behavioral finance has found"
+  },
+  {
+    "start": "00:09:24.790",
+    "end": "00:09:24.800",
+    "start_seconds": 564.79,
+    "end_seconds": 564.8,
+    "text": "the area of behavioral finance has found"
+  },
+  {
+    "start": "00:09:24.800",
+    "end": "00:09:26.710",
+    "start_seconds": 564.8,
+    "end_seconds": 566.71,
+    "text": "the area of behavioral finance has found that there are some quirks in the way we"
+  },
+  {
+    "start": "00:09:26.710",
+    "end": "00:09:26.720",
+    "start_seconds": 566.71,
+    "end_seconds": 566.72,
+    "text": "that there are some quirks in the way we"
+  },
+  {
+    "start": "00:09:26.720",
+    "end": "00:09:27.829",
+    "start_seconds": 566.72,
+    "end_seconds": 567.829,
+    "text": "that there are some quirks in the way we take risks"
+  },
+  {
+    "start": "00:09:27.829",
+    "end": "00:09:27.839",
+    "start_seconds": 567.829,
+    "end_seconds": 567.8389999999999,
+    "text": "take risks"
+  },
+  {
+    "start": "00:09:27.839",
+    "end": "00:09:30.710",
+    "start_seconds": 567.8389999999999,
+    "end_seconds": 570.71,
+    "text": "take risks the first is how you present a bet seems"
+  },
+  {
+    "start": "00:09:30.710",
+    "end": "00:09:30.720",
+    "start_seconds": 570.71,
+    "end_seconds": 570.72,
+    "text": "the first is how you present a bet seems"
+  },
+  {
+    "start": "00:09:30.720",
+    "end": "00:09:32.550",
+    "start_seconds": 570.72,
+    "end_seconds": 572.55,
+    "text": "the first is how you present a bet seems to make a difference in how people react"
+  },
+  {
+    "start": "00:09:32.550",
+    "end": "00:09:32.560",
+    "start_seconds": 572.55,
+    "end_seconds": 572.56,
+    "text": "to make a difference in how people react"
+  },
+  {
+    "start": "00:09:32.560",
+    "end": "00:09:34.630",
+    "start_seconds": 572.56,
+    "end_seconds": 574.63,
+    "text": "to make a difference in how people react to it let me give you an example"
+  },
+  {
+    "start": "00:09:34.630",
+    "end": "00:09:34.640",
+    "start_seconds": 574.63,
+    "end_seconds": 574.64,
+    "text": "to it let me give you an example"
+  },
+  {
+    "start": "00:09:34.640",
+    "end": "00:09:37.030",
+    "start_seconds": 574.64,
+    "end_seconds": 577.03,
+    "text": "to it let me give you an example i said would you rather save 200 people"
+  },
+  {
+    "start": "00:09:37.030",
+    "end": "00:09:37.040",
+    "start_seconds": 577.03,
+    "end_seconds": 577.04,
+    "text": "i said would you rather save 200 people"
+  },
+  {
+    "start": "00:09:37.040",
+    "end": "00:09:38.710",
+    "start_seconds": 577.04,
+    "end_seconds": 578.71,
+    "text": "i said would you rather save 200 people out of 600 people"
+  },
+  {
+    "start": "00:09:38.710",
+    "end": "00:09:38.720",
+    "start_seconds": 578.71,
+    "end_seconds": 578.72,
+    "text": "out of 600 people"
+  },
+  {
+    "start": "00:09:38.720",
+    "end": "00:09:40.870",
+    "start_seconds": 578.72,
+    "end_seconds": 580.87,
+    "text": "out of 600 people or accept a one-third probability that"
+  },
+  {
+    "start": "00:09:40.870",
+    "end": "00:09:40.880",
+    "start_seconds": 580.87,
+    "end_seconds": 580.88,
+    "text": "or accept a one-third probability that"
+  },
+  {
+    "start": "00:09:40.880",
+    "end": "00:09:42.389",
+    "start_seconds": 580.88,
+    "end_seconds": 582.389,
+    "text": "or accept a one-third probability that everybody will be saved"
+  },
+  {
+    "start": "00:09:42.389",
+    "end": "00:09:42.399",
+    "start_seconds": 582.389,
+    "end_seconds": 582.399,
+    "text": "everybody will be saved"
+  },
+  {
+    "start": "00:09:42.399",
+    "end": "00:09:43.670",
+    "start_seconds": 582.399,
+    "end_seconds": 583.67,
+    "text": "everybody will be saved it's exactly the same thing"
+  },
+  {
+    "start": "00:09:43.670",
+    "end": "00:09:43.680",
+    "start_seconds": 583.67,
+    "end_seconds": 583.68,
+    "text": "it's exactly the same thing"
+  },
+  {
+    "start": "00:09:43.680",
+    "end": "00:09:45.829",
+    "start_seconds": 583.68,
+    "end_seconds": 585.829,
+    "text": "it's exactly the same thing mathematically but while the two"
+  },
+  {
+    "start": "00:09:45.829",
+    "end": "00:09:45.839",
+    "start_seconds": 585.829,
+    "end_seconds": 585.8389999999999,
+    "text": "mathematically but while the two"
+  },
+  {
+    "start": "00:09:45.839",
+    "end": "00:09:47.829",
+    "start_seconds": 585.8389999999999,
+    "end_seconds": 587.829,
+    "text": "mathematically but while the two statements are mathematically equivalent"
+  },
+  {
+    "start": "00:09:47.829",
+    "end": "00:09:47.839",
+    "start_seconds": 587.829,
+    "end_seconds": 587.8389999999999,
+    "text": "statements are mathematically equivalent"
+  },
+  {
+    "start": "00:09:47.839",
+    "end": "00:09:48.230",
+    "start_seconds": 587.8389999999999,
+    "end_seconds": 588.23,
+    "text": "statements are mathematically equivalent more"
+  },
+  {
+    "start": "00:09:48.230",
+    "end": "00:09:48.240",
+    "start_seconds": 588.23,
+    "end_seconds": 588.24,
+    "text": "more"
+  },
+  {
+    "start": "00:09:48.240",
+    "end": "00:09:50.550",
+    "start_seconds": 588.24,
+    "end_seconds": 590.55,
+    "text": "more people said they would prefer to save"
+  },
+  {
+    "start": "00:09:50.550",
+    "end": "00:09:50.560",
+    "start_seconds": 590.55,
+    "end_seconds": 590.56,
+    "text": "people said they would prefer to save"
+  },
+  {
+    "start": "00:09:50.560",
+    "end": "00:09:52.470",
+    "start_seconds": 590.56,
+    "end_seconds": 592.47,
+    "text": "people said they would prefer to save 200 out of 600 people"
+  },
+  {
+    "start": "00:09:52.470",
+    "end": "00:09:52.480",
+    "start_seconds": 592.47,
+    "end_seconds": 592.48,
+    "text": "200 out of 600 people"
+  },
+  {
+    "start": "00:09:52.480",
+    "end": "00:09:54.310",
+    "start_seconds": 592.48,
+    "end_seconds": 594.31,
+    "text": "200 out of 600 people then accept a one-third probability that"
+  },
+  {
+    "start": "00:09:54.310",
+    "end": "00:09:54.320",
+    "start_seconds": 594.31,
+    "end_seconds": 594.32,
+    "text": "then accept a one-third probability that"
+  },
+  {
+    "start": "00:09:54.320",
+    "end": "00:09:56.310",
+    "start_seconds": 594.32,
+    "end_seconds": 596.31,
+    "text": "then accept a one-third probability that everybody will be saved"
+  },
+  {
+    "start": "00:09:56.310",
+    "end": "00:09:56.320",
+    "start_seconds": 596.31,
+    "end_seconds": 596.32,
+    "text": "everybody will be saved"
+  },
+  {
+    "start": "00:09:56.320",
+    "end": "00:09:58.150",
+    "start_seconds": 596.32,
+    "end_seconds": 598.15,
+    "text": "everybody will be saved here's the second choice would you"
+  },
+  {
+    "start": "00:09:58.150",
+    "end": "00:09:58.160",
+    "start_seconds": 598.15,
+    "end_seconds": 598.16,
+    "text": "here's the second choice would you"
+  },
+  {
+    "start": "00:09:58.160",
+    "end": "00:10:00.230",
+    "start_seconds": 598.16,
+    "end_seconds": 600.23,
+    "text": "here's the second choice would you rather take 750 dollars or"
+  },
+  {
+    "start": "00:10:00.230",
+    "end": "00:10:00.240",
+    "start_seconds": 600.23,
+    "end_seconds": 600.24,
+    "text": "rather take 750 dollars or"
+  },
+  {
+    "start": "00:10:00.240",
+    "end": "00:10:03.110",
+    "start_seconds": 600.24,
+    "end_seconds": 603.11,
+    "text": "rather take 750 dollars or 75 chance of winning thousands that's an"
+  },
+  {
+    "start": "00:10:03.110",
+    "end": "00:10:03.120",
+    "start_seconds": 603.11,
+    "end_seconds": 603.12,
+    "text": "75 chance of winning thousands that's an"
+  },
+  {
+    "start": "00:10:03.120",
+    "end": "00:10:04.710",
+    "start_seconds": 603.12,
+    "end_seconds": 604.71,
+    "text": "75 chance of winning thousands that's an easy one right because your risk averse"
+  },
+  {
+    "start": "00:10:04.710",
+    "end": "00:10:04.720",
+    "start_seconds": 604.71,
+    "end_seconds": 604.72,
+    "text": "easy one right because your risk averse"
+  },
+  {
+    "start": "00:10:04.720",
+    "end": "00:10:06.150",
+    "start_seconds": 604.72,
+    "end_seconds": 606.15,
+    "text": "easy one right because your risk averse you say i'll take the 750 it's"
+  },
+  {
+    "start": "00:10:06.150",
+    "end": "00:10:06.160",
+    "start_seconds": 606.15,
+    "end_seconds": 606.16,
+    "text": "you say i'll take the 750 it's"
+  },
+  {
+    "start": "00:10:06.160",
+    "end": "00:10:07.110",
+    "start_seconds": 606.16,
+    "end_seconds": 607.11,
+    "text": "you say i'll take the 750 it's guaranteed"
+  },
+  {
+    "start": "00:10:07.110",
+    "end": "00:10:07.120",
+    "start_seconds": 607.11,
+    "end_seconds": 607.12,
+    "text": "guaranteed"
+  },
+  {
+    "start": "00:10:07.120",
+    "end": "00:10:08.949",
+    "start_seconds": 607.12,
+    "end_seconds": 608.949,
+    "text": "guaranteed let me change the question a little bit"
+  },
+  {
+    "start": "00:10:08.949",
+    "end": "00:10:08.959",
+    "start_seconds": 608.949,
+    "end_seconds": 608.959,
+    "text": "let me change the question a little bit"
+  },
+  {
+    "start": "00:10:08.959",
+    "end": "00:10:12.069",
+    "start_seconds": 608.959,
+    "end_seconds": 612.069,
+    "text": "let me change the question a little bit would you rather lose 750 guaranteed"
+  },
+  {
+    "start": "00:10:12.069",
+    "end": "00:10:12.079",
+    "start_seconds": 612.069,
+    "end_seconds": 612.079,
+    "text": "would you rather lose 750 guaranteed"
+  },
+  {
+    "start": "00:10:12.079",
+    "end": "00:10:15.430",
+    "start_seconds": 612.079,
+    "end_seconds": 615.43,
+    "text": "would you rather lose 750 guaranteed or have a 75 chance of losing a thousand"
+  },
+  {
+    "start": "00:10:15.430",
+    "end": "00:10:15.440",
+    "start_seconds": 615.43,
+    "end_seconds": 615.44,
+    "text": "or have a 75 chance of losing a thousand"
+  },
+  {
+    "start": "00:10:15.440",
+    "end": "00:10:16.790",
+    "start_seconds": 615.44,
+    "end_seconds": 616.79,
+    "text": "or have a 75 chance of losing a thousand dollars"
+  },
+  {
+    "start": "00:10:16.790",
+    "end": "00:10:16.800",
+    "start_seconds": 616.79,
+    "end_seconds": 616.8,
+    "text": "dollars"
+  },
+  {
+    "start": "00:10:16.800",
+    "end": "00:10:19.670",
+    "start_seconds": 616.8,
+    "end_seconds": 619.67,
+    "text": "dollars here it looks like all more people"
+  },
+  {
+    "start": "00:10:19.670",
+    "end": "00:10:19.680",
+    "start_seconds": 619.67,
+    "end_seconds": 619.68,
+    "text": "here it looks like all more people"
+  },
+  {
+    "start": "00:10:19.680",
+    "end": "00:10:21.590",
+    "start_seconds": 619.68,
+    "end_seconds": 621.59,
+    "text": "here it looks like all more people prefer to have a 75"
+  },
+  {
+    "start": "00:10:21.590",
+    "end": "00:10:21.600",
+    "start_seconds": 621.59,
+    "end_seconds": 621.6,
+    "text": "prefer to have a 75"
+  },
+  {
+    "start": "00:10:21.600",
+    "end": "00:10:24.150",
+    "start_seconds": 621.6,
+    "end_seconds": 624.15,
+    "text": "prefer to have a 75 chance of losing a thousand rather than"
+  },
+  {
+    "start": "00:10:24.150",
+    "end": "00:10:24.160",
+    "start_seconds": 624.15,
+    "end_seconds": 624.16,
+    "text": "chance of losing a thousand rather than"
+  },
+  {
+    "start": "00:10:24.160",
+    "end": "00:10:25.430",
+    "start_seconds": 624.16,
+    "end_seconds": 625.43,
+    "text": "chance of losing a thousand rather than a guaranteed loss"
+  },
+  {
+    "start": "00:10:25.430",
+    "end": "00:10:25.440",
+    "start_seconds": 625.43,
+    "end_seconds": 625.44,
+    "text": "a guaranteed loss"
+  },
+  {
+    "start": "00:10:25.440",
+    "end": "00:10:28.069",
+    "start_seconds": 625.44,
+    "end_seconds": 628.069,
+    "text": "a guaranteed loss that's called loss version changing the"
+  },
+  {
+    "start": "00:10:28.069",
+    "end": "00:10:28.079",
+    "start_seconds": 628.069,
+    "end_seconds": 628.079,
+    "text": "that's called loss version changing the"
+  },
+  {
+    "start": "00:10:28.079",
+    "end": "00:10:28.470",
+    "start_seconds": 628.079,
+    "end_seconds": 628.47,
+    "text": "that's called loss version changing the sign"
+  },
+  {
+    "start": "00:10:28.470",
+    "end": "00:10:28.480",
+    "start_seconds": 628.47,
+    "end_seconds": 628.48,
+    "text": "sign"
+  },
+  {
+    "start": "00:10:28.480",
+    "end": "00:10:30.710",
+    "start_seconds": 628.48,
+    "end_seconds": 630.71,
+    "text": "sign seems to change the way we look at those"
+  },
+  {
+    "start": "00:10:30.710",
+    "end": "00:10:30.720",
+    "start_seconds": 630.71,
+    "end_seconds": 630.72,
+    "text": "seems to change the way we look at those"
+  },
+  {
+    "start": "00:10:30.720",
+    "end": "00:10:31.590",
+    "start_seconds": 630.72,
+    "end_seconds": 631.59,
+    "text": "seems to change the way we look at those bets"
+  },
+  {
+    "start": "00:10:31.590",
+    "end": "00:10:31.600",
+    "start_seconds": 631.59,
+    "end_seconds": 631.6,
+    "text": "bets"
+  },
+  {
+    "start": "00:10:31.600",
+    "end": "00:10:32.710",
+    "start_seconds": 631.6,
+    "end_seconds": 632.71,
+    "text": "bets then you have this notion of what's"
+  },
+  {
+    "start": "00:10:32.710",
+    "end": "00:10:32.720",
+    "start_seconds": 632.71,
+    "end_seconds": 632.72,
+    "text": "then you have this notion of what's"
+  },
+  {
+    "start": "00:10:32.720",
+    "end": "00:10:34.870",
+    "start_seconds": 632.72,
+    "end_seconds": 634.87,
+    "text": "then you have this notion of what's called myopic loss aversion and what"
+  },
+  {
+    "start": "00:10:34.870",
+    "end": "00:10:34.880",
+    "start_seconds": 634.87,
+    "end_seconds": 634.88,
+    "text": "called myopic loss aversion and what"
+  },
+  {
+    "start": "00:10:34.880",
+    "end": "00:10:36.150",
+    "start_seconds": 634.88,
+    "end_seconds": 636.15,
+    "text": "called myopic loss aversion and what that effectively means is"
+  },
+  {
+    "start": "00:10:36.150",
+    "end": "00:10:36.160",
+    "start_seconds": 636.15,
+    "end_seconds": 636.16,
+    "text": "that effectively means is"
+  },
+  {
+    "start": "00:10:36.160",
+    "end": "00:10:39.269",
+    "start_seconds": 636.16,
+    "end_seconds": 639.269,
+    "text": "that effectively means is giving people more frequent feedback on"
+  },
+  {
+    "start": "00:10:39.269",
+    "end": "00:10:39.279",
+    "start_seconds": 639.269,
+    "end_seconds": 639.279,
+    "text": "giving people more frequent feedback on"
+  },
+  {
+    "start": "00:10:39.279",
+    "end": "00:10:39.750",
+    "start_seconds": 639.279,
+    "end_seconds": 639.75,
+    "text": "giving people more frequent feedback on what's"
+  },
+  {
+    "start": "00:10:39.750",
+    "end": "00:10:39.760",
+    "start_seconds": 639.75,
+    "end_seconds": 639.76,
+    "text": "what's"
+  },
+  {
+    "start": "00:10:39.760",
+    "end": "00:10:41.990",
+    "start_seconds": 639.76,
+    "end_seconds": 641.99,
+    "text": "what's happening to their bets and investments"
+  },
+  {
+    "start": "00:10:41.990",
+    "end": "00:10:42.000",
+    "start_seconds": 641.99,
+    "end_seconds": 642.0,
+    "text": "happening to their bets and investments"
+  },
+  {
+    "start": "00:10:42.000",
+    "end": "00:10:43.990",
+    "start_seconds": 642.0,
+    "end_seconds": 643.99,
+    "text": "happening to their bets and investments seems to make them more risk-averse"
+  },
+  {
+    "start": "00:10:43.990",
+    "end": "00:10:44.000",
+    "start_seconds": 643.99,
+    "end_seconds": 644.0,
+    "text": "seems to make them more risk-averse"
+  },
+  {
+    "start": "00:10:44.000",
+    "end": "00:10:45.670",
+    "start_seconds": 644.0,
+    "end_seconds": 645.67,
+    "text": "seems to make them more risk-averse something to keep in mind an age where"
+  },
+  {
+    "start": "00:10:45.670",
+    "end": "00:10:45.680",
+    "start_seconds": 645.67,
+    "end_seconds": 645.68,
+    "text": "something to keep in mind an age where"
+  },
+  {
+    "start": "00:10:45.680",
+    "end": "00:10:47.910",
+    "start_seconds": 645.68,
+    "end_seconds": 647.91,
+    "text": "something to keep in mind an age where we get feedback continuously about"
+  },
+  {
+    "start": "00:10:47.910",
+    "end": "00:10:47.920",
+    "start_seconds": 647.91,
+    "end_seconds": 647.92,
+    "text": "we get feedback continuously about"
+  },
+  {
+    "start": "00:10:47.920",
+    "end": "00:10:50.389",
+    "start_seconds": 647.92,
+    "end_seconds": 650.389,
+    "text": "we get feedback continuously about what's happening to our portfolios"
+  },
+  {
+    "start": "00:10:50.389",
+    "end": "00:10:50.399",
+    "start_seconds": 650.389,
+    "end_seconds": 650.399,
+    "text": "what's happening to our portfolios"
+  },
+  {
+    "start": "00:10:50.399",
+    "end": "00:10:51.990",
+    "start_seconds": 650.399,
+    "end_seconds": 651.99,
+    "text": "what's happening to our portfolios here's something that shouldn't surprise"
+  },
+  {
+    "start": "00:10:51.990",
+    "end": "00:10:52.000",
+    "start_seconds": 651.99,
+    "end_seconds": 652.0,
+    "text": "here's something that shouldn't surprise"
+  },
+  {
+    "start": "00:10:52.000",
+    "end": "00:10:54.389",
+    "start_seconds": 652.0,
+    "end_seconds": 654.389,
+    "text": "here's something that shouldn't surprise you people are more willing to take"
+  },
+  {
+    "start": "00:10:54.389",
+    "end": "00:10:54.399",
+    "start_seconds": 654.389,
+    "end_seconds": 654.399,
+    "text": "you people are more willing to take"
+  },
+  {
+    "start": "00:10:54.399",
+    "end": "00:10:57.030",
+    "start_seconds": 654.399,
+    "end_seconds": 657.03,
+    "text": "you people are more willing to take big risky bets with other people's money"
+  },
+  {
+    "start": "00:10:57.030",
+    "end": "00:10:57.040",
+    "start_seconds": 657.03,
+    "end_seconds": 657.04,
+    "text": "big risky bets with other people's money"
+  },
+  {
+    "start": "00:10:57.040",
+    "end": "00:10:58.870",
+    "start_seconds": 657.04,
+    "end_seconds": 658.87,
+    "text": "big risky bets with other people's money than with their own money with house"
+  },
+  {
+    "start": "00:10:58.870",
+    "end": "00:10:58.880",
+    "start_seconds": 658.87,
+    "end_seconds": 658.88,
+    "text": "than with their own money with house"
+  },
+  {
+    "start": "00:10:58.880",
+    "end": "00:10:59.509",
+    "start_seconds": 658.88,
+    "end_seconds": 659.509,
+    "text": "than with their own money with house money"
+  },
+  {
+    "start": "00:10:59.509",
+    "end": "00:10:59.519",
+    "start_seconds": 659.509,
+    "end_seconds": 659.519,
+    "text": "money"
+  },
+  {
+    "start": "00:10:59.519",
+    "end": "00:11:01.670",
+    "start_seconds": 659.519,
+    "end_seconds": 661.67,
+    "text": "money than with their own money and that's"
+  },
+  {
+    "start": "00:11:01.670",
+    "end": "00:11:01.680",
+    "start_seconds": 661.67,
+    "end_seconds": 661.68,
+    "text": "than with their own money and that's"
+  },
+  {
+    "start": "00:11:01.680",
+    "end": "00:11:04.230",
+    "start_seconds": 661.68,
+    "end_seconds": 664.23,
+    "text": "than with their own money and that's basically something that comes from i"
+  },
+  {
+    "start": "00:11:04.230",
+    "end": "00:11:04.240",
+    "start_seconds": 664.23,
+    "end_seconds": 664.24,
+    "text": "basically something that comes from i"
+  },
+  {
+    "start": "00:11:04.240",
+    "end": "00:11:05.590",
+    "start_seconds": 664.24,
+    "end_seconds": 665.59,
+    "text": "basically something that comes from i think within"
+  },
+  {
+    "start": "00:11:05.590",
+    "end": "00:11:05.600",
+    "start_seconds": 665.59,
+    "end_seconds": 665.6,
+    "text": "think within"
+  },
+  {
+    "start": "00:11:05.600",
+    "end": "00:11:08.230",
+    "start_seconds": 665.6,
+    "end_seconds": 668.23,
+    "text": "think within so if you if i if you come into a casino"
+  },
+  {
+    "start": "00:11:08.230",
+    "end": "00:11:08.240",
+    "start_seconds": 668.23,
+    "end_seconds": 668.24,
+    "text": "so if you if i if you come into a casino"
+  },
+  {
+    "start": "00:11:08.240",
+    "end": "00:11:10.470",
+    "start_seconds": 668.24,
+    "end_seconds": 670.47,
+    "text": "so if you if i if you come into a casino now i hand you money at the door even"
+  },
+  {
+    "start": "00:11:10.470",
+    "end": "00:11:10.480",
+    "start_seconds": 670.47,
+    "end_seconds": 670.48,
+    "text": "now i hand you money at the door even"
+  },
+  {
+    "start": "00:11:10.480",
+    "end": "00:11:11.910",
+    "start_seconds": 670.48,
+    "end_seconds": 671.91,
+    "text": "now i hand you money at the door even though it's now your money"
+  },
+  {
+    "start": "00:11:11.910",
+    "end": "00:11:11.920",
+    "start_seconds": 671.91,
+    "end_seconds": 671.92,
+    "text": "though it's now your money"
+  },
+  {
+    "start": "00:11:11.920",
+    "end": "00:11:13.829",
+    "start_seconds": 671.92,
+    "end_seconds": 673.829,
+    "text": "though it's now your money the fact that i handed you the money"
+  },
+  {
+    "start": "00:11:13.829",
+    "end": "00:11:13.839",
+    "start_seconds": 673.829,
+    "end_seconds": 673.839,
+    "text": "the fact that i handed you the money"
+  },
+  {
+    "start": "00:11:13.839",
+    "end": "00:11:15.509",
+    "start_seconds": 673.839,
+    "end_seconds": 675.509,
+    "text": "the fact that i handed you the money rather than it being money that you"
+  },
+  {
+    "start": "00:11:15.509",
+    "end": "00:11:15.519",
+    "start_seconds": 675.509,
+    "end_seconds": 675.519,
+    "text": "rather than it being money that you"
+  },
+  {
+    "start": "00:11:15.519",
+    "end": "00:11:15.990",
+    "start_seconds": 675.519,
+    "end_seconds": 675.99,
+    "text": "rather than it being money that you earned"
+  },
+  {
+    "start": "00:11:15.990",
+    "end": "00:11:16.000",
+    "start_seconds": 675.99,
+    "end_seconds": 676.0,
+    "text": "earned"
+  },
+  {
+    "start": "00:11:16.000",
+    "end": "00:11:17.750",
+    "start_seconds": 676.0,
+    "end_seconds": 677.75,
+    "text": "earned makes a difference in how you bet with"
+  },
+  {
+    "start": "00:11:17.750",
+    "end": "00:11:17.760",
+    "start_seconds": 677.75,
+    "end_seconds": 677.76,
+    "text": "makes a difference in how you bet with"
+  },
+  {
+    "start": "00:11:17.760",
+    "end": "00:11:19.030",
+    "start_seconds": 677.76,
+    "end_seconds": 679.03,
+    "text": "makes a difference in how you bet with that money"
+  },
+  {
+    "start": "00:11:19.030",
+    "end": "00:11:19.040",
+    "start_seconds": 679.03,
+    "end_seconds": 679.04,
+    "text": "that money"
+  },
+  {
+    "start": "00:11:19.040",
+    "end": "00:11:20.310",
+    "start_seconds": 679.04,
+    "end_seconds": 680.31,
+    "text": "that money and finally here's an interesting"
+  },
+  {
+    "start": "00:11:20.310",
+    "end": "00:11:20.320",
+    "start_seconds": 680.31,
+    "end_seconds": 680.32,
+    "text": "and finally here's an interesting"
+  },
+  {
+    "start": "00:11:20.320",
+    "end": "00:11:22.630",
+    "start_seconds": 680.32,
+    "end_seconds": 682.63,
+    "text": "and finally here's an interesting phenomenon when people"
+  },
+  {
+    "start": "00:11:22.630",
+    "end": "00:11:22.640",
+    "start_seconds": 682.63,
+    "end_seconds": 682.64,
+    "text": "phenomenon when people"
+  },
+  {
+    "start": "00:11:22.640",
+    "end": "00:11:24.550",
+    "start_seconds": 682.64,
+    "end_seconds": 684.55,
+    "text": "phenomenon when people lose money on bets when they lose money"
+  },
+  {
+    "start": "00:11:24.550",
+    "end": "00:11:24.560",
+    "start_seconds": 684.55,
+    "end_seconds": 684.56,
+    "text": "lose money on bets when they lose money"
+  },
+  {
+    "start": "00:11:24.560",
+    "end": "00:11:25.750",
+    "start_seconds": 684.56,
+    "end_seconds": 685.75,
+    "text": "lose money on bets when they lose money in casinos it"
+  },
+  {
+    "start": "00:11:25.750",
+    "end": "00:11:25.760",
+    "start_seconds": 685.75,
+    "end_seconds": 685.76,
+    "text": "in casinos it"
+  },
+  {
+    "start": "00:11:25.760",
+    "end": "00:11:28.710",
+    "start_seconds": 685.76,
+    "end_seconds": 688.71,
+    "text": "in casinos it looks like they get less risk of us in"
+  },
+  {
+    "start": "00:11:28.710",
+    "end": "00:11:28.720",
+    "start_seconds": 688.71,
+    "end_seconds": 688.72,
+    "text": "looks like they get less risk of us in"
+  },
+  {
+    "start": "00:11:28.720",
+    "end": "00:11:29.430",
+    "start_seconds": 688.72,
+    "end_seconds": 689.43,
+    "text": "looks like they get less risk of us in trying to get"
+  },
+  {
+    "start": "00:11:29.430",
+    "end": "00:11:29.440",
+    "start_seconds": 689.43,
+    "end_seconds": 689.44,
+    "text": "trying to get"
+  },
+  {
+    "start": "00:11:29.440",
+    "end": "00:11:31.829",
+    "start_seconds": 689.44,
+    "end_seconds": 691.829,
+    "text": "trying to get back to break even in other words they"
+  },
+  {
+    "start": "00:11:31.829",
+    "end": "00:11:31.839",
+    "start_seconds": 691.829,
+    "end_seconds": 691.8389999999999,
+    "text": "back to break even in other words they"
+  },
+  {
+    "start": "00:11:31.839",
+    "end": "00:11:33.670",
+    "start_seconds": 691.8389999999999,
+    "end_seconds": 693.67,
+    "text": "back to break even in other words they start taking bigger and bigger risks"
+  },
+  {
+    "start": "00:11:33.670",
+    "end": "00:11:33.680",
+    "start_seconds": 693.67,
+    "end_seconds": 693.68,
+    "text": "start taking bigger and bigger risks"
+  },
+  {
+    "start": "00:11:33.680",
+    "end": "00:11:36.069",
+    "start_seconds": 693.68,
+    "end_seconds": 696.069,
+    "text": "start taking bigger and bigger risks just to get back to breakeven"
+  },
+  {
+    "start": "00:11:36.069",
+    "end": "00:11:36.079",
+    "start_seconds": 696.069,
+    "end_seconds": 696.079,
+    "text": "just to get back to breakeven"
+  },
+  {
+    "start": "00:11:36.079",
+    "end": "00:11:37.910",
+    "start_seconds": 696.079,
+    "end_seconds": 697.91,
+    "text": "just to get back to breakeven something that every casino knows but"
+  },
+  {
+    "start": "00:11:37.910",
+    "end": "00:11:37.920",
+    "start_seconds": 697.91,
+    "end_seconds": 697.92,
+    "text": "something that every casino knows but"
+  },
+  {
+    "start": "00:11:37.920",
+    "end": "00:11:39.590",
+    "start_seconds": 697.92,
+    "end_seconds": 699.59,
+    "text": "something that every casino knows but something to keep in mind"
+  },
+  {
+    "start": "00:11:39.590",
+    "end": "00:11:39.600",
+    "start_seconds": 699.59,
+    "end_seconds": 699.6,
+    "text": "something to keep in mind"
+  },
+  {
+    "start": "00:11:39.600",
+    "end": "00:11:42.550",
+    "start_seconds": 699.6,
+    "end_seconds": 702.55,
+    "text": "something to keep in mind these are things that go against classic"
+  },
+  {
+    "start": "00:11:42.550",
+    "end": "00:11:42.560",
+    "start_seconds": 702.55,
+    "end_seconds": 702.56,
+    "text": "these are things that go against classic"
+  },
+  {
+    "start": "00:11:42.560",
+    "end": "00:11:44.870",
+    "start_seconds": 702.56,
+    "end_seconds": 704.87,
+    "text": "these are things that go against classic economics in terms of risk aversion"
+  },
+  {
+    "start": "00:11:44.870",
+    "end": "00:11:44.880",
+    "start_seconds": 704.87,
+    "end_seconds": 704.88,
+    "text": "economics in terms of risk aversion"
+  },
+  {
+    "start": "00:11:44.880",
+    "end": "00:11:46.949",
+    "start_seconds": 704.88,
+    "end_seconds": 706.949,
+    "text": "economics in terms of risk aversion but this is what behavioral finances"
+  },
+  {
+    "start": "00:11:46.949",
+    "end": "00:11:46.959",
+    "start_seconds": 706.949,
+    "end_seconds": 706.9590000000001,
+    "text": "but this is what behavioral finances"
+  },
+  {
+    "start": "00:11:46.959",
+    "end": "00:11:47.910",
+    "start_seconds": 706.9590000000001,
+    "end_seconds": 707.91,
+    "text": "but this is what behavioral finances brought to the table"
+  },
+  {
+    "start": "00:11:47.910",
+    "end": "00:11:47.920",
+    "start_seconds": 707.91,
+    "end_seconds": 707.92,
+    "text": "brought to the table"
+  },
+  {
+    "start": "00:11:47.920",
+    "end": "00:11:50.629",
+    "start_seconds": 707.92,
+    "end_seconds": 710.629,
+    "text": "brought to the table but in summary here's what we've learned"
+  },
+  {
+    "start": "00:11:50.629",
+    "end": "00:11:50.639",
+    "start_seconds": 710.629,
+    "end_seconds": 710.639,
+    "text": "but in summary here's what we've learned"
+  },
+  {
+    "start": "00:11:50.639",
+    "end": "00:11:51.030",
+    "start_seconds": 710.639,
+    "end_seconds": 711.03,
+    "text": "but in summary here's what we've learned about"
+  },
+  {
+    "start": "00:11:51.030",
+    "end": "00:11:51.040",
+    "start_seconds": 711.03,
+    "end_seconds": 711.04,
+    "text": "about"
+  },
+  {
+    "start": "00:11:51.040",
+    "end": "00:11:52.870",
+    "start_seconds": 711.04,
+    "end_seconds": 712.87,
+    "text": "about ourselves and risk aversion that we're"
+  },
+  {
+    "start": "00:11:52.870",
+    "end": "00:11:52.880",
+    "start_seconds": 712.87,
+    "end_seconds": 712.88,
+    "text": "ourselves and risk aversion that we're"
+  },
+  {
+    "start": "00:11:52.880",
+    "end": "00:11:54.629",
+    "start_seconds": 712.88,
+    "end_seconds": 714.629,
+    "text": "ourselves and risk aversion that we're collectively risk-averse"
+  },
+  {
+    "start": "00:11:54.629",
+    "end": "00:11:54.639",
+    "start_seconds": 714.629,
+    "end_seconds": 714.639,
+    "text": "collectively risk-averse"
+  },
+  {
+    "start": "00:11:54.639",
+    "end": "00:11:56.949",
+    "start_seconds": 714.639,
+    "end_seconds": 716.949,
+    "text": "collectively risk-averse that we're more so when we have big"
+  },
+  {
+    "start": "00:11:56.949",
+    "end": "00:11:56.959",
+    "start_seconds": 716.949,
+    "end_seconds": 716.9590000000001,
+    "text": "that we're more so when we have big"
+  },
+  {
+    "start": "00:11:56.959",
+    "end": "00:11:58.389",
+    "start_seconds": 716.9590000000001,
+    "end_seconds": 718.389,
+    "text": "that we're more so when we have big stakes and we're small there are"
+  },
+  {
+    "start": "00:11:58.389",
+    "end": "00:11:58.399",
+    "start_seconds": 718.389,
+    "end_seconds": 718.399,
+    "text": "stakes and we're small there are"
+  },
+  {
+    "start": "00:11:58.399",
+    "end": "00:12:00.310",
+    "start_seconds": 718.399,
+    "end_seconds": 720.31,
+    "text": "stakes and we're small there are differences in risk aversion across"
+  },
+  {
+    "start": "00:12:00.310",
+    "end": "00:12:00.320",
+    "start_seconds": 720.31,
+    "end_seconds": 720.32,
+    "text": "differences in risk aversion across"
+  },
+  {
+    "start": "00:12:00.320",
+    "end": "00:12:02.790",
+    "start_seconds": 720.32,
+    "end_seconds": 722.79,
+    "text": "differences in risk aversion across groups of people males females here but"
+  },
+  {
+    "start": "00:12:02.790",
+    "end": "00:12:02.800",
+    "start_seconds": 722.79,
+    "end_seconds": 722.8,
+    "text": "groups of people males females here but"
+  },
+  {
+    "start": "00:12:02.800",
+    "end": "00:12:04.949",
+    "start_seconds": 722.8,
+    "end_seconds": 724.949,
+    "text": "groups of people males females here but those differences are far smaller than"
+  },
+  {
+    "start": "00:12:04.949",
+    "end": "00:12:04.959",
+    "start_seconds": 724.949,
+    "end_seconds": 724.959,
+    "text": "those differences are far smaller than"
+  },
+  {
+    "start": "00:12:04.959",
+    "end": "00:12:05.350",
+    "start_seconds": 724.959,
+    "end_seconds": 725.35,
+    "text": "those differences are far smaller than the"
+  },
+  {
+    "start": "00:12:05.350",
+    "end": "00:12:05.360",
+    "start_seconds": 725.35,
+    "end_seconds": 725.36,
+    "text": "the"
+  },
+  {
+    "start": "00:12:05.360",
+    "end": "00:12:07.829",
+    "start_seconds": 725.36,
+    "end_seconds": 727.829,
+    "text": "the what we share in common there are quirks"
+  },
+  {
+    "start": "00:12:07.829",
+    "end": "00:12:07.839",
+    "start_seconds": 727.829,
+    "end_seconds": 727.839,
+    "text": "what we share in common there are quirks"
+  },
+  {
+    "start": "00:12:07.839",
+    "end": "00:12:09.350",
+    "start_seconds": 727.839,
+    "end_seconds": 729.35,
+    "text": "what we share in common there are quirks in risk-taking behavior"
+  },
+  {
+    "start": "00:12:09.350",
+    "end": "00:12:09.360",
+    "start_seconds": 729.35,
+    "end_seconds": 729.36,
+    "text": "in risk-taking behavior"
+  },
+  {
+    "start": "00:12:09.360",
+    "end": "00:12:11.509",
+    "start_seconds": 729.36,
+    "end_seconds": 731.509,
+    "text": "in risk-taking behavior were far more affected by losses than"
+  },
+  {
+    "start": "00:12:11.509",
+    "end": "00:12:11.519",
+    "start_seconds": 731.509,
+    "end_seconds": 731.519,
+    "text": "were far more affected by losses than"
+  },
+  {
+    "start": "00:12:11.519",
+    "end": "00:12:13.430",
+    "start_seconds": 731.519,
+    "end_seconds": 733.43,
+    "text": "were far more affected by losses than equivalent gains that loss aversion"
+  },
+  {
+    "start": "00:12:13.430",
+    "end": "00:12:13.440",
+    "start_seconds": 733.43,
+    "end_seconds": 733.44,
+    "text": "equivalent gains that loss aversion"
+  },
+  {
+    "start": "00:12:13.440",
+    "end": "00:12:14.470",
+    "start_seconds": 733.44,
+    "end_seconds": 734.47,
+    "text": "equivalent gains that loss aversion kicks in"
+  },
+  {
+    "start": "00:12:14.470",
+    "end": "00:12:14.480",
+    "start_seconds": 734.47,
+    "end_seconds": 734.48,
+    "text": "kicks in"
+  },
+  {
+    "start": "00:12:14.480",
+    "end": "00:12:16.550",
+    "start_seconds": 734.48,
+    "end_seconds": 736.55,
+    "text": "kicks in and when presented with risky choices"
+  },
+  {
+    "start": "00:12:16.550",
+    "end": "00:12:16.560",
+    "start_seconds": 736.55,
+    "end_seconds": 736.56,
+    "text": "and when presented with risky choices"
+  },
+  {
+    "start": "00:12:16.560",
+    "end": "00:12:18.550",
+    "start_seconds": 736.56,
+    "end_seconds": 738.55,
+    "text": "and when presented with risky choices the way we're presented those choices"
+  },
+  {
+    "start": "00:12:18.550",
+    "end": "00:12:18.560",
+    "start_seconds": 738.55,
+    "end_seconds": 738.56,
+    "text": "the way we're presented those choices"
+  },
+  {
+    "start": "00:12:18.560",
+    "end": "00:12:20.470",
+    "start_seconds": 738.56,
+    "end_seconds": 740.47,
+    "text": "the way we're presented those choices seems to make a difference in whether we"
+  },
+  {
+    "start": "00:12:20.470",
+    "end": "00:12:20.480",
+    "start_seconds": 740.47,
+    "end_seconds": 740.48,
+    "text": "seems to make a difference in whether we"
+  },
+  {
+    "start": "00:12:20.480",
+    "end": "00:12:22.949",
+    "start_seconds": 740.48,
+    "end_seconds": 742.949,
+    "text": "seems to make a difference in whether we take those choices we're more willing to"
+  },
+  {
+    "start": "00:12:22.949",
+    "end": "00:12:22.959",
+    "start_seconds": 742.949,
+    "end_seconds": 742.959,
+    "text": "take those choices we're more willing to"
+  },
+  {
+    "start": "00:12:22.959",
+    "end": "00:12:23.990",
+    "start_seconds": 742.959,
+    "end_seconds": 743.99,
+    "text": "take those choices we're more willing to take risks with"
+  },
+  {
+    "start": "00:12:23.990",
+    "end": "00:12:24.000",
+    "start_seconds": 743.99,
+    "end_seconds": 744.0,
+    "text": "take risks with"
+  },
+  {
+    "start": "00:12:24.000",
+    "end": "00:12:26.470",
+    "start_seconds": 744.0,
+    "end_seconds": 746.47,
+    "text": "take risks with found money house money and finally"
+  },
+  {
+    "start": "00:12:26.470",
+    "end": "00:12:26.480",
+    "start_seconds": 746.47,
+    "end_seconds": 746.48,
+    "text": "found money house money and finally"
+  },
+  {
+    "start": "00:12:26.480",
+    "end": "00:12:29.269",
+    "start_seconds": 746.48,
+    "end_seconds": 749.269,
+    "text": "found money house money and finally there are two scenarios where we seem to"
+  },
+  {
+    "start": "00:12:29.269",
+    "end": "00:12:29.279",
+    "start_seconds": 749.269,
+    "end_seconds": 749.279,
+    "text": "there are two scenarios where we seem to"
+  },
+  {
+    "start": "00:12:29.279",
+    "end": "00:12:31.829",
+    "start_seconds": 749.279,
+    "end_seconds": 751.829,
+    "text": "there are two scenarios where we seem to abandon risk aversion and become risky"
+  },
+  {
+    "start": "00:12:31.829",
+    "end": "00:12:31.839",
+    "start_seconds": 751.829,
+    "end_seconds": 751.8389999999999,
+    "text": "abandon risk aversion and become risky"
+  },
+  {
+    "start": "00:12:31.839",
+    "end": "00:12:32.870",
+    "start_seconds": 751.8389999999999,
+    "end_seconds": 752.87,
+    "text": "abandon risk aversion and become risky one is"
+  },
+  {
+    "start": "00:12:32.870",
+    "end": "00:12:32.880",
+    "start_seconds": 752.87,
+    "end_seconds": 752.88,
+    "text": "one is"
+  },
+  {
+    "start": "00:12:32.880",
+    "end": "00:12:35.030",
+    "start_seconds": 752.88,
+    "end_seconds": 755.03,
+    "text": "one is when we see a chance of making a huge"
+  },
+  {
+    "start": "00:12:35.030",
+    "end": "00:12:35.040",
+    "start_seconds": 755.03,
+    "end_seconds": 755.04,
+    "text": "when we see a chance of making a huge"
+  },
+  {
+    "start": "00:12:35.040",
+    "end": "00:12:37.110",
+    "start_seconds": 755.04,
+    "end_seconds": 757.11,
+    "text": "when we see a chance of making a huge amount of money with a very small bet"
+  },
+  {
+    "start": "00:12:37.110",
+    "end": "00:12:37.120",
+    "start_seconds": 757.11,
+    "end_seconds": 757.12,
+    "text": "amount of money with a very small bet"
+  },
+  {
+    "start": "00:12:37.120",
+    "end": "00:12:40.150",
+    "start_seconds": 757.12,
+    "end_seconds": 760.15,
+    "text": "amount of money with a very small bet okay that explains you know the reason"
+  },
+  {
+    "start": "00:12:40.150",
+    "end": "00:12:40.160",
+    "start_seconds": 760.15,
+    "end_seconds": 760.16,
+    "text": "okay that explains you know the reason"
+  },
+  {
+    "start": "00:12:40.160",
+    "end": "00:12:41.190",
+    "start_seconds": 760.16,
+    "end_seconds": 761.19,
+    "text": "okay that explains you know the reason we take on"
+  },
+  {
+    "start": "00:12:41.190",
+    "end": "00:12:41.200",
+    "start_seconds": 761.19,
+    "end_seconds": 761.2,
+    "text": "we take on"
+  },
+  {
+    "start": "00:12:41.200",
+    "end": "00:12:43.350",
+    "start_seconds": 761.2,
+    "end_seconds": 763.35,
+    "text": "we take on you know we buy lottery tickets and the"
+  },
+  {
+    "start": "00:12:43.350",
+    "end": "00:12:43.360",
+    "start_seconds": 763.35,
+    "end_seconds": 763.36,
+    "text": "you know we buy lottery tickets and the"
+  },
+  {
+    "start": "00:12:43.360",
+    "end": "00:12:45.030",
+    "start_seconds": 763.36,
+    "end_seconds": 765.03,
+    "text": "you know we buy lottery tickets and the other is when you've lost money and"
+  },
+  {
+    "start": "00:12:45.030",
+    "end": "00:12:45.040",
+    "start_seconds": 765.03,
+    "end_seconds": 765.04,
+    "text": "other is when you've lost money and"
+  },
+  {
+    "start": "00:12:45.040",
+    "end": "00:12:46.790",
+    "start_seconds": 765.04,
+    "end_seconds": 766.79,
+    "text": "other is when you've lost money and you're trying to get back to break even"
+  },
+  {
+    "start": "00:12:46.790",
+    "end": "00:12:46.800",
+    "start_seconds": 766.79,
+    "end_seconds": 766.8,
+    "text": "you're trying to get back to break even"
+  },
+  {
+    "start": "00:12:46.800",
+    "end": "00:12:48.870",
+    "start_seconds": 766.8,
+    "end_seconds": 768.87,
+    "text": "you're trying to get back to break even we seem to abandon risk aversion"
+  },
+  {
+    "start": "00:12:48.870",
+    "end": "00:12:48.880",
+    "start_seconds": 768.87,
+    "end_seconds": 768.88,
+    "text": "we seem to abandon risk aversion"
+  },
+  {
+    "start": "00:12:48.880",
+    "end": "00:12:50.629",
+    "start_seconds": 768.88,
+    "end_seconds": 770.629,
+    "text": "we seem to abandon risk aversion so keep that in mind as we start"
+  },
+  {
+    "start": "00:12:50.629",
+    "end": "00:12:50.639",
+    "start_seconds": 770.629,
+    "end_seconds": 770.639,
+    "text": "so keep that in mind as we start"
+  },
+  {
+    "start": "00:12:50.639",
+    "end": "00:12:52.629",
+    "start_seconds": 770.639,
+    "end_seconds": 772.629,
+    "text": "so keep that in mind as we start developing risk models because this"
+  },
+  {
+    "start": "00:12:52.629",
+    "end": "00:12:52.639",
+    "start_seconds": 772.629,
+    "end_seconds": 772.639,
+    "text": "developing risk models because this"
+  },
+  {
+    "start": "00:12:52.639",
+    "end": "00:12:53.750",
+    "start_seconds": 772.639,
+    "end_seconds": 773.75,
+    "text": "developing risk models because this might explain"
+  },
+  {
+    "start": "00:12:53.750",
+    "end": "00:12:53.760",
+    "start_seconds": 773.75,
+    "end_seconds": 773.76,
+    "text": "might explain"
+  },
+  {
+    "start": "00:12:53.760",
+    "end": "00:12:56.629",
+    "start_seconds": 773.76,
+    "end_seconds": 776.629,
+    "text": "might explain why people behave the way they do and"
+  },
+  {
+    "start": "00:12:56.629",
+    "end": "00:12:56.639",
+    "start_seconds": 776.629,
+    "end_seconds": 776.639,
+    "text": "why people behave the way they do and"
+  },
+  {
+    "start": "00:12:56.639",
+    "end": "00:13:01.920",
+    "start_seconds": 776.639,
+    "end_seconds": 781.92,
+    "text": "why people behave the way they do and sometimes why they behave strangely"
+  }
+]

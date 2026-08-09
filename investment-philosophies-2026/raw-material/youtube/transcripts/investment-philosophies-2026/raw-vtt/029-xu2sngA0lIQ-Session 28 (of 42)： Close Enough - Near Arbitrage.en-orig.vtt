@@ -1,0 +1,4120 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:02.110 align:start position:0%
+ 
+Hi.<00:00:00.840><c> Welcome</c><00:00:01.160><c> back.</c>
+
+00:00:02.110 --> 00:00:02.120 align:start position:0%
+Hi. Welcome back.
+ 
+
+00:00:02.120 --> 00:00:03.790 align:start position:0%
+Hi. Welcome back.
+In<00:00:02.160><c> the</c><00:00:02.280><c> last</c><00:00:02.680><c> session,</c><00:00:03.280><c> we</c><00:00:03.440><c> looked</c><00:00:03.680><c> at</c>
+
+00:00:03.790 --> 00:00:03.800 align:start position:0%
+In the last session, we looked at
+ 
+
+00:00:03.800 --> 00:00:06.830 align:start position:0%
+In the last session, we looked at
+arbitrage,<00:00:04.720><c> where</c><00:00:04.920><c> two</c><00:00:05.200><c> assets</c><00:00:05.840><c> with</c><00:00:06.000><c> exactly</c>
+
+00:00:06.830 --> 00:00:06.840 align:start position:0%
+arbitrage, where two assets with exactly
+ 
+
+00:00:06.840 --> 00:00:09.110 align:start position:0%
+arbitrage, where two assets with exactly
+identical<00:00:07.440><c> cash</c><00:00:07.800><c> flows</c><00:00:08.360><c> trade</c><00:00:08.680><c> at</c><00:00:08.760><c> different</c>
+
+00:00:09.110 --> 00:00:09.120 align:start position:0%
+identical cash flows trade at different
+ 
+
+00:00:09.120 --> 00:00:11.310 align:start position:0%
+identical cash flows trade at different
+prices<00:00:09.600><c> and</c><00:00:09.680><c> you</c><00:00:09.720><c> lock</c><00:00:09.960><c> in</c><00:00:10.040><c> the</c><00:00:10.120><c> difference.</c>
+
+00:00:11.310 --> 00:00:11.320 align:start position:0%
+prices and you lock in the difference.
+ 
+
+00:00:11.320 --> 00:00:13.470 align:start position:0%
+prices and you lock in the difference.
+But<00:00:11.400><c> we</c><00:00:11.520><c> also</c><00:00:11.800><c> talked</c><00:00:12.080><c> about</c><00:00:12.320><c> how</c><00:00:12.680><c> it's</c><00:00:13.000><c> very</c>
+
+00:00:13.470 --> 00:00:13.480 align:start position:0%
+But we also talked about how it's very
+ 
+
+00:00:13.480 --> 00:00:15.270 align:start position:0%
+But we also talked about how it's very
+difficult<00:00:14.120><c> to</c><00:00:14.240><c> find,</c><00:00:14.640><c> and</c><00:00:14.760><c> even</c><00:00:15.000><c> when</c><00:00:15.120><c> you</c>
+
+00:00:15.270 --> 00:00:15.280 align:start position:0%
+difficult to find, and even when you
+ 
+
+00:00:15.280 --> 00:00:17.670 align:start position:0%
+difficult to find, and even when you
+find<00:00:15.680><c> it,</c><00:00:15.800><c> it</c><00:00:15.920><c> doesn't</c><00:00:16.280><c> last</c><00:00:16.560><c> that</c><00:00:16.760><c> long.</c>
+
+00:00:17.670 --> 00:00:17.680 align:start position:0%
+find it, it doesn't last that long.
+ 
+
+00:00:17.680 --> 00:00:19.310 align:start position:0%
+find it, it doesn't last that long.
+In<00:00:17.800><c> this</c><00:00:18.040><c> session,</c><00:00:18.640><c> I</c><00:00:18.720><c> want</c><00:00:18.920><c> to</c><00:00:18.960><c> look</c><00:00:19.080><c> at</c><00:00:19.160><c> what</c>
+
+00:00:19.310 --> 00:00:19.320 align:start position:0%
+In this session, I want to look at what
+ 
+
+00:00:19.320 --> 00:00:21.750 align:start position:0%
+In this session, I want to look at what
+I<00:00:19.360><c> call</c><00:00:19.720><c> near</c><00:00:20.080><c> arbitrage.</c><00:00:21.360><c> In</c><00:00:21.480><c> near</c>
+
+00:00:21.750 --> 00:00:21.760 align:start position:0%
+I call near arbitrage. In near
+ 
+
+00:00:21.760 --> 00:00:23.510 align:start position:0%
+I call near arbitrage. In near
+arbitrage,<00:00:22.320><c> what</c><00:00:22.480><c> you</c><00:00:22.560><c> have</c><00:00:22.680><c> are</c><00:00:22.760><c> two</c><00:00:23.040><c> assets</c>
+
+00:00:23.510 --> 00:00:23.520 align:start position:0%
+arbitrage, what you have are two assets
+ 
+
+00:00:23.520 --> 00:00:25.350 align:start position:0%
+arbitrage, what you have are two assets
+that<00:00:23.640><c> have</c><00:00:23.760><c> very</c><00:00:24.280><c> similar,</c><00:00:24.840><c> but</c><00:00:25.040><c> not</c>
+
+00:00:25.350 --> 00:00:25.360 align:start position:0%
+that have very similar, but not
+ 
+
+00:00:25.360 --> 00:00:27.230 align:start position:0%
+that have very similar, but not
+identical<00:00:26.000><c> cash</c><00:00:26.360><c> flows,</c><00:00:26.680><c> but</c><00:00:26.800><c> are</c><00:00:26.880><c> priced</c>
+
+00:00:27.230 --> 00:00:27.240 align:start position:0%
+identical cash flows, but are priced
+ 
+
+00:00:27.240 --> 00:00:29.750 align:start position:0%
+identical cash flows, but are priced
+differently.<00:00:28.480><c> So</c><00:00:28.560><c> it's</c><00:00:28.720><c> not</c><00:00:28.960><c> quite</c><00:00:29.320><c> riskless,</c>
+
+00:00:29.750 --> 00:00:29.760 align:start position:0%
+differently. So it's not quite riskless,
+ 
+
+00:00:29.760 --> 00:00:31.710 align:start position:0%
+differently. So it's not quite riskless,
+but<00:00:29.920><c> it's</c><00:00:30.040><c> very</c><00:00:30.480><c> close</c><00:00:30.880><c> to</c><00:00:31.040><c> riskless,</c><00:00:31.520><c> and</c><00:00:31.600><c> you</c>
+
+00:00:31.710 --> 00:00:31.720 align:start position:0%
+but it's very close to riskless, and you
+ 
+
+00:00:31.720 --> 00:00:34.270 align:start position:0%
+but it's very close to riskless, and you
+hope<00:00:32.080><c> to</c><00:00:32.200><c> make</c><00:00:32.560><c> a</c><00:00:32.640><c> profit</c><00:00:33.280><c> that</c><00:00:33.520><c> covers</c><00:00:34.000><c> even</c>
+
+00:00:34.270 --> 00:00:34.280 align:start position:0%
+hope to make a profit that covers even
+ 
+
+00:00:34.280 --> 00:00:36.070 align:start position:0%
+hope to make a profit that covers even
+that<00:00:34.520><c> mild</c><00:00:34.840><c> risk.</c>
+
+00:00:36.070 --> 00:00:36.080 align:start position:0%
+that mild risk.
+ 
+
+00:00:36.080 --> 00:00:38.110 align:start position:0%
+that mild risk.
+So<00:00:36.120><c> as</c><00:00:36.200><c> an</c><00:00:36.320><c> example</c><00:00:36.800><c> of</c><00:00:36.920><c> near</c><00:00:37.160><c> arbitrage,</c>
+
+00:00:38.110 --> 00:00:38.120 align:start position:0%
+So as an example of near arbitrage,
+ 
+
+00:00:38.120 --> 00:00:39.910 align:start position:0%
+So as an example of near arbitrage,
+let's<00:00:38.320><c> take</c><00:00:38.480><c> a</c><00:00:38.520><c> simple</c><00:00:38.920><c> one.</c>
+
+00:00:39.910 --> 00:00:39.920 align:start position:0%
+let's take a simple one.
+ 
+
+00:00:39.920 --> 00:00:41.950 align:start position:0%
+let's take a simple one.
+Let's<00:00:40.160><c> assume</c><00:00:40.520><c> you</c><00:00:40.600><c> have</c><00:00:40.760><c> the</c><00:00:40.880><c> same</c><00:00:41.360><c> stock</c>
+
+00:00:41.950 --> 00:00:41.960 align:start position:0%
+Let's assume you have the same stock
+ 
+
+00:00:41.960 --> 00:00:44.230 align:start position:0%
+Let's assume you have the same stock
+listed<00:00:42.480><c> in</c><00:00:42.600><c> multiple</c><00:00:43.080><c> markets,</c><00:00:43.760><c> the</c><00:00:43.880><c> New</c><00:00:44.000><c> York</c>
+
+00:00:44.230 --> 00:00:44.240 align:start position:0%
+listed in multiple markets, the New York
+ 
+
+00:00:44.240 --> 00:00:46.950 align:start position:0%
+listed in multiple markets, the New York
+Stock<00:00:44.600><c> Exchange</c><00:00:45.160><c> and</c><00:00:45.280><c> the</c><00:00:45.400><c> London</c><00:00:45.720><c> Exchange.</c>
+
+00:00:46.950 --> 00:00:46.960 align:start position:0%
+Stock Exchange and the London Exchange.
+ 
+
+00:00:46.960 --> 00:00:49.190 align:start position:0%
+Stock Exchange and the London Exchange.
+They<00:00:47.040><c> trade</c><00:00:47.400><c> at</c><00:00:47.480><c> the</c><00:00:47.560><c> same</c><00:00:47.880><c> price,</c>
+
+00:00:49.190 --> 00:00:49.200 align:start position:0%
+They trade at the same price,
+ 
+
+00:00:49.200 --> 00:00:51.030 align:start position:0%
+They trade at the same price,
+and<00:00:49.320><c> you'd</c><00:00:49.440><c> expect</c><00:00:49.840><c> them</c><00:00:50.000><c> to.</c>
+
+00:00:51.030 --> 00:00:51.040 align:start position:0%
+and you'd expect them to.
+ 
+
+00:00:51.040 --> 00:00:53.190 align:start position:0%
+and you'd expect them to.
+But<00:00:51.200><c> if</c><00:00:51.360><c> they</c><00:00:51.480><c> trade</c><00:00:51.800><c> at</c><00:00:51.920><c> different</c><00:00:52.400><c> prices,</c>
+
+00:00:53.190 --> 00:00:53.200 align:start position:0%
+But if they trade at different prices,
+ 
+
+00:00:53.200 --> 00:00:55.870 align:start position:0%
+But if they trade at different prices,
+you<00:00:53.360><c> could</c><00:00:53.600><c> buy</c><00:00:53.880><c> the</c><00:00:54.040><c> stock</c><00:00:54.440><c> in</c><00:00:54.600><c> one</c><00:00:54.800><c> exchange</c>
+
+00:00:55.870 --> 00:00:55.880 align:start position:0%
+you could buy the stock in one exchange
+ 
+
+00:00:55.880 --> 00:00:57.910 align:start position:0%
+you could buy the stock in one exchange
+at<00:00:56.000><c> the</c><00:00:56.120><c> lower</c><00:00:56.400><c> price,</c><00:00:56.840><c> sell</c><00:00:57.080><c> it</c><00:00:57.240><c> at</c><00:00:57.360><c> exactly</c>
+
+00:00:57.910 --> 00:00:57.920 align:start position:0%
+at the lower price, sell it at exactly
+ 
+
+00:00:57.920 --> 00:01:00.030 align:start position:0%
+at the lower price, sell it at exactly
+the<00:00:58.080><c> same</c><00:00:58.440><c> time</c><00:00:58.680><c> at</c><00:00:58.800><c> the</c><00:00:58.920><c> higher</c><00:00:59.200><c> price,</c><00:00:59.640><c> lock</c>
+
+00:01:00.030 --> 00:01:00.040 align:start position:0%
+the same time at the higher price, lock
+ 
+
+00:01:00.040 --> 00:01:01.590 align:start position:0%
+the same time at the higher price, lock
+in<00:01:00.440><c> the</c><00:01:00.560><c> difference.</c>
+
+00:01:01.590 --> 00:01:01.600 align:start position:0%
+in the difference.
+ 
+
+00:01:01.600 --> 00:01:02.910 align:start position:0%
+in the difference.
+So<00:01:01.720><c> there</c><00:01:01.840><c> are</c><00:01:01.880><c> two</c><00:01:02.040><c> scenarios</c><00:01:02.680><c> where</c><00:01:02.800><c> this</c>
+
+00:01:02.910 --> 00:01:02.920 align:start position:0%
+So there are two scenarios where this
+ 
+
+00:01:02.920 --> 00:01:04.590 align:start position:0%
+So there are two scenarios where this
+can<00:01:03.080><c> happen.</c><00:01:03.480><c> One</c><00:01:03.760><c> is</c><00:01:03.880><c> when</c><00:01:04.000><c> you</c><00:01:04.080><c> have</c><00:01:04.239><c> dual</c><00:01:04.519><c> or</c>
+
+00:01:04.590 --> 00:01:04.600 align:start position:0%
+can happen. One is when you have dual or
+ 
+
+00:01:04.600 --> 00:01:06.550 align:start position:0%
+can happen. One is when you have dual or
+multiple<00:01:05.080><c> listed</c><00:01:05.519><c> stocks,</c><00:01:05.920><c> and</c><00:01:06.040><c> I'll</c><00:01:06.160><c> start</c>
+
+00:01:06.550 --> 00:01:06.560 align:start position:0%
+multiple listed stocks, and I'll start
+ 
+
+00:01:06.560 --> 00:01:07.630 align:start position:0%
+multiple listed stocks, and I'll start
+with<00:01:06.680><c> that.</c>
+
+00:01:07.630 --> 00:01:07.640 align:start position:0%
+with that.
+ 
+
+00:01:07.640 --> 00:01:10.150 align:start position:0%
+with that.
+And<00:01:07.760><c> the</c><00:01:07.880><c> second</c><00:01:08.360><c> is</c><00:01:08.560><c> a</c><00:01:08.640><c> more</c><00:01:08.840><c> complex</c><00:01:09.480><c> example</c>
+
+00:01:10.150 --> 00:01:10.160 align:start position:0%
+And the second is a more complex example
+ 
+
+00:01:10.160 --> 00:01:12.030 align:start position:0%
+And the second is a more complex example
+of<00:01:10.320><c> depository</c><00:01:11.320><c> receipts.</c><00:01:11.840><c> What</c><00:01:11.960><c> are</c>
+
+00:01:12.030 --> 00:01:12.040 align:start position:0%
+of depository receipts. What are
+ 
+
+00:01:12.040 --> 00:01:14.710 align:start position:0%
+of depository receipts. What are
+depository<00:01:12.720><c> receipts?</c><00:01:13.720><c> This</c><00:01:13.960><c> is</c><00:01:14.120><c> a</c><00:01:14.200><c> foreign</c>
+
+00:01:14.710 --> 00:01:14.720 align:start position:0%
+depository receipts? This is a foreign
+ 
+
+00:01:14.720 --> 00:01:16.790 align:start position:0%
+depository receipts? This is a foreign
+stock<00:01:15.160><c> that</c><00:01:15.360><c> gets</c><00:01:15.800><c> listed,</c><00:01:16.280><c> let's</c><00:01:16.480><c> say</c><00:01:16.560><c> in</c><00:01:16.680><c> the</c>
+
+00:01:16.790 --> 00:01:16.800 align:start position:0%
+stock that gets listed, let's say in the
+ 
+
+00:01:16.800 --> 00:01:19.950 align:start position:0%
+stock that gets listed, let's say in the
+US<00:01:17.200><c> market.</c><00:01:17.920><c> It's</c><00:01:18.160><c> traded</c><00:01:18.680><c> in</c><00:01:18.800><c> dollars.</c><00:01:19.760><c> It's</c>
+
+00:01:19.950 --> 00:01:19.960 align:start position:0%
+US market. It's traded in dollars. It's
+ 
+
+00:01:19.960 --> 00:01:22.030 align:start position:0%
+US market. It's traded in dollars. It's
+not<00:01:20.160><c> the</c><00:01:20.280><c> actual</c><00:01:20.640><c> share,</c><00:01:21.040><c> but</c><00:01:21.240><c> a</c><00:01:21.320><c> depository</c>
+
+00:01:22.030 --> 00:01:22.040 align:start position:0%
+not the actual share, but a depository
+ 
+
+00:01:22.040 --> 00:01:23.590 align:start position:0%
+not the actual share, but a depository
+receipt<00:01:22.360><c> that</c><00:01:22.480><c> gives</c><00:01:22.720><c> you</c><00:01:22.920><c> rights</c><00:01:23.360><c> to</c><00:01:23.480><c> the</c>
+
+00:01:23.590 --> 00:01:23.600 align:start position:0%
+receipt that gives you rights to the
+ 
+
+00:01:23.600 --> 00:01:25.270 align:start position:0%
+receipt that gives you rights to the
+shares.<00:01:23.880><c> So</c><00:01:23.960><c> there's</c><00:01:24.120><c> a</c><00:01:24.200><c> process</c><00:01:24.800><c> involved</c><00:01:25.160><c> in</c>
+
+00:01:25.270 --> 00:01:25.280 align:start position:0%
+shares. So there's a process involved in
+ 
+
+00:01:25.280 --> 00:01:27.150 align:start position:0%
+shares. So there's a process involved in
+converting<00:01:25.720><c> it</c><00:01:25.840><c> to</c><00:01:25.960><c> shares.</c><00:01:27.040><c> But</c>
+
+00:01:27.150 --> 00:01:27.160 align:start position:0%
+converting it to shares. But
+ 
+
+00:01:27.160 --> 00:01:30.030 align:start position:0%
+converting it to shares. But
+essentially,<00:01:27.880><c> it's</c><00:01:28.120><c> on</c><00:01:28.240><c> the</c><00:01:28.320><c> same</c><00:01:28.640><c> company.</c>
+
+00:01:30.030 --> 00:01:30.040 align:start position:0%
+essentially, it's on the same company.
+ 
+
+00:01:30.040 --> 00:01:32.630 align:start position:0%
+essentially, it's on the same company.
+So<00:01:30.160><c> let's</c><00:01:30.400><c> start</c><00:01:30.760><c> with</c><00:01:30.920><c> dual</c><00:01:31.120><c> listed</c><00:01:31.560><c> stocks.</c>
+
+00:01:32.630 --> 00:01:32.640 align:start position:0%
+So let's start with dual listed stocks.
+ 
+
+00:01:32.640 --> 00:01:34.550 align:start position:0%
+So let's start with dual listed stocks.
+There<00:01:32.720><c> are</c><00:01:32.800><c> many</c><00:01:33.040><c> companies</c><00:01:33.840><c> that</c><00:01:33.960><c> are</c><00:01:34.080><c> listed</c>
+
+00:01:34.550 --> 00:01:34.560 align:start position:0%
+There are many companies that are listed
+ 
+
+00:01:34.560 --> 00:01:37.190 align:start position:0%
+There are many companies that are listed
+in<00:01:34.680><c> multiple</c><00:01:35.120><c> markets.</c><00:01:36.120><c> Many</c><00:01:36.400><c> of</c><00:01:36.520><c> the</c><00:01:36.640><c> largest</c>
+
+00:01:37.190 --> 00:01:37.200 align:start position:0%
+in multiple markets. Many of the largest
+ 
+
+00:01:37.200 --> 00:01:39.310 align:start position:0%
+in multiple markets. Many of the largest
+market<00:01:37.560><c> cap</c><00:01:37.840><c> companies,</c><00:01:38.280><c> in</c><00:01:38.400><c> fact,</c><00:01:38.960><c> trade</c><00:01:39.200><c> in</c>
+
+00:01:39.310 --> 00:01:39.320 align:start position:0%
+market cap companies, in fact, trade in
+ 
+
+00:01:39.320 --> 00:01:41.630 align:start position:0%
+market cap companies, in fact, trade in
+multiple<00:01:39.720><c> markets.</c><00:01:40.480><c> And</c><00:01:40.680><c> in</c><00:01:40.840><c> most</c><00:01:41.280><c> of</c><00:01:41.400><c> them,</c>
+
+00:01:41.630 --> 00:01:41.640 align:start position:0%
+multiple markets. And in most of them,
+ 
+
+00:01:41.640 --> 00:01:43.830 align:start position:0%
+multiple markets. And in most of them,
+there<00:01:41.840><c> is</c><00:01:42.000><c> no</c><00:01:42.160><c> arbitrage</c><00:01:42.760><c> opportunity.</c><00:01:43.680><c> They</c>
+
+00:01:43.830 --> 00:01:43.840 align:start position:0%
+there is no arbitrage opportunity. They
+ 
+
+00:01:43.840 --> 00:01:46.150 align:start position:0%
+there is no arbitrage opportunity. They
+trade<00:01:44.320><c> at</c><00:01:44.440><c> roughly</c><00:01:44.800><c> the</c><00:01:44.960><c> same</c><00:01:45.280><c> price,</c>
+
+00:01:46.150 --> 00:01:46.160 align:start position:0%
+trade at roughly the same price,
+ 
+
+00:01:46.160 --> 00:01:48.150 align:start position:0%
+trade at roughly the same price,
+especially<00:01:46.880><c> if</c><00:01:47.000><c> they</c><00:01:47.120><c> all</c><00:01:47.320><c> trade</c><00:01:47.640><c> at</c><00:01:47.720><c> the</c><00:01:47.840><c> same</c>
+
+00:01:48.150 --> 00:01:48.160 align:start position:0%
+especially if they all trade at the same
+ 
+
+00:01:48.160 --> 00:01:50.270 align:start position:0%
+especially if they all trade at the same
+point<00:01:48.520><c> in</c><00:01:48.640><c> time</c><00:01:48.880><c> in</c><00:01:48.960><c> the</c><00:01:49.040><c> day.</c><00:01:49.800><c> Remember</c><00:01:50.160><c> with</c>
+
+00:01:50.270 --> 00:01:50.280 align:start position:0%
+point in time in the day. Remember with
+ 
+
+00:01:50.280 --> 00:01:52.870 align:start position:0%
+point in time in the day. Remember with
+time<00:01:50.600><c> differences,</c><00:01:51.440><c> exchanges</c><00:01:52.160><c> might</c><00:01:52.440><c> not</c><00:01:52.720><c> be</c>
+
+00:01:52.870 --> 00:01:52.880 align:start position:0%
+time differences, exchanges might not be
+ 
+
+00:01:52.880 --> 00:01:54.430 align:start position:0%
+time differences, exchanges might not be
+open.<00:01:53.200><c> So</c><00:01:53.320><c> in</c><00:01:53.400><c> the</c><00:01:53.520><c> middle</c><00:01:53.880><c> of</c><00:01:54.000><c> the</c><00:01:54.120><c> night,</c>
+
+00:01:54.430 --> 00:01:54.440 align:start position:0%
+open. So in the middle of the night,
+ 
+
+00:01:54.440 --> 00:01:56.670 align:start position:0%
+open. So in the middle of the night,
+it's<00:01:54.600><c> possible</c><00:01:55.000><c> that</c><00:01:55.200><c> price</c><00:01:55.600><c> divergences,</c>
+
+00:01:56.670 --> 00:01:56.680 align:start position:0%
+it's possible that price divergences,
+ 
+
+00:01:56.680 --> 00:01:58.710 align:start position:0%
+it's possible that price divergences,
+but<00:01:56.800><c> there's</c><00:01:56.960><c> nothing</c><00:01:57.400><c> you</c><00:01:57.480><c> can</c><00:01:57.640><c> do.</c><00:01:58.360><c> During</c>
+
+00:01:58.710 --> 00:01:58.720 align:start position:0%
+but there's nothing you can do. During
+ 
+
+00:01:58.720 --> 00:02:00.830 align:start position:0%
+but there's nothing you can do. During
+the<00:01:58.840><c> period</c><00:01:59.320><c> where</c><00:01:59.440><c> trading</c><00:01:59.800><c> is</c><00:01:59.960><c> open</c><00:02:00.240><c> in</c><00:02:00.400><c> both</c>
+
+00:02:00.830 --> 00:02:00.840 align:start position:0%
+the period where trading is open in both
+ 
+
+00:02:00.840 --> 00:02:02.430 align:start position:0%
+the period where trading is open in both
+or<00:02:00.920><c> more</c><00:02:01.160><c> markets,</c><00:02:01.880><c> you</c><00:02:01.920><c> should</c><00:02:02.040><c> expect</c><00:02:02.360><c> the</c>
+
+00:02:02.430 --> 00:02:02.440 align:start position:0%
+or more markets, you should expect the
+ 
+
+00:02:02.440 --> 00:02:04.350 align:start position:0%
+or more markets, you should expect the
+stock<00:02:02.800><c> to</c><00:02:02.880><c> trade</c><00:02:03.160><c> at</c><00:02:03.280><c> the</c><00:02:03.360><c> same</c><00:02:03.640><c> price.</c><00:02:04.280><c> You're</c>
+
+00:02:04.350 --> 00:02:04.360 align:start position:0%
+stock to trade at the same price. You're
+ 
+
+00:02:04.360 --> 00:02:05.230 align:start position:0%
+stock to trade at the same price. You're
+saying,<00:02:04.560><c> "What</c><00:02:04.680><c> if</c><00:02:04.760><c> they're</c><00:02:04.880><c> in</c><00:02:04.960><c> different</c>
+
+00:02:05.230 --> 00:02:05.240 align:start position:0%
+saying, "What if they're in different
+ 
+
+00:02:05.240 --> 00:02:07.950 align:start position:0%
+saying, "What if they're in different
+currencies?"<00:02:06.160><c> Not</c><00:02:06.400><c> a</c><00:02:06.440><c> big</c><00:02:06.680><c> deal,</c><00:02:06.920><c> right?</c>
+
+00:02:07.950 --> 00:02:07.960 align:start position:0%
+currencies?" Not a big deal, right?
+ 
+
+00:02:07.960 --> 00:02:09.669 align:start position:0%
+currencies?" Not a big deal, right?
+If<00:02:08.080><c> the</c><00:02:08.200><c> price</c><00:02:08.560><c> difference</c><00:02:09.000><c> is</c><00:02:09.200><c> there,</c><00:02:09.440><c> you'd</c>
+
+00:02:09.669 --> 00:02:09.679 align:start position:0%
+If the price difference is there, you'd
+ 
+
+00:02:09.679 --> 00:02:11.790 align:start position:0%
+If the price difference is there, you'd
+buy<00:02:09.960><c> it</c><00:02:10.160><c> still.</c><00:02:10.479><c> You'd</c><00:02:10.640><c> buy</c><00:02:10.800><c> the</c><00:02:10.960><c> cheaper</c><00:02:11.440><c> one,</c>
+
+00:02:11.790 --> 00:02:11.800 align:start position:0%
+buy it still. You'd buy the cheaper one,
+ 
+
+00:02:11.800 --> 00:02:13.710 align:start position:0%
+buy it still. You'd buy the cheaper one,
+sell<00:02:12.080><c> the</c><00:02:12.200><c> more</c><00:02:12.360><c> expensive</c><00:02:12.920><c> one,</c><00:02:13.240><c> and</c><00:02:13.360><c> remove</c>
+
+00:02:13.710 --> 00:02:13.720 align:start position:0%
+sell the more expensive one, and remove
+ 
+
+00:02:13.720 --> 00:02:15.510 align:start position:0%
+sell the more expensive one, and remove
+the<00:02:13.840><c> currency</c><00:02:14.440><c> risk</c>
+
+00:02:15.510 --> 00:02:15.520 align:start position:0%
+the currency risk
+ 
+
+00:02:15.520 --> 00:02:17.510 align:start position:0%
+the currency risk
+by<00:02:15.640><c> converting</c><00:02:16.160><c> right</c><00:02:16.360><c> away.</c><00:02:16.840><c> So,</c><00:02:17.000><c> that</c><00:02:17.280><c> does</c>
+
+00:02:17.510 --> 00:02:17.520 align:start position:0%
+by converting right away. So, that does
+ 
+
+00:02:17.520 --> 00:02:19.510 align:start position:0%
+by converting right away. So, that does
+assume<00:02:18.040><c> you</c><00:02:18.120><c> have</c><00:02:18.240><c> a</c><00:02:18.320><c> convertible</c><00:02:18.920><c> currency</c>
+
+00:02:19.510 --> 00:02:19.520 align:start position:0%
+assume you have a convertible currency
+ 
+
+00:02:19.520 --> 00:02:22.030 align:start position:0%
+assume you have a convertible currency
+that's<00:02:19.760><c> a</c><00:02:19.840><c> freely</c><00:02:20.280><c> traded</c><00:02:20.760><c> currency.</c>
+
+00:02:22.030 --> 00:02:22.040 align:start position:0%
+that's a freely traded currency.
+ 
+
+00:02:22.040 --> 00:02:23.310 align:start position:0%
+that's a freely traded currency.
+And<00:02:22.160><c> doing</c><00:02:22.440><c> all</c><00:02:22.600><c> of</c><00:02:22.680><c> this,</c><00:02:22.880><c> you</c><00:02:22.920><c> have</c><00:02:23.040><c> to</c><00:02:23.120><c> make</c>
+
+00:02:23.310 --> 00:02:23.320 align:start position:0%
+And doing all of this, you have to make
+ 
+
+00:02:23.320 --> 00:02:25.190 align:start position:0%
+And doing all of this, you have to make
+sure<00:02:23.480><c> that</c><00:02:23.640><c> the</c><00:02:23.760><c> profits</c><00:02:24.360><c> you</c><00:02:24.480><c> make</c><00:02:24.800><c> exceed</c>
+
+00:02:25.190 --> 00:02:25.200 align:start position:0%
+sure that the profits you make exceed
+ 
+
+00:02:25.200 --> 00:02:26.630 align:start position:0%
+sure that the profits you make exceed
+the<00:02:25.320><c> transactions</c><00:02:26.040><c> cost,</c><00:02:26.320><c> because</c><00:02:26.560><c> the</c>
+
+00:02:26.630 --> 00:02:26.640 align:start position:0%
+the transactions cost, because the
+ 
+
+00:02:26.640 --> 00:02:30.030 align:start position:0%
+the transactions cost, because the
+deviations<00:02:27.360><c> are</c><00:02:27.440><c> not</c><00:02:27.720><c> going</c><00:02:27.840><c> to</c><00:02:27.920><c> be</c><00:02:28.080><c> huge.</c>
+
+00:02:30.030 --> 00:02:30.040 align:start position:0%
+deviations are not going to be huge.
+ 
+
+00:02:30.040 --> 00:02:31.710 align:start position:0%
+deviations are not going to be huge.
+Now,<00:02:30.160><c> when</c><00:02:30.280><c> you</c><00:02:30.360><c> look</c><00:02:30.560><c> at,</c><00:02:30.959><c> is</c><00:02:31.120><c> there</c><00:02:31.320><c> evidence</c>
+
+00:02:31.710 --> 00:02:31.720 align:start position:0%
+Now, when you look at, is there evidence
+ 
+
+00:02:31.720 --> 00:02:33.510 align:start position:0%
+Now, when you look at, is there evidence
+that<00:02:31.840><c> people</c><00:02:32.120><c> can</c><00:02:32.280><c> do</c><00:02:32.440><c> it?</c><00:02:32.600><c> The</c><00:02:32.720><c> studies</c><00:02:33.320><c> that</c>
+
+00:02:33.510 --> 00:02:33.520 align:start position:0%
+that people can do it? The studies that
+ 
+
+00:02:33.520 --> 00:02:35.750 align:start position:0%
+that people can do it? The studies that
+I've<00:02:33.760><c> seen</c><00:02:34.240><c> have</c><00:02:34.400><c> usually</c><00:02:34.720><c> focused</c><00:02:35.320><c> on</c><00:02:35.480><c> less</c>
+
+00:02:35.750 --> 00:02:35.760 align:start position:0%
+I've seen have usually focused on less
+ 
+
+00:02:35.760 --> 00:02:39.350 align:start position:0%
+I've seen have usually focused on less
+liquid<00:02:36.080><c> exchanges.</c><00:02:37.120><c> One</c><00:02:37.360><c> study</c><00:02:37.680><c> looked</c><00:02:37.959><c> at</c><00:02:38.480><c> 84</c>
+
+00:02:39.350 --> 00:02:39.360 align:start position:0%
+liquid exchanges. One study looked at 84
+ 
+
+00:02:39.360 --> 00:02:41.510 align:start position:0%
+liquid exchanges. One study looked at 84
+stocks<00:02:40.080><c> that</c><00:02:40.200><c> were</c><00:02:40.320><c> traded</c><00:02:40.760><c> on</c><00:02:40.959><c> two</c><00:02:41.160><c> different</c>
+
+00:02:41.510 --> 00:02:41.520 align:start position:0%
+stocks that were traded on two different
+ 
+
+00:02:41.520 --> 00:02:42.990 align:start position:0%
+stocks that were traded on two different
+exchanges<00:02:42.200><c> there.</c>
+
+00:02:42.990 --> 00:02:43.000 align:start position:0%
+exchanges there.
+ 
+
+00:02:43.000 --> 00:02:44.949 align:start position:0%
+exchanges there.
+That<00:02:43.200><c> traded</c><00:02:43.680><c> at</c><00:02:43.800><c> different</c><00:02:44.200><c> prices,</c><00:02:44.680><c> and</c><00:02:44.840><c> at</c>
+
+00:02:44.949 --> 00:02:44.959 align:start position:0%
+That traded at different prices, and at
+ 
+
+00:02:44.959 --> 00:02:47.910 align:start position:0%
+That traded at different prices, and at
+least<00:02:45.280><c> in</c><00:02:45.480><c> paper,</c><00:02:46.120><c> the</c><00:02:46.320><c> prices</c><00:02:46.920><c> deviated</c><00:02:47.760><c> by</c>
+
+00:02:47.910 --> 00:02:47.920 align:start position:0%
+least in paper, the prices deviated by
+ 
+
+00:02:47.920 --> 00:02:49.949 align:start position:0%
+least in paper, the prices deviated by
+about<00:02:48.200><c> 2%.</c><00:02:49.160><c> So,</c><00:02:49.240><c> you</c><00:02:49.280><c> can</c><00:02:49.400><c> argue,</c><00:02:49.680><c> "Why</c><00:02:49.800><c> don't</c>
+
+00:02:49.949 --> 00:02:49.959 align:start position:0%
+about 2%. So, you can argue, "Why don't
+ 
+
+00:02:49.959 --> 00:02:51.510 align:start position:0%
+about 2%. So, you can argue, "Why don't
+people<00:02:50.280><c> make</c><00:02:50.480><c> money?"</c>
+
+00:02:51.510 --> 00:02:51.520 align:start position:0%
+people make money?"
+ 
+
+00:02:51.520 --> 00:02:53.710 align:start position:0%
+people make money?"
+When<00:02:51.920><c> the</c><00:02:52.040><c> study</c><00:02:52.360><c> looked</c><00:02:52.640><c> at</c><00:02:52.880><c> what</c><00:02:53.200><c> would</c><00:02:53.600><c> it</c>
+
+00:02:53.710 --> 00:02:53.720 align:start position:0%
+When the study looked at what would it
+ 
+
+00:02:53.720 --> 00:02:55.310 align:start position:0%
+When the study looked at what would it
+would<00:02:53.880><c> require</c><00:02:54.360><c> for</c><00:02:54.480><c> you</c><00:02:54.520><c> to</c><00:02:54.640><c> make</c><00:02:54.880><c> money,</c><00:02:55.120><c> the</c>
+
+00:02:55.310 --> 00:02:55.320 align:start position:0%
+would require for you to make money, the
+ 
+
+00:02:55.320 --> 00:02:57.150 align:start position:0%
+would require for you to make money, the
+price<00:02:55.760><c> impact</c><00:02:56.240><c> and</c><00:02:56.320><c> the</c><00:02:56.440><c> trading</c><00:02:56.880><c> costs</c>
+
+00:02:57.150 --> 00:02:57.160 align:start position:0%
+price impact and the trading costs
+ 
+
+00:02:57.160 --> 00:02:58.670 align:start position:0%
+price impact and the trading costs
+involved<00:02:57.480><c> were</c><00:02:57.600><c> large</c><00:02:57.959><c> enough</c><00:02:58.360><c> that</c><00:02:58.520><c> they</c>
+
+00:02:58.670 --> 00:02:58.680 align:start position:0%
+involved were large enough that they
+ 
+
+00:02:58.680 --> 00:03:00.910 align:start position:0%
+involved were large enough that they
+concluded<00:02:59.800><c> that</c><00:03:00.080><c> while</c><00:03:00.360><c> there</c><00:03:00.480><c> were</c><00:03:00.600><c> price</c>
+
+00:03:00.910 --> 00:03:00.920 align:start position:0%
+concluded that while there were price
+ 
+
+00:03:00.920 --> 00:03:02.830 align:start position:0%
+concluded that while there were price
+differences,<00:03:01.519><c> they</c><00:03:01.640><c> were</c><00:03:01.720><c> not</c><00:03:02.040><c> large</c><00:03:02.480><c> enough</c>
+
+00:03:02.830 --> 00:03:02.840 align:start position:0%
+differences, they were not large enough
+ 
+
+00:03:02.840 --> 00:03:04.990 align:start position:0%
+differences, they were not large enough
+to<00:03:02.959><c> exploit.</c>
+
+00:03:04.990 --> 00:03:05.000 align:start position:0%
+to exploit.
+ 
+
+00:03:05.000 --> 00:03:07.550 align:start position:0%
+to exploit.
+So,<00:03:05.640><c> when</c><00:03:05.880><c> you</c><00:03:05.959><c> have</c><00:03:06.040><c> to</c><00:03:06.120><c> do</c><00:03:06.200><c> a</c><00:03:06.239><c> listed</c><00:03:06.720><c> stock,</c>
+
+00:03:07.550 --> 00:03:07.560 align:start position:0%
+So, when you have to do a listed stock,
+ 
+
+00:03:07.560 --> 00:03:09.110 align:start position:0%
+So, when you have to do a listed stock,
+especially<00:03:08.239><c> in</c><00:03:08.400><c> markets</c><00:03:08.920><c> where</c><00:03:09.040><c> the</c>
+
+00:03:09.110 --> 00:03:09.120 align:start position:0%
+especially in markets where the
+ 
+
+00:03:09.120 --> 00:03:12.110 align:start position:0%
+especially in markets where the
+currencies<00:03:09.760><c> are</c><00:03:09.880><c> freely</c><00:03:10.800><c> convertible,</c>
+
+00:03:12.110 --> 00:03:12.120 align:start position:0%
+currencies are freely convertible,
+ 
+
+00:03:12.120 --> 00:03:14.550 align:start position:0%
+currencies are freely convertible,
+I<00:03:12.239><c> would</c><00:03:12.440><c> not</c><00:03:12.680><c> expect</c><00:03:13.160><c> price</c><00:03:13.400><c> differences</c><00:03:14.360><c> to</c>
+
+00:03:14.550 --> 00:03:14.560 align:start position:0%
+I would not expect price differences to
+ 
+
+00:03:14.560 --> 00:03:16.509 align:start position:0%
+I would not expect price differences to
+be<00:03:14.760><c> large</c><00:03:15.440><c> and</c><00:03:15.640><c> persist,</c><00:03:16.160><c> because</c><00:03:16.400><c> they're</c>
+
+00:03:16.509 --> 00:03:16.519 align:start position:0%
+be large and persist, because they're
+ 
+
+00:03:16.519 --> 00:03:18.430 align:start position:0%
+be large and persist, because they're
+very<00:03:16.760><c> quickly</c><00:03:17.120><c> going</c><00:03:17.280><c> to</c><00:03:17.360><c> get</c><00:03:17.480><c> traded</c><00:03:17.920><c> away.</c>
+
+00:03:18.430 --> 00:03:18.440 align:start position:0%
+very quickly going to get traded away.
+ 
+
+00:03:18.440 --> 00:03:20.190 align:start position:0%
+very quickly going to get traded away.
+But<00:03:18.600><c> maybe</c><00:03:18.920><c> you</c><00:03:19.040><c> might</c><00:03:19.280><c> be</c><00:03:19.400><c> the</c><00:03:19.519><c> lucky</c><00:03:19.840><c> person</c>
+
+00:03:20.190 --> 00:03:20.200 align:start position:0%
+But maybe you might be the lucky person
+ 
+
+00:03:20.200 --> 00:03:22.830 align:start position:0%
+But maybe you might be the lucky person
+who<00:03:20.320><c> trades</c><00:03:20.720><c> them</c><00:03:20.840><c> away</c><00:03:21.080><c> and</c><00:03:21.200><c> makes</c><00:03:21.480><c> a</c><00:03:21.560><c> profit.</c>
+
+00:03:22.830 --> 00:03:22.840 align:start position:0%
+who trades them away and makes a profit.
+ 
+
+00:03:22.840 --> 00:03:23.870 align:start position:0%
+who trades them away and makes a profit.
+You're<00:03:22.880><c> saying,</c><00:03:23.000><c> "What</c><00:03:23.120><c> about</c><00:03:23.320><c> depositary</c>
+
+00:03:23.870 --> 00:03:23.880 align:start position:0%
+You're saying, "What about depositary
+ 
+
+00:03:23.880 --> 00:03:25.190 align:start position:0%
+You're saying, "What about depositary
+receipts?"
+
+00:03:25.190 --> 00:03:25.200 align:start position:0%
+receipts?"
+ 
+
+00:03:25.200 --> 00:03:26.790 align:start position:0%
+receipts?"
+In<00:03:25.320><c> a</c><00:03:25.400><c> depositary</c><00:03:26.000><c> receipt,</c><00:03:26.519><c> you</c><00:03:26.600><c> have</c><00:03:26.720><c> a</c>
+
+00:03:26.790 --> 00:03:26.800 align:start position:0%
+In a depositary receipt, you have a
+ 
+
+00:03:26.800 --> 00:03:29.270 align:start position:0%
+In a depositary receipt, you have a
+company<00:03:27.840><c> from</c><00:03:28.040><c> a</c><00:03:28.080><c> different</c><00:03:28.440><c> market</c><00:03:28.840><c> listing</c>
+
+00:03:29.270 --> 00:03:29.280 align:start position:0%
+company from a different market listing
+ 
+
+00:03:29.280 --> 00:03:31.430 align:start position:0%
+company from a different market listing
+in<00:03:29.400><c> the</c><00:03:29.519><c> US</c><00:03:29.920><c> market,</c><00:03:30.440><c> but</c><00:03:30.680><c> rather</c><00:03:30.959><c> than</c><00:03:31.200><c> list</c>
+
+00:03:31.430 --> 00:03:31.440 align:start position:0%
+in the US market, but rather than list
+ 
+
+00:03:31.440 --> 00:03:32.670 align:start position:0%
+in the US market, but rather than list
+their<00:03:31.600><c> actual</c><00:03:31.920><c> shares,</c><00:03:32.239><c> they</c><00:03:32.360><c> list</c>
+
+00:03:32.670 --> 00:03:32.680 align:start position:0%
+their actual shares, they list
+ 
+
+00:03:32.680 --> 00:03:35.110 align:start position:0%
+their actual shares, they list
+depositary<00:03:33.320><c> receipts.</c>
+
+00:03:35.110 --> 00:03:35.120 align:start position:0%
+depositary receipts.
+ 
+
+00:03:35.120 --> 00:03:37.070 align:start position:0%
+depositary receipts.
+And<00:03:35.920><c> they</c><00:03:36.280><c> You</c><00:03:36.360><c> know,</c><00:03:36.480><c> these</c><00:03:36.720><c> are</c><00:03:36.800><c> called</c>
+
+00:03:37.070 --> 00:03:37.080 align:start position:0%
+And they You know, these are called
+ 
+
+00:03:37.080 --> 00:03:38.990 align:start position:0%
+And they You know, these are called
+ADRs,<00:03:37.720><c> and</c><00:03:37.880><c> what</c><00:03:38.040><c> ADRs</c><00:03:38.519><c> give</c><00:03:38.720><c> you</c><00:03:38.800><c> is</c><00:03:38.920><c> the</c>
+
+00:03:38.990 --> 00:03:39.000 align:start position:0%
+ADRs, and what ADRs give you is the
+ 
+
+00:03:39.000 --> 00:03:41.350 align:start position:0%
+ADRs, and what ADRs give you is the
+right<00:03:39.280><c> to</c><00:03:39.400><c> 10</c><00:03:39.760><c> shares</c><00:03:40.440><c> of</c><00:03:40.600><c> Tata</c><00:03:40.880><c> Motors,</c><00:03:41.239><c> an</c>
+
+00:03:41.350 --> 00:03:41.360 align:start position:0%
+right to 10 shares of Tata Motors, an
+ 
+
+00:03:41.360 --> 00:03:42.990 align:start position:0%
+right to 10 shares of Tata Motors, an
+Indian<00:03:41.680><c> company,</c><00:03:42.160><c> and</c><00:03:42.320><c> you</c><00:03:42.400><c> can</c><00:03:42.600><c> buy</c><00:03:42.840><c> the</c>
+
+00:03:42.990 --> 00:03:43.000 align:start position:0%
+Indian company, and you can buy the
+ 
+
+00:03:43.000 --> 00:03:45.350 align:start position:0%
+Indian company, and you can buy the
+shares<00:03:43.360><c> in</c><00:03:43.480><c> dollars.</c><00:03:44.080><c> And</c><00:03:44.239><c> US</c><00:03:44.560><c> investors</c><00:03:45.080><c> like</c>
+
+00:03:45.350 --> 00:03:45.360 align:start position:0%
+shares in dollars. And US investors like
+ 
+
+00:03:45.360 --> 00:03:47.110 align:start position:0%
+shares in dollars. And US investors like
+it,<00:03:45.440><c> because</c><00:03:45.680><c> they're</c><00:03:45.800><c> trading</c><00:03:46.200><c> in</c><00:03:46.280><c> dollars</c>
+
+00:03:47.110 --> 00:03:47.120 align:start position:0%
+it, because they're trading in dollars
+ 
+
+00:03:47.120 --> 00:03:49.670 align:start position:0%
+it, because they're trading in dollars
+through<00:03:47.239><c> the</c><00:03:47.320><c> US</c><00:03:47.640><c> exchange.</c><00:03:48.200><c> And</c><00:03:48.320><c> as</c><00:03:48.480><c> a</c><00:03:48.519><c> bonus,</c>
+
+00:03:49.670 --> 00:03:49.680 align:start position:0%
+through the US exchange. And as a bonus,
+ 
+
+00:03:49.680 --> 00:03:51.550 align:start position:0%
+through the US exchange. And as a bonus,
+companies<00:03:50.200><c> list</c><00:03:50.480><c> ADRs</c><00:03:50.920><c> often</c><00:03:51.200><c> have</c><00:03:51.360><c> to</c>
+
+00:03:51.550 --> 00:03:51.560 align:start position:0%
+companies list ADRs often have to
+ 
+
+00:03:51.560 --> 00:03:54.030 align:start position:0%
+companies list ADRs often have to
+restate<00:03:52.280><c> their</c><00:03:52.560><c> financials</c><00:03:53.440><c> so</c><00:03:53.560><c> that</c><00:03:53.760><c> you</c><00:03:53.840><c> can</c>
+
+00:03:54.030 --> 00:03:54.040 align:start position:0%
+restate their financials so that you can
+ 
+
+00:03:54.040 --> 00:03:55.470 align:start position:0%
+restate their financials so that you can
+see<00:03:54.280><c> what</c><00:03:54.480><c> the</c><00:03:54.560><c> numbers</c><00:03:54.840><c> would</c><00:03:55.000><c> look</c><00:03:55.200><c> like</c>
+
+00:03:55.470 --> 00:03:55.480 align:start position:0%
+see what the numbers would look like
+ 
+
+00:03:55.480 --> 00:03:57.550 align:start position:0%
+see what the numbers would look like
+using<00:03:55.760><c> US</c><00:03:56.040><c> GAAP.</c>
+
+00:03:57.550 --> 00:03:57.560 align:start position:0%
+using US GAAP.
+ 
+
+00:03:57.560 --> 00:04:00.630 align:start position:0%
+using US GAAP.
+The<00:03:57.640><c> one</c><00:03:57.880><c> catch</c><00:03:58.320><c> though</c><00:03:58.920><c> is</c><00:03:59.560><c> these</c><00:03:59.800><c> ADRs,</c><00:04:00.400><c> even</c>
+
+00:04:00.630 --> 00:04:00.640 align:start position:0%
+The one catch though is these ADRs, even
+ 
+
+00:04:00.640 --> 00:04:03.270 align:start position:0%
+The one catch though is these ADRs, even
+though<00:04:00.800><c> in</c><00:04:01.520><c> they</c><00:04:01.720><c> are</c><00:04:02.120><c> technically</c><00:04:03.200><c> the</c>
+
+00:04:03.270 --> 00:04:03.280 align:start position:0%
+though in they are technically the
+ 
+
+00:04:03.280 --> 00:04:05.270 align:start position:0%
+though in they are technically the
+equivalent<00:04:03.920><c> to</c><00:04:03.960><c> local</c><00:04:04.240><c> shares,</c><00:04:05.040><c> there's</c><00:04:05.200><c> a</c>
+
+00:04:05.270 --> 00:04:05.280 align:start position:0%
+equivalent to local shares, there's a
+ 
+
+00:04:05.280 --> 00:04:06.990 align:start position:0%
+equivalent to local shares, there's a
+conversion<00:04:05.960><c> process</c><00:04:06.560><c> that</c><00:04:06.720><c> can</c><00:04:06.880><c> be</c>
+
+00:04:06.990 --> 00:04:07.000 align:start position:0%
+conversion process that can be
+ 
+
+00:04:07.000 --> 00:04:09.350 align:start position:0%
+conversion process that can be
+complicated<00:04:07.959><c> or</c><00:04:08.200><c> even</c><00:04:08.480><c> overwhelmingly</c>
+
+00:04:09.350 --> 00:04:09.360 align:start position:0%
+complicated or even overwhelmingly
+ 
+
+00:04:09.360 --> 00:04:11.350 align:start position:0%
+complicated or even overwhelmingly
+difficult<00:04:09.880><c> to</c><00:04:10.000><c> get</c><00:04:10.200><c> through.</c><00:04:11.080><c> But</c><00:04:11.240><c> you'd</c>
+
+00:04:11.350 --> 00:04:11.360 align:start position:0%
+difficult to get through. But you'd
+ 
+
+00:04:11.360 --> 00:04:14.030 align:start position:0%
+difficult to get through. But you'd
+expect<00:04:11.959><c> an</c><00:04:12.120><c> ADR</c><00:04:12.959><c> and</c><00:04:13.200><c> the</c><00:04:13.320><c> local</c><00:04:13.640><c> shares</c><00:04:13.920><c> to</c>
+
+00:04:14.030 --> 00:04:14.040 align:start position:0%
+expect an ADR and the local shares to
+ 
+
+00:04:14.040 --> 00:04:16.150 align:start position:0%
+expect an ADR and the local shares to
+trade<00:04:14.440><c> at</c><00:04:14.600><c> roughly</c><00:04:14.920><c> equivalent</c><00:04:15.520><c> prices</c>
+
+00:04:16.150 --> 00:04:16.160 align:start position:0%
+trade at roughly equivalent prices
+ 
+
+00:04:16.160 --> 00:04:19.470 align:start position:0%
+trade at roughly equivalent prices
+assuming<00:04:16.720><c> you've</c><00:04:16.840><c> corrected</c><00:04:17.400><c> for</c><00:04:17.519><c> units.</c>
+
+00:04:19.470 --> 00:04:19.480 align:start position:0%
+assuming you've corrected for units.
+ 
+
+00:04:19.480 --> 00:04:21.830 align:start position:0%
+assuming you've corrected for units.
+If<00:04:19.640><c> you</c><00:04:19.720><c> look</c><00:04:19.920><c> at</c><00:04:20.079><c> ADRs</c><00:04:20.600><c> in</c><00:04:20.720><c> the</c><00:04:20.799><c> US,</c><00:04:21.519><c> there</c><00:04:21.720><c> are</c>
+
+00:04:21.830 --> 00:04:21.840 align:start position:0%
+If you look at ADRs in the US, there are
+ 
+
+00:04:21.840 --> 00:04:24.350 align:start position:0%
+If you look at ADRs in the US, there are
+some<00:04:22.240><c> mark</c><00:04:22.640><c> some</c><00:04:22.919><c> country</c><00:04:23.400><c> ADRs</c><00:04:24.120><c> where</c><00:04:24.240><c> the</c>
+
+00:04:24.350 --> 00:04:24.360 align:start position:0%
+some mark some country ADRs where the
+ 
+
+00:04:24.360 --> 00:04:25.790 align:start position:0%
+some mark some country ADRs where the
+price<00:04:24.720><c> of</c><00:04:24.760><c> the</c><00:04:24.880><c> ADR</c><00:04:25.160><c> and</c><00:04:25.240><c> the</c><00:04:25.320><c> price</c><00:04:25.640><c> of</c><00:04:25.720><c> the</c>
+
+00:04:25.790 --> 00:04:25.800 align:start position:0%
+price of the ADR and the price of the
+ 
+
+00:04:25.800 --> 00:04:27.950 align:start position:0%
+price of the ADR and the price of the
+stock<00:04:26.160><c> are</c><00:04:26.280><c> effectively</c><00:04:26.919><c> the</c><00:04:27.040><c> same.</c><00:04:27.440><c> But</c><00:04:27.600><c> in</c>
+
+00:04:27.950 --> 00:04:27.960 align:start position:0%
+stock are effectively the same. But in
+ 
+
+00:04:27.960 --> 00:04:29.630 align:start position:0%
+stock are effectively the same. But in
+for<00:04:28.160><c> countries</c><00:04:28.760><c> like</c><00:04:29.000><c> India</c><00:04:29.360><c> where</c><00:04:29.480><c> you</c><00:04:29.560><c> have</c>
+
+00:04:29.630 --> 00:04:29.640 align:start position:0%
+for countries like India where you have
+ 
+
+00:04:29.640 --> 00:04:32.030 align:start position:0%
+for countries like India where you have
+an<00:04:29.760><c> ADR</c><00:04:30.160><c> listed</c><00:04:30.440><c> for</c><00:04:30.560><c> an</c><00:04:30.640><c> Indian</c><00:04:30.960><c> company,</c><00:04:31.919><c> the</c>
+
+00:04:32.030 --> 00:04:32.040 align:start position:0%
+an ADR listed for an Indian company, the
+ 
+
+00:04:32.040 --> 00:04:34.110 align:start position:0%
+an ADR listed for an Indian company, the
+prices<00:04:32.640><c> can</c><00:04:32.800><c> not</c><00:04:33.040><c> just</c><00:04:33.240><c> be</c><00:04:33.360><c> different</c><00:04:33.880><c> but</c>
+
+00:04:34.110 --> 00:04:34.120 align:start position:0%
+prices can not just be different but
+ 
+
+00:04:34.120 --> 00:04:37.230 align:start position:0%
+prices can not just be different but
+very<00:04:34.440><c> different.</c><00:04:34.919><c> Often</c><00:04:35.240><c> 30,</c><00:04:35.600><c> 50,</c><00:04:36.120><c> 60%</c><00:04:37.040><c> more</c>
+
+00:04:37.230 --> 00:04:37.240 align:start position:0%
+very different. Often 30, 50, 60% more
+ 
+
+00:04:37.240 --> 00:04:40.950 align:start position:0%
+very different. Often 30, 50, 60% more
+expensive<00:04:38.560><c> to</c><00:04:38.680><c> buy</c><00:04:39.200><c> an</c><00:04:39.400><c> Indian</c><00:04:39.840><c> company</c><00:04:40.440><c> ADR</c>
+
+00:04:40.950 --> 00:04:40.960 align:start position:0%
+expensive to buy an Indian company ADR
+ 
+
+00:04:40.960 --> 00:04:42.950 align:start position:0%
+expensive to buy an Indian company ADR
+than<00:04:41.160><c> it</c><00:04:41.320><c> is</c><00:04:41.440><c> to</c><00:04:41.520><c> buy</c><00:04:41.680><c> the</c><00:04:41.800><c> domestic</c><00:04:42.320><c> listing.</c>
+
+00:04:42.950 --> 00:04:42.960 align:start position:0%
+than it is to buy the domestic listing.
+ 
+
+00:04:42.960 --> 00:04:45.390 align:start position:0%
+than it is to buy the domestic listing.
+You're<00:04:43.080><c> saying,</c><00:04:43.800><c> "Well,</c><00:04:44.080><c> why</c><00:04:44.320><c> can't</c><00:04:44.760><c> I</c><00:04:44.880><c> take</c>
+
+00:04:45.390 --> 00:04:45.400 align:start position:0%
+You're saying, "Well, why can't I take
+ 
+
+00:04:45.400 --> 00:04:48.310 align:start position:0%
+You're saying, "Well, why can't I take
+advantage<00:04:46.280><c> of</c><00:04:46.480><c> that</c><00:04:46.720><c> mispricing?"</c>
+
+00:04:48.310 --> 00:04:48.320 align:start position:0%
+advantage of that mispricing?"
+ 
+
+00:04:48.320 --> 00:04:51.030 align:start position:0%
+advantage of that mispricing?"
+Well,<00:04:49.200><c> a</c><00:04:49.320><c> big</c><00:04:49.600><c> chunk</c><00:04:49.880><c> of</c><00:04:49.960><c> that</c><00:04:50.160><c> mispricing</c><00:04:50.880><c> you</c>
+
+00:04:51.030 --> 00:04:51.040 align:start position:0%
+Well, a big chunk of that mispricing you
+ 
+
+00:04:51.040 --> 00:04:52.790 align:start position:0%
+Well, a big chunk of that mispricing you
+you<00:04:51.120><c> know,</c><00:04:51.240><c> maybe</c><00:04:51.600><c> it's</c><00:04:51.800><c> because</c><00:04:52.360><c> you're</c><00:04:52.720><c> you</c>
+
+00:04:52.790 --> 00:04:52.800 align:start position:0%
+you know, maybe it's because you're you
+ 
+
+00:04:52.800 --> 00:04:54.990 align:start position:0%
+you know, maybe it's because you're you
+know,<00:04:52.960><c> people</c><00:04:53.280><c> overreact</c><00:04:53.960><c> to</c><00:04:54.040><c> the</c><00:04:54.160><c> US</c><00:04:54.520><c> market</c>
+
+00:04:54.990 --> 00:04:55.000 align:start position:0%
+know, people overreact to the US market
+ 
+
+00:04:55.000 --> 00:04:56.390 align:start position:0%
+know, people overreact to the US market
+and<00:04:55.080><c> they</c><00:04:55.440><c> you</c><00:04:55.520><c> know,</c><00:04:55.680><c> what</c><00:04:55.880><c> I</c><00:04:55.919><c> mean</c><00:04:56.120><c> by</c><00:04:56.240><c> that</c>
+
+00:04:56.390 --> 00:04:56.400 align:start position:0%
+and they you know, what I mean by that
+ 
+
+00:04:56.400 --> 00:04:59.110 align:start position:0%
+and they you know, what I mean by that
+is<00:04:56.560><c> the</c><00:04:56.680><c> US</c><00:04:57.000><c> market</c><00:04:57.320><c> is</c><00:04:57.440><c> down</c><00:04:57.680><c> 10%.</c><00:04:58.720><c> They</c><00:04:58.880><c> might</c>
+
+00:04:59.110 --> 00:04:59.120 align:start position:0%
+is the US market is down 10%. They might
+ 
+
+00:04:59.120 --> 00:05:01.590 align:start position:0%
+is the US market is down 10%. They might
+be<00:04:59.240><c> marking</c><00:04:59.800><c> down</c><00:05:00.040><c> the</c><00:05:00.200><c> Indian</c><00:05:00.560><c> stock</c><00:05:00.919><c> by</c><00:05:01.040><c> 10%</c>
+
+00:05:01.590 --> 00:05:01.600 align:start position:0%
+be marking down the Indian stock by 10%
+ 
+
+00:05:01.600 --> 00:05:03.750 align:start position:0%
+be marking down the Indian stock by 10%
+even<00:05:01.800><c> though</c><00:05:01.919><c> it</c><00:05:02.040><c> doesn't</c><00:05:02.360><c> deserve</c><00:05:02.840><c> to.</c>
+
+00:05:03.750 --> 00:05:03.760 align:start position:0%
+even though it doesn't deserve to.
+ 
+
+00:05:03.760 --> 00:05:04.909 align:start position:0%
+even though it doesn't deserve to.
+But<00:05:03.880><c> the</c><00:05:03.960><c> bigger</c><00:05:04.240><c> problem</c><00:05:04.600><c> is</c><00:05:04.720><c> that</c>
+
+00:05:04.909 --> 00:05:04.919 align:start position:0%
+But the bigger problem is that
+ 
+
+00:05:04.919 --> 00:05:06.710 align:start position:0%
+But the bigger problem is that
+convergence<00:05:05.680><c> might</c><00:05:05.919><c> never</c><00:05:06.200><c> happen.</c><00:05:06.600><c> You</c>
+
+00:05:06.710 --> 00:05:06.720 align:start position:0%
+convergence might never happen. You
+ 
+
+00:05:06.720 --> 00:05:10.909 align:start position:0%
+convergence might never happen. You
+might<00:05:07.040><c> buy</c><00:05:08.240><c> the</c><00:05:09.120><c> the</c><00:05:09.360><c> domestic</c><00:05:10.000><c> listing,</c><00:05:10.560><c> sell</c>
+
+00:05:10.909 --> 00:05:10.919 align:start position:0%
+might buy the the domestic listing, sell
+ 
+
+00:05:10.919 --> 00:05:12.909 align:start position:0%
+might buy the the domestic listing, sell
+the<00:05:11.120><c> ADR</c><00:05:11.600><c> and</c><00:05:11.720><c> hope</c><00:05:11.880><c> to</c><00:05:11.960><c> make</c><00:05:12.200><c> money</c><00:05:12.600><c> on</c><00:05:12.840><c> the</c>
+
+00:05:12.909 --> 00:05:12.919 align:start position:0%
+the ADR and hope to make money on the
+ 
+
+00:05:12.919 --> 00:05:14.909 align:start position:0%
+the ADR and hope to make money on the
+convergence<00:05:13.960><c> happening.</c><00:05:14.320><c> But</c><00:05:14.440><c> if</c><00:05:14.560><c> it</c><00:05:14.640><c> doesn't</c>
+
+00:05:14.909 --> 00:05:14.919 align:start position:0%
+convergence happening. But if it doesn't
+ 
+
+00:05:14.919 --> 00:05:16.950 align:start position:0%
+convergence happening. But if it doesn't
+happen,<00:05:15.640><c> you're</c><00:05:15.760><c> not</c><00:05:16.000><c> going</c><00:05:16.160><c> to</c><00:05:16.560><c> earn</c><00:05:16.800><c> any</c>
+
+00:05:16.950 --> 00:05:16.960 align:start position:0%
+happen, you're not going to earn any
+ 
+
+00:05:16.960 --> 00:05:18.470 align:start position:0%
+happen, you're not going to earn any
+excess<00:05:17.360><c> returns.</c>
+
+00:05:18.470 --> 00:05:18.480 align:start position:0%
+excess returns.
+ 
+
+00:05:18.480 --> 00:05:20.630 align:start position:0%
+excess returns.
+Maybe<00:05:18.880><c> in</c><00:05:19.000><c> the</c><00:05:19.120><c> long</c><00:05:19.560><c> term</c><00:05:19.840><c> it</c><00:05:20.000><c> does</c><00:05:20.320><c> in</c><00:05:20.440><c> which</c>
+
+00:05:20.630 --> 00:05:20.640 align:start position:0%
+Maybe in the long term it does in which
+ 
+
+00:05:20.640 --> 00:05:22.550 align:start position:0%
+Maybe in the long term it does in which
+case<00:05:20.880><c> a</c><00:05:20.960><c> longer</c><00:05:21.440><c> time</c><00:05:21.680><c> horizon</c><00:05:22.120><c> can</c><00:05:22.280><c> help.</c>
+
+00:05:22.550 --> 00:05:22.560 align:start position:0%
+case a longer time horizon can help.
+ 
+
+00:05:22.560 --> 00:05:24.110 align:start position:0%
+case a longer time horizon can help.
+You're<00:05:22.680><c> saying,</c><00:05:22.960><c> "Why</c><00:05:23.200><c> might</c><00:05:23.440><c> convergence</c>
+
+00:05:24.110 --> 00:05:24.120 align:start position:0%
+You're saying, "Why might convergence
+ 
+
+00:05:24.120 --> 00:05:25.590 align:start position:0%
+You're saying, "Why might convergence
+not<00:05:24.400><c> happen?"</c>
+
+00:05:25.590 --> 00:05:25.600 align:start position:0%
+not happen?"
+ 
+
+00:05:25.600 --> 00:05:27.310 align:start position:0%
+not happen?"
+No,<00:05:26.160><c> for</c><00:05:26.320><c> a</c><00:05:26.360><c> good</c><00:05:26.560><c> number</c><00:05:26.880><c> of</c><00:05:26.960><c> different</c>
+
+00:05:27.310 --> 00:05:27.320 align:start position:0%
+No, for a good number of different
+ 
+
+00:05:27.320 --> 00:05:29.110 align:start position:0%
+No, for a good number of different
+reasons.<00:05:27.800><c> One</c><00:05:28.080><c> is</c><00:05:28.400><c> we</c><00:05:28.520><c> talked</c><00:05:28.840><c> about</c>
+
+00:05:29.110 --> 00:05:29.120 align:start position:0%
+reasons. One is we talked about
+ 
+
+00:05:29.120 --> 00:05:31.150 align:start position:0%
+reasons. One is we talked about
+converting<00:05:29.600><c> ADRs</c><00:05:30.120><c> to</c><00:05:30.240><c> shares</c><00:05:30.680><c> is</c><00:05:30.880><c> not</c>
+
+00:05:31.150 --> 00:05:31.160 align:start position:0%
+converting ADRs to shares is not
+ 
+
+00:05:31.160 --> 00:05:33.909 align:start position:0%
+converting ADRs to shares is not
+necessarily<00:05:32.240><c> easy</c><00:05:32.640><c> to</c><00:05:32.760><c> do.</c><00:05:32.960><c> Then</c><00:05:33.680><c> you</c><00:05:33.800><c> might</c>
+
+00:05:33.909 --> 00:05:33.919 align:start position:0%
+necessarily easy to do. Then you might
+ 
+
+00:05:33.919 --> 00:05:35.670 align:start position:0%
+necessarily easy to do. Then you might
+have<00:05:34.040><c> exchange</c><00:05:34.640><c> rate</c><00:05:34.880><c> issues</c><00:05:35.280><c> when</c><00:05:35.440><c> you</c><00:05:35.520><c> try</c>
+
+00:05:35.670 --> 00:05:35.680 align:start position:0%
+have exchange rate issues when you try
+ 
+
+00:05:35.680 --> 00:05:38.470 align:start position:0%
+have exchange rate issues when you try
+to<00:05:35.840><c> convert</c><00:05:36.280><c> currency.</c><00:05:36.840><c> So</c><00:05:37.080><c> multiple</c><00:05:38.040><c> real</c>
+
+00:05:38.470 --> 00:05:38.480 align:start position:0%
+to convert currency. So multiple real
+ 
+
+00:05:38.480 --> 00:05:41.430 align:start position:0%
+to convert currency. So multiple real
+world<00:05:38.760><c> concerns</c><00:05:39.360><c> can</c><00:05:39.520><c> keep</c><00:05:40.000><c> keep</c><00:05:40.280><c> ADRs</c><00:05:40.960><c> priced</c>
+
+00:05:41.430 --> 00:05:41.440 align:start position:0%
+world concerns can keep keep ADRs priced
+ 
+
+00:05:41.440 --> 00:05:43.750 align:start position:0%
+world concerns can keep keep ADRs priced
+differently<00:05:41.960><c> than</c><00:05:42.120><c> local</c><00:05:42.440><c> listings.</c>
+
+00:05:43.750 --> 00:05:43.760 align:start position:0%
+differently than local listings.
+ 
+
+00:05:43.760 --> 00:05:44.790 align:start position:0%
+differently than local listings.
+So<00:05:43.840><c> that's</c>
+
+00:05:44.790 --> 00:05:44.800 align:start position:0%
+So that's
+ 
+
+00:05:44.800 --> 00:05:48.350 align:start position:0%
+So that's
+dual<00:05:45.080><c> listings</c><00:05:46.520><c> and</c><00:05:46.840><c> why</c><00:05:47.160><c> they</c><00:05:47.360><c> might</c><00:05:47.760><c> not</c><00:05:48.240><c> or</c>
+
+00:05:48.350 --> 00:05:48.360 align:start position:0%
+dual listings and why they might not or
+ 
+
+00:05:48.360 --> 00:05:52.110 align:start position:0%
+dual listings and why they might not or
+might<00:05:48.680><c> be</c><00:05:48.840><c> the</c><00:05:48.960><c> basis</c><00:05:49.480><c> for</c><00:05:50.240><c> near</c><00:05:50.600><c> arbitrage.</c>
+
+00:05:52.110 --> 00:05:52.120 align:start position:0%
+might be the basis for near arbitrage.
+ 
+
+00:05:52.120 --> 00:05:53.870 align:start position:0%
+might be the basis for near arbitrage.
+Another<00:05:52.480><c> place</c><00:05:52.880><c> where</c><00:05:53.040><c> you</c><00:05:53.160><c> can</c><00:05:53.280><c> try</c><00:05:53.520><c> near</c>
+
+00:05:53.870 --> 00:05:53.880 align:start position:0%
+Another place where you can try near
+ 
+
+00:05:53.880 --> 00:05:56.350 align:start position:0%
+Another place where you can try near
+arbitrage<00:05:54.640><c> is</c><00:05:54.920><c> closed-end</c><00:05:55.640><c> mutual</c><00:05:56.080><c> funds.</c>
+
+00:05:56.350 --> 00:05:56.360 align:start position:0%
+arbitrage is closed-end mutual funds.
+ 
+
+00:05:56.360 --> 00:05:58.230 align:start position:0%
+arbitrage is closed-end mutual funds.
+Closed-end<00:05:56.840><c> mutual</c><00:05:57.200><c> fund</c><00:05:57.480><c> is</c><00:05:57.600><c> like</c><00:05:57.760><c> a</c><00:05:57.840><c> regular</c>
+
+00:05:58.230 --> 00:05:58.240 align:start position:0%
+Closed-end mutual fund is like a regular
+ 
+
+00:05:58.240 --> 00:05:59.990 align:start position:0%
+Closed-end mutual fund is like a regular
+mutual<00:05:58.600><c> fund</c><00:05:58.760><c> in</c><00:05:58.840><c> the</c><00:05:58.920><c> sense</c><00:05:59.160><c> that</c><00:05:59.280><c> it</c><00:05:59.520><c> invests</c>
+
+00:05:59.990 --> 00:06:00.000 align:start position:0%
+mutual fund in the sense that it invests
+ 
+
+00:06:00.000 --> 00:06:02.270 align:start position:0%
+mutual fund in the sense that it invests
+in<00:06:00.120><c> publicly</c><00:06:00.560><c> traded</c><00:06:00.960><c> companies.</c>
+
+00:06:02.270 --> 00:06:02.280 align:start position:0%
+in publicly traded companies.
+ 
+
+00:06:02.280 --> 00:06:04.350 align:start position:0%
+in publicly traded companies.
+But<00:06:02.400><c> unlike</c><00:06:02.920><c> regular</c><00:06:03.360><c> mutual</c><00:06:03.760><c> funds</c><00:06:04.040><c> when</c><00:06:04.240><c> you</c>
+
+00:06:04.350 --> 00:06:04.360 align:start position:0%
+But unlike regular mutual funds when you
+ 
+
+00:06:04.360 --> 00:06:06.030 align:start position:0%
+But unlike regular mutual funds when you
+send<00:06:04.640><c> money</c><00:06:04.840><c> into</c><00:06:05.040><c> the</c><00:06:05.120><c> fund,</c><00:06:05.480><c> the</c><00:06:05.560><c> number</c><00:06:05.920><c> of</c>
+
+00:06:06.030 --> 00:06:06.040 align:start position:0%
+send money into the fund, the number of
+ 
+
+00:06:06.040 --> 00:06:08.430 align:start position:0%
+send money into the fund, the number of
+units<00:06:06.440><c> in</c><00:06:06.520><c> the</c><00:06:06.640><c> fund</c><00:06:06.920><c> just</c><00:06:07.160><c> expands</c><00:06:08.080><c> to</c><00:06:08.200><c> fill</c>
+
+00:06:08.430 --> 00:06:08.440 align:start position:0%
+units in the fund just expands to fill
+ 
+
+00:06:08.440 --> 00:06:10.350 align:start position:0%
+units in the fund just expands to fill
+the<00:06:08.560><c> extra</c><00:06:08.880><c> money.</c><00:06:09.640><c> With</c><00:06:09.800><c> a</c><00:06:09.840><c> closed-end</c>
+
+00:06:10.350 --> 00:06:10.360 align:start position:0%
+the extra money. With a closed-end
+ 
+
+00:06:10.360 --> 00:06:12.030 align:start position:0%
+the extra money. With a closed-end
+mutual<00:06:10.720><c> fund,</c><00:06:11.200><c> the</c><00:06:11.280><c> stock</c><00:06:11.560><c> is</c><00:06:11.680><c> actually</c>
+
+00:06:12.030 --> 00:06:12.040 align:start position:0%
+mutual fund, the stock is actually
+ 
+
+00:06:12.040 --> 00:06:14.110 align:start position:0%
+mutual fund, the stock is actually
+traded.<00:06:12.400><c> The</c><00:06:12.520><c> fund</c><00:06:12.920><c> itself</c><00:06:13.320><c> is</c><00:06:13.480><c> traded.</c><00:06:14.000><c> So</c>
+
+00:06:14.110 --> 00:06:14.120 align:start position:0%
+traded. The fund itself is traded. So
+ 
+
+00:06:14.120 --> 00:06:16.550 align:start position:0%
+traded. The fund itself is traded. So
+there's<00:06:14.320><c> a</c><00:06:14.400><c> market</c><00:06:15.160><c> value</c><00:06:15.480><c> for</c><00:06:15.600><c> the</c><00:06:15.680><c> fund</c>
+
+00:06:16.550 --> 00:06:16.560 align:start position:0%
+there's a market value for the fund
+ 
+
+00:06:16.560 --> 00:06:18.430 align:start position:0%
+there's a market value for the fund
+which<00:06:16.760><c> is</c><00:06:16.920><c> different</c><00:06:17.520><c> from</c><00:06:17.680><c> the</c><00:06:17.800><c> sum</c><00:06:18.240><c> of</c><00:06:18.320><c> the</c>
+
+00:06:18.430 --> 00:06:18.440 align:start position:0%
+which is different from the sum of the
+ 
+
+00:06:18.440 --> 00:06:20.550 align:start position:0%
+which is different from the sum of the
+market<00:06:18.840><c> values</c><00:06:19.280><c> of</c><00:06:19.400><c> the</c><00:06:19.560><c> companies</c><00:06:20.240><c> that</c><00:06:20.400><c> are</c>
+
+00:06:20.550 --> 00:06:20.560 align:start position:0%
+market values of the companies that are
+ 
+
+00:06:20.560 --> 00:06:22.790 align:start position:0%
+market values of the companies that are
+in<00:06:20.720><c> that</c><00:06:20.960><c> fund.</c>
+
+00:06:22.790 --> 00:06:22.800 align:start position:0%
+in that fund.
+ 
+
+00:06:22.800 --> 00:06:24.550 align:start position:0%
+in that fund.
+You<00:06:22.919><c> could</c><00:06:23.120><c> argue</c><00:06:23.480><c> that</c><00:06:23.760><c> if</c><00:06:23.960><c> closed-end</c>
+
+00:06:24.550 --> 00:06:24.560 align:start position:0%
+You could argue that if closed-end
+ 
+
+00:06:24.560 --> 00:06:27.510 align:start position:0%
+You could argue that if closed-end
+mutual<00:06:25.000><c> funds</c><00:06:25.600><c> trade</c><00:06:26.120><c> at</c><00:06:26.240><c> a</c><00:06:26.320><c> price</c><00:06:26.720><c> less</c><00:06:27.160><c> than</c>
+
+00:06:27.510 --> 00:06:27.520 align:start position:0%
+mutual funds trade at a price less than
+ 
+
+00:06:27.520 --> 00:06:29.430 align:start position:0%
+mutual funds trade at a price less than
+the<00:06:27.600><c> value</c><00:06:28.160><c> of</c><00:06:28.360><c> the</c><00:06:28.480><c> securities</c><00:06:29.080><c> that</c><00:06:29.240><c> they</c>
+
+00:06:29.430 --> 00:06:29.440 align:start position:0%
+the value of the securities that they
+ 
+
+00:06:29.440 --> 00:06:30.630 align:start position:0%
+the value of the securities that they
+own,
+
+00:06:30.630 --> 00:06:30.640 align:start position:0%
+own,
+ 
+
+00:06:30.640 --> 00:06:32.350 align:start position:0%
+own,
+that's<00:06:30.760><c> an</c><00:06:30.880><c> arbitrage,</c><00:06:31.560><c> right?</c><00:06:31.840><c> Because</c><00:06:32.240><c> you</c>
+
+00:06:32.350 --> 00:06:32.360 align:start position:0%
+that's an arbitrage, right? Because you
+ 
+
+00:06:32.360 --> 00:06:33.630 align:start position:0%
+that's an arbitrage, right? Because you
+should<00:06:32.480><c> be</c><00:06:32.560><c> able</c><00:06:32.720><c> to</c><00:06:32.800><c> buy</c><00:06:33.000><c> the</c><00:06:33.120><c> company,</c>
+
+00:06:33.630 --> 00:06:33.640 align:start position:0%
+should be able to buy the company,
+ 
+
+00:06:33.640 --> 00:06:35.110 align:start position:0%
+should be able to buy the company,
+liquidate<00:06:34.120><c> the</c><00:06:34.200><c> stocks,</c><00:06:34.640><c> and</c><00:06:34.760><c> keep</c><00:06:35.000><c> the</c>
+
+00:06:35.110 --> 00:06:35.120 align:start position:0%
+liquidate the stocks, and keep the
+ 
+
+00:06:35.120 --> 00:06:36.590 align:start position:0%
+liquidate the stocks, and keep the
+difference.
+
+00:06:36.590 --> 00:06:36.600 align:start position:0%
+difference.
+ 
+
+00:06:36.600 --> 00:06:38.310 align:start position:0%
+difference.
+Here's<00:06:36.800><c> a</c><00:06:36.880><c> reality</c><00:06:37.400><c> check.</c>
+
+00:06:38.310 --> 00:06:38.320 align:start position:0%
+Here's a reality check.
+ 
+
+00:06:38.320 --> 00:06:40.909 align:start position:0%
+Here's a reality check.
+Most<00:06:38.680><c> closed-end</c><00:06:39.200><c> funds</c><00:06:39.600><c> trade</c><00:06:40.080><c> at</c><00:06:40.280><c> discounts</c>
+
+00:06:40.909 --> 00:06:40.919 align:start position:0%
+Most closed-end funds trade at discounts
+ 
+
+00:06:40.919 --> 00:06:43.630 align:start position:0%
+Most closed-end funds trade at discounts
+that<00:06:41.040><c> are</c><00:06:41.120><c> pretty</c><00:06:41.440><c> significant,</c><00:06:42.120><c> 10,</c><00:06:42.400><c> 15,</c><00:06:42.840><c> 20%</c>
+
+00:06:43.630 --> 00:06:43.640 align:start position:0%
+that are pretty significant, 10, 15, 20%
+ 
+
+00:06:43.640 --> 00:06:46.070 align:start position:0%
+that are pretty significant, 10, 15, 20%
+on<00:06:43.840><c> the</c><00:06:44.600><c> value</c><00:06:45.080><c> of</c><00:06:45.200><c> the</c><00:06:45.320><c> assets</c><00:06:45.760><c> in</c><00:06:45.840><c> play.</c>
+
+00:06:46.070 --> 00:06:46.080 align:start position:0%
+on the value of the assets in play.
+ 
+
+00:06:46.080 --> 00:06:47.790 align:start position:0%
+on the value of the assets in play.
+There<00:06:46.200><c> are</c><00:06:46.280><c> a</c><00:06:46.320><c> few</c><00:06:46.600><c> that</c><00:06:46.840><c> trade</c><00:06:47.120><c> at</c><00:06:47.200><c> a</c><00:06:47.280><c> premium</c>
+
+00:06:47.790 --> 00:06:47.800 align:start position:0%
+There are a few that trade at a premium
+ 
+
+00:06:47.800 --> 00:06:49.790 align:start position:0%
+There are a few that trade at a premium
+and<00:06:47.919><c> we</c><00:06:48.000><c> talked</c><00:06:48.360><c> about</c><00:06:48.760><c> why</c><00:06:49.000><c> that</c><00:06:49.280><c> might</c><00:06:49.560><c> be</c>
+
+00:06:49.790 --> 00:06:49.800 align:start position:0%
+and we talked about why that might be
+ 
+
+00:06:49.800 --> 00:06:53.350 align:start position:0%
+and we talked about why that might be
+when<00:06:49.960><c> we</c><00:06:50.080><c> talked</c><00:06:50.360><c> about</c><00:06:51.120><c> Berkshire</c><00:06:51.600><c> Hathaway.</c>
+
+00:06:53.350 --> 00:06:53.360 align:start position:0%
+when we talked about Berkshire Hathaway.
+ 
+
+00:06:53.360 --> 00:06:55.030 align:start position:0%
+when we talked about Berkshire Hathaway.
+But<00:06:53.400><c> you're</c><00:06:53.480><c> saying,</c><00:06:54.040><c> why</c><00:06:54.360><c> wouldn't</c><00:06:54.800><c> I</c><00:06:54.880><c> be</c>
+
+00:06:55.030 --> 00:06:55.040 align:start position:0%
+But you're saying, why wouldn't I be
+ 
+
+00:06:55.040 --> 00:06:57.150 align:start position:0%
+But you're saying, why wouldn't I be
+able<00:06:55.320><c> to</c><00:06:55.440><c> exploit</c><00:06:56.000><c> these</c><00:06:56.320><c> discounted</c>
+
+00:06:57.150 --> 00:06:57.160 align:start position:0%
+able to exploit these discounted
+ 
+
+00:06:57.160 --> 00:06:58.790 align:start position:0%
+able to exploit these discounted
+closed-end<00:06:57.760><c> funds</c><00:06:58.280><c> and</c><00:06:58.440><c> keep</c><00:06:58.680><c> the</c>
+
+00:06:58.790 --> 00:06:58.800 align:start position:0%
+closed-end funds and keep the
+ 
+
+00:06:58.800 --> 00:07:00.630 align:start position:0%
+closed-end funds and keep the
+difference?<00:06:59.720><c> Let's</c><00:06:59.919><c> talk</c><00:07:00.160><c> about</c><00:07:00.440><c> some</c>
+
+00:07:00.630 --> 00:07:00.640 align:start position:0%
+difference? Let's talk about some
+ 
+
+00:07:00.640 --> 00:07:02.590 align:start position:0%
+difference? Let's talk about some
+practical<00:07:01.240><c> issues</c><00:07:01.720><c> here.</c>
+
+00:07:02.590 --> 00:07:02.600 align:start position:0%
+practical issues here.
+ 
+
+00:07:02.600 --> 00:07:04.909 align:start position:0%
+practical issues here.
+One<00:07:02.840><c> is</c><00:07:03.640><c> there</c><00:07:03.760><c> are</c><00:07:03.880><c> times</c><00:07:04.280><c> when</c><00:07:04.400><c> closed-end</c>
+
+00:07:04.909 --> 00:07:04.919 align:start position:0%
+One is there are times when closed-end
+ 
+
+00:07:04.919 --> 00:07:06.950 align:start position:0%
+One is there are times when closed-end
+funds<00:07:05.400><c> do</c><00:07:05.680><c> unlock</c><00:07:06.120><c> the</c><00:07:06.240><c> discount</c><00:07:06.720><c> by</c>
+
+00:07:06.950 --> 00:07:06.960 align:start position:0%
+funds do unlock the discount by
+ 
+
+00:07:06.960 --> 00:07:09.870 align:start position:0%
+funds do unlock the discount by
+open-ending.<00:07:08.160><c> But</c><00:07:08.360><c> it's</c><00:07:08.520><c> a</c><00:07:08.600><c> gradual</c><00:07:09.240><c> process.</c>
+
+00:07:09.870 --> 00:07:09.880 align:start position:0%
+open-ending. But it's a gradual process.
+ 
+
+00:07:09.880 --> 00:07:11.350 align:start position:0%
+open-ending. But it's a gradual process.
+It's<00:07:09.919><c> not</c><00:07:10.120><c> like</c><00:07:10.320><c> you</c><00:07:10.400><c> make</c><00:07:10.640><c> money</c><00:07:10.919><c> overnight</c>
+
+00:07:11.350 --> 00:07:11.360 align:start position:0%
+It's not like you make money overnight
+ 
+
+00:07:11.360 --> 00:07:13.750 align:start position:0%
+It's not like you make money overnight
+because<00:07:11.640><c> the</c><00:07:11.720><c> process</c><00:07:12.200><c> has</c><00:07:12.400><c> to</c><00:07:12.520><c> play</c><00:07:12.760><c> out.</c>
+
+00:07:13.750 --> 00:07:13.760 align:start position:0%
+because the process has to play out.
+ 
+
+00:07:13.760 --> 00:07:17.430 align:start position:0%
+because the process has to play out.
+So<00:07:13.919><c> when</c><00:07:14.120><c> you</c><00:07:14.280><c> do</c><00:07:14.600><c> see</c><00:07:15.320><c> the</c><00:07:15.720><c> the</c><00:07:16.200><c> uh</c><00:07:16.280><c> the</c><00:07:16.800><c> the</c>
+
+00:07:17.430 --> 00:07:17.440 align:start position:0%
+So when you do see the the uh the the
+ 
+
+00:07:17.440 --> 00:07:18.990 align:start position:0%
+So when you do see the the uh the the
+these<00:07:17.720><c> closed-end</c><00:07:18.160><c> funds</c><00:07:18.360><c> are</c><00:07:18.440><c> open</c><00:07:18.760><c> and</c><00:07:18.880><c> the</c>
+
+00:07:18.990 --> 00:07:19.000 align:start position:0%
+these closed-end funds are open and the
+ 
+
+00:07:19.000 --> 00:07:21.310 align:start position:0%
+these closed-end funds are open and the
+discount<00:07:19.560><c> does</c><00:07:19.840><c> disappear.</c><00:07:20.960><c> But</c><00:07:21.160><c> in</c>
+
+00:07:21.310 --> 00:07:21.320 align:start position:0%
+discount does disappear. But in
+ 
+
+00:07:21.320 --> 00:07:23.630 align:start position:0%
+discount does disappear. But in
+practical<00:07:21.960><c> terms,</c><00:07:22.360><c> here</c><00:07:22.520><c> are</c><00:07:22.600><c> the</c><00:07:22.760><c> two</c><00:07:23.000><c> issues</c>
+
+00:07:23.630 --> 00:07:23.640 align:start position:0%
+practical terms, here are the two issues
+ 
+
+00:07:23.640 --> 00:07:26.110 align:start position:0%
+practical terms, here are the two issues
+that<00:07:23.880><c> might</c><00:07:24.120><c> actually</c><00:07:24.640><c> keep</c><00:07:25.080><c> you</c><00:07:25.280><c> from</c><00:07:25.680><c> being</c>
+
+00:07:26.110 --> 00:07:26.120 align:start position:0%
+that might actually keep you from being
+ 
+
+00:07:26.120 --> 00:07:28.990 align:start position:0%
+that might actually keep you from being
+able<00:07:26.400><c> to</c><00:07:26.520><c> profit</c><00:07:27.160><c> from</c><00:07:27.520><c> that</c><00:07:27.760><c> discount.</c>
+
+00:07:28.990 --> 00:07:29.000 align:start position:0%
+able to profit from that discount.
+ 
+
+00:07:29.000 --> 00:07:30.990 align:start position:0%
+able to profit from that discount.
+The<00:07:29.080><c> first</c><00:07:29.400><c> is</c><00:07:29.560><c> remember,</c><00:07:29.960><c> to</c><00:07:30.320><c> exploit</c><00:07:30.880><c> the</c>
+
+00:07:30.990 --> 00:07:31.000 align:start position:0%
+The first is remember, to exploit the
+ 
+
+00:07:31.000 --> 00:07:32.670 align:start position:0%
+The first is remember, to exploit the
+difference,<00:07:31.560><c> you</c><00:07:31.680><c> got</c><00:07:31.880><c> to</c><00:07:31.960><c> be</c><00:07:32.080><c> able</c><00:07:32.280><c> to</c><00:07:32.440><c> buy</c>
+
+00:07:32.670 --> 00:07:32.680 align:start position:0%
+difference, you got to be able to buy
+ 
+
+00:07:32.680 --> 00:07:34.510 align:start position:0%
+difference, you got to be able to buy
+the<00:07:32.840><c> closed-end</c><00:07:33.400><c> fund</c><00:07:33.680><c> and</c><00:07:33.880><c> liquidate</c><00:07:34.400><c> the</c>
+
+00:07:34.510 --> 00:07:34.520 align:start position:0%
+the closed-end fund and liquidate the
+ 
+
+00:07:34.520 --> 00:07:35.670 align:start position:0%
+the closed-end fund and liquidate the
+stock.
+
+00:07:35.670 --> 00:07:35.680 align:start position:0%
+stock.
+ 
+
+00:07:35.680 --> 00:07:37.310 align:start position:0%
+stock.
+Well,<00:07:35.919><c> buying</c><00:07:36.320><c> the</c><00:07:36.440><c> closed-end</c><00:07:37.000><c> fund</c><00:07:37.200><c> and</c>
+
+00:07:37.310 --> 00:07:37.320 align:start position:0%
+Well, buying the closed-end fund and
+ 
+
+00:07:37.320 --> 00:07:39.270 align:start position:0%
+Well, buying the closed-end fund and
+getting<00:07:37.640><c> control</c><00:07:38.200><c> of</c><00:07:38.360><c> it</c><00:07:38.720><c> can</c><00:07:38.880><c> become</c><00:07:39.160><c> an</c>
+
+00:07:39.270 --> 00:07:39.280 align:start position:0%
+getting control of it can become an
+ 
+
+00:07:39.280 --> 00:07:40.950 align:start position:0%
+getting control of it can become an
+issue<00:07:39.560><c> because</c><00:07:39.840><c> there</c><00:07:39.919><c> might</c><00:07:40.160><c> be</c><00:07:40.320><c> the</c><00:07:40.600><c> the</c><00:07:40.760><c> way</c>
+
+00:07:40.950 --> 00:07:40.960 align:start position:0%
+issue because there might be the the way
+ 
+
+00:07:40.960 --> 00:07:44.110 align:start position:0%
+issue because there might be the the way
+it's<00:07:41.200><c> structured,</c><00:07:42.000><c> where</c><00:07:42.480><c> it's</c><00:07:43.120><c> listed,</c><00:07:43.920><c> how</c>
+
+00:07:44.110 --> 00:07:44.120 align:start position:0%
+it's structured, where it's listed, how
+ 
+
+00:07:44.120 --> 00:07:45.630 align:start position:0%
+it's structured, where it's listed, how
+it's<00:07:44.320><c> incorporated,</c><00:07:45.160><c> the</c><00:07:45.240><c> corporate</c>
+
+00:07:45.630 --> 00:07:45.640 align:start position:0%
+it's incorporated, the corporate
+ 
+
+00:07:45.640 --> 00:07:47.870 align:start position:0%
+it's incorporated, the corporate
+governance<00:07:46.600><c> might</c><00:07:46.760><c> be</c><00:07:46.880><c> such</c><00:07:47.160><c> you</c><00:07:47.280><c> might</c><00:07:47.600><c> not</c>
+
+00:07:47.870 --> 00:07:47.880 align:start position:0%
+governance might be such you might not
+ 
+
+00:07:47.880 --> 00:07:50.950 align:start position:0%
+governance might be such you might not
+be<00:07:48.080><c> able</c><00:07:48.840><c> to</c><00:07:49.240><c> take</c><00:07:49.520><c> over</c><00:07:49.680><c> the</c><00:07:49.800><c> fund</c><00:07:50.480><c> even</c><00:07:50.800><c> as</c>
+
+00:07:50.950 --> 00:07:50.960 align:start position:0%
+be able to take over the fund even as
+ 
+
+00:07:50.960 --> 00:07:52.510 align:start position:0%
+be able to take over the fund even as
+you<00:07:51.040><c> buy</c><00:07:51.240><c> a</c><00:07:51.320><c> bigger</c><00:07:51.600><c> and</c><00:07:51.720><c> bigger</c><00:07:51.960><c> stake</c><00:07:52.320><c> on</c><00:07:52.400><c> the</c>
+
+00:07:52.510 --> 00:07:52.520 align:start position:0%
+you buy a bigger and bigger stake on the
+ 
+
+00:07:52.520 --> 00:07:55.630 align:start position:0%
+you buy a bigger and bigger stake on the
+fund.<00:07:53.360><c> The</c><00:07:53.400><c> second</c><00:07:53.800><c> is</c><00:07:54.080><c> once</c><00:07:54.560><c> you</c><00:07:55.160><c> buy</c><00:07:55.440><c> the</c>
+
+00:07:55.630 --> 00:07:55.640 align:start position:0%
+fund. The second is once you buy the
+ 
+
+00:07:55.640 --> 00:07:57.630 align:start position:0%
+fund. The second is once you buy the
+fund<00:07:56.120><c> and</c><00:07:56.240><c> you</c><00:07:56.360><c> take</c><00:07:56.600><c> control,</c><00:07:57.280><c> when</c><00:07:57.440><c> you</c><00:07:57.520><c> go</c>
+
+00:07:57.630 --> 00:07:57.640 align:start position:0%
+fund and you take control, when you go
+ 
+
+00:07:57.640 --> 00:07:59.550 align:start position:0%
+fund and you take control, when you go
+to<00:07:57.800><c> sell</c><00:07:58.280><c> the</c><00:07:58.440><c> shares</c><00:07:58.880><c> in</c><00:07:58.960><c> the</c><00:07:59.040><c> fund,</c><00:07:59.280><c> remember</c>
+
+00:07:59.550 --> 00:07:59.560 align:start position:0%
+to sell the shares in the fund, remember
+ 
+
+00:07:59.560 --> 00:08:01.430 align:start position:0%
+to sell the shares in the fund, remember
+there<00:07:59.680><c> are</c><00:07:59.760><c> two</c><00:07:59.920><c> things</c><00:08:00.240><c> to</c><00:08:00.320><c> deal</c><00:08:00.520><c> with.</c><00:08:01.240><c> One</c>
+
+00:08:01.430 --> 00:08:01.440 align:start position:0%
+there are two things to deal with. One
+ 
+
+00:08:01.440 --> 00:08:03.310 align:start position:0%
+there are two things to deal with. One
+is<00:08:01.640><c> in</c><00:08:01.720><c> the</c><00:08:01.880><c> process</c><00:08:02.560><c> of</c><00:08:02.680><c> selling</c><00:08:03.080><c> those</c>
+
+00:08:03.310 --> 00:08:03.320 align:start position:0%
+is in the process of selling those
+ 
+
+00:08:03.320 --> 00:08:05.030 align:start position:0%
+is in the process of selling those
+shares,<00:08:04.120><c> you</c><00:08:04.240><c> might</c><00:08:04.400><c> affect</c><00:08:04.720><c> the</c><00:08:04.800><c> price.</c>
+
+00:08:05.030 --> 00:08:05.040 align:start position:0%
+shares, you might affect the price.
+ 
+
+00:08:05.040 --> 00:08:06.750 align:start position:0%
+shares, you might affect the price.
+There<00:08:05.120><c> might</c><00:08:05.320><c> be</c><00:08:05.400><c> a</c><00:08:05.480><c> price</c><00:08:05.760><c> impact,</c><00:08:06.440><c> pushing</c>
+
+00:08:06.750 --> 00:08:06.760 align:start position:0%
+There might be a price impact, pushing
+ 
+
+00:08:06.760 --> 00:08:08.910 align:start position:0%
+There might be a price impact, pushing
+the<00:08:06.840><c> price</c><00:08:07.160><c> down.</c><00:08:07.840><c> And</c><00:08:08.040><c> second,</c><00:08:08.480><c> if</c><00:08:08.680><c> you</c><00:08:08.800><c> are</c>
+
+00:08:08.910 --> 00:08:08.920 align:start position:0%
+the price down. And second, if you are
+ 
+
+00:08:08.920 --> 00:08:10.870 align:start position:0%
+the price down. And second, if you are
+selling<00:08:09.360><c> these</c><00:08:09.600><c> shares</c><00:08:09.840><c> at</c><00:08:09.960><c> a</c><00:08:10.000><c> price</c><00:08:10.400><c> much</c>
+
+00:08:10.870 --> 00:08:10.880 align:start position:0%
+selling these shares at a price much
+ 
+
+00:08:10.880 --> 00:08:12.390 align:start position:0%
+selling these shares at a price much
+higher<00:08:11.280><c> than</c><00:08:11.440><c> the</c><00:08:11.520><c> price</c><00:08:11.840><c> you</c><00:08:11.960><c> bought</c><00:08:12.200><c> them</c>
+
+00:08:12.390 --> 00:08:12.400 align:start position:0%
+higher than the price you bought them
+ 
+
+00:08:12.400 --> 00:08:13.310 align:start position:0%
+higher than the price you bought them
+at,
+
+00:08:13.310 --> 00:08:13.320 align:start position:0%
+at,
+ 
+
+00:08:13.320 --> 00:08:14.990 align:start position:0%
+at,
+there's<00:08:13.480><c> a</c><00:08:13.560><c> capital</c><00:08:14.040><c> gain</c><00:08:14.400><c> on</c><00:08:14.520><c> which</c><00:08:14.720><c> you</c><00:08:14.800><c> got</c>
+
+00:08:14.990 --> 00:08:15.000 align:start position:0%
+there's a capital gain on which you got
+ 
+
+00:08:15.000 --> 00:08:17.270 align:start position:0%
+there's a capital gain on which you got
+to<00:08:15.080><c> pay</c><00:08:15.280><c> taxes.</c><00:08:16.320><c> We</c><00:08:16.440><c> talked</c><00:08:16.760><c> a</c><00:08:16.800><c> little</c><00:08:17.120><c> bit</c>
+
+00:08:17.270 --> 00:08:17.280 align:start position:0%
+to pay taxes. We talked a little bit
+ 
+
+00:08:17.280 --> 00:08:18.790 align:start position:0%
+to pay taxes. We talked a little bit
+about<00:08:17.640><c> this</c><00:08:17.840><c> earlier</c><00:08:18.120><c> in</c><00:08:18.200><c> the</c><00:08:18.280><c> context</c><00:08:18.680><c> of</c>
+
+00:08:18.790 --> 00:08:18.800 align:start position:0%
+about this earlier in the context of
+ 
+
+00:08:18.800 --> 00:08:20.870 align:start position:0%
+about this earlier in the context of
+transactions<00:08:19.560><c> cost.</c>
+
+00:08:20.870 --> 00:08:20.880 align:start position:0%
+transactions cost.
+ 
+
+00:08:20.880 --> 00:08:23.350 align:start position:0%
+transactions cost.
+But<00:08:21.080><c> closed-end</c><00:08:21.640><c> funds</c><00:08:22.120><c> look</c><00:08:22.560><c> like</c><00:08:22.800><c> arbitrage</c>
+
+00:08:23.350 --> 00:08:23.360 align:start position:0%
+But closed-end funds look like arbitrage
+ 
+
+00:08:23.360 --> 00:08:24.790 align:start position:0%
+But closed-end funds look like arbitrage
+opportunities
+
+00:08:24.790 --> 00:08:24.800 align:start position:0%
+opportunities
+ 
+
+00:08:24.800 --> 00:08:27.550 align:start position:0%
+opportunities
+on<00:08:25.000><c> paper,</c><00:08:25.480><c> but</c><00:08:25.680><c> in</c><00:08:25.840><c> practice,</c><00:08:27.040><c> it's</c><00:08:27.240><c> actually</c>
+
+00:08:27.550 --> 00:08:27.560 align:start position:0%
+on paper, but in practice, it's actually
+ 
+
+00:08:27.560 --> 00:08:29.550 align:start position:0%
+on paper, but in practice, it's actually
+very<00:08:27.760><c> difficult</c><00:08:28.360><c> to</c><00:08:28.480><c> make</c><00:08:28.800><c> money</c><00:08:29.160><c> off</c><00:08:29.360><c> that</c>
+
+00:08:29.550 --> 00:08:29.560 align:start position:0%
+very difficult to make money off that
+ 
+
+00:08:29.560 --> 00:08:31.070 align:start position:0%
+very difficult to make money off that
+discount.
+
+00:08:31.070 --> 00:08:31.080 align:start position:0%
+discount.
+ 
+
+00:08:31.080 --> 00:08:33.070 align:start position:0%
+discount.
+But<00:08:31.240><c> there's</c><00:08:31.480><c> a</c><00:08:31.640><c> more</c><00:08:31.880><c> nuanced</c><00:08:32.479><c> play</c><00:08:32.760><c> you</c><00:08:32.919><c> can</c>
+
+00:08:33.070 --> 00:08:33.080 align:start position:0%
+But there's a more nuanced play you can
+ 
+
+00:08:33.080 --> 00:08:35.350 align:start position:0%
+But there's a more nuanced play you can
+make<00:08:33.599><c> on</c><00:08:33.719><c> closed-end</c><00:08:34.240><c> funds.</c>
+
+00:08:35.350 --> 00:08:35.360 align:start position:0%
+make on closed-end funds.
+ 
+
+00:08:35.360 --> 00:08:36.790 align:start position:0%
+make on closed-end funds.
+You<00:08:35.400><c> look</c><00:08:35.520><c> at</c><00:08:35.599><c> the</c><00:08:35.680><c> discount</c><00:08:36.200><c> in</c><00:08:36.320><c> closed-end</c>
+
+00:08:36.790 --> 00:08:36.800 align:start position:0%
+You look at the discount in closed-end
+ 
+
+00:08:36.800 --> 00:08:38.510 align:start position:0%
+You look at the discount in closed-end
+funds.<00:08:37.159><c> The</c><00:08:37.240><c> discounts</c><00:08:37.719><c> vary</c><00:08:38.159><c> across</c>
+
+00:08:38.510 --> 00:08:38.520 align:start position:0%
+funds. The discounts vary across
+ 
+
+00:08:38.520 --> 00:08:40.310 align:start position:0%
+funds. The discounts vary across
+closed-end<00:08:39.000><c> funds.</c><00:08:39.240><c> Some</c><00:08:39.440><c> dis-</c><00:08:39.960><c> Closed-end</c>
+
+00:08:40.310 --> 00:08:40.320 align:start position:0%
+closed-end funds. Some dis- Closed-end
+ 
+
+00:08:40.320 --> 00:08:43.149 align:start position:0%
+closed-end funds. Some dis- Closed-end
+funds<00:08:40.520><c> are</c><00:08:40.599><c> discounted</c><00:08:40.960><c> by</c><00:08:41.039><c> 10%,</c><00:08:41.719><c> 15,</c><00:08:42.159><c> 20,</c><00:08:42.560><c> 25,</c>
+
+00:08:43.149 --> 00:08:43.159 align:start position:0%
+funds are discounted by 10%, 15, 20, 25,
+ 
+
+00:08:43.159 --> 00:08:45.910 align:start position:0%
+funds are discounted by 10%, 15, 20, 25,
+30.<00:08:43.800><c> Some</c><00:08:44.000><c> are</c><00:08:44.039><c> discounted</c><00:08:44.400><c> by</c><00:08:44.480><c> 50%.</c>
+
+00:08:45.910 --> 00:08:45.920 align:start position:0%
+30. Some are discounted by 50%.
+ 
+
+00:08:45.920 --> 00:08:47.710 align:start position:0%
+30. Some are discounted by 50%.
+So<00:08:46.040><c> what</c><00:08:46.240><c> this</c><00:08:46.400><c> study</c><00:08:46.720><c> looked</c><00:08:47.080><c> at</c><00:08:47.320><c> was</c><00:08:47.560><c> the</c>
+
+00:08:47.710 --> 00:08:47.720 align:start position:0%
+So what this study looked at was the
+ 
+
+00:08:47.720 --> 00:08:50.190 align:start position:0%
+So what this study looked at was the
+most<00:08:48.200><c> discounted</c><00:08:49.000><c> and</c><00:08:49.080><c> the</c><00:08:49.200><c> least</c><00:08:49.600><c> discounted</c>
+
+00:08:50.190 --> 00:08:50.200 align:start position:0%
+most discounted and the least discounted
+ 
+
+00:08:50.200 --> 00:08:52.070 align:start position:0%
+most discounted and the least discounted
+funds<00:08:50.520><c> and</c><00:08:50.680><c> tracked</c><00:08:51.200><c> the</c><00:08:51.320><c> discounts</c><00:08:51.880><c> over</c>
+
+00:08:52.070 --> 00:08:52.080 align:start position:0%
+funds and tracked the discounts over
+ 
+
+00:08:52.080 --> 00:08:53.110 align:start position:0%
+funds and tracked the discounts over
+time.
+
+00:08:53.110 --> 00:08:53.120 align:start position:0%
+time.
+ 
+
+00:08:53.120 --> 00:08:55.390 align:start position:0%
+time.
+And<00:08:53.240><c> it</c><00:08:53.360><c> discovered</c><00:08:54.160><c> mean</c><00:08:54.600><c> reversion,</c><00:08:55.160><c> that</c>
+
+00:08:55.390 --> 00:08:55.400 align:start position:0%
+And it discovered mean reversion, that
+ 
+
+00:08:55.400 --> 00:08:56.990 align:start position:0%
+And it discovered mean reversion, that
+things<00:08:55.760><c> move</c><00:08:56.040><c> towards</c><00:08:56.320><c> an</c><00:08:56.440><c> average,</c><00:08:56.839><c> which</c>
+
+00:08:56.990 --> 00:08:57.000 align:start position:0%
+things move towards an average, which
+ 
+
+00:08:57.000 --> 00:08:58.910 align:start position:0%
+things move towards an average, which
+means<00:08:57.160><c> the</c><00:08:57.280><c> most</c><00:08:57.640><c> discounted</c><00:08:58.320><c> funds</c><00:08:58.680><c> have</c>
+
+00:08:58.910 --> 00:08:58.920 align:start position:0%
+means the most discounted funds have
+ 
+
+00:08:58.920 --> 00:09:00.630 align:start position:0%
+means the most discounted funds have
+their<00:08:59.040><c> discounts</c><00:08:59.680><c> decrease,</c><00:09:00.200><c> the</c><00:09:00.320><c> least</c>
+
+00:09:00.630 --> 00:09:00.640 align:start position:0%
+their discounts decrease, the least
+ 
+
+00:09:00.640 --> 00:09:02.390 align:start position:0%
+their discounts decrease, the least
+discounted<00:09:01.160><c> funds</c><00:09:01.360><c> see</c><00:09:01.480><c> their</c><00:09:01.600><c> discounts</c><00:09:02.160><c> go</c>
+
+00:09:02.390 --> 00:09:02.400 align:start position:0%
+discounted funds see their discounts go
+ 
+
+00:09:02.400 --> 00:09:03.510 align:start position:0%
+discounted funds see their discounts go
+up.
+
+00:09:03.510 --> 00:09:03.520 align:start position:0%
+up.
+ 
+
+00:09:03.520 --> 00:09:05.470 align:start position:0%
+up.
+This<00:09:03.680><c> is</c><00:09:03.800><c> clearly</c><00:09:04.080><c> not</c><00:09:04.320><c> arbitrage.</c><00:09:05.200><c> It's</c><00:09:05.360><c> an</c>
+
+00:09:05.470 --> 00:09:05.480 align:start position:0%
+This is clearly not arbitrage. It's an
+ 
+
+00:09:05.480 --> 00:09:07.430 align:start position:0%
+This is clearly not arbitrage. It's an
+investment<00:09:06.120><c> opportunity</c><00:09:06.800><c> where</c><00:09:06.960><c> you</c><00:09:07.080><c> buy</c><00:09:07.320><c> the</c>
+
+00:09:07.430 --> 00:09:07.440 align:start position:0%
+investment opportunity where you buy the
+ 
+
+00:09:07.440 --> 00:09:09.230 align:start position:0%
+investment opportunity where you buy the
+most<00:09:07.680><c> discounted</c><00:09:08.200><c> funds,</c><00:09:08.480><c> you</c><00:09:08.600><c> sell</c><00:09:08.880><c> short</c><00:09:09.160><c> on</c>
+
+00:09:09.230 --> 00:09:09.240 align:start position:0%
+most discounted funds, you sell short on
+ 
+
+00:09:09.240 --> 00:09:10.790 align:start position:0%
+most discounted funds, you sell short on
+the<00:09:09.320><c> least</c><00:09:09.600><c> discounted</c><00:09:10.120><c> funds</c><00:09:10.440><c> and</c><00:09:10.520><c> you</c><00:09:10.640><c> try</c>
+
+00:09:10.790 --> 00:09:10.800 align:start position:0%
+the least discounted funds and you try
+ 
+
+00:09:10.800 --> 00:09:13.310 align:start position:0%
+the least discounted funds and you try
+to<00:09:10.920><c> make</c><00:09:11.160><c> money</c><00:09:11.520><c> on</c><00:09:11.680><c> that,</c><00:09:12.400><c> not</c><00:09:12.600><c> convergence,</c>
+
+00:09:13.310 --> 00:09:13.320 align:start position:0%
+to make money on that, not convergence,
+ 
+
+00:09:13.320 --> 00:09:14.270 align:start position:0%
+to make money on that, not convergence,
+the
+
+00:09:14.270 --> 00:09:14.280 align:start position:0%
+the
+ 
+
+00:09:14.280 --> 00:09:16.670 align:start position:0%
+the
+the<00:09:14.720><c> lessening</c><00:09:15.440><c> of</c><00:09:15.560><c> the</c><00:09:15.680><c> divergence</c><00:09:16.320><c> across</c>
+
+00:09:16.670 --> 00:09:16.680 align:start position:0%
+the lessening of the divergence across
+ 
+
+00:09:16.680 --> 00:09:18.710 align:start position:0%
+the lessening of the divergence across
+the<00:09:16.800><c> funds.</c>
+
+00:09:18.710 --> 00:09:18.720 align:start position:0%
+the funds.
+ 
+
+00:09:18.720 --> 00:09:20.510 align:start position:0%
+the funds.
+In<00:09:18.880><c> a</c><00:09:18.960><c> related</c><00:09:19.920><c> um</c>
+
+00:09:20.510 --> 00:09:20.520 align:start position:0%
+In a related um
+ 
+
+00:09:20.520 --> 00:09:22.030 align:start position:0%
+In a related um
+issue,
+
+00:09:22.030 --> 00:09:22.040 align:start position:0%
+issue,
+ 
+
+00:09:22.040 --> 00:09:23.990 align:start position:0%
+issue,
+there's<00:09:22.240><c> this</c><00:09:22.920><c> there's</c><00:09:23.120><c> this</c><00:09:23.320><c> phenomenon</c>
+
+00:09:23.990 --> 00:09:24.000 align:start position:0%
+there's this there's this phenomenon
+ 
+
+00:09:24.000 --> 00:09:26.190 align:start position:0%
+there's this there's this phenomenon
+called<00:09:24.240><c> a</c><00:09:24.360><c> holding</c><00:09:25.000><c> company</c><00:09:25.520><c> a</c><00:09:25.600><c> conglomerate</c>
+
+00:09:26.190 --> 00:09:26.200 align:start position:0%
+called a holding company a conglomerate
+ 
+
+00:09:26.200 --> 00:09:29.510 align:start position:0%
+called a holding company a conglomerate
+discount.<00:09:27.000><c> A</c><00:09:27.120><c> holding</c><00:09:27.480><c> company</c><00:09:28.320><c> is</c><00:09:28.520><c> basically</c>
+
+00:09:29.510 --> 00:09:29.520 align:start position:0%
+discount. A holding company is basically
+ 
+
+00:09:29.520 --> 00:09:32.990 align:start position:0%
+discount. A holding company is basically
+a<00:09:29.680><c> company</c><00:09:30.280><c> that</c><00:09:30.720><c> is</c><00:09:30.920><c> composed</c><00:09:31.720><c> of</c>
+
+00:09:32.990 --> 00:09:33.000 align:start position:0%
+a company that is composed of
+ 
+
+00:09:33.000 --> 00:09:34.670 align:start position:0%
+a company that is composed of
+individual<00:09:33.560><c> companies</c><00:09:34.080><c> that</c><00:09:34.200><c> are</c><00:09:34.280><c> brought</c>
+
+00:09:34.670 --> 00:09:34.680 align:start position:0%
+individual companies that are brought
+ 
+
+00:09:34.680 --> 00:09:36.550 align:start position:0%
+individual companies that are brought
+into<00:09:34.920><c> a</c><00:09:35.000><c> a</c><00:09:35.440><c> entity.</c>
+
+00:09:36.550 --> 00:09:36.560 align:start position:0%
+into a a entity.
+ 
+
+00:09:36.560 --> 00:09:38.670 align:start position:0%
+into a a entity.
+In<00:09:36.720><c> many</c><00:09:37.000><c> cases,</c><00:09:37.600><c> the</c><00:09:37.720><c> individual</c><00:09:38.240><c> companies</c>
+
+00:09:38.670 --> 00:09:38.680 align:start position:0%
+In many cases, the individual companies
+ 
+
+00:09:38.680 --> 00:09:40.310 align:start position:0%
+In many cases, the individual companies
+are<00:09:38.800><c> publicly</c><00:09:39.280><c> traded,</c><00:09:39.760><c> have</c><00:09:39.920><c> their</c><00:09:40.120><c> own</c>
+
+00:09:40.310 --> 00:09:40.320 align:start position:0%
+are publicly traded, have their own
+ 
+
+00:09:40.320 --> 00:09:42.470 align:start position:0%
+are publicly traded, have their own
+market<00:09:40.680><c> value,</c><00:09:41.280><c> and</c><00:09:41.520><c> the</c><00:09:41.640><c> holding</c><00:09:42.040><c> company</c>
+
+00:09:42.470 --> 00:09:42.480 align:start position:0%
+market value, and the holding company
+ 
+
+00:09:42.480 --> 00:09:44.190 align:start position:0%
+market value, and the holding company
+discount<00:09:42.960><c> reflects</c><00:09:43.360><c> the</c><00:09:43.480><c> fact</c><00:09:43.840><c> that</c><00:09:43.960><c> if</c><00:09:44.080><c> you</c>
+
+00:09:44.190 --> 00:09:44.200 align:start position:0%
+discount reflects the fact that if you
+ 
+
+00:09:44.200 --> 00:09:45.830 align:start position:0%
+discount reflects the fact that if you
+take<00:09:44.440><c> a</c><00:09:44.480><c> holding</c><00:09:44.880><c> company</c><00:09:45.280><c> and</c><00:09:45.400><c> look</c><00:09:45.640><c> at</c><00:09:45.720><c> the</c>
+
+00:09:45.830 --> 00:09:45.840 align:start position:0%
+take a holding company and look at the
+ 
+
+00:09:45.840 --> 00:09:47.790 align:start position:0%
+take a holding company and look at the
+holdings<00:09:46.360><c> it</c><00:09:46.480><c> has,</c>
+
+00:09:47.790 --> 00:09:47.800 align:start position:0%
+holdings it has,
+ 
+
+00:09:47.800 --> 00:09:49.230 align:start position:0%
+holdings it has,
+and<00:09:47.880><c> you</c><00:09:48.000><c> take</c><00:09:48.240><c> the</c><00:09:48.320><c> market</c><00:09:48.720><c> value</c><00:09:48.960><c> of</c><00:09:49.040><c> those</c>
+
+00:09:49.230 --> 00:09:49.240 align:start position:0%
+and you take the market value of those
+ 
+
+00:09:49.240 --> 00:09:50.750 align:start position:0%
+and you take the market value of those
+holdings<00:09:49.600><c> and</c><00:09:49.680><c> you</c><00:09:49.760><c> add</c><00:09:49.920><c> them</c><00:09:50.120><c> up,</c><00:09:50.440><c> like</c>
+
+00:09:50.750 --> 00:09:50.760 align:start position:0%
+holdings and you add them up, like
+ 
+
+00:09:50.760 --> 00:09:52.510 align:start position:0%
+holdings and you add them up, like
+closed-end<00:09:51.360><c> funds,</c>
+
+00:09:52.510 --> 00:09:52.520 align:start position:0%
+closed-end funds,
+ 
+
+00:09:52.520 --> 00:09:54.470 align:start position:0%
+closed-end funds,
+holding<00:09:52.880><c> companies</c><00:09:53.560><c> often</c><00:09:53.960><c> trade</c><00:09:54.320><c> at</c><00:09:54.440><c> a</c>
+
+00:09:54.470 --> 00:09:54.480 align:start position:0%
+holding companies often trade at a
+ 
+
+00:09:54.480 --> 00:09:57.070 align:start position:0%
+holding companies often trade at a
+discount<00:09:55.480><c> on</c><00:09:56.000><c> the</c><00:09:56.080><c> market</c><00:09:56.480><c> value</c><00:09:56.840><c> of</c><00:09:56.920><c> their</c>
+
+00:09:57.070 --> 00:09:57.080 align:start position:0%
+discount on the market value of their
+ 
+
+00:09:57.080 --> 00:09:58.670 align:start position:0%
+discount on the market value of their
+holdings,
+
+00:09:58.670 --> 00:09:58.680 align:start position:0%
+holdings,
+ 
+
+00:09:58.680 --> 00:10:00.870 align:start position:0%
+holdings,
+especially<00:09:59.040><c> if</c><00:09:59.080><c> they're</c><00:09:59.200><c> publicly</c><00:09:59.640><c> traded.</c>
+
+00:10:00.870 --> 00:10:00.880 align:start position:0%
+especially if they're publicly traded.
+ 
+
+00:10:00.880 --> 00:10:03.110 align:start position:0%
+especially if they're publicly traded.
+Now,<00:10:01.040><c> of</c><00:10:01.160><c> course,</c><00:10:01.720><c> this</c><00:10:01.960><c> then</c><00:10:02.520><c> looks</c><00:10:02.880><c> like</c>
+
+00:10:03.110 --> 00:10:03.120 align:start position:0%
+Now, of course, this then looks like
+ 
+
+00:10:03.120 --> 00:10:04.510 align:start position:0%
+Now, of course, this then looks like
+arbitrage,<00:10:03.720><c> right?</c><00:10:03.880><c> You</c><00:10:03.960><c> should</c><00:10:04.080><c> be</c><00:10:04.200><c> able</c><00:10:04.360><c> to</c>
+
+00:10:04.510 --> 00:10:04.520 align:start position:0%
+arbitrage, right? You should be able to
+ 
+
+00:10:04.520 --> 00:10:08.030 align:start position:0%
+arbitrage, right? You should be able to
+buy<00:10:04.840><c> the</c><00:10:05.000><c> holding</c><00:10:05.520><c> company</c><00:10:06.240><c> and</c><00:10:07.360><c> sell</c><00:10:07.800><c> off</c>
+
+00:10:08.030 --> 00:10:08.040 align:start position:0%
+buy the holding company and sell off
+ 
+
+00:10:08.040 --> 00:10:11.310 align:start position:0%
+buy the holding company and sell off
+those<00:10:08.720><c> holdings</c><00:10:09.480><c> and</c><00:10:09.720><c> keep</c><00:10:09.960><c> the</c><00:10:10.080><c> difference.</c>
+
+00:10:11.310 --> 00:10:11.320 align:start position:0%
+those holdings and keep the difference.
+ 
+
+00:10:11.320 --> 00:10:12.790 align:start position:0%
+those holdings and keep the difference.
+So,<00:10:11.400><c> let's</c><00:10:11.640><c> see</c><00:10:11.760><c> what</c><00:10:12.000><c> keeps</c><00:10:12.280><c> the</c><00:10:12.400><c> holding</c>
+
+00:10:12.790 --> 00:10:12.800 align:start position:0%
+So, let's see what keeps the holding
+ 
+
+00:10:12.800 --> 00:10:15.830 align:start position:0%
+So, let's see what keeps the holding
+company<00:10:13.320><c> discount</c><00:10:14.440><c> intact</c><00:10:15.120><c> and</c><00:10:15.280><c> why</c><00:10:15.480><c> it</c><00:10:15.640><c> might</c>
+
+00:10:15.830 --> 00:10:15.840 align:start position:0%
+company discount intact and why it might
+ 
+
+00:10:15.840 --> 00:10:18.150 align:start position:0%
+company discount intact and why it might
+not<00:10:16.040><c> be</c><00:10:16.160><c> so</c><00:10:16.400><c> easy</c><00:10:16.680><c> to</c><00:10:16.760><c> exploit.</c>
+
+00:10:18.150 --> 00:10:18.160 align:start position:0%
+not be so easy to exploit.
+ 
+
+00:10:18.160 --> 00:10:20.230 align:start position:0%
+not be so easy to exploit.
+Holding<00:10:18.480><c> company</c><00:10:18.840><c> discounts</c><00:10:19.520><c> are</c><00:10:19.680><c> often</c><00:10:19.960><c> very</c>
+
+00:10:20.230 --> 00:10:20.240 align:start position:0%
+Holding company discounts are often very
+ 
+
+00:10:20.240 --> 00:10:21.950 align:start position:0%
+Holding company discounts are often very
+common<00:10:20.560><c> with</c><00:10:20.680><c> family</c><00:10:21.040><c> group</c><00:10:21.280><c> companies.</c>
+
+00:10:21.950 --> 00:10:21.960 align:start position:0%
+common with family group companies.
+ 
+
+00:10:21.960 --> 00:10:24.070 align:start position:0%
+common with family group companies.
+India<00:10:22.280><c> is</c><00:10:22.400><c> a</c><00:10:22.680><c> is</c><00:10:22.840><c> a</c><00:10:22.920><c> classic</c><00:10:23.400><c> example</c><00:10:23.920><c> of</c>
+
+00:10:24.070 --> 00:10:24.080 align:start position:0%
+India is a is a classic example of
+ 
+
+00:10:24.080 --> 00:10:26.590 align:start position:0%
+India is a is a classic example of
+holding<00:10:24.520><c> groups,</c><00:10:25.200><c> which</c><00:10:25.360><c> are</c><00:10:25.440><c> family</c><00:10:25.840><c> groups,</c>
+
+00:10:26.590 --> 00:10:26.600 align:start position:0%
+holding groups, which are family groups,
+ 
+
+00:10:26.600 --> 00:10:28.510 align:start position:0%
+holding groups, which are family groups,
+composed<00:10:27.320><c> of</c>
+
+00:10:28.510 --> 00:10:28.520 align:start position:0%
+composed of
+ 
+
+00:10:28.520 --> 00:10:30.670 align:start position:0%
+composed of
+that<00:10:28.880><c> family</c><00:10:29.320><c> groups'</c><00:10:29.720><c> individual</c><00:10:30.280><c> companies</c>
+
+00:10:30.670 --> 00:10:30.680 align:start position:0%
+that family groups' individual companies
+ 
+
+00:10:30.680 --> 00:10:32.110 align:start position:0%
+that family groups' individual companies
+that<00:10:30.760><c> are</c><00:10:30.840><c> each</c><00:10:31.040><c> publicly</c><00:10:31.560><c> traded.</c><00:10:31.920><c> So,</c><00:10:32.040><c> the</c>
+
+00:10:32.110 --> 00:10:32.120 align:start position:0%
+that are each publicly traded. So, the
+ 
+
+00:10:32.120 --> 00:10:34.470 align:start position:0%
+that are each publicly traded. So, the
+holding<00:10:32.560><c> company</c><00:10:33.000><c> owns</c><00:10:33.280><c> shares</c><00:10:33.920><c> in</c><00:10:34.400><c> the</c>
+
+00:10:34.470 --> 00:10:34.480 align:start position:0%
+holding company owns shares in the
+ 
+
+00:10:34.480 --> 00:10:36.550 align:start position:0%
+holding company owns shares in the
+family's<00:10:35.560><c> other</c><00:10:35.800><c> companies</c><00:10:36.240><c> that</c><00:10:36.320><c> are</c><00:10:36.400><c> all</c>
+
+00:10:36.550 --> 00:10:36.560 align:start position:0%
+family's other companies that are all
+ 
+
+00:10:36.560 --> 00:10:38.950 align:start position:0%
+family's other companies that are all
+publicly<00:10:37.080><c> traded,</c><00:10:37.920><c> and</c><00:10:38.040><c> the</c><00:10:38.160><c> holding</c><00:10:38.520><c> company</c>
+
+00:10:38.950 --> 00:10:38.960 align:start position:0%
+publicly traded, and the holding company
+ 
+
+00:10:38.960 --> 00:10:41.390 align:start position:0%
+publicly traded, and the holding company
+trades<00:10:39.480><c> at</c><00:10:39.600><c> a</c><00:10:39.640><c> significant</c><00:10:40.320><c> discount.</c>
+
+00:10:41.390 --> 00:10:41.400 align:start position:0%
+trades at a significant discount.
+ 
+
+00:10:41.400 --> 00:10:43.070 align:start position:0%
+trades at a significant discount.
+This<00:10:41.480><c> study</c><00:10:41.839><c> actually,</c><00:10:42.200><c> which</c><00:10:42.400><c> looked</c><00:10:42.640><c> at</c>
+
+00:10:43.070 --> 00:10:43.080 align:start position:0%
+This study actually, which looked at
+ 
+
+00:10:43.080 --> 00:10:44.510 align:start position:0%
+This study actually, which looked at
+Indian<00:10:43.400><c> holding</c><00:10:43.680><c> company</c><00:10:44.040><c> discount,</c>
+
+00:10:44.510 --> 00:10:44.520 align:start position:0%
+Indian holding company discount,
+ 
+
+00:10:44.520 --> 00:10:47.310 align:start position:0%
+Indian holding company discount,
+chronicles<00:10:44.960><c> a</c><00:10:45.040><c> pretty</c><00:10:45.280><c> amazing</c><00:10:46.160><c> discount.</c>
+
+00:10:47.310 --> 00:10:47.320 align:start position:0%
+chronicles a pretty amazing discount.
+ 
+
+00:10:47.320 --> 00:10:50.390 align:start position:0%
+chronicles a pretty amazing discount.
+The<00:10:47.480><c> average</c><00:10:48.000><c> discount</c><00:10:48.480><c> is</c><00:10:48.600><c> 50,</c><00:10:49.000><c> 60,</c><00:10:49.440><c> 70%,</c><00:10:50.280><c> but</c>
+
+00:10:50.390 --> 00:10:50.400 align:start position:0%
+The average discount is 50, 60, 70%, but
+ 
+
+00:10:50.400 --> 00:10:52.230 align:start position:0%
+The average discount is 50, 60, 70%, but
+there<00:10:50.520><c> are</c><00:10:50.600><c> outliers.</c><00:10:51.280><c> But</c><00:10:51.440><c> if</c><00:10:51.560><c> you</c><00:10:51.800><c> even</c><00:10:52.040><c> look</c>
+
+00:10:52.230 --> 00:10:52.240 align:start position:0%
+there are outliers. But if you even look
+ 
+
+00:10:52.240 --> 00:10:53.950 align:start position:0%
+there are outliers. But if you even look
+at<00:10:52.320><c> the</c><00:10:52.400><c> median</c><00:10:52.800><c> discount,</c>
+
+00:10:53.950 --> 00:10:53.960 align:start position:0%
+at the median discount,
+ 
+
+00:10:53.960 --> 00:10:56.670 align:start position:0%
+at the median discount,
+you<00:10:54.000><c> get</c><00:10:54.120><c> 30</c><00:10:54.440><c> to</c><00:10:54.560><c> 40%</c><00:10:55.400><c> discounts.</c>
+
+00:10:56.670 --> 00:10:56.680 align:start position:0%
+you get 30 to 40% discounts.
+ 
+
+00:10:56.680 --> 00:10:58.270 align:start position:0%
+you get 30 to 40% discounts.
+This<00:10:56.800><c> seems</c><00:10:57.080><c> like</c><00:10:57.360><c> a</c>
+
+00:10:58.270 --> 00:10:58.280 align:start position:0%
+This seems like a
+ 
+
+00:10:58.280 --> 00:11:00.590 align:start position:0%
+This seems like a
+a<00:10:58.400><c> way</c><00:10:58.760><c> in</c><00:10:58.960><c> which</c><00:10:59.400><c> we</c><00:10:59.560><c> can</c><00:10:59.760><c> make</c><00:11:00.040><c> money,</c><00:11:00.320><c> right?</c>
+
+00:11:00.590 --> 00:11:00.600 align:start position:0%
+a way in which we can make money, right?
+ 
+
+00:11:00.600 --> 00:11:02.470 align:start position:0%
+a way in which we can make money, right?
+Because<00:11:00.960><c> if</c><00:11:01.160><c> you</c><00:11:01.240><c> have</c><00:11:01.400><c> a</c><00:11:01.480><c> holding</c><00:11:02.000><c> company</c>
+
+00:11:02.470 --> 00:11:02.480 align:start position:0%
+Because if you have a holding company
+ 
+
+00:11:02.480 --> 00:11:05.190 align:start position:0%
+Because if you have a holding company
+trading<00:11:02.880><c> at</c><00:11:02.960><c> a</c><00:11:03.000><c> 40%</c><00:11:03.800><c> discount</c>
+
+00:11:05.190 --> 00:11:05.200 align:start position:0%
+trading at a 40% discount
+ 
+
+00:11:05.200 --> 00:11:07.150 align:start position:0%
+trading at a 40% discount
+on<00:11:05.400><c> the</c><00:11:05.600><c> individual</c><00:11:06.280><c> companies</c><00:11:06.880><c> that</c><00:11:07.040><c> are</c>
+
+00:11:07.150 --> 00:11:07.160 align:start position:0%
+on the individual companies that are
+ 
+
+00:11:07.160 --> 00:11:09.430 align:start position:0%
+on the individual companies that are
+embedded<00:11:07.720><c> in</c><00:11:07.839><c> it,</c><00:11:08.560><c> you</c><00:11:08.640><c> think,</c><00:11:08.920><c> why</c><00:11:09.120><c> does</c><00:11:09.280><c> that</c>
+
+00:11:09.430 --> 00:11:09.440 align:start position:0%
+embedded in it, you think, why does that
+ 
+
+00:11:09.440 --> 00:11:11.870 align:start position:0%
+embedded in it, you think, why does that
+even<00:11:09.720><c> happen</c><00:11:10.160><c> in</c><00:11:10.240><c> the</c><00:11:10.360><c> first</c><00:11:10.720><c> place?</c><00:11:11.600><c> I</c><00:11:11.640><c> can</c>
+
+00:11:11.870 --> 00:11:11.880 align:start position:0%
+even happen in the first place? I can
+ 
+
+00:11:11.880 --> 00:11:15.230 align:start position:0%
+even happen in the first place? I can
+point<00:11:12.120><c> to</c><00:11:12.240><c> six</c><00:11:12.640><c> reasons</c><00:11:13.600><c> why</c><00:11:14.440><c> I</c><00:11:14.560><c> think</c><00:11:14.920><c> holding</c>
+
+00:11:15.230 --> 00:11:15.240 align:start position:0%
+point to six reasons why I think holding
+ 
+
+00:11:15.240 --> 00:11:18.070 align:start position:0%
+point to six reasons why I think holding
+company<00:11:15.640><c> discounts</c><00:11:16.160><c> exist.</c><00:11:16.600><c> First</c><00:11:16.960><c> is</c><00:11:17.720><c> maybe</c>
+
+00:11:18.070 --> 00:11:18.080 align:start position:0%
+company discounts exist. First is maybe
+ 
+
+00:11:18.080 --> 00:11:19.790 align:start position:0%
+company discounts exist. First is maybe
+it's<00:11:18.240><c> just</c><00:11:18.360><c> a</c><00:11:18.400><c> market</c><00:11:18.800><c> mistake.</c><00:11:19.480><c> Maybe</c><00:11:19.680><c> the</c>
+
+00:11:19.790 --> 00:11:19.800 align:start position:0%
+it's just a market mistake. Maybe the
+ 
+
+00:11:19.800 --> 00:11:21.390 align:start position:0%
+it's just a market mistake. Maybe the
+market<00:11:20.080><c> screws</c><00:11:20.400><c> up,</c><00:11:20.480><c> but</c><00:11:20.600><c> it's</c><00:11:20.760><c> a</c><00:11:20.839><c> pretty</c><00:11:21.160><c> big</c>
+
+00:11:21.390 --> 00:11:21.400 align:start position:0%
+market screws up, but it's a pretty big
+ 
+
+00:11:21.400 --> 00:11:23.710 align:start position:0%
+market screws up, but it's a pretty big
+mistake,<00:11:21.880><c> right?</c><00:11:22.440><c> Cuz</c><00:11:23.000><c> the</c><00:11:23.120><c> assets</c><00:11:23.600><c> are</c>
+
+00:11:23.710 --> 00:11:23.720 align:start position:0%
+mistake, right? Cuz the assets are
+ 
+
+00:11:23.720 --> 00:11:26.390 align:start position:0%
+mistake, right? Cuz the assets are
+publicly<00:11:24.360><c> traded,</c><00:11:24.880><c> you</c><00:11:24.960><c> can</c><00:11:25.080><c> observe</c><00:11:25.480><c> them.</c>
+
+00:11:26.390 --> 00:11:26.400 align:start position:0%
+publicly traded, you can observe them.
+ 
+
+00:11:26.400 --> 00:11:27.829 align:start position:0%
+publicly traded, you can observe them.
+The<00:11:26.480><c> second</c>
+
+00:11:27.829 --> 00:11:27.839 align:start position:0%
+The second
+ 
+
+00:11:27.839 --> 00:11:29.590 align:start position:0%
+The second
+possibility<00:11:28.360><c> is</c><00:11:28.440><c> there's</c><00:11:28.680><c> a</c><00:11:29.120><c> one</c><00:11:29.400><c> of</c><00:11:29.480><c> the</c>
+
+00:11:29.590 --> 00:11:29.600 align:start position:0%
+possibility is there's a one of the
+ 
+
+00:11:29.600 --> 00:11:31.510 align:start position:0%
+possibility is there's a one of the
+holdings,<00:11:30.520><c> one</c><00:11:30.680><c> of</c><00:11:30.760><c> the</c><00:11:30.839><c> companies</c><00:11:31.320><c> that</c><00:11:31.400><c> the</c>
+
+00:11:31.510 --> 00:11:31.520 align:start position:0%
+holdings, one of the companies that the
+ 
+
+00:11:31.520 --> 00:11:33.390 align:start position:0%
+holdings, one of the companies that the
+holding<00:11:31.800><c> company</c><00:11:32.120><c> owns</c><00:11:32.280><c> is</c><00:11:32.400><c> contaminating.</c>
+
+00:11:33.390 --> 00:11:33.400 align:start position:0%
+holding company owns is contaminating.
+ 
+
+00:11:33.400 --> 00:11:35.430 align:start position:0%
+holding company owns is contaminating.
+The<00:11:33.520><c> contamination</c><00:11:34.400><c> effect</c><00:11:34.760><c> is</c><00:11:34.880><c> affecting</c>
+
+00:11:35.430 --> 00:11:35.440 align:start position:0%
+The contamination effect is affecting
+ 
+
+00:11:35.440 --> 00:11:36.550 align:start position:0%
+The contamination effect is affecting
+the<00:11:35.560><c> rest.</c>
+
+00:11:36.550 --> 00:11:36.560 align:start position:0%
+the rest.
+ 
+
+00:11:36.560 --> 00:11:37.790 align:start position:0%
+the rest.
+In<00:11:36.640><c> other</c><00:11:36.840><c> words,</c><00:11:37.040><c> you</c><00:11:37.120><c> have</c><00:11:37.200><c> a</c><00:11:37.280><c> tobacco</c>
+
+00:11:37.790 --> 00:11:37.800 align:start position:0%
+In other words, you have a tobacco
+ 
+
+00:11:37.800 --> 00:11:40.110 align:start position:0%
+In other words, you have a tobacco
+company<00:11:38.640><c> in</c><00:11:38.840><c> that</c><00:11:39.120><c> holding</c><00:11:39.480><c> company</c><00:11:39.840><c> group</c>
+
+00:11:40.110 --> 00:11:40.120 align:start position:0%
+company in that holding company group
+ 
+
+00:11:40.120 --> 00:11:42.550 align:start position:0%
+company in that holding company group
+and<00:11:40.240><c> it's</c><00:11:40.400><c> being</c><00:11:40.640><c> sued</c><00:11:41.240><c> by</c><00:11:41.400><c> people</c><00:11:42.360><c> and</c>
+
+00:11:42.550 --> 00:11:42.560 align:start position:0%
+and it's being sued by people and
+ 
+
+00:11:42.560 --> 00:11:45.270 align:start position:0%
+and it's being sued by people and
+potentially<00:11:43.240><c> could</c><00:11:43.480><c> face</c><00:11:43.960><c> very</c><00:11:44.520><c> large</c>
+
+00:11:45.270 --> 00:11:45.280 align:start position:0%
+potentially could face very large
+ 
+
+00:11:45.280 --> 00:11:48.150 align:start position:0%
+potentially could face very large
+payments<00:11:45.960><c> out.</c><00:11:46.760><c> It</c><00:11:46.920><c> could</c><00:11:47.040><c> affect</c><00:11:47.560><c> the</c><00:11:47.800><c> value</c>
+
+00:11:48.150 --> 00:11:48.160 align:start position:0%
+payments out. It could affect the value
+ 
+
+00:11:48.160 --> 00:11:49.990 align:start position:0%
+payments out. It could affect the value
+of<00:11:48.240><c> the</c><00:11:48.360><c> other</c><00:11:48.600><c> holdings.</c><00:11:49.720><c> There's</c><00:11:49.880><c> an</c>
+
+00:11:49.990 --> 00:11:50.000 align:start position:0%
+of the other holdings. There's an
+ 
+
+00:11:50.000 --> 00:11:52.030 align:start position:0%
+of the other holdings. There's an
+efficiency<00:11:50.640><c> story,</c><00:11:51.200><c> especially</c><00:11:51.680><c> at</c><00:11:51.880><c> for</c>
+
+00:11:52.030 --> 00:11:52.040 align:start position:0%
+efficiency story, especially at for
+ 
+
+00:11:52.040 --> 00:11:53.470 align:start position:0%
+efficiency story, especially at for
+conglomerates,<00:11:52.720><c> that</c><00:11:52.840><c> if</c><00:11:53.000><c> you</c><00:11:53.120><c> spread</c>
+
+00:11:53.470 --> 00:11:53.480 align:start position:0%
+conglomerates, that if you spread
+ 
+
+00:11:53.480 --> 00:11:55.670 align:start position:0%
+conglomerates, that if you spread
+yourself<00:11:53.960><c> too</c><00:11:54.120><c> thin,</c><00:11:54.560><c> you</c><00:11:54.720><c> try</c><00:11:54.920><c> to</c><00:11:55.160><c> run</c><00:11:55.440><c> all</c>
+
+00:11:55.670 --> 00:11:55.680 align:start position:0%
+yourself too thin, you try to run all
+ 
+
+00:11:55.680 --> 00:11:57.710 align:start position:0%
+yourself too thin, you try to run all
+these<00:11:55.920><c> different</c><00:11:56.280><c> businesses,</c><00:11:57.360><c> you</c><00:11:57.480><c> might</c>
+
+00:11:57.710 --> 00:11:57.720 align:start position:0%
+these different businesses, you might
+ 
+
+00:11:57.720 --> 00:11:59.550 align:start position:0%
+these different businesses, you might
+not<00:11:58.040><c> run</c><00:11:58.280><c> them</c><00:11:58.440><c> efficiently</c><00:11:59.040><c> and</c><00:11:59.120><c> the</c><00:11:59.160><c> market</c>
+
+00:11:59.550 --> 00:11:59.560 align:start position:0%
+not run them efficiently and the market
+ 
+
+00:11:59.560 --> 00:12:01.110 align:start position:0%
+not run them efficiently and the market
+is<00:11:59.680><c> incorporating</c>
+
+00:12:01.110 --> 00:12:01.120 align:start position:0%
+is incorporating
+ 
+
+00:12:01.120 --> 00:12:02.790 align:start position:0%
+is incorporating
+into<00:12:01.360><c> the</c><00:12:01.440><c> discount.</c>
+
+00:12:02.790 --> 00:12:02.800 align:start position:0%
+into the discount.
+ 
+
+00:12:02.800 --> 00:12:05.150 align:start position:0%
+into the discount.
+There's<00:12:02.960><c> a</c><00:12:03.040><c> simplicity</c><00:12:03.680><c> story,</c><00:12:04.120><c> which</c><00:12:04.360><c> is</c>
+
+00:12:05.150 --> 00:12:05.160 align:start position:0%
+There's a simplicity story, which is
+ 
+
+00:12:05.160 --> 00:12:07.550 align:start position:0%
+There's a simplicity story, which is
+valuing<00:12:06.360><c> publicly</c><00:12:06.880><c> traded</c><00:12:07.240><c> holding</c>
+
+00:12:07.550 --> 00:12:07.560 align:start position:0%
+valuing publicly traded holding
+ 
+
+00:12:07.560 --> 00:12:09.070 align:start position:0%
+valuing publicly traded holding
+companies<00:12:07.960><c> is</c><00:12:08.120><c> a</c><00:12:08.160><c> nightmare.</c><00:12:08.640><c> You're</c><00:12:08.760><c> valuing</c>
+
+00:12:09.070 --> 00:12:09.080 align:start position:0%
+companies is a nightmare. You're valuing
+ 
+
+00:12:09.080 --> 00:12:12.150 align:start position:0%
+companies is a nightmare. You're valuing
+15<00:12:09.640><c> companies</c><00:12:10.200><c> put</c><00:12:10.400><c> together</c><00:12:10.880><c> with</c><00:12:11.080><c> different</c>
+
+00:12:12.150 --> 00:12:12.160 align:start position:0%
+15 companies put together with different
+ 
+
+00:12:12.160 --> 00:12:14.710 align:start position:0%
+15 companies put together with different
+growth<00:12:12.640><c> growth</c><00:12:13.160><c> rates</c><00:12:13.520><c> and</c><00:12:13.760><c> risk</c><00:12:14.200><c> and</c><00:12:14.360><c> cash</c>
+
+00:12:14.710 --> 00:12:14.720 align:start position:0%
+growth growth rates and risk and cash
+ 
+
+00:12:14.720 --> 00:12:16.750 align:start position:0%
+growth growth rates and risk and cash
+flows.<00:12:15.760><c> So,</c><00:12:15.880><c> you</c><00:12:15.960><c> might</c><00:12:16.160><c> just</c><00:12:16.360><c> say,</c><00:12:16.560><c> "Look,</c>
+
+00:12:16.750 --> 00:12:16.760 align:start position:0%
+flows. So, you might just say, "Look,
+ 
+
+00:12:16.760 --> 00:12:18.070 align:start position:0%
+flows. So, you might just say, "Look,
+I'm<00:12:16.880><c> going</c><00:12:17.000><c> to</c><00:12:17.200><c> discount</c><00:12:17.640><c> the</c><00:12:17.720><c> company</c>
+
+00:12:18.070 --> 00:12:18.080 align:start position:0%
+I'm going to discount the company
+ 
+
+00:12:18.080 --> 00:12:19.990 align:start position:0%
+I'm going to discount the company
+because<00:12:18.320><c> of</c><00:12:18.400><c> its</c><00:12:18.520><c> complexity."</c>
+
+00:12:19.990 --> 00:12:20.000 align:start position:0%
+because of its complexity."
+ 
+
+00:12:20.000 --> 00:12:21.710 align:start position:0%
+because of its complexity."
+There<00:12:20.080><c> might</c><00:12:20.240><c> be</c><00:12:20.320><c> a</c><00:12:20.400><c> tax</c><00:12:20.720><c> story,</c>
+
+00:12:21.710 --> 00:12:21.720 align:start position:0%
+There might be a tax story,
+ 
+
+00:12:21.720 --> 00:12:24.910 align:start position:0%
+There might be a tax story,
+which<00:12:22.040><c> is</c><00:12:23.080><c> this</c><00:12:23.520><c> holding</c><00:12:24.000><c> company</c><00:12:24.440><c> discount</c>
+
+00:12:24.910 --> 00:12:24.920 align:start position:0%
+which is this holding company discount
+ 
+
+00:12:24.920 --> 00:12:27.510 align:start position:0%
+which is this holding company discount
+reflects<00:12:25.360><c> the</c><00:12:25.440><c> fact</c><00:12:25.800><c> that</c><00:12:26.000><c> if</c><00:12:26.280><c> you,</c><00:12:27.280><c> you</c><00:12:27.360><c> know,</c>
+
+00:12:27.510 --> 00:12:27.520 align:start position:0%
+reflects the fact that if you, you know,
+ 
+
+00:12:27.520 --> 00:12:30.070 align:start position:0%
+reflects the fact that if you, you know,
+that<00:12:28.120><c> that</c><00:12:28.440><c> that</c><00:12:28.880><c> that</c><00:12:29.240><c> the</c><00:12:29.360><c> holding</c><00:12:29.680><c> company</c>
+
+00:12:30.070 --> 00:12:30.080 align:start position:0%
+that that that that the holding company
+ 
+
+00:12:30.080 --> 00:12:31.990 align:start position:0%
+that that that that the holding company
+pays<00:12:30.360><c> more</c><00:12:30.600><c> in</c><00:12:30.720><c> taxes</c><00:12:31.440><c> than</c><00:12:31.600><c> the</c><00:12:31.720><c> income</c>
+
+00:12:31.990 --> 00:12:32.000 align:start position:0%
+pays more in taxes than the income
+ 
+
+00:12:32.000 --> 00:12:33.910 align:start position:0%
+pays more in taxes than the income
+generated<00:12:32.560><c> than</c><00:12:32.720><c> by</c><00:12:32.880><c> the</c><00:12:33.000><c> subsidiaries</c><00:12:33.800><c> as</c>
+
+00:12:33.910 --> 00:12:33.920 align:start position:0%
+generated than by the subsidiaries as
+ 
+
+00:12:33.920 --> 00:12:35.550 align:start position:0%
+generated than by the subsidiaries as
+stand-alone.
+
+00:12:35.550 --> 00:12:35.560 align:start position:0%
+stand-alone.
+ 
+
+00:12:35.560 --> 00:12:36.510 align:start position:0%
+stand-alone.
+And<00:12:35.680><c> finally,</c><00:12:35.960><c> there's</c><00:12:36.120><c> a</c><00:12:36.160><c> corporate</c>
+
+00:12:36.510 --> 00:12:36.520 align:start position:0%
+And finally, there's a corporate
+ 
+
+00:12:36.520 --> 00:12:38.270 align:start position:0%
+And finally, there's a corporate
+governance<00:12:36.920><c> issue.</c><00:12:37.240><c> As</c><00:12:37.440><c> I</c><00:12:37.520><c> mentioned,</c><00:12:38.000><c> a</c><00:12:38.040><c> lot</c>
+
+00:12:38.270 --> 00:12:38.280 align:start position:0%
+governance issue. As I mentioned, a lot
+ 
+
+00:12:38.280 --> 00:12:39.430 align:start position:0%
+governance issue. As I mentioned, a lot
+of<00:12:38.360><c> these</c><00:12:38.520><c> holding</c><00:12:38.839><c> companies</c><00:12:39.360><c> are</c>
+
+00:12:39.430 --> 00:12:39.440 align:start position:0%
+of these holding companies are
+ 
+
+00:12:39.440 --> 00:12:42.470 align:start position:0%
+of these holding companies are
+controlled<00:12:39.960><c> by</c><00:12:40.120><c> families</c><00:12:40.839><c> and</c><00:12:40.960><c> the</c><00:12:41.040><c> family</c><00:12:41.800><c> is</c>
+
+00:12:42.470 --> 00:12:42.480 align:start position:0%
+controlled by families and the family is
+ 
+
+00:12:42.480 --> 00:12:45.430 align:start position:0%
+controlled by families and the family is
+so<00:12:43.000><c> in</c><00:12:43.240><c> control</c><00:12:44.200><c> that</c><00:12:44.320><c> you</c><00:12:44.400><c> can</c><00:12:44.560><c> never</c><00:12:45.040><c> ever</c>
+
+00:12:45.430 --> 00:12:45.440 align:start position:0%
+so in control that you can never ever
+ 
+
+00:12:45.440 --> 00:12:48.190 align:start position:0%
+so in control that you can never ever
+take<00:12:45.720><c> control</c><00:12:46.440><c> of</c><00:12:46.800><c> the</c><00:12:46.920><c> businesses</c><00:12:47.640><c> embedded.</c>
+
+00:12:48.190 --> 00:12:48.200 align:start position:0%
+take control of the businesses embedded.
+ 
+
+00:12:48.200 --> 00:12:50.430 align:start position:0%
+take control of the businesses embedded.
+So,<00:12:48.360><c> what</c><00:12:48.560><c> investors</c><00:12:49.080><c> do?</c><00:12:49.680><c> They</c><00:12:49.839><c> mark</c><00:12:50.200><c> down</c>
+
+00:12:50.430 --> 00:12:50.440 align:start position:0%
+So, what investors do? They mark down
+ 
+
+00:12:50.440 --> 00:12:52.710 align:start position:0%
+So, what investors do? They mark down
+the<00:12:50.560><c> holding</c><00:12:50.920><c> company</c><00:12:51.360><c> price.</c>
+
+00:12:52.710 --> 00:12:52.720 align:start position:0%
+the holding company price.
+ 
+
+00:12:52.720 --> 00:12:54.910 align:start position:0%
+the holding company price.
+Now,<00:12:53.280><c> if</c><00:12:53.440><c> you</c><00:12:53.520><c> think</c><00:12:53.720><c> about</c><00:12:54.080><c> how</c><00:12:54.360><c> can</c><00:12:54.560><c> I</c><00:12:54.640><c> get</c>
+
+00:12:54.910 --> 00:12:54.920 align:start position:0%
+Now, if you think about how can I get
+ 
+
+00:12:54.920 --> 00:12:56.790 align:start position:0%
+Now, if you think about how can I get
+past<00:12:55.320><c> this</c><00:12:55.560><c> and</c><00:12:55.760><c> make</c><00:12:56.040><c> money</c><00:12:56.280><c> in</c><00:12:56.360><c> the</c><00:12:56.440><c> holding</c>
+
+00:12:56.790 --> 00:12:56.800 align:start position:0%
+past this and make money in the holding
+ 
+
+00:12:56.800 --> 00:12:58.190 align:start position:0%
+past this and make money in the holding
+company<00:12:57.160><c> discount?</c><00:12:57.640><c> Let's</c><00:12:57.920><c> look</c><00:12:58.080><c> at</c>
+
+00:12:58.190 --> 00:12:58.200 align:start position:0%
+company discount? Let's look at
+ 
+
+00:12:58.200 --> 00:12:59.910 align:start position:0%
+company discount? Let's look at
+strategies.
+
+00:12:59.910 --> 00:12:59.920 align:start position:0%
+strategies.
+ 
+
+00:12:59.920 --> 00:13:01.510 align:start position:0%
+strategies.
+One<00:13:00.200><c> is</c><00:13:00.839><c> um</c>
+
+00:13:01.510 --> 00:13:01.520 align:start position:0%
+One is um
+ 
+
+00:13:01.520 --> 00:13:03.990 align:start position:0%
+One is um
+you<00:13:02.480><c> assume</c><00:13:02.880><c> that</c><00:13:03.040><c> you</c><00:13:03.120><c> will</c><00:13:03.240><c> never</c><00:13:03.520><c> control</c>
+
+00:13:03.990 --> 00:13:04.000 align:start position:0%
+you assume that you will never control
+ 
+
+00:13:04.000 --> 00:13:05.750 align:start position:0%
+you assume that you will never control
+the<00:13:04.080><c> holding</c><00:13:04.440><c> company,</c><00:13:04.880><c> never</c><00:13:05.160><c> liquidate</c><00:13:05.680><c> the</c>
+
+00:13:05.750 --> 00:13:05.760 align:start position:0%
+the holding company, never liquidate the
+ 
+
+00:13:05.760 --> 00:13:07.150 align:start position:0%
+the holding company, never liquidate the
+companies,<00:13:06.200><c> but</c><00:13:06.360><c> you</c><00:13:06.440><c> assume</c><00:13:06.760><c> that</c><00:13:06.920><c> over</c>
+
+00:13:07.150 --> 00:13:07.160 align:start position:0%
+companies, but you assume that over
+ 
+
+00:13:07.160 --> 00:13:08.910 align:start position:0%
+companies, but you assume that over
+time,<00:13:07.839><c> especially</c><00:13:08.240><c> with</c><00:13:08.360><c> some</c><00:13:08.480><c> market</c>
+
+00:13:08.910 --> 00:13:08.920 align:start position:0%
+time, especially with some market
+ 
+
+00:13:08.920 --> 00:13:11.110 align:start position:0%
+time, especially with some market
+mistake,<00:13:09.440><c> that</c><00:13:09.680><c> the</c><00:13:10.280><c> discount</c><00:13:10.800><c> will</c><00:13:10.920><c> get</c>
+
+00:13:11.110 --> 00:13:11.120 align:start position:0%
+mistake, that the discount will get
+ 
+
+00:13:11.120 --> 00:13:12.270 align:start position:0%
+mistake, that the discount will get
+smaller.
+
+00:13:12.270 --> 00:13:12.280 align:start position:0%
+smaller.
+ 
+
+00:13:12.280 --> 00:13:14.070 align:start position:0%
+smaller.
+That<00:13:12.400><c> the</c><00:13:12.480><c> company</c><00:13:12.839><c> run</c><00:13:13.160><c> So,</c><00:13:13.400><c> basically,</c>
+
+00:13:14.070 --> 00:13:14.080 align:start position:0%
+That the company run So, basically,
+ 
+
+00:13:14.080 --> 00:13:15.950 align:start position:0%
+That the company run So, basically,
+you're<00:13:14.240><c> buying</c><00:13:14.760><c> the</c><00:13:14.920><c> holding</c><00:13:15.440><c> company</c>
+
+00:13:15.950 --> 00:13:15.960 align:start position:0%
+you're buying the holding company
+ 
+
+00:13:15.960 --> 00:13:17.550 align:start position:0%
+you're buying the holding company
+because<00:13:16.280><c> it's</c><00:13:16.440><c> so</c><00:13:16.560><c> massively</c><00:13:17.080><c> discounted,</c>
+
+00:13:17.550 --> 00:13:17.560 align:start position:0%
+because it's so massively discounted,
+ 
+
+00:13:17.560 --> 00:13:19.350 align:start position:0%
+because it's so massively discounted,
+hoping<00:13:17.880><c> the</c><00:13:18.000><c> discount</c><00:13:18.400><c> gets</c><00:13:18.600><c> smaller.</c>
+
+00:13:19.350 --> 00:13:19.360 align:start position:0%
+hoping the discount gets smaller.
+ 
+
+00:13:19.360 --> 00:13:22.270 align:start position:0%
+hoping the discount gets smaller.
+Clearly<00:13:19.720><c> not</c><00:13:19.960><c> arbitrage,</c><00:13:20.600><c> but</c><00:13:20.760><c> an</c><00:13:20.880><c> investment</c>
+
+00:13:22.270 --> 00:13:22.280 align:start position:0%
+Clearly not arbitrage, but an investment
+ 
+
+00:13:22.280 --> 00:13:24.390 align:start position:0%
+Clearly not arbitrage, but an investment
+strategy<00:13:22.880><c> nevertheless.</c>
+
+00:13:24.390 --> 00:13:24.400 align:start position:0%
+strategy nevertheless.
+ 
+
+00:13:24.400 --> 00:13:26.829 align:start position:0%
+strategy nevertheless.
+The<00:13:24.560><c> second</c><00:13:24.920><c> is</c><00:13:25.640><c> the</c><00:13:25.760><c> holding</c><00:13:26.200><c> company</c><00:13:26.640><c> is</c>
+
+00:13:26.829 --> 00:13:26.839 align:start position:0%
+The second is the holding company is
+ 
+
+00:13:26.839 --> 00:13:29.070 align:start position:0%
+The second is the holding company is
+reaching<00:13:27.280><c> a</c><00:13:27.320><c> trigger</c><00:13:27.800><c> point</c><00:13:28.200><c> where</c><00:13:28.560><c> it</c><00:13:28.800><c> might</c>
+
+00:13:29.070 --> 00:13:29.080 align:start position:0%
+reaching a trigger point where it might
+ 
+
+00:13:29.080 --> 00:13:31.190 align:start position:0%
+reaching a trigger point where it might
+actually<00:13:29.440><c> try</c><00:13:29.600><c> to</c><00:13:29.840><c> unlock</c><00:13:30.440><c> the</c><00:13:30.520><c> discount</c><00:13:31.080><c> by</c>
+
+00:13:31.190 --> 00:13:31.200 align:start position:0%
+actually try to unlock the discount by
+ 
+
+00:13:31.200 --> 00:13:33.750 align:start position:0%
+actually try to unlock the discount by
+spinning<00:13:31.800><c> off</c><00:13:32.280><c> its</c><00:13:32.480><c> holdings.</c>
+
+00:13:33.750 --> 00:13:33.760 align:start position:0%
+spinning off its holdings.
+ 
+
+00:13:33.760 --> 00:13:35.590 align:start position:0%
+spinning off its holdings.
+Why<00:13:34.120><c> would</c><00:13:34.480><c> the</c><00:13:34.640><c> holding</c><00:13:34.960><c> company</c><00:13:35.360><c> do</c><00:13:35.520><c> it?</c>
+
+00:13:35.590 --> 00:13:35.600 align:start position:0%
+Why would the holding company do it?
+ 
+
+00:13:35.600 --> 00:13:37.990 align:start position:0%
+Why would the holding company do it?
+Because<00:13:36.160><c> the</c><00:13:36.280><c> family</c><00:13:36.760><c> is</c><00:13:36.920><c> reaching</c><00:13:37.400><c> a</c><00:13:37.480><c> tipping</c>
+
+00:13:37.990 --> 00:13:38.000 align:start position:0%
+Because the family is reaching a tipping
+ 
+
+00:13:38.000 --> 00:13:40.230 align:start position:0%
+Because the family is reaching a tipping
+point<00:13:38.360><c> where</c><00:13:38.640><c> the</c><00:13:38.800><c> patriarch</c><00:13:39.600><c> of</c><00:13:39.680><c> the</c><00:13:39.760><c> family</c>
+
+00:13:40.230 --> 00:13:40.240 align:start position:0%
+point where the patriarch of the family
+ 
+
+00:13:40.240 --> 00:13:42.350 align:start position:0%
+point where the patriarch of the family
+used<00:13:40.480><c> to</c><00:13:40.560><c> control</c><00:13:41.000><c> the</c><00:13:41.080><c> family</c>
+
+00:13:42.350 --> 00:13:42.360 align:start position:0%
+used to control the family
+ 
+
+00:13:42.360 --> 00:13:45.030 align:start position:0%
+used to control the family
+is<00:13:42.800><c> passing</c><00:13:43.280><c> on</c><00:13:43.640><c> and</c><00:13:43.760><c> the</c><00:13:43.880><c> next</c><00:13:44.160><c> generation</c><00:13:44.760><c> so</c>
+
+00:13:45.030 --> 00:13:45.040 align:start position:0%
+is passing on and the next generation so
+ 
+
+00:13:45.040 --> 00:13:46.830 align:start position:0%
+is passing on and the next generation so
+we<00:13:45.320><c> like</c><00:13:45.560><c> to</c><00:13:45.680><c> make</c><00:13:45.920><c> a</c><00:13:45.960><c> lot</c><00:13:46.240><c> more</c><00:13:46.440><c> money.</c><00:13:46.720><c> They</c>
+
+00:13:46.830 --> 00:13:46.840 align:start position:0%
+we like to make a lot more money. They
+ 
+
+00:13:46.840 --> 00:13:48.950 align:start position:0%
+we like to make a lot more money. They
+want<00:13:47.040><c> to</c><00:13:47.080><c> unlock</c><00:13:47.480><c> the</c><00:13:47.560><c> discount.</c><00:13:48.600><c> So</c><00:13:48.800><c> you</c>
+
+00:13:48.950 --> 00:13:48.960 align:start position:0%
+want to unlock the discount. So you
+ 
+
+00:13:48.960 --> 00:13:51.790 align:start position:0%
+want to unlock the discount. So you
+divest,<00:13:49.600><c> you</c><00:13:49.720><c> spin</c><00:13:50.040><c> off,</c><00:13:50.520><c> and</c><00:13:50.640><c> you</c><00:13:50.720><c> unlock.</c>
+
+00:13:51.790 --> 00:13:51.800 align:start position:0%
+divest, you spin off, and you unlock.
+ 
+
+00:13:51.800 --> 00:13:54.070 align:start position:0%
+divest, you spin off, and you unlock.
+The<00:13:51.880><c> third</c><00:13:52.200><c> is</c><00:13:52.720><c> an</c><00:13:52.880><c> activist</c><00:13:53.440><c> investor</c><00:13:53.920><c> has</c>
+
+00:13:54.070 --> 00:13:54.080 align:start position:0%
+The third is an activist investor has
+ 
+
+00:13:54.080 --> 00:13:56.230 align:start position:0%
+The third is an activist investor has
+entered<00:13:54.480><c> the</c><00:13:54.600><c> picture.</c><00:13:55.480><c> And</c><00:13:55.600><c> sometimes</c><00:13:56.080><c> this</c>
+
+00:13:56.230 --> 00:13:56.240 align:start position:0%
+entered the picture. And sometimes this
+ 
+
+00:13:56.240 --> 00:13:58.150 align:start position:0%
+entered the picture. And sometimes this
+activist<00:13:56.720><c> might</c><00:13:56.920><c> be</c><00:13:57.040><c> from</c><00:13:57.240><c> within</c><00:13:57.560><c> the</c><00:13:57.680><c> family</c>
+
+00:13:58.150 --> 00:13:58.160 align:start position:0%
+activist might be from within the family
+ 
+
+00:13:58.160 --> 00:14:00.710 align:start position:0%
+activist might be from within the family
+taking<00:13:58.520><c> effective</c><00:13:59.080><c> control</c><00:14:00.280><c> and</c><00:14:00.400><c> doing</c><00:14:00.600><c> the</c>
+
+00:14:00.710 --> 00:14:00.720 align:start position:0%
+taking effective control and doing the
+ 
+
+00:14:00.720 --> 00:14:02.310 align:start position:0%
+taking effective control and doing the
+same<00:14:00.960><c> thing,</c><00:14:01.160><c> divesting</c><00:14:01.680><c> and</c><00:14:01.800><c> spinning</c><00:14:02.160><c> it</c>
+
+00:14:02.310 --> 00:14:02.320 align:start position:0%
+same thing, divesting and spinning it
+ 
+
+00:14:02.320 --> 00:14:03.150 align:start position:0%
+same thing, divesting and spinning it
+off.
+
+00:14:03.150 --> 00:14:03.160 align:start position:0%
+off.
+ 
+
+00:14:03.160 --> 00:14:05.030 align:start position:0%
+off.
+It's<00:14:03.360><c> very</c><00:14:03.720><c> difficult</c><00:14:04.120><c> for</c><00:14:04.200><c> an</c><00:14:04.320><c> outsider</c><00:14:04.920><c> to</c>
+
+00:14:05.030 --> 00:14:05.040 align:start position:0%
+It's very difficult for an outsider to
+ 
+
+00:14:05.040 --> 00:14:06.710 align:start position:0%
+It's very difficult for an outsider to
+do<00:14:05.240><c> it,</c><00:14:05.360><c> but</c><00:14:05.520><c> if</c><00:14:05.640><c> you</c><00:14:05.720><c> can</c><00:14:05.880><c> get</c><00:14:06.080><c> an</c><00:14:06.160><c> insider</c><00:14:06.640><c> to</c>
+
+00:14:06.710 --> 00:14:06.720 align:start position:0%
+do it, but if you can get an insider to
+ 
+
+00:14:06.720 --> 00:14:08.870 align:start position:0%
+do it, but if you can get an insider to
+do<00:14:06.920><c> it,</c><00:14:07.120><c> you</c><00:14:07.240><c> can</c><00:14:07.440><c> take</c><00:14:07.640><c> advantage</c><00:14:08.480><c> of</c><00:14:08.640><c> that</c>
+
+00:14:08.870 --> 00:14:08.880 align:start position:0%
+do it, you can take advantage of that
+ 
+
+00:14:08.880 --> 00:14:11.190 align:start position:0%
+do it, you can take advantage of that
+discount<00:14:09.360><c> decreasing</c><00:14:10.160><c> if</c><00:14:10.320><c> not</c><00:14:10.560><c> disappearing</c>
+
+00:14:11.190 --> 00:14:11.200 align:start position:0%
+discount decreasing if not disappearing
+ 
+
+00:14:11.200 --> 00:14:13.230 align:start position:0%
+discount decreasing if not disappearing
+over<00:14:11.400><c> time.</c>
+
+00:14:13.230 --> 00:14:13.240 align:start position:0%
+over time.
+ 
+
+00:14:13.240 --> 00:14:14.590 align:start position:0%
+over time.
+And<00:14:13.320><c> there</c><00:14:13.440><c> are</c><00:14:13.520><c> costs</c><00:14:13.800><c> to</c><00:14:13.880><c> consider,</c><00:14:14.280><c> which</c>
+
+00:14:14.590 --> 00:14:14.600 align:start position:0%
+And there are costs to consider, which
+ 
+
+00:14:14.600 --> 00:14:18.470 align:start position:0%
+And there are costs to consider, which
+is<00:14:15.120><c> as</c><00:14:15.560><c> you</c><00:14:15.720><c> start</c><00:14:16.240><c> to</c><00:14:16.720><c> to</c><00:14:17.080><c> divest</c><00:14:17.840><c> or</c>
+
+00:14:18.470 --> 00:14:18.480 align:start position:0%
+is as you start to to divest or
+ 
+
+00:14:18.480 --> 00:14:20.270 align:start position:0%
+is as you start to to divest or
+liquidate<00:14:19.160><c> these</c><00:14:19.400><c> holdings,</c><00:14:19.880><c> there</c><00:14:20.000><c> might</c><00:14:20.200><c> be</c>
+
+00:14:20.270 --> 00:14:20.280 align:start position:0%
+liquidate these holdings, there might be
+ 
+
+00:14:20.280 --> 00:14:22.110 align:start position:0%
+liquidate these holdings, there might be
+a<00:14:20.320><c> liquidity</c><00:14:20.880><c> effect</c><00:14:21.280><c> where</c><00:14:21.400><c> you</c><00:14:21.480><c> get</c><00:14:21.720><c> less</c>
+
+00:14:22.110 --> 00:14:22.120 align:start position:0%
+a liquidity effect where you get less
+ 
+
+00:14:22.120 --> 00:14:24.070 align:start position:0%
+a liquidity effect where you get less
+than<00:14:22.720><c> what</c><00:14:22.960><c> you</c><00:14:23.040><c> thought</c><00:14:23.400><c> you</c><00:14:23.480><c> would</c><00:14:23.640><c> get</c><00:14:23.960><c> when</c>
+
+00:14:24.070 --> 00:14:24.080 align:start position:0%
+than what you thought you would get when
+ 
+
+00:14:24.080 --> 00:14:26.110 align:start position:0%
+than what you thought you would get when
+you<00:14:24.160><c> first</c><00:14:24.480><c> looked</c><00:14:24.720><c> at</c><00:14:24.800><c> those</c><00:14:25.040><c> holdings.</c>
+
+00:14:26.110 --> 00:14:26.120 align:start position:0%
+you first looked at those holdings.
+ 
+
+00:14:26.120 --> 00:14:28.070 align:start position:0%
+you first looked at those holdings.
+Again,<00:14:26.280><c> tax</c><00:14:26.600><c> issue,</c><00:14:27.160><c> just</c><00:14:27.360><c> like</c><00:14:27.560><c> you</c><00:14:27.640><c> had</c><00:14:27.880><c> with</c>
+
+00:14:28.070 --> 00:14:28.080 align:start position:0%
+Again, tax issue, just like you had with
+ 
+
+00:14:28.080 --> 00:14:29.470 align:start position:0%
+Again, tax issue, just like you had with
+close<00:14:28.720><c> you</c><00:14:28.760><c> know,</c><00:14:28.840><c> which</c><00:14:29.080><c> is</c><00:14:29.240><c> when</c><00:14:29.400><c> you</c>
+
+00:14:29.470 --> 00:14:29.480 align:start position:0%
+close you know, which is when you
+ 
+
+00:14:29.480 --> 00:14:30.990 align:start position:0%
+close you know, which is when you
+divest,<00:14:29.880><c> you</c><00:14:29.960><c> got</c><00:14:30.080><c> to</c><00:14:30.160><c> pay</c><00:14:30.280><c> capital</c><00:14:30.680><c> gains</c>
+
+00:14:30.990 --> 00:14:31.000 align:start position:0%
+divest, you got to pay capital gains
+ 
+
+00:14:31.000 --> 00:14:32.150 align:start position:0%
+divest, you got to pay capital gains
+taxes.
+
+00:14:32.150 --> 00:14:32.160 align:start position:0%
+taxes.
+ 
+
+00:14:32.160 --> 00:14:33.070 align:start position:0%
+taxes.
+This<00:14:32.280><c> I</c><00:14:32.360><c> mentioned</c><00:14:32.680><c> the</c><00:14:32.720><c> corporate</c>
+
+00:14:33.070 --> 00:14:33.080 align:start position:0%
+This I mentioned the corporate
+ 
+
+00:14:33.080 --> 00:14:35.350 align:start position:0%
+This I mentioned the corporate
+governance<00:14:33.480><c> barriers</c><00:14:34.000><c> can</c><00:14:34.160><c> be</c><00:14:34.320><c> so</c><00:14:34.720><c> steep</c><00:14:35.240><c> and</c>
+
+00:14:35.350 --> 00:14:35.360 align:start position:0%
+governance barriers can be so steep and
+ 
+
+00:14:35.360 --> 00:14:36.790 align:start position:0%
+governance barriers can be so steep and
+so<00:14:35.520><c> difficult</c><00:14:36.040><c> to</c><00:14:36.120><c> get</c><00:14:36.320><c> over</c><00:14:36.520><c> that</c><00:14:36.680><c> you</c>
+
+00:14:36.790 --> 00:14:36.800 align:start position:0%
+so difficult to get over that you
+ 
+
+00:14:36.800 --> 00:14:39.110 align:start position:0%
+so difficult to get over that you
+finally<00:14:37.160><c> give</c><00:14:37.360><c> up.</c><00:14:37.520><c> The</c><00:14:37.680><c> cost</c><00:14:38.600><c> of</c><00:14:38.760><c> getting</c>
+
+00:14:39.110 --> 00:14:39.120 align:start position:0%
+finally give up. The cost of getting
+ 
+
+00:14:39.120 --> 00:14:41.270 align:start position:0%
+finally give up. The cost of getting
+over<00:14:39.320><c> them</c><00:14:39.480><c> exceeds</c><00:14:40.000><c> the</c><00:14:40.080><c> benefits</c><00:14:40.800><c> of</c><00:14:40.920><c> taking</c>
+
+00:14:41.270 --> 00:14:41.280 align:start position:0%
+over them exceeds the benefits of taking
+ 
+
+00:14:41.280 --> 00:14:44.990 align:start position:0%
+over them exceeds the benefits of taking
+over<00:14:41.480><c> the</c><00:14:41.600><c> company</c><00:14:41.960><c> and</c><00:14:42.080><c> breaking</c><00:14:42.440><c> it</c><00:14:42.600><c> up.</c>
+
+00:14:44.990 --> 00:14:45.000 align:start position:0%
+ 
+ 
+
+00:14:45.000 --> 00:14:47.310 align:start position:0%
+ 
+One<00:14:45.200><c> final</c><00:14:45.520><c> example</c><00:14:46.000><c> of</c><00:14:46.120><c> near</c><00:14:46.360><c> arbitrage</c><00:14:47.120><c> is</c>
+
+00:14:47.310 --> 00:14:47.320 align:start position:0%
+One final example of near arbitrage is
+ 
+
+00:14:47.320 --> 00:14:48.950 align:start position:0%
+One final example of near arbitrage is
+what's<00:14:47.480><c> called</c><00:14:47.680><c> convertible</c><00:14:48.240><c> arbitrage.</c>
+
+00:14:48.950 --> 00:14:48.960 align:start position:0%
+what's called convertible arbitrage.
+ 
+
+00:14:48.960 --> 00:14:50.870 align:start position:0%
+what's called convertible arbitrage.
+Convertible<00:14:49.480><c> arbitrage</c><00:14:50.160><c> comes</c><00:14:50.400><c> about</c><00:14:50.760><c> when</c>
+
+00:14:50.870 --> 00:14:50.880 align:start position:0%
+Convertible arbitrage comes about when
+ 
+
+00:14:50.880 --> 00:14:52.990 align:start position:0%
+Convertible arbitrage comes about when
+you<00:14:50.960><c> have</c><00:14:51.080><c> a</c><00:14:51.120><c> company</c><00:14:51.760><c> that</c><00:14:52.000><c> has</c><00:14:52.360><c> shares</c><00:14:52.839><c> and</c>
+
+00:14:52.990 --> 00:14:53.000 align:start position:0%
+you have a company that has shares and
+ 
+
+00:14:53.000 --> 00:14:56.510 align:start position:0%
+you have a company that has shares and
+bonds<00:14:53.560><c> issued</c><00:14:54.120><c> issuing</c><00:14:54.600><c> convertible</c><00:14:55.160><c> bonds.</c>
+
+00:14:56.510 --> 00:14:56.520 align:start position:0%
+bonds issued issuing convertible bonds.
+ 
+
+00:14:56.520 --> 00:14:58.550 align:start position:0%
+bonds issued issuing convertible bonds.
+You<00:14:56.600><c> think,</c><00:14:57.280><c> where</c><00:14:57.480><c> is</c><00:14:57.600><c> the</c><00:14:57.720><c> arbitrage?</c><00:14:58.440><c> You</c>
+
+00:14:58.550 --> 00:14:58.560 align:start position:0%
+You think, where is the arbitrage? You
+ 
+
+00:14:58.560 --> 00:15:00.870 align:start position:0%
+You think, where is the arbitrage? You
+got<00:14:58.720><c> shares</c><00:14:59.080><c> issued</c><00:14:59.480><c> with</c><00:14:59.600><c> a</c><00:14:59.640><c> market</c><00:15:00.000><c> price.</c>
+
+00:15:00.870 --> 00:15:00.880 align:start position:0%
+got shares issued with a market price.
+ 
+
+00:15:00.880 --> 00:15:02.590 align:start position:0%
+got shares issued with a market price.
+You<00:15:00.960><c> got</c><00:15:01.160><c> traditional</c><00:15:01.720><c> straight</c><00:15:02.240><c> bonds</c>
+
+00:15:02.590 --> 00:15:02.600 align:start position:0%
+You got traditional straight bonds
+ 
+
+00:15:02.600 --> 00:15:04.310 align:start position:0%
+You got traditional straight bonds
+issued<00:15:02.839><c> with</c><00:15:02.960><c> a</c><00:15:03.040><c> bond</c><00:15:03.360><c> price.</c><00:15:03.680><c> Now</c><00:15:03.839><c> you</c><00:15:04.000><c> issued</c>
+
+00:15:04.310 --> 00:15:04.320 align:start position:0%
+issued with a bond price. Now you issued
+ 
+
+00:15:04.320 --> 00:15:06.110 align:start position:0%
+issued with a bond price. Now you issued
+convertible<00:15:04.920><c> bonds.</c><00:15:05.720><c> Remember</c><00:15:06.040><c> a</c>
+
+00:15:06.110 --> 00:15:06.120 align:start position:0%
+convertible bonds. Remember a
+ 
+
+00:15:06.120 --> 00:15:08.070 align:start position:0%
+convertible bonds. Remember a
+convertible<00:15:06.720><c> bond</c><00:15:07.240><c> is</c><00:15:07.440><c> in</c><00:15:07.560><c> effect</c><00:15:08.000><c> a</c>
+
+00:15:08.070 --> 00:15:08.080 align:start position:0%
+convertible bond is in effect a
+ 
+
+00:15:08.080 --> 00:15:11.710 align:start position:0%
+convertible bond is in effect a
+combination<00:15:09.200><c> of</c><00:15:09.800><c> an</c><00:15:09.960><c> equity</c><00:15:10.400><c> option,</c>
+
+00:15:11.710 --> 00:15:11.720 align:start position:0%
+combination of an equity option,
+ 
+
+00:15:11.720 --> 00:15:13.430 align:start position:0%
+combination of an equity option,
+an<00:15:11.839><c> option</c><00:15:12.120><c> to</c><00:15:12.200><c> convert</c><00:15:12.560><c> to</c><00:15:12.640><c> equity,</c><00:15:13.280><c> and</c><00:15:13.400><c> a</c>
+
+00:15:13.430 --> 00:15:13.440 align:start position:0%
+an option to convert to equity, and a
+ 
+
+00:15:13.440 --> 00:15:14.990 align:start position:0%
+an option to convert to equity, and a
+straight<00:15:13.800><c> bond.</c>
+
+00:15:14.990 --> 00:15:15.000 align:start position:0%
+straight bond.
+ 
+
+00:15:15.000 --> 00:15:17.350 align:start position:0%
+straight bond.
+It<00:15:15.120><c> has</c><00:15:15.360><c> to</c><00:15:15.480><c> be</c><00:15:15.640><c> tied</c><00:15:16.200><c> to</c><00:15:16.360><c> how</c><00:15:16.600><c> equity</c><00:15:17.200><c> the</c>
+
+00:15:17.350 --> 00:15:17.360 align:start position:0%
+It has to be tied to how equity the
+ 
+
+00:15:17.360 --> 00:15:19.030 align:start position:0%
+It has to be tied to how equity the
+price<00:15:17.680><c> of</c><00:15:17.760><c> the</c><00:15:17.880><c> equity</c><00:15:18.280><c> and</c><00:15:18.440><c> the</c><00:15:18.520><c> price</c><00:15:18.839><c> of</c><00:15:18.960><c> the</c>
+
+00:15:19.030 --> 00:15:19.040 align:start position:0%
+price of the equity and the price of the
+ 
+
+00:15:19.040 --> 00:15:21.390 align:start position:0%
+price of the equity and the price of the
+straight<00:15:19.400><c> bond,</c><00:15:19.680><c> right?</c><00:15:20.600><c> But</c><00:15:20.800><c> once</c><00:15:21.160><c> in</c><00:15:21.320><c> a</c>
+
+00:15:21.390 --> 00:15:21.400 align:start position:0%
+straight bond, right? But once in a
+ 
+
+00:15:21.400 --> 00:15:22.750 align:start position:0%
+straight bond, right? But once in a
+while<00:15:21.760><c> you</c><00:15:21.839><c> can</c><00:15:22.000><c> have</c>
+
+00:15:22.750 --> 00:15:22.760 align:start position:0%
+while you can have
+ 
+
+00:15:22.760 --> 00:15:24.950 align:start position:0%
+while you can have
+bonds<00:15:23.280><c> trading</c><00:15:23.680><c> at</c><00:15:23.760><c> a</c><00:15:23.840><c> price</c><00:15:24.480><c> where</c><00:15:24.720><c> you</c><00:15:24.840><c> can</c>
+
+00:15:24.950 --> 00:15:24.960 align:start position:0%
+bonds trading at a price where you can
+ 
+
+00:15:24.960 --> 00:15:27.590 align:start position:0%
+bonds trading at a price where you can
+effectively<00:15:25.920><c> create</c><00:15:26.480><c> something</c><00:15:26.960><c> that</c><00:15:27.240><c> looks</c>
+
+00:15:27.590 --> 00:15:27.600 align:start position:0%
+effectively create something that looks
+ 
+
+00:15:27.600 --> 00:15:29.310 align:start position:0%
+effectively create something that looks
+like<00:15:27.800><c> the</c><00:15:27.920><c> convertible</c><00:15:28.520><c> bond</c><00:15:28.880><c> using</c><00:15:29.160><c> the</c>
+
+00:15:29.310 --> 00:15:29.320 align:start position:0%
+like the convertible bond using the
+ 
+
+00:15:29.320 --> 00:15:30.830 align:start position:0%
+like the convertible bond using the
+equity<00:15:29.800><c> and</c><00:15:29.880><c> the</c><00:15:29.960><c> straight</c><00:15:30.360><c> bonds</c><00:15:30.680><c> of</c><00:15:30.760><c> the</c>
+
+00:15:30.830 --> 00:15:30.840 align:start position:0%
+equity and the straight bonds of the
+ 
+
+00:15:30.840 --> 00:15:32.110 align:start position:0%
+equity and the straight bonds of the
+company
+
+00:15:32.110 --> 00:15:32.120 align:start position:0%
+company
+ 
+
+00:15:32.120 --> 00:15:34.030 align:start position:0%
+company
+and<00:15:32.240><c> capture</c><00:15:32.600><c> the</c><00:15:32.720><c> difference.</c><00:15:33.760><c> It's</c><00:15:33.840><c> called</c>
+
+00:15:34.030 --> 00:15:34.040 align:start position:0%
+and capture the difference. It's called
+ 
+
+00:15:34.040 --> 00:15:37.070 align:start position:0%
+and capture the difference. It's called
+convertible<00:15:34.600><c> arbitrage.</c><00:15:35.920><c> It's</c><00:15:36.160><c> messy,</c>
+
+00:15:37.070 --> 00:15:37.080 align:start position:0%
+convertible arbitrage. It's messy,
+ 
+
+00:15:37.080 --> 00:15:39.230 align:start position:0%
+convertible arbitrage. It's messy,
+right?<00:15:37.920><c> You</c><00:15:37.960><c> know,</c><00:15:38.120><c> because</c><00:15:39.000><c> there</c><00:15:39.160><c> are</c>
+
+00:15:39.230 --> 00:15:39.240 align:start position:0%
+right? You know, because there are
+ 
+
+00:15:39.240 --> 00:15:41.270 align:start position:0%
+right? You know, because there are
+things<00:15:39.680><c> that</c><00:15:40.040><c> might</c><00:15:40.400><c> not</c><00:15:40.600><c> exist</c><00:15:40.960><c> for</c><00:15:41.080><c> you</c><00:15:41.160><c> to</c>
+
+00:15:41.270 --> 00:15:41.280 align:start position:0%
+things that might not exist for you to
+ 
+
+00:15:41.280 --> 00:15:43.030 align:start position:0%
+things that might not exist for you to
+get<00:15:41.440><c> the</c><00:15:41.560><c> arbitrage.</c><00:15:42.040><c> One</c><00:15:42.280><c> is</c><00:15:42.400><c> if</c><00:15:42.520><c> you</c><00:15:42.640><c> don't</c>
+
+00:15:43.030 --> 00:15:43.040 align:start position:0%
+get the arbitrage. One is if you don't
+ 
+
+00:15:43.040 --> 00:15:44.550 align:start position:0%
+get the arbitrage. One is if you don't
+have<00:15:43.200><c> straight</c><00:15:43.600><c> bonds,</c><00:15:43.880><c> if</c><00:15:44.000><c> all</c><00:15:44.240><c> you</c><00:15:44.360><c> have</c><00:15:44.480><c> are</c>
+
+00:15:44.550 --> 00:15:44.560 align:start position:0%
+have straight bonds, if all you have are
+ 
+
+00:15:44.560 --> 00:15:46.070 align:start position:0%
+have straight bonds, if all you have are
+convertible<00:15:45.080><c> bonds,</c>
+
+00:15:46.070 --> 00:15:46.080 align:start position:0%
+convertible bonds,
+ 
+
+00:15:46.080 --> 00:15:48.110 align:start position:0%
+convertible bonds,
+getting<00:15:46.400><c> the</c><00:15:46.520><c> arbitrage</c><00:15:47.440><c> or</c><00:15:47.600><c> a</c><00:15:47.640><c> near</c>
+
+00:15:48.110 --> 00:15:48.120 align:start position:0%
+getting the arbitrage or a near
+ 
+
+00:15:48.120 --> 00:15:50.790 align:start position:0%
+getting the arbitrage or a near
+arbitrage<00:15:48.680><c> can</c><00:15:48.800><c> be</c><00:15:48.920><c> tough</c><00:15:49.160><c> to</c><00:15:49.280><c> do.</c><00:15:50.040><c> Second</c><00:15:50.480><c> is</c>
+
+00:15:50.790 --> 00:15:50.800 align:start position:0%
+arbitrage can be tough to do. Second is
+ 
+
+00:15:50.800 --> 00:15:52.790 align:start position:0%
+arbitrage can be tough to do. Second is
+forcing<00:15:51.400><c> conversion</c><00:15:51.960><c> of</c><00:15:52.080><c> convertible</c><00:15:52.520><c> bonds,</c>
+
+00:15:52.790 --> 00:15:52.800 align:start position:0%
+forcing conversion of convertible bonds,
+ 
+
+00:15:52.800 --> 00:15:54.670 align:start position:0%
+forcing conversion of convertible bonds,
+which<00:15:52.960><c> is</c><00:15:53.080><c> sometimes</c><00:15:53.560><c> required</c><00:15:54.320><c> on</c><00:15:54.480><c> these</c>
+
+00:15:54.670 --> 00:15:54.680 align:start position:0%
+which is sometimes required on these
+ 
+
+00:15:54.680 --> 00:15:57.350 align:start position:0%
+which is sometimes required on these
+strategies,<00:15:55.920><c> might</c><00:15:56.200><c> not</c><00:15:56.480><c> be</c><00:15:56.640><c> feasible.</c><00:15:57.240><c> They</c>
+
+00:15:57.350 --> 00:15:57.360 align:start position:0%
+strategies, might not be feasible. They
+ 
+
+00:15:57.360 --> 00:15:58.910 align:start position:0%
+strategies, might not be feasible. They
+can<00:15:57.560><c> reap</c><00:15:58.000><c> wreak</c><00:15:58.280><c> havoc,</c><00:15:58.720><c> you</c><00:15:58.800><c> know,</c>
+
+00:15:58.910 --> 00:15:58.920 align:start position:0%
+can reap wreak havoc, you know,
+ 
+
+00:15:58.920 --> 00:16:00.950 align:start position:0%
+can reap wreak havoc, you know,
+especially<00:15:59.920><c> if</c><00:16:00.120><c> companies</c><00:16:00.680><c> force</c>
+
+00:16:00.950 --> 00:16:00.960 align:start position:0%
+especially if companies force
+ 
+
+00:16:00.960 --> 00:16:02.230 align:start position:0%
+especially if companies force
+conversion.
+
+00:16:02.230 --> 00:16:02.240 align:start position:0%
+conversion.
+ 
+
+00:16:02.240 --> 00:16:03.070 align:start position:0%
+conversion.
+Now,
+
+00:16:03.070 --> 00:16:03.080 align:start position:0%
+Now,
+ 
+
+00:16:03.080 --> 00:16:05.230 align:start position:0%
+Now,
+thirdly,<00:16:03.600><c> if</c><00:16:03.960><c> convertible</c><00:16:04.480><c> bonds</c><00:16:04.800><c> have</c><00:16:04.920><c> long</c>
+
+00:16:05.230 --> 00:16:05.240 align:start position:0%
+thirdly, if convertible bonds have long
+ 
+
+00:16:05.240 --> 00:16:06.990 align:start position:0%
+thirdly, if convertible bonds have long
+maturities,<00:16:06.440><c> there</c><00:16:06.560><c> might</c><00:16:06.720><c> be</c><00:16:06.840><c> no</c>
+
+00:16:06.990 --> 00:16:07.000 align:start position:0%
+maturities, there might be no
+ 
+
+00:16:07.000 --> 00:16:09.030 align:start position:0%
+maturities, there might be no
+convergence<00:16:07.600><c> for</c><00:16:07.720><c> a</c><00:16:07.760><c> long</c><00:16:08.080><c> period</c><00:16:08.560><c> before</c><00:16:08.960><c> the</c>
+
+00:16:09.030 --> 00:16:09.040 align:start position:0%
+convergence for a long period before the
+ 
+
+00:16:09.040 --> 00:16:10.870 align:start position:0%
+convergence for a long period before the
+convergence<00:16:09.640><c> happens.</c><00:16:10.040><c> So,</c><00:16:10.160><c> you're</c><00:16:10.360><c> holding</c>
+
+00:16:10.870 --> 00:16:10.880 align:start position:0%
+convergence happens. So, you're holding
+ 
+
+00:16:10.880 --> 00:16:12.150 align:start position:0%
+convergence happens. So, you're holding
+and<00:16:11.000><c> holding</c><00:16:11.360><c> and</c><00:16:11.480><c> holding</c><00:16:11.760><c> and</c><00:16:11.840><c> nothing</c>
+
+00:16:12.150 --> 00:16:12.160 align:start position:0%
+and holding and holding and nothing
+ 
+
+00:16:12.160 --> 00:16:14.150 align:start position:0%
+and holding and holding and nothing
+happens.<00:16:13.160><c> Eventually,</c><00:16:13.760><c> you</c><00:16:13.800><c> might</c><00:16:14.000><c> make</c>
+
+00:16:14.150 --> 00:16:14.160 align:start position:0%
+happens. Eventually, you might make
+ 
+
+00:16:14.160 --> 00:16:15.470 align:start position:0%
+happens. Eventually, you might make
+profit,<00:16:14.560><c> but</c><00:16:14.680><c> you</c><00:16:14.760><c> need</c><00:16:14.960><c> a</c><00:16:15.000><c> long</c><00:16:15.280><c> time</c>
+
+00:16:15.470 --> 00:16:15.480 align:start position:0%
+profit, but you need a long time
+ 
+
+00:16:15.480 --> 00:16:17.030 align:start position:0%
+profit, but you need a long time
+horizon.<00:16:16.280><c> And</c><00:16:16.360><c> finally,</c><00:16:16.640><c> there</c><00:16:16.800><c> can</c><00:16:16.920><c> be</c>
+
+00:16:17.030 --> 00:16:17.040 align:start position:0%
+horizon. And finally, there can be
+ 
+
+00:16:17.040 --> 00:16:19.190 align:start position:0%
+horizon. And finally, there can be
+transactions<00:16:17.800><c> costs,</c><00:16:18.080><c> especially</c><00:16:18.640><c> on</c><00:16:18.760><c> small</c>
+
+00:16:19.190 --> 00:16:19.200 align:start position:0%
+transactions costs, especially on small
+ 
+
+00:16:19.200 --> 00:16:20.870 align:start position:0%
+transactions costs, especially on small
+companies<00:16:19.760><c> that</c><00:16:19.880><c> have</c><00:16:20.000><c> all</c><00:16:20.200><c> three</c><00:16:20.520><c> of</c><00:16:20.640><c> these</c>
+
+00:16:20.870 --> 00:16:20.880 align:start position:0%
+companies that have all three of these
+ 
+
+00:16:20.880 --> 00:16:22.070 align:start position:0%
+companies that have all three of these
+listed.
+
+00:16:22.070 --> 00:16:22.080 align:start position:0%
+listed.
+ 
+
+00:16:22.080 --> 00:16:23.510 align:start position:0%
+listed.
+So,<00:16:22.280><c> let's</c><00:16:22.560><c> review.</c><00:16:22.840><c> For</c><00:16:23.000><c> convertible</c>
+
+00:16:23.510 --> 00:16:23.520 align:start position:0%
+So, let's review. For convertible
+ 
+
+00:16:23.520 --> 00:16:25.590 align:start position:0%
+So, let's review. For convertible
+arbitrage,<00:16:24.160><c> you</c><00:16:24.240><c> need</c><00:16:24.680><c> stocks</c><00:16:25.160><c> which</c><00:16:25.360><c> have</c>
+
+00:16:25.590 --> 00:16:25.600 align:start position:0%
+arbitrage, you need stocks which have
+ 
+
+00:16:25.600 --> 00:16:27.590 align:start position:0%
+arbitrage, you need stocks which have
+both<00:16:25.960><c> shares</c><00:16:26.440><c> listed,</c><00:16:26.960><c> straight</c><00:16:27.320><c> bonds</c>
+
+00:16:27.590 --> 00:16:27.600 align:start position:0%
+both shares listed, straight bonds
+ 
+
+00:16:27.600 --> 00:16:29.829 align:start position:0%
+both shares listed, straight bonds
+listed,<00:16:27.960><c> and</c><00:16:28.160><c> convertible</c><00:16:28.720><c> bonds.</c>
+
+00:16:29.829 --> 00:16:29.839 align:start position:0%
+listed, and convertible bonds.
+ 
+
+00:16:29.839 --> 00:16:31.470 align:start position:0%
+listed, and convertible bonds.
+And<00:16:29.960><c> if</c><00:16:30.040><c> they</c><00:16:30.200><c> do</c><00:16:30.440><c> and</c><00:16:30.640><c> they're</c><00:16:30.800><c> mispriced</c>
+
+00:16:31.470 --> 00:16:31.480 align:start position:0%
+And if they do and they're mispriced
+ 
+
+00:16:31.480 --> 00:16:32.990 align:start position:0%
+And if they do and they're mispriced
+relative<00:16:31.960><c> to</c><00:16:32.080><c> each</c><00:16:32.280><c> other,</c><00:16:32.680><c> it</c><00:16:32.880><c> is</c>
+
+00:16:32.990 --> 00:16:33.000 align:start position:0%
+relative to each other, it is
+ 
+
+00:16:33.000 --> 00:16:36.430 align:start position:0%
+relative to each other, it is
+conceivable<00:16:33.839><c> you</c><00:16:33.960><c> can</c><00:16:34.200><c> lock</c><00:16:34.640><c> in</c><00:16:35.440><c> profits</c><00:16:36.240><c> with</c>
+
+00:16:36.430 --> 00:16:36.440 align:start position:0%
+conceivable you can lock in profits with
+ 
+
+00:16:36.440 --> 00:16:38.590 align:start position:0%
+conceivable you can lock in profits with
+a<00:16:36.520><c> residue</c><00:16:37.200><c> of</c><00:16:37.360><c> risk.</c><00:16:37.640><c> It's</c><00:16:37.760><c> not</c><00:16:38.000><c> completely</c>
+
+00:16:38.590 --> 00:16:38.600 align:start position:0%
+a residue of risk. It's not completely
+ 
+
+00:16:38.600 --> 00:16:42.230 align:start position:0%
+a residue of risk. It's not completely
+riskless<00:16:39.480><c> and</c><00:16:39.600><c> a</c><00:16:39.640><c> near</c><00:16:40.000><c> arbitrage.</c>
+
+00:16:42.230 --> 00:16:42.240 align:start position:0%
+riskless and a near arbitrage.
+ 
+
+00:16:42.240 --> 00:16:44.030 align:start position:0%
+riskless and a near arbitrage.
+So,<00:16:42.440><c> if</c><00:16:42.600><c> you</c><00:16:42.720><c> decide</c><00:16:43.120><c> to</c><00:16:43.240><c> go</c><00:16:43.400><c> this</c><00:16:43.640><c> route</c><00:16:43.920><c> of</c>
+
+00:16:44.030 --> 00:16:44.040 align:start position:0%
+So, if you decide to go this route of
+ 
+
+00:16:44.040 --> 00:16:46.710 align:start position:0%
+So, if you decide to go this route of
+near<00:16:44.280><c> arbitrage,</c><00:16:45.080><c> what</c><00:16:45.240><c> do</c><00:16:45.280><c> you</c><00:16:45.400><c> need</c><00:16:45.680><c> first?</c>
+
+00:16:46.710 --> 00:16:46.720 align:start position:0%
+near arbitrage, what do you need first?
+ 
+
+00:16:46.720 --> 00:16:49.350 align:start position:0%
+near arbitrage, what do you need first?
+This<00:16:47.080><c> is</c><00:16:48.000><c> a</c><00:16:48.040><c> philosophy</c><00:16:48.720><c> for</c><00:16:48.960><c> bigger</c>
+
+00:16:49.350 --> 00:16:49.360 align:start position:0%
+This is a philosophy for bigger
+ 
+
+00:16:49.360 --> 00:16:51.390 align:start position:0%
+This is a philosophy for bigger
+investors.<00:16:49.960><c> So,</c><00:16:50.040><c> if</c><00:16:50.120><c> you</c><00:16:50.200><c> have</c><00:16:50.320><c> 100,000</c><00:16:51.240><c> or</c><00:16:51.360><c> a</c>
+
+00:16:51.390 --> 00:16:51.400 align:start position:0%
+investors. So, if you have 100,000 or a
+ 
+
+00:16:51.400 --> 00:16:53.470 align:start position:0%
+investors. So, if you have 100,000 or a
+million,<00:16:52.360><c> it's</c><00:16:52.440><c> not</c><00:16:52.640><c> going</c><00:16:52.760><c> to</c><00:16:52.839><c> work</c><00:16:53.080><c> for</c><00:16:53.240><c> you.</c>
+
+00:16:53.470 --> 00:16:53.480 align:start position:0%
+million, it's not going to work for you.
+ 
+
+00:16:53.480 --> 00:16:55.870 align:start position:0%
+million, it's not going to work for you.
+But<00:16:53.680><c> you</c><00:16:53.760><c> have</c><00:16:53.880><c> a</c><00:16:54.320><c> billion</c><00:16:54.839><c> or</c><00:16:54.960><c> 10</c><00:16:55.240><c> billion</c><00:16:55.720><c> and</c>
+
+00:16:55.870 --> 00:16:55.880 align:start position:0%
+But you have a billion or 10 billion and
+ 
+
+00:16:55.880 --> 00:16:57.950 align:start position:0%
+But you have a billion or 10 billion and
+you're<00:16:56.000><c> trying</c><00:16:56.400><c> to</c><00:16:56.920><c> You</c><00:16:57.080><c> need</c><00:16:57.520><c> a</c><00:16:57.560><c> lot</c><00:16:57.839><c> of</c>
+
+00:16:57.950 --> 00:16:57.960 align:start position:0%
+you're trying to You need a lot of
+ 
+
+00:16:57.960 --> 00:16:59.990 align:start position:0%
+you're trying to You need a lot of
+capital<00:16:58.400><c> because</c><00:16:58.720><c> many</c><00:16:59.080><c> of</c><00:16:59.160><c> these</c><00:16:59.400><c> strategies</c>
+
+00:16:59.990 --> 00:17:00.000 align:start position:0%
+capital because many of these strategies
+ 
+
+00:17:00.000 --> 00:17:03.190 align:start position:0%
+capital because many of these strategies
+are<00:17:00.080><c> built</c><00:17:00.400><c> on</c><00:17:00.560><c> small</c><00:17:01.120><c> pricing</c><00:17:01.640><c> differences</c>
+
+00:17:03.190 --> 00:17:03.200 align:start position:0%
+are built on small pricing differences
+ 
+
+00:17:03.200 --> 00:17:04.870 align:start position:0%
+are built on small pricing differences
+and<00:17:03.320><c> you</c><00:17:03.400><c> need</c><00:17:03.600><c> to</c><00:17:03.680><c> keep</c><00:17:03.880><c> transactions</c><00:17:04.560><c> costs</c>
+
+00:17:04.870 --> 00:17:04.880 align:start position:0%
+and you need to keep transactions costs
+ 
+
+00:17:04.880 --> 00:17:06.470 align:start position:0%
+and you need to keep transactions costs
+low<00:17:05.000><c> and</c><00:17:05.120><c> trade</c><00:17:05.439><c> quickly.</c><00:17:05.920><c> You</c><00:17:06.040><c> might</c><00:17:06.280><c> need</c><00:17:06.439><c> a</c>
+
+00:17:06.470 --> 00:17:06.480 align:start position:0%
+low and trade quickly. You might need a
+ 
+
+00:17:06.480 --> 00:17:08.670 align:start position:0%
+low and trade quickly. You might need a
+lot<00:17:06.640><c> of</c><00:17:06.760><c> capital</c><00:17:07.199><c> to</c><00:17:07.319><c> do</c><00:17:07.439><c> it.</c><00:17:08.120><c> Second,</c><00:17:08.480><c> it</c>
+
+00:17:08.670 --> 00:17:08.680 align:start position:0%
+lot of capital to do it. Second, it
+ 
+
+00:17:08.680 --> 00:17:11.030 align:start position:0%
+lot of capital to do it. Second, it
+helps<00:17:09.079><c> if</c><00:17:09.280><c> you</c><00:17:09.480><c> can</c><00:17:09.760><c> force</c><00:17:10.280><c> convergence,</c><00:17:10.959><c> if</c>
+
+00:17:11.030 --> 00:17:11.040 align:start position:0%
+helps if you can force convergence, if
+ 
+
+00:17:11.040 --> 00:17:13.910 align:start position:0%
+helps if you can force convergence, if
+you<00:17:11.120><c> can</c><00:17:11.319><c> act</c><00:17:11.600><c> as</c><00:17:11.720><c> a</c><00:17:11.800><c> catalyst.</c><00:17:13.079><c> So,</c><00:17:13.160><c> if</c><00:17:13.280><c> you're</c>
+
+00:17:13.910 --> 00:17:13.920 align:start position:0%
+you can act as a catalyst. So, if you're
+ 
+
+00:17:13.920 --> 00:17:15.590 align:start position:0%
+you can act as a catalyst. So, if you're
+trying<00:17:14.199><c> to</c><00:17:14.280><c> unlock</c><00:17:14.720><c> the</c><00:17:14.839><c> holding</c><00:17:15.199><c> company</c>
+
+00:17:15.590 --> 00:17:15.600 align:start position:0%
+trying to unlock the holding company
+ 
+
+00:17:15.600 --> 00:17:17.710 align:start position:0%
+trying to unlock the holding company
+strategy,<00:17:16.240><c> rather</c><00:17:16.600><c> than</c><00:17:16.760><c> being</c><00:17:16.959><c> a</c><00:17:17.079><c> passive</c>
+
+00:17:17.710 --> 00:17:17.720 align:start position:0%
+strategy, rather than being a passive
+ 
+
+00:17:17.720 --> 00:17:19.110 align:start position:0%
+strategy, rather than being a passive
+investor<00:17:18.199><c> in</c><00:17:18.319><c> a</c><00:17:18.360><c> holding</c><00:17:18.760><c> company</c>
+
+00:17:19.110 --> 00:17:19.120 align:start position:0%
+investor in a holding company
+ 
+
+00:17:19.120 --> 00:17:21.510 align:start position:0%
+investor in a holding company
+discounted.<00:17:20.480><c> If</c><00:17:20.560><c> you</c><00:17:20.640><c> can</c><00:17:20.800><c> put</c><00:17:21.000><c> pressure</c><00:17:21.400><c> on</c>
+
+00:17:21.510 --> 00:17:21.520 align:start position:0%
+discounted. If you can put pressure on
+ 
+
+00:17:21.520 --> 00:17:24.710 align:start position:0%
+discounted. If you can put pressure on
+the<00:17:21.640><c> company</c><00:17:22.360><c> to</c><00:17:23.040><c> divest,</c><00:17:23.760><c> to</c><00:17:23.920><c> spin</c><00:17:24.319><c> off,</c><00:17:24.600><c> it</c>
+
+00:17:24.710 --> 00:17:24.720 align:start position:0%
+the company to divest, to spin off, it
+ 
+
+00:17:24.720 --> 00:17:27.550 align:start position:0%
+the company to divest, to spin off, it
+does<00:17:24.959><c> help.</c><00:17:25.240><c> So,</c><00:17:25.439><c> having</c><00:17:25.839><c> those</c><00:17:26.079><c> catalysts,</c>
+
+00:17:27.550 --> 00:17:27.560 align:start position:0%
+does help. So, having those catalysts,
+ 
+
+00:17:27.560 --> 00:17:31.070 align:start position:0%
+does help. So, having those catalysts,
+either<00:17:27.959><c> provided</c><00:17:28.520><c> by</c><00:17:28.960><c> you</c><00:17:29.440><c> or</c><00:17:29.600><c> by</c><00:17:29.760><c> somebody</c>
+
+00:17:31.070 --> 00:17:31.080 align:start position:0%
+either provided by you or by somebody
+ 
+
+00:17:31.080 --> 00:17:33.350 align:start position:0%
+either provided by you or by somebody
+outside,<00:17:31.720><c> can</c><00:17:31.920><c> help</c><00:17:32.160><c> you</c><00:17:32.280><c> make</c><00:17:32.520><c> money.</c><00:17:33.240><c> So,</c>
+
+00:17:33.350 --> 00:17:33.360 align:start position:0%
+outside, can help you make money. So,
+ 
+
+00:17:33.360 --> 00:17:35.230 align:start position:0%
+outside, can help you make money. So,
+you<00:17:33.400><c> need</c><00:17:33.640><c> capital,</c><00:17:34.240><c> you</c><00:17:34.360><c> need</c><00:17:34.600><c> convergence,</c>
+
+00:17:35.230 --> 00:17:35.240 align:start position:0%
+you need capital, you need convergence,
+ 
+
+00:17:35.240 --> 00:17:36.750 align:start position:0%
+you need capital, you need convergence,
+you<00:17:35.320><c> need</c><00:17:35.520><c> catalysts.</c>
+
+00:17:36.750 --> 00:17:36.760 align:start position:0%
+you need catalysts.
+ 
+
+00:17:36.760 --> 00:17:38.430 align:start position:0%
+you need catalysts.
+And<00:17:36.800><c> if</c><00:17:36.880><c> you</c><00:17:36.920><c> can</c><00:17:37.080><c> pull</c><00:17:37.240><c> that</c><00:17:37.440><c> off,</c>
+
+00:17:38.430 --> 00:17:38.440 align:start position:0%
+And if you can pull that off,
+ 
+
+00:17:38.440 --> 00:17:40.750 align:start position:0%
+And if you can pull that off,
+your<00:17:38.680><c> arbitrage</c><00:17:39.400><c> might</c><00:17:39.920><c> might</c><00:17:40.160><c> not</c><00:17:40.320><c> deliver</c>
+
+00:17:40.750 --> 00:17:40.760 align:start position:0%
+your arbitrage might might not deliver
+ 
+
+00:17:40.760 --> 00:17:43.070 align:start position:0%
+your arbitrage might might not deliver
+riskless<00:17:41.440><c> profits</c><00:17:41.960><c> like</c><00:17:42.200><c> pure</c><00:17:42.440><c> arbitrage</c>
+
+00:17:43.070 --> 00:17:43.080 align:start position:0%
+riskless profits like pure arbitrage
+ 
+
+00:17:43.080 --> 00:17:45.310 align:start position:0%
+riskless profits like pure arbitrage
+does,<00:17:43.720><c> but</c><00:17:43.840><c> it</c><00:17:43.920><c> might</c><00:17:44.040><c> be</c><00:17:44.200><c> easier</c><00:17:44.480><c> to</c><00:17:44.640><c> find</c><00:17:45.200><c> on</c>
+
+00:17:45.310 --> 00:17:45.320 align:start position:0%
+does, but it might be easier to find on
+ 
+
+00:17:45.320 --> 00:17:46.390 align:start position:0%
+does, but it might be easier to find on
+the<00:17:45.400><c> ground.</c>
+
+00:17:46.390 --> 00:17:46.400 align:start position:0%
+the ground.
+ 
+
+00:17:46.400 --> 00:17:48.230 align:start position:0%
+the ground.
+I<00:17:46.480><c> hope</c><00:17:46.720><c> you</c><00:17:46.840><c> found</c><00:17:47.040><c> this</c><00:17:47.160><c> session</c><00:17:47.520><c> useful,</c>
+
+00:17:48.230 --> 00:17:48.240 align:start position:0%
+I hope you found this session useful,
+ 
+
+00:17:48.240 --> 00:17:52.400 align:start position:0%
+I hope you found this session useful,
+and<00:17:48.400><c> I</c><00:17:48.440><c> thank</c><00:17:48.760><c> you</c><00:17:48.840><c> very</c><00:17:49.160><c> much</c><00:17:49.720><c> for</c><00:17:49.840><c> listening.</c>
+

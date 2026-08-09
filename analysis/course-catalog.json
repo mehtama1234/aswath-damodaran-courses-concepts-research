@@ -1,0 +1,217 @@
+{
+  "workspace": {
+    "name": "Aswath Damodaran Courses Concepts Research",
+    "updated_on": "2026-08-09",
+    "description": "Root catalog for transcript-backed course research, concepts, themes, subthemes, discussions, and reader-facing HTML outputs across multiple Aswath Damodaran playlists."
+  },
+  "courses": [
+    {
+      "slug": "investment-philosophies-2026",
+      "title": "Investment Philosophies - The 2026 Edition",
+      "instructor": "Aswath Damodaran",
+      "status": "rich-course-site-built",
+      "videos": 43,
+      "available_transcripts": 43,
+      "total_words": 138353,
+      "total_cues": 41884,
+      "analysis_outputs": [
+        "analysis/README.md",
+        "analysis/course-thesis.md",
+        "analysis/concepts.json",
+        "analysis/session-briefs.md",
+        "analysis/themes-and-subthemes.json",
+        "analysis/sessions.json",
+        "analysis/discussions.json"
+      ],
+      "site_outputs": [
+        "site/index.html",
+        "site/course-thesis.html",
+        "site/themes.html",
+        "site/subthemes.html",
+        "site/discussions.html",
+        "site/sessions.html",
+        "site/concepts/"
+      ],
+      "strengths": [
+        "full session-by-session brief map",
+        "detailed theme and subtheme tree",
+        "concept-page layer with multiple standalone writeups",
+        "course-level synthesis essay",
+        "strong societal, cultural, consumer, institutional, and industrial framing",
+        "transcript-backed session/theme/discussion layer",
+        "reader-facing themes, subthemes, discussions, and sessions pages"
+      ]
+    },
+    {
+      "slug": "foundations-of-finance",
+      "title": "Foundations of Finance",
+      "instructor": "Aswath Damodaran",
+      "status": "partial-corpus-rich-site-built",
+      "videos": 13,
+      "available_transcripts": 11,
+      "total_words": 31493,
+      "total_cues": 9847,
+      "analysis_outputs": [
+        "analysis/README.md",
+        "analysis/session-inventory.md",
+        "analysis/themes-and-subthemes.json",
+        "analysis/session-briefs.md",
+        "analysis/sessions.json",
+        "analysis/discussions.json"
+      ],
+      "site_outputs": [
+        "site/index.html",
+        "site/course-thesis.html",
+        "site/themes.html",
+        "site/subthemes.html",
+        "site/discussions.html",
+        "site/sessions.html",
+        "site/concepts/"
+      ],
+      "strengths": [
+        "introductory finance bridge course",
+        "clean session inventory for first-pass analysis",
+        "first-pass theme and subtheme map despite partial transcript coverage",
+        "reader-facing overview, thesis, and concept pages",
+        "good foundation for connecting business structure, risk, time value, valuation, inflation, and currencies",
+        "useful downward extension of the current Damodaran workspace into first-principles finance",
+        "transcript-backed session/theme/discussion layer despite partial transcript coverage",
+        "reader-facing themes, subthemes, discussions, and sessions pages"
+      ]
+    },
+    {
+      "slug": "valuation-mba-spring-2025",
+      "title": "Valuation MBA Spring 2025",
+      "instructor": "Aswath Damodaran",
+      "status": "rich-concept-atlas-built",
+      "videos": 27,
+      "available_transcripts": 27,
+      "total_words": 360131,
+      "total_cues": 106179,
+      "analysis_outputs": [
+        "analysis/README.md",
+        "analysis/session-inventory.md",
+        "analysis/session-briefs.md",
+        "analysis/themes-and-subthemes.json",
+        "analysis/sessions.json",
+        "analysis/themes.json",
+        "analysis/subthemes.json",
+        "analysis/discussions.json",
+        "analysis/concepts.json",
+        "analysis/evidence-map.json",
+        "analysis/course-thesis.md"
+      ],
+      "site_outputs": [
+        "site/index.html",
+        "site/course-thesis.html",
+        "site/themes.html",
+        "site/subthemes.html",
+        "site/evidence.html",
+        "site/discussions.html",
+        "site/sessions.html",
+        "site/concepts/"
+      ],
+      "strengths": [
+        "complete transcript corpus",
+        "high-density valuation lecture sequence",
+        "clean session inventory for first-pass thematic analysis",
+        "full session-by-session brief map",
+        "rich theme and subtheme map spanning DCF, pricing, optionality, private company issues, and control",
+        "reader-facing overview, thesis, themes, subthemes, evidence, discussion, session, and concept pages",
+        "37 concept pages with transcript cue evidence",
+        "strong fit for future concept normalization around valuation, pricing, growth, optionality, and control"
+      ]
+    },
+    {
+      "slug": "valuation-undergraduate-spring-2025",
+      "title": "Valuation Undergraduate Spring 2025",
+      "instructor": "Aswath Damodaran",
+      "status": "rich-course-site-built",
+      "videos": 28,
+      "available_transcripts": 28,
+      "total_words": 359388,
+      "total_cues": 104768,
+      "analysis_outputs": [
+        "analysis/README.md",
+        "analysis/session-inventory.md",
+        "analysis/themes-and-subthemes.json",
+        "analysis/course-thesis.md",
+        "analysis/concepts.json",
+        "analysis/evidence-map.json",
+        "analysis/session-briefs.md",
+        "analysis/sessions.json",
+        "analysis/discussions.json"
+      ],
+      "site_outputs": [
+        "site/index.html",
+        "site/course-thesis.html",
+        "site/themes.html",
+        "site/concepts/index.html",
+        "site/evidence.html",
+        "site/sessions.html",
+        "site/subthemes.html",
+        "site/discussions.html"
+      ],
+      "strengths": [
+        "complete undergraduate valuation transcript corpus",
+        "hand-built transcript-backed theme and subtheme map",
+        "23 concept pages with transcript-backed evidence links",
+        "reader-facing overview, thesis, theme, concept, evidence, and session pages",
+        "useful parallel comparison track beside the MBA valuation course",
+        "strong raw material for studying how Damodaran changes exposition by audience level",
+        "good base for deeper cross-course work on pedagogy, valuation sequencing, and concept translation",
+        "transcript-backed session, subtheme, and discussion layer",
+        "closer surface-area parity with the MBA valuation atlas"
+      ]
+    },
+    {
+      "slug": "corporate-finance-spring-2025",
+      "title": "Corporate Finance Spring 2025",
+      "instructor": "Aswath Damodaran",
+      "status": "rich-concept-atlas-built",
+      "videos": 27,
+      "available_transcripts": 26,
+      "total_words": 355601,
+      "total_cues": 106659,
+      "analysis_outputs": [
+        "analysis/course-thesis.md",
+        "analysis/session-briefs.md",
+        "analysis/themes-and-subthemes.json",
+        "analysis/concepts.json",
+        "analysis/evidence-map.json",
+        "analysis/themes.json",
+        "analysis/subthemes.json",
+        "analysis/discussions.json",
+        "analysis/sessions.json"
+      ],
+      "site_outputs": [
+        "site/index.html",
+        "site/course-thesis.html",
+        "site/themes.html",
+        "site/subthemes.html",
+        "site/evidence.html",
+        "site/discussions.html",
+        "site/sessions.html",
+        "site/concepts/index.html",
+        "site/concepts/*.html"
+      ],
+      "strengths": [
+        "large transcript base",
+        "course-level thesis and argument spine",
+        "theme and subtheme architecture",
+        "20 transcript-backed concept pages",
+        "cue-level evidence map",
+        "session-level discussion artifacts",
+        "reader-facing HTML course site"
+      ]
+    }
+  ],
+  "cross_course_next_steps": [
+    "normalize course-level metadata so pages can compare themes across playlists",
+    "extract recurring Damodaran ideas that appear in multiple courses",
+    "build a root comparison page spanning investment philosophy, corporate finance, valuation, and future courses",
+    "normalize foundations-of-finance ideas into the root concept registry where the overlap is already clear",
+    "extend the undergraduate valuation course into concept and evidence layers",
+    "continue adding courses through the same manifest-driven transcript pipeline"
+  ]
+}

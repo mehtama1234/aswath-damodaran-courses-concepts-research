@@ -1,0 +1,2945 @@
+[
+  {
+    "slug": "valuation-as-translated-judgment",
+    "name": "Valuation as translated judgment",
+    "theme_slug": "valuation-discipline",
+    "meaning": "Valuation is a disciplined translation of a business story into explicit assumptions about growth, margins, reinvestment, risk, and time.",
+    "importance": "This is the course's deepest habit: a model is useful only when its numbers expose the story rather than hiding it.",
+    "development": "The opening and closing sessions keep returning to valuation as a craft of judgment under uncertainty, not spreadsheet completion.",
+    "common_mistakes": [
+      "Building a model before knowing the story.",
+      "Treating precision in cells as proof of analytical precision."
+    ],
+    "connections": [
+      "stories-into-inputs",
+      "intrinsic-value-vs-pricing",
+      "terminal-value"
+    ],
+    "keywords": [
+      "story",
+      "stories",
+      "narrative",
+      "assumptions",
+      "judgment",
+      "uncertainty",
+      "valuation"
+    ],
+    "strongest_sessions": [
+      14,
+      13,
+      25,
+      12,
+      26
+    ],
+    "evidence": [
+      {
+        "session": 14,
+        "title": "Session 13: Stock-based Compensation and Stories in Valuation",
+        "url": "https://www.youtube.com/watch?v=nmPDxY7Q3lk",
+        "score": 176,
+        "excerpt": "took his DCF valuation and took his valuation and read back the story I saw",
+        "start_seconds": 207.76,
+        "end_seconds": 210.22899999999998
+      },
+      {
+        "session": 13,
+        "title": "Session 14: Closure on stories and numbers and fist valuations!",
+        "url": "https://www.youtube.com/watch?v=WEgelyAqeeA",
+        "score": 161,
+        "excerpt": "you come back and tell me another story we need a story now a story that goes",
+        "start_seconds": 1451.159,
+        "end_seconds": 1453.83
+      },
+      {
+        "session": 25,
+        "title": "Session 2: The Bermuda Triangle of Valuation",
+        "url": "https://www.youtube.com/watch?v=KGXjL13owBk",
+        "score": 142,
+        "excerpt": "reality of valuation most valuations the value gets at first the valuation",
+        "start_seconds": 2861.24,
+        "end_seconds": 2864.51
+      },
+      {
+        "session": 12,
+        "title": "Session 15: Valuations across the life cycle",
+        "url": "https://www.youtube.com/watch?v=oBLZ-tPH9X0",
+        "score": 116,
+        "excerpt": "your story, right? I don't own the story. This is my story. My money is",
+        "start_seconds": 2480.079,
+        "end_seconds": 2482.15
+      },
+      {
+        "session": 26,
+        "title": "Session 1: Class themes, structure and sequence",
+        "url": "https://www.youtube.com/watch?v=eIcyARH3FiM",
+        "score": 116,
+        "excerpt": "how I talk about valuation, think about valuation, write about valuation.",
+        "start_seconds": 446.8,
+        "end_seconds": 449.11
+      }
+    ]
+  },
+  {
+    "slug": "bermuda-triangle-of-valuation",
+    "name": "Bermuda Triangle of valuation",
+    "theme_slug": "valuation-discipline",
+    "meaning": "The analyst can get lost between story, numbers, and bias unless the valuation process keeps each leg visible and testable.",
+    "importance": "It gives the course a practical warning: valuation errors are often failures of process rather than failures of arithmetic.",
+    "development": "Early sessions use this frame to separate disciplined valuation from confirmation bias, spreadsheet theater, and market storytelling.",
+    "common_mistakes": [
+      "Letting bias choose the assumptions.",
+      "Using complexity to disguise weak economics."
+    ],
+    "connections": [
+      "valuation-as-translated-judgment",
+      "stories-into-inputs",
+      "intrinsic-value-vs-pricing"
+    ],
+    "keywords": [
+      "bermuda triangle",
+      "bias",
+      "story",
+      "numbers",
+      "process",
+      "valuation"
+    ],
+    "strongest_sessions": [
+      13,
+      25,
+      14,
+      26,
+      12
+    ],
+    "evidence": [
+      {
+        "session": 13,
+        "title": "Session 14: Closure on stories and numbers and fist valuations!",
+        "url": "https://www.youtube.com/watch?v=WEgelyAqeeA",
+        "score": 192,
+        "excerpt": "you come back and tell me another story we need a story now a story that goes",
+        "start_seconds": 1451.159,
+        "end_seconds": 1453.83
+      },
+      {
+        "session": 25,
+        "title": "Session 2: The Bermuda Triangle of Valuation",
+        "url": "https://www.youtube.com/watch?v=KGXjL13owBk",
+        "score": 189,
+        "excerpt": "history so let's say about first where bias comes from bias essentially comes",
+        "start_seconds": 660.36,
+        "end_seconds": 663.79
+      },
+      {
+        "session": 14,
+        "title": "Session 13: Stock-based Compensation and Stories in Valuation",
+        "url": "https://www.youtube.com/watch?v=nmPDxY7Q3lk",
+        "score": 187,
+        "excerpt": "the story. Convert to numbers. Show me a valuation and that valuation will be as",
+        "start_seconds": 678.04,
+        "end_seconds": 680.79
+      },
+      {
+        "session": 26,
+        "title": "Session 1: Class themes, structure and sequence",
+        "url": "https://www.youtube.com/watch?v=eIcyARH3FiM",
+        "score": 144,
+        "excerpt": "how I talk about valuation, think about valuation, write about valuation.",
+        "start_seconds": 446.8,
+        "end_seconds": 449.11
+      },
+      {
+        "session": 12,
+        "title": "Session 15: Valuations across the life cycle",
+        "url": "https://www.youtube.com/watch?v=oBLZ-tPH9X0",
+        "score": 124,
+        "excerpt": "your story, right? I don't own the story. This is my story. My money is",
+        "start_seconds": 2480.079,
+        "end_seconds": 2482.15
+      }
+    ]
+  },
+  {
+    "slug": "stories-into-inputs",
+    "name": "Stories into inputs",
+    "theme_slug": "valuation-discipline",
+    "meaning": "Stories matter only when they become model inputs: market size, revenue growth, margins, reinvestment, risk, and terminal economics.",
+    "importance": "This is how the course turns strategy talk into something that can be tested, debated, and revised.",
+    "development": "The narrative sessions and first valuation exercises force every qualitative claim to show up somewhere in the model.",
+    "common_mistakes": [
+      "Letting a persuasive story float above the spreadsheet.",
+      "Changing inputs without changing the underlying story."
+    ],
+    "connections": [
+      "valuation-as-translated-judgment",
+      "growth-estimation",
+      "life-cycle-valuation"
+    ],
+    "keywords": [
+      "story",
+      "stories",
+      "narrative",
+      "inputs",
+      "numbers",
+      "market size",
+      "margins"
+    ],
+    "strongest_sessions": [
+      14,
+      13,
+      12,
+      16,
+      23
+    ],
+    "evidence": [
+      {
+        "session": 14,
+        "title": "Session 13: Stock-based Compensation and Stories in Valuation",
+        "url": "https://www.youtube.com/watch?v=nmPDxY7Q3lk",
+        "score": 172,
+        "excerpt": "numbers. It's all about story. And what's the story going to depend on? How",
+        "start_seconds": 1020.079,
+        "end_seconds": 1022.15
+      },
+      {
+        "session": 13,
+        "title": "Session 14: Closure on stories and numbers and fist valuations!",
+        "url": "https://www.youtube.com/watch?v=WEgelyAqeeA",
+        "score": 153,
+        "excerpt": "of stories and numbers how you know stories can drive numbers and how",
+        "start_seconds": 148.28,
+        "end_seconds": 150.22899999999998
+      },
+      {
+        "session": 12,
+        "title": "Session 15: Valuations across the life cycle",
+        "url": "https://www.youtube.com/watch?v=oBLZ-tPH9X0",
+        "score": 98,
+        "excerpt": "your story, right? I don't own the story. This is my story. My money is",
+        "start_seconds": 2480.079,
+        "end_seconds": 2482.15
+      },
+      {
+        "session": 16,
+        "title": "Session 11: More on Growth and Terminal Value",
+        "url": "https://www.youtube.com/watch?v=so6vCWKCiXE",
+        "score": 66,
+        "excerpt": "growth margins any questions about the margins part of your story so what kind",
+        "start_seconds": 2615.2,
+        "end_seconds": 2617.549
+      },
+      {
+        "session": 23,
+        "title": "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+        "url": "https://www.youtube.com/watch?v=oFz94rZbc4c",
+        "score": 49,
+        "excerpt": "frame your story then you look at operating margins",
+        "start_seconds": 2473.24,
+        "end_seconds": 2476.03
+      }
+    ]
+  },
+  {
+    "slug": "intrinsic-value-vs-pricing",
+    "name": "Intrinsic value versus pricing",
+    "theme_slug": "valuation-discipline",
+    "meaning": "Intrinsic valuation asks what an asset is worth from its own cash flows, while pricing asks what similar assets trade for.",
+    "importance": "The distinction prevents a common analytical category error: using market mood as if it were business value.",
+    "development": "The course first introduces the distinction philosophically, then revisits it in the pricing block with multiples and peer groups.",
+    "common_mistakes": [
+      "Calling a multiple-based price an intrinsic value.",
+      "Using comparables without admitting the claim is relative."
+    ],
+    "connections": [
+      "pricing-101",
+      "multiples-hide-assumptions",
+      "peer-group-selection"
+    ],
+    "keywords": [
+      "intrinsic",
+      "pricing",
+      "price",
+      "value",
+      "cash flows",
+      "multiple",
+      "market"
+    ],
+    "strongest_sessions": [
+      7,
+      10,
+      1,
+      8,
+      4
+    ],
+    "evidence": [
+      {
+        "session": 7,
+        "title": "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+        "url": "https://www.youtube.com/watch?v=oSSRcLhum1s",
+        "score": 446,
+        "excerpt": "pricing. I've got a sophisticated pricing. I've got an intrinsic value.",
+        "start_seconds": 3721.68,
+        "end_seconds": 3723.99
+      },
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 411,
+        "excerpt": "market number that market number can be the market value of equity market cap",
+        "start_seconds": 1142.0,
+        "end_seconds": 1144.149
+      },
+      {
+        "session": 1,
+        "title": "Session 26: Closing Thoughts (and a discourse of the value of control)",
+        "url": "https://www.youtube.com/watch?v=V6-suY_Ur4w",
+        "score": 352,
+        "excerpt": "you value growth at and growth can add value, destroy value, do nothing value",
+        "start_seconds": 281.32,
+        "end_seconds": 283.51
+      },
+      {
+        "session": 8,
+        "title": "Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups",
+        "url": "https://www.youtube.com/watch?v=rjqwM6ZTpA0",
+        "score": 352,
+        "excerpt": "market pricing numerator and a multiple is a market price right market cap. So",
+        "start_seconds": 3384.0,
+        "end_seconds": 3385.75
+      },
+      {
+        "session": 4,
+        "title": "Session 23: Patents and Natural Resources as Options",
+        "url": "https://www.youtube.com/watch?v=brwQ8urELjg",
+        "score": 324,
+        "excerpt": "current stock price, you take the present value of that stock price with",
+        "start_seconds": 1080.8,
+        "end_seconds": 1083.15
+      }
+    ]
+  },
+  {
+    "slug": "dcf-big-picture",
+    "name": "DCF big picture",
+    "theme_slug": "dcf-architecture",
+    "meaning": "A DCF values an asset by forecasting expected cash flows and discounting them at rates that reflect timing, risk, and currency.",
+    "importance": "It is the central architecture for intrinsic value and the reference point for understanding why shortcuts can mislead.",
+    "development": "Damodaran builds DCF from first principles before adding the hard inputs: riskfree rates, premiums, cash flows, growth, and terminal value.",
+    "common_mistakes": [
+      "Treating DCF as a template.",
+      "Mixing cash-flow definitions and discount-rate definitions."
+    ],
+    "connections": [
+      "cash-flow-consistency",
+      "discount-rate-consistency",
+      "terminal-value"
+    ],
+    "keywords": [
+      "dcf",
+      "discounted cash flow",
+      "cash flow",
+      "discount rate",
+      "present value",
+      "intrinsic value"
+    ],
+    "strongest_sessions": [
+      4,
+      24,
+      23,
+      16,
+      18
+    ],
+    "evidence": [
+      {
+        "session": 4,
+        "title": "Session 23: Patents and Natural Resources as Options",
+        "url": "https://www.youtube.com/watch?v=brwQ8urELjg",
+        "score": 126,
+        "excerpt": "the present value, going to come up with a present value of cash flows. Don't",
+        "start_seconds": 1720.44,
+        "end_seconds": 1721.83
+      },
+      {
+        "session": 24,
+        "title": "Session 3: Valuation Introduction (completed) and Cashflow Consistency",
+        "url": "https://www.youtube.com/watch?v=Hf4niCYe1R8",
+        "score": 112,
+        "excerpt": "cash flow I'm discounting not the cash flow Equity but the collective cash flow",
+        "start_seconds": 473.0,
+        "end_seconds": 475.189
+      },
+      {
+        "session": 23,
+        "title": "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+        "url": "https://www.youtube.com/watch?v=oFz94rZbc4c",
+        "score": 102,
+        "excerpt": "to be much higher right if the discount rate is higher in a discounted cash flow",
+        "start_seconds": 195.08,
+        "end_seconds": 196.82999999999998
+      },
+      {
+        "session": 16,
+        "title": "Session 11: More on Growth and Terminal Value",
+        "url": "https://www.youtube.com/watch?v=so6vCWKCiXE",
+        "score": 82,
+        "excerpt": "do cash flows I do discount rates I know what a free cash flow is your heart's",
+        "start_seconds": 403.919,
+        "end_seconds": 406.23
+      },
+      {
+        "session": 18,
+        "title": "Session 9: Digging Deeper into Cash Flows",
+        "url": "https://www.youtube.com/watch?v=EOwEdlva1Rc",
+        "score": 57,
+        "excerpt": "you're welcome tip but in a discounted cash flow valuation we just take those",
+        "start_seconds": 224.4,
+        "end_seconds": 225.869
+      }
+    ]
+  },
+  {
+    "slug": "cash-flow-consistency",
+    "name": "Cash-flow consistency",
+    "theme_slug": "dcf-architecture",
+    "meaning": "Cash flows have to match the claim being valued, the currency chosen, the inflation assumption, and the discount rate.",
+    "importance": "Most wrong valuations are not wrong because the math fails; they are wrong because the model combines incompatible assumptions.",
+    "development": "The early DCF sessions make consistency the hidden law that governs currency, nominal versus real inputs, taxes, debt, and equity claims.",
+    "common_mistakes": [
+      "Discounting equity cash flows at a cost of capital.",
+      "Mixing real cash flows with nominal discount rates."
+    ],
+    "connections": [
+      "dcf-big-picture",
+      "riskfree-rates",
+      "free-cash-flow-to-firm"
+    ],
+    "keywords": [
+      "cash flow",
+      "cash flows",
+      "consistency",
+      "currency",
+      "nominal",
+      "real",
+      "equity",
+      "firm"
+    ],
+    "strongest_sessions": [
+      23,
+      24,
+      21,
+      22,
+      4
+    ],
+    "evidence": [
+      {
+        "session": 23,
+        "title": "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+        "url": "https://www.youtube.com/watch?v=oFz94rZbc4c",
+        "score": 274,
+        "excerpt": "Equity cash flows to equity discount at the cost of equity I get a value for",
+        "start_seconds": 854.519,
+        "end_seconds": 856.11
+      },
+      {
+        "session": 24,
+        "title": "Session 3: Valuation Introduction (completed) and Cashflow Consistency",
+        "url": "https://www.youtube.com/watch?v=Hf4niCYe1R8",
+        "score": 252,
+        "excerpt": "Equity investors take the cash flows you get as leftover cash flows and",
+        "start_seconds": 332.56,
+        "end_seconds": 334.07
+      },
+      {
+        "session": 21,
+        "title": "Session 6: Company Exposure to Country Risk + Implied Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=ouNEMzzNQEo",
+        "score": 230,
+        "excerpt": "But you don't live in last year's cash flows. You want expected cash flows in",
+        "start_seconds": 310.52,
+        "end_seconds": 312.03
+      },
+      {
+        "session": 22,
+        "title": "Session 5: Closure on Riskfree Rates & Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=1wyr2R471Dc",
+        "score": 196,
+        "excerpt": "do your cash flows in real terms and already you can see real cash flows will",
+        "start_seconds": 1271.48,
+        "end_seconds": 1274.35
+      },
+      {
+        "session": 4,
+        "title": "Session 23: Patents and Natural Resources as Options",
+        "url": "https://www.youtube.com/watch?v=brwQ8urELjg",
+        "score": 174,
+        "excerpt": "those cash flows differently than my cash flows from existing assets,",
+        "start_seconds": 2939.56,
+        "end_seconds": 2941.43
+      }
+    ]
+  },
+  {
+    "slug": "discount-rate-consistency",
+    "name": "Discount-rate consistency",
+    "theme_slug": "dcf-architecture",
+    "meaning": "The discount rate must be built in the same currency, inflation terms, claim definition, and risk frame as the cash flows.",
+    "importance": "It is the guardrail that keeps DCF from becoming a collection of copied market inputs.",
+    "development": "Riskfree-rate, ERP, country-risk, beta, and cost-of-capital sessions all return to this matching principle.",
+    "common_mistakes": [
+      "Mixing currencies.",
+      "Applying a firm discount rate to equity cash flows."
+    ],
+    "connections": [
+      "riskfree-rates",
+      "cost-of-capital",
+      "cash-flow-consistency"
+    ],
+    "keywords": [
+      "discount rate",
+      "discount rates",
+      "currency",
+      "nominal",
+      "real",
+      "cost of capital",
+      "cost of equity"
+    ],
+    "strongest_sessions": [
+      23,
+      22,
+      24,
+      16,
+      4
+    ],
+    "evidence": [
+      {
+        "session": 23,
+        "title": "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+        "url": "https://www.youtube.com/watch?v=oFz94rZbc4c",
+        "score": 116,
+        "excerpt": "discount rates to cash flows so I will talk about discount rates but as a class",
+        "start_seconds": 3486.76,
+        "end_seconds": 3488.91
+      },
+      {
+        "session": 22,
+        "title": "Session 5: Closure on Riskfree Rates & Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=1wyr2R471Dc",
+        "score": 101,
+        "excerpt": "a real interest rate but in the longterm real interest rates and real growth are",
+        "start_seconds": 2513.72,
+        "end_seconds": 2515.63
+      },
+      {
+        "session": 24,
+        "title": "Session 3: Valuation Introduction (completed) and Cashflow Consistency",
+        "url": "https://www.youtube.com/watch?v=Hf4niCYe1R8",
+        "score": 86,
+        "excerpt": "it cost of capital but it's a weighted average cost of capital basic so if you",
+        "start_seconds": 500.879,
+        "end_seconds": 503.35
+      },
+      {
+        "session": 16,
+        "title": "Session 11: More on Growth and Terminal Value",
+        "url": "https://www.youtube.com/watch?v=so6vCWKCiXE",
+        "score": 81,
+        "excerpt": "got to stay with normal if you did real cash flows you do real what currency",
+        "start_seconds": 3416.319,
+        "end_seconds": 3418.95
+      },
+      {
+        "session": 4,
+        "title": "Session 23: Patents and Natural Resources as Options",
+        "url": "https://www.youtube.com/watch?v=brwQ8urELjg",
+        "score": 75,
+        "excerpt": "we're going to end up using in a lot of real options because in many real",
+        "start_seconds": 1104.84,
+        "end_seconds": 1106.63
+      }
+    ]
+  },
+  {
+    "slug": "riskfree-rates",
+    "name": "Riskfree rates",
+    "theme_slug": "dcf-architecture",
+    "meaning": "The riskfree rate is the base rate in the currency of the cash flows, free of default risk and internally consistent with inflation.",
+    "importance": "It anchors every discount rate. If this base is wrong, the valuation is contaminated before risk premiums or betas enter.",
+    "development": "Sessions on riskfree rates separate currency choice, sovereign default risk, real versus nominal rates, and maturity matching.",
+    "common_mistakes": [
+      "Using a government bond yield mechanically when default risk exists.",
+      "Using a dollar riskfree rate for non-dollar cash flows."
+    ],
+    "connections": [
+      "discount-rate-consistency",
+      "equity-risk-premiums",
+      "country-risk"
+    ],
+    "keywords": [
+      "riskfree",
+      "risk free",
+      "default free",
+      "government bond",
+      "currency",
+      "inflation",
+      "treasury"
+    ],
+    "strongest_sessions": [
+      22,
+      23,
+      24,
+      19,
+      16
+    ],
+    "evidence": [
+      {
+        "session": 22,
+        "title": "Session 5: Closure on Riskfree Rates & Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=1wyr2R471Dc",
+        "score": 151,
+        "excerpt": "thinking High inflation currencies have high risk free rates low inflation",
+        "start_seconds": 1605.24,
+        "end_seconds": 1607.789
+      },
+      {
+        "session": 23,
+        "title": "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+        "url": "https://www.youtube.com/watch?v=oFz94rZbc4c",
+        "score": 74,
+        "excerpt": "inflation it's inflation inflation is the driver of risk free rates the driver",
+        "start_seconds": 224.0,
+        "end_seconds": 226.27
+      },
+      {
+        "session": 24,
+        "title": "Session 3: Valuation Introduction (completed) and Cashflow Consistency",
+        "url": "https://www.youtube.com/watch?v=Hf4niCYe1R8",
+        "score": 45,
+        "excerpt": "it's a currency with almost no inflation and it's also a currency that if ID gone",
+        "start_seconds": 2347.88,
+        "end_seconds": 2349.829
+      },
+      {
+        "session": 19,
+        "title": "Session 8: Closure on Cost of Capital + First steps on cash flows",
+        "url": "https://www.youtube.com/watch?v=MtsRSkV4HUg",
+        "score": 37,
+        "excerpt": "you need you need a risk free rate which risk free rate the same risk free rate",
+        "start_seconds": 835.0,
+        "end_seconds": 836.829
+      },
+      {
+        "session": 16,
+        "title": "Session 11: More on Growth and Terminal Value",
+        "url": "https://www.youtube.com/watch?v=so6vCWKCiXE",
+        "score": 22,
+        "excerpt": "my cap is my risk free rate remember this valuation has a risk free rate in",
+        "start_seconds": 3473.16,
+        "end_seconds": 3474.829
+      }
+    ]
+  },
+  {
+    "slug": "equity-risk-premiums",
+    "name": "Equity risk premiums",
+    "theme_slug": "risk-discount-rates",
+    "meaning": "The equity risk premium is the market price of bearing equity risk over a riskfree asset.",
+    "importance": "It is one of the biggest levers in valuation and should reflect current market pricing, not just inherited historical averages.",
+    "development": "Damodaran develops historical, implied, and country-adjusted premiums as competing ways to estimate the market price of risk.",
+    "common_mistakes": [
+      "Using a stale historical premium without checking current market levels.",
+      "Ignoring country risk in global businesses."
+    ],
+    "connections": [
+      "riskfree-rates",
+      "country-risk",
+      "cost-of-equity"
+    ],
+    "keywords": [
+      "equity risk premium",
+      "erp",
+      "premium",
+      "implied premium",
+      "historical premium",
+      "market risk"
+    ],
+    "strongest_sessions": [
+      21,
+      22,
+      8,
+      1,
+      20
+    ],
+    "evidence": [
+      {
+        "session": 21,
+        "title": "Session 6: Company Exposure to Country Risk + Implied Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=ouNEMzzNQEo",
+        "score": 245,
+        "excerpt": "what the equity risk premium is. Compute your own implied equity risk premium.",
+        "start_seconds": 4345.52,
+        "end_seconds": 4346.99
+      },
+      {
+        "session": 22,
+        "title": "Session 5: Closure on Riskfree Rates & Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=1wyr2R471Dc",
+        "score": 105,
+        "excerpt": "number and add it to the US Equity risk premium you have an equity risk premium",
+        "start_seconds": 3950.16,
+        "end_seconds": 3951.99
+      },
+      {
+        "session": 8,
+        "title": "Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups",
+        "url": "https://www.youtube.com/watch?v=rjqwM6ZTpA0",
+        "score": 63,
+        "excerpt": "enterprise value to sales, enterprise value to know EBIT DA, enterprise value",
+        "start_seconds": 4220.8,
+        "end_seconds": 4223.27
+      },
+      {
+        "session": 1,
+        "title": "Session 26: Closing Thoughts (and a discourse of the value of control)",
+        "url": "https://www.youtube.com/watch?v=V6-suY_Ur4w",
+        "score": 35,
+        "excerpt": "form. You can make your company underpriced or overpriced depending on",
+        "start_seconds": 205.04,
+        "end_seconds": 206.79
+      },
+      {
+        "session": 20,
+        "title": "Session 7: Measuring Relative Risk - Betas and Alternatives",
+        "url": "https://www.youtube.com/watch?v=FT7ZfG6Abzg",
+        "score": 31,
+        "excerpt": "Equity risk premium I prefer an implied premium but if you want to stick with",
+        "start_seconds": 4861.04,
+        "end_seconds": 4863.03
+      }
+    ]
+  },
+  {
+    "slug": "country-risk",
+    "name": "Country risk",
+    "theme_slug": "risk-discount-rates",
+    "meaning": "Country risk captures exposure to macro, political, currency, and default risk beyond mature-market baseline risk.",
+    "importance": "Global companies are exposed to risk where they operate, not merely where they are incorporated or listed.",
+    "development": "The country-risk sessions connect sovereign spreads, revenue exposure, and implied premiums to the cost of equity.",
+    "common_mistakes": [
+      "Assigning country risk by headquarters only.",
+      "Double-counting country risk in both cash flows and discount rates."
+    ],
+    "connections": [
+      "equity-risk-premiums",
+      "cost-of-equity",
+      "discount-rate-consistency"
+    ],
+    "keywords": [
+      "country risk",
+      "sovereign",
+      "default spread",
+      "emerging market",
+      "revenue exposure",
+      "premium"
+    ],
+    "strongest_sessions": [
+      21,
+      22,
+      19,
+      20,
+      23
+    ],
+    "evidence": [
+      {
+        "session": 21,
+        "title": "Session 6: Company Exposure to Country Risk + Implied Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=ouNEMzzNQEo",
+        "score": 196,
+        "excerpt": "Default spread, basically. And then you scale that default spread up for the",
+        "start_seconds": 712.8389999999999,
+        "end_seconds": 715.11
+      },
+      {
+        "session": 22,
+        "title": "Session 5: Closure on Riskfree Rates & Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=1wyr2R471Dc",
+        "score": 107,
+        "excerpt": "the the country risk premium so the country risk premium is the default",
+        "start_seconds": 4625.159,
+        "end_seconds": 4626.31
+      },
+      {
+        "session": 19,
+        "title": "Session 8: Closure on Cost of Capital + First steps on cash flows",
+        "url": "https://www.youtube.com/watch?v=MtsRSkV4HUg",
+        "score": 42,
+        "excerpt": "equity we bring in country risk through a country risk premium built on the",
+        "start_seconds": 1502.84,
+        "end_seconds": 1504.47
+      },
+      {
+        "session": 20,
+        "title": "Session 7: Measuring Relative Risk - Betas and Alternatives",
+        "url": "https://www.youtube.com/watch?v=FT7ZfG6Abzg",
+        "score": 24,
+        "excerpt": "risk premium to come up with the equity risk premium for a",
+        "start_seconds": 1338.559,
+        "end_seconds": 1340.11
+      },
+      {
+        "session": 23,
+        "title": "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+        "url": "https://www.youtube.com/watch?v=oFz94rZbc4c",
+        "score": 23,
+        "excerpt": "premiums you now have multiple risk premiums the same thing will apply so I",
+        "start_seconds": 4125.56,
+        "end_seconds": 4127.829
+      }
+    ]
+  },
+  {
+    "slug": "relative-risk-and-betas",
+    "name": "Relative risk and betas",
+    "theme_slug": "risk-discount-rates",
+    "meaning": "Beta is a measure of relative risk, but useful beta estimation has to reflect business mix and leverage rather than blindly trust regressions.",
+    "importance": "The course uses beta to discipline risk measurement while warning against false precision from noisy market data.",
+    "development": "Damodaran moves from regression betas to bottom-up thinking and alternatives when firms are private, changing, or thinly traded.",
+    "common_mistakes": [
+      "Taking a regression beta as truth.",
+      "Forgetting that financial leverage changes equity beta."
+    ],
+    "connections": [
+      "cost-of-equity",
+      "cost-of-capital",
+      "private-company-valuation"
+    ],
+    "keywords": [
+      "beta",
+      "betas",
+      "relative risk",
+      "regression",
+      "bottom up",
+      "unlevered",
+      "levered"
+    ],
+    "strongest_sessions": [
+      20,
+      7,
+      6,
+      8,
+      3
+    ],
+    "evidence": [
+      {
+        "session": 20,
+        "title": "Session 7: Measuring Relative Risk - Betas and Alternatives",
+        "url": "https://www.youtube.com/watch?v=FT7ZfG6Abzg",
+        "score": 327,
+        "excerpt": "stock betas they're regression betas right are regression betas lever betas",
+        "start_seconds": 3939.64,
+        "end_seconds": 3941.789
+      },
+      {
+        "session": 7,
+        "title": "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+        "url": "https://www.youtube.com/watch?v=oSSRcLhum1s",
+        "score": 81,
+        "excerpt": "this? Because I don't use a regression beta, right? If I use a regression beta,",
+        "start_seconds": 3569.44,
+        "end_seconds": 3571.349
+      },
+      {
+        "session": 6,
+        "title": "Session 21: Valuing Privately owned businesses (not publicly listed)",
+        "url": "https://www.youtube.com/watch?v=T0DcUKaNgzY",
+        "score": 59,
+        "excerpt": "beta from it. We take the beta of the regressions and we use a bottom up beta.",
+        "start_seconds": 1586.72,
+        "end_seconds": 1591.269
+      },
+      {
+        "session": 8,
+        "title": "Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups",
+        "url": "https://www.youtube.com/watch?v=rjqwM6ZTpA0",
+        "score": 39,
+        "excerpt": "the banking regression and its variables. When you run this regression",
+        "start_seconds": 3125.4,
+        "end_seconds": 3128.47
+      },
+      {
+        "session": 3,
+        "title": "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+        "url": "https://www.youtube.com/watch?v=7oUgHVSn5Y0",
+        "score": 24,
+        "excerpt": "target company unlevered beta of the target company, not the unlevered beta",
+        "start_seconds": 3813.48,
+        "end_seconds": 3816.31
+      }
+    ]
+  },
+  {
+    "slug": "cost-of-equity",
+    "name": "Cost of equity",
+    "theme_slug": "risk-discount-rates",
+    "meaning": "The cost of equity is the return required by equity investors for bearing the risk of residual cash flows.",
+    "importance": "It is the equity discount rate and a central input in both firm and equity valuation.",
+    "development": "The course builds it from riskfree rates, equity risk premiums, country risk, and relative risk measures.",
+    "common_mistakes": [
+      "Treating cost of equity as what managers hope to earn.",
+      "Using the same cost of equity for businesses with different risk."
+    ],
+    "connections": [
+      "riskfree-rates",
+      "equity-risk-premiums",
+      "relative-risk-and-betas"
+    ],
+    "keywords": [
+      "cost of equity",
+      "required return",
+      "expected return",
+      "capm",
+      "beta",
+      "premium"
+    ],
+    "strongest_sessions": [
+      20,
+      21,
+      22,
+      6,
+      3
+    ],
+    "evidence": [
+      {
+        "session": 20,
+        "title": "Session 7: Measuring Relative Risk - Betas and Alternatives",
+        "url": "https://www.youtube.com/watch?v=FT7ZfG6Abzg",
+        "score": 230,
+        "excerpt": "stock betas they're regression betas right are regression betas lever betas",
+        "start_seconds": 3939.64,
+        "end_seconds": 3941.789
+      },
+      {
+        "session": 21,
+        "title": "Session 6: Company Exposure to Country Risk + Implied Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=ouNEMzzNQEo",
+        "score": 181,
+        "excerpt": "I'm taking this equity risk premium multiplying by a beta. You're saying,",
+        "start_seconds": 1179.679,
+        "end_seconds": 1181.23
+      },
+      {
+        "session": 22,
+        "title": "Session 5: Closure on Riskfree Rates & Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=1wyr2R471Dc",
+        "score": 87,
+        "excerpt": "right risk-free rates risk premiums betas cost of capital cash flows it's",
+        "start_seconds": 93.119,
+        "end_seconds": 95.95
+      },
+      {
+        "session": 6,
+        "title": "Session 21: Valuing Privately owned businesses (not publicly listed)",
+        "url": "https://www.youtube.com/watch?v=T0DcUKaNgzY",
+        "score": 59,
+        "excerpt": "beta from it. We take the beta of the regressions and we use a bottom up beta.",
+        "start_seconds": 1586.72,
+        "end_seconds": 1591.269
+      },
+      {
+        "session": 3,
+        "title": "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+        "url": "https://www.youtube.com/watch?v=7oUgHVSn5Y0",
+        "score": 34,
+        "excerpt": "the cost of equity? A total beta. Total beta looks at total",
+        "start_seconds": 4368.0,
+        "end_seconds": 4370.23
+      }
+    ]
+  },
+  {
+    "slug": "cost-of-capital",
+    "name": "Cost of capital",
+    "theme_slug": "risk-discount-rates",
+    "meaning": "The cost of capital combines the costs of debt and equity in proportions that match the business and the cash flows being discounted.",
+    "importance": "It is the firm-wide discount rate for operating cash flows, but only when it is constructed consistently.",
+    "development": "The transition from risk inputs to cash-flow valuation closes with cost of capital before the course turns to cash flows.",
+    "common_mistakes": [
+      "Using book-value weights by default.",
+      "Applying one corporate cost of capital to every asset or geography."
+    ],
+    "connections": [
+      "cost-of-equity",
+      "free-cash-flow-to-firm",
+      "discount-rate-consistency"
+    ],
+    "keywords": [
+      "cost of capital",
+      "wacc",
+      "cost of debt",
+      "cost of equity",
+      "debt",
+      "equity"
+    ],
+    "strongest_sessions": [
+      19,
+      3,
+      23,
+      21,
+      20
+    ],
+    "evidence": [
+      {
+        "session": 19,
+        "title": "Session 8: Closure on Cost of Capital + First steps on cash flows",
+        "url": "https://www.youtube.com/watch?v=MtsRSkV4HUg",
+        "score": 316,
+        "excerpt": "9.29% cost of equity cost of debt cost of debt will almost always be lower than",
+        "start_seconds": 2379.28,
+        "end_seconds": 2382.43
+      },
+      {
+        "session": 3,
+        "title": "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+        "url": "https://www.youtube.com/watch?v=7oUgHVSn5Y0",
+        "score": 217,
+        "excerpt": "It's mostly debt It's a debt-funded company, 85% debt, 55% 15% equity. If",
+        "start_seconds": 2756.88,
+        "end_seconds": 2761.03
+      },
+      {
+        "session": 23,
+        "title": "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+        "url": "https://www.youtube.com/watch?v=oFz94rZbc4c",
+        "score": 162,
+        "excerpt": "Equity cash flows to equity discount at the cost of equity I get a value for",
+        "start_seconds": 854.519,
+        "end_seconds": 856.11
+      },
+      {
+        "session": 21,
+        "title": "Session 6: Company Exposure to Country Risk + Implied Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=ouNEMzzNQEo",
+        "score": 137,
+        "excerpt": "to the cost of equity, in which case I get 16, 17% as my cost of equity.",
+        "start_seconds": 1936.08,
+        "end_seconds": 1939.35
+      },
+      {
+        "session": 20,
+        "title": "Session 7: Measuring Relative Risk - Betas and Alternatives",
+        "url": "https://www.youtube.com/watch?v=FT7ZfG6Abzg",
+        "score": 115,
+        "excerpt": "cost of equity but remember your cost of equity goes into cost of capital",
+        "start_seconds": 4790.96,
+        "end_seconds": 4792.55
+      }
+    ]
+  },
+  {
+    "slug": "free-cash-flow-to-firm",
+    "name": "Free cash flow to firm",
+    "theme_slug": "growth-cash-flows",
+    "meaning": "FCFF is operating cash flow available to all capital providers after taxes and reinvestment needed to sustain growth.",
+    "importance": "It is the cash-flow engine for firm valuation and forces the analyst to separate accounting earnings from owner-relevant cash flows.",
+    "development": "The cash-flow sessions clean up operating income, taxes, reinvestment, working capital, and accounting adjustments.",
+    "common_mistakes": [
+      "Using net income as if it were free cash flow.",
+      "Forgetting working capital or capital expenditures."
+    ],
+    "connections": [
+      "cash-flow-consistency",
+      "reinvestment",
+      "terminal-value"
+    ],
+    "keywords": [
+      "free cash flow",
+      "cash flow to firm",
+      "fcff",
+      "operating income",
+      "tax",
+      "working capital",
+      "capex"
+    ],
+    "strongest_sessions": [
+      18,
+      20,
+      19,
+      23,
+      2
+    ],
+    "evidence": [
+      {
+        "session": 18,
+        "title": "Session 9: Digging Deeper into Cash Flows",
+        "url": "https://www.youtube.com/watch?v=EOwEdlva1Rc",
+        "score": 198,
+        "excerpt": "which is the tax rate you find in in the income statement taxable income taxes",
+        "start_seconds": 2308.52,
+        "end_seconds": 2310.55
+      },
+      {
+        "session": 20,
+        "title": "Session 7: Measuring Relative Risk - Betas and Alternatives",
+        "url": "https://www.youtube.com/watch?v=FT7ZfG6Abzg",
+        "score": 91,
+        "excerpt": "tax rate the marginal tax rate so the effective tax rate you will find in the",
+        "start_seconds": 827.56,
+        "end_seconds": 829.189
+      },
+      {
+        "session": 19,
+        "title": "Session 8: Closure on Cost of Capital + First steps on cash flows",
+        "url": "https://www.youtube.com/watch?v=MtsRSkV4HUg",
+        "score": 51,
+        "excerpt": "include it in that no tax there is no tax benefit so when you throw it in as",
+        "start_seconds": 2811.8,
+        "end_seconds": 2813.43
+      },
+      {
+        "session": 23,
+        "title": "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+        "url": "https://www.youtube.com/watch?v=oFz94rZbc4c",
+        "score": 40,
+        "excerpt": "operating income why act because you pay taxes on taxable income after interest",
+        "start_seconds": 1787.88,
+        "end_seconds": 1789.95
+      },
+      {
+        "session": 2,
+        "title": "Session 25: Acquisition Closure + Value Enhancement",
+        "url": "https://www.youtube.com/watch?v=fU7vcy0dv_w",
+        "score": 38,
+        "excerpt": "about what's avoid that tax law tax avoid tax management. Let's call it tax",
+        "start_seconds": 3091.119,
+        "end_seconds": 3093.19
+      }
+    ]
+  },
+  {
+    "slug": "growth-estimation",
+    "name": "Growth estimation",
+    "theme_slug": "growth-cash-flows",
+    "meaning": "Growth has to be estimated from fundamentals, analyst judgment, past performance, and the operating story rather than assumed as an isolated input.",
+    "importance": "Growth is often the most seductive valuation input, and the course makes it earn its way into the model.",
+    "development": "The growth block links revenue growth, margins, reinvestment, return on capital, and life-cycle stage.",
+    "common_mistakes": [
+      "Projecting high growth without asking how it is funded.",
+      "Extrapolating history when the business is changing."
+    ],
+    "connections": [
+      "reinvestment",
+      "growth-quality",
+      "life-cycle-valuation"
+    ],
+    "keywords": [
+      "growth",
+      "expected growth",
+      "revenue growth",
+      "earnings growth",
+      "return on capital",
+      "fundamental growth"
+    ],
+    "strongest_sessions": [
+      16,
+      10,
+      17,
+      7,
+      12
+    ],
+    "evidence": [
+      {
+        "session": 16,
+        "title": "Session 11: More on Growth and Terminal Value",
+        "url": "https://www.youtube.com/watch?v=so6vCWKCiXE",
+        "score": 192,
+        "excerpt": "your return on Capital is your expected growth",
+        "start_seconds": 689.959,
+        "end_seconds": 692.71
+      },
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 117,
+        "excerpt": "growth what kind of assumption am I making high growth low growth",
+        "start_seconds": 265.88,
+        "end_seconds": 269.99
+      },
+      {
+        "session": 17,
+        "title": "Session 10: Estimating Growth",
+        "url": "https://www.youtube.com/watch?v=BH66ZpTVTdg",
+        "score": 110,
+        "excerpt": "earnings growth from 1957 to 1962 which he was also so he had two 5year growth",
+        "start_seconds": 908.92,
+        "end_seconds": 911.189
+      },
+      {
+        "session": 7,
+        "title": "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+        "url": "https://www.youtube.com/watch?v=oSSRcLhum1s",
+        "score": 73,
+        "excerpt": "captures. The revenue growth rate is that because higher growth companies",
+        "start_seconds": 823.519,
+        "end_seconds": 824.949
+      },
+      {
+        "session": 12,
+        "title": "Session 15: Valuations across the life cycle",
+        "url": "https://www.youtube.com/watch?v=oBLZ-tPH9X0",
+        "score": 69,
+        "excerpt": "revenue growth rate. I estimated a compounded annual revenue growth rate of",
+        "start_seconds": 1530.52,
+        "end_seconds": 1533.549
+      }
+    ]
+  },
+  {
+    "slug": "reinvestment",
+    "name": "Reinvestment",
+    "theme_slug": "growth-cash-flows",
+    "meaning": "Reinvestment is the capital required to generate and sustain growth, including capex, working capital, acquisitions, and other growth investments.",
+    "importance": "It is the cost side of the growth story. Growth without reinvestment discipline is usually fantasy.",
+    "development": "Damodaran ties growth to sales-to-capital ratios, return on capital, and reinvestment needs through the middle sessions.",
+    "common_mistakes": [
+      "Assuming growth is free.",
+      "Using high terminal growth without matching reinvestment."
+    ],
+    "connections": [
+      "growth-estimation",
+      "free-cash-flow-to-firm",
+      "terminal-value"
+    ],
+    "keywords": [
+      "reinvestment",
+      "sales to capital",
+      "capital invested",
+      "working capital",
+      "capex",
+      "return on capital"
+    ],
+    "strongest_sessions": [
+      18,
+      16,
+      11,
+      12,
+      19
+    ],
+    "evidence": [
+      {
+        "session": 18,
+        "title": "Session 9: Digging Deeper into Cash Flows",
+        "url": "https://www.youtube.com/watch?v=EOwEdlva1Rc",
+        "score": 84,
+        "excerpt": "gigantic capex it's an external capex as opposed to internal capex so in my",
+        "start_seconds": 3013.44,
+        "end_seconds": 3015.549
+      },
+      {
+        "session": 16,
+        "title": "Session 11: More on Growth and Terminal Value",
+        "url": "https://www.youtube.com/watch?v=so6vCWKCiXE",
+        "score": 79,
+        "excerpt": "reinvestment rate what's a reinvestment rate you take net capex and change in",
+        "start_seconds": 656.9590000000001,
+        "end_seconds": 658.509
+      },
+      {
+        "session": 11,
+        "title": "Session 16: Closure on Intrinsic Value",
+        "url": "https://www.youtube.com/watch?v=knln8-Ni9OA",
+        "score": 29,
+        "excerpt": "fact, it has a a reinvestment rate of 60% and a return on capital of 9.2%. So",
+        "start_seconds": 955.36,
+        "end_seconds": 958.71
+      },
+      {
+        "session": 12,
+        "title": "Session 15: Valuations across the life cycle",
+        "url": "https://www.youtube.com/watch?v=oBLZ-tPH9X0",
+        "score": 29,
+        "excerpt": "driver for reinvestment. So we'll talk about the reinvestment each year but",
+        "start_seconds": 1828.72,
+        "end_seconds": 1830.07
+      },
+      {
+        "session": 19,
+        "title": "Session 8: Closure on Cost of Capital + First steps on cash flows",
+        "url": "https://www.youtube.com/watch?v=MtsRSkV4HUg",
+        "score": 26,
+        "excerpt": "and then what goes into capex and depreciation working capital but that's",
+        "start_seconds": 3251.52,
+        "end_seconds": 3253.43
+      }
+    ]
+  },
+  {
+    "slug": "growth-quality",
+    "name": "Growth quality",
+    "theme_slug": "growth-cash-flows",
+    "meaning": "Growth is high quality only when it earns more than it costs, can be funded realistically, and does not destroy margins or returns.",
+    "importance": "The course refuses to treat growth as automatically good; growth can destroy value when reinvestment economics are weak.",
+    "development": "Growth, cash-flow, and terminal-value sessions repeatedly connect growth to returns on capital and reinvestment intensity.",
+    "common_mistakes": [
+      "Rewarding revenue growth without checking returns.",
+      "Assuming scale automatically improves economics."
+    ],
+    "connections": [
+      "growth-estimation",
+      "reinvestment",
+      "terminal-value"
+    ],
+    "keywords": [
+      "growth",
+      "quality",
+      "return on capital",
+      "reinvestment",
+      "margins",
+      "value creating"
+    ],
+    "strongest_sessions": [
+      16,
+      17,
+      10,
+      12,
+      23
+    ],
+    "evidence": [
+      {
+        "session": 16,
+        "title": "Session 11: More on Growth and Terminal Value",
+        "url": "https://www.youtube.com/watch?v=so6vCWKCiXE",
+        "score": 252,
+        "excerpt": "to rank them in terms of the quality of growth quality in the sense as an",
+        "start_seconds": 1041.079,
+        "end_seconds": 1042.549
+      },
+      {
+        "session": 17,
+        "title": "Session 10: Estimating Growth",
+        "url": "https://www.youtube.com/watch?v=BH66ZpTVTdg",
+        "score": 125,
+        "excerpt": "sustainable growth sustainable growth ties your growth rate to how much are",
+        "start_seconds": 2076.52,
+        "end_seconds": 2078.389
+      },
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 117,
+        "excerpt": "growth what kind of assumption am I making high growth low growth",
+        "start_seconds": 265.88,
+        "end_seconds": 269.99
+      },
+      {
+        "session": 12,
+        "title": "Session 15: Valuations across the life cycle",
+        "url": "https://www.youtube.com/watch?v=oBLZ-tPH9X0",
+        "score": 102,
+        "excerpt": "want to be estimating year one margins, year two margins, year three margins.",
+        "start_seconds": 2547.52,
+        "end_seconds": 2549.91
+      },
+      {
+        "session": 23,
+        "title": "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+        "url": "https://www.youtube.com/watch?v=oFz94rZbc4c",
+        "score": 78,
+        "excerpt": "operating income growth become a 7% net income growth and a 9% per share growth",
+        "start_seconds": 1988.12,
+        "end_seconds": 1991.149
+      }
+    ]
+  },
+  {
+    "slug": "terminal-value",
+    "name": "Terminal value",
+    "theme_slug": "dcf-architecture",
+    "meaning": "Terminal value captures cash flows beyond the explicit forecast period under stable-growth assumptions.",
+    "importance": "It is often the largest part of a DCF, so small inconsistencies in mature growth, reinvestment, or risk can dominate the answer.",
+    "development": "The course treats terminal value as a consistency test: stable growth must fit the economy, the firm, and the reinvestment economics.",
+    "common_mistakes": [
+      "Using terminal growth higher than the economy forever.",
+      "Letting terminal value rescue an implausible story."
+    ],
+    "connections": [
+      "dcf-big-picture",
+      "reinvestment",
+      "life-cycle-valuation"
+    ],
+    "keywords": [
+      "terminal value",
+      "stable growth",
+      "forever",
+      "terminal growth",
+      "reinvestment",
+      "mature"
+    ],
+    "strongest_sessions": [
+      16,
+      12,
+      14,
+      11,
+      18
+    ],
+    "evidence": [
+      {
+        "session": 16,
+        "title": "Session 11: More on Growth and Terminal Value",
+        "url": "https://www.youtube.com/watch?v=so6vCWKCiXE",
+        "score": 96,
+        "excerpt": "forever you're trying to come up with the terminal value which of the",
+        "start_seconds": 167.76,
+        "end_seconds": 170.19
+      },
+      {
+        "session": 12,
+        "title": "Session 15: Valuations across the life cycle",
+        "url": "https://www.youtube.com/watch?v=oBLZ-tPH9X0",
+        "score": 38,
+        "excerpt": "company? Mature company. Let's keep going. Mature company in a business that",
+        "start_seconds": 713.12,
+        "end_seconds": 716.15
+      },
+      {
+        "session": 14,
+        "title": "Session 13: Stock-based Compensation and Stories in Valuation",
+        "url": "https://www.youtube.com/watch?v=nmPDxY7Q3lk",
+        "score": 26,
+        "excerpt": "expect to see in reinvestment? low reinvestment. I I should expect to see",
+        "start_seconds": 4963.44,
+        "end_seconds": 4965.43
+      },
+      {
+        "session": 11,
+        "title": "Session 16: Closure on Intrinsic Value",
+        "url": "https://www.youtube.com/watch?v=knln8-Ni9OA",
+        "score": 25,
+        "excerpt": "And for my reinvestment, I'm going to define reinvestment as what the bank",
+        "start_seconds": 2035.6,
+        "end_seconds": 2037.669
+      },
+      {
+        "session": 18,
+        "title": "Session 9: Digging Deeper into Cash Flows",
+        "url": "https://www.youtube.com/watch?v=EOwEdlva1Rc",
+        "score": 24,
+        "excerpt": "live forever you know you know this is the way you live forever and the",
+        "start_seconds": 4685.88,
+        "end_seconds": 4687.709
+      }
+    ]
+  },
+  {
+    "slug": "stock-based-compensation",
+    "name": "Stock-based compensation",
+    "theme_slug": "growth-cash-flows",
+    "meaning": "Stock-based compensation is a real claim on future equity value, not a harmless non-cash expense to ignore.",
+    "importance": "It matters because valuation is about who owns the future cash flows, not just what operating income looks like today.",
+    "development": "Loose-end sessions use SBC to show how accounting adjustments can shift value between current and future owners.",
+    "common_mistakes": [
+      "Adding back SBC without accounting for dilution.",
+      "Treating employee equity as free compensation."
+    ],
+    "connections": [
+      "free-cash-flow-to-firm",
+      "cash-flow-consistency",
+      "life-cycle-valuation"
+    ],
+    "keywords": [
+      "stock based compensation",
+      "sbc",
+      "options",
+      "dilution",
+      "employee options",
+      "shares"
+    ],
+    "strongest_sessions": [
+      14,
+      4,
+      1,
+      5,
+      3
+    ],
+    "evidence": [
+      {
+        "session": 14,
+        "title": "Session 13: Stock-based Compensation and Stories in Valuation",
+        "url": "https://www.youtube.com/watch?v=nmPDxY7Q3lk",
+        "score": 111,
+        "excerpt": "shares themselves are regular shares. So when you have restricted shares the",
+        "start_seconds": 1280.08,
+        "end_seconds": 1281.43
+      },
+      {
+        "session": 4,
+        "title": "Session 23: Patents and Natural Resources as Options",
+        "url": "https://www.youtube.com/watch?v=brwQ8urELjg",
+        "score": 57,
+        "excerpt": "options. They're paying for out of the money options.",
+        "start_seconds": 456.28,
+        "end_seconds": 458.63
+      },
+      {
+        "session": 1,
+        "title": "Session 26: Closing Thoughts (and a discourse of the value of control)",
+        "url": "https://www.youtube.com/watch?v=V6-suY_Ur4w",
+        "score": 54,
+        "excerpt": "voting shares non-voting shares. The preferred shares are just no common",
+        "start_seconds": 1788.24,
+        "end_seconds": 1790.51
+      },
+      {
+        "session": 5,
+        "title": "Session 22: Closure on IPOs and Introduction to Real Options",
+        "url": "https://www.youtube.com/watch?v=77fpOozQl-s",
+        "score": 45,
+        "excerpt": "thousand shares in every single IPO. Will you get a thousand shares in all of",
+        "start_seconds": 341.68,
+        "end_seconds": 343.23
+      },
+      {
+        "session": 3,
+        "title": "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+        "url": "https://www.youtube.com/watch?v=7oUgHVSn5Y0",
+        "score": 25,
+        "excerpt": "issue shares, right? And if you don't want to issue shares because you don't",
+        "start_seconds": 483.24,
+        "end_seconds": 484.43
+      }
+    ]
+  },
+  {
+    "slug": "life-cycle-valuation",
+    "name": "Life-cycle valuation",
+    "theme_slug": "growth-cash-flows",
+    "meaning": "A company should be valued differently depending on whether it is young, scaling, mature, declining, private, distressed, or being acquired.",
+    "importance": "The same template cannot carry every firm; the stage of the business changes the plausible story and the right inputs.",
+    "development": "The course explicitly pauses to value companies across the life cycle after building the core DCF machinery.",
+    "common_mistakes": [
+      "Using mature-company margins for startups.",
+      "Using startup growth stories for declining firms."
+    ],
+    "connections": [
+      "growth-estimation",
+      "terminal-value",
+      "private-company-valuation"
+    ],
+    "keywords": [
+      "life cycle",
+      "young",
+      "startup",
+      "mature",
+      "declining",
+      "growth",
+      "profitability"
+    ],
+    "strongest_sessions": [
+      16,
+      12,
+      10,
+      17,
+      7
+    ],
+    "evidence": [
+      {
+        "session": 16,
+        "title": "Session 11: More on Growth and Terminal Value",
+        "url": "https://www.youtube.com/watch?v=so6vCWKCiXE",
+        "score": 175,
+        "excerpt": "growth should I go to use a real growth rate forever or a nominal growth rate",
+        "start_seconds": 3399.28,
+        "end_seconds": 3402.27
+      },
+      {
+        "session": 12,
+        "title": "Session 15: Valuations across the life cycle",
+        "url": "https://www.youtube.com/watch?v=oBLZ-tPH9X0",
+        "score": 121,
+        "excerpt": "company? Mature company. Let's keep going. Mature company in a business that",
+        "start_seconds": 713.12,
+        "end_seconds": 716.15
+      },
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 116,
+        "excerpt": "growth what kind of assumption am I making high growth low growth",
+        "start_seconds": 265.88,
+        "end_seconds": 269.99
+      },
+      {
+        "session": 17,
+        "title": "Session 10: Estimating Growth",
+        "url": "https://www.youtube.com/watch?v=BH66ZpTVTdg",
+        "score": 113,
+        "excerpt": "sustainable growth sustainable growth ties your growth rate to how much are",
+        "start_seconds": 2076.52,
+        "end_seconds": 2078.389
+      },
+      {
+        "session": 7,
+        "title": "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+        "url": "https://www.youtube.com/watch?v=oSSRcLhum1s",
+        "score": 70,
+        "excerpt": "into the mix? You have growth. Higher growth company should have higher price",
+        "start_seconds": 338.56,
+        "end_seconds": 340.07
+      }
+    ]
+  },
+  {
+    "slug": "pricing-101",
+    "name": "Pricing 101",
+    "theme_slug": "pricing-language",
+    "meaning": "Pricing estimates what an asset should trade for by looking at similar assets and the market's current pricing language.",
+    "importance": "It is powerful because markets often transact on relative pricing, but it should not be confused with intrinsic value.",
+    "development": "The pricing block starts by separating pricing from valuation before moving into multiples and peer groups.",
+    "common_mistakes": [
+      "Calling pricing valuation.",
+      "Choosing comparables to justify a desired price."
+    ],
+    "connections": [
+      "intrinsic-value-vs-pricing",
+      "multiples-hide-assumptions",
+      "peer-group-selection"
+    ],
+    "keywords": [
+      "pricing",
+      "price",
+      "market",
+      "comparables",
+      "multiple",
+      "relative valuation"
+    ],
+    "strongest_sessions": [
+      10,
+      7,
+      8,
+      1,
+      24
+    ],
+    "evidence": [
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 286,
+        "excerpt": "the market to be underpriced priced no matter how high the market is because",
+        "start_seconds": 1079.64,
+        "end_seconds": 1081.63
+      },
+      {
+        "session": 7,
+        "title": "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+        "url": "https://www.youtube.com/watch?v=oSSRcLhum1s",
+        "score": 276,
+        "excerpt": "other.com stocks are priced, is this stock underpriced or overpriced? And",
+        "start_seconds": 930.8,
+        "end_seconds": 932.79
+      },
+      {
+        "session": 8,
+        "title": "Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups",
+        "url": "https://www.youtube.com/watch?v=rjqwM6ZTpA0",
+        "score": 269,
+        "excerpt": "market pricing numerator and a multiple is a market price right market cap. So",
+        "start_seconds": 3384.0,
+        "end_seconds": 3385.75
+      },
+      {
+        "session": 1,
+        "title": "Session 26: Closing Thoughts (and a discourse of the value of control)",
+        "url": "https://www.youtube.com/watch?v=V6-suY_Ur4w",
+        "score": 161,
+        "excerpt": "and underpriced You know what I mean underpriced? You compared the pricing to",
+        "start_seconds": 1135.72,
+        "end_seconds": 1137.669
+      },
+      {
+        "session": 24,
+        "title": "Session 3: Valuation Introduction (completed) and Cashflow Consistency",
+        "url": "https://www.youtube.com/watch?v=Hf4niCYe1R8",
+        "score": 135,
+        "excerpt": "you see out there is pricing what is pricing in pricing you attach a number",
+        "start_seconds": 1214.12,
+        "end_seconds": 1216.39
+      }
+    ]
+  },
+  {
+    "slug": "multiples-hide-assumptions",
+    "name": "Multiples hide assumptions",
+    "theme_slug": "pricing-language",
+    "meaning": "A multiple compresses assumptions about growth, risk, margins, capital intensity, and cash-flow quality into one market ratio.",
+    "importance": "Multiples feel simple because assumptions are hidden; the analyst's job is to make those assumptions visible again.",
+    "development": "Damodaran repeatedly decomposes PE, EV/EBITDA, revenue multiples, and other ratios into their fundamental drivers.",
+    "common_mistakes": [
+      "Using a multiple without defining it consistently.",
+      "Ignoring growth and risk differences across comparable firms."
+    ],
+    "connections": [
+      "pricing-101",
+      "peer-group-selection",
+      "market-pe-ratios"
+    ],
+    "keywords": [
+      "multiple",
+      "multiples",
+      "pe ratio",
+      "ev ebitda",
+      "revenue multiple",
+      "drivers"
+    ],
+    "strongest_sessions": [
+      8,
+      10,
+      7,
+      1,
+      14
+    ],
+    "evidence": [
+      {
+        "session": 8,
+        "title": "Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups",
+        "url": "https://www.youtube.com/watch?v=rjqwM6ZTpA0",
+        "score": 139,
+        "excerpt": "about revenue multiples. Remind me again why we look use revenue multiples.",
+        "start_seconds": 718.88,
+        "end_seconds": 724.31
+      },
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 101,
+        "excerpt": "distributional characteristics of pricing multiples and how they play out",
+        "start_seconds": 392.88,
+        "end_seconds": 395.909
+      },
+      {
+        "session": 7,
+        "title": "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+        "url": "https://www.youtube.com/watch?v=oSSRcLhum1s",
+        "score": 79,
+        "excerpt": "across multiples it tells you some multiples are easier to explain and use",
+        "start_seconds": 2408.24,
+        "end_seconds": 2410.55
+      },
+      {
+        "session": 1,
+        "title": "Session 26: Closing Thoughts (and a discourse of the value of control)",
+        "url": "https://www.youtube.com/watch?v=V6-suY_Ur4w",
+        "score": 33,
+        "excerpt": "They pull out EBITDA multiples, you can pull out EBITDA multiples as well.",
+        "start_seconds": 3973.12,
+        "end_seconds": 3975.31
+      },
+      {
+        "session": 14,
+        "title": "Session 13: Stock-based Compensation and Stories in Valuation",
+        "url": "https://www.youtube.com/watch?v=nmPDxY7Q3lk",
+        "score": 11,
+        "excerpt": "same company to eight bankers, Ebida multiples over and over again. You know,",
+        "start_seconds": 3053.839,
+        "end_seconds": 3055.75
+      }
+    ]
+  },
+  {
+    "slug": "peer-group-selection",
+    "name": "Peer group selection",
+    "theme_slug": "pricing-language",
+    "meaning": "A peer group is an analytical choice about which firms are similar enough for relative pricing.",
+    "importance": "Peer choice is where pricing becomes both useful and dangerous: the answer can move with the comparable set.",
+    "development": "Pricing analytics sessions use peer groups and regressions to make relative pricing more disciplined.",
+    "common_mistakes": [
+      "Assuming peers are naturally given.",
+      "Picking peers because they support the target price."
+    ],
+    "connections": [
+      "pricing-101",
+      "multiples-hide-assumptions",
+      "pricing-analytics"
+    ],
+    "keywords": [
+      "peer group",
+      "peers",
+      "comparable",
+      "comparables",
+      "similar",
+      "pricing analytics",
+      "regression"
+    ],
+    "strongest_sessions": [
+      7,
+      20,
+      8,
+      6,
+      10
+    ],
+    "evidence": [
+      {
+        "session": 7,
+        "title": "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+        "url": "https://www.youtube.com/watch?v=oSSRcLhum1s",
+        "score": 69,
+        "excerpt": "look at comparables, you have to decide what your peer group should be. You",
+        "start_seconds": 2580.88,
+        "end_seconds": 2582.71
+      },
+      {
+        "session": 20,
+        "title": "Session 7: Measuring Relative Risk - Betas and Alternatives",
+        "url": "https://www.youtube.com/watch?v=FT7ZfG6Abzg",
+        "score": 57,
+        "excerpt": "taught betas come from regressions you're under regression of returns in",
+        "start_seconds": 1394.96,
+        "end_seconds": 1396.51
+      },
+      {
+        "session": 8,
+        "title": "Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups",
+        "url": "https://www.youtube.com/watch?v=rjqwM6ZTpA0",
+        "score": 53,
+        "excerpt": "right? Similar cash flow, similar growth, similar risk. Doesn't even have",
+        "start_seconds": 1853.2,
+        "end_seconds": 1854.95
+      },
+      {
+        "session": 6,
+        "title": "Session 21: Valuing Privately owned businesses (not publicly listed)",
+        "url": "https://www.youtube.com/watch?v=T0DcUKaNgzY",
+        "score": 16,
+        "excerpt": "and we did a bottom up beta. I'm going to give you two alternative peer groups",
+        "start_seconds": 1410.24,
+        "end_seconds": 1412.39
+      },
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 14,
+        "excerpt": "standardized price so can compare across companies so find comparables have a",
+        "start_seconds": 540.36,
+        "end_seconds": 543.19
+      }
+    ]
+  },
+  {
+    "slug": "pricing-analytics",
+    "name": "Pricing analytics",
+    "theme_slug": "pricing-language",
+    "meaning": "Pricing analytics uses regressions, screens, and diagnostics to make relative pricing less arbitrary.",
+    "importance": "It is the course's bridge between informal comparable-company work and a more disciplined market-pricing process.",
+    "development": "The peer-group session shows how to test whether differences in multiples are driven by fundamentals or by market noise.",
+    "common_mistakes": [
+      "Letting regression output replace judgment.",
+      "Ignoring variable definitions and outliers."
+    ],
+    "connections": [
+      "peer-group-selection",
+      "multiples-hide-assumptions",
+      "market-pe-ratios"
+    ],
+    "keywords": [
+      "pricing analytics",
+      "regression",
+      "peer group",
+      "multiple",
+      "outlier",
+      "fundamentals"
+    ],
+    "strongest_sessions": [
+      8,
+      7,
+      10,
+      20,
+      1
+    ],
+    "evidence": [
+      {
+        "session": 8,
+        "title": "Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups",
+        "url": "https://www.youtube.com/watch?v=rjqwM6ZTpA0",
+        "score": 131,
+        "excerpt": "multiple precal firm multiple EIDA multiple EBIT multiple revenue multiple",
+        "start_seconds": 1617.52,
+        "end_seconds": 1620.31
+      },
+      {
+        "session": 7,
+        "title": "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+        "url": "https://www.youtube.com/watch?v=oSSRcLhum1s",
+        "score": 119,
+        "excerpt": "regressions. I'll do one more multiple kind of talk about a multiple that",
+        "start_seconds": 2296.88,
+        "end_seconds": 2298.71
+      },
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 71,
+        "excerpt": "regressions what are you do in a multiple regression you got a dependent",
+        "start_seconds": 4572.159,
+        "end_seconds": 4573.95
+      },
+      {
+        "session": 20,
+        "title": "Session 7: Measuring Relative Risk - Betas and Alternatives",
+        "url": "https://www.youtube.com/watch?v=FT7ZfG6Abzg",
+        "score": 56,
+        "excerpt": "taught betas come from regressions you're under regression of returns in",
+        "start_seconds": 1394.96,
+        "end_seconds": 1396.51
+      },
+      {
+        "session": 1,
+        "title": "Session 26: Closing Thoughts (and a discourse of the value of control)",
+        "url": "https://www.youtube.com/watch?v=V6-suY_Ur4w",
+        "score": 28,
+        "excerpt": "into using my market regression. For most of the market regression gives you",
+        "start_seconds": 2868.24,
+        "end_seconds": 2870.349
+      }
+    ]
+  },
+  {
+    "slug": "market-pe-ratios",
+    "name": "Market PE ratios",
+    "theme_slug": "pricing-language",
+    "meaning": "Market PE ratios price entire markets by relating index prices to earnings and macro expectations.",
+    "importance": "The concept shows that pricing logic applies at the market level too, where rates, growth, risk premiums, and mood collide.",
+    "development": "The tariff and market PE session applies pricing language to market-wide multiples and macro narratives.",
+    "common_mistakes": [
+      "Reading market PE without considering rates and growth.",
+      "Treating macro narratives as if they bypass valuation math."
+    ],
+    "connections": [
+      "multiples-hide-assumptions",
+      "equity-risk-premiums",
+      "pricing-101"
+    ],
+    "keywords": [
+      "market pe",
+      "pe ratio",
+      "index",
+      "tariff",
+      "market",
+      "earnings yield"
+    ],
+    "strongest_sessions": [
+      10,
+      21,
+      22,
+      13,
+      9
+    ],
+    "evidence": [
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 118,
+        "excerpt": "market number that market number can be the market value of equity market cap",
+        "start_seconds": 1142.0,
+        "end_seconds": 1144.149
+      },
+      {
+        "session": 21,
+        "title": "Session 6: Company Exposure to Country Risk + Implied Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=ouNEMzzNQEo",
+        "score": 112,
+        "excerpt": "flows of the 500 companies? The S&P is a market cap weighted index.",
+        "start_seconds": 384.56,
+        "end_seconds": 386.87
+      },
+      {
+        "session": 22,
+        "title": "Session 5: Closure on Riskfree Rates & Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=1wyr2R471Dc",
+        "score": 90,
+        "excerpt": "Market Equity index divided by the Emerging Market Bond index and I came up",
+        "start_seconds": 4503.239,
+        "end_seconds": 4505.31
+      },
+      {
+        "session": 13,
+        "title": "Session 14: Closure on stories and numbers and fist valuations!",
+        "url": "https://www.youtube.com/watch?v=WEgelyAqeeA",
+        "score": 83,
+        "excerpt": "Market social media 15 years ago big Market PC is 40 years ago big market so",
+        "start_seconds": 1643.52,
+        "end_seconds": 1647.43
+      },
+      {
+        "session": 9,
+        "title": "Session 18: Tariff Talk and Market PE ratios",
+        "url": "https://www.youtube.com/watch?v=QAivDIaMVk4",
+        "score": 74,
+        "excerpt": "under sanctions, so it doesn't need tariffs. It's tariffs across the world.",
+        "start_seconds": 181.76,
+        "end_seconds": 184.39
+      }
+    ]
+  },
+  {
+    "slug": "asset-based-valuation-pricing",
+    "name": "Asset-based valuation and pricing",
+    "theme_slug": "special-situations",
+    "meaning": "Asset-based approaches anchor value or price in what the underlying assets are worth, especially when going-concern cash-flow logic is weak.",
+    "importance": "They matter in liquidation, holding-company, commodity, financial, and distressed settings where operating forecasts are less reliable.",
+    "development": "The pricing closure introduces asset-based valuation and pricing as a different anchor after multiples.",
+    "common_mistakes": [
+      "Using book value as market value without adjustment.",
+      "Applying asset-based logic to businesses whose value is mainly intangible growth."
+    ],
+    "connections": [
+      "private-company-valuation",
+      "distressed-equity",
+      "pricing-101"
+    ],
+    "keywords": [
+      "asset based",
+      "asset-based",
+      "book value",
+      "liquidation",
+      "replacement cost",
+      "assets"
+    ],
+    "strongest_sessions": [
+      7,
+      15,
+      11,
+      8,
+      10
+    ],
+    "evidence": [
+      {
+        "session": 7,
+        "title": "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+        "url": "https://www.youtube.com/watch?v=oSSRcLhum1s",
+        "score": 27,
+        "excerpt": "assets. You got to value the individual assets, right? The second is if you're",
+        "start_seconds": 2781.599,
+        "end_seconds": 2784.55
+      },
+      {
+        "session": 15,
+        "title": "Session 12: Loose Ends in Valuation",
+        "url": "https://www.youtube.com/watch?v=JOJWcEs0uWw",
+        "score": 23,
+        "excerpt": "assets let's say this this company has a billion dollars in Book value of debt",
+        "start_seconds": 4460.239,
+        "end_seconds": 4462.47
+      },
+      {
+        "session": 11,
+        "title": "Session 16: Closure on Intrinsic Value",
+        "url": "https://www.youtube.com/watch?v=knln8-Ni9OA",
+        "score": 21,
+        "excerpt": "present value with banks book value matters because book value becomes the",
+        "start_seconds": 1981.2,
+        "end_seconds": 1983.35
+      },
+      {
+        "session": 8,
+        "title": "Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups",
+        "url": "https://www.youtube.com/watch?v=rjqwM6ZTpA0",
+        "score": 20,
+        "excerpt": "heft. Book value for equity at a bank has more meaning than book value for",
+        "start_seconds": 2581.119,
+        "end_seconds": 2582.95
+      },
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 20,
+        "excerpt": "flow and finally you can scale it to book value what is Book value measure",
+        "start_seconds": 1281.279,
+        "end_seconds": 1282.83
+      }
+    ]
+  },
+  {
+    "slug": "private-company-valuation",
+    "name": "Private company valuation",
+    "theme_slug": "special-situations",
+    "meaning": "Private-company valuation changes when the marginal owner, diversification, control, illiquidity, and information quality differ from public markets.",
+    "importance": "It forces the analyst to stop pretending the public-market template always applies.",
+    "development": "The private-business session brings owner-specific risk, liquidity discounts, and control into the valuation problem.",
+    "common_mistakes": [
+      "Using public-company betas without adjusting for owner risk.",
+      "Treating illiquidity as a generic arbitrary discount."
+    ],
+    "connections": [
+      "relative-risk-and-betas",
+      "liquidity-and-ownership",
+      "control-value"
+    ],
+    "keywords": [
+      "private company",
+      "private business",
+      "liquidity",
+      "illiquidity",
+      "undiversified",
+      "owner"
+    ],
+    "strongest_sessions": [
+      6,
+      5,
+      7,
+      22,
+      25
+    ],
+    "evidence": [
+      {
+        "session": 6,
+        "title": "Session 21: Valuing Privately owned businesses (not publicly listed)",
+        "url": "https://www.youtube.com/watch?v=T0DcUKaNgzY",
+        "score": 100,
+        "excerpt": "liquidity or how in a public market does liquidity play out investment decision",
+        "start_seconds": 503.52,
+        "end_seconds": 507.83
+      },
+      {
+        "session": 5,
+        "title": "Session 22: Closure on IPOs and Introduction to Real Options",
+        "url": "https://www.youtube.com/watch?v=77fpOozQl-s",
+        "score": 18,
+        "excerpt": "Sophia? You're getting liquidity, but you might not care about liquidity if",
+        "start_seconds": 479.919,
+        "end_seconds": 481.43
+      },
+      {
+        "session": 7,
+        "title": "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+        "url": "https://www.youtube.com/watch?v=oSSRcLhum1s",
+        "score": 17,
+        "excerpt": "across private businesses, especially small private businesses that can be",
+        "start_seconds": 4471.36,
+        "end_seconds": 4474.149
+      },
+      {
+        "session": 22,
+        "title": "Session 5: Closure on Riskfree Rates & Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=1wyr2R471Dc",
+        "score": 9,
+        "excerpt": "with the liqu liquidity issue if there's light liquidity in one market there's",
+        "start_seconds": 4226.96,
+        "end_seconds": 4228.95
+      },
+      {
+        "session": 25,
+        "title": "Session 2: The Bermuda Triangle of Valuation",
+        "url": "https://www.youtube.com/watch?v=KGXjL13owBk",
+        "score": 8,
+        "excerpt": "full liquidity then they'll take another 30% off you're a private company now",
+        "start_seconds": 1027.959,
+        "end_seconds": 1029.63
+      }
+    ]
+  },
+  {
+    "slug": "liquidity-and-ownership",
+    "name": "Liquidity and ownership",
+    "theme_slug": "special-situations",
+    "meaning": "Liquidity, diversification, and control rights affect value when the owner cannot freely trade or diversify the asset.",
+    "importance": "This shifts valuation from a clean security-market problem to a problem of who owns the asset and under what constraints.",
+    "development": "Private-company and control sessions make ownership frictions explicit rather than treating them as footnotes.",
+    "common_mistakes": [
+      "Applying the same discount for every private firm.",
+      "Ignoring whether the buyer is diversified or has control."
+    ],
+    "connections": [
+      "private-company-valuation",
+      "control-value",
+      "asset-based-valuation-pricing"
+    ],
+    "keywords": [
+      "liquidity",
+      "illiquidity",
+      "ownership",
+      "owner",
+      "control",
+      "diversified",
+      "undiversified"
+    ],
+    "strongest_sessions": [
+      6,
+      1,
+      8,
+      3,
+      24
+    ],
+    "evidence": [
+      {
+        "session": 6,
+        "title": "Session 21: Valuing Privately owned businesses (not publicly listed)",
+        "url": "https://www.youtube.com/watch?v=T0DcUKaNgzY",
+        "score": 89,
+        "excerpt": "because she is completely undiversified. But that's why I said you",
+        "start_seconds": 407.88,
+        "end_seconds": 409.749
+      },
+      {
+        "session": 1,
+        "title": "Session 26: Closing Thoughts (and a discourse of the value of control)",
+        "url": "https://www.youtube.com/watch?v=V6-suY_Ur4w",
+        "score": 34,
+        "excerpt": "control. That's your expected value of control, but then divide it by just",
+        "start_seconds": 1897.08,
+        "end_seconds": 1900.35
+      },
+      {
+        "session": 8,
+        "title": "Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups",
+        "url": "https://www.youtube.com/watch?v=rjqwM6ZTpA0",
+        "score": 27,
+        "excerpt": "market, you have to control for interest rates, you have to control for return",
+        "start_seconds": 370.0,
+        "end_seconds": 371.43
+      },
+      {
+        "session": 3,
+        "title": "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+        "url": "https://www.youtube.com/watch?v=7oUgHVSn5Y0",
+        "score": 24,
+        "excerpt": "Control, right? You know that envelope I held, control",
+        "start_seconds": 4099.24,
+        "end_seconds": 4101.309
+      },
+      {
+        "session": 24,
+        "title": "Session 3: Valuation Introduction (completed) and Cashflow Consistency",
+        "url": "https://www.youtube.com/watch?v=Hf4niCYe1R8",
+        "score": 22,
+        "excerpt": "one first what does it say control control I'm adding control control to",
+        "start_seconds": 4073.72,
+        "end_seconds": 4076.109
+      }
+    ]
+  },
+  {
+    "slug": "ipo-valuation-and-pricing",
+    "name": "IPO valuation and pricing",
+    "theme_slug": "special-situations",
+    "meaning": "IPOs combine intrinsic valuation, pricing, market timing, narrative momentum, underwriter incentives, and investor demand.",
+    "importance": "They expose the tension between what a business is worth and what the market can be persuaded to pay at issuance.",
+    "development": "The IPO session closes pricing and opens real options, showing how market process can dominate clean valuation logic.",
+    "common_mistakes": [
+      "Treating IPO price as proof of value.",
+      "Ignoring how supply, demand, and narrative shape offering prices."
+    ],
+    "connections": [
+      "pricing-101",
+      "peer-group-selection",
+      "life-cycle-valuation"
+    ],
+    "keywords": [
+      "ipo",
+      "initial public offering",
+      "offering",
+      "underwriter",
+      "pricing",
+      "shares"
+    ],
+    "strongest_sessions": [
+      6,
+      1,
+      5,
+      7,
+      10
+    ],
+    "evidence": [
+      {
+        "session": 6,
+        "title": "Session 21: Valuing Privately owned businesses (not publicly listed)",
+        "url": "https://www.youtube.com/watch?v=T0DcUKaNgzY",
+        "score": 95,
+        "excerpt": "up. And if you look at the IPO itself and pricing the IPO, you have a set of",
+        "start_seconds": 4344.239,
+        "end_seconds": 4346.87
+      },
+      {
+        "session": 1,
+        "title": "Session 26: Closing Thoughts (and a discourse of the value of control)",
+        "url": "https://www.youtube.com/watch?v=V6-suY_Ur4w",
+        "score": 93,
+        "excerpt": "voting shares non-voting shares. The preferred shares are just no common",
+        "start_seconds": 1788.24,
+        "end_seconds": 1790.51
+      },
+      {
+        "session": 5,
+        "title": "Session 22: Closure on IPOs and Introduction to Real Options",
+        "url": "https://www.youtube.com/watch?v=77fpOozQl-s",
+        "score": 73,
+        "excerpt": "thousand shares in every single IPO. Will you get a thousand shares in all of",
+        "start_seconds": 341.68,
+        "end_seconds": 343.23
+      },
+      {
+        "session": 7,
+        "title": "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+        "url": "https://www.youtube.com/watch?v=oSSRcLhum1s",
+        "score": 73,
+        "excerpt": "more sophisticated version of pricing. I'm still pricing but I'm pricing using",
+        "start_seconds": 3504.559,
+        "end_seconds": 3507.67
+      },
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 62,
+        "excerpt": "pricing let's step back what is pricing pricing you put a number on an asset",
+        "start_seconds": 412.72,
+        "end_seconds": 415.39
+      }
+    ]
+  },
+  {
+    "slug": "real-options",
+    "name": "Real options",
+    "theme_slug": "optionality-control",
+    "meaning": "A real option is the value of managerial flexibility under uncertainty when the firm owns a scarce right to wait, expand, abandon, or change course.",
+    "importance": "It changes the role of uncertainty: uncertainty can increase value when downside is limited and upside remains open.",
+    "development": "Real options are introduced after IPOs and then applied to patents, natural resources, distressed equity, and strategic rights.",
+    "common_mistakes": [
+      "Using option language for any uncertain growth story.",
+      "Ignoring the need for exclusivity and genuine flexibility."
+    ],
+    "connections": [
+      "patents-as-options",
+      "natural-resources-as-options",
+      "distressed-equity"
+    ],
+    "keywords": [
+      "real option",
+      "option",
+      "options",
+      "flexibility",
+      "exclusive",
+      "volatility",
+      "right to wait"
+    ],
+    "strongest_sessions": [
+      4,
+      14,
+      3,
+      5,
+      24
+    ],
+    "evidence": [
+      {
+        "session": 4,
+        "title": "Session 23: Patents and Natural Resources as Options",
+        "url": "https://www.youtube.com/watch?v=brwQ8urELjg",
+        "score": 335,
+        "excerpt": "real options because in many real options,",
+        "start_seconds": 1106.64,
+        "end_seconds": 1108.03
+      },
+      {
+        "session": 14,
+        "title": "Session 13: Stock-based Compensation and Stories in Valuation",
+        "url": "https://www.youtube.com/watch?v=nmPDxY7Q3lk",
+        "score": 189,
+        "excerpt": "Options. 98% of the options, maybe 96% of the options, the Chicago Board of",
+        "start_seconds": 2121.44,
+        "end_seconds": 2123.03
+      },
+      {
+        "session": 3,
+        "title": "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+        "url": "https://www.youtube.com/watch?v=7oUgHVSn5Y0",
+        "score": 165,
+        "excerpt": "So, to close up my real options discussion, there are real options",
+        "start_seconds": 2996.2,
+        "end_seconds": 2998.23
+      },
+      {
+        "session": 5,
+        "title": "Session 22: Closure on IPOs and Introduction to Real Options",
+        "url": "https://www.youtube.com/watch?v=77fpOozQl-s",
+        "score": 77,
+        "excerpt": "called real options. And I'll be quite honest, real options have become a",
+        "start_seconds": 1966.399,
+        "end_seconds": 1968.11
+      },
+      {
+        "session": 24,
+        "title": "Session 3: Valuation Introduction (completed) and Cashflow Consistency",
+        "url": "https://www.youtube.com/watch?v=Hf4niCYe1R8",
+        "score": 55,
+        "excerpt": "options we talked about are called real options which are often are 10 or 15",
+        "start_seconds": 3502.319,
+        "end_seconds": 3504.47
+      }
+    ]
+  },
+  {
+    "slug": "patents-as-options",
+    "name": "Patents as options",
+    "theme_slug": "optionality-control",
+    "meaning": "A patent can be valued as an option when it gives exclusive rights to commercialize a product if future economics become attractive.",
+    "importance": "It is a disciplined way to value rights that may be worthless under current cash flows but valuable under future states.",
+    "development": "The patents session applies option logic to technology and drug-development style claims.",
+    "common_mistakes": [
+      "Valuing every idea like a patent.",
+      "Ignoring development cost, expiration, or probability of commercial success."
+    ],
+    "connections": [
+      "real-options",
+      "natural-resources-as-options",
+      "terminal-value"
+    ],
+    "keywords": [
+      "patent",
+      "patents",
+      "drug",
+      "exclusive",
+      "expiration",
+      "option",
+      "commercialize"
+    ],
+    "strongest_sessions": [
+      4,
+      14,
+      3,
+      5,
+      24
+    ],
+    "evidence": [
+      {
+        "session": 4,
+        "title": "Session 23: Patents and Natural Resources as Options",
+        "url": "https://www.youtube.com/watch?v=brwQ8urELjg",
+        "score": 412,
+        "excerpt": "patents. So, if they're one or two patents, you value the patents like we",
+        "start_seconds": 2460.36,
+        "end_seconds": 2462.11
+      },
+      {
+        "session": 14,
+        "title": "Session 13: Stock-based Compensation and Stories in Valuation",
+        "url": "https://www.youtube.com/watch?v=nmPDxY7Q3lk",
+        "score": 115,
+        "excerpt": "Options. 98% of the options, maybe 96% of the options, the Chicago Board of",
+        "start_seconds": 2121.44,
+        "end_seconds": 2123.03
+      },
+      {
+        "session": 3,
+        "title": "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+        "url": "https://www.youtube.com/watch?v=7oUgHVSn5Y0",
+        "score": 98,
+        "excerpt": "a put option. It's the only one of the real options, it's a put option.",
+        "start_seconds": 188.2,
+        "end_seconds": 190.15
+      },
+      {
+        "session": 5,
+        "title": "Session 22: Closure on IPOs and Introduction to Real Options",
+        "url": "https://www.youtube.com/watch?v=77fpOozQl-s",
+        "score": 52,
+        "excerpt": "here. It's an option to expand. Option to delay, option to adjust, option to",
+        "start_seconds": 2198.0,
+        "end_seconds": 2201.069
+      },
+      {
+        "session": 24,
+        "title": "Session 3: Valuation Introduction (completed) and Cashflow Consistency",
+        "url": "https://www.youtube.com/watch?v=Hf4niCYe1R8",
+        "score": 41,
+        "excerpt": "out my book to the options chapter and value the patent as an option and add it",
+        "start_seconds": 3537.319,
+        "end_seconds": 3539.349
+      }
+    ]
+  },
+  {
+    "slug": "natural-resources-as-options",
+    "name": "Natural resources as options",
+    "theme_slug": "optionality-control",
+    "meaning": "A natural-resource reserve can behave like an option because the owner can choose when to extract as commodity prices and costs change.",
+    "importance": "It shows how option logic applies outside technology when the asset has a right to wait and uncertain payoff.",
+    "development": "The natural-resource session uses reserves, commodity prices, extraction cost, and time to develop the option frame.",
+    "common_mistakes": [
+      "Ignoring extraction cost and reserve life.",
+      "Treating all commodity exposure as option value."
+    ],
+    "connections": [
+      "real-options",
+      "patents-as-options",
+      "asset-based-valuation-pricing"
+    ],
+    "keywords": [
+      "natural resource",
+      "oil",
+      "reserve",
+      "commodity",
+      "extraction",
+      "option",
+      "price"
+    ],
+    "strongest_sessions": [
+      4,
+      14,
+      8,
+      3,
+      11
+    ],
+    "evidence": [
+      {
+        "session": 4,
+        "title": "Session 23: Patents and Natural Resources as Options",
+        "url": "https://www.youtube.com/watch?v=brwQ8urELjg",
+        "score": 428,
+        "excerpt": "natural resource options natural resource reserves can be viewed as",
+        "start_seconds": 1468.72,
+        "end_seconds": 1470.59
+      },
+      {
+        "session": 14,
+        "title": "Session 13: Stock-based Compensation and Stories in Valuation",
+        "url": "https://www.youtube.com/watch?v=nmPDxY7Q3lk",
+        "score": 143,
+        "excerpt": "Options. 98% of the options, maybe 96% of the options, the Chicago Board of",
+        "start_seconds": 2121.44,
+        "end_seconds": 2123.03
+      },
+      {
+        "session": 8,
+        "title": "Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups",
+        "url": "https://www.youtube.com/watch?v=rjqwM6ZTpA0",
+        "score": 129,
+        "excerpt": "price earnings ratio, price to book, price peg ratio, price to sales. At",
+        "start_seconds": 1597.919,
+        "end_seconds": 1600.789
+      },
+      {
+        "session": 3,
+        "title": "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+        "url": "https://www.youtube.com/watch?v=7oUgHVSn5Y0",
+        "score": 119,
+        "excerpt": "a put option. It's the only one of the real options, it's a put option.",
+        "start_seconds": 188.2,
+        "end_seconds": 190.15
+      },
+      {
+        "session": 11,
+        "title": "Session 16: Closure on Intrinsic Value",
+        "url": "https://www.youtube.com/watch?v=knln8-Ni9OA",
+        "score": 119,
+        "excerpt": "given oil price. And here's the final piece. Oil prices. Oil is publicly",
+        "start_seconds": 3772.68,
+        "end_seconds": 3775.589
+      }
+    ]
+  },
+  {
+    "slug": "distressed-equity",
+    "name": "Distressed equity",
+    "theme_slug": "optionality-control",
+    "meaning": "Equity in a deeply distressed firm can resemble an option on the firm's assets after debt claims are considered.",
+    "importance": "It explains why equity can retain value even when conventional DCF equity value looks close to zero.",
+    "development": "The distressed-equity session uses option logic to value residual claims when debt creates asymmetric payoffs.",
+    "common_mistakes": [
+      "Treating distressed equity like normal equity.",
+      "Ignoring debt maturity, asset volatility, and claim priority."
+    ],
+    "connections": [
+      "real-options",
+      "acquisition-valuation",
+      "asset-based-valuation-pricing"
+    ],
+    "keywords": [
+      "distressed equity",
+      "distress",
+      "debt",
+      "option",
+      "asset value",
+      "bankruptcy",
+      "equity"
+    ],
+    "strongest_sessions": [
+      3,
+      19,
+      4,
+      23,
+      14
+    ],
+    "evidence": [
+      {
+        "session": 3,
+        "title": "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+        "url": "https://www.youtube.com/watch?v=7oUgHVSn5Y0",
+        "score": 316,
+        "excerpt": "The other requirement for a distressed equity option is that it has to be debt.",
+        "start_seconds": 2619.36,
+        "end_seconds": 2621.91
+      },
+      {
+        "session": 19,
+        "title": "Session 8: Closure on Cost of Capital + First steps on cash flows",
+        "url": "https://www.youtube.com/watch?v=MtsRSkV4HUg",
+        "score": 255,
+        "excerpt": "debt then becomes an nonissue they're revolving debt they have debt right the",
+        "start_seconds": 1715.48,
+        "end_seconds": 1718.509
+      },
+      {
+        "session": 4,
+        "title": "Session 23: Patents and Natural Resources as Options",
+        "url": "https://www.youtube.com/watch?v=brwQ8urELjg",
+        "score": 254,
+        "excerpt": "aspect of of the option, which is you know, distressed equity as an option.",
+        "start_seconds": 4997.96,
+        "end_seconds": 5000.03
+      },
+      {
+        "session": 23,
+        "title": "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+        "url": "https://www.youtube.com/watch?v=oFz94rZbc4c",
+        "score": 135,
+        "excerpt": "Equity cash flows to equity discount at the cost of equity I get a value for",
+        "start_seconds": 854.519,
+        "end_seconds": 856.11
+      },
+      {
+        "session": 14,
+        "title": "Session 13: Stock-based Compensation and Stories in Valuation",
+        "url": "https://www.youtube.com/watch?v=nmPDxY7Q3lk",
+        "score": 132,
+        "excerpt": "equity. That equity can take the form of options. It can take the form of",
+        "start_seconds": 1210.96,
+        "end_seconds": 1212.87
+      }
+    ]
+  },
+  {
+    "slug": "acquisition-valuation",
+    "name": "Acquisition valuation",
+    "theme_slug": "special-situations",
+    "meaning": "Acquisition valuation asks what a target is worth to a buyer, including standalone value, synergy, control changes, and deal process constraints.",
+    "importance": "It separates value creation from value transfer: paying more only makes sense if the buyer can create or capture incremental value.",
+    "development": "Late sessions connect distressed equity, acquisition pricing, synergy, and value enhancement before the final control discussion.",
+    "common_mistakes": [
+      "Paying for synergy without specifying who creates it.",
+      "Confusing strategic desire with incremental value."
+    ],
+    "connections": [
+      "control-value",
+      "synergy",
+      "value-enhancement"
+    ],
+    "keywords": [
+      "acquisition",
+      "takeover",
+      "target",
+      "synergy",
+      "control",
+      "premium",
+      "deal"
+    ],
+    "strongest_sessions": [
+      3,
+      2,
+      21,
+      22,
+      1
+    ],
+    "evidence": [
+      {
+        "session": 3,
+        "title": "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+        "url": "https://www.youtube.com/watch?v=7oUgHVSn5Y0",
+        "score": 189,
+        "excerpt": "ac- actually no relevance to whether a deal is a good deal or a bad deal, even",
+        "start_seconds": 4058.56,
+        "end_seconds": 4060.43
+      },
+      {
+        "session": 2,
+        "title": "Session 25: Acquisition Closure + Value Enhancement",
+        "url": "https://www.youtube.com/watch?v=fU7vcy0dv_w",
+        "score": 180,
+        "excerpt": "people talking about control issues and synergy. Control as value, synergy as",
+        "start_seconds": 1107.559,
+        "end_seconds": 1110.23
+      },
+      {
+        "session": 21,
+        "title": "Session 6: Company Exposure to Country Risk + Implied Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=ouNEMzzNQEo",
+        "score": 165,
+        "excerpt": "premium for Royal Dutch was higher than the equity risk premium they're using",
+        "start_seconds": 1243.64,
+        "end_seconds": 1245.11
+      },
+      {
+        "session": 22,
+        "title": "Session 5: Closure on Riskfree Rates & Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=1wyr2R471Dc",
+        "score": 91,
+        "excerpt": "not less risk of ver you should demand a higher premium but historic premiums are",
+        "start_seconds": 688.0,
+        "end_seconds": 690.23
+      },
+      {
+        "session": 1,
+        "title": "Session 26: Closing Thoughts (and a discourse of the value of control)",
+        "url": "https://www.youtube.com/watch?v=V6-suY_Ur4w",
+        "score": 61,
+        "excerpt": "control, what does it talk when you talk about acquisitions, right?",
+        "start_seconds": 1280.16,
+        "end_seconds": 1282.67
+      }
+    ]
+  },
+  {
+    "slug": "synergy",
+    "name": "Synergy",
+    "theme_slug": "special-situations",
+    "meaning": "Synergy is incremental value created by combining businesses through higher cash flows, lower risk, better reinvestment, or financing improvements.",
+    "importance": "It is often used to justify acquisition premiums, so the course forces it into measurable operating or financial claims.",
+    "development": "The acquisition sessions treat synergy as something to value separately and assign to the party that can actually create it.",
+    "common_mistakes": [
+      "Using synergy as a vague acquisition slogan.",
+      "Letting the seller capture all synergy through the purchase price."
+    ],
+    "connections": [
+      "acquisition-valuation",
+      "control-value",
+      "value-enhancement"
+    ],
+    "keywords": [
+      "synergy",
+      "synergies",
+      "merger",
+      "acquisition",
+      "cost savings",
+      "growth",
+      "premium"
+    ],
+    "strongest_sessions": [
+      21,
+      16,
+      3,
+      2,
+      10
+    ],
+    "evidence": [
+      {
+        "session": 21,
+        "title": "Session 6: Company Exposure to Country Risk + Implied Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=ouNEMzzNQEo",
+        "score": 176,
+        "excerpt": "premium for Royal Dutch was higher than the equity risk premium they're using",
+        "start_seconds": 1243.64,
+        "end_seconds": 1245.11
+      },
+      {
+        "session": 16,
+        "title": "Session 11: More on Growth and Terminal Value",
+        "url": "https://www.youtube.com/watch?v=so6vCWKCiXE",
+        "score": 164,
+        "excerpt": "growth should I go to use a real growth rate forever or a nominal growth rate",
+        "start_seconds": 3399.28,
+        "end_seconds": 3402.27
+      },
+      {
+        "session": 3,
+        "title": "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+        "url": "https://www.youtube.com/watch?v=7oUgHVSn5Y0",
+        "score": 158,
+        "excerpt": "Or it can be growth synergies. Growth synergies can take the form of either",
+        "start_seconds": 4472.08,
+        "end_seconds": 4473.83
+      },
+      {
+        "session": 2,
+        "title": "Session 25: Acquisition Closure + Value Enhancement",
+        "url": "https://www.youtube.com/watch?v=fU7vcy0dv_w",
+        "score": 123,
+        "excerpt": "for cost synergies or growth synergy cost synergies are more tangible",
+        "start_seconds": 2280.119,
+        "end_seconds": 2283.67
+      },
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 118,
+        "excerpt": "growth what kind of assumption am I making high growth low growth",
+        "start_seconds": 265.88,
+        "end_seconds": 269.99
+      }
+    ]
+  },
+  {
+    "slug": "value-enhancement",
+    "name": "Value enhancement",
+    "theme_slug": "optionality-control",
+    "meaning": "Value enhancement identifies actions that increase firm value by changing cash flows, growth, risk, reinvestment, financing, or asset use.",
+    "importance": "It turns valuation from a passive estimate into an active diagnostic of what management can improve.",
+    "development": "The penultimate session uses value enhancement to connect acquisition closure with the operating levers behind control value.",
+    "common_mistakes": [
+      "Calling any restructuring value enhancing without quantifying the lever.",
+      "Improving accounting optics without improving value."
+    ],
+    "connections": [
+      "control-value",
+      "acquisition-valuation",
+      "terminal-value"
+    ],
+    "keywords": [
+      "value enhancement",
+      "enhance value",
+      "improve value",
+      "restructure",
+      "cash flows",
+      "cost of capital",
+      "growth"
+    ],
+    "strongest_sessions": [
+      16,
+      10,
+      17,
+      23,
+      12
+    ],
+    "evidence": [
+      {
+        "session": 16,
+        "title": "Session 11: More on Growth and Terminal Value",
+        "url": "https://www.youtube.com/watch?v=so6vCWKCiXE",
+        "score": 197,
+        "excerpt": "growth should I go to use a real growth rate forever or a nominal growth rate",
+        "start_seconds": 3399.28,
+        "end_seconds": 3402.27
+      },
+      {
+        "session": 10,
+        "title": "Session 17: Pricing 101",
+        "url": "https://www.youtube.com/watch?v=ldTsmcTNJE8",
+        "score": 123,
+        "excerpt": "growth what kind of assumption am I making high growth low growth",
+        "start_seconds": 265.88,
+        "end_seconds": 269.99
+      },
+      {
+        "session": 17,
+        "title": "Session 10: Estimating Growth",
+        "url": "https://www.youtube.com/watch?v=BH66ZpTVTdg",
+        "score": 113,
+        "excerpt": "sustainable growth sustainable growth ties your growth rate to how much are",
+        "start_seconds": 2076.52,
+        "end_seconds": 2078.389
+      },
+      {
+        "session": 23,
+        "title": "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+        "url": "https://www.youtube.com/watch?v=oFz94rZbc4c",
+        "score": 110,
+        "excerpt": "first my cash flows are pre-ad cash flows so when I ask you about growth and",
+        "start_seconds": 1961.48,
+        "end_seconds": 1963.99
+      },
+      {
+        "session": 12,
+        "title": "Session 15: Valuations across the life cycle",
+        "url": "https://www.youtube.com/watch?v=oBLZ-tPH9X0",
+        "score": 89,
+        "excerpt": "cash flows and it's badly managed, you reflected that in the cash flows, it's",
+        "start_seconds": 129.599,
+        "end_seconds": 131.27
+      }
+    ]
+  },
+  {
+    "slug": "control-value",
+    "name": "Control value",
+    "theme_slug": "optionality-control",
+    "meaning": "Control value is the incremental value from changing who makes decisions and what decisions get made.",
+    "importance": "A control premium is justified only if new control can improve operations, financing, payout, investment, or strategy.",
+    "development": "The final session closes the course by returning valuation to governance, decision rights, and the power to change outcomes.",
+    "common_mistakes": [
+      "Paying a control premium for voting rights alone.",
+      "Assuming every acquirer can run the target better."
+    ],
+    "connections": [
+      "acquisition-valuation",
+      "value-enhancement",
+      "liquidity-and-ownership"
+    ],
+    "keywords": [
+      "control",
+      "control premium",
+      "premium",
+      "management",
+      "decision",
+      "governance",
+      "acquisition"
+    ],
+    "strongest_sessions": [
+      21,
+      3,
+      22,
+      1,
+      2
+    ],
+    "evidence": [
+      {
+        "session": 21,
+        "title": "Session 6: Company Exposure to Country Risk + Implied Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=ouNEMzzNQEo",
+        "score": 164,
+        "excerpt": "premium for Royal Dutch was higher than the equity risk premium they're using",
+        "start_seconds": 1243.64,
+        "end_seconds": 1245.11
+      },
+      {
+        "session": 3,
+        "title": "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+        "url": "https://www.youtube.com/watch?v=7oUgHVSn5Y0",
+        "score": 93,
+        "excerpt": "you have to do an acquisition, you have to pay a control premium.",
+        "start_seconds": 4127.88,
+        "end_seconds": 4133.23
+      },
+      {
+        "session": 22,
+        "title": "Session 5: Closure on Riskfree Rates & Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=1wyr2R471Dc",
+        "score": 89,
+        "excerpt": "not less risk of ver you should demand a higher premium but historic premiums are",
+        "start_seconds": 688.0,
+        "end_seconds": 690.23
+      },
+      {
+        "session": 1,
+        "title": "Session 26: Closing Thoughts (and a discourse of the value of control)",
+        "url": "https://www.youtube.com/watch?v=V6-suY_Ur4w",
+        "score": 84,
+        "excerpt": "Think of it as a flip side of a control premium. You're actually discounting",
+        "start_seconds": 1560.52,
+        "end_seconds": 1562.23
+      },
+      {
+        "session": 2,
+        "title": "Session 25: Acquisition Closure + Value Enhancement",
+        "url": "https://www.youtube.com/watch?v=fU7vcy0dv_w",
+        "score": 67,
+        "excerpt": "acquisition. They're very much in favor of it. They push the acquisition. They",
+        "start_seconds": 1055.84,
+        "end_seconds": 1058.07
+      }
+    ]
+  }
+]

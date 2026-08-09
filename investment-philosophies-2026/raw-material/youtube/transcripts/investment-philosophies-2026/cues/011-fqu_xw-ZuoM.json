@@ -1,0 +1,3257 @@
+[
+  {
+    "start": "00:00:00.480",
+    "end": "00:00:03.590",
+    "start_seconds": 0.48,
+    "end_seconds": 3.59,
+    "text": "Hi, welcome back. In the last session,"
+  },
+  {
+    "start": "00:00:03.590",
+    "end": "00:00:03.600",
+    "start_seconds": 3.59,
+    "end_seconds": 3.6,
+    "text": "Hi, welcome back. In the last session,"
+  },
+  {
+    "start": "00:00:03.600",
+    "end": "00:00:05.749",
+    "start_seconds": 3.6,
+    "end_seconds": 5.749,
+    "text": "Hi, welcome back. In the last session, we introduced the idea that knowing"
+  },
+  {
+    "start": "00:00:05.749",
+    "end": "00:00:05.759",
+    "start_seconds": 5.749,
+    "end_seconds": 5.759,
+    "text": "we introduced the idea that knowing"
+  },
+  {
+    "start": "00:00:05.759",
+    "end": "00:00:07.510",
+    "start_seconds": 5.759,
+    "end_seconds": 7.51,
+    "text": "we introduced the idea that knowing what's happened in the past in terms of"
+  },
+  {
+    "start": "00:00:07.510",
+    "end": "00:00:07.520",
+    "start_seconds": 7.51,
+    "end_seconds": 7.52,
+    "text": "what's happened in the past in terms of"
+  },
+  {
+    "start": "00:00:07.520",
+    "end": "00:00:09.750",
+    "start_seconds": 7.52,
+    "end_seconds": 9.75,
+    "text": "what's happened in the past in terms of prices for individual stock or markets"
+  },
+  {
+    "start": "00:00:09.750",
+    "end": "00:00:09.760",
+    "start_seconds": 9.75,
+    "end_seconds": 9.76,
+    "text": "prices for individual stock or markets"
+  },
+  {
+    "start": "00:00:09.760",
+    "end": "00:00:12.390",
+    "start_seconds": 9.76,
+    "end_seconds": 12.39,
+    "text": "prices for individual stock or markets can help you predict sometimes what will"
+  },
+  {
+    "start": "00:00:12.390",
+    "end": "00:00:12.400",
+    "start_seconds": 12.39,
+    "end_seconds": 12.4,
+    "text": "can help you predict sometimes what will"
+  },
+  {
+    "start": "00:00:12.400",
+    "end": "00:00:14.310",
+    "start_seconds": 12.4,
+    "end_seconds": 14.31,
+    "text": "can help you predict sometimes what will happen the next day, the next week, the"
+  },
+  {
+    "start": "00:00:14.310",
+    "end": "00:00:14.320",
+    "start_seconds": 14.31,
+    "end_seconds": 14.32,
+    "text": "happen the next day, the next week, the"
+  },
+  {
+    "start": "00:00:14.320",
+    "end": "00:00:16.710",
+    "start_seconds": 14.32,
+    "end_seconds": 16.71,
+    "text": "happen the next day, the next week, the next 6 months. This session, I want to"
+  },
+  {
+    "start": "00:00:16.710",
+    "end": "00:00:16.720",
+    "start_seconds": 16.71,
+    "end_seconds": 16.72,
+    "text": "next 6 months. This session, I want to"
+  },
+  {
+    "start": "00:00:16.720",
+    "end": "00:00:18.470",
+    "start_seconds": 16.72,
+    "end_seconds": 18.47,
+    "text": "next 6 months. This session, I want to build on that theme and talk a little"
+  },
+  {
+    "start": "00:00:18.470",
+    "end": "00:00:18.480",
+    "start_seconds": 18.47,
+    "end_seconds": 18.48,
+    "text": "build on that theme and talk a little"
+  },
+  {
+    "start": "00:00:18.480",
+    "end": "00:00:20.470",
+    "start_seconds": 18.48,
+    "end_seconds": 20.47,
+    "text": "build on that theme and talk a little bit more about price patterns we've been"
+  },
+  {
+    "start": "00:00:20.470",
+    "end": "00:00:20.480",
+    "start_seconds": 20.47,
+    "end_seconds": 20.48,
+    "text": "bit more about price patterns we've been"
+  },
+  {
+    "start": "00:00:20.480",
+    "end": "00:00:22.950",
+    "start_seconds": 20.48,
+    "end_seconds": 22.95,
+    "text": "bit more about price patterns we've been able to see over time, especially as"
+  },
+  {
+    "start": "00:00:22.950",
+    "end": "00:00:22.960",
+    "start_seconds": 22.95,
+    "end_seconds": 22.96,
+    "text": "able to see over time, especially as"
+  },
+  {
+    "start": "00:00:22.960",
+    "end": "00:00:24.550",
+    "start_seconds": 22.96,
+    "end_seconds": 24.55,
+    "text": "able to see over time, especially as they relate to things we can observe,"
+  },
+  {
+    "start": "00:00:24.550",
+    "end": "00:00:24.560",
+    "start_seconds": 24.55,
+    "end_seconds": 24.56,
+    "text": "they relate to things we can observe,"
+  },
+  {
+    "start": "00:00:24.560",
+    "end": "00:00:26.070",
+    "start_seconds": 24.56,
+    "end_seconds": 26.07,
+    "text": "they relate to things we can observe, what month of the year it is, what day"
+  },
+  {
+    "start": "00:00:26.070",
+    "end": "00:00:26.080",
+    "start_seconds": 26.07,
+    "end_seconds": 26.08,
+    "text": "what month of the year it is, what day"
+  },
+  {
+    "start": "00:00:26.080",
+    "end": "00:00:27.750",
+    "start_seconds": 26.08,
+    "end_seconds": 27.75,
+    "text": "what month of the year it is, what day of the week it is, what time of the day"
+  },
+  {
+    "start": "00:00:27.750",
+    "end": "00:00:27.760",
+    "start_seconds": 27.75,
+    "end_seconds": 27.76,
+    "text": "of the week it is, what time of the day"
+  },
+  {
+    "start": "00:00:27.760",
+    "end": "00:00:30.630",
+    "start_seconds": 27.76,
+    "end_seconds": 30.63,
+    "text": "of the week it is, what time of the day it is. In particular, there are three"
+  },
+  {
+    "start": "00:00:30.630",
+    "end": "00:00:30.640",
+    "start_seconds": 30.63,
+    "end_seconds": 30.64,
+    "text": "it is. In particular, there are three"
+  },
+  {
+    "start": "00:00:30.640",
+    "end": "00:00:33.030",
+    "start_seconds": 30.64,
+    "end_seconds": 33.03,
+    "text": "it is. In particular, there are three effects that academics in particular"
+  },
+  {
+    "start": "00:00:33.030",
+    "end": "00:00:33.040",
+    "start_seconds": 33.03,
+    "end_seconds": 33.04,
+    "text": "effects that academics in particular"
+  },
+  {
+    "start": "00:00:33.040",
+    "end": "00:00:35.110",
+    "start_seconds": 33.04,
+    "end_seconds": 35.11,
+    "text": "effects that academics in particular have chronicled but practitioners have"
+  },
+  {
+    "start": "00:00:35.110",
+    "end": "00:00:35.120",
+    "start_seconds": 35.11,
+    "end_seconds": 35.12,
+    "text": "have chronicled but practitioners have"
+  },
+  {
+    "start": "00:00:35.120",
+    "end": "00:00:37.590",
+    "start_seconds": 35.12,
+    "end_seconds": 37.59,
+    "text": "have chronicled but practitioners have also noticed. The first is called the"
+  },
+  {
+    "start": "00:00:37.590",
+    "end": "00:00:37.600",
+    "start_seconds": 37.59,
+    "end_seconds": 37.6,
+    "text": "also noticed. The first is called the"
+  },
+  {
+    "start": "00:00:37.600",
+    "end": "00:00:40.310",
+    "start_seconds": 37.6,
+    "end_seconds": 40.31,
+    "text": "also noticed. The first is called the January effect that January tend to be"
+  },
+  {
+    "start": "00:00:40.310",
+    "end": "00:00:40.320",
+    "start_seconds": 40.31,
+    "end_seconds": 40.32,
+    "text": "January effect that January tend to be"
+  },
+  {
+    "start": "00:00:40.320",
+    "end": "00:00:42.470",
+    "start_seconds": 40.32,
+    "end_seconds": 42.47,
+    "text": "January effect that January tend to be the best month of the year to invest in"
+  },
+  {
+    "start": "00:00:42.470",
+    "end": "00:00:42.480",
+    "start_seconds": 42.47,
+    "end_seconds": 42.48,
+    "text": "the best month of the year to invest in"
+  },
+  {
+    "start": "00:00:42.480",
+    "end": "00:00:44.470",
+    "start_seconds": 42.48,
+    "end_seconds": 44.47,
+    "text": "the best month of the year to invest in and what happens in January is often a"
+  },
+  {
+    "start": "00:00:44.470",
+    "end": "00:00:44.480",
+    "start_seconds": 44.47,
+    "end_seconds": 44.48,
+    "text": "and what happens in January is often a"
+  },
+  {
+    "start": "00:00:44.480",
+    "end": "00:00:46.310",
+    "start_seconds": 44.48,
+    "end_seconds": 46.31,
+    "text": "and what happens in January is often a good predictor of what the year will"
+  },
+  {
+    "start": "00:00:46.310",
+    "end": "00:00:46.320",
+    "start_seconds": 46.31,
+    "end_seconds": 46.32,
+    "text": "good predictor of what the year will"
+  },
+  {
+    "start": "00:00:46.320",
+    "end": "00:00:48.150",
+    "start_seconds": 46.32,
+    "end_seconds": 48.15,
+    "text": "good predictor of what the year will deliver. The second is called the"
+  },
+  {
+    "start": "00:00:48.150",
+    "end": "00:00:48.160",
+    "start_seconds": 48.15,
+    "end_seconds": 48.16,
+    "text": "deliver. The second is called the"
+  },
+  {
+    "start": "00:00:48.160",
+    "end": "00:00:50.950",
+    "start_seconds": 48.16,
+    "end_seconds": 50.95,
+    "text": "deliver. The second is called the weekend effect which is in pretty much"
+  },
+  {
+    "start": "00:00:50.950",
+    "end": "00:00:50.960",
+    "start_seconds": 50.95,
+    "end_seconds": 50.96,
+    "text": "weekend effect which is in pretty much"
+  },
+  {
+    "start": "00:00:50.960",
+    "end": "00:00:54.389",
+    "start_seconds": 50.96,
+    "end_seconds": 54.389,
+    "text": "weekend effect which is in pretty much every year in the last century. Mondays"
+  },
+  {
+    "start": "00:00:54.389",
+    "end": "00:00:54.399",
+    "start_seconds": 54.389,
+    "end_seconds": 54.399,
+    "text": "every year in the last century. Mondays"
+  },
+  {
+    "start": "00:00:54.399",
+    "end": "00:00:56.869",
+    "start_seconds": 54.399,
+    "end_seconds": 56.869,
+    "text": "every year in the last century. Mondays have been much better much worse days to"
+  },
+  {
+    "start": "00:00:56.869",
+    "end": "00:00:56.879",
+    "start_seconds": 56.869,
+    "end_seconds": 56.879,
+    "text": "have been much better much worse days to"
+  },
+  {
+    "start": "00:00:56.879",
+    "end": "00:00:58.470",
+    "start_seconds": 56.879,
+    "end_seconds": 58.47,
+    "text": "have been much better much worse days to invest in than any other days of the"
+  },
+  {
+    "start": "00:00:58.470",
+    "end": "00:00:58.480",
+    "start_seconds": 58.47,
+    "end_seconds": 58.48,
+    "text": "invest in than any other days of the"
+  },
+  {
+    "start": "00:00:58.480",
+    "end": "00:01:01.750",
+    "start_seconds": 58.48,
+    "end_seconds": 61.75,
+    "text": "invest in than any other days of the work. There's a Monday effect and the"
+  },
+  {
+    "start": "00:01:01.750",
+    "end": "00:01:01.760",
+    "start_seconds": 61.75,
+    "end_seconds": 61.76,
+    "text": "work. There's a Monday effect and the"
+  },
+  {
+    "start": "00:01:01.760",
+    "end": "00:01:03.510",
+    "start_seconds": 61.76,
+    "end_seconds": 63.51,
+    "text": "work. There's a Monday effect and the question is why? Why are Mondays such"
+  },
+  {
+    "start": "00:01:03.510",
+    "end": "00:01:03.520",
+    "start_seconds": 63.51,
+    "end_seconds": 63.52,
+    "text": "question is why? Why are Mondays such"
+  },
+  {
+    "start": "00:01:03.520",
+    "end": "00:01:06.390",
+    "start_seconds": 63.52,
+    "end_seconds": 66.39,
+    "text": "question is why? Why are Mondays such terrible days to invest in markets? And"
+  },
+  {
+    "start": "00:01:06.390",
+    "end": "00:01:06.400",
+    "start_seconds": 66.39,
+    "end_seconds": 66.4,
+    "text": "terrible days to invest in markets? And"
+  },
+  {
+    "start": "00:01:06.400",
+    "end": "00:01:08.070",
+    "start_seconds": 66.4,
+    "end_seconds": 68.07,
+    "text": "terrible days to invest in markets? And the third is and this is a weaker"
+  },
+  {
+    "start": "00:01:08.070",
+    "end": "00:01:08.080",
+    "start_seconds": 68.07,
+    "end_seconds": 68.08,
+    "text": "the third is and this is a weaker"
+  },
+  {
+    "start": "00:01:08.080",
+    "end": "00:01:10.469",
+    "start_seconds": 68.08,
+    "end_seconds": 70.469,
+    "text": "the third is and this is a weaker effect. There is some evidence that mid"
+  },
+  {
+    "start": "00:01:10.469",
+    "end": "00:01:10.479",
+    "start_seconds": 70.469,
+    "end_seconds": 70.479,
+    "text": "effect. There is some evidence that mid"
+  },
+  {
+    "start": "00:01:10.479",
+    "end": "00:01:12.390",
+    "start_seconds": 70.479,
+    "end_seconds": 72.39,
+    "text": "effect. There is some evidence that mid trading day there is a swoon in prices"
+  },
+  {
+    "start": "00:01:12.390",
+    "end": "00:01:12.400",
+    "start_seconds": 72.39,
+    "end_seconds": 72.4,
+    "text": "trading day there is a swoon in prices"
+  },
+  {
+    "start": "00:01:12.400",
+    "end": "00:01:14.070",
+    "start_seconds": 72.4,
+    "end_seconds": 74.07,
+    "text": "trading day there is a swoon in prices and there seems to be some some"
+  },
+  {
+    "start": "00:01:14.070",
+    "end": "00:01:14.080",
+    "start_seconds": 74.07,
+    "end_seconds": 74.08,
+    "text": "and there seems to be some some"
+  },
+  {
+    "start": "00:01:14.080",
+    "end": "00:01:16.789",
+    "start_seconds": 74.08,
+    "end_seconds": 76.789,
+    "text": "and there seems to be some some recovery. I'm not sure any of these"
+  },
+  {
+    "start": "00:01:16.789",
+    "end": "00:01:16.799",
+    "start_seconds": 76.789,
+    "end_seconds": 76.799,
+    "text": "recovery. I'm not sure any of these"
+  },
+  {
+    "start": "00:01:16.799",
+    "end": "00:01:18.789",
+    "start_seconds": 76.799,
+    "end_seconds": 78.789,
+    "text": "recovery. I'm not sure any of these temporal irregularities, as I'm going to"
+  },
+  {
+    "start": "00:01:18.789",
+    "end": "00:01:18.799",
+    "start_seconds": 78.789,
+    "end_seconds": 78.799,
+    "text": "temporal irregularities, as I'm going to"
+  },
+  {
+    "start": "00:01:18.799",
+    "end": "00:01:22.710",
+    "start_seconds": 78.799,
+    "end_seconds": 82.71000000000001,
+    "text": "temporal irregularities, as I'm going to call them, are a basis for making money,"
+  },
+  {
+    "start": "00:01:22.710",
+    "end": "00:01:22.720",
+    "start_seconds": 82.71000000000001,
+    "end_seconds": 82.72,
+    "text": "call them, are a basis for making money,"
+  },
+  {
+    "start": "00:01:22.720",
+    "end": "00:01:24.710",
+    "start_seconds": 82.72,
+    "end_seconds": 84.71000000000001,
+    "text": "call them, are a basis for making money, but they exist. And might as well look"
+  },
+  {
+    "start": "00:01:24.710",
+    "end": "00:01:24.720",
+    "start_seconds": 84.71000000000001,
+    "end_seconds": 84.72,
+    "text": "but they exist. And might as well look"
+  },
+  {
+    "start": "00:01:24.720",
+    "end": "00:01:26.390",
+    "start_seconds": 84.72,
+    "end_seconds": 86.39,
+    "text": "but they exist. And might as well look at why they exist, because there might"
+  },
+  {
+    "start": "00:01:26.390",
+    "end": "00:01:26.400",
+    "start_seconds": 86.39,
+    "end_seconds": 86.4,
+    "text": "at why they exist, because there might"
+  },
+  {
+    "start": "00:01:26.400",
+    "end": "00:01:29.990",
+    "start_seconds": 86.4,
+    "end_seconds": 89.99,
+    "text": "at why they exist, because there might be clues on price patterns from what you"
+  },
+  {
+    "start": "00:01:29.990",
+    "end": "00:01:30.000",
+    "start_seconds": 89.99,
+    "end_seconds": 90.0,
+    "text": "be clues on price patterns from what you"
+  },
+  {
+    "start": "00:01:30.000",
+    "end": "00:01:31.670",
+    "start_seconds": 90.0,
+    "end_seconds": 91.67,
+    "text": "be clues on price patterns from what you can find. First, let's start with the"
+  },
+  {
+    "start": "00:01:31.670",
+    "end": "00:01:31.680",
+    "start_seconds": 91.67,
+    "end_seconds": 91.68,
+    "text": "can find. First, let's start with the"
+  },
+  {
+    "start": "00:01:31.680",
+    "end": "00:01:35.590",
+    "start_seconds": 91.68,
+    "end_seconds": 95.59,
+    "text": "can find. First, let's start with the January effect. Going back to 1927,"
+  },
+  {
+    "start": "00:01:35.590",
+    "end": "00:01:35.600",
+    "start_seconds": 95.59,
+    "end_seconds": 95.6,
+    "text": "January effect. Going back to 1927,"
+  },
+  {
+    "start": "00:01:35.600",
+    "end": "00:01:38.950",
+    "start_seconds": 95.6,
+    "end_seconds": 98.95,
+    "text": "January effect. Going back to 1927, I looked at average returns by month,"
+  },
+  {
+    "start": "00:01:38.950",
+    "end": "00:01:38.960",
+    "start_seconds": 98.95,
+    "end_seconds": 98.96000000000001,
+    "text": "I looked at average returns by month,"
+  },
+  {
+    "start": "00:01:38.960",
+    "end": "00:01:41.109",
+    "start_seconds": 98.96000000000001,
+    "end_seconds": 101.10900000000001,
+    "text": "I looked at average returns by month, January through December from 1927"
+  },
+  {
+    "start": "00:01:41.109",
+    "end": "00:01:41.119",
+    "start_seconds": 101.10900000000001,
+    "end_seconds": 101.119,
+    "text": "January through December from 1927"
+  },
+  {
+    "start": "00:01:41.119",
+    "end": "00:01:43.190",
+    "start_seconds": 101.119,
+    "end_seconds": 103.19,
+    "text": "January through December from 1927 through 2024."
+  },
+  {
+    "start": "00:01:43.190",
+    "end": "00:01:43.200",
+    "start_seconds": 103.19,
+    "end_seconds": 103.2,
+    "text": "through 2024."
+  },
+  {
+    "start": "00:01:43.200",
+    "end": "00:01:45.270",
+    "start_seconds": 103.2,
+    "end_seconds": 105.27000000000001,
+    "text": "through 2024. take a look at the returns and it's kind"
+  },
+  {
+    "start": "00:01:45.270",
+    "end": "00:01:45.280",
+    "start_seconds": 105.27000000000001,
+    "end_seconds": 105.28,
+    "text": "take a look at the returns and it's kind"
+  },
+  {
+    "start": "00:01:45.280",
+    "end": "00:01:47.270",
+    "start_seconds": 105.28,
+    "end_seconds": 107.27000000000001,
+    "text": "take a look at the returns and it's kind of a no contest, right? The best month"
+  },
+  {
+    "start": "00:01:47.270",
+    "end": "00:01:47.280",
+    "start_seconds": 107.27000000000001,
+    "end_seconds": 107.28,
+    "text": "of a no contest, right? The best month"
+  },
+  {
+    "start": "00:01:47.280",
+    "end": "00:01:50.310",
+    "start_seconds": 107.28,
+    "end_seconds": 110.31,
+    "text": "of a no contest, right? The best month of the year by far over the last century"
+  },
+  {
+    "start": "00:01:50.310",
+    "end": "00:01:50.320",
+    "start_seconds": 110.31,
+    "end_seconds": 110.32,
+    "text": "of the year by far over the last century"
+  },
+  {
+    "start": "00:01:50.320",
+    "end": "00:01:53.510",
+    "start_seconds": 110.32,
+    "end_seconds": 113.50999999999999,
+    "text": "of the year by far over the last century for US stocks has been January. Now,"
+  },
+  {
+    "start": "00:01:53.510",
+    "end": "00:01:53.520",
+    "start_seconds": 113.50999999999999,
+    "end_seconds": 113.52000000000001,
+    "text": "for US stocks has been January. Now,"
+  },
+  {
+    "start": "00:01:53.520",
+    "end": "00:01:54.870",
+    "start_seconds": 113.52000000000001,
+    "end_seconds": 114.87,
+    "text": "for US stocks has been January. Now, before you get too excited though, if"
+  },
+  {
+    "start": "00:01:54.870",
+    "end": "00:01:54.880",
+    "start_seconds": 114.87,
+    "end_seconds": 114.88,
+    "text": "before you get too excited though, if"
+  },
+  {
+    "start": "00:01:54.880",
+    "end": "00:01:56.789",
+    "start_seconds": 114.88,
+    "end_seconds": 116.789,
+    "text": "before you get too excited though, if you look at the difference in returns,"
+  },
+  {
+    "start": "00:01:56.789",
+    "end": "00:01:56.799",
+    "start_seconds": 116.789,
+    "end_seconds": 116.799,
+    "text": "you look at the difference in returns,"
+  },
+  {
+    "start": "00:01:56.799",
+    "end": "00:01:59.590",
+    "start_seconds": 116.799,
+    "end_seconds": 119.59,
+    "text": "you look at the difference in returns, it looks big on a chart, right? But it's"
+  },
+  {
+    "start": "00:01:59.590",
+    "end": "00:01:59.600",
+    "start_seconds": 119.59,
+    "end_seconds": 119.6,
+    "text": "it looks big on a chart, right? But it's"
+  },
+  {
+    "start": "00:01:59.600",
+    "end": "00:02:01.990",
+    "start_seconds": 119.6,
+    "end_seconds": 121.99,
+    "text": "it looks big on a chart, right? But it's 3% versus 1%, but that's still pretty"
+  },
+  {
+    "start": "00:02:01.990",
+    "end": "00:02:02.000",
+    "start_seconds": 121.99,
+    "end_seconds": 122.0,
+    "text": "3% versus 1%, but that's still pretty"
+  },
+  {
+    "start": "00:02:02.000",
+    "end": "00:02:05.510",
+    "start_seconds": 122.0,
+    "end_seconds": 125.51,
+    "text": "3% versus 1%, but that's still pretty significant on a monthly basis. Now if"
+  },
+  {
+    "start": "00:02:05.510",
+    "end": "00:02:05.520",
+    "start_seconds": 125.51,
+    "end_seconds": 125.52,
+    "text": "significant on a monthly basis. Now if"
+  },
+  {
+    "start": "00:02:05.520",
+    "end": "00:02:07.350",
+    "start_seconds": 125.52,
+    "end_seconds": 127.35,
+    "text": "significant on a monthly basis. Now if you want to have a different way of"
+  },
+  {
+    "start": "00:02:07.350",
+    "end": "00:02:07.360",
+    "start_seconds": 127.35,
+    "end_seconds": 127.36,
+    "text": "you want to have a different way of"
+  },
+  {
+    "start": "00:02:07.360",
+    "end": "00:02:08.949",
+    "start_seconds": 127.36,
+    "end_seconds": 128.949,
+    "text": "you want to have a different way of examining this and this is for a shorter"
+  },
+  {
+    "start": "00:02:08.949",
+    "end": "00:02:08.959",
+    "start_seconds": 128.949,
+    "end_seconds": 128.959,
+    "text": "examining this and this is for a shorter"
+  },
+  {
+    "start": "00:02:08.959",
+    "end": "00:02:11.990",
+    "start_seconds": 128.959,
+    "end_seconds": 131.99,
+    "text": "examining this and this is for a shorter time but 1926 to 2018."
+  },
+  {
+    "start": "00:02:11.990",
+    "end": "00:02:12.000",
+    "start_seconds": 131.99,
+    "end_seconds": 132.0,
+    "text": "time but 1926 to 2018."
+  },
+  {
+    "start": "00:02:12.000",
+    "end": "00:02:15.030",
+    "start_seconds": 132.0,
+    "end_seconds": 135.03,
+    "text": "time but 1926 to 2018. If you look at just January returns"
+  },
+  {
+    "start": "00:02:15.030",
+    "end": "00:02:15.040",
+    "start_seconds": 135.03,
+    "end_seconds": 135.04,
+    "text": "If you look at just January returns"
+  },
+  {
+    "start": "00:02:15.040",
+    "end": "00:02:17.430",
+    "start_seconds": 135.04,
+    "end_seconds": 137.43,
+    "text": "If you look at just January returns broken down by market cap desert from"
+  },
+  {
+    "start": "00:02:17.430",
+    "end": "00:02:17.440",
+    "start_seconds": 137.43,
+    "end_seconds": 137.44,
+    "text": "broken down by market cap desert from"
+  },
+  {
+    "start": "00:02:17.440",
+    "end": "00:02:19.190",
+    "start_seconds": 137.44,
+    "end_seconds": 139.19,
+    "text": "broken down by market cap desert from smallest to largest. You can see the"
+  },
+  {
+    "start": "00:02:19.190",
+    "end": "00:02:19.200",
+    "start_seconds": 139.19,
+    "end_seconds": 139.2,
+    "text": "smallest to largest. You can see the"
+  },
+  {
+    "start": "00:02:19.200",
+    "end": "00:02:22.470",
+    "start_seconds": 139.2,
+    "end_seconds": 142.47,
+    "text": "smallest to largest. You can see the January effect is almost entirely a"
+  },
+  {
+    "start": "00:02:22.470",
+    "end": "00:02:22.480",
+    "start_seconds": 142.47,
+    "end_seconds": 142.48,
+    "text": "January effect is almost entirely a"
+  },
+  {
+    "start": "00:02:22.480",
+    "end": "00:02:24.790",
+    "start_seconds": 142.48,
+    "end_seconds": 144.79,
+    "text": "January effect is almost entirely a small cap effect. In fact with large"
+  },
+  {
+    "start": "00:02:24.790",
+    "end": "00:02:24.800",
+    "start_seconds": 144.79,
+    "end_seconds": 144.8,
+    "text": "small cap effect. In fact with large"
+  },
+  {
+    "start": "00:02:24.800",
+    "end": "00:02:26.949",
+    "start_seconds": 144.8,
+    "end_seconds": 146.949,
+    "text": "small cap effect. In fact with large companies there is no January effect."
+  },
+  {
+    "start": "00:02:26.949",
+    "end": "00:02:26.959",
+    "start_seconds": 146.949,
+    "end_seconds": 146.959,
+    "text": "companies there is no January effect."
+  },
+  {
+    "start": "00:02:26.959",
+    "end": "00:02:29.350",
+    "start_seconds": 146.959,
+    "end_seconds": 149.35,
+    "text": "companies there is no January effect. So, not only is there a January effect,"
+  },
+  {
+    "start": "00:02:29.350",
+    "end": "00:02:29.360",
+    "start_seconds": 149.35,
+    "end_seconds": 149.36,
+    "text": "So, not only is there a January effect,"
+  },
+  {
+    "start": "00:02:29.360",
+    "end": "00:02:31.430",
+    "start_seconds": 149.36,
+    "end_seconds": 151.43,
+    "text": "So, not only is there a January effect, but it's a effect that seems to be"
+  },
+  {
+    "start": "00:02:31.430",
+    "end": "00:02:31.440",
+    "start_seconds": 151.43,
+    "end_seconds": 151.44,
+    "text": "but it's a effect that seems to be"
+  },
+  {
+    "start": "00:02:31.440",
+    "end": "00:02:34.309",
+    "start_seconds": 151.44,
+    "end_seconds": 154.309,
+    "text": "but it's a effect that seems to be isolated to the smallest companies in"
+  },
+  {
+    "start": "00:02:34.309",
+    "end": "00:02:34.319",
+    "start_seconds": 154.309,
+    "end_seconds": 154.31900000000002,
+    "text": "isolated to the smallest companies in"
+  },
+  {
+    "start": "00:02:34.319",
+    "end": "00:02:36.710",
+    "start_seconds": 154.31900000000002,
+    "end_seconds": 156.71,
+    "text": "isolated to the smallest companies in the market"
+  },
+  {
+    "start": "00:02:36.710",
+    "end": "00:02:36.720",
+    "start_seconds": 156.71,
+    "end_seconds": 156.72,
+    "text": "the market"
+  },
+  {
+    "start": "00:02:36.720",
+    "end": "00:02:39.670",
+    "start_seconds": 156.72,
+    "end_seconds": 159.67000000000002,
+    "text": "the market and it's strong across countries. If you"
+  },
+  {
+    "start": "00:02:39.670",
+    "end": "00:02:39.680",
+    "start_seconds": 159.67000000000002,
+    "end_seconds": 159.68,
+    "text": "and it's strong across countries. If you"
+  },
+  {
+    "start": "00:02:39.680",
+    "end": "00:02:41.350",
+    "start_seconds": 159.68,
+    "end_seconds": 161.35,
+    "text": "and it's strong across countries. If you look across every country, there's a"
+  },
+  {
+    "start": "00:02:41.350",
+    "end": "00:02:41.360",
+    "start_seconds": 161.35,
+    "end_seconds": 161.36,
+    "text": "look across every country, there's a"
+  },
+  {
+    "start": "00:02:41.360",
+    "end": "00:02:43.190",
+    "start_seconds": 161.36,
+    "end_seconds": 163.19,
+    "text": "look across every country, there's a January effect in pretty much every"
+  },
+  {
+    "start": "00:02:43.190",
+    "end": "00:02:43.200",
+    "start_seconds": 163.19,
+    "end_seconds": 163.2,
+    "text": "January effect in pretty much every"
+  },
+  {
+    "start": "00:02:43.200",
+    "end": "00:02:44.790",
+    "start_seconds": 163.2,
+    "end_seconds": 164.79,
+    "text": "January effect in pretty much every country. So, let's summarize. There's a"
+  },
+  {
+    "start": "00:02:44.790",
+    "end": "00:02:44.800",
+    "start_seconds": 164.79,
+    "end_seconds": 164.8,
+    "text": "country. So, let's summarize. There's a"
+  },
+  {
+    "start": "00:02:44.800",
+    "end": "00:02:46.790",
+    "start_seconds": 164.8,
+    "end_seconds": 166.79,
+    "text": "country. So, let's summarize. There's a January effect. It seems to be strongest"
+  },
+  {
+    "start": "00:02:46.790",
+    "end": "00:02:46.800",
+    "start_seconds": 166.79,
+    "end_seconds": 166.8,
+    "text": "January effect. It seems to be strongest"
+  },
+  {
+    "start": "00:02:46.800",
+    "end": "00:02:49.110",
+    "start_seconds": 166.8,
+    "end_seconds": 169.11,
+    "text": "January effect. It seems to be strongest for small companies and it's across"
+  },
+  {
+    "start": "00:02:49.110",
+    "end": "00:02:49.120",
+    "start_seconds": 169.11,
+    "end_seconds": 169.12,
+    "text": "for small companies and it's across"
+  },
+  {
+    "start": "00:02:49.120",
+    "end": "00:02:51.110",
+    "start_seconds": 169.12,
+    "end_seconds": 171.11,
+    "text": "for small companies and it's across markets. It's not something that is"
+  },
+  {
+    "start": "00:02:51.110",
+    "end": "00:02:51.120",
+    "start_seconds": 171.11,
+    "end_seconds": 171.12,
+    "text": "markets. It's not something that is"
+  },
+  {
+    "start": "00:02:51.120",
+    "end": "00:02:53.670",
+    "start_seconds": 171.12,
+    "end_seconds": 173.67000000000002,
+    "text": "markets. It's not something that is specific to the US market. What are the"
+  },
+  {
+    "start": "00:02:53.670",
+    "end": "00:02:53.680",
+    "start_seconds": 173.67000000000002,
+    "end_seconds": 173.68,
+    "text": "specific to the US market. What are the"
+  },
+  {
+    "start": "00:02:53.680",
+    "end": "00:02:55.589",
+    "start_seconds": 173.68,
+    "end_seconds": 175.589,
+    "text": "specific to the US market. What are the possible explanations?"
+  },
+  {
+    "start": "00:02:55.589",
+    "end": "00:02:55.599",
+    "start_seconds": 175.589,
+    "end_seconds": 175.599,
+    "text": "possible explanations?"
+  },
+  {
+    "start": "00:02:55.599",
+    "end": "00:02:57.750",
+    "start_seconds": 175.599,
+    "end_seconds": 177.75,
+    "text": "possible explanations? People have tried several. None of them"
+  },
+  {
+    "start": "00:02:57.750",
+    "end": "00:02:57.760",
+    "start_seconds": 177.75,
+    "end_seconds": 177.76,
+    "text": "People have tried several. None of them"
+  },
+  {
+    "start": "00:02:57.760",
+    "end": "00:03:00.070",
+    "start_seconds": 177.76,
+    "end_seconds": 180.07,
+    "text": "People have tried several. None of them fully fit, but you can maybe the there's"
+  },
+  {
+    "start": "00:03:00.070",
+    "end": "00:03:00.080",
+    "start_seconds": 180.07,
+    "end_seconds": 180.08,
+    "text": "fully fit, but you can maybe the there's"
+  },
+  {
+    "start": "00:03:00.080",
+    "end": "00:03:01.990",
+    "start_seconds": 180.08,
+    "end_seconds": 181.99,
+    "text": "fully fit, but you can maybe the there's all all of them put together can explain"
+  },
+  {
+    "start": "00:03:01.990",
+    "end": "00:03:02.000",
+    "start_seconds": 181.99,
+    "end_seconds": 182.0,
+    "text": "all all of them put together can explain"
+  },
+  {
+    "start": "00:03:02.000",
+    "end": "00:03:04.470",
+    "start_seconds": 182.0,
+    "end_seconds": 184.47,
+    "text": "all all of them put together can explain it. One is there's some fund flows."
+  },
+  {
+    "start": "00:03:04.470",
+    "end": "00:03:04.480",
+    "start_seconds": 184.47,
+    "end_seconds": 184.48,
+    "text": "it. One is there's some fund flows."
+  },
+  {
+    "start": "00:03:04.480",
+    "end": "00:03:06.790",
+    "start_seconds": 184.48,
+    "end_seconds": 186.79,
+    "text": "it. One is there's some fund flows. People sending money in December into"
+  },
+  {
+    "start": "00:03:06.790",
+    "end": "00:03:06.800",
+    "start_seconds": 186.79,
+    "end_seconds": 186.8,
+    "text": "People sending money in December into"
+  },
+  {
+    "start": "00:03:06.800",
+    "end": "00:03:08.470",
+    "start_seconds": 186.8,
+    "end_seconds": 188.47,
+    "text": "People sending money in December into mutual funds and that money being"
+  },
+  {
+    "start": "00:03:08.470",
+    "end": "00:03:08.480",
+    "start_seconds": 188.47,
+    "end_seconds": 188.48,
+    "text": "mutual funds and that money being"
+  },
+  {
+    "start": "00:03:08.480",
+    "end": "00:03:10.550",
+    "start_seconds": 188.48,
+    "end_seconds": 190.55,
+    "text": "mutual funds and that money being invested in January. Maybe there's a"
+  },
+  {
+    "start": "00:03:10.550",
+    "end": "00:03:10.560",
+    "start_seconds": 190.55,
+    "end_seconds": 190.56,
+    "text": "invested in January. Maybe there's a"
+  },
+  {
+    "start": "00:03:10.560",
+    "end": "00:03:12.869",
+    "start_seconds": 190.56,
+    "end_seconds": 192.869,
+    "text": "invested in January. Maybe there's a fund flow effect where there's far more"
+  },
+  {
+    "start": "00:03:12.869",
+    "end": "00:03:12.879",
+    "start_seconds": 192.869,
+    "end_seconds": 192.879,
+    "text": "fund flow effect where there's far more"
+  },
+  {
+    "start": "00:03:12.879",
+    "end": "00:03:14.869",
+    "start_seconds": 192.879,
+    "end_seconds": 194.869,
+    "text": "fund flow effect where there's far more money flowing into stocks in January"
+  },
+  {
+    "start": "00:03:14.869",
+    "end": "00:03:14.879",
+    "start_seconds": 194.869,
+    "end_seconds": 194.879,
+    "text": "money flowing into stocks in January"
+  },
+  {
+    "start": "00:03:14.879",
+    "end": "00:03:17.030",
+    "start_seconds": 194.879,
+    "end_seconds": 197.03,
+    "text": "money flowing into stocks in January than any other month of the year. The"
+  },
+  {
+    "start": "00:03:17.030",
+    "end": "00:03:17.040",
+    "start_seconds": 197.03,
+    "end_seconds": 197.04,
+    "text": "than any other month of the year. The"
+  },
+  {
+    "start": "00:03:17.040",
+    "end": "00:03:18.550",
+    "start_seconds": 197.04,
+    "end_seconds": 198.55,
+    "text": "than any other month of the year. The second could be window dressing by"
+  },
+  {
+    "start": "00:03:18.550",
+    "end": "00:03:18.560",
+    "start_seconds": 198.55,
+    "end_seconds": 198.56,
+    "text": "second could be window dressing by"
+  },
+  {
+    "start": "00:03:18.560",
+    "end": "00:03:20.070",
+    "start_seconds": 198.56,
+    "end_seconds": 200.07,
+    "text": "second could be window dressing by institutions. They're trying to get rid"
+  },
+  {
+    "start": "00:03:20.070",
+    "end": "00:03:20.080",
+    "start_seconds": 200.07,
+    "end_seconds": 200.07999999999998,
+    "text": "institutions. They're trying to get rid"
+  },
+  {
+    "start": "00:03:20.080",
+    "end": "00:03:21.990",
+    "start_seconds": 200.07999999999998,
+    "end_seconds": 201.99,
+    "text": "institutions. They're trying to get rid of their losers the end of December. So"
+  },
+  {
+    "start": "00:03:21.990",
+    "end": "00:03:22.000",
+    "start_seconds": 201.99,
+    "end_seconds": 202.0,
+    "text": "of their losers the end of December. So"
+  },
+  {
+    "start": "00:03:22.000",
+    "end": "00:03:23.990",
+    "start_seconds": 202.0,
+    "end_seconds": 203.99,
+    "text": "of their losers the end of December. So they look good on December 31st and they"
+  },
+  {
+    "start": "00:03:23.990",
+    "end": "00:03:24.000",
+    "start_seconds": 203.99,
+    "end_seconds": 204.0,
+    "text": "they look good on December 31st and they"
+  },
+  {
+    "start": "00:03:24.000",
+    "end": "00:03:26.149",
+    "start_seconds": 204.0,
+    "end_seconds": 206.149,
+    "text": "they look good on December 31st and they buy them back in January. But if that's"
+  },
+  {
+    "start": "00:03:26.149",
+    "end": "00:03:26.159",
+    "start_seconds": 206.149,
+    "end_seconds": 206.159,
+    "text": "buy them back in January. But if that's"
+  },
+  {
+    "start": "00:03:26.159",
+    "end": "00:03:27.910",
+    "start_seconds": 206.159,
+    "end_seconds": 207.91,
+    "text": "buy them back in January. But if that's the case, the January effect should be"
+  },
+  {
+    "start": "00:03:27.910",
+    "end": "00:03:27.920",
+    "start_seconds": 207.91,
+    "end_seconds": 207.92000000000002,
+    "text": "the case, the January effect should be"
+  },
+  {
+    "start": "00:03:27.920",
+    "end": "00:03:30.309",
+    "start_seconds": 207.92000000000002,
+    "end_seconds": 210.309,
+    "text": "the case, the January effect should be strongest in money losing stocks and in"
+  },
+  {
+    "start": "00:03:30.309",
+    "end": "00:03:30.319",
+    "start_seconds": 210.309,
+    "end_seconds": 210.319,
+    "text": "strongest in money losing stocks and in"
+  },
+  {
+    "start": "00:03:30.319",
+    "end": "00:03:32.070",
+    "start_seconds": 210.319,
+    "end_seconds": 212.07,
+    "text": "strongest in money losing stocks and in money making stocks. And the evidence"
+  },
+  {
+    "start": "00:03:32.070",
+    "end": "00:03:32.080",
+    "start_seconds": 212.07,
+    "end_seconds": 212.07999999999998,
+    "text": "money making stocks. And the evidence"
+  },
+  {
+    "start": "00:03:32.080",
+    "end": "00:03:34.229",
+    "start_seconds": 212.07999999999998,
+    "end_seconds": 214.22899999999998,
+    "text": "money making stocks. And the evidence for that is weak. It could be tax"
+  },
+  {
+    "start": "00:03:34.229",
+    "end": "00:03:34.239",
+    "start_seconds": 214.22899999999998,
+    "end_seconds": 214.239,
+    "text": "for that is weak. It could be tax"
+  },
+  {
+    "start": "00:03:34.239",
+    "end": "00:03:36.550",
+    "start_seconds": 214.239,
+    "end_seconds": 216.55,
+    "text": "for that is weak. It could be tax selling. Investors sell stocks in"
+  },
+  {
+    "start": "00:03:36.550",
+    "end": "00:03:36.560",
+    "start_seconds": 216.55,
+    "end_seconds": 216.56,
+    "text": "selling. Investors sell stocks in"
+  },
+  {
+    "start": "00:03:36.560",
+    "end": "00:03:40.470",
+    "start_seconds": 216.56,
+    "end_seconds": 220.47,
+    "text": "selling. Investors sell stocks in December to to to manage their taxes and"
+  },
+  {
+    "start": "00:03:40.470",
+    "end": "00:03:40.480",
+    "start_seconds": 220.47,
+    "end_seconds": 220.48,
+    "text": "December to to to manage their taxes and"
+  },
+  {
+    "start": "00:03:40.480",
+    "end": "00:03:43.110",
+    "start_seconds": 220.48,
+    "end_seconds": 223.11,
+    "text": "December to to to manage their taxes and they buy back in January. None of these"
+  },
+  {
+    "start": "00:03:43.110",
+    "end": "00:03:43.120",
+    "start_seconds": 223.11,
+    "end_seconds": 223.12,
+    "text": "they buy back in January. None of these"
+  },
+  {
+    "start": "00:03:43.120",
+    "end": "00:03:45.270",
+    "start_seconds": 223.12,
+    "end_seconds": 225.27,
+    "text": "they buy back in January. None of these fully fit, but they might all contribute"
+  },
+  {
+    "start": "00:03:45.270",
+    "end": "00:03:45.280",
+    "start_seconds": 225.27,
+    "end_seconds": 225.28,
+    "text": "fully fit, but they might all contribute"
+  },
+  {
+    "start": "00:03:45.280",
+    "end": "00:03:48.470",
+    "start_seconds": 225.28,
+    "end_seconds": 228.47,
+    "text": "fully fit, but they might all contribute to understanding the January effect. The"
+  },
+  {
+    "start": "00:03:48.470",
+    "end": "00:03:48.480",
+    "start_seconds": 228.47,
+    "end_seconds": 228.48,
+    "text": "to understanding the January effect. The"
+  },
+  {
+    "start": "00:03:48.480",
+    "end": "00:03:50.149",
+    "start_seconds": 228.48,
+    "end_seconds": 230.149,
+    "text": "to understanding the January effect. The troubling thing is the fact that it's"
+  },
+  {
+    "start": "00:03:50.149",
+    "end": "00:03:50.159",
+    "start_seconds": 230.149,
+    "end_seconds": 230.159,
+    "text": "troubling thing is the fact that it's"
+  },
+  {
+    "start": "00:03:50.159",
+    "end": "00:03:52.550",
+    "start_seconds": 230.159,
+    "end_seconds": 232.55,
+    "text": "troubling thing is the fact that it's strongest for small cap stock suggests"
+  },
+  {
+    "start": "00:03:52.550",
+    "end": "00:03:52.560",
+    "start_seconds": 232.55,
+    "end_seconds": 232.56,
+    "text": "strongest for small cap stock suggests"
+  },
+  {
+    "start": "00:03:52.560",
+    "end": "00:03:54.390",
+    "start_seconds": 232.56,
+    "end_seconds": 234.39,
+    "text": "strongest for small cap stock suggests that whatever the effect is has"
+  },
+  {
+    "start": "00:03:54.390",
+    "end": "00:03:54.400",
+    "start_seconds": 234.39,
+    "end_seconds": 234.4,
+    "text": "that whatever the effect is has"
+  },
+  {
+    "start": "00:03:54.400",
+    "end": "00:03:57.750",
+    "start_seconds": 234.4,
+    "end_seconds": 237.75,
+    "text": "that whatever the effect is has something to do with market size as well"
+  },
+  {
+    "start": "00:03:57.750",
+    "end": "00:03:57.760",
+    "start_seconds": 237.75,
+    "end_seconds": 237.76,
+    "text": "something to do with market size as well"
+  },
+  {
+    "start": "00:03:57.760",
+    "end": "00:03:59.830",
+    "start_seconds": 237.76,
+    "end_seconds": 239.82999999999998,
+    "text": "something to do with market size as well that the that whatever the factors that"
+  },
+  {
+    "start": "00:03:59.830",
+    "end": "00:03:59.840",
+    "start_seconds": 239.82999999999998,
+    "end_seconds": 239.84,
+    "text": "that the that whatever the factors that"
+  },
+  {
+    "start": "00:03:59.840",
+    "end": "00:04:01.750",
+    "start_seconds": 239.84,
+    "end_seconds": 241.75,
+    "text": "that the that whatever the factors that cause the generary effect is greater for"
+  },
+  {
+    "start": "00:04:01.750",
+    "end": "00:04:01.760",
+    "start_seconds": 241.75,
+    "end_seconds": 241.76,
+    "text": "cause the generary effect is greater for"
+  },
+  {
+    "start": "00:04:01.760",
+    "end": "00:04:03.270",
+    "start_seconds": 241.76,
+    "end_seconds": 243.27,
+    "text": "cause the generary effect is greater for smaller companies than for larger"
+  },
+  {
+    "start": "00:04:03.270",
+    "end": "00:04:03.280",
+    "start_seconds": 243.27,
+    "end_seconds": 243.28,
+    "text": "smaller companies than for larger"
+  },
+  {
+    "start": "00:04:03.280",
+    "end": "00:04:05.110",
+    "start_seconds": 243.28,
+    "end_seconds": 245.11,
+    "text": "smaller companies than for larger companies"
+  },
+  {
+    "start": "00:04:05.110",
+    "end": "00:04:05.120",
+    "start_seconds": 245.11,
+    "end_seconds": 245.12,
+    "text": "companies"
+  },
+  {
+    "start": "00:04:05.120",
+    "end": "00:04:08.630",
+    "start_seconds": 245.12,
+    "end_seconds": 248.63,
+    "text": "companies effect it exists and as an investor what"
+  },
+  {
+    "start": "00:04:08.630",
+    "end": "00:04:08.640",
+    "start_seconds": 248.63,
+    "end_seconds": 248.64,
+    "text": "effect it exists and as an investor what"
+  },
+  {
+    "start": "00:04:08.640",
+    "end": "00:04:10.630",
+    "start_seconds": 248.64,
+    "end_seconds": 250.63,
+    "text": "effect it exists and as an investor what can I do about it say fully invest in"
+  },
+  {
+    "start": "00:04:10.630",
+    "end": "00:04:10.640",
+    "start_seconds": 250.63,
+    "end_seconds": 250.64,
+    "text": "can I do about it say fully invest in"
+  },
+  {
+    "start": "00:04:10.640",
+    "end": "00:04:13.110",
+    "start_seconds": 250.64,
+    "end_seconds": 253.11,
+    "text": "can I do about it say fully invest in January to begin with but by itself"
+  },
+  {
+    "start": "00:04:13.110",
+    "end": "00:04:13.120",
+    "start_seconds": 253.11,
+    "end_seconds": 253.12,
+    "text": "January to begin with but by itself"
+  },
+  {
+    "start": "00:04:13.120",
+    "end": "00:04:14.630",
+    "start_seconds": 253.12,
+    "end_seconds": 254.63,
+    "text": "January to begin with but by itself knowing what's happened in January"
+  },
+  {
+    "start": "00:04:14.630",
+    "end": "00:04:14.640",
+    "start_seconds": 254.63,
+    "end_seconds": 254.64,
+    "text": "knowing what's happened in January"
+  },
+  {
+    "start": "00:04:14.640",
+    "end": "00:04:16.069",
+    "start_seconds": 254.64,
+    "end_seconds": 256.069,
+    "text": "knowing what's happened in January doesn't help you that much over the rest"
+  },
+  {
+    "start": "00:04:16.069",
+    "end": "00:04:16.079",
+    "start_seconds": 256.069,
+    "end_seconds": 256.079,
+    "text": "doesn't help you that much over the rest"
+  },
+  {
+    "start": "00:04:16.079",
+    "end": "00:04:19.110",
+    "start_seconds": 256.079,
+    "end_seconds": 259.11,
+    "text": "doesn't help you that much over the rest of the year Because once January is"
+  },
+  {
+    "start": "00:04:19.110",
+    "end": "00:04:19.120",
+    "start_seconds": 259.11,
+    "end_seconds": 259.12,
+    "text": "of the year Because once January is"
+  },
+  {
+    "start": "00:04:19.120",
+    "end": "00:04:20.789",
+    "start_seconds": 259.12,
+    "end_seconds": 260.789,
+    "text": "of the year Because once January is behind you, the rest of the year look"
+  },
+  {
+    "start": "00:04:20.789",
+    "end": "00:04:20.799",
+    "start_seconds": 260.789,
+    "end_seconds": 260.799,
+    "text": "behind you, the rest of the year look"
+  },
+  {
+    "start": "00:04:20.799",
+    "end": "00:04:24.070",
+    "start_seconds": 260.799,
+    "end_seconds": 264.07,
+    "text": "behind you, the rest of the year look pretty much alike for every single year."
+  },
+  {
+    "start": "00:04:24.070",
+    "end": "00:04:24.080",
+    "start_seconds": 264.07,
+    "end_seconds": 264.08,
+    "text": "pretty much alike for every single year."
+  },
+  {
+    "start": "00:04:24.080",
+    "end": "00:04:26.310",
+    "start_seconds": 264.08,
+    "end_seconds": 266.31,
+    "text": "pretty much alike for every single year. Let's look at the weekend effect. This"
+  },
+  {
+    "start": "00:04:26.310",
+    "end": "00:04:26.320",
+    "start_seconds": 266.31,
+    "end_seconds": 266.32,
+    "text": "Let's look at the weekend effect. This"
+  },
+  {
+    "start": "00:04:26.320",
+    "end": "00:04:28.710",
+    "start_seconds": 266.32,
+    "end_seconds": 268.71,
+    "text": "Let's look at the weekend effect. This graph I've looked at returns by day of"
+  },
+  {
+    "start": "00:04:28.710",
+    "end": "00:04:28.720",
+    "start_seconds": 268.71,
+    "end_seconds": 268.72,
+    "text": "graph I've looked at returns by day of"
+  },
+  {
+    "start": "00:04:28.720",
+    "end": "00:04:31.990",
+    "start_seconds": 268.72,
+    "end_seconds": 271.99,
+    "text": "graph I've looked at returns by day of the week. Monday through Friday. And"
+  },
+  {
+    "start": "00:04:31.990",
+    "end": "00:04:32.000",
+    "start_seconds": 271.99,
+    "end_seconds": 272.0,
+    "text": "the week. Monday through Friday. And"
+  },
+  {
+    "start": "00:04:32.000",
+    "end": "00:04:34.310",
+    "start_seconds": 272.0,
+    "end_seconds": 274.31,
+    "text": "the week. Monday through Friday. And again, the standout is Monday. Mondays"
+  },
+  {
+    "start": "00:04:34.310",
+    "end": "00:04:34.320",
+    "start_seconds": 274.31,
+    "end_seconds": 274.32,
+    "text": "again, the standout is Monday. Mondays"
+  },
+  {
+    "start": "00:04:34.320",
+    "end": "00:04:37.110",
+    "start_seconds": 274.32,
+    "end_seconds": 277.11,
+    "text": "again, the standout is Monday. Mondays historically have been the worst day of"
+  },
+  {
+    "start": "00:04:37.110",
+    "end": "00:04:37.120",
+    "start_seconds": 277.11,
+    "end_seconds": 277.12,
+    "text": "historically have been the worst day of"
+  },
+  {
+    "start": "00:04:37.120",
+    "end": "00:04:39.350",
+    "start_seconds": 277.12,
+    "end_seconds": 279.35,
+    "text": "historically have been the worst day of the week to invest in US stocks and"
+  },
+  {
+    "start": "00:04:39.350",
+    "end": "00:04:39.360",
+    "start_seconds": 279.35,
+    "end_seconds": 279.36,
+    "text": "the week to invest in US stocks and"
+  },
+  {
+    "start": "00:04:39.360",
+    "end": "00:04:41.510",
+    "start_seconds": 279.36,
+    "end_seconds": 281.51,
+    "text": "the week to invest in US stocks and Fridays have been the best days. Now,"
+  },
+  {
+    "start": "00:04:41.510",
+    "end": "00:04:41.520",
+    "start_seconds": 281.51,
+    "end_seconds": 281.52,
+    "text": "Fridays have been the best days. Now,"
+  },
+  {
+    "start": "00:04:41.520",
+    "end": "00:04:43.909",
+    "start_seconds": 281.52,
+    "end_seconds": 283.909,
+    "text": "Fridays have been the best days. Now, let's dig a little deeper. That weekend"
+  },
+  {
+    "start": "00:04:43.909",
+    "end": "00:04:43.919",
+    "start_seconds": 283.909,
+    "end_seconds": 283.919,
+    "text": "let's dig a little deeper. That weekend"
+  },
+  {
+    "start": "00:04:43.919",
+    "end": "00:04:47.189",
+    "start_seconds": 283.919,
+    "end_seconds": 287.189,
+    "text": "let's dig a little deeper. That weekend effect is not just again in the US. It"
+  },
+  {
+    "start": "00:04:47.189",
+    "end": "00:04:47.199",
+    "start_seconds": 287.189,
+    "end_seconds": 287.199,
+    "text": "effect is not just again in the US. It"
+  },
+  {
+    "start": "00:04:47.199",
+    "end": "00:04:49.430",
+    "start_seconds": 287.199,
+    "end_seconds": 289.43,
+    "text": "effect is not just again in the US. It shows up in pretty much every market."
+  },
+  {
+    "start": "00:04:49.430",
+    "end": "00:04:49.440",
+    "start_seconds": 289.43,
+    "end_seconds": 289.44,
+    "text": "shows up in pretty much every market."
+  },
+  {
+    "start": "00:04:49.440",
+    "end": "00:04:51.110",
+    "start_seconds": 289.44,
+    "end_seconds": 291.11,
+    "text": "shows up in pretty much every market. There is a weekend effect stronger in"
+  },
+  {
+    "start": "00:04:51.110",
+    "end": "00:04:51.120",
+    "start_seconds": 291.11,
+    "end_seconds": 291.12,
+    "text": "There is a weekend effect stronger in"
+  },
+  {
+    "start": "00:04:51.120",
+    "end": "00:04:53.110",
+    "start_seconds": 291.12,
+    "end_seconds": 293.11,
+    "text": "There is a weekend effect stronger in some markets than others. The"
+  },
+  {
+    "start": "00:04:53.110",
+    "end": "00:04:53.120",
+    "start_seconds": 293.11,
+    "end_seconds": 293.12,
+    "text": "some markets than others. The"
+  },
+  {
+    "start": "00:04:53.120",
+    "end": "00:04:54.310",
+    "start_seconds": 293.12,
+    "end_seconds": 294.31,
+    "text": "some markets than others. The Philippines, for instance, weekend"
+  },
+  {
+    "start": "00:04:54.310",
+    "end": "00:04:54.320",
+    "start_seconds": 294.31,
+    "end_seconds": 294.32,
+    "text": "Philippines, for instance, weekend"
+  },
+  {
+    "start": "00:04:54.320",
+    "end": "00:04:56.870",
+    "start_seconds": 294.32,
+    "end_seconds": 296.87,
+    "text": "Philippines, for instance, weekend effect shows up as a smaller positive"
+  },
+  {
+    "start": "00:04:56.870",
+    "end": "00:04:56.880",
+    "start_seconds": 296.87,
+    "end_seconds": 296.88,
+    "text": "effect shows up as a smaller positive"
+  },
+  {
+    "start": "00:04:56.880",
+    "end": "00:04:58.550",
+    "start_seconds": 296.88,
+    "end_seconds": 298.55,
+    "text": "effect shows up as a smaller positive return on Monday than other days of the"
+  },
+  {
+    "start": "00:04:58.550",
+    "end": "00:04:58.560",
+    "start_seconds": 298.55,
+    "end_seconds": 298.56,
+    "text": "return on Monday than other days of the"
+  },
+  {
+    "start": "00:04:58.560",
+    "end": "00:05:01.510",
+    "start_seconds": 298.56,
+    "end_seconds": 301.51,
+    "text": "return on Monday than other days of the week. But clearly, Mondays lag every"
+  },
+  {
+    "start": "00:05:01.510",
+    "end": "00:05:01.520",
+    "start_seconds": 301.51,
+    "end_seconds": 301.52,
+    "text": "week. But clearly, Mondays lag every"
+  },
+  {
+    "start": "00:05:01.520",
+    "end": "00:05:04.310",
+    "start_seconds": 301.52,
+    "end_seconds": 304.31,
+    "text": "week. But clearly, Mondays lag every other day of the week. And if you look"
+  },
+  {
+    "start": "00:05:04.310",
+    "end": "00:05:04.320",
+    "start_seconds": 304.31,
+    "end_seconds": 304.32,
+    "text": "other day of the week. And if you look"
+  },
+  {
+    "start": "00:05:04.320",
+    "end": "00:05:06.790",
+    "start_seconds": 304.32,
+    "end_seconds": 306.79,
+    "text": "other day of the week. And if you look at the US across time, an interesting"
+  },
+  {
+    "start": "00:05:06.790",
+    "end": "00:05:06.800",
+    "start_seconds": 306.79,
+    "end_seconds": 306.8,
+    "text": "at the US across time, an interesting"
+  },
+  {
+    "start": "00:05:06.800",
+    "end": "00:05:09.029",
+    "start_seconds": 306.8,
+    "end_seconds": 309.029,
+    "text": "at the US across time, an interesting phenomenon has popped up. Well, in every"
+  },
+  {
+    "start": "00:05:09.029",
+    "end": "00:05:09.039",
+    "start_seconds": 309.029,
+    "end_seconds": 309.039,
+    "text": "phenomenon has popped up. Well, in every"
+  },
+  {
+    "start": "00:05:09.039",
+    "end": "00:05:10.790",
+    "start_seconds": 309.039,
+    "end_seconds": 310.79,
+    "text": "phenomenon has popped up. Well, in every single time period, Mondays have been"
+  },
+  {
+    "start": "00:05:10.790",
+    "end": "00:05:10.800",
+    "start_seconds": 310.79,
+    "end_seconds": 310.8,
+    "text": "single time period, Mondays have been"
+  },
+  {
+    "start": "00:05:10.800",
+    "end": "00:05:13.430",
+    "start_seconds": 310.8,
+    "end_seconds": 313.43,
+    "text": "single time period, Mondays have been the worst day of the week to invest in"
+  },
+  {
+    "start": "00:05:13.430",
+    "end": "00:05:13.440",
+    "start_seconds": 313.43,
+    "end_seconds": 313.44,
+    "text": "the worst day of the week to invest in"
+  },
+  {
+    "start": "00:05:13.440",
+    "end": "00:05:16.150",
+    "start_seconds": 313.44,
+    "end_seconds": 316.15,
+    "text": "the worst day of the week to invest in 1981 through 90 91 through No, there"
+  },
+  {
+    "start": "00:05:16.150",
+    "end": "00:05:16.160",
+    "start_seconds": 316.15,
+    "end_seconds": 316.16,
+    "text": "1981 through 90 91 through No, there"
+  },
+  {
+    "start": "00:05:16.160",
+    "end": "00:05:18.150",
+    "start_seconds": 316.16,
+    "end_seconds": 318.15,
+    "text": "1981 through 90 91 through No, there have been sub periods where that's not"
+  },
+  {
+    "start": "00:05:18.150",
+    "end": "00:05:18.160",
+    "start_seconds": 318.15,
+    "end_seconds": 318.16,
+    "text": "have been sub periods where that's not"
+  },
+  {
+    "start": "00:05:18.160",
+    "end": "00:05:20.070",
+    "start_seconds": 318.16,
+    "end_seconds": 320.07,
+    "text": "have been sub periods where that's not been true. 91 through 2000, for"
+  },
+  {
+    "start": "00:05:20.070",
+    "end": "00:05:20.080",
+    "start_seconds": 320.07,
+    "end_seconds": 320.08,
+    "text": "been true. 91 through 2000, for"
+  },
+  {
+    "start": "00:05:20.080",
+    "end": "00:05:21.909",
+    "start_seconds": 320.08,
+    "end_seconds": 321.909,
+    "text": "been true. 91 through 2000, for instance,"
+  },
+  {
+    "start": "00:05:21.909",
+    "end": "00:05:21.919",
+    "start_seconds": 321.909,
+    "end_seconds": 321.919,
+    "text": "instance,"
+  },
+  {
+    "start": "00:05:21.919",
+    "end": "00:05:24.390",
+    "start_seconds": 321.919,
+    "end_seconds": 324.39,
+    "text": "instance, Mondays were the best day of the week to"
+  },
+  {
+    "start": "00:05:24.390",
+    "end": "00:05:24.400",
+    "start_seconds": 324.39,
+    "end_seconds": 324.4,
+    "text": "Mondays were the best day of the week to"
+  },
+  {
+    "start": "00:05:24.400",
+    "end": "00:05:25.749",
+    "start_seconds": 324.4,
+    "end_seconds": 325.749,
+    "text": "Mondays were the best day of the week to invest in. I don't know what happened"
+  },
+  {
+    "start": "00:05:25.749",
+    "end": "00:05:25.759",
+    "start_seconds": 325.749,
+    "end_seconds": 325.759,
+    "text": "invest in. I don't know what happened"
+  },
+  {
+    "start": "00:05:25.759",
+    "end": "00:05:27.590",
+    "start_seconds": 325.759,
+    "end_seconds": 327.59,
+    "text": "invest in. I don't know what happened during that time period, but that was"
+  },
+  {
+    "start": "00:05:27.590",
+    "end": "00:05:27.600",
+    "start_seconds": 327.59,
+    "end_seconds": 327.6,
+    "text": "during that time period, but that was"
+  },
+  {
+    "start": "00:05:27.600",
+    "end": "00:05:30.950",
+    "start_seconds": 327.6,
+    "end_seconds": 330.95,
+    "text": "during that time period, but that was the dotcom boom. Again, 2021 through 21"
+  },
+  {
+    "start": "00:05:30.950",
+    "end": "00:05:30.960",
+    "start_seconds": 330.95,
+    "end_seconds": 330.96,
+    "text": "the dotcom boom. Again, 2021 through 21"
+  },
+  {
+    "start": "00:05:30.960",
+    "end": "00:05:32.710",
+    "start_seconds": 330.96,
+    "end_seconds": 332.71,
+    "text": "the dotcom boom. Again, 2021 through 21 again a good period for US stocks."
+  },
+  {
+    "start": "00:05:32.710",
+    "end": "00:05:32.720",
+    "start_seconds": 332.71,
+    "end_seconds": 332.72,
+    "text": "again a good period for US stocks."
+  },
+  {
+    "start": "00:05:32.720",
+    "end": "00:05:34.550",
+    "start_seconds": 332.72,
+    "end_seconds": 334.55,
+    "text": "again a good period for US stocks. Mondays have been a good day of, you"
+  },
+  {
+    "start": "00:05:34.550",
+    "end": "00:05:34.560",
+    "start_seconds": 334.55,
+    "end_seconds": 334.56,
+    "text": "Mondays have been a good day of, you"
+  },
+  {
+    "start": "00:05:34.560",
+    "end": "00:05:37.270",
+    "start_seconds": 334.56,
+    "end_seconds": 337.27,
+    "text": "Mondays have been a good day of, you know, the week to invest in. So the"
+  },
+  {
+    "start": "00:05:37.270",
+    "end": "00:05:37.280",
+    "start_seconds": 337.27,
+    "end_seconds": 337.28,
+    "text": "know, the week to invest in. So the"
+  },
+  {
+    "start": "00:05:37.280",
+    "end": "00:05:39.590",
+    "start_seconds": 337.28,
+    "end_seconds": 339.59000000000003,
+    "text": "know, the week to invest in. So the Monday effect to the extent that it's"
+  },
+  {
+    "start": "00:05:39.590",
+    "end": "00:05:39.600",
+    "start_seconds": 339.59000000000003,
+    "end_seconds": 339.6,
+    "text": "Monday effect to the extent that it's"
+  },
+  {
+    "start": "00:05:39.600",
+    "end": "00:05:41.830",
+    "start_seconds": 339.6,
+    "end_seconds": 341.83,
+    "text": "Monday effect to the extent that it's been around shows up in very long time"
+  },
+  {
+    "start": "00:05:41.830",
+    "end": "00:05:41.840",
+    "start_seconds": 341.83,
+    "end_seconds": 341.84000000000003,
+    "text": "been around shows up in very long time"
+  },
+  {
+    "start": "00:05:41.840",
+    "end": "00:05:43.270",
+    "start_seconds": 341.84000000000003,
+    "end_seconds": 343.27,
+    "text": "been around shows up in very long time periods, but there have been sub periods"
+  },
+  {
+    "start": "00:05:43.270",
+    "end": "00:05:43.280",
+    "start_seconds": 343.27,
+    "end_seconds": 343.28,
+    "text": "periods, but there have been sub periods"
+  },
+  {
+    "start": "00:05:43.280",
+    "end": "00:05:45.749",
+    "start_seconds": 343.28,
+    "end_seconds": 345.749,
+    "text": "periods, but there have been sub periods where it hasn't held up. So let's look"
+  },
+  {
+    "start": "00:05:45.749",
+    "end": "00:05:45.759",
+    "start_seconds": 345.749,
+    "end_seconds": 345.759,
+    "text": "where it hasn't held up. So let's look"
+  },
+  {
+    "start": "00:05:45.759",
+    "end": "00:05:48.390",
+    "start_seconds": 345.759,
+    "end_seconds": 348.39,
+    "text": "where it hasn't held up. So let's look at possible explanations. Again, the"
+  },
+  {
+    "start": "00:05:48.390",
+    "end": "00:05:48.400",
+    "start_seconds": 348.39,
+    "end_seconds": 348.4,
+    "text": "at possible explanations. Again, the"
+  },
+  {
+    "start": "00:05:48.400",
+    "end": "00:05:50.790",
+    "start_seconds": 348.4,
+    "end_seconds": 350.79,
+    "text": "at possible explanations. Again, the Monday effect is really not a Monday"
+  },
+  {
+    "start": "00:05:50.790",
+    "end": "00:05:50.800",
+    "start_seconds": 350.79,
+    "end_seconds": 350.8,
+    "text": "Monday effect is really not a Monday"
+  },
+  {
+    "start": "00:05:50.800",
+    "end": "00:05:52.550",
+    "start_seconds": 350.8,
+    "end_seconds": 352.55,
+    "text": "Monday effect is really not a Monday effect. It's a weekend effect. And"
+  },
+  {
+    "start": "00:05:52.550",
+    "end": "00:05:52.560",
+    "start_seconds": 352.55,
+    "end_seconds": 352.56,
+    "text": "effect. It's a weekend effect. And"
+  },
+  {
+    "start": "00:05:52.560",
+    "end": "00:05:54.070",
+    "start_seconds": 352.56,
+    "end_seconds": 354.07,
+    "text": "effect. It's a weekend effect. And here's what what what I mean by a"
+  },
+  {
+    "start": "00:05:54.070",
+    "end": "00:05:54.080",
+    "start_seconds": 354.07,
+    "end_seconds": 354.08,
+    "text": "here's what what what I mean by a"
+  },
+  {
+    "start": "00:05:54.080",
+    "end": "00:05:56.710",
+    "start_seconds": 354.08,
+    "end_seconds": 356.71,
+    "text": "here's what what what I mean by a weekend effect. That negative return you"
+  },
+  {
+    "start": "00:05:56.710",
+    "end": "00:05:56.720",
+    "start_seconds": 356.71,
+    "end_seconds": 356.72,
+    "text": "weekend effect. That negative return you"
+  },
+  {
+    "start": "00:05:56.720",
+    "end": "00:05:58.469",
+    "start_seconds": 356.72,
+    "end_seconds": 358.469,
+    "text": "weekend effect. That negative return you see on Monday isn't because of stocks"
+  },
+  {
+    "start": "00:05:58.469",
+    "end": "00:05:58.479",
+    "start_seconds": 358.469,
+    "end_seconds": 358.479,
+    "text": "see on Monday isn't because of stocks"
+  },
+  {
+    "start": "00:05:58.479",
+    "end": "00:06:00.310",
+    "start_seconds": 358.479,
+    "end_seconds": 360.31,
+    "text": "see on Monday isn't because of stocks doing badly over the course of the"
+  },
+  {
+    "start": "00:06:00.310",
+    "end": "00:06:00.320",
+    "start_seconds": 360.31,
+    "end_seconds": 360.32,
+    "text": "doing badly over the course of the"
+  },
+  {
+    "start": "00:06:00.320",
+    "end": "00:06:01.990",
+    "start_seconds": 360.32,
+    "end_seconds": 361.99,
+    "text": "doing badly over the course of the trading day on Monday. It's because they"
+  },
+  {
+    "start": "00:06:01.990",
+    "end": "00:06:02.000",
+    "start_seconds": 361.99,
+    "end_seconds": 362.0,
+    "text": "trading day on Monday. It's because they"
+  },
+  {
+    "start": "00:06:02.000",
+    "end": "00:06:05.510",
+    "start_seconds": 362.0,
+    "end_seconds": 365.51,
+    "text": "trading day on Monday. It's because they open clo on Monday. There's some argue"
+  },
+  {
+    "start": "00:06:05.510",
+    "end": "00:06:05.520",
+    "start_seconds": 365.51,
+    "end_seconds": 365.52,
+    "text": "open clo on Monday. There's some argue"
+  },
+  {
+    "start": "00:06:05.520",
+    "end": "00:06:07.430",
+    "start_seconds": 365.52,
+    "end_seconds": 367.43,
+    "text": "open clo on Monday. There's some argue that it's because bad news comes out"
+  },
+  {
+    "start": "00:06:07.430",
+    "end": "00:06:07.440",
+    "start_seconds": 367.43,
+    "end_seconds": 367.44,
+    "text": "that it's because bad news comes out"
+  },
+  {
+    "start": "00:06:07.440",
+    "end": "00:06:08.950",
+    "start_seconds": 367.44,
+    "end_seconds": 368.95,
+    "text": "that it's because bad news comes out over the weekend. And there's some"
+  },
+  {
+    "start": "00:06:08.950",
+    "end": "00:06:08.960",
+    "start_seconds": 368.95,
+    "end_seconds": 368.96,
+    "text": "over the weekend. And there's some"
+  },
+  {
+    "start": "00:06:08.960",
+    "end": "00:06:10.629",
+    "start_seconds": 368.96,
+    "end_seconds": 370.629,
+    "text": "over the weekend. And there's some evidence that companies try to manage"
+  },
+  {
+    "start": "00:06:10.629",
+    "end": "00:06:10.639",
+    "start_seconds": 370.629,
+    "end_seconds": 370.639,
+    "text": "evidence that companies try to manage"
+  },
+  {
+    "start": "00:06:10.639",
+    "end": "00:06:13.029",
+    "start_seconds": 370.639,
+    "end_seconds": 373.029,
+    "text": "evidence that companies try to manage news to come out over the weekend. But"
+  },
+  {
+    "start": "00:06:13.029",
+    "end": "00:06:13.039",
+    "start_seconds": 373.029,
+    "end_seconds": 373.039,
+    "text": "news to come out over the weekend. But"
+  },
+  {
+    "start": "00:06:13.039",
+    "end": "00:06:14.309",
+    "start_seconds": 373.039,
+    "end_seconds": 374.309,
+    "text": "news to come out over the weekend. But if that's the case, you should be able"
+  },
+  {
+    "start": "00:06:14.309",
+    "end": "00:06:14.319",
+    "start_seconds": 374.309,
+    "end_seconds": 374.319,
+    "text": "if that's the case, you should be able"
+  },
+  {
+    "start": "00:06:14.319",
+    "end": "00:06:15.749",
+    "start_seconds": 374.319,
+    "end_seconds": 375.749,
+    "text": "if that's the case, you should be able to exploit it, right? Because if you"
+  },
+  {
+    "start": "00:06:15.749",
+    "end": "00:06:15.759",
+    "start_seconds": 375.749,
+    "end_seconds": 375.759,
+    "text": "to exploit it, right? Because if you"
+  },
+  {
+    "start": "00:06:15.759",
+    "end": "00:06:17.909",
+    "start_seconds": 375.759,
+    "end_seconds": 377.909,
+    "text": "to exploit it, right? Because if you know this happens systematically, you"
+  },
+  {
+    "start": "00:06:17.909",
+    "end": "00:06:17.919",
+    "start_seconds": 377.909,
+    "end_seconds": 377.919,
+    "text": "know this happens systematically, you"
+  },
+  {
+    "start": "00:06:17.919",
+    "end": "00:06:19.590",
+    "start_seconds": 377.919,
+    "end_seconds": 379.59,
+    "text": "know this happens systematically, you should be able to sell short on Friday"
+  },
+  {
+    "start": "00:06:19.590",
+    "end": "00:06:19.600",
+    "start_seconds": 379.59,
+    "end_seconds": 379.6,
+    "text": "should be able to sell short on Friday"
+  },
+  {
+    "start": "00:06:19.600",
+    "end": "00:06:21.590",
+    "start_seconds": 379.6,
+    "end_seconds": 381.59,
+    "text": "should be able to sell short on Friday and collect your money on Monday. And"
+  },
+  {
+    "start": "00:06:21.590",
+    "end": "00:06:21.600",
+    "start_seconds": 381.59,
+    "end_seconds": 381.6,
+    "text": "and collect your money on Monday. And"
+  },
+  {
+    "start": "00:06:21.600",
+    "end": "00:06:23.189",
+    "start_seconds": 381.6,
+    "end_seconds": 383.189,
+    "text": "and collect your money on Monday. And there's no evidence that makes money for"
+  },
+  {
+    "start": "00:06:23.189",
+    "end": "00:06:23.199",
+    "start_seconds": 383.189,
+    "end_seconds": 383.199,
+    "text": "there's no evidence that makes money for"
+  },
+  {
+    "start": "00:06:23.199",
+    "end": "00:06:26.390",
+    "start_seconds": 383.199,
+    "end_seconds": 386.39,
+    "text": "there's no evidence that makes money for anybody. The weekend effect has become"
+  },
+  {
+    "start": "00:06:26.390",
+    "end": "00:06:26.400",
+    "start_seconds": 386.39,
+    "end_seconds": 386.4,
+    "text": "anybody. The weekend effect has become"
+  },
+  {
+    "start": "00:06:26.400",
+    "end": "00:06:28.950",
+    "start_seconds": 386.4,
+    "end_seconds": 388.95,
+    "text": "anybody. The weekend effect has become weaker over time. And maybe there's some"
+  },
+  {
+    "start": "00:06:28.950",
+    "end": "00:06:28.960",
+    "start_seconds": 388.95,
+    "end_seconds": 388.96,
+    "text": "weaker over time. And maybe there's some"
+  },
+  {
+    "start": "00:06:28.960",
+    "end": "00:06:30.950",
+    "start_seconds": 388.96,
+    "end_seconds": 390.95,
+    "text": "weaker over time. And maybe there's some some explanation there. Maybe the fact"
+  },
+  {
+    "start": "00:06:30.950",
+    "end": "00:06:30.960",
+    "start_seconds": 390.95,
+    "end_seconds": 390.96,
+    "text": "some explanation there. Maybe the fact"
+  },
+  {
+    "start": "00:06:30.960",
+    "end": "00:06:34.070",
+    "start_seconds": 390.96,
+    "end_seconds": 394.07,
+    "text": "some explanation there. Maybe the fact that we can now trade in most things 24"
+  },
+  {
+    "start": "00:06:34.070",
+    "end": "00:06:34.080",
+    "start_seconds": 394.07,
+    "end_seconds": 394.08,
+    "text": "that we can now trade in most things 24"
+  },
+  {
+    "start": "00:06:34.080",
+    "end": "00:06:36.710",
+    "start_seconds": 394.08,
+    "end_seconds": 396.71,
+    "text": "that we can now trade in most things 24 hours a day, 7 days a week is kind of"
+  },
+  {
+    "start": "00:06:36.710",
+    "end": "00:06:36.720",
+    "start_seconds": 396.71,
+    "end_seconds": 396.72,
+    "text": "hours a day, 7 days a week is kind of"
+  },
+  {
+    "start": "00:06:36.720",
+    "end": "00:06:39.270",
+    "start_seconds": 396.72,
+    "end_seconds": 399.27,
+    "text": "hours a day, 7 days a week is kind of taking away the weekend effect. But"
+  },
+  {
+    "start": "00:06:39.270",
+    "end": "00:06:39.280",
+    "start_seconds": 399.27,
+    "end_seconds": 399.28,
+    "text": "taking away the weekend effect. But"
+  },
+  {
+    "start": "00:06:39.280",
+    "end": "00:06:41.029",
+    "start_seconds": 399.28,
+    "end_seconds": 401.029,
+    "text": "taking away the weekend effect. But there is that weekend effect. It might"
+  },
+  {
+    "start": "00:06:41.029",
+    "end": "00:06:41.039",
+    "start_seconds": 401.029,
+    "end_seconds": 401.039,
+    "text": "there is that weekend effect. It might"
+  },
+  {
+    "start": "00:06:41.039",
+    "end": "00:06:43.430",
+    "start_seconds": 401.039,
+    "end_seconds": 403.43,
+    "text": "there is that weekend effect. It might not be again the basis for somebody"
+  },
+  {
+    "start": "00:06:43.430",
+    "end": "00:06:43.440",
+    "start_seconds": 403.43,
+    "end_seconds": 403.44,
+    "text": "not be again the basis for somebody"
+  },
+  {
+    "start": "00:06:43.440",
+    "end": "00:06:45.189",
+    "start_seconds": 403.44,
+    "end_seconds": 405.189,
+    "text": "not be again the basis for somebody trying to make money, but it might"
+  },
+  {
+    "start": "00:06:45.189",
+    "end": "00:06:45.199",
+    "start_seconds": 405.189,
+    "end_seconds": 405.199,
+    "text": "trying to make money, but it might"
+  },
+  {
+    "start": "00:06:45.199",
+    "end": "00:06:47.110",
+    "start_seconds": 405.199,
+    "end_seconds": 407.11,
+    "text": "trying to make money, but it might become the basis for you timing when you"
+  },
+  {
+    "start": "00:06:47.110",
+    "end": "00:06:47.120",
+    "start_seconds": 407.11,
+    "end_seconds": 407.12,
+    "text": "become the basis for you timing when you"
+  },
+  {
+    "start": "00:06:47.120",
+    "end": "00:06:50.230",
+    "start_seconds": 407.12,
+    "end_seconds": 410.23,
+    "text": "become the basis for you timing when you buy a stock. You might choose to buy it."
+  },
+  {
+    "start": "00:06:50.230",
+    "end": "00:06:50.240",
+    "start_seconds": 410.23,
+    "end_seconds": 410.24,
+    "text": "buy a stock. You might choose to buy it."
+  },
+  {
+    "start": "00:06:50.240",
+    "end": "00:06:51.830",
+    "start_seconds": 410.24,
+    "end_seconds": 411.83,
+    "text": "buy a stock. You might choose to buy it. If you have a stock that's undervalued"
+  },
+  {
+    "start": "00:06:51.830",
+    "end": "00:06:51.840",
+    "start_seconds": 411.83,
+    "end_seconds": 411.84000000000003,
+    "text": "If you have a stock that's undervalued"
+  },
+  {
+    "start": "00:06:51.840",
+    "end": "00:06:53.270",
+    "start_seconds": 411.84000000000003,
+    "end_seconds": 413.27,
+    "text": "If you have a stock that's undervalued that you've decided to buy and it's"
+  },
+  {
+    "start": "00:06:53.270",
+    "end": "00:06:53.280",
+    "start_seconds": 413.27,
+    "end_seconds": 413.28,
+    "text": "that you've decided to buy and it's"
+  },
+  {
+    "start": "00:06:53.280",
+    "end": "00:06:56.309",
+    "start_seconds": 413.28,
+    "end_seconds": 416.30899999999997,
+    "text": "that you've decided to buy and it's Thursday, you know, you might not buy it"
+  },
+  {
+    "start": "00:06:56.309",
+    "end": "00:06:56.319",
+    "start_seconds": 416.30899999999997,
+    "end_seconds": 416.319,
+    "text": "Thursday, you know, you might not buy it"
+  },
+  {
+    "start": "00:06:56.319",
+    "end": "00:06:57.830",
+    "start_seconds": 416.319,
+    "end_seconds": 417.83,
+    "text": "Thursday, you know, you might not buy it that Thursday or Friday. You might wait"
+  },
+  {
+    "start": "00:06:57.830",
+    "end": "00:06:57.840",
+    "start_seconds": 417.83,
+    "end_seconds": 417.84000000000003,
+    "text": "that Thursday or Friday. You might wait"
+  },
+  {
+    "start": "00:06:57.840",
+    "end": "00:06:59.510",
+    "start_seconds": 417.84000000000003,
+    "end_seconds": 419.51,
+    "text": "that Thursday or Friday. You might wait till Monday morning and buy it because"
+  },
+  {
+    "start": "00:06:59.510",
+    "end": "00:06:59.520",
+    "start_seconds": 419.51,
+    "end_seconds": 419.52,
+    "text": "till Monday morning and buy it because"
+  },
+  {
+    "start": "00:06:59.520",
+    "end": "00:07:01.270",
+    "start_seconds": 419.52,
+    "end_seconds": 421.27,
+    "text": "till Monday morning and buy it because then to the extent that there's a Monday"
+  },
+  {
+    "start": "00:07:01.270",
+    "end": "00:07:01.280",
+    "start_seconds": 421.27,
+    "end_seconds": 421.28,
+    "text": "then to the extent that there's a Monday"
+  },
+  {
+    "start": "00:07:01.280",
+    "end": "00:07:02.950",
+    "start_seconds": 421.28,
+    "end_seconds": 422.95,
+    "text": "then to the extent that there's a Monday effect, you might get it at a lower"
+  },
+  {
+    "start": "00:07:02.950",
+    "end": "00:07:02.960",
+    "start_seconds": 422.95,
+    "end_seconds": 422.96,
+    "text": "effect, you might get it at a lower"
+  },
+  {
+    "start": "00:07:02.960",
+    "end": "00:07:05.029",
+    "start_seconds": 422.96,
+    "end_seconds": 425.029,
+    "text": "effect, you might get it at a lower price. So you might incorporate it into"
+  },
+  {
+    "start": "00:07:05.029",
+    "end": "00:07:05.039",
+    "start_seconds": 425.029,
+    "end_seconds": 425.039,
+    "text": "price. So you might incorporate it into"
+  },
+  {
+    "start": "00:07:05.039",
+    "end": "00:07:08.150",
+    "start_seconds": 425.039,
+    "end_seconds": 428.15,
+    "text": "price. So you might incorporate it into some other investment philosophy. But as"
+  },
+  {
+    "start": "00:07:08.150",
+    "end": "00:07:08.160",
+    "start_seconds": 428.15,
+    "end_seconds": 428.16,
+    "text": "some other investment philosophy. But as"
+  },
+  {
+    "start": "00:07:08.160",
+    "end": "00:07:09.749",
+    "start_seconds": 428.16,
+    "end_seconds": 429.749,
+    "text": "some other investment philosophy. But as a standalone philosophy, it's probably"
+  },
+  {
+    "start": "00:07:09.749",
+    "end": "00:07:09.759",
+    "start_seconds": 429.749,
+    "end_seconds": 429.759,
+    "text": "a standalone philosophy, it's probably"
+  },
+  {
+    "start": "00:07:09.759",
+    "end": "00:07:12.070",
+    "start_seconds": 429.759,
+    "end_seconds": 432.07,
+    "text": "a standalone philosophy, it's probably not going to make you money intraday."
+  },
+  {
+    "start": "00:07:12.070",
+    "end": "00:07:12.080",
+    "start_seconds": 432.07,
+    "end_seconds": 432.08,
+    "text": "not going to make you money intraday."
+  },
+  {
+    "start": "00:07:12.080",
+    "end": "00:07:14.790",
+    "start_seconds": 432.08,
+    "end_seconds": 434.79,
+    "text": "not going to make you money intraday. Again, if you break down trading days,"
+  },
+  {
+    "start": "00:07:14.790",
+    "end": "00:07:14.800",
+    "start_seconds": 434.79,
+    "end_seconds": 434.8,
+    "text": "Again, if you break down trading days,"
+  },
+  {
+    "start": "00:07:14.800",
+    "end": "00:07:16.710",
+    "start_seconds": 434.8,
+    "end_seconds": 436.71,
+    "text": "Again, if you break down trading days, there is some evidence that returns are"
+  },
+  {
+    "start": "00:07:16.710",
+    "end": "00:07:16.720",
+    "start_seconds": 436.71,
+    "end_seconds": 436.72,
+    "text": "there is some evidence that returns are"
+  },
+  {
+    "start": "00:07:16.720",
+    "end": "00:07:18.150",
+    "start_seconds": 436.72,
+    "end_seconds": 438.15,
+    "text": "there is some evidence that returns are different by for different parts of the"
+  },
+  {
+    "start": "00:07:18.150",
+    "end": "00:07:18.160",
+    "start_seconds": 438.15,
+    "end_seconds": 438.16,
+    "text": "different by for different parts of the"
+  },
+  {
+    "start": "00:07:18.160",
+    "end": "00:07:21.830",
+    "start_seconds": 438.16,
+    "end_seconds": 441.83,
+    "text": "different by for different parts of the day. Who knows why? And to the and this"
+  },
+  {
+    "start": "00:07:21.830",
+    "end": "00:07:21.840",
+    "start_seconds": 441.83,
+    "end_seconds": 441.84,
+    "text": "day. Who knows why? And to the and this"
+  },
+  {
+    "start": "00:07:21.840",
+    "end": "00:07:23.909",
+    "start_seconds": 441.84,
+    "end_seconds": 443.909,
+    "text": "day. Who knows why? And to the and this is truly a phenomenon, but there's not"
+  },
+  {
+    "start": "00:07:23.909",
+    "end": "00:07:23.919",
+    "start_seconds": 443.909,
+    "end_seconds": 443.919,
+    "text": "is truly a phenomenon, but there's not"
+  },
+  {
+    "start": "00:07:23.919",
+    "end": "00:07:26.790",
+    "start_seconds": 443.919,
+    "end_seconds": 446.79,
+    "text": "is truly a phenomenon, but there's not much. It's purely for cocktail parties."
+  },
+  {
+    "start": "00:07:26.790",
+    "end": "00:07:26.800",
+    "start_seconds": 446.79,
+    "end_seconds": 446.8,
+    "text": "much. It's purely for cocktail parties."
+  },
+  {
+    "start": "00:07:26.800",
+    "end": "00:07:29.029",
+    "start_seconds": 446.8,
+    "end_seconds": 449.029,
+    "text": "much. It's purely for cocktail parties. You can talk about a midday soon, but"
+  },
+  {
+    "start": "00:07:29.029",
+    "end": "00:07:29.039",
+    "start_seconds": 449.029,
+    "end_seconds": 449.039,
+    "text": "You can talk about a midday soon, but"
+  },
+  {
+    "start": "00:07:29.039",
+    "end": "00:07:30.390",
+    "start_seconds": 449.039,
+    "end_seconds": 450.39,
+    "text": "You can talk about a midday soon, but it's not something you can take"
+  },
+  {
+    "start": "00:07:30.390",
+    "end": "00:07:30.400",
+    "start_seconds": 450.39,
+    "end_seconds": 450.4,
+    "text": "it's not something you can take"
+  },
+  {
+    "start": "00:07:30.400",
+    "end": "00:07:32.950",
+    "start_seconds": 450.4,
+    "end_seconds": 452.95,
+    "text": "it's not something you can take advantage of as a trader to make money."
+  },
+  {
+    "start": "00:07:32.950",
+    "end": "00:07:32.960",
+    "start_seconds": 452.95,
+    "end_seconds": 452.96,
+    "text": "advantage of as a trader to make money."
+  },
+  {
+    "start": "00:07:32.960",
+    "end": "00:07:35.029",
+    "start_seconds": 452.96,
+    "end_seconds": 455.029,
+    "text": "advantage of as a trader to make money. So across months, across days, even"
+  },
+  {
+    "start": "00:07:35.029",
+    "end": "00:07:35.039",
+    "start_seconds": 455.029,
+    "end_seconds": 455.039,
+    "text": "So across months, across days, even"
+  },
+  {
+    "start": "00:07:35.039",
+    "end": "00:07:38.150",
+    "start_seconds": 455.039,
+    "end_seconds": 458.15,
+    "text": "So across months, across days, even within days, there's a price pattern."
+  },
+  {
+    "start": "00:07:38.150",
+    "end": "00:07:38.160",
+    "start_seconds": 458.15,
+    "end_seconds": 458.15999999999997,
+    "text": "within days, there's a price pattern."
+  },
+  {
+    "start": "00:07:38.160",
+    "end": "00:07:40.390",
+    "start_seconds": 458.15999999999997,
+    "end_seconds": 460.39,
+    "text": "within days, there's a price pattern. Now, if you look at the interaction"
+  },
+  {
+    "start": "00:07:40.390",
+    "end": "00:07:40.400",
+    "start_seconds": 460.39,
+    "end_seconds": 460.4,
+    "text": "Now, if you look at the interaction"
+  },
+  {
+    "start": "00:07:40.400",
+    "end": "00:07:42.870",
+    "start_seconds": 460.4,
+    "end_seconds": 462.87,
+    "text": "Now, if you look at the interaction between price patterns and trading"
+  },
+  {
+    "start": "00:07:42.870",
+    "end": "00:07:42.880",
+    "start_seconds": 462.87,
+    "end_seconds": 462.88,
+    "text": "between price patterns and trading"
+  },
+  {
+    "start": "00:07:42.880",
+    "end": "00:07:44.550",
+    "start_seconds": 462.88,
+    "end_seconds": 464.55,
+    "text": "between price patterns and trading volume, there seems to be an"
+  },
+  {
+    "start": "00:07:44.550",
+    "end": "00:07:44.560",
+    "start_seconds": 464.55,
+    "end_seconds": 464.56,
+    "text": "volume, there seems to be an"
+  },
+  {
+    "start": "00:07:44.560",
+    "end": "00:07:46.870",
+    "start_seconds": 464.56,
+    "end_seconds": 466.87,
+    "text": "volume, there seems to be an interaction. High volume stocks, there's"
+  },
+  {
+    "start": "00:07:46.870",
+    "end": "00:07:46.880",
+    "start_seconds": 466.87,
+    "end_seconds": 466.88,
+    "text": "interaction. High volume stocks, there's"
+  },
+  {
+    "start": "00:07:46.880",
+    "end": "00:07:49.990",
+    "start_seconds": 466.88,
+    "end_seconds": 469.99,
+    "text": "interaction. High volume stocks, there's a much bigger difference in price"
+  },
+  {
+    "start": "00:07:49.990",
+    "end": "00:07:50.000",
+    "start_seconds": 469.99,
+    "end_seconds": 470.0,
+    "text": "a much bigger difference in price"
+  },
+  {
+    "start": "00:07:50.000",
+    "end": "00:07:51.670",
+    "start_seconds": 470.0,
+    "end_seconds": 471.67,
+    "text": "a much bigger difference in price momentum effect between winners and"
+  },
+  {
+    "start": "00:07:51.670",
+    "end": "00:07:51.680",
+    "start_seconds": 471.67,
+    "end_seconds": 471.68,
+    "text": "momentum effect between winners and"
+  },
+  {
+    "start": "00:07:51.680",
+    "end": "00:07:54.309",
+    "start_seconds": 471.68,
+    "end_seconds": 474.30899999999997,
+    "text": "momentum effect between winners and losers than in low volume stocks. So"
+  },
+  {
+    "start": "00:07:54.309",
+    "end": "00:07:54.319",
+    "start_seconds": 474.30899999999997,
+    "end_seconds": 474.319,
+    "text": "losers than in low volume stocks. So"
+  },
+  {
+    "start": "00:07:54.319",
+    "end": "00:07:57.670",
+    "start_seconds": 474.319,
+    "end_seconds": 477.67,
+    "text": "losers than in low volume stocks. So momentum tends to get stronger when"
+  },
+  {
+    "start": "00:07:57.670",
+    "end": "00:07:57.680",
+    "start_seconds": 477.67,
+    "end_seconds": 477.68,
+    "text": "momentum tends to get stronger when"
+  },
+  {
+    "start": "00:07:57.680",
+    "end": "00:08:00.469",
+    "start_seconds": 477.68,
+    "end_seconds": 480.469,
+    "text": "momentum tends to get stronger when volume is high than when volume is low."
+  },
+  {
+    "start": "00:08:00.469",
+    "end": "00:08:00.479",
+    "start_seconds": 480.469,
+    "end_seconds": 480.479,
+    "text": "volume is high than when volume is low."
+  },
+  {
+    "start": "00:08:00.479",
+    "end": "00:08:02.629",
+    "start_seconds": 480.479,
+    "end_seconds": 482.629,
+    "text": "volume is high than when volume is low. Something to factor in. So what's the"
+  },
+  {
+    "start": "00:08:02.629",
+    "end": "00:08:02.639",
+    "start_seconds": 482.629,
+    "end_seconds": 482.639,
+    "text": "Something to factor in. So what's the"
+  },
+  {
+    "start": "00:08:02.639",
+    "end": "00:08:04.629",
+    "start_seconds": 482.639,
+    "end_seconds": 484.629,
+    "text": "Something to factor in. So what's the bottom line? There are time patterns in"
+  },
+  {
+    "start": "00:08:04.629",
+    "end": "00:08:04.639",
+    "start_seconds": 484.629,
+    "end_seconds": 484.639,
+    "text": "bottom line? There are time patterns in"
+  },
+  {
+    "start": "00:08:04.639",
+    "end": "00:08:07.110",
+    "start_seconds": 484.639,
+    "end_seconds": 487.11,
+    "text": "bottom line? There are time patterns in stock prices, right? January's, Mondays,"
+  },
+  {
+    "start": "00:08:07.110",
+    "end": "00:08:07.120",
+    "start_seconds": 487.11,
+    "end_seconds": 487.12,
+    "text": "stock prices, right? January's, Mondays,"
+  },
+  {
+    "start": "00:08:07.120",
+    "end": "00:08:10.230",
+    "start_seconds": 487.12,
+    "end_seconds": 490.23,
+    "text": "stock prices, right? January's, Mondays, intraday, the midday soon. But making"
+  },
+  {
+    "start": "00:08:10.230",
+    "end": "00:08:10.240",
+    "start_seconds": 490.23,
+    "end_seconds": 490.24,
+    "text": "intraday, the midday soon. But making"
+  },
+  {
+    "start": "00:08:10.240",
+    "end": "00:08:12.869",
+    "start_seconds": 490.24,
+    "end_seconds": 492.869,
+    "text": "intraday, the midday soon. But making money on these time patterns, it's very"
+  },
+  {
+    "start": "00:08:12.869",
+    "end": "00:08:12.879",
+    "start_seconds": 492.869,
+    "end_seconds": 492.879,
+    "text": "money on these time patterns, it's very"
+  },
+  {
+    "start": "00:08:12.879",
+    "end": "00:08:14.629",
+    "start_seconds": 492.879,
+    "end_seconds": 494.629,
+    "text": "money on these time patterns, it's very difficult to do. I can't think of a"
+  },
+  {
+    "start": "00:08:14.629",
+    "end": "00:08:14.639",
+    "start_seconds": 494.629,
+    "end_seconds": 494.639,
+    "text": "difficult to do. I can't think of a"
+  },
+  {
+    "start": "00:08:14.639",
+    "end": "00:08:16.469",
+    "start_seconds": 494.639,
+    "end_seconds": 496.469,
+    "text": "difficult to do. I can't think of a single investor who became successful"
+  },
+  {
+    "start": "00:08:16.469",
+    "end": "00:08:16.479",
+    "start_seconds": 496.469,
+    "end_seconds": 496.479,
+    "text": "single investor who became successful"
+  },
+  {
+    "start": "00:08:16.479",
+    "end": "00:08:18.309",
+    "start_seconds": 496.479,
+    "end_seconds": 498.309,
+    "text": "single investor who became successful over time trying to take advantage of"
+  },
+  {
+    "start": "00:08:18.309",
+    "end": "00:08:18.319",
+    "start_seconds": 498.309,
+    "end_seconds": 498.319,
+    "text": "over time trying to take advantage of"
+  },
+  {
+    "start": "00:08:18.319",
+    "end": "00:08:20.550",
+    "start_seconds": 498.319,
+    "end_seconds": 500.55,
+    "text": "over time trying to take advantage of just time patterns. But you might be"
+  },
+  {
+    "start": "00:08:20.550",
+    "end": "00:08:20.560",
+    "start_seconds": 500.55,
+    "end_seconds": 500.56,
+    "text": "just time patterns. But you might be"
+  },
+  {
+    "start": "00:08:20.560",
+    "end": "00:08:22.309",
+    "start_seconds": 500.56,
+    "end_seconds": 502.309,
+    "text": "just time patterns. But you might be able to incorporate those time patterns"
+  },
+  {
+    "start": "00:08:22.309",
+    "end": "00:08:22.319",
+    "start_seconds": 502.309,
+    "end_seconds": 502.319,
+    "text": "able to incorporate those time patterns"
+  },
+  {
+    "start": "00:08:22.319",
+    "end": "00:08:23.909",
+    "start_seconds": 502.319,
+    "end_seconds": 503.909,
+    "text": "able to incorporate those time patterns as I mentioned into your investment"
+  },
+  {
+    "start": "00:08:23.909",
+    "end": "00:08:23.919",
+    "start_seconds": 503.909,
+    "end_seconds": 503.919,
+    "text": "as I mentioned into your investment"
+  },
+  {
+    "start": "00:08:23.919",
+    "end": "00:08:26.710",
+    "start_seconds": 503.919,
+    "end_seconds": 506.71,
+    "text": "as I mentioned into your investment philosophy. So you might want to buy"
+  },
+  {
+    "start": "00:08:26.710",
+    "end": "00:08:26.720",
+    "start_seconds": 506.71,
+    "end_seconds": 506.72,
+    "text": "philosophy. So you might want to buy"
+  },
+  {
+    "start": "00:08:26.720",
+    "end": "00:08:29.189",
+    "start_seconds": 506.72,
+    "end_seconds": 509.189,
+    "text": "philosophy. So you might want to buy your stocks towards the very end of"
+  },
+  {
+    "start": "00:08:29.189",
+    "end": "00:08:29.199",
+    "start_seconds": 509.189,
+    "end_seconds": 509.199,
+    "text": "your stocks towards the very end of"
+  },
+  {
+    "start": "00:08:29.199",
+    "end": "00:08:30.950",
+    "start_seconds": 509.199,
+    "end_seconds": 510.95,
+    "text": "your stocks towards the very end of December so you can take advantage of"
+  },
+  {
+    "start": "00:08:30.950",
+    "end": "00:08:30.960",
+    "start_seconds": 510.95,
+    "end_seconds": 510.96,
+    "text": "December so you can take advantage of"
+  },
+  {
+    "start": "00:08:30.960",
+    "end": "00:08:32.870",
+    "start_seconds": 510.96,
+    "end_seconds": 512.87,
+    "text": "December so you can take advantage of the January effect rather than at the"
+  },
+  {
+    "start": "00:08:32.870",
+    "end": "00:08:32.880",
+    "start_seconds": 512.87,
+    "end_seconds": 512.88,
+    "text": "the January effect rather than at the"
+  },
+  {
+    "start": "00:08:32.880",
+    "end": "00:08:35.350",
+    "start_seconds": 512.88,
+    "end_seconds": 515.35,
+    "text": "the January effect rather than at the end of January. So those are things you"
+  },
+  {
+    "start": "00:08:35.350",
+    "end": "00:08:35.360",
+    "start_seconds": 515.35,
+    "end_seconds": 515.36,
+    "text": "end of January. So those are things you"
+  },
+  {
+    "start": "00:08:35.360",
+    "end": "00:08:36.550",
+    "start_seconds": 515.36,
+    "end_seconds": 516.55,
+    "text": "end of January. So those are things you might build into a traditional"
+  },
+  {
+    "start": "00:08:36.550",
+    "end": "00:08:36.560",
+    "start_seconds": 516.55,
+    "end_seconds": 516.56,
+    "text": "might build into a traditional"
+  },
+  {
+    "start": "00:08:36.560",
+    "end": "00:08:38.790",
+    "start_seconds": 516.56,
+    "end_seconds": 518.79,
+    "text": "might build into a traditional investment philosophy as an add-on as an"
+  },
+  {
+    "start": "00:08:38.790",
+    "end": "00:08:38.800",
+    "start_seconds": 518.79,
+    "end_seconds": 518.8,
+    "text": "investment philosophy as an add-on as an"
+  },
+  {
+    "start": "00:08:38.800",
+    "end": "00:08:42.469",
+    "start_seconds": 518.8,
+    "end_seconds": 522.469,
+    "text": "investment philosophy as an add-on as an augmentation but not as a standalone."
+  },
+  {
+    "start": "00:08:42.469",
+    "end": "00:08:42.479",
+    "start_seconds": 522.469,
+    "end_seconds": 522.479,
+    "text": "augmentation but not as a standalone."
+  },
+  {
+    "start": "00:08:42.479",
+    "end": "00:08:44.389",
+    "start_seconds": 522.479,
+    "end_seconds": 524.389,
+    "text": "augmentation but not as a standalone. I hope you found the session useful and"
+  },
+  {
+    "start": "00:08:44.389",
+    "end": "00:08:44.399",
+    "start_seconds": 524.389,
+    "end_seconds": 524.399,
+    "text": "I hope you found the session useful and"
+  },
+  {
+    "start": "00:08:44.399",
+    "end": "00:08:48.320",
+    "start_seconds": 524.399,
+    "end_seconds": 528.32,
+    "text": "I hope you found the session useful and I thank you very much for listening."
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "slug": "cash-flow-consistency",
+    "name": "Cash-flow consistency",
+    "theme": "DCF Architecture And Consistency",
+    "session_indexes": [
+      23,
+      24
+    ],
+    "session_titles": [
+      "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+      "Session 3: Valuation Introduction (completed) and Cashflow Consistency"
+    ]
+  },
+  {
+    "slug": "cost-of-capital",
+    "name": "Cost of capital construction",
+    "theme": "Risk And Discount Rates",
+    "session_indexes": [
+      19
+    ],
+    "session_titles": [
+      "Session 8: Closure on Cost of Capital + First steps on cash flows"
+    ]
+  },
+  {
+    "slug": "equity-risk-premiums",
+    "name": "Equity risk premiums and country risk",
+    "theme": "Risk And Discount Rates",
+    "session_indexes": [
+      21
+    ],
+    "session_titles": [
+      "Session 6: Company Exposure to Country Risk + Implied Equity Risk Premiums"
+    ]
+  },
+  {
+    "slug": "free-cash-flow",
+    "name": "Free cash flow construction",
+    "theme": "Growth, Cash Flows, And Operating Reality",
+    "session_indexes": [
+      18
+    ],
+    "session_titles": [
+      "Session 9: Digging Deeper into Cash Flows"
+    ]
+  },
+  {
+    "slug": "growth-and-reinvestment",
+    "name": "Growth and reinvestment economics",
+    "theme": "Growth, Cash Flows, And Operating Reality",
+    "session_indexes": [
+      16,
+      17
+    ],
+    "session_titles": [
+      "Session 11: More on Growth and Terminal Value",
+      "Session 10: Estimating Growth"
+    ]
+  },
+  {
+    "slug": "intrinsic-vs-pricing",
+    "name": "Intrinsic value versus pricing",
+    "theme": "Valuation As A Discipline",
+    "session_indexes": [
+      1,
+      2,
+      3,
+      7,
+      9,
+      11,
+      12,
+      15,
+      25,
+      26,
+      27
+    ],
+    "session_titles": [
+      "Session 26: Closing Thoughts (and a discourse of the value of control)",
+      "Session 25: Acquisition Closure + Value Enhancement",
+      "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+      "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+      "Session 18: Tariff Talk and Market PE ratios",
+      "Session 16: Closure on Intrinsic Value",
+      "Session 15: Valuations across the life cycle",
+      "Session 12: Loose Ends in Valuation",
+      "Session 2: The Bermuda Triangle of Valuation",
+      "Session 1: Class themes, structure and sequence",
+      "Valuation: A Preview"
+    ]
+  },
+  {
+    "slug": "pricing-101",
+    "name": "Pricing 101 and multiples",
+    "theme": "Pricing As A Different Market Language",
+    "session_indexes": [
+      8,
+      10
+    ],
+    "session_titles": [
+      "Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups",
+      "Session 17: Pricing 101"
+    ]
+  },
+  {
+    "slug": "private-companies",
+    "name": "Private companies, liquidity, and owner risk",
+    "theme": "Special Situations And Ownership Frictions",
+    "session_indexes": [
+      6
+    ],
+    "session_titles": [
+      "Session 21: Valuing Privately owned businesses (not publicly listed)"
+    ]
+  },
+  {
+    "slug": "real-options",
+    "name": "Real options with guardrails",
+    "theme": "Optionality, Control, And Decision Rights",
+    "session_indexes": [
+      4,
+      5
+    ],
+    "session_titles": [
+      "Session 23: Patents and Natural Resources as Options",
+      "Session 22: Closure on IPOs and Introduction to Real Options"
+    ]
+  },
+  {
+    "slug": "relative-risk",
+    "name": "Relative risk and betas",
+    "theme": "Risk And Discount Rates",
+    "session_indexes": [
+      20
+    ],
+    "session_titles": [
+      "Session 7: Measuring Relative Risk - Betas and Alternatives"
+    ]
+  },
+  {
+    "slug": "riskfree-and-currency",
+    "name": "Riskfree rates, currency, and inflation",
+    "theme": "DCF Architecture And Consistency",
+    "session_indexes": [
+      22
+    ],
+    "session_titles": [
+      "Session 5: Closure on Riskfree Rates & Equity Risk Premiums"
+    ]
+  },
+  {
+    "slug": "story-to-numbers",
+    "name": "Stories translated into numbers",
+    "theme": "Valuation As A Discipline",
+    "session_indexes": [
+      13,
+      14
+    ],
+    "session_titles": [
+      "Session 14: Closure on stories and numbers and fist valuations!",
+      "Session 13: Stock-based Compensation and Stories in Valuation"
+    ]
+  }
+]

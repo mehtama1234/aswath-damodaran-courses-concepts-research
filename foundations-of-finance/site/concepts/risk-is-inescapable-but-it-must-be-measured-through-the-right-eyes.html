@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Risk Is Inescapable, But It Must Be Measured Through The Right Eyes - Foundations of Finance</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f4f1ea;
+        --panel: #fffdf8;
+        --panel-alt: #f8f4ed;
+        --ink: #1f1f1b;
+        --muted: #605b52;
+        --line: #d7d0c4;
+        --accent: #0b6b6f;
+        --accent-soft: #d8ecec;
+        --accent-2: #8e4b15;
+        --shadow: 0 16px 40px rgba(32, 26, 16, 0.08);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: var(--bg);
+        color: var(--ink);
+        line-height: 1.58;
+      }
+      a { color: inherit; }
+      .page {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 24px 0 64px;
+      }
+      .back {
+        display: inline-flex;
+        align-items: center;
+        min-height: 36px;
+        padding: 0 12px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel);
+        color: var(--muted);
+        text-decoration: none;
+        margin-bottom: 18px;
+      }
+      .hero, .card, .essay {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        box-shadow: var(--shadow);
+        border-radius: 8px;
+      }
+      .hero {
+        display: grid;
+        grid-template-columns: 1.45fr 1fr;
+        gap: 24px;
+        padding: 28px;
+      }
+      .eyebrow {
+        display: inline-block;
+        padding: 6px 10px;
+        background: var(--accent-soft);
+        color: var(--accent);
+        border-radius: 999px;
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+      h1, h2, h3 { margin: 0; font-weight: 700; }
+      h1 { margin-top: 12px; font-size: clamp(2.2rem, 4vw, 3.4rem); line-height: 1.04; }
+      h2 { font-size: 1.4rem; margin-bottom: 10px; }
+      h3 { font-size: 1.02rem; margin-bottom: 8px; }
+      p { margin: 0; color: var(--muted); }
+      .lead { color: var(--ink); font-size: 1.05rem; max-width: 70ch; }
+      nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 18px;
+      }
+      nav a {
+        display: inline-flex;
+        align-items: center;
+        min-height: 34px;
+        padding: 0 12px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel-alt);
+        color: var(--muted);
+        text-decoration: none;
+      }
+      nav a.active {
+        background: var(--accent-soft);
+        color: var(--accent);
+        border-color: rgba(11, 107, 111, 0.25);
+      }
+      .meta, .chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 14px;
+      }
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        min-height: 30px;
+        padding: 0 10px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel-alt);
+        color: var(--muted);
+        font-size: 0.84rem;
+      }
+      .hero-aside {
+        display: grid;
+        gap: 16px;
+      }
+      .aside-card {
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: linear-gradient(180deg, #fffdf8 0%, #f6f0e6 100%);
+      }
+      .section { margin-top: 24px; }
+      .section-head { margin-bottom: 14px; }
+      .grid-2, .grid-3 {
+        display: grid;
+        gap: 16px;
+      }
+      .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .card, .essay { padding: 20px; }
+      .card a, .essay a {
+        color: var(--accent);
+        font-weight: 700;
+        text-decoration: none;
+      }
+      .essay p + p { margin-top: 12px; }
+      ul {
+        margin: 10px 0 0;
+        padding-left: 18px;
+        color: var(--muted);
+      }
+      li + li { margin-top: 8px; }
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+        margin-top: 14px;
+      }
+      .stat {
+        padding: 14px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel-alt);
+      }
+      .stat .label {
+        font-size: 0.76rem;
+        text-transform: uppercase;
+        font-weight: 700;
+        color: var(--muted);
+      }
+      .stat .value {
+        margin-top: 6px;
+        font-size: 1.35rem;
+        font-weight: 700;
+        color: var(--ink);
+      }
+      .list {
+        display: grid;
+        gap: 12px;
+      }
+      .list-item {
+        padding: 14px 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel-alt);
+      }
+      .kicker {
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        font-weight: 700;
+        color: var(--accent-2);
+        margin-bottom: 6px;
+      }
+      @media (max-width: 980px) {
+        .hero, .grid-2, .grid-3 { grid-template-columns: 1fr; }
+      }
+      @media (max-width: 720px) {
+        .page { width: min(100% - 20px, 1180px); padding-top: 14px; }
+        .hero, .card, .essay { padding: 16px; }
+        .stats { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <a class="back" href="../../../site/index.html">Back to root research index</a>
+
+      <section class="hero">
+        <div>
+          <span class="eyebrow">Foundations Course Research</span>
+          <h1>Foundations of Finance</h1>
+          <p class="lead">The risk block argues that risk is not only danger to be avoided; it is the unavoidable condition for earning return, and the real challenge is to measure and price it properly.</p>
+          <div class="meta">
+            <span class="chip">Updated: August 9, 2026</span>
+            <span class="chip">13 playlist videos</span>
+            <span class="chip">11 transcript-backed sessions</span>
+            <span class="chip">31,493 words</span>
+          </div>
+          <nav><a class="" href="../index.html">Overview</a><a class="" href="../course-thesis.html">Course Thesis</a><a class="active" href="index.html">Concept Atlas</a></nav>
+        </div>
+        <div class="hero-aside">
+          <div class="aside-card">
+            <h2>What This Course Adds</h2>
+            <p>This workspace now has a reader-facing layer for Damodaran's first-principles finance course, making the introductory material usable alongside the richer investment, valuation, and corporate-finance workspaces.</p>
+          </div>
+          <div class="aside-card">
+            <h2>Coverage Note</h2>
+            <p>Theme map is built from the 11 transcript-backed sessions available on August 9, 2026. Session 3 had no subtitles available and one playlist video was private.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Risk Is Inescapable, But It Must Be Measured Through The Right Eyes</h2>
+          <p>The risk block argues that risk is not only danger to be avoided; it is the unavoidable condition for earning return, and the real challenge is to measure and price it properly.</p>
+        </div>
+
+          <article class="essay">
+            <h2>Risk Is Not Just Danger</h2>
+            <p>The course resists the simplistic version of finance where risk is merely a bad outcome. Risk is the condition that makes return possible. The real question is which risks matter, to whom they matter, and how they should be priced.</p>
+          </article>
+        
+
+          <article class="essay">
+            <h2>The Investor Lens</h2>
+            <p>Required return is not a random hurdle picked from convention. It is tied to the kind of claim an investor owns and to how exposed that investor is to uncertain outcomes.</p>
+          </article>
+        
+
+          <article class="essay">
+            <h2>Why This Theme Travels Well</h2>
+            <p>This is one of the most portable ideas in the Damodaran ecosystem. It feeds directly into investing, corporate finance, valuation, and strategy because every serious decision is ultimately a decision about which risks are being taken and what compensation those risks require.</p>
+          </article>
+        
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Subthemes</h2>
+        </div>
+        <div class="list">
+
+          <div class="list-item">
+            <div class="kicker">Subtheme</div>
+            <h3>Risk has a positive and negative side</h3>
+            <p>Great businesses are not built by avoiding all risk but by taking the right risks, which is why the course defines risk as dual rather than purely harmful.</p>
+            <ul>
+              <li>Session 4: Session 4: What is risk?</li>
+            </ul>
+          </div>
+        
+
+          <div class="list-item">
+            <div class="kicker">Subtheme</div>
+            <h3>Risk aversion is what makes finance matter</h3>
+            <p>The logic of risk premia starts from the observation that people demand compensation for uncertainty and that the required compensation varies across investors.</p>
+            <ul>
+              <li>Session 4: Session 4: What is risk?, Session 5: Session 5: Measuring Risk</li>
+            </ul>
+          </div>
+        
+
+          <div class="list-item">
+            <div class="kicker">Subtheme</div>
+            <h3>Required return depends on the claim and the holder</h3>
+            <p>As the course moves into equity valuation, the required return is tied to the risk seen by equity investors in a residual claim rather than treated as an arbitrary discount number.</p>
+            <ul>
+              <li>Session 5: Session 5: Measuring Risk, Session 8: Session 8:  Introduction to Equity Valuation</li>
+            </ul>
+          </div>
+        
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Evidence Sessions</h2>
+        </div>
+        <div class="grid-2">
+
+          <article class="card">
+            <div class="kicker">Evidence Session</div>
+            <h3>Session 4: What is risk?</h3>
+            <p>2,322 words across 821 transcript cues.</p>
+          </article>
+        
+
+          <article class="card">
+            <div class="kicker">Evidence Session</div>
+            <h3>Session 5: Measuring Risk</h3>
+            <p>3,711 words across 1,065 transcript cues.</p>
+          </article>
+        
+
+          <article class="card">
+            <div class="kicker">Evidence Session</div>
+            <h3>Session 8:  Introduction to Equity Valuation</h3>
+            <p>2,206 words across 627 transcript cues.</p>
+          </article>
+        
+        </div>
+      </section>
+
+    </main>
+  </body>
+</html>

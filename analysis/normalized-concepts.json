@@ -1,0 +1,1095 @@
+{
+  "workspace": "Aswath Damodaran Courses Concepts Research",
+  "updated_on": "2026-08-09",
+  "description": "Normalized cross-course concept registry for recurring Damodaran ideas. Each concept is a stable root-level object with course-specific variants, evidence pointers, and comparison value.",
+  "concepts": [
+    {
+      "id": "risk",
+      "name": "Risk",
+      "why_it_matters": "Risk is one of the clearest recurring Damodaran concepts across courses. It appears as a first-principles condition for return, a lived investor tradeoff, a formal corporate finance input, and a valuation building block, with the undergraduate valuation course adding a more visibly scaffolded route into discount-rate logic.",
+      "courses": [
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies - The 2026 Edition",
+          "variant_name": "Risk, Return, and Friction",
+          "treatment": "Risk is framed as danger plus opportunity, tied to investor behavior, return expectations, and the friction that turns theoretical returns into lived outcomes.",
+          "evidence_sessions": [
+            3,
+            4,
+            5,
+            7
+          ],
+          "analysis_refs": [
+            "analysis/session-briefs.md",
+            "analysis/sessions.json",
+            "analysis/discussions.json",
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/discussions.html",
+            "site/concepts/risk-return-and-friction.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "variant_name": "Risk and Hurdle Rates",
+          "treatment": "Risk becomes a structured input into hurdle rates through riskfree rates, equity risk premiums, betas, default spreads, and costs of debt and equity.",
+          "evidence_sessions": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "analysis_refs": [
+            "analysis/themes.json",
+            "analysis/subthemes.json"
+          ],
+          "site_refs": [
+            "site/themes.html"
+          ]
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "course_title": "Valuation MBA Spring 2025",
+          "variant_name": "Risk as a valuation input system",
+          "treatment": "Risk is treated as the architecture behind valuation inputs, running through riskfree rates, equity risk premiums, country risk, betas, and the discipline of matching discount rates to the cash-flow story.",
+          "evidence_sessions": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "analysis_refs": [
+            "analysis/concepts.json",
+            "analysis/evidence-map.json",
+            "analysis/discussions.json"
+          ],
+          "site_refs": [
+            "site/concepts/riskfree-rates.html",
+            "site/concepts/equity-risk-premiums.html",
+            "site/concepts/relative-risk-and-betas.html",
+            "site/concepts/cost-of-capital.html"
+          ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "variant_name": "Risk taught as the step-by-step logic of discount rates",
+          "treatment": "Risk is introduced through a pedagogically ordered build: currency and inflation first, then riskfree rates, then equity risk premiums, then betas and debt costs, so students can see how discount rates are assembled rather than merely inherited.",
+          "evidence_sessions": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "analysis_refs": [
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/concepts/riskfree-rates.html",
+            "site/concepts/equity-risk-premiums.html",
+            "site/concepts/betas-and-relative-risk.html",
+            "site/concepts/cost-of-capital.html"
+          ]
+        },
+        {
+          "slug": "foundations-of-finance",
+          "course_title": "Foundations of Finance",
+          "variant_name": "Risk as the price of uncertain claims",
+          "treatment": "Risk is introduced as the unavoidable condition behind return, then connected to required return, claim structure, and the investor-specific problem of pricing uncertainty through the right lens.",
+          "evidence_sessions": [
+            4,
+            5,
+            8
+          ],
+          "analysis_refs": [
+            "analysis/session-briefs.md",
+            "analysis/discussions.json",
+            "analysis/themes-and-subthemes.json"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/discussions.html",
+            "site/concepts/risk-is-inescapable-but-it-must-be-measured-through-the-right-eyes.html"
+          ]
+        }
+      ],
+      "cross_course_pattern": "Across the courses Damodaran uses risk to do linked jobs: explain the basic bargain behind return, show how investors live with uncertainty, show how firms price uncertainty into decisions, teach students how discount-rate machinery is assembled step by step, and build the more compressed professional valuation architecture that rests on that machinery."
+    },
+    {
+      "id": "valuation",
+      "name": "Valuation",
+      "why_it_matters": "Valuation is the integrating language across the active course set. It is where earlier assumptions about business reality, claims, time, and risk must become internally consistent, and it now appears in both undergraduate and MBA valuation forms inside the workspace.",
+      "courses": [
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies - The 2026 Edition",
+          "variant_name": "Valuation across investing styles",
+          "treatment": "Valuation is the common language that forces value, growth, timing, and passive-active claims to connect narrative and numbers back to price.",
+          "evidence_sessions": [
+            6,
+            13,
+            18,
+            34,
+            43
+          ],
+          "analysis_refs": [
+            "analysis/session-briefs.md",
+            "analysis/sessions.json",
+            "analysis/discussions.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/discussions.html",
+            "site/concepts/value-vs-growth.html",
+            "site/course-thesis.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "variant_name": "Valuation as the Final Integration",
+          "treatment": "Valuation closes the corporate finance sequence after objective function, hurdle rates, project quality, financing mix, and payout policy have been assembled.",
+          "evidence_sessions": [
+            25,
+            26
+          ],
+          "analysis_refs": [
+            "analysis/themes.json",
+            "analysis/subthemes.json"
+          ],
+          "site_refs": [
+            "site/index.html",
+            "site/themes.html"
+          ]
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "course_title": "Valuation MBA Spring 2025",
+          "variant_name": "Valuation as the core discipline",
+          "treatment": "Valuation is the subject itself: a structured discipline for moving from story, to inputs, to cash flows, to discount rates, to terminal value, and finally to judgments about pricing, optionality, and control.",
+          "evidence_sessions": [
+            24,
+            23,
+            18,
+            15,
+            11,
+            1
+          ],
+          "analysis_refs": [
+            "analysis/course-thesis.md",
+            "analysis/concepts.json",
+            "analysis/evidence-map.json"
+          ],
+          "site_refs": [
+            "site/index.html",
+            "site/course-thesis.html",
+            "site/concepts/valuation-as-translated-judgment.html",
+            "site/concepts/dcf-big-picture.html"
+          ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "variant_name": "Valuation as a sequenced and doable craft",
+          "treatment": "Valuation is taught as a buildable sequence that students can execute step by step: frame the problem, separate value from price, build rates from economic logic, translate accounting into cash flows, connect growth to reinvestment, and finish with pricing, optionality, acquisitions, and recommendation-making.",
+          "evidence_sessions": [
+            1,
+            2,
+            4,
+            14,
+            18,
+            23,
+            27
+          ],
+          "analysis_refs": [
+            "analysis/course-thesis.md",
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json"
+          ],
+          "site_refs": [
+            "site/index.html",
+            "site/course-thesis.html",
+            "site/concepts/valuation-as-sequenced-craft.html",
+            "site/concepts/valuation-as-a-doable-project.html"
+          ]
+        },
+        {
+          "slug": "foundations-of-finance",
+          "course_title": "Foundations of Finance",
+          "variant_name": "Valuation begins with claim design",
+          "treatment": "Valuation is introduced by asking what kind of claim is being priced. Bonds, equity, and options require different logic because contractual, residual, and contingent claims carry different payoff structures.",
+          "evidence_sessions": [
+            7,
+            8,
+            9
+          ],
+          "analysis_refs": [
+            "analysis/session-briefs.md",
+            "analysis/discussions.json",
+            "analysis/themes-and-subthemes.json"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/sessions.html",
+            "site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html"
+          ]
+        }
+      ],
+      "cross_course_pattern": "In foundations valuation starts by separating the logic of different claims; in the investor course it arbitrates between competing philosophies; in the corporate finance course it integrates managerial decisions; in the undergraduate valuation course it becomes a highly scaffolded craft that students can execute in sequence; and in the MBA valuation course it appears in its more compressed professional form as a continuous operating language connecting narrative, numbers, pricing, optionality, and judgment."
+    },
+    {
+      "id": "discipline",
+      "name": "Discipline",
+      "why_it_matters": "A large share of Damodaran's teaching style is about forcing disciplined thinking against seductive shortcuts, loose labels, and inconsistent assumptions, and the undergraduate valuation course adds a clearer execution-focused version of that discipline.",
+      "courses": [
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies - The 2026 Edition",
+          "variant_name": "Philosophy over tactics",
+          "treatment": "Discipline means having a coherent worldview instead of hopping across screens, charts, gurus, and tactical stories.",
+          "evidence_sessions": [
+            1,
+            2,
+            6
+          ],
+          "analysis_refs": [
+            "analysis/session-briefs.md",
+            "analysis/discussions.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/discussions.html",
+            "site/concepts/philosophy-over-tactics.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "variant_name": "Investment decision discipline",
+          "treatment": "Discipline means judging projects on incremental cash flows, return measures, side costs and benefits, real options, and post-mortems rather than accounting noise.",
+          "evidence_sessions": [
+            13,
+            14,
+            15,
+            16
+          ],
+          "analysis_refs": [
+            "analysis/themes.json",
+            "analysis/subthemes.json"
+          ],
+          "site_refs": [
+            "site/discussions.html",
+            "site/subthemes.html"
+          ]
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "course_title": "Valuation MBA Spring 2025",
+          "variant_name": "Consistency over spreadsheet theater",
+          "treatment": "Discipline means making stories submit to numbers, keeping currencies and inflation assumptions consistent, and refusing to confuse templates, comparables, or model detail with actual valuation thinking.",
+          "evidence_sessions": [
+            26,
+            23,
+            15,
+            10,
+            6,
+            1
+          ],
+          "analysis_refs": [
+            "analysis/course-thesis.md",
+            "analysis/discussions.json",
+            "analysis/concepts.json"
+          ],
+          "site_refs": [
+            "site/concepts/cash-flow-consistency.html",
+            "site/concepts/discount-rate-consistency.html",
+            "site/concepts/bermuda-triangle-of-valuation.html"
+          ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "variant_name": "Execution discipline before sophistication",
+          "treatment": "Discipline is taught as a practical student habit: pick the company, work through the sequence, keep rates and cash flows coherent, and do not hide behind delay, story inflation, or spreadsheet clutter.",
+          "evidence_sessions": [
+            1,
+            2,
+            7,
+            13,
+            14,
+            23,
+            27
+          ],
+          "analysis_refs": [
+            "analysis/course-thesis.md",
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json"
+          ],
+          "site_refs": [
+            "site/course-thesis.html",
+            "site/concepts/valuation-as-a-doable-project.html",
+            "site/concepts/valuation-as-sequenced-craft.html"
+          ]
+        },
+        {
+          "slug": "foundations-of-finance",
+          "course_title": "Foundations of Finance",
+          "variant_name": "Nominal consistency before model complexity",
+          "treatment": "Discipline appears as a first-principles habit: separate real from nominal claims, understand inflation before celebrating returns, and keep currencies and discount rates consistent before treating outputs as meaningful.",
+          "evidence_sessions": [
+            10,
+            11,
+            13
+          ],
+          "analysis_refs": [
+            "analysis/session-briefs.md",
+            "analysis/discussions.json",
+            "analysis/themes-and-subthemes.json"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/discussions.html",
+            "site/concepts/macro-forces-inflation-rates-and-currencies-shape-every-financial-decision.html"
+          ]
+        }
+      ],
+      "cross_course_pattern": "Foundations attacks undisciplined nominal thinking, the investor course attacks undisciplined belief formation, the corporate finance course attacks undisciplined capital allocation, the undergraduate valuation course attacks delay, loose sequencing, and incomplete execution, and the MBA valuation course attacks undisciplined modeling and loose narrative."
+    },
+    {
+      "id": "control",
+      "name": "Control",
+      "why_it_matters": "Control appears across both courses as a problem of agency, intervention, and overconfidence.",
+      "courses": [
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies - The 2026 Edition",
+          "variant_name": "Timing, activism, and investor agency",
+          "treatment": "Control shows up in investor attempts to intervene, time markets, or force better outcomes through superior judgment.",
+          "evidence_sessions": [
+            16,
+            21,
+            31,
+            32,
+            33,
+            34,
+            35
+          ],
+          "analysis_refs": [
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/concepts/active-vs-passive-and-the-control-fantasy.html",
+            "site/concepts/market-timing-and-the-impossible-dream.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "variant_name": "Governance, debt discipline, and decision rights",
+          "treatment": "Control shows up in governance structure, stakeholder conflict, debt as discipline, and how firms manage freedom versus constraint.",
+          "evidence_sessions": [
+            3,
+            4,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "analysis_refs": [
+            "analysis/themes.json",
+            "analysis/subthemes.json"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/subthemes.html"
+          ]
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "course_title": "Valuation MBA Spring 2025",
+          "variant_name": "Control premiums and decision power",
+          "treatment": "Control appears as a separate source of value that only matters when new owners or managers can change operating, financing, payout, or strategic decisions in ways that improve business value.",
+          "evidence_sessions": [
+            2,
+            1
+          ],
+          "analysis_refs": [
+            "analysis/concepts.json",
+            "analysis/evidence-map.json",
+            "analysis/discussions.json"
+          ],
+          "site_refs": [
+            "site/concepts/control-value.html",
+            "site/concepts/acquisition-valuation.html",
+            "site/concepts/value-enhancement.html"
+          ]
+        }
+      ],
+      "cross_course_pattern": "The investor course looks at control from the outside investor’s angle, the corporate finance course from the internal structure of the firm, and the valuation course from the explicit economics of changing decisions."
+    },
+    {
+      "id": "trust-and-institutions",
+      "name": "Trust and Institutions",
+      "why_it_matters": "Both courses repeatedly show that finance depends on trust, legitimacy, authority, and institutional design.",
+      "courses": [
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies - The 2026 Edition",
+          "variant_name": "Institutional trust, alternatives, and crypto",
+          "treatment": "Trust appears through analysts, passive investing, alternatives, collectibles, and Bitcoin as a product of distrust in centralized institutions.",
+          "evidence_sessions": [
+            24,
+            25,
+            36,
+            39,
+            40,
+            41,
+            42
+          ],
+          "analysis_refs": [
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/concepts/culture-trust-and-alternative-assets.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "variant_name": "Governance legitimacy, ESG, and payout trust",
+          "treatment": "Trust appears through governance legitimacy, stakeholder claims, ESG debates, and whether managers can be trusted to return capital sensibly.",
+          "evidence_sessions": [
+            3,
+            4,
+            5,
+            22,
+            23,
+            24
+          ],
+          "analysis_refs": [
+            "analysis/themes.json",
+            "analysis/subthemes.json"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/subthemes.html"
+          ]
+        }
+      ],
+      "cross_course_pattern": "Across both courses trust is treated as an economic force, whether the question is trusting managers, trusting institutions, or reacting to distrust itself."
+    },
+    {
+      "id": "fit-and-constraints",
+      "name": "Fit and Constraints",
+      "why_it_matters": "Damodaran repeatedly returns to the fact that frameworks must fit the real actor using them, the real asset being analyzed, and the real nominal environment in which the claim exists. The undergraduate valuation course adds a clearer audience-level version of this idea by showing students where the default public-company template stops fitting the problem.",
+      "courses": [
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies - The 2026 Edition",
+          "variant_name": "Portfolio fit and lived consistency",
+          "treatment": "The right philosophy depends on temperament, tax position, liquidity needs, operational simplicity, and the ability to stay consistent.",
+          "evidence_sessions": [
+            2,
+            7,
+            38,
+            39,
+            42,
+            43
+          ],
+          "analysis_refs": [
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/concepts/portfolio-fit-and-lived-consistency.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "variant_name": "Capital structure, payout, and project constraints",
+          "treatment": "Good corporate finance depends on business risk, financing flexibility, reinvestment needs, payout discipline, and the practical limits around project choice.",
+          "evidence_sessions": [
+            14,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "analysis_refs": [
+            "analysis/themes.json",
+            "analysis/subthemes.json"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/discussions.html"
+          ]
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "course_title": "Valuation MBA Spring 2025",
+          "variant_name": "Valuation methods must fit the asset and owner",
+          "treatment": "The right valuation approach depends on the asset, the market setting, the owner’s diversification, liquidity, stage of life cycle, and whether the business is public, private, distressed, or option-rich.",
+          "evidence_sessions": [
+            12,
+            10,
+            6,
+            5,
+            3,
+            2
+          ],
+          "analysis_refs": [
+            "analysis/concepts.json",
+            "analysis/discussions.json"
+          ],
+          "site_refs": [
+            "site/concepts/life-cycle-valuation.html",
+            "site/concepts/private-company-valuation.html",
+            "site/concepts/liquidity-and-ownership.html"
+          ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "variant_name": "The model has to fit the company, owner, and teaching problem",
+          "treatment": "The undergraduate course repeatedly shows that valuation settings differ by life cycle, market context, ownership structure, liquidity, issuance setting, and contingent claims, while also making those differences legible enough for students to apply without losing the core framework.",
+          "evidence_sessions": [
+            16,
+            17,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "analysis_refs": [
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/concepts/life-cycle-valuation.html",
+            "site/concepts/private-company-valuation.html",
+            "site/concepts/asset-based-valuation.html",
+            "site/concepts/real-options.html"
+          ]
+        },
+        {
+          "slug": "foundations-of-finance",
+          "course_title": "Foundations of Finance",
+          "variant_name": "Claims and currencies must fit the problem",
+          "treatment": "Foundations introduces fit at the level of the claim and the nominal unit: bonds, equity, and options require different valuation logic, and cross-border analysis only works when the analyst stays consistent about inflation, rates, and currency.",
+          "evidence_sessions": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            13
+          ],
+          "analysis_refs": [
+            "analysis/session-briefs.md",
+            "analysis/discussions.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/sessions.html",
+            "site/concepts/macro-forces-inflation-rates-and-currencies-shape-every-financial-decision.html"
+          ]
+        }
+      ],
+      "cross_course_pattern": "Across the courses Damodaran rejects abstract universals and insists that good frameworks are actor-sensitive, asset-sensitive, nominally consistent, and constraint-sensitive. The undergraduate valuation course makes those fit decisions especially visible by teaching where the default template stops working before the MBA course compresses the same judgment into a more professional toolkit."
+    },
+    {
+      "id": "capital-allocation",
+      "name": "Capital Allocation",
+      "why_it_matters": "Both courses are deeply concerned with where scarce capital should go, what standards should govern that choice, and how bad allocation decisions compound over time.",
+      "courses": [
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies - The 2026 Edition",
+          "variant_name": "Portfolio allocation and style choice",
+          "treatment": "Capital allocation appears at the investor level through asset allocation, style selection, timing, passive-active tradeoffs, and the choice between traditional and alternative assets.",
+          "evidence_sessions": [
+            7,
+            18,
+            31,
+            38,
+            39,
+            42,
+            43
+          ],
+          "analysis_refs": [
+            "analysis/session-briefs.md",
+            "analysis/discussions.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/discussions.html",
+            "site/concepts/portfolio-fit-and-lived-consistency.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "variant_name": "Project choice, financing mix, and payout policy",
+          "treatment": "Capital allocation sits at the center of corporate finance through investment returns, financing choices, debt mix, and decisions about whether excess cash should be retained or returned.",
+          "evidence_sessions": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "analysis_refs": [
+            "analysis/themes.json",
+            "analysis/subthemes.json"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/discussions.html",
+            "site/subthemes.html"
+          ]
+        }
+      ],
+      "cross_course_pattern": "One course studies capital allocation from the portfolio outward; the other studies it from inside the firm."
+    },
+    {
+      "id": "optionality",
+      "name": "Optionality",
+      "why_it_matters": "Damodaran repeatedly returns to the value of future flexibility, but he treats optionality differently depending on whether the decision maker is an investor looking at growth or a manager choosing projects.",
+      "courses": [
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies - The 2026 Edition",
+          "variant_name": "Growth optionality and underappreciated future assets",
+          "treatment": "Optionality appears through growth investing, where the investor is betting that the market underestimates future expansion, reinvestment quality, strategic upside, or long-duration business potential.",
+          "evidence_sessions": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "analysis_refs": [
+            "analysis/themes-and-subthemes.json",
+            "analysis/session-briefs.md",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/concepts/value-vs-growth.html",
+            "site/course-thesis.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "variant_name": "Real options and managerial flexibility",
+          "treatment": "Optionality appears through real options, where the firm values flexibility to delay, expand, abandon, or reshape an investment rather than treating every project as static.",
+          "evidence_sessions": [
+            15,
+            16
+          ],
+          "analysis_refs": [
+            "analysis/themes.json",
+            "analysis/subthemes.json"
+          ],
+          "site_refs": [
+            "site/discussions.html",
+            "site/subthemes.html"
+          ]
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "course_title": "Valuation MBA Spring 2025",
+          "variant_name": "Optionality as a valuation layer",
+          "treatment": "Optionality appears as a late-course valuation layer for patents, technology rights, natural resources, distressed equity, and other cases where waiting or exclusivity can turn uncertainty into upside.",
+          "evidence_sessions": [
+            5,
+            4,
+            3
+          ],
+          "analysis_refs": [
+            "analysis/concepts.json",
+            "analysis/evidence-map.json"
+          ],
+          "site_refs": [
+            "site/concepts/real-options.html",
+            "site/concepts/patents-as-options.html",
+            "site/concepts/distressed-equity.html"
+          ]
+        },
+        {
+          "slug": "foundations-of-finance",
+          "course_title": "Foundations of Finance",
+          "variant_name": "Options as contingent claims",
+          "treatment": "Optionality enters at the introductory level as a way of showing that some assets are valuable because they pay off only in particular states of the world, which changes valuation logic before any advanced modeling begins.",
+          "evidence_sessions": [
+            9
+          ],
+          "analysis_refs": [
+            "analysis/themes-and-subthemes.json",
+            "analysis/session-inventory.md"
+          ],
+          "site_refs": [
+            "site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html"
+          ]
+        }
+      ],
+      "cross_course_pattern": "In foundations optionality first appears as a contingent-claim idea, in the investor course it is something to recognize in a mispriced business, in the corporate finance course it is something managers may preserve or create, and in the valuation course it is formalized as a separate layer of value in select assets."
+    },
+    {
+      "id": "narrative-versus-numbers",
+      "name": "Narrative Versus Numbers",
+      "why_it_matters": "A recurring Damodaran tension is that stories matter, but they only become useful when disciplined by numbers, incentives, explicit assumptions, and the actual structure of the claim being discussed. The undergraduate valuation course adds a particularly visible teaching bridge between narrative and model inputs.",
+      "courses": [
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies - The 2026 Edition",
+          "variant_name": "Market stories, patterns, and investing narratives",
+          "treatment": "Narrative appears through technical analysis, momentum stories, growth narratives, market timing theses, and the stories investors use to justify alternative assets and crypto.",
+          "evidence_sessions": [
+            10,
+            11,
+            12,
+            18,
+            31,
+            32,
+            39,
+            40,
+            41
+          ],
+          "analysis_refs": [
+            "analysis/session-briefs.md",
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/concepts/market-efficiency-and-behavioral-edge.html",
+            "site/concepts/culture-trust-and-alternative-assets.html",
+            "site/course-thesis.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "variant_name": "Project narratives disciplined by cash flows and valuation",
+          "treatment": "Narrative appears in project defense, ESG claims, governance stories, financing choices, and valuation framing, but the course repeatedly forces those stories back into incremental cash flows, hurdle rates, and value effects.",
+          "evidence_sessions": [
+            3,
+            4,
+            13,
+            14,
+            15,
+            24,
+            25
+          ],
+          "analysis_refs": [
+            "analysis/themes.json",
+            "analysis/subthemes.json"
+          ],
+          "site_refs": [
+            "site/discussions.html",
+            "site/themes.html"
+          ]
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "course_title": "Valuation MBA Spring 2025",
+          "variant_name": "Stories translated into model inputs",
+          "treatment": "Narrative matters throughout the course, but only insofar as it can be translated into market size, revenue growth, margins, reinvestment, optionality, and the consistency of the final valuation architecture.",
+          "evidence_sessions": [
+            26,
+            14,
+            13,
+            12,
+            10,
+            1
+          ],
+          "analysis_refs": [
+            "analysis/course-thesis.md",
+            "analysis/concepts.json",
+            "analysis/discussions.json"
+          ],
+          "site_refs": [
+            "site/concepts/stories-into-inputs.html",
+            "site/concepts/valuation-as-translated-judgment.html"
+          ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "variant_name": "Storytelling introduced as an explicit valuation bridge",
+          "treatment": "The undergraduate course makes the story-to-numbers move unusually visible by reaching storytelling after the mechanics are built, then forcing narrative into assumptions about margins, growth, reinvestment, life cycle, pricing, and recommendation.",
+          "evidence_sessions": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "analysis_refs": [
+            "analysis/course-thesis.md",
+            "analysis/themes-and-subthemes.json",
+            "analysis/concepts.json"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/concepts/storytelling-into-inputs.html",
+            "site/course-thesis.html"
+          ]
+        },
+        {
+          "slug": "foundations-of-finance",
+          "course_title": "Foundations of Finance",
+          "variant_name": "Business stories reduced to cash flows and claims",
+          "treatment": "Foundations introduces the narrative-versus-numbers tension in stripped-down form: a business story only becomes financially meaningful once it is translated into assets in place versus growth assets, cash flows through time, and the type of claim being valued.",
+          "evidence_sessions": [
+            1,
+            2,
+            6,
+            7,
+            8
+          ],
+          "analysis_refs": [
+            "analysis/session-briefs.md",
+            "analysis/discussions.json",
+            "analysis/themes-and-subthemes.json"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/discussions.html",
+            "site/concepts/finance-is-a-forward-looking-language-of-business.html"
+          ]
+        }
+      ],
+      "cross_course_pattern": "In foundations the story first becomes financial through business structure, cash flows, and claim design; in the undergraduate valuation course the bridge from story to numbers is staged as an explicit teaching transition; and across the later professional courses Damodaran keeps allowing stories in only if they survive translation into a disciplined numeric framework."
+    },
+    {
+      "id": "pricing",
+      "name": "Pricing",
+      "why_it_matters": "Damodaran treats pricing as a distinct language from intrinsic valuation, and the workspace now has enough cross-course material to compare how that distinction behaves in investor, valuation, and introductory settings.",
+      "courses": [
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies - The 2026 Edition",
+          "variant_name": "Price as a market story investors must survive",
+          "treatment": "Pricing appears through market efficiency, momentum, growth stories, timing, and alternative-asset demand, where the investor is constantly dealing with what markets will pay rather than only what assets are worth.",
+          "evidence_sessions": [
+            8,
+            10,
+            18,
+            31,
+            34,
+            39,
+            40
+          ],
+          "analysis_refs": [
+            "analysis/session-briefs.md",
+            "analysis/discussions.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/concepts/value-vs-growth.html",
+            "site/concepts/market-timing-and-the-impossible-dream.html"
+          ]
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "course_title": "Valuation MBA Spring 2025",
+          "variant_name": "Pricing as a separate analytical language",
+          "treatment": "Pricing is explicitly separated from intrinsic value and then developed through multiples, peer groups, market PE ratios, asset-based pricing, and IPO process logic.",
+          "evidence_sessions": [
+            10,
+            9,
+            8,
+            7,
+            5
+          ],
+          "analysis_refs": [
+            "analysis/concepts.json",
+            "analysis/evidence-map.json",
+            "analysis/discussions.json"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/concepts/pricing-101.html",
+            "site/concepts/multiples-hide-assumptions.html",
+            "site/concepts/market-pe-ratios.html"
+          ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "variant_name": "Pricing as the post-intrinsic extension of valuation",
+          "treatment": "The undergraduate course reaches pricing after intrinsic value closure, using multiples, peer groups, market-level pricing, and asset-based approaches to show how relative pricing differs from DCF work.",
+          "evidence_sessions": [
+            18,
+            19,
+            21,
+            22
+          ],
+          "analysis_refs": [
+            "analysis/concepts.json",
+            "analysis/evidence-map.json"
+          ],
+          "site_refs": [
+            "site/themes.html",
+            "site/concepts/pricing-multiples.html",
+            "site/concepts/peer-groups-and-comparables.html",
+            "site/concepts/market-level-pricing.html"
+          ]
+        }
+      ],
+      "cross_course_pattern": "The investor course lives inside market pricing pressure, while the valuation courses explicitly separate pricing from intrinsic value and then show how to use that language without confusing it for business worth."
+    },
+    {
+      "id": "growth-and-reinvestment",
+      "name": "Growth and Reinvestment",
+      "why_it_matters": "Across courses, growth matters only when it can be financed, sustained, and converted into value rather than narrative excitement.",
+      "courses": [
+        {
+          "slug": "investment-philosophies-2026",
+          "course_title": "Investment Philosophies - The 2026 Edition",
+          "variant_name": "Growth as the bet on future assets",
+          "treatment": "Growth investing is framed as a claim that markets underprice future assets, but that claim still depends on whether expansion can survive competition, reinvestment needs, and time horizon.",
+          "evidence_sessions": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "analysis_refs": [
+            "analysis/session-briefs.md",
+            "analysis/discussions.json",
+            "analysis/concepts.json",
+            "analysis/course-thesis.md"
+          ],
+          "site_refs": [
+            "site/concepts/value-vs-growth.html",
+            "site/course-thesis.html"
+          ]
+        },
+        {
+          "slug": "corporate-finance-spring-2025",
+          "course_title": "Corporate Finance Spring 2025",
+          "variant_name": "Growth judged through investment quality",
+          "treatment": "Corporate finance treats growth as a capital allocation problem: projects create value only when returns exceed hurdle rates and reinvestment is disciplined.",
+          "evidence_sessions": [
+            13,
+            14,
+            15,
+            16,
+            25
+          ],
+          "analysis_refs": [
+            "analysis/concepts.json",
+            "analysis/discussions.json"
+          ],
+          "site_refs": [
+            "site/concepts/incremental-cash-flows.html",
+            "site/concepts/project-returns.html",
+            "site/themes.html"
+          ]
+        },
+        {
+          "slug": "valuation-mba-spring-2025",
+          "course_title": "Valuation MBA Spring 2025",
+          "variant_name": "Growth that has to pay for itself",
+          "treatment": "The valuation course ties growth to margins, sales-to-capital ratios, reinvestment burden, life-cycle logic, and terminal-value discipline.",
+          "evidence_sessions": [
+            18,
+            17,
+            16,
+            15,
+            14,
+            12
+          ],
+          "analysis_refs": [
+            "analysis/concepts.json",
+            "analysis/evidence-map.json",
+            "analysis/discussions.json"
+          ],
+          "site_refs": [
+            "site/concepts/growth-estimation.html",
+            "site/concepts/reinvestment.html",
+            "site/concepts/growth-quality.html",
+            "site/concepts/life-cycle-valuation.html"
+          ]
+        },
+        {
+          "slug": "valuation-undergraduate-spring-2025",
+          "course_title": "Valuation Undergraduate Spring 2025",
+          "variant_name": "Growth and reinvestment as the middle of the DCF",
+          "treatment": "The undergraduate course makes growth executable by linking FCFF, growth, reinvestment, terminal discipline, and first company valuations in a teachable sequence.",
+          "evidence_sessions": [
+            10,
+            11,
+            12,
+            14,
+            15,
+            16
+          ],
+          "analysis_refs": [
+            "analysis/concepts.json",
+            "analysis/evidence-map.json"
+          ],
+          "site_refs": [
+            "site/concepts/growth-and-reinvestment.html",
+            "site/concepts/terminal-value-discipline.html",
+            "site/concepts/storytelling-into-inputs.html"
+          ]
+        }
+      ],
+      "cross_course_pattern": "The investor course bets on future assets, corporate finance asks whether projects earn their keep, and the valuation courses force growth to be paid for through reinvestment, life-cycle logic, and terminal discipline."
+    }
+  ],
+  "next_registry_expansions": [
+    "Market efficiency versus corporate decision efficiency",
+    "Cash return discipline across investors and firms",
+    "Narrative durability and how stories decay under competition"
+  ]
+}

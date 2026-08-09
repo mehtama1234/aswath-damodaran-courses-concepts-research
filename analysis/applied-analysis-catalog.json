@@ -1,0 +1,296 @@
+{
+  "workspace": "Aswath Damodaran Courses Concepts Research",
+  "updated_on": "2026-08-09",
+  "description": "Root catalog for downstream sector and company analysis built on the Damodaran concept, comparison, and synthesis layers.",
+  "analyses": [
+    {
+      "id": "streaming-platforms-sector-brief",
+      "title": "Streaming Platforms Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Sector structure, consumer behavior, narrative-driven pricing, reinvestment burden, and valuation traps in streaming platforms.",
+      "analysis_source": "analysis/streaming-platforms-sector-brief.md",
+      "site_output": "site/streaming-platforms-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "streaming-platforms-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "growth-and-reinvestment",
+          "title": "Growth And Reinvestment",
+          "href": "site/concepts/growth-and-reinvestment.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html"
+      ],
+      "why_it_exists": "Shows how the root synthesis and concept layer can be turned into a real sector read instead of remaining course-only."
+    },
+    {
+      "id": "netflix-company-brief",
+      "title": "Netflix Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Business model, consumer habit, market narrative, reinvestment burden, life-cycle position, and valuation framing for Netflix.",
+      "analysis_source": "analysis/netflix-company-brief.md",
+      "site_output": "site/netflix-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "netflix-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        },
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "growth-and-reinvestment",
+          "title": "Growth And Reinvestment",
+          "href": "site/concepts/growth-and-reinvestment.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html",
+        "site/cross-course-comparison.html"
+      ],
+      "why_it_exists": "Shows how the workspace can support a practical company brief that stays tied to Damodaran-style analytical discipline."
+    },
+    {
+      "id": "enterprise-software-sector-brief",
+      "title": "Enterprise Software Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Recurring revenue narratives, retention quality, reinvestment channels, capital allocation, and valuation traps in enterprise software.",
+      "analysis_source": "analysis/enterprise-software-sector-brief.md",
+      "site_output": "site/enterprise-software-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "enterprise-software-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "growth-and-reinvestment",
+          "title": "Growth And Reinvestment",
+          "href": "site/concepts/growth-and-reinvestment.html"
+        },
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "why_it_exists": "Shows how the workspace can analyze high-multiple recurring-revenue sectors without letting category prestige replace disciplined valuation logic."
+    },
+    {
+      "id": "costco-company-brief",
+      "title": "Costco Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Membership economics, consumer trust, operational discipline, capital allocation, and valuation framing for Costco.",
+      "analysis_source": "analysis/costco-company-brief.md",
+      "site_output": "site/costco-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "costco-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        },
+        {
+          "id": "discipline",
+          "title": "Discipline",
+          "href": "site/concepts/discipline.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/normalized-concepts.html",
+        "site/sector-and-company-writeup-framework.html"
+      ],
+      "why_it_exists": "Shows how the workspace can handle a high-quality, low-drama business where trust, habit, and disciplined restraint matter as much as headline margins."
+    },
+    {
+      "id": "payments-infrastructure-sector-brief",
+      "title": "Payments Infrastructure Sector Brief",
+      "type": "sector",
+      "status": "first-pass-built",
+      "focus": "Payment-chain structure, workflow depth, trust, regulation, take-rate durability, and valuation discipline in payments infrastructure.",
+      "site_lead": "A root-level sector brief using the Damodaran framework to separate payment-growth narratives from the real economics of trust, take rates, and workflow control.",
+      "analysis_source": "analysis/payments-infrastructure-sector-brief.md",
+      "site_output": "site/payments-infrastructure-sector-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "payments-infrastructure-sector-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        },
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "why_it_exists": "Shows how the workspace can handle a regulated infrastructure sector where trust, workflow embedding, take-rate pressure, and category-level growth stories all have to be separated carefully."
+    },
+    {
+      "id": "visa-company-brief",
+      "title": "Visa Company Brief",
+      "type": "company",
+      "status": "first-pass-built",
+      "focus": "Network economics, trust, fee durability, cross-border mix, regulatory constraints, and valuation discipline for Visa.",
+      "site_lead": "A root-level company brief using the Damodaran framework to separate Visa's real network quality from the risk of over-clean market narratives.",
+      "analysis_source": "analysis/visa-company-brief.md",
+      "site_output": "site/visa-company-brief.html",
+      "evidence_registry_ref": {
+        "brief_id": "visa-company-brief",
+        "registry_path": "analysis/applied-evidence-registry.json",
+        "site_page": "site/applied-evidence.html"
+      },
+      "root_concepts": [
+        {
+          "id": "valuation",
+          "title": "Valuation",
+          "href": "site/concepts/valuation.html"
+        },
+        {
+          "id": "narrative-versus-numbers",
+          "title": "Narrative Versus Numbers",
+          "href": "site/concepts/narrative-versus-numbers.html"
+        },
+        {
+          "id": "fit-and-constraints",
+          "title": "Fit And Constraints",
+          "href": "site/concepts/fit-and-constraints.html"
+        },
+        {
+          "id": "trust-and-institutions",
+          "title": "Trust And Institutions",
+          "href": "site/concepts/trust-and-institutions.html"
+        },
+        {
+          "id": "capital-allocation",
+          "title": "Capital Allocation",
+          "href": "site/concepts/capital-allocation.html"
+        }
+      ],
+      "root_pages": [
+        "site/root-synthesis-essay.html",
+        "site/cross-course-comparison.html",
+        "site/sector-and-company-writeup-framework.html",
+        "site/normalized-concepts.html"
+      ],
+      "why_it_exists": "Shows how the workspace can handle a high-quality financial network business without confusing admired economics with completed valuation work."
+    }
+  ]
+}

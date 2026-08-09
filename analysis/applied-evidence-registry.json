@@ -1,0 +1,320 @@
+{
+  "workspace": "Aswath Damodaran Courses Concepts Research",
+  "updated_on": "2026-08-09",
+  "description": "Structured root evidence registry for downstream sector and company briefs. Each entry maps an applied brief to root concept pages, comparison pages, and named course-level source trails.",
+  "briefs": [
+    {
+      "brief_id": "streaming-platforms-sector-brief",
+      "brief_title": "Streaming Platforms Sector Brief",
+      "brief_href": "site/streaming-platforms-sector-brief.html",
+      "anchors": [
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the claim that streaming excitement has to be forced back into explicit assumptions.",
+          "source_trail": [
+            "foundations-of-finance::claim design and financial language framing",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs"
+          ]
+        },
+        {
+          "label": "Growth And Reinvestment",
+          "root_href": "site/concepts/growth-and-reinvestment.html",
+          "why_it_matters": "Supports the tension between top-line scale and the reinvestment needed to sustain it.",
+          "source_trail": [
+            "corporate-finance-spring-2025::growth as capital allocation treatment",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json growth sequencing",
+            "valuation-mba-spring-2025::growth, reinvestment, and terminal-discipline concept work"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that subscription, bundle, and ad-supported models should not share one default template.",
+          "source_trail": [
+            "investment-philosophies-2026::portfolio-fit work",
+            "foundations-of-finance::nominal-consistency work",
+            "valuation-undergraduate-spring-2025::private company, life-cycle, and special-case concept layers",
+            "valuation-mba-spring-2025::private company, life-cycle, and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Cross-Course Comparison",
+          "root_href": "site/cross-course-comparison.html",
+          "why_it_matters": "Supports the recurring discipline against seductive simplifications.",
+          "source_trail": [
+            "cross-course-comparison::discipline-against-seduction",
+            "cross-course-comparison::fit-constraints-and-consistency"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "netflix-company-brief",
+      "brief_title": "Netflix Company Brief",
+      "brief_href": "site/netflix-company-brief.html",
+      "anchors": [
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to translate the Netflix story into explicit assumptions rather than treating the story itself as value.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        },
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the focus on subscriber story, pricing power, and reinvestment surviving numeric translation.",
+          "source_trail": [
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::consumer and cultural sections"
+          ]
+        },
+        {
+          "label": "Growth And Reinvestment",
+          "root_href": "site/concepts/growth-and-reinvestment.html",
+          "why_it_matters": "Supports the question of whether subscriber growth is worth the content and product investment needed to sustain it.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project and reinvestment logic",
+            "valuation-undergraduate-spring-2025::growth, FCFF, and terminal-value layer",
+            "valuation-mba-spring-2025::growth, FCFF, and terminal-value layer"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that Netflix should not be read with a naive startup or flat mature-media template.",
+          "source_trail": [
+            "valuation-undergraduate-spring-2025::special-case and ownership-friction work",
+            "valuation-mba-spring-2025::life-cycle and private-company valuation work",
+            "cross-course-comparison::fit-constraints-and-consistency"
+          ]
+        },
+        {
+          "label": "Valuation Audience Comparison",
+          "root_href": "site/valuation-audience-comparison.html",
+          "why_it_matters": "Supports the emphasis on sequencing, translation, and judgment quality in valuation work.",
+          "source_trail": [
+            "valuation-audience-comparison::same-valuation-core-different-teaching-posture",
+            "valuation-audience-comparison::sequencing-and-scaffolding",
+            "valuation-audience-comparison::narrative-and-story-discipline"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "enterprise-software-sector-brief",
+      "brief_title": "Enterprise Software Sector Brief",
+      "brief_href": "site/enterprise-software-sector-brief.html",
+      "anchors": [
+        {
+          "label": "Growth And Reinvestment",
+          "root_href": "site/concepts/growth-and-reinvestment.html",
+          "why_it_matters": "Supports the distinction between attractive growth stories and the reinvestment burden needed to sustain them.",
+          "source_trail": [
+            "corporate-finance-spring-2025::growth and project-return framing",
+            "valuation-undergraduate-spring-2025::growth, reinvestment, and terminal-value concept work",
+            "valuation-mba-spring-2025::growth, reinvestment, and terminal-value concept work"
+          ]
+        },
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the critique of category prestige and revenue multiples as substitutes for explicit operating assumptions.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::storytelling-to-inputs work",
+            "valuation-mba-spring-2025::pricing-language and story-translation work"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the emphasis on product investment, sales efficiency, and acquisition discipline.",
+          "source_trail": [
+            "corporate-finance-spring-2025::objective function, project choice, financing mix, and payout discipline",
+            "cross-course-comparison::capital allocation from portfolio choice to project choice to reinvestment economics"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of security, compliance, uptime, and vendor credibility.",
+          "source_trail": [
+            "root-synthesis-essay::societal and cultural sections",
+            "normalized-concepts-resolved::trust-and-institutions cross-course treatment"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "costco-company-brief",
+      "brief_title": "Costco Company Brief",
+      "brief_href": "site/costco-company-brief.html",
+      "anchors": [
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the claim that customer belief in fairness and credibility can be economically material.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy and governance framing",
+            "root-synthesis-essay::trust and interpretive communities"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the emphasis on disciplined restraint, reinvestment choices, and value creation without financial theatrics.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        },
+        {
+          "label": "Discipline",
+          "root_href": "site/concepts/discipline.html",
+          "why_it_matters": "Supports the argument that execution quality and consistency can matter more than glamour or complexity.",
+          "source_trail": [
+            "foundations-of-finance::nominal consistency",
+            "corporate-finance-spring-2025::incremental-cash-flow discipline",
+            "valuation-undergraduate-spring-2025::execution-discipline framing"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that Costco should not be read with the same template as other retail models.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "valuation-undergraduate-spring-2025::life cycle, ownership context, and model fit",
+            "valuation-mba-spring-2025::life cycle, ownership context, and model fit"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "payments-infrastructure-sector-brief",
+      "brief_title": "Payments Infrastructure Sector Brief",
+      "brief_href": "site/payments-infrastructure-sector-brief.html",
+      "anchors": [
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to separate payment-growth excitement from explicit assumptions about take rates, margins, and reinvestment.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        },
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the need to test secular digital-payments stories against explicit economics.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::consumer and cultural sections"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that networks, processors, gateways, and embedded payments layers should not share one default template.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "valuation-undergraduate-spring-2025::life cycle and special-case work",
+            "valuation-mba-spring-2025::private-company, life-cycle, and special-situations work"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of regulatory legitimacy, settlement trust, fraud control, and compliance credibility.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the claim that volume growth is not enough if platform spend, customer acquisition, and expansion economics are weak.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        }
+      ]
+    },
+    {
+      "brief_id": "visa-company-brief",
+      "brief_title": "Visa Company Brief",
+      "brief_href": "site/visa-company-brief.html",
+      "anchors": [
+        {
+          "label": "Valuation",
+          "root_href": "site/concepts/valuation.html",
+          "why_it_matters": "Supports the need to turn Visa's quality and scale story into explicit assumptions about fee durability, margins, and reinvestment.",
+          "source_trail": [
+            "foundations-of-finance::claim-logic framing",
+            "corporate-finance-spring-2025::valuation-as-final-integration",
+            "valuation-undergraduate-spring-2025::valuation as sequenced craft",
+            "valuation-mba-spring-2025::valuation as translated judgment"
+          ]
+        },
+        {
+          "label": "Narrative Versus Numbers",
+          "root_href": "site/concepts/narrative-versus-numbers.html",
+          "why_it_matters": "Supports the need to test Visa's quality story against explicit economics rather than reputation alone.",
+          "source_trail": [
+            "investment-philosophies-2026::style and story discipline",
+            "valuation-undergraduate-spring-2025::analysis/concepts.json: storytelling-into-inputs",
+            "valuation-mba-spring-2025::analysis/concepts.json: stories-into-inputs",
+            "root-synthesis-essay::societal and consumer sections"
+          ]
+        },
+        {
+          "label": "Fit And Constraints",
+          "root_href": "site/concepts/fit-and-constraints.html",
+          "why_it_matters": "Supports the claim that Visa should not be read as a bank, commodity processor, or generic software company.",
+          "source_trail": [
+            "cross-course-comparison::fit-constraints-and-consistency",
+            "foundations-of-finance::claim and nominal-fit work",
+            "valuation-undergraduate-spring-2025::model-fit and special-case concept layers",
+            "valuation-mba-spring-2025::model-fit and special-case concept layers"
+          ]
+        },
+        {
+          "label": "Trust And Institutions",
+          "root_href": "site/concepts/trust-and-institutions.html",
+          "why_it_matters": "Supports the importance of network trust, regulatory legitimacy, and global acceptance.",
+          "source_trail": [
+            "investment-philosophies-2026::institutional-friction work",
+            "corporate-finance-spring-2025::legitimacy framing",
+            "root-synthesis-essay::societal and cultural sections"
+          ]
+        },
+        {
+          "label": "Capital Allocation",
+          "root_href": "site/concepts/capital-allocation.html",
+          "why_it_matters": "Supports the claim that even a strong network business must be judged on reinvestment logic and adjacency discipline.",
+          "source_trail": [
+            "corporate-finance-spring-2025::project choice, financing mix, payout, and objective-function work",
+            "normalized-concepts-resolved::capital-allocation synthesis"
+          ]
+        }
+      ]
+    }
+  ]
+}

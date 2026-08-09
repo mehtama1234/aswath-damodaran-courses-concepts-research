@@ -1,0 +1,203 @@
+{
+  "course": {
+    "slug": "investment-philosophies-2026",
+    "title": "Investment Philosophies - The 2026 Edition",
+    "instructor": "Aswath Damodaran",
+    "transcript_count": 43,
+    "total_words": 138353
+  },
+  "themes": [
+    {
+      "id": "philosophy-over-tactics",
+      "name": "Philosophy Over Tactics",
+      "summary": "The course argues that sustainable investing requires a coherent worldview about prices, behavior, and edge, not a pile of disconnected screens and tricks.",
+      "lenses": ["investor-psychology", "decision-making", "education"],
+      "evidence_sessions": [1, 2, 6, 43],
+      "subthemes": [
+        {
+          "name": "A strategy is not a philosophy",
+          "summary": "Buying low PE stocks, trading charts, or following insiders are not philosophies by themselves; they need a deeper explanation for why they should work.",
+          "evidence_sessions": [1, 2]
+        },
+        {
+          "name": "Behavior sits underneath every investing style",
+          "summary": "Every philosophy makes an implicit claim about how investors think, misreact, herd, panic, or miss information.",
+          "evidence_sessions": [2, 8, 12]
+        },
+        {
+          "name": "Valuation is the common language across styles",
+          "summary": "Even investors who disagree about what matters still need a way to connect expected cash flows, narratives, and prices.",
+          "evidence_sessions": [6, 13, 18, 34]
+        }
+      ]
+    },
+    {
+      "id": "risk-return-and-friction",
+      "name": "Risk, Return, and Friction",
+      "summary": "Risk is treated as inseparable from opportunity, but realized returns are also shaped by costs, taxes, and the actual path an investor must survive.",
+      "lenses": ["portfolio-construction", "behavior", "practical-implementation"],
+      "evidence_sessions": [3, 4, 5, 7],
+      "subthemes": [
+        {
+          "name": "Risk is danger plus opportunity",
+          "summary": "The course rejects the idea that risk is only a negative and insists that upside and downside are linked in investing.",
+          "evidence_sessions": [3]
+        },
+        {
+          "name": "Different assets hide different risks",
+          "summary": "Bond risk, equity risk, price risk, and cash-flow risk are not interchangeable, and investors often measure the wrong thing.",
+          "evidence_sessions": [3, 4, 5]
+        },
+        {
+          "name": "Implementation can destroy a good idea",
+          "summary": "High turnover, taxes, and trading friction mean that a theoretical edge may not survive real-world execution.",
+          "evidence_sessions": [7, 36, 38]
+        }
+      ]
+    },
+    {
+      "id": "market-mistakes-and-behavioral-edge",
+      "name": "Market Mistakes and Behavioral Edge",
+      "summary": "A large part of the course asks when markets are efficient, when they are slow, and when human behavior creates repeatable pricing errors.",
+      "lenses": ["behavioral-finance", "market-structure", "consumer-attention"],
+      "evidence_sessions": [8, 9, 10, 11, 23, 26],
+      "subthemes": [
+        {
+          "name": "Efficiency is not all-or-nothing",
+          "summary": "Markets can be fast in some places, slow in others, and different across asset classes, information types, and investor populations.",
+          "evidence_sessions": [8, 9, 23]
+        },
+        {
+          "name": "Patterns attract believers because they promise control",
+          "summary": "Momentum, calendar effects, and charting appeal to investors partly because they turn noisy markets into readable stories.",
+          "evidence_sessions": [10, 11, 12]
+        },
+        {
+          "name": "Information does not become price cleanly",
+          "summary": "News passes through rumors, processing delays, different interpretations, and incentive conflicts before it becomes market price.",
+          "evidence_sessions": [23, 24, 25, 26, 27]
+        }
+      ]
+    },
+    {
+      "id": "value-versus-growth-is-really-about-where-value-lives",
+      "name": "Value Versus Growth Is Really About Where Value Lives",
+      "summary": "The course reframes the classic value-growth split as a disagreement about whether the best bargains live in existing assets or future growth assets.",
+      "lenses": ["business-analysis", "narrative", "capital-allocation"],
+      "evidence_sessions": [13, 14, 15, 16, 17, 18, 20, 22],
+      "subthemes": [
+        {
+          "name": "Value investing privileges assets in place",
+          "summary": "Value investors prefer businesses whose worth can be tied more directly to what already exists and can be analyzed with less speculation.",
+          "evidence_sessions": [13, 14, 15, 16, 17]
+        },
+        {
+          "name": "Growth investing privileges underappreciated optionality",
+          "summary": "Growth investors are making a claim that the market is underestimating future expansion, reinvestment quality, or strategic upside.",
+          "evidence_sessions": [18, 19, 20, 21, 22]
+        },
+        {
+          "name": "Activism appears on both sides",
+          "summary": "Both value and growth can become interventionist when investors stop waiting for recognition and start trying to change outcomes.",
+          "evidence_sessions": [16, 21]
+        }
+      ]
+    },
+    {
+      "id": "the-industrial-problem-of-edge",
+      "name": "The Industrial Problem of Edge",
+      "summary": "Many philosophies sound attractive in isolation, but the course repeatedly asks whether they still work once many people know about them, compete for them, and commercialize them.",
+      "lenses": ["industry-structure", "competition", "institutionalization"],
+      "evidence_sessions": [9, 14, 25, 28, 29, 30, 37],
+      "subthemes": [
+        {
+          "name": "Public strategies decay when they become crowded",
+          "summary": "Simple screens, public signals, and copied rules lose power as they become easier to identify, package, and arbitrage away.",
+          "evidence_sessions": [9, 14, 25, 37]
+        },
+        {
+          "name": "True arbitrage is scarce and temporary",
+          "summary": "Pure arbitrage is rare precisely because obvious riskless profits attract capital and disappear quickly.",
+          "evidence_sessions": [28, 29]
+        },
+        {
+          "name": "Many branded edges are really speculative bets",
+          "summary": "The course warns that the language of arbitrage or skill is often used to market trades that still carry meaningful risk.",
+          "evidence_sessions": [30, 42]
+        }
+      ]
+    },
+    {
+      "id": "the-allure-of-control-versus-the-case-for-humility",
+      "name": "The Allure of Control Versus the Case for Humility",
+      "summary": "Investors are drawn to timing, stock-picking, and active repositioning because these activities offer a feeling of agency, but the course keeps returning to how hard it is to earn that confidence.",
+      "lenses": ["culture", "psychology", "portfolio-governance"],
+      "evidence_sessions": [31, 32, 33, 34, 35, 36, 37, 38],
+      "subthemes": [
+        {
+          "name": "Market timing is the ultimate control fantasy",
+          "summary": "Timing promises that investors can improve outcomes not just by choosing assets well, but by getting in and out at the right moments.",
+          "evidence_sessions": [31, 32, 33, 34, 35]
+        },
+        {
+          "name": "Being right is not enough; you must be right on schedule",
+          "summary": "Timing strategies fail because they require correct judgment, correct sequencing, and behavioral stamina at the same time.",
+          "evidence_sessions": [33, 34, 35]
+        },
+        {
+          "name": "Passive investing is a philosophy of disciplined humility",
+          "summary": "The passive case is not laziness; it is a sober response to the empirical weakness and inconsistency of active outperformance.",
+          "evidence_sessions": [36, 37, 38]
+        }
+      ]
+    },
+    {
+      "id": "investing-is-also-cultural-social-and-institutional",
+      "name": "Investing Is Also Cultural, Social, and Institutional",
+      "summary": "Several parts of the course show that assets gain traction not only from cash flows, but from identity, trust, status, ideology, and the institutions investors either rely on or reject.",
+      "lenses": ["societal", "cultural", "consumer", "institutional-trust"],
+      "evidence_sessions": [24, 25, 36, 39, 40, 41, 42],
+      "subthemes": [
+        {
+          "name": "Authority and influence shape information markets",
+          "summary": "Insiders, analysts, and portfolio managers matter not just because they may know more, but because the market assigns them social authority.",
+          "evidence_sessions": [24, 25, 36]
+        },
+        {
+          "name": "Alternative assets often sell identity as much as return",
+          "summary": "Collectibles, private assets, and certain alternatives gain appeal from exclusivity, taste, signaling, and stories of uniqueness.",
+          "evidence_sessions": [39, 40, 42]
+        },
+        {
+          "name": "Bitcoin emerges from distrust in institutions",
+          "summary": "Crypto is framed as an asset class born from skepticism toward governments, banks, and centralized verification systems.",
+          "evidence_sessions": [41]
+        }
+      ]
+    },
+    {
+      "id": "portfolio-fit-matters-more-than-universal-recipes",
+      "name": "Portfolio Fit Matters More Than Universal Recipes",
+      "summary": "The course ends by suggesting that the right philosophy depends on temperament, informational advantage, tax position, time horizon, and willingness to live with the consequences.",
+      "lenses": ["personal-fit", "portfolio-design", "decision-rights"],
+      "evidence_sessions": [2, 7, 31, 38, 39, 42, 43],
+      "subthemes": [
+        {
+          "name": "A philosophy must match the investor, not just the spreadsheet",
+          "summary": "A strategy can be analytically sound and still fail if the investor cannot hold it through drawdowns, complexity, or social pressure.",
+          "evidence_sessions": [2, 31, 43]
+        },
+        {
+          "name": "Asset choice is inseparable from implementation constraints",
+          "summary": "Taxes, liquidity, time horizon, and operational simplicity strongly influence what should actually go into a portfolio.",
+          "evidence_sessions": [7, 38, 39, 42]
+        },
+        {
+          "name": "The end goal is consistency, not style collecting",
+          "summary": "The final synthesis is not to know every philosophy, but to choose one or a few that can be practiced coherently over time.",
+          "evidence_sessions": [36, 38, 43]
+        }
+      ]
+    }
+  ]
+}

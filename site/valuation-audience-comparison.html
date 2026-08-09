@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Valuation Undergraduate vs MBA - Aswath Damodaran Courses Concepts Research</title>
+    <style>
+      :root {
+        --bg: #f4f1ea;
+        --panel: #fffdf8;
+        --panel-alt: #f8f4ed;
+        --ink: #1f1f1b;
+        --muted: #605b52;
+        --line: #d7d0c4;
+        --accent: #0b6b6f;
+        --accent-soft: #d8ecec;
+        --shadow: 0 16px 40px rgba(32, 26, 16, 0.08);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: var(--bg);
+        color: var(--ink);
+        line-height: 1.6;
+      }
+      .page { width: min(1180px, calc(100% - 24px)); margin: 0 auto; padding: 24px 0 56px; }
+      .back {
+        display: inline-flex; align-items: center; min-height: 36px; padding: 0 12px;
+        border: 1px solid var(--line); border-radius: 999px; background: var(--panel);
+        color: var(--muted); text-decoration: none; margin-bottom: 18px;
+      }
+      .hero, .axis, .closeout, .pairs {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        box-shadow: var(--shadow);
+        padding: 24px;
+      }
+      .eyebrow {
+        display: inline-block; padding: 6px 10px; border-radius: 999px;
+        background: var(--accent-soft); color: var(--accent); font-size: 12px;
+        font-weight: 700; text-transform: uppercase;
+      }
+      h1, h2, h3 { margin: 0; font-weight: 700; }
+      h1 { margin-top: 12px; font-size: clamp(2.1rem, 4vw, 3.3rem); line-height: 1.02; }
+      h2 { font-size: 1.34rem; margin-bottom: 10px; }
+      h3 { font-size: 1rem; margin-bottom: 8px; }
+      p { margin: 0; color: var(--muted); }
+      .lead { color: var(--ink); font-size: 1.05rem; max-width: 78ch; }
+      .meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+      .chip {
+        display: inline-flex; align-items: center; min-height: 30px; padding: 0 10px;
+        border: 1px solid var(--line); border-radius: 999px; background: var(--panel-alt);
+        color: var(--muted); font-size: 0.84rem;
+      }
+      .stack { display: grid; gap: 18px; margin-top: 22px; }
+      .compare {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 16px;
+        margin-top: 16px;
+      }
+      .course-card, .pair-card {
+        padding: 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel-alt);
+      }
+      .course-card a { color: var(--accent); font-weight: 700; text-decoration: none; }
+      .pair-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 16px;
+        margin-top: 16px;
+      }
+      ul { margin: 10px 0 0; padding-left: 18px; color: var(--muted); }
+      li + li { margin-top: 8px; }
+      .takeaway {
+        margin-top: 16px;
+        padding: 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #1f2625;
+      }
+      .takeaway p { color: #e5ece7; }
+      .takeaway strong { color: #ffffff; }
+      @media (max-width: 900px) {
+        .compare, .pair-grid { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+
+      <a class="back" href="index.html">Back to root index</a>
+      <section class="hero">
+        <span class="eyebrow">Valuation Audience Comparison</span>
+        <h1>Undergraduate Versus MBA Valuation</h1>
+        <p class="lead">
+          These two valuation courses teach the same deep Damodaran machinery, but
+          they do it at different audience levels. This page isolates how the
+          intellectual core stays stable while the pedagogy, compression,
+          project pressure, and framing change.
+        </p>
+        <div class="meta"><span class="chip">Audience-Level Comparison</span><span class="chip">Courses compared: 2</span><span class="chip">Valuation Undergraduate Spring 2025</span><span class="chip">Valuation MBA Spring 2025</span></div>
+      </section>
+
+      <div class="stack">
+
+        <section class="axis">
+          <h2>1. Same Valuation Core, Different Teaching Posture</h2>
+          <p>Both courses teach the same deep valuation logic: separate intrinsic value from pricing, build discount rates coherently, translate accounting into cash flows, connect growth to reinvestment, and extend the framework into special cases. The difference is not intellectual substance but teaching stance.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../valuation-undergraduate-spring-2025/site/index.html">Valuation Undergraduate Spring 2025</a></h3>
+              <p><strong>Teach valuation as a buildable sequence</strong></p>
+              <p style="margin-top:8px">The undergraduate course repeatedly decomposes valuation into steps students can follow in order, with less assumption that the audience already thinks in professional valuation language.</p>
+              <ul><li>site/course-thesis.html</li><li>analysis/themes-and-subthemes.json: valuation-is-taught-as-a-sequenced-craft-not-a-mystery</li><li>analysis/concepts.json: valuation-as-sequenced-craft</li></ul>
+            </article>
+
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/index.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>Teach valuation as translated judgment</strong></p>
+              <p style="margin-top:8px">The MBA course leans harder on valuation as a sustained interpretive discipline in which stories, numbers, consistency, and market language have to be held together consciously.</p>
+              <ul><li>site/course-thesis.html</li><li>analysis/themes-and-subthemes.json: valuation-discipline</li><li>analysis/concepts.json: valuation-as-translated-judgment</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Audience takeaway:</strong> The intellectual engine is the same, but the undergraduate course emphasizes learnability while the MBA course emphasizes judgment quality.</p>
+          </div>
+        </section>
+
+        <section class="axis">
+          <h2>2. Sequencing And Scaffolding</h2>
+          <p>The undergraduate course is more visibly scaffolded. It spends more energy making the order of operations legible before it asks students to work across edge cases, narrative, and market complexity.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../valuation-undergraduate-spring-2025/site/index.html">Valuation Undergraduate Spring 2025</a></h3>
+              <p><strong>Visible instructional sequencing</strong></p>
+              <p style="margin-top:8px">The course opens with logistics, valuation framing, the Bermuda Triangle, and the DCF big picture before building rates, cash flows, growth, storytelling, pricing, and options in a strongly ordered march.</p>
+              <ul><li>analysis/session-inventory.md: sessions 1-14</li><li>analysis/themes-and-subthemes.json: evidence_sessions 1-18</li><li>site/sessions.html</li></ul>
+            </article>
+
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/index.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>Compressed professional progression</strong></p>
+              <p style="margin-top:8px">The MBA version still sequences carefully, but it more quickly assumes students can move from framing into consistency, pricing, optionality, and control without the same level of pedagogical hand-holding.</p>
+              <ul><li>site/index.html</li><li>analysis/session-briefs.md</li><li>analysis/themes-and-subthemes.json</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Audience takeaway:</strong> The undergraduate course is better for mapping the order of valuation work; the MBA course is better for seeing the compact professional form of the same architecture.</p>
+          </div>
+        </section>
+
+        <section class="axis">
+          <h2>3. Narrative And Story Discipline</h2>
+          <p>Both courses insist that narrative must change the numbers, but the undergraduate course stages that lesson later and more explicitly as a teaching transition, whereas the MBA course treats it as a pervasive professional habit.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../valuation-undergraduate-spring-2025/site/index.html">Valuation Undergraduate Spring 2025</a></h3>
+              <p><strong>Narrative introduced as a new module</strong></p>
+              <p style="margin-top:8px">Storytelling appears after the class has already built the mechanics, which makes the transition from qualitative talk to model inputs especially visible.</p>
+              <ul><li>analysis/themes-and-subthemes.json: storytelling-is-allowed-but-it-must-change-the-numbers</li><li>analysis/concepts.json: storytelling-into-inputs</li><li>site/themes.html</li></ul>
+            </article>
+
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/index.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>Narrative embedded in valuation discipline</strong></p>
+              <p style="margin-top:8px">The MBA course treats the translation from story to inputs as central to valuation from the outset, rather than as a later pedagogical bridge.</p>
+              <ul><li>analysis/concepts.json: stories-into-inputs</li><li>analysis/concepts.json: valuation-as-translated-judgment</li><li>site/course-thesis.html</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Audience takeaway:</strong> Undergraduate valuation makes the story-to-number transition easier to see; MBA valuation makes it feel like the core habit of the whole craft.</p>
+          </div>
+        </section>
+
+        <section class="axis">
+          <h2>4. Pricing As Social Market Language</h2>
+          <p>Both courses separate intrinsic value from pricing and treat comparables as a distinct market language. The undergraduate course explains the distinction more slowly and with stronger pedagogical contrast, while the MBA course integrates pricing into a broader professional discussion of market mood, peer groups, and hidden assumptions.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../valuation-undergraduate-spring-2025/site/index.html">Valuation Undergraduate Spring 2025</a></h3>
+              <p><strong>Pricing as a distinct late-course pivot</strong></p>
+              <p style="margin-top:8px">Pricing arrives after intrinsic value is largely assembled, making the shift in language and method especially legible for learners.</p>
+              <ul><li>analysis/themes-and-subthemes.json: pricing-is-a-different-language-from-intrinsic-value</li><li>analysis/concepts.json: intrinsic-value-versus-pricing</li><li>analysis/concepts.json: peer-groups-and-comparables</li></ul>
+            </article>
+
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/index.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>Pricing as a professional complement to valuation</strong></p>
+              <p style="margin-top:8px">The MBA course highlights multiples, comparables, peer groups, and pricing analytics as part of the full valuation toolkit while keeping their limits in view.</p>
+              <ul><li>analysis/themes-and-subthemes.json: pricing-language</li><li>analysis/concepts.json: pricing-101</li><li>analysis/concepts.json: pricing-analytics</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Audience takeaway:</strong> Undergraduate valuation is stronger for understanding the contrast between value and price; MBA valuation is stronger for understanding how professionals live with both at once.</p>
+          </div>
+        </section>
+
+        <section class="axis">
+          <h2>5. Special Cases And Ownership Frictions</h2>
+          <p>Private companies, IPOs, distressed equity, options, acquisitions, and value enhancement appear in both courses, but the undergraduate sequence uses them partly as capstone demonstrations of where default models fail, while the MBA sequence treats them more directly as extensions of professional valuation judgment.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../valuation-undergraduate-spring-2025/site/index.html">Valuation Undergraduate Spring 2025</a></h3>
+              <p><strong>Special cases as stress tests on the core model</strong></p>
+              <p style="margin-top:8px">Late-course cases show students where public-company DCF habits stop working and how ownership, liquidity, issuance context, and decision rights change the answer.</p>
+              <ul><li>analysis/themes-and-subthemes.json: special-cases-show-where-default-models-stop-working</li><li>analysis/themes-and-subthemes.json: uncertainty-can-create-optionality-not-just-a-higher-discount-rate</li><li>analysis/concepts.json: private-company-valuation</li></ul>
+            </article>
+
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/index.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>Special cases as part of the full valuation perimeter</strong></p>
+              <p style="margin-top:8px">The MBA course treats private-company issues, optionality, distress, acquisitions, and control as standard parts of what serious valuation work has to cover.</p>
+              <ul><li>analysis/themes-and-subthemes.json: special-situations</li><li>analysis/themes-and-subthemes.json: optionality-control</li><li>analysis/concepts.json: control-value</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Audience takeaway:</strong> The undergraduate course shows where the model breaks; the MBA course shows what a mature valuation toolkit does next.</p>
+          </div>
+        </section>
+
+        <section class="axis">
+          <h2>6. Project Execution Versus Professional Compression</h2>
+          <p>The undergraduate course is much more explicit about deadlines, company choice, feedback, recommendation-making, and actually finishing the valuation project. The MBA course is more compressed and conceptually dense, with less need to narrate the execution scaffolding itself.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../valuation-undergraduate-spring-2025/site/index.html">Valuation Undergraduate Spring 2025</a></h3>
+              <p><strong>Valuation as a student project that must be completed</strong></p>
+              <p style="margin-top:8px">The course keeps forcing commitment, iteration, and recommendation-making so valuation becomes something students do rather than only something they hear about.</p>
+              <ul><li>analysis/themes-and-subthemes.json: the-undergraduate-course-treats-valuation-as-a-doable-project</li><li>analysis/concepts.json: valuation-as-a-doable-project</li><li>site/sessions.html</li></ul>
+            </article>
+
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/index.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>Valuation as already-internalized professional work</strong></p>
+              <p style="margin-top:8px">The MBA course still expects disciplined execution, but it spends less visible time justifying the need to start, choose, submit, and finish.</p>
+              <ul><li>site/course-thesis.html</li><li>analysis/session-briefs.md</li><li>site/sessions.html</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Audience takeaway:</strong> Undergraduate valuation is better for teaching people how to start and complete the work; MBA valuation is better for tightening the quality of judgment once the workflow is already assumed.</p>
+          </div>
+        </section>
+
+        <section class="pairs">
+          <h2>Concept Correspondences</h2>
+          <p>The overlap below shows where the two courses are clearly teaching the same idea in different pedagogical registers.</p>
+          <div class="pair-grid">
+
+          <article class="pair-card">
+            <h3>valuation discipline</h3>
+            <p><strong>Undergraduate:</strong> valuation-as-sequenced-craft</p>
+            <p><strong>MBA:</strong> valuation-as-translated-judgment</p>
+            <p style="margin-top:10px">The undergraduate course foregrounds stepwise learnability; the MBA course foregrounds judgment quality and interpretive discipline.</p>
+          </article>
+
+          <article class="pair-card">
+            <h3>story and numbers</h3>
+            <p><strong>Undergraduate:</strong> storytelling-into-inputs</p>
+            <p><strong>MBA:</strong> stories-into-inputs</p>
+            <p style="margin-top:10px">The undergraduate course stages storytelling as a teaching transition; the MBA course treats it as the operating center of valuation.</p>
+          </article>
+
+          <article class="pair-card">
+            <h3>value versus price</h3>
+            <p><strong>Undergraduate:</strong> intrinsic-value-versus-pricing</p>
+            <p><strong>MBA:</strong> intrinsic-value-vs-pricing</p>
+            <p style="margin-top:10px">The undergraduate version emphasizes conceptual separation for learners; the MBA version emphasizes living with both tools in practice.</p>
+          </article>
+
+          <article class="pair-card">
+            <h3>special-case valuation</h3>
+            <p><strong>Undergraduate:</strong> private-company-valuation</p>
+            <p><strong>MBA:</strong> private-company-valuation</p>
+            <p style="margin-top:10px">The undergraduate course uses private-company cases as a late stress test; the MBA course places them inside the normal perimeter of full valuation work.</p>
+          </article>
+
+          <article class="pair-card">
+            <h3>uncertainty and optionality</h3>
+            <p><strong>Undergraduate:</strong> real-options</p>
+            <p><strong>MBA:</strong> real-options</p>
+            <p style="margin-top:10px">The undergraduate sequence makes optionality legible through teaching examples; the MBA sequence integrates optionality more directly into advanced valuation judgment.</p>
+          </article>
+
+          </div>
+        </section>
+        <section class="closeout">
+          <h2>Big Takeaway</h2>
+          <p>The two valuation courses are not opposites. They are the same intellectual machine presented at two audience levels. The undergraduate course is better for seeing the scaffolding, sequence, and execution discipline. The MBA course is better for seeing the compressed professional form, where translation, consistency, pricing, optionality, and control are treated as one continuous valuation language.</p>
+        </section>
+      </div>
+
+    </main>
+  </body>
+</html>

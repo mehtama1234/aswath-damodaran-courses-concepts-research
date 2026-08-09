@@ -1,0 +1,2040 @@
+e
+okay folks can you hear me no
+okay so let's start with the big news of
+the week right which is what's everybody
+talking about is it a corporate finance
+story now tell me the corporate finance
+story what did deep I mean now there's
+all the technology story what has deep
+seek done that affects business revenues
+profits go
+ahead langage model which performs
+compar
+but at a
+lower let's keep the national issue up
+wake up in invid on Monday is your story
+different right because until last
+Friday the story was if you want to
+create an AI product or service what do
+you need to do invest in incredible
+expensive data centers with very
+expensive Invidia chips and have access
+to immense amounts of data right that
+was the prevailing wisdom and it pushed
+up Nvidia it pushed up companies like
+Constellation Energy you saying why
+because data centers require immense
+amounts of Power Talk of taking nuclear
+power plants out of moth balls and
+making them so these data centers
+incredibly powerhand and you have a
+whole ecosystem there are companies that
+provide gas to these power centers and I
+mean so there's a whole array what's the
+essence of disruption you look at
+something being done and everybody tells
+you this is the way it has to be done
+you say what if I could do it
+differently and cheaper and that is at
+the core of the deep seek story there's
+a lot of stuff we don't know I mean
+let's rule out the things we know are
+just PR did it cost only 6.3 million to
+develop deep sick of course not it
+probably cost hundreds of millions
+perhaps even a billion they probably use
+some Invidia chips along the way to help
+them out so it's not as if this was
+created by three people in a Hut on the
+top of the Himalayas with no access to
+anything it was clear but even if it
+cost a billion that's a lot less than
+what micros meta alone spent what 65
+billion on it but for some reason BCS
+seem to think that it's not enough to be
+impressive you got to be super
+impressive so there's this part of the
+story only 6 million it didn't cost but
+it is I think the most impressive part
+is that two years ago at the height of a
+year ago the height of ai's hyper
+everybody had bought into it right not
+just investors but all of the tech
+Titans said this is the way to do it
+somebody sitting in a room in China said
+Why That's How disruption always starts
+why in my valuation class I'm going to
+Value inia I'm going to go do a
+valuation as of Friday because I've been
+valuing in multiple times and I'm going
+to Value it on Monday could the value be
+different of course it's a corporate
+finance story that's going to roll
+through the next 15 weeks and Beyond and
+for some of you pick a company in that
+space and I'm going to talk about your
+project it is going to be very much part
+of what you will have to deal with when
+you talk about thinking about the right
+Corporate Finance actions for your
+company I told you everything is
+Corporate Finance
+so today here's what I'd like to do I'd
+like to start by kind of mopping up the
+parts of the syllabus I didn't get to
+especially that unpleasant part where
+you actually have to get a
+grade I could lie and say it's all about
+the
+learning I'd like to think that but
+let's face it you want a grade you want
+that grade to be a decent grade so I'll
+lay the
+foundations but if you remember last
+class I described this class as a big
+picture class but I also said it was a
+applied class saying what does that mean
+I want you to be able when you come out
+of this class to be actually do things
+with the corporate finance tool not just
+talk about them not just hire McKenzie
+to do them but do them
+yourself so everything in this class I'm
+going to apply in real
+companies often in real time I've never
+used to case study in 40 Years of
+teaching and I think it's I don't want
+to pass aspersions on other people using
+case studies but I think it's a little
+in my class when you've got 48,000 live
+case studies out there to go talk about
+a company and something that happened to
+it in
+1988 written by a Harvard Business
+School Professor who knows the ending to
+the story and acts like he or she
+doesn't know it so they can look really
+good in class because they could lead
+the discussion to obviously Time Warner
+should not b a really you need a case
+study to show me
+this the prom live case
+studies is there're out of your
+control and I think that's exciting that
+you create a case study and you don't
+know what the next thing is it's like
+going to a
+movie not one of those romcoms so you
+know what the ending is right in ver
+three minutes you know the first one a
+movie where you don't know what's coming
+so everything in this class I'm going to
+apply on real companies because the
+class has to have a structure I'm going
+to set them back in 2013 but I'm going
+to talk about these companies today
+first company I'm going to use in this
+class and I'm going to use it remember
+the investment decision the financing
+decision the Dividend
+Decision is Disney why did I pick Disney
+because everybody kind of knows what
+Disney does right if I picked Alcoa
+you'd be struggling for the next 15
+years tell me again what Alcoa
+does or Cisco what does Cisco do Disney
+you kind of know right everybody's seen
+Mickey Mouse and the theme parks and the
+movies and the Avenger movies
+Visa it's a large US entertainment
+company and everything I do in this
+class I'm going to apply on Disney so
+I'm going to come up with a hurdle rate
+come up with an investment for Disney
+that I'm going to make up a Disney theme
+park how would you assess it what's the
+right financing mix for Disney how much
+should Disney pay in
+dividends and tie it all up with how
+does this play out in Disney's
+Val the second company I'm going to use
+is a company called Val anybody know
+what Val does
+it's an iror Mining Company in
+Brazil it's the largest iron or Mining
+Company you saying why did you pick V to
+be as different from Disney as I could
+get right old economy new economy
+Emerging Market develop market and to
+put a you know icing on the cake here V
+used to be a government-owned company
+that's now a publicly traded company but
+the Brazilian government maintains
+what's called a golden share or the
+equalent of veto power over big
+decisions I want to talk about how
+Corporate Finance decisions within V are
+going to be affected by all of those
+parameters the third company I'm going
+to use is a company called TARTA
+Motors what does tart motors do
+obviously it makes
+cars what kind of cars it used to be
+Mass Market
+automobiles it's been around India for a
+long time until in 2009 mtiv did a
+facelift a change which is it acquired
+anybody know who it acquired Jaguar
+landro a global luxury auto company but
+the biggest story it's part of a family
+group which is not uncommon in Asia and
+Latin America many companies are parts
+of family groups you're saying so
+what in corporate finance we look at
+investment financing and dividend
+decisions as if the managers of the
+company care just about the company but
+if you're a company that's part of a
+family group there's somebody above you
+in fact with Tata the Tata group this is
+actually very physical they're in one
+building in Mumbai called Mumbai house
+and each floor is top Executives of each
+company and the very top floor used to
+sit right and tied up the family
+patriarch do you think anything happens
+anything big happens in the lower floors
+without it at least being passed by the
+top floor if you do you're being
+incredibly naive and here's what it
+creates it creates decisions that
+companies can make that sometimes are
+not in the best interest of the company
+why are they doing it but actually work
+in the best interest of the group so I
+want to talk about that conflict what
+happens when companies have a part of a
+family group and they have to think
+about what's good for the group as
+opposed theany the fourth company I'm
+going to use is
+B have any of you used
+BYU come on if you're from China you
+have to have used B but Buu is a search
+engine he's saying why haven't I heard
+of it for a good reason it's not a very
+good search
+engine but it dominates in China I still
+remember my first trip to China I was
+fly the long flight to Shanghai I'm
+working on a blog
+post I have Google Blog I'm very
+oldfashioned so it's not been updated
+since it's a very old fashion so I land
+in Shanghai I open up my Google Blog and
+it's not there so what the heck happened
+I type in google.com and I don't comes
+up I so the $2 billion company disappear
+while I was in the air it turns out that
+the Google search box is not technically
+accessible you can get through it by
+going through a VPN or double VPN which
+I have no patience for Buu is a Chinese
+search engine it's a technology company
+it's a very successful Chinese
+technology company because there a lot
+of Chinese it's a big Market
+why did I pick B because I wanted to
+pick a Chinese company and I wanted to
+pick a technology company this allowed
+me to do both I was running out of time
+for more companies so got both of the
+fifth company I'm going to use is doche
+why first because I like horror
+stories and doche Bank reminds me of
+that teenager in every Horror Story the
+one I'm talking about you come to a
+empty house it's dark
+and the teenager opens the front door
+and goes in he's saying what are you
+doing and she keeps going and it's
+usually a she it's very
+sexist and they get to the entry to the
+basement there's a basement door and you
+can hear the sound of a chainsaw coming
+from the basement come on you walk into
+a dark house there's a chainsaw sound
+coming from the basement what's any
+rational person going to do you're going
+to run out of that house as quickly as
+you can but that's not what this
+teenager does she opens the door she
+walks down to the basement and the rest
+as they say is blood gore in
+history doche Bank does that every
+single year right the basement is
+another Christ says this time I've
+learned my lesson I'll never go into the
+basement again next year they repeat the
+process so it's good to take a horror
+story and say how did they get to be a
+horror
+story but along the way I also want to
+talk about how is corporate different if
+you're a regulated company
+banks have the most regulations on what
+they can or cannot do for inst we talked
+about debt to equity and whe what you
+with the bank that financing mix
+question might be out of your hands
+Regulators decide how much you can
+use and the final company I'm going to
+use is a not even a company it's a
+bookstore in New York that I've changed
+the name on called bookc privately owned
+small
+bookstore why did I pick it because I
+want to take every corporate decision if
+you're the owner of a small business a
+plumbing
+business an
+electrician how do you navigate those
+big
+questions so as we go through this class
+you're going to see me come back to
+these companies and by the 15th week
+you're going to be as familiar with
+these companies as I am because they're
+going to be the standards as we go
+through as we go through this process
+the question of course going to be
+thinking about is what will the grade
+look like I'll give away the game this
+is a finance class we're all covered by
+pretty much the same distribution it's
+supposed to apply to all the other
+departments but don't control them so
+maybe you get 90% A's in the strategy
+class that's not going to happen here
+it's 30 35% A's about 50 55% B's and
+there will be C's and D's for some
+reason people think that those letters
+of the alphabet have disappeared from
+the grading system they're still there
+but you really have to try to get
+them how am I going to decide well I
+have subjectively if
+you get it and I'll decide you've got it
+it's a or a minus you almost get it know
+it's a b if you you're trying to get it
+it's not catching if you don't even know
+what it is and then clearly the D's and
+the fs are what are we talking about for
+15 weeks hopefully you will not end up
+in that last slice I don't like to put
+people there because then I've got to
+deal with the number of people who end
+up in that space so I'm going to try as
+hard as I can to keep you on the right
+side of this divide but here's what your
+grade is going to be based on there will
+be a case and I have to change the due
+date on this because for some reason our
+spring break is a week later than it was
+and that happens to be spring break week
+I'm not a sadistic enough to say your
+project is Du in the middle of spring
+break so I will change the date probably
+to the next week what is the case going
+to be I don't know I I haven't written
+it
+yet I concoct a case maybe deep seek
+will be a good thing to build the case
+around but leave that to me so somewhere
+in about two or three weeks you will get
+a case you'll work on it as a group
+you're saying what group start thinking
+about forming a group of people I won't
+put you in a group right so you
+basically you're saying what if I can't
+find a group
+until last year I used to create an
+orphan
+list where you could put your name on
+and you could get adopted but then
+somebody last year told me that this was
+very inconsiderate and that was hurting
+their
+feelings so I called it I will call it
+something else let's call it Corporate
+Finance
+limbo isn't that the place in in the
+Catholic really where you end up in this
+middle space you're not sure where you
+are well right is it limbo limbo might
+be the dance but you know whatever it is
+we'll call it something so you can go
+put your names in there and you will get
+either adopted or better still you can
+get other people just like you and
+create a list of people in
+limbo but you have to find a group the
+case will be and you write a case report
+obvious State the OB be one report for
+the whole group and there'll be one
+grade for the whole group that's
+somewhere in the middle of the semeer
+the other project is a project where
+you're going to pick a company so I want
+you to start thinking about a company
+and you're going to work on that company
+through the class as a group each of you
+in the group has to pick a company I
+would like that company to have a common
+theme partly to so that you don't have
+to start so let's take a theme you could
+take semiconductors what's going to be
+in that group you could have Invidia and
+that group you could all you know take
+Intel the two ends of the life cycle
+you're right one is of course this
+company that could do no har no nothing
+wrong until last Friday and the other
+company that seems to be able to do
+nothing right right now it's good to
+have Divergence that's what you're
+looking for you might throw companies
+that feed into the semiconductor space
+they don't all have to be but what
+you're looking for are companies that
+are
+different so you're doing
+retail you might pick Amazon but pick
+marcard Libra which is a latinum
+American online retail company pick
+Walmart a traditional physical retail
+company a Target if you want to or a
+small retailer if you want to Niche
+retailer but you're looking for
+something in common but each of you will
+work on your company saying what's the
+group structure going to do I wanted to
+talk about what you find about your
+company that's different from what other
+people find then ask
+why so if you find that your company
+takes on a lot of debt and another
+company supposedly space same space
+you're a hospit your your group is
+hospitality and for of you picked hotels
+and the fifth picked Trav velocity and
+the
+sixth picked
+Airbnb I can almost guarantee you before
+you start that airbnb's Corporate
+Finance decisions are going to be very
+different than Marriott's decisions and
+the class is not just about chronicling
+numbers in fact I have a spreadsheet
+right now they'll do all the numbers for
+you you don't need an AI I could
+actually make it an AI this is about you
+reading the numbers and creating
+narrative so if you haven't thought
+about it already start thinking about a
+group obviously got to get the group on
+I Define theme very broadly I mean last
+last semester people one group picked
+Vice they did gambling
+tobacco cannabis they picked a can
+Canadian cannabis dog they had a lot of
+fun a casino in there I mean basically
+you can
+you can Define your theme and pick a
+theme that you're interested in don't
+ask what will be easy ask yourself what
+would be interesting hey because I
+guarantee no matter what company you
+pick the one there are two thing two
+types of companies I'd like you to avoid
+one
+is money losing companies Young Money
+losing companies and I'll tell you why
+Corporate Finance becomes far too simple
+and here's what if you're a young money
+losing company how much money can you
+borrow don't think too
+long if you're in a hold stop digging
+right you can't how much can you pay out
+in
+dividends so you're going to be after
+you get through the investment section
+you're saying what do I do next my
+optimal debt ratio is zero and I can't
+pay dividends and you're going to come
+and complain to me and say I told you
+not to pick a money losing
+company so pick a money-making company
+and avoid Banks unless you really want
+to spend your life following Banks why
+because banks are regulated you have to
+understand you know what the difference
+is between tier one capital and tier 2
+capital and if you don't want to spend
+your life learning that minutia because
+it's not interesting to you it's not the
+place you want to be so if you're a
+group and you really want to do banks or
+insurance companies because you're all
+kind of strange Financial Service
+Company people come and talk to me i' be
+willing to help but in
+stay away from
+it there will be three quizzes for this
+class the dates are
+specified there will be unfortunately
+given the size of this class I have zero
+flexibility in terms of moving the quiz
+I can't give it earlier I can't give it
+later why because the quiz will leak
+right I have to write a fresh quiz and I
+am lazy and it creates all kinds of
+logistical challenges but I do
+understand that life gets in the way
+that you might not be able to make a qu
+why because you have an interview I
+understand you came for an NBA to get a
+job and I understand that has to take
+and if you do miss a
+quiz you don't lose the 10% it gets
+moved towards left in the class so if
+you miss the first quiz which is a 10%
+quiz your second and third quiz will be
+worth 12% a piece your final will be
+worth
+36% if you miss the second
+quiz then your third quiz will get
+bumped up to 15 the so basically it'll
+always go forward why because otherwise
+you'll get strategic quiz missing right
+you know what I mean by that you do
+really well in the first two quizzes you
+miss the third quiz because it actually
+weights your first two quizzes more I've
+been teaching 40 years no game I don't
+want you to game the system so basically
+but you will not the one advantage of
+taking all three quizzes now got to
+throw a little sweetener in there
+otherwise saying why don't I just miss
+one of the three is in addition to
+learning all the material as it happens
+because that's what you have to do for
+the quizzes I will take your worst quiz
+and replace the score in your worst quiz
+with the scores on your on your other
+two quizzes so let's take an extreme
+example you get a 10 on quiz one you get
+a zero on quiz do why bad things happen
+to you that then third quiz you back to
+10 I will take the zero and replace with
+the 10 right actually it'll be the
+average across the two quizzes and the
+final exam but you get the picture right
+basically I will take your worst quiz
+and and give you the quiz on the average
+grade on the rest of your
+exams there is a final exam date I as I
+said I'll put it up uh you know it's I
+think the week after but we'll have to
+you know I we'll talk about because if
+you have to leave early you might have
+to have is so we we'll talk about if you
+have issues in timing we'll deal with
+that as well you can go through this
+page when you get a chance but it gives
+you good reasons for missing a quiz like
+what I'll give you a bad reason I don't
+feel ready so here's my suggestion if
+you're really not ready and that's your
+reason at least do me the service of
+coming up with a reason that sounds good
+right you know I'll let you I'm not
+going to ask you for a doctor's note I'm
+going to trust you we're adults here but
+adults lie to each other all the time so
+I don't even know why we say we're
+adults here as if that leads to
+truthfulness now so if you want to miss
+a quiz I won't stop you
+but remember if you do miss a quiz you
+lose that best of the three the worst of
+the three quiz option and you also miss
+learning for that quiz which you will
+need because the final exam is always a
+comprehensive
+f it is open book open
+notes and open devices and the reason
+for that is how many of you have your
+lecture notes or an iPad or a computer
+pretty much everybody right who prints
+off stuff so given that it's open book
+open Notes if I don't let you open your
+devices that that kind of defeats the
+open Notes but you cannot use Excel on
+your laptop partly because you don't
+need the problems are written such a way
+that you can do the numbers by hand and
+partly because you have 200 200 people
+trying to work with excel in a room bad
+things happen right computers break down
+there's noises of beeping and so
+basically you can use devices you can do
+notes you can do you can do whatever you
+want you can summarize It Whatever work
+for your learning you can bring it in
+this is not about checking whether you
+remember an equation it's about checking
+whether you remember there was an
+equation and where to find it in your
+notes right because which requires that
+you actually go through the notes before
+and as I said every exam I've ever given
+in this class I think my very first exam
+is 1986 is
+online and solutions obviously are
+online as well that's where the review
+sessions will cover the T will go
+through those problems
+on the group work as I said pick your
+own group and police it
+yourself again this is where the your
+adults part of it comes in but I said
+the same thing to Manda graduates who
+are 21 years
+old figure out the what I mean by police
+it is there's always this one person in
+the group you know the one I'm talking
+about who never seems to keep
+up 14th week they still haven't picked a
+company and remember this is a group
+project your great drives on saying what
+do I do what's the
+Godfather there's some good suggestions
+on how to get people to do things
+right get your message across don't make
+me the messenger right I mean it's I I
+would be fired if I chopped off
+somebody's um Pet's head and put it on
+the that's what I saw in The Godfather
+but figure out a way to keep them in
+line okay
+that's about it for the class as as far
+class
+participation there are no rules other
+than don't start yelling at each other
+across the room anything is fair gate so
+if you want the problem with the class
+this big is you feel intimidated to ask
+questions when you start hopefully
+that'll fade you'll be more willing to
+jump in so please do jump in you know
+contest something I say if you think
+it's you know that you have a different
+View I'm not going to be in the least
+bit insulted because you did that it'll
+actually make it more fun the more you
+talk the less I have to talk which means
+it makes my job
+easier any yeah there's somebody already
+jumping in yeah so the the casch 26
+that's spring bre were you here so
+remember I said yesterday about
+physically being here but mentally you
+might be gone have you been here right
+from the beginning of the class
+ask your neighbor what I just talk said
+about when the case is
+Du okay so no we we'll let that pass
+right so in a sense it can happen it's a
+perfect example for why everything is
+recorded and online is because these
+moments will happen so don't take it
+personally it does happen it's okay so
+no so let's turn to the first lecture
+note packet because now we're going to
+start the process so
+this packet is about 300 and something
+pages so we're going to roll this is
+going to take you through the 15th
+session so if you got this packet this
+15th session make sure you download the
+second packet because it'll take you
+through the rest of the class today I
+want to focus on something we don't talk
+about
+enough in any of our classes which is
+it's a business school right all these
+classes and here's a core question what
+is the end game when you run a business
+if you asked Milton fredman that
+question what would he have told
+you if you get a chance go and read
+Milton fredman's
+1971 piece it's an opinion piece in the
+New York Times what would Milton
+Freedman say your endgame is is a
+business well he basically said you
+create a product or service that people
+need that they will pay you for you make
+money on it and it's not just profits
+this year but profits in the long term
+you run businesses to make money that's
+so mercenary I know but that's the end
+game and of course you get push back on
+that which is businesses have bigger
+objectives more purposes and in fact
+much of the push back has been around
+for as long as
+time you know how Adam Smith
+described economics right anybody know
+what what his description of Economics
+was Adam Smith of course
+six father of free
+market a lot of stuff for like the
+Invisible Hand the Invisible Hand is a
+good way it's a gospel of
+Mammon is how he described it if you
+have no idea what Mammon is go look it
+up and Google it's not a good
+description basically that you do things
+that could be essentially the between
+good and evil that you might walk very
+close to it but the essence of a
+business is your business but push back
+has been around as long as business been
+around and in the last 20 years this
+push back has kind of acquired this
+special power behind it partly because
+Harvard Business School threw its lot in
+there and they're always the first
+movers here and Harvard Business School
+exists for one reason and one reason
+alone to make consulting firms a lot of
+money because they create an acronym
+consulting firms run with it
+and of course there are three forms this
+push back has taken the first is
+sustainability I'm sure you I'm sure
+some of you have classes with the word
+sustainability in it some of you might
+have had titles at the works you had
+sustainability it's a big word out
+there but the idea is you want to put
+sustainability presumably of the planet
+but I'm going to come back and push back
+of sustainable what because
+sustainability people just say
+sustainability
+it predates business right Planet
+sustainability is something that
+environmentalists have fought for Green
+Peace for instance going back a century
+but this is Corporate sustainability and
+we got to ask what are we
+sustaining the second is this notion of
+stakeholder
+wealth who's a stakeholder pretty much
+everybody right your customers are
+stakeholders your employees are
+stakeholders the bankers are
+stakeholders Society is
+stakeholder that maybe this shareholder
+thing is too narrow that we need to
+think about all
+stakeholders and the third of
+course is that acronym
+ESG and I'll give you my PRI when I
+asked what I think about ESG I said it
+was born in
+santimon nurtured with
+hypocrisy and sold with sophistry
+there's nothing good I can say about
+this Acron but we'll come back and talk
+about why because it sounds good right
+you're saying what is wrong with caring
+about the environment caring about
+society and caring about governance my
+response is if you truly care about
+these things the last thing you should
+be doing is putting your trust in
+ESG so let's start with this notion of
+stakeholders who are the stakeholders in
+the company obviously shareholders are
+stakeholders why because they Supply the
+equ Capital lenders are stakeholders
+because they lend money to a firm
+employees are stakeholders because they
+get the wages from the company customers
+are stakeholders because they have
+interactions with the company products
+and services Society is a stakeholder in
+the form of a government because the
+government collects taxes from the
+company and might pass rules and
+regulations and laws the company has to
+operate under even your competition is a
+stakeholder the only problem is they're
+a stakeholder with a very different
+interest and you they want you to go
+down but everybody has a stake in the
+company and in corporate finance we
+Elevate one of these stakeholders to the
+top of the pyramid and who do we put at
+the top of the pyramid and that is
+where the disagreement starts why would
+you this like it looks like we're
+playing favorites right so does somebody
+want to tell me why shareholders get
+this special place where they get to
+pick the management they get to run the
+firm what is is it about their
+relationship with the company that makes
+us put it put it put them on top of the
+fa you think A lender lending to a risky
+compan is not carrying if it to a risk
+employees might lose their job I mean
+you could argue that the employee risk
+is actually much more tangible than a
+investor who has 50 other companies in
+their portfolio risk alone can't explain
+it
+yep they just own The Firm so owners get
+to do whatever they want that sounds
+like you know if you have the power you
+should be able to carry it through
+that's a very brutal reason for
+it okay let's get closer I think we're
+getting closer to the truth lenders lend
+money to the firm right but when you
+lend money whether you're a banker a
+bond holder what do you do you get a
+contract that protects you y incentives
+directly align I think that's what it's
+going to come out of the contractual
+relationship I mean the alignment issue
+comes about because we put is on top
+it's almost an output the question is
+why do we create that input lenders lend
+money to a firm they have a contract and
+in the contract what do they do they set
+the interest rate based on how much risk
+they see in you they write covenants on
+what you cannot cannot cannot do
+sometimes they screw
+up but they have a contract
+employees have a contract now we can
+debate whether those contracts have
+become too weak because of the you know
+because of weak ing of labor unions but
+there's a contract
+right there's a wage you might say I
+don't like the wage quit and go work for
+somebody else your benefits basically
+you get a contract do customers have a
+contract hey you buy a product or
+service and it doesn't do what you
+thought I mean you might have a tough
+time returning it wasn't from Amazon but
+you can return it you can demand your
+money back and if they don't do it you
+can if you if you're willing to spend
+the time and the resources you can there
+is a contract every customer purchase is
+an implicit
+contract does the government have a
+contract with a
+company right the T you can think about
+this whole process of the contract right
+you pay taxes in return the government
+provides protection on your patent so
+basically there again we can argue
+whether those contracts have been
+weakened and exploited but there's a
+contract and even competition has his
+own contract right especially in the US
+with antitrust laws you can go the the
+only group that does not have a
+contractual relationship is shareholders
+what do they get they get whatever's
+left over let's be real let's suppose
+you invest and I tell you you get
+whatever's left over and I say go in now
+I'm going to let the other people run
+this business how much are you going to
+get left
+over
+nothing you know why universities never
+run a surplus they always run at a
+deficit because there is no they
+basically take the pie and say who's
+getting what slice of the pie and then
+they run out of the pie and they go
+borrow more
+pies the reason we put shareholds up
+it's not because we like shareholders
+that they're preferred it's because they
+have a
+residual claim and if you don't lend the
+Run let them run the company in the long
+term nobody will take that residual
+claim
+so in practice we it is true we put
+shareholders in toob and then we go
+through this exercise where we start to
+narrow how we think about that
+objective traditional corporate
+financing objective is to maximize the
+value of the entire
+business and then we ask managers go
+ahead and do it but here's the problem
+managers and somebody brought this up
+are accountable to one remember the
+capital for a business comes from both
+lenders and shareholders managers and
+most companies tend to be accountable to
+which of those two
+groups unless you're into distress the
+lenders really don't run the man manager
+so in practice instead of maximizing
+firm value sh managers focus on
+maximizing shareholder weth the portion
+of the capital that comes from so we've
+already narrowed the
+objective the problem with shareholders
+wealth is who's going to estimate you
+could call in McKenzie every year to do
+it first you got to pay that Hefty fee
+second it's objective so if you're a
+publicly traded firm that objective gets
+maximum gets uh narrowed even further in
+a publicly traded firm there is an
+observable number for the shareholder
+weth right which
+is the market
+price so in practice when people talk
+about Corporate Finance they say the
+objective in corporate finance is to
+maximize stock prices right and it's
+really not but you get there because
+pragmatically if you run a publicly
+traded company as a manager you end up
+focusing on maximizing stock prices I'll
+make a confession that's
+terrifying because we know that that's
+built on the presumption that the
+markets get this at least reasonably
+right right so I'm going to start with
+with this maximizing stock price which
+is a narrower version of maximizing the
+value of the firm talk about why we
+picked it as an objective in corporate
+finance what can go wrong and horrible
+things can happen at companies when you
+when you try to maximize stock
+prices and then talk about what do we do
+instead so there I'll bring in every
+possible alternative including
+sustainability ESG and we'll pass them
+through the test of hey will this work
+better than maximizing stock prices so
+let's start
+with what I think is common sense when
+you run an organization you have to you
+can have only one
+objective you can't have five objectives
+you can have one objective in multiple
+constraints you say why can't I do all
+of these things because you will have to
+make choices say I want to maximize
+Revenue growth and margins and value hey
+you know what that I I would like to do
+all of those things as well but if you
+run a business sometimes you have to
+decide which one you want to put on top
+so you have to decide tell me what your
+central objective is and I'll let you
+have
+constraints now of course no you can
+disagree with the central objective I
+pick but don't tell me you want five
+objectives that's why I don't like
+company mission statements that have
+seven different things they claim to do
+come on guys make up your mind what are
+you really trying to do what are your
+constraints objective and constraints
+and if the company is traded focusing in
+stock prices comes with a bonus right
+what's a bonus it's updated
+constantly so on Monday morning this
+week what happened in video St stock
+price it drops 16% let's make it real
+that's
+580 billion dollar Invidia lost more in
+market cap on Monday at opening than the
+entire African Equity markets put
+together the dollar values are
+staggering why because Market said the
+game has changed you know how long it's
+going to take accountant to come to that
+recognition probably 2 and a half years
+it'll eventually percolate its way
+through markets you get instantaneous
+results and if if investors are rational
+and that's a big if then that adjustment
+reflects what the loss or gain and value
+is so that's a nice thing about stock
+prices you don't have to wait around to
+say did I do the right thing you get
+instantaneous
+feedback and people don't like this
+objective okay so when you look at this
+objective they always go
+back to the worst case scenario and this
+is to me the strawman version of
+corporate finance that if you let
+Corporate Finance play out we're going
+to have what I
+call the original corporatism which is
+19th century you know Rockefellers and
+carnegies essentially their endgame was
+they would maximize stock prices and the
+rest of the world be
+that my son's fiance's sister's husband
+is a
+Rockefeller he's a real Rockefeller not
+the John D Rockefeller he'd be 150 years
+old he's a very nice guy but I was
+terrified when I first met him because I
+had visions of John D Rockefeller coming
+through and I'm sure that John de
+Rockefeller was not a particularly fun
+person to hang out with I know Andrew
+Carnegie did amazing things every
+library in the east coast came out of a
+Carnegie but Andrew Cari was not
+ruthless so the straw man is if you
+maximize stock prices we're all going to
+be back at the end of the 18th century
+and you're going to
+have and there are people who play that
+out right look at the tech Giants
+they're going to
+be we'll come back and talk about why
+this is not a repeat at the end of the
+18th century but that's your and there
+what do what do the people running the
+company do they really exploit every
+single other state
+C starting with lenders right they have
+the power to actually get rates at rates
+below what they should be
+paying employees employes in the rate
+1800s at zero protection you could work
+16 hours in a
+mind probably didn't have any health
+benefits died there was no nothing that
+you
+did customers remember I talked about
+contesting the company if you don't like
+what you get forget about that when
+you're dealing with us steel and it's
+your only company around making steel
+you take it or leave
+it you saying what about governments
+these were so big that they did
+governments did what they wanted them to
+do rather than the other way around they
+wrote the
+regulations what about the competition
+what
+competition the original idea of
+creating a trust was to eliminate
+competition so if this is the word we're
+going to end up in I don't want it
+either so as I listen to critiques of
+people of companies focus on stock
+prices I hear three broad themes come
+through and if you're not if you're in
+the outside I would fault you for
+believing that these themes are what dry
+the first is that if you maximize stock
+prices you can't take care of your
+employees that the companies that
+maximize stock prices care about their
+Financial Health must be doing it at the
+expense of employees and let's face it
+every day you wake up at least one new
+story where this things to play out
+right and how does it play out Verizon
+lays off 20,000
+employees and you keep reading the story
+the stock price went up 3% and your mind
+you're making connection laying off
+employees must mean stock prices go up
+so if you care about maximizing profits
+and value and stock prices it must come
+at the expense of employees
+of course that's going to be true in
+individual cases but let's talk about in
+general is that true would you rather
+have worked at Tesla over the last
+decade or GM at the last
+decade this is a no-brainer right would
+you rather work at Amazon or Walmart
+much as we like to complain about
+Amazon Amazon
+workers are happier at Amazon than
+Walmart he's how do you know I interview
+all of them I went to glass door if you
+to glass door you can actually go see
+what what companies G
+at and I and once I was there it was
+fascinating I going to say what the
+happiest places in America to work with
+are these the places that don't care
+about profits well I pulled up the list
+and I'm going to show it to you and you
+can make your own judgments
+on this is not in your notes because I
+just pulled it up this morning
+these are the happiest places to work at
+at least according to glas ban and
+Company why because you're probably
+being paid a ton of money have an
+expense account and you have crew Car
+Wash I don't know I want to drive
+through crew I mean I say in andout
+Burger I do go to in andout Burger in
+California people are very happy maybe
+they get to eat unlimited Burgers and
+Fries
+there's of course Invidia not Intel
+notice the Church of Jesus day you know
+that tells you also that employees are
+not made happy just by paying the mahay
+that there's a cultural issue which can
+keep something that investment Banks
+started forgetting in the 1980s right
+because when I started in the 1980s when
+you walked into Investment Bank you
+actually could tell where you were
+without looking at the name at the top
+because Solomon is full of these scuffy
+trade ERS none of them even if they wear
+a tie the tie was never nodded all the
+way it's pulled down your shirt was
+pulled off and you walked into Morgan
+Stanley the tie is all tied up
+everybody's wearing the same suit it's
+almost like they went to the same store
+probably Barney and they bought the
+store there was a cultural connection
+the advantage of that is people then
+self- select to be there even if they
+don't get even if they get paid less
+because they like the culture and
+somewhere in the 1980s investment Banks
+they could they should compete on one
+dimension and you know exactly what the
+dimension is because you had interaction
+with them either in the interviews which
+is we'll pay you
+more and I know I caution them I said if
+you play this game you know where it's
+going to end up right if that's the
+dimension then people are going to come
+to you because you pay the most but then
+if D sha pays even more they're going to
+leave you and go to D shop because you
+created the game there's zero loyalty
+left in this system precisely because
+you took it out so I'm glad you got the
+Mormon Church up there right that's the
+Church of Latter Day Saints because it
+kind of brings home that fact that
+employee
+satisfaction no you're saying doesn't
+that show you should maximize no it
+basically says that if you look at
+employee satisfaction it has know very
+little to do with you saying the right
+things to the rest of the world but
+treating people right and doing well as
+an institution and the Church is
+financially the healthiest church out
+there the Catholic church is wealth is
+is also wealthy but it's all in the VCT
+and basement and stuff so it doesn't
+have the cash infl it's got a cash flow
+problem right now so don't but don't
+lose any you know sleep over it they'll
+fix it somehow you know the worst places
+to work
+with
+oh top is DHL Express second is United
+and I can attest to this because I have
+frequent interactions with United it's
+my Airline of
+choice partly because it's the only
+airline that flies enough flights to San
+Diego that I can be on it but as you go
+down this list there aren't too many
+healthy companies on this list right is
+there even a Radio Shack around I don't
+know what they must have found the last
+employee at Radio Shack who works at
+this Legacy stores what do you think
+about and even that guy doesn't like
+radio
+Shin I'll wagor that if you walk into a
+department store anywhere in the you're
+not going to be surrounded by happy
+people that these are people clearly
+there because they get a paycheck and
+they're not
+particularly satisfied so let's put this
+mythology to the side that if you now
+ultimately if you really want to take
+care of your employees you got to start
+by doing financially well right
+second you're told that if you want to
+maximize stock price it must mean you
+don't care about your
+customers I should remember about 30
+years ago I did a session for The Gap it
+was part of a top Management Group this
+was in the Gap was actually a successful
+retail soore they kept opening new they
+just opened Banana Republic and Old Navy
+so they had a lot of money and the way
+you could tell is they had this
+management meeting at in
+Sundance and even in Sundance is this
+Robert Redford Ran So it's a in a hotel
+room probably cost $1,000 a
+night so they bring in people from
+different disciplines to talk to the top
+management I had the singular Misfortune
+of following the
+marketing Guru to the podium cuz just
+before he left the objective of the Gap
+should be to maximize customer
+satisfaction then he left I wish he'd
+stayed cuz I got up to the podum said
+this is the stupidest objective I've
+ever
+heard how many of you have actually
+shopped at the
+Gap see how few hands go up already you
+can see why they're in trouble think
+about your collective experience
+shopping though and think about what you
+know what makes you satisfied you walk
+in it's nice if the store is well lit
+and you know it's it's got so you walk
+in through and then you find the KHAK
+Keys you want is that all Gap cells I'm
+pretty much it right right in the siid
+you want in the color you want they
+actually make khakis and colors other
+than khakis so don't ask me
+why you're feeling pretty satisfied
+right and then you get ready to leave
+and there's a scrimp on your
+satisfaction which
+is you got to stop at the damn cash
+register to pay for your khaki so if you
+took the marketing
+gurus objective to Heart what should you
+do take the cash registers out
+your sat your customers will be
+incredibly satisfied for a couple of
+weeks and then you go bankrupt you think
+that is so absurd customer satisfaction
+matters but why does it matter because
+you want them to come back and I'm inan
+I shop at Costco you know the great
+thing about Costco is you can buy stuff
+and return it there are people who bring
+in two-year-old
+refrigerators and I didn't like this
+refrigerator
+Costco will take it back but they'll
+also take your membership away so that's
+the cost
+right Costco keeps its customer
+satisfied and I like them for it but
+they do it because they want you to get
+a Costco membership and
+keep so I agree you want customers to be
+satisfied but let's be very clear you
+want customers to be satisfied because
+you want them to come back to you to
+sell them stuff you could make customer
+Satisfied by selling stuff below cost
+but how long will you survive as a
+business by
+doing and there's a final Canard about
+stock price maximization which is if you
+maximize stock prices you must be some
+kind of moral trog
+Lite that's how I describ myself when I
+wrote first about ESG I said you're
+going to think I'm a moral
+trite but I'm okay with
+that I'll give you how the rest of the
+World Views corporate finance and you're
+going to see this happen when you show
+up at Thanksgiving this year
+at whatever family Thanksgiving you're
+in you're going to tell them that you're
+in an MBA program and people are already
+going to start to bring you down the
+morality scale then you say I'm going to
+go work for a hedge fund and now you're
+really scraping the bottle and say I
+work in corporate finance and you're
+done because here's the vision of
+corporate finance that the rest of the
+world
+has I'm going to give you an assignment
+for this weekend I want you to watch
+this movie called other people money
+it's a very old movie it's a 1980s movie
+and I'll tell you the
+storyline and going I tell you the story
+it's the most boring movie it's actually
+a fun movie it's about
+a for lack of a better word at that time
+they didn't call them P guys a PE guy
+private Equity
+guy who does a hostile
+acquisition of a cable company in New
+England you know phone cables
+so the movie plays out where the acquir
+buys the company and basically it's a
+contest between the CEO of the company
+and this hostile
+acquir so think of the acquirer saying
+he he wants maximize value I want to
+increase the stock price you know who
+played the aquire anybody know D Danny
+Deo so I want you to visualize Danny
+dito it's always sun in Philadelphia
+remains one of my favorite shows but
+there's Danny Deo that's corporate
+finance you know who played the CEO of
+the phone company Gregory PE Gregory
+peek you guys have never seen Gregory
+peek distinguish gray
+hair there's your corporate finance and
+anti-corporate finance basically do you
+want to be Danny deito do you want to be
+Gregory peek right but in this movie the
+good part of it is it actually plays up
+the climactic moment for the movie is an
+annual
+meeting and Danny DeVito gets up and
+everybody in the meeting is the
+employees this how dare you kill a
+company it's been around a 100 years
+it's amazing company and he says look I
+am going to kill your company but it's
+not me that's causing
+it it's a fact that you make cables that
+fiber optics is doing it to you I am the
+Messenger
+here but you know want I know private
+Equity is AC Qui old and private Equity
+walks very close to that line there are
+things that private Equity does
+especially in healthcare that I think
+are almost
+unconscionable but for the most part if
+you look at what private Equity does it
+essentially comes into businesses where
+what somebody is doing doesn't make
+sense anymore and they say you know what
+maybe you should stop doing
+it it's easy to blame the
+messenger so if
+you're equating maximizing talk price
+with being a bad person go ahead but I
+think in a sense there are a lot of bad
+people who destroy their companies and
+lower stock prices as well now goodness
+and Badness is a distribution you're
+going to find pretty much all kinds of
+companies so these are the the facile
+ways you kind of push so I'm going to
+start with what I call the utopian World
+from which Corporate Finance is
+born when did Utopia exist what is
+Utopia
+never existed so already I'm giving you
+a precursor that what I'm going to
+describe in this world is going to be
+completely unrealistic but hang in there
+in the utopian World which Corporate
+Finance Bor here are the here's the way
+the world works first stockholders in
+this world in publicly traded companies
+have complete power over managers I want
+you to think of a company you own shares
+in and think of how much power you have
+and already you can see Utopia moving
+further and further away from you you
+own those matter shares complete power
+over matter are you kidding me but let's
+stay in this utopian world how do they
+exercise that power through the annual
+meeting and through the board of
+directors remember in theory the board
+of directors works for the shareholders
+its job is to oversee management to make
+sure they're doing their fiduciary
+duty and what do managers do they're so
+terrified of shareholders they go out
+and do the right thing know increase
+value for shareholders in this word
+lenders lend money to a firm and they
+write no prot
+ctions and for whatever reason the
+company doesn't take advantage of all of
+those loopholes why because it come back
+to the borrow money it's a reputation
+effect and I can tell you stories about
+how you can get away with it but in this
+world that always happens you lend money
+you don't protect yourself you never get
+ripped off this world you when as a
+company something happens to you you go
+out to financial markets and you tell
+them what happened
+honestly and on time
+now we're really approaching the far
+edges of Utopia right so what Universe
+in the world that I just
+described here's what would happen and
+I'll take a personal example I've been
+an Apple user since 1981 and I'd wait a
+long time for an Apple laptop to arrive
+didn't come till the early '90s it's
+called the power book it was just
+Loosely a laptop it weighed like 15
+pounds and got really hot on your lap
+you get burns on your your
+but and and we were happy as Apple users
+it did have one small issue it's
+sometimes caught
+fire this is not exactly a feature you
+go looking for on a laptop right
+spontaneous combustion not there not
+there not there it'll make your next
+presentation incredibly
+memorable but your next plane trip could
+be a disaster turned out the batteries
+that Apple was using were overheating
+and just blowing up now in the world
+that I describe what would Apple do to
+run out of markets right away and say
+guys our laptops are
+hot just leave it at that technically
+you're not
+lying and that's something to remember
+about companies you don't actually have
+to lie you just have I told you have
+four kids you know I they don't actually
+lie to me but they sometimes hold back
+the truth we all do
+it but the world that that never happen
+we all tell the truth to each other
+we're like blurred out everything
+and in return what do markets do they're
+cool and rational about what you just
+told them I'll describe a trading grou
+in this world it'll be full of
+intellectual
+people have any of you been in a trading
+room full of intellectual people right
+who have long conversations about the
+long
+term but
+really but in this world that's what
+happens and finally in this
+world there are no social costs
+what's a social cost anybody want to
+tell me that because or in economics we
+call these externalities right what is
+it nobody wants try go
+ahead on the rest of society right but
+we have to finish the costs that are
+created for society that you can't
+generally Trace back to the companies
+right because you can trace it back
+there are ways to make the company pay
+but generally social costs are cost that
+are you know and already you're saying
+but only bad companies create social
+costs everybody does that hot dog stand
+out sir I briefly considered using that
+as my six business it's greater social
+cost for
+me it's been around 38 years I know the
+guy really well but I often walk down
+that that that uh that sidewalk and he's
+cost me like 15 steps every day for the
+last you're saying this is so
+petty hey think of the thousands of
+people who walk down multiply by 15
+Steps is right in the middle of the
+sidewalk sometimes you slip on ice
+because you can't get that's a social CA
+companies when they run businesses
+create ca for
+society and we'll talk about why that's
+an issue but in the utopian world well
+there are no social
+costs why am I doing this because in
+economics when you have a problem you
+can't deal with what do you do you
+assume it away you put yourself on an
+island let's live it because what we're
+trying to do is make the world safe for
+maximizing stock price in what sense I
+want you to maximize stock prices the
+right way what's the right way you got
+to go out and pick good Investments make
+good
+products that so much work
+because you can go increase stock prices
+by stealing from your bond holders by
+ripping off your
+customers by not paying taxes that you
+should be paying in this world none of
+that stuff happens but let's start with
+that world because in a sense it's going
+to give us that that standard that we
+can compare so in the utopian world what
+do companies do they maximize stock
+price because markets are efficient when
+you maximize stock price what do you do
+you maximize stock holder wealth so we
+got rid of that
+problem lenders are not ripped off so
+basically when I maximize stockholder
+whether it's not coming from ripping off
+my
+lenders this world is a utopian World
+employees are paid a reasonable wage
+because you want them to work you don't
+exploit
+them same thing with customers you
+basically provide them the product you
+would you get a reasonable price you pay
+a fair share of taxes you follow the
+rules and the
+regulations and it's like a Disney movie
+everybody lives happily ever
+after I don't know about you but I don't
+live in this
+world every one of those assumptions I
+listed is patently unrealistic so let's
+go to the real world and all hell is
+going to break loose let's start with
+the first linkage what did I say
+stockholders have complete power over
+managers well not
+really and as you go outside the US it
+gets worse Japanese companies Indian
+family group companies and we talk about
+the two mechanisms annual meetings and
+Boards of directors and why they don't
+work and if shareholders have little
+power over managers what do they do they
+put their interest often ahead of
+shareholder interest it's human nature
+it's not because they're bad people so
+why do you have an apartment on Fifth
+Avenue if you're the CEO of a company
+you can give me all kinds of you know
+this is for convenience but you don't
+need a penthouse apartment and you could
+get a hotel room in in Midtown manatt
+good room
+too managerial interests get ahead we'll
+take look at examples of that lenders
+lend money to a firm and you don't
+protect it so what's going to happen
+you're going to get ripped off it's not
+a question of whether it's a question of
+when do companies sometimes lie to
+financial markets
+absolutely but all too often it's not
+that they lie but that they TR to delay
+bad news manage the flow and in turn
+markets are not Angelic either right
+that cool rational Market is not exactly
+the trading room what do you think
+happened on Monday morning you think
+people over the weekend work through the
+expected Revenue growth for Invidia over
+the next 20 years and what deep seek
+could do to their margins think so they
+came in and they're
+sold and finally do companies create
+social costs
+absolutely do they sometimes create
+social business that too
+it's a messy word and I'd like to take
+each of these linkages and take a deeper
+look let's start with the first linkage
+in theory shareholders have complete
+power over managers how do they get
+there by through the annual meeting of
+the board of directs let's start with in
+practice why those two mechanisms don't
+work let's start with the annual meeting
+how many of you are shareholders in
+publicly traded
+companies okay so quite a few the rest
+of you had to sell your shares to pay
+the tuition I would guess I understand
+right how many of you have been to an
+annual
+meeting one couple people that's good
+I've never I own shares in 40 companies
+I've never been to an annual meeting and
+I don't intend to start I'll give you an
+example I own shairs in
+Coca-Cola I've never been to an annual
+meeting because think through the proc
+what this involves I first have to fly
+to Atlanta it's an extraordinarily
+overpriced flight from New York New York
+and even more so from San Diego let's
+say it's $600 I have to stay in that
+peach whatever section of Atlanta this
+is really depressing part of Atlanta
+where everybody seems to leave at 7 p.m.
+that'll cost me another
+$600 add up the meals and the other
+stuff $1,500 round trip there goes my
+profit for the year right for most of us
+it makes no sense to go to an annual
+meeting but in theory I can be there
+without actually being there I'm not
+being mist ious but as shareholders in a
+company what do you usually get the
+right to
+do you get a proxy the old days it
+actually used to be a physical document
+you got in the mail I remember getting
+that
+document and you know what I did with
+that document if I was feeling
+environmentally conscious it went into
+recycling if not it went into trash I
+had zero interest in filling out that
+proxy because most of the time I was
+asked to vote for people I never heard
+of or in Pro or things that would come
+up which I didn't really care about you
+know that I'm not alone that 60% of
+proxies never get returned but those are
+thousand shares in Coca-Cola right so
+when I threw it in the trash or
+recycling what happened to the Thousand
+votes where does it go where do they
+go in much of the world when proxies
+don't get voted those votes go to income
+incumbent
+managers see what this process does
+right it's like having an election where
+the incumbent gets the votes of anybody
+who doesn't show up to vote no us
+incumbent would ever get defeated right
+because I think what 49% of people show
+up to vote you start with 51% you don't
+even have to vote for yourself you've
+already won it's a process tilted
+towards incumbents which is one reason
+when you look at votes at annual
+meetings it's very very difficult not
+impossible talk about what might tip it
+over the edge to get to 25 when you see
+a 30% no vote against management at an
+annual meeting that must mean that
+pretty much everybody voted voted
+against management but they started with
+70% I just remember when JP Morgan had
+this issue with Jamie
+Diamond what you know there was a pro
+proposal to put him back as the chair of
+the board again because he' done the
+right corporate governance thing and
+stop being chair of the board but he
+wanted to be chair of the board why
+because he's a bit of a
+megalomaniac so opposition you know sh
+said that's not right the corporate
+governance thing you did the right thing
+you start so it comes up for a vote and
+there a
+36% no vote and 64 so the way the Wall
+Street Journal report The Wall Street
+Journal article on it reported was Jamie
+Diamond wins because 64% of the people
+voted for him the shareholders voted for
+him not
+really it's very difficult to get a no
+vot at a at an annual meeting right so
+most of so it's not just small store but
+but he's saying what about the big
+institutional
+investors what what about them for the
+most part you know what they do they
+vote with incumbent
+managers it's easy path and I don't
+blame them at somebody from the
+Vanguard index funds last week in an
+Executive MBA class that I taught it
+Stern if you're in Vanguard how the heck
+are you going to show up a older meeting
+said every company own shares and then
+actually throw your weight around first
+it's not your money to throw the weight
+around with and second that's a lot of
+companies most institutional investors
+vote with their feet which means if they
+don't like a company guess what they do
+they sell their shares and move on they
+don't stand and fight so if you look at
+an annual meeting not only do you
+individual investors not show up
+institutional investors you know
+essentially what with it's very
+difficult to get something going it's
+incumbent
+manag so if you don't like the way a
+company is managed and you're saying I'm
+going to go do something at the annual
+meeting all the more power to
+you but you're embarking on a mission
+that is going to be really really really
+difficult to Wi we'll talk about what
+might tilt the scales but most annual
+meetings and this gets even
+worse outside the US in Japan for a long
+time income managers used to hire Yakuza
+Yakuza are these
+gang members they' show up at annual
+meetings and this actually happened
+because there was an activist investor
+in the US showed up at a Japanese
+company and he wanted to question
+management every time he stand up to ask
+a question group of people in the back
+would get up and yell as loud as they
+could theyes and you would never get the
+question
+through in Europe it's a different kind
+of problem I remember this company
+called tattingers have you heard of it
+know it's a French company in very makes
+very expensive stuff that most of us can
+live without it used to be a
+family-owned company but it's now a
+publicly traded company and the CEO of
+the company is Claudia taton you're
+saying that's a coincidence she has the
+same last name it is the the family and
+this was an annual meeting this activist
+investor from the US called Asher
+Edelman gets up and he asked a question
+which I thought was a very reasonable
+question he said I noticed that tat just
+the company owns a lot of
+chat who lives in these
+shat she refused to answer the question
+after the meeting she had a press
+conference she said no I am Hur that
+that such a rude question would be asked
+of
+me I Now understand why they the
+guillotine the French
+Revolution this is this is about as
+separated from what you should be asking
+as a CEO of a publicly traded company
+and for the longest time European annual
+meetings were exquisitely well-managed
+and well behaved Affairs because you
+didn't ask those rud questions that's
+for the Riff
+Raff annual meetings are tough to break
+through for lots of different reasons
+and you can see why they're say what
+about the board of directors what about
+the board of
+directors I know many of you might have
+worked at publicly traded companies I
+want you to go back and look at the
+annual report for the company you worked
+at and look at the board of directors
+for your company then ask yourself the
+question comes up with these names did
+they pull them out of a phone book is
+there even such a thing as a phone
+book in most companies for a long time
+you know who came up with the names
+right the CEO
+did I remember when John Mack became CEO
+of Morgan Stanley the first three
+people that he pulled for the board were
+members of his country club and I
+entirely understood what was going on
+let's say you're the CEO of a company
+want to put together a board of
+directors I let you pick the next you
+have two choices you can pick the 12
+most informed intelligent people who ask
+you tough questions and keep you on your
+to that's Choice one the other is you
+can pick the 12 most
+sloshed people at a bar and put them on
+your Port which one's going to make your
+life easier you have enough martinis
+flowing you'll never get asked a
+question that China investment you lost
+6 billion not a problem bring me another
+Martini Boards of directors are often
+composed of people that the CEO picks I
+know there's a nominating committee now
+but if you're operating under the
+delusion that that nominating committee
+doesn't check with the CEO before they
+put a name on then you're not hanging
+out with the people who tend to be
+directors at
+companies so if you look
+at I don't know why my the clickers work
+in practice what
+happen the pick
+directors second you're saying but these
+directors must be shareholders in the
+company right technically they often are
+but you know how they get the shares the
+company often gives them the shares they
+don't even make them buy them and you
+buy 2,000 shares in invate trust me
+you're not thinking like a shareholder
+you're thinking like a board member
+and it's astonishing how many companies
+have other company CEOs on their board
+I've never understood how somebody has
+the time to be the CEO of a company and
+sit on the board of another
+company the bottom line is it's you'd
+love to believe that Boards of directors
+act as a check on management but they
+don't there a couple of reasons one is I
+think you've seen Robert rules of orders
+I think this must this guy was some kind
+of a pun person who had some
+psychological issues you wanted to meet
+out punishment it's a way of keeping
+order it's a very very so if you want to
+run a meeting you want to make sure that
+you control the meeting you bring out
+Robert's Rules of Order that's out of
+order requirement of staying with order
+the second is if you're in a room with
+11 other people you feel this urg to be
+a team
+player so if you have a question you
+sometimes hold back because said that
+might not be a nice thing to ask
+I know in the last 30 years we paid lip
+service to corporate
+governance it started with the scandals
+of the late 90s lip service in what
+sense you know this this entire law
+called sarban Oxley that was written to
+make boards more independent key word is
+independent and it actually accomplished
+that objective and you can't have
+Insiders on the board you can't have
+your nephew your niece you can have
+loopholes to get them there but
+generally it pushed Independence
+and the Assumption was if you have an
+independent board it will be an
+effective
+board and the two are very different
+requirements right independent just
+means you don't have this connections
+conflicts of interest effective means
+you're willing to push back so 30 years
+after s it's actually 23 years since SB
+Oxley guess what corporate governance
+doesn't seem to have changed even though
+youve got this immense law that was
+passed you're saying
+why I think that there is a psycholog
+iCal issue you're in a room you're a
+director at Goldman Sachs the CEO of
+Goldman Sachs gets up and says this is
+what we're doing at as Goldman
+Sachs psychologically you feel the need
+to say that guy is the authority figure
+that person is the authority figure he
+or she must know more about the company
+than I do I'm not going to push back
+you you know what if you really want to
+make boards more effective maybe we need
+to learn from the Catholic church I
+let's give let's give it credit it's
+been around 2,000 years it's figured out
+a way to survive and prosper because the
+Catholic church had a problem in the
+four in the I think the 14th or the 15th
+century too many people were becoming
+Saints you follow the process for
+becoming a saint the Catholic Church
+somebody comes up with the name then a
+whole group of people come up with all
+these Miracles and they go to Rome and
+they present the
+evidence and then Rome says yes
+no and it turned out that too many
+people were becoming
+Saints because there was this group
+pushing for a saint but there was nobody
+who had an incentive on the other side
+to mount an argument against St so too
+many people going through so the
+Catholic Church created a position and I
+love the name of the called The Devil's
+Advocate the devil's advocate's job was
+to push back against the saood people
+it's a miracle no no not a miracle the
+water would have come out of the ground
+anywhere
+brought this person back to life no the
+person was just sleeping to woke him
+up I proposed this a couple of years ago
+in a corporate governance session nobody
+took it on I said what we need is the
+equivalent of a devil's advocate in the
+board the CEO you have a counter CEO the
+CEO brings out Bankers to say this deal
+is a good one the counter CEO has given
+the resources to H his bank that deal is
+a bad one I know this will bring the
+process to a grinding halt but
+independent boards are not necessarily
+effective
+boards so I'm going to show you as the
+end of the class the worst board I've
+ever seen at a large publicly traded
+company in history I'll start the
+process there complete the condemnation
+next next
+session this was the board created at
+Disney in 1997 anybody remember who the
+CEO of Disney was 1997
+a guy called Michael eer guy with an ego
+so large that he could be in a big
+office by himself and it felt
+crowded he was an imperial CEO you know
+what an imperial CEO is like Caesar
+right make decisions affirmation
+follows and this was the body he put
+together so let's
+start
+with Michael Eisen says he's on the
+board which is not unusual see is on but
+he's also the chair of the board I've
+never understood this you chair a board
+that's supposed to oversee you and tell
+you whe know it sounds like there's a
+conflict of interest but that used to be
+common in 1997 that was standard across
+us companies but let's go through some
+of the other names there was Miss RTO
+Bowers you saying who the heck is she
+it's a principal of an elementary school
+in La he saying this is good Disney's a
+kid oriented company she's around kids
+all day this might have been pure coinci
+but she happened to be the head of the
+elementary school that Michael eisa's
+kids went to complete coci said that to
+the South right let's keep going down
+there is Father Leo odonovan any
+Georgetown this is good to have a
+religious influence on this hean board
+right again it might be pure coincidence
+Michael eisen's son had gone to
+Georgetown he sat on the Georgetown
+Sport and he made a substantial
+contribution to the Georgetown ow set
+that aside pure coincidence
+again here's my favorite one irin
+Russell attorney at law you say what do
+you have against lawyers a lot but this
+is not the forum for me to discuss that
+he was Michael eisner's personal
+attorney how the heck do you get away
+with this I'm going to put my lawyer on
+the board and he's going to be
+independent it's nice to have your
+lawyer in the room all the time saying
+don't answer that question Mike take the
+fifth on that one Mike but don't don't
+tell me he's going to be an independent
+person and to top it all
+off Sydney poer great actor right he
+actually made the list of top 10
+directors in 97 but it was a wrong list
+list of directors who missed the most
+meetings so guess who's coming to dinner
+is guess who's not coming to the meeting
+today and he chaired the compensation
+committee this is what a rubber stamp
+board looks like you know what rubber
+stamp board does basically the CEO says
+this is what I want to do rubber stamp I
+want to acquire a company to rubber
+stamp I want to buy ABC rubber
+stamp and it's more common than you
+realize so here's my first task for you
+and this is why I want you to pick a
+company early pick a company and for the
+moment you might not have picked the
+final company pick any company you're
+interested in take a look at the board
+and ask yourself how effective don't get
+distracted by how diverse the board is
+how independent the board is all those
+are diversions how effective is this
+board going to
+be because they have a singular task act
+as a check and manager so on Monday we
+will continue with this discussion
+corporate governance but by then I hope
+you're in a group and I hope you picked
+a company so start that process this
+weekend

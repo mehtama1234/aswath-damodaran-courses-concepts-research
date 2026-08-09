@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cash Flows And Time Translate Economic Choices Into Value - Foundations of Finance</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f4f1ea;
+        --panel: #fffdf8;
+        --panel-alt: #f8f4ed;
+        --ink: #1f1f1b;
+        --muted: #605b52;
+        --line: #d7d0c4;
+        --accent: #0b6b6f;
+        --accent-soft: #d8ecec;
+        --accent-2: #8e4b15;
+        --shadow: 0 16px 40px rgba(32, 26, 16, 0.08);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: var(--bg);
+        color: var(--ink);
+        line-height: 1.58;
+      }
+      a { color: inherit; }
+      .page {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 24px 0 64px;
+      }
+      .back {
+        display: inline-flex;
+        align-items: center;
+        min-height: 36px;
+        padding: 0 12px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel);
+        color: var(--muted);
+        text-decoration: none;
+        margin-bottom: 18px;
+      }
+      .hero, .card, .essay {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        box-shadow: var(--shadow);
+        border-radius: 8px;
+      }
+      .hero {
+        display: grid;
+        grid-template-columns: 1.45fr 1fr;
+        gap: 24px;
+        padding: 28px;
+      }
+      .eyebrow {
+        display: inline-block;
+        padding: 6px 10px;
+        background: var(--accent-soft);
+        color: var(--accent);
+        border-radius: 999px;
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+      h1, h2, h3 { margin: 0; font-weight: 700; }
+      h1 { margin-top: 12px; font-size: clamp(2.2rem, 4vw, 3.4rem); line-height: 1.04; }
+      h2 { font-size: 1.4rem; margin-bottom: 10px; }
+      h3 { font-size: 1.02rem; margin-bottom: 8px; }
+      p { margin: 0; color: var(--muted); }
+      .lead { color: var(--ink); font-size: 1.05rem; max-width: 70ch; }
+      nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 18px;
+      }
+      nav a {
+        display: inline-flex;
+        align-items: center;
+        min-height: 34px;
+        padding: 0 12px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel-alt);
+        color: var(--muted);
+        text-decoration: none;
+      }
+      nav a.active {
+        background: var(--accent-soft);
+        color: var(--accent);
+        border-color: rgba(11, 107, 111, 0.25);
+      }
+      .meta, .chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 14px;
+      }
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        min-height: 30px;
+        padding: 0 10px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel-alt);
+        color: var(--muted);
+        font-size: 0.84rem;
+      }
+      .hero-aside {
+        display: grid;
+        gap: 16px;
+      }
+      .aside-card {
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: linear-gradient(180deg, #fffdf8 0%, #f6f0e6 100%);
+      }
+      .section { margin-top: 24px; }
+      .section-head { margin-bottom: 14px; }
+      .grid-2, .grid-3 {
+        display: grid;
+        gap: 16px;
+      }
+      .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .card, .essay { padding: 20px; }
+      .card a, .essay a {
+        color: var(--accent);
+        font-weight: 700;
+        text-decoration: none;
+      }
+      .essay p + p { margin-top: 12px; }
+      ul {
+        margin: 10px 0 0;
+        padding-left: 18px;
+        color: var(--muted);
+      }
+      li + li { margin-top: 8px; }
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+        margin-top: 14px;
+      }
+      .stat {
+        padding: 14px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel-alt);
+      }
+      .stat .label {
+        font-size: 0.76rem;
+        text-transform: uppercase;
+        font-weight: 700;
+        color: var(--muted);
+      }
+      .stat .value {
+        margin-top: 6px;
+        font-size: 1.35rem;
+        font-weight: 700;
+        color: var(--ink);
+      }
+      .list {
+        display: grid;
+        gap: 12px;
+      }
+      .list-item {
+        padding: 14px 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel-alt);
+      }
+      .kicker {
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        font-weight: 700;
+        color: var(--accent-2);
+        margin-bottom: 6px;
+      }
+      @media (max-width: 980px) {
+        .hero, .grid-2, .grid-3 { grid-template-columns: 1fr; }
+      }
+      @media (max-width: 720px) {
+        .page { width: min(100% - 20px, 1180px); padding-top: 14px; }
+        .hero, .card, .essay { padding: 16px; }
+        .stats { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <a class="back" href="../../../site/index.html">Back to root research index</a>
+
+      <section class="hero">
+        <div>
+          <span class="eyebrow">Foundations Course Research</span>
+          <h1>Foundations of Finance</h1>
+          <p class="lead">A large share of the visible course material is about showing why finance privileges cash flows over accounting earnings and why time changes the value of every claim.</p>
+          <div class="meta">
+            <span class="chip">Updated: August 9, 2026</span>
+            <span class="chip">13 playlist videos</span>
+            <span class="chip">11 transcript-backed sessions</span>
+            <span class="chip">31,493 words</span>
+          </div>
+          <nav><a class="" href="../index.html">Overview</a><a class="" href="../course-thesis.html">Course Thesis</a><a class="active" href="index.html">Concept Atlas</a></nav>
+        </div>
+        <div class="hero-aside">
+          <div class="aside-card">
+            <h2>What This Course Adds</h2>
+            <p>This workspace now has a reader-facing layer for Damodaran's first-principles finance course, making the introductory material usable alongside the richer investment, valuation, and corporate-finance workspaces.</p>
+          </div>
+          <div class="aside-card">
+            <h2>Coverage Note</h2>
+            <p>Theme map is built from the 11 transcript-backed sessions available on August 9, 2026. Session 3 had no subtitles available and one playlist video was private.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Cash Flows And Time Translate Economic Choices Into Value</h2>
+          <p>A large share of the visible course material is about showing why finance privileges cash flows over accounting earnings and why time changes the value of every claim.</p>
+        </div>
+
+          <article class="essay">
+            <h2>The Economic Core</h2>
+            <p>This theme teaches that finance cares about what cash a business can generate and when that cash arrives. Accounting labels can help organize the story, but they do not determine value on their own.</p>
+          </article>
+        
+
+          <article class="essay">
+            <h2>Why Beginners Get Stuck Here</h2>
+            <p>Many people learn discounting mechanically before they understand it intuitively. Damodaran starts from the idea that delay has a cost, uncertainty changes the worth of future dollars, and claims with different timing patterns need different valuation treatment.</p>
+          </article>
+        
+
+          <article class="essay">
+            <h2>Where It Leads</h2>
+            <p>Once cash flow and time are in place, the student can move cleanly into bonds, equity, and options. The valuation problem becomes easier to reason about because each asset can be described by the shape and uncertainty of its future payoffs.</p>
+          </article>
+        
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Subthemes</h2>
+        </div>
+        <div class="list">
+
+          <div class="list-item">
+            <div class="kicker">Subtheme</div>
+            <h3>Cash flow is the economic core beneath accounting form</h3>
+            <p>The course repeatedly distinguishes finance from accounting by insisting that value comes from the cash generated by assets, not from reported earnings alone.</p>
+            <ul>
+              <li>Session 1: Session 1: First Steps in Finance</li>
+            </ul>
+          </div>
+        
+
+          <div class="list-item">
+            <div class="kicker">Subtheme</div>
+            <h3>Time value is the bridge from intuition to pricing</h3>
+            <p>A dollar today is worth more than a dollar later because delay has an economic cost, and finance operationalizes that intuition through present-value mechanics.</p>
+            <ul>
+              <li>Session 6: Session 6: The Time Value of Money</li>
+            </ul>
+          </div>
+        
+
+          <div class="list-item">
+            <div class="kicker">Subtheme</div>
+            <h3>Different cash-flow claims produce different valuation logics</h3>
+            <p>Contractual claims such as bonds, residual claims such as equity, and contingent claims such as options are valued differently because the timing and certainty of their cash flows differ.</p>
+            <ul>
+              <li>Session 7: Session 7:  Valuing Bonds, Session 8: Session 8:  Introduction to Equity Valuation</li>
+            </ul>
+          </div>
+        
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Evidence Sessions</h2>
+        </div>
+        <div class="grid-2">
+
+          <article class="card">
+            <div class="kicker">Evidence Session</div>
+            <h3>Session 1: First Steps in Finance</h3>
+            <p>1,989 words across 585 transcript cues.</p>
+          </article>
+        
+
+          <article class="card">
+            <div class="kicker">Evidence Session</div>
+            <h3>Session 6: The Time Value of Money</h3>
+            <p>3,198 words across 891 transcript cues.</p>
+          </article>
+        
+
+          <article class="card">
+            <div class="kicker">Evidence Session</div>
+            <h3>Session 7:  Valuing Bonds</h3>
+            <p>3,143 words across 1,017 transcript cues.</p>
+          </article>
+        
+
+          <article class="card">
+            <div class="kicker">Evidence Session</div>
+            <h3>Session 8:  Introduction to Equity Valuation</h3>
+            <p>2,206 words across 627 transcript cues.</p>
+          </article>
+        
+        </div>
+      </section>
+
+    </main>
+  </body>
+</html>

@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Foundations of Finance - Concept Atlas</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f4f1ea;
+        --panel: #fffdf8;
+        --panel-alt: #f8f4ed;
+        --ink: #1f1f1b;
+        --muted: #605b52;
+        --line: #d7d0c4;
+        --accent: #0b6b6f;
+        --accent-soft: #d8ecec;
+        --accent-2: #8e4b15;
+        --shadow: 0 16px 40px rgba(32, 26, 16, 0.08);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: var(--bg);
+        color: var(--ink);
+        line-height: 1.58;
+      }
+      a { color: inherit; }
+      .page {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 24px 0 64px;
+      }
+      .back {
+        display: inline-flex;
+        align-items: center;
+        min-height: 36px;
+        padding: 0 12px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel);
+        color: var(--muted);
+        text-decoration: none;
+        margin-bottom: 18px;
+      }
+      .hero, .card, .essay {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        box-shadow: var(--shadow);
+        border-radius: 8px;
+      }
+      .hero {
+        display: grid;
+        grid-template-columns: 1.45fr 1fr;
+        gap: 24px;
+        padding: 28px;
+      }
+      .eyebrow {
+        display: inline-block;
+        padding: 6px 10px;
+        background: var(--accent-soft);
+        color: var(--accent);
+        border-radius: 999px;
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+      h1, h2, h3 { margin: 0; font-weight: 700; }
+      h1 { margin-top: 12px; font-size: clamp(2.2rem, 4vw, 3.4rem); line-height: 1.04; }
+      h2 { font-size: 1.4rem; margin-bottom: 10px; }
+      h3 { font-size: 1.02rem; margin-bottom: 8px; }
+      p { margin: 0; color: var(--muted); }
+      .lead { color: var(--ink); font-size: 1.05rem; max-width: 70ch; }
+      nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 18px;
+      }
+      nav a {
+        display: inline-flex;
+        align-items: center;
+        min-height: 34px;
+        padding: 0 12px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel-alt);
+        color: var(--muted);
+        text-decoration: none;
+      }
+      nav a.active {
+        background: var(--accent-soft);
+        color: var(--accent);
+        border-color: rgba(11, 107, 111, 0.25);
+      }
+      .meta, .chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 14px;
+      }
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        min-height: 30px;
+        padding: 0 10px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel-alt);
+        color: var(--muted);
+        font-size: 0.84rem;
+      }
+      .hero-aside {
+        display: grid;
+        gap: 16px;
+      }
+      .aside-card {
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: linear-gradient(180deg, #fffdf8 0%, #f6f0e6 100%);
+      }
+      .section { margin-top: 24px; }
+      .section-head { margin-bottom: 14px; }
+      .grid-2, .grid-3 {
+        display: grid;
+        gap: 16px;
+      }
+      .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .card, .essay { padding: 20px; }
+      .card a, .essay a {
+        color: var(--accent);
+        font-weight: 700;
+        text-decoration: none;
+      }
+      .essay p + p { margin-top: 12px; }
+      ul {
+        margin: 10px 0 0;
+        padding-left: 18px;
+        color: var(--muted);
+      }
+      li + li { margin-top: 8px; }
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+        margin-top: 14px;
+      }
+      .stat {
+        padding: 14px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel-alt);
+      }
+      .stat .label {
+        font-size: 0.76rem;
+        text-transform: uppercase;
+        font-weight: 700;
+        color: var(--muted);
+      }
+      .stat .value {
+        margin-top: 6px;
+        font-size: 1.35rem;
+        font-weight: 700;
+        color: var(--ink);
+      }
+      .list {
+        display: grid;
+        gap: 12px;
+      }
+      .list-item {
+        padding: 14px 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel-alt);
+      }
+      .kicker {
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        font-weight: 700;
+        color: var(--accent-2);
+        margin-bottom: 6px;
+      }
+      @media (max-width: 980px) {
+        .hero, .grid-2, .grid-3 { grid-template-columns: 1fr; }
+      }
+      @media (max-width: 720px) {
+        .page { width: min(100% - 20px, 1180px); padding-top: 14px; }
+        .hero, .card, .essay { padding: 16px; }
+        .stats { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <a class="back" href="../../../site/index.html">Back to root research index</a>
+
+      <section class="hero">
+        <div>
+          <span class="eyebrow">Foundations Course Research</span>
+          <h1>Foundations of Finance</h1>
+          <p class="lead">Each major theme is treated here as a reusable concept page, so the course can function as a compact concept atlas rather than only as a session list.</p>
+          <div class="meta">
+            <span class="chip">Updated: August 9, 2026</span>
+            <span class="chip">13 playlist videos</span>
+            <span class="chip">11 transcript-backed sessions</span>
+            <span class="chip">31,493 words</span>
+          </div>
+          <nav><a class="" href="../index.html">Overview</a><a class="" href="../course-thesis.html">Course Thesis</a><a class="active" href="index.html">Concept Atlas</a></nav>
+        </div>
+        <div class="hero-aside">
+          <div class="aside-card">
+            <h2>What This Course Adds</h2>
+            <p>This workspace now has a reader-facing layer for Damodaran's first-principles finance course, making the introductory material usable alongside the richer investment, valuation, and corporate-finance workspaces.</p>
+          </div>
+          <div class="aside-card">
+            <h2>Coverage Note</h2>
+            <p>Theme map is built from the 11 transcript-backed sessions available on August 9, 2026. Session 3 had no subtitles available and one playlist video was private.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Concept Pages</h2>
+          <p>These pages are written for reuse in later cross-course synthesis, teaching notes, and future normalized concept work.</p>
+        </div>
+        <div class="grid-2">
+
+          <article class="card">
+            <div class="kicker">Concept</div>
+            <h3><a href="finance-is-a-forward-looking-language-of-business.html">Finance Is A Forward-Looking Language Of Business</a></h3>
+            <p>The course opens by arguing that finance is not a narrow technical specialty but a way of reading how businesses create, fund, and distribute value through time.</p>
+            <ul>
+              <li>3 subthemes</li>
+              <li>2 evidence sessions</li>
+            </ul>
+          </article>
+        
+
+          <article class="card">
+            <div class="kicker">Concept</div>
+            <h3><a href="cash-flows-and-time-translate-economic-choices-into-value.html">Cash Flows And Time Translate Economic Choices Into Value</a></h3>
+            <p>A large share of the visible course material is about showing why finance privileges cash flows over accounting earnings and why time changes the value of every claim.</p>
+            <ul>
+              <li>3 subthemes</li>
+              <li>4 evidence sessions</li>
+            </ul>
+          </article>
+        
+
+          <article class="card">
+            <div class="kicker">Concept</div>
+            <h3><a href="risk-is-inescapable-but-it-must-be-measured-through-the-right-eyes.html">Risk Is Inescapable, But It Must Be Measured Through The Right Eyes</a></h3>
+            <p>The risk block argues that risk is not only danger to be avoided; it is the unavoidable condition for earning return, and the real challenge is to measure and price it properly.</p>
+            <ul>
+              <li>3 subthemes</li>
+              <li>3 evidence sessions</li>
+            </ul>
+          </article>
+        
+
+          <article class="card">
+            <div class="kicker">Concept</div>
+            <h3><a href="valuation-starts-by-understanding-what-kind-of-claim-you-own.html">Valuation Starts By Understanding What Kind Of Claim You Own</a></h3>
+            <p>The course builds valuation from the ground up by distinguishing contractual, residual, and contingent claims and then showing how each maps into a different pricing structure.</p>
+            <ul>
+              <li>3 subthemes</li>
+              <li>3 evidence sessions</li>
+            </ul>
+          </article>
+        
+
+          <article class="card">
+            <div class="kicker">Concept</div>
+            <h3><a href="macro-forces-inflation-rates-and-currencies-shape-every-financial-decision.html">Macro Forces, Inflation, Rates, And Currencies Shape Every Financial Decision</a></h3>
+            <p>The late visible sessions make the case that inflation, interest rates, and currencies are not background variables. They are the environment that determines what discount rates mean and how cross-border comparisons work.</p>
+            <ul>
+              <li>3 subthemes</li>
+              <li>3 evidence sessions</li>
+            </ul>
+          </article>
+        
+        </div>
+      </section>
+
+    </main>
+  </body>
+</html>

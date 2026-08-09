@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Foundations of Finance - Course Thesis</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f4f1ea;
+        --panel: #fffdf8;
+        --panel-alt: #f8f4ed;
+        --ink: #1f1f1b;
+        --muted: #605b52;
+        --line: #d7d0c4;
+        --accent: #0b6b6f;
+        --accent-soft: #d8ecec;
+        --accent-2: #8e4b15;
+        --shadow: 0 16px 40px rgba(32, 26, 16, 0.08);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: var(--bg);
+        color: var(--ink);
+        line-height: 1.58;
+      }
+      a { color: inherit; }
+      .page {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 24px 0 64px;
+      }
+      .back {
+        display: inline-flex;
+        align-items: center;
+        min-height: 36px;
+        padding: 0 12px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel);
+        color: var(--muted);
+        text-decoration: none;
+        margin-bottom: 18px;
+      }
+      .hero, .card, .essay {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        box-shadow: var(--shadow);
+        border-radius: 8px;
+      }
+      .hero {
+        display: grid;
+        grid-template-columns: 1.45fr 1fr;
+        gap: 24px;
+        padding: 28px;
+      }
+      .eyebrow {
+        display: inline-block;
+        padding: 6px 10px;
+        background: var(--accent-soft);
+        color: var(--accent);
+        border-radius: 999px;
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+      h1, h2, h3 { margin: 0; font-weight: 700; }
+      h1 { margin-top: 12px; font-size: clamp(2.2rem, 4vw, 3.4rem); line-height: 1.04; }
+      h2 { font-size: 1.4rem; margin-bottom: 10px; }
+      h3 { font-size: 1.02rem; margin-bottom: 8px; }
+      p { margin: 0; color: var(--muted); }
+      .lead { color: var(--ink); font-size: 1.05rem; max-width: 70ch; }
+      nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 18px;
+      }
+      nav a {
+        display: inline-flex;
+        align-items: center;
+        min-height: 34px;
+        padding: 0 12px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel-alt);
+        color: var(--muted);
+        text-decoration: none;
+      }
+      nav a.active {
+        background: var(--accent-soft);
+        color: var(--accent);
+        border-color: rgba(11, 107, 111, 0.25);
+      }
+      .meta, .chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 14px;
+      }
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        min-height: 30px;
+        padding: 0 10px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--panel-alt);
+        color: var(--muted);
+        font-size: 0.84rem;
+      }
+      .hero-aside {
+        display: grid;
+        gap: 16px;
+      }
+      .aside-card {
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: linear-gradient(180deg, #fffdf8 0%, #f6f0e6 100%);
+      }
+      .section { margin-top: 24px; }
+      .section-head { margin-bottom: 14px; }
+      .grid-2, .grid-3 {
+        display: grid;
+        gap: 16px;
+      }
+      .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .card, .essay { padding: 20px; }
+      .card a, .essay a {
+        color: var(--accent);
+        font-weight: 700;
+        text-decoration: none;
+      }
+      .essay p + p { margin-top: 12px; }
+      ul {
+        margin: 10px 0 0;
+        padding-left: 18px;
+        color: var(--muted);
+      }
+      li + li { margin-top: 8px; }
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+        margin-top: 14px;
+      }
+      .stat {
+        padding: 14px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel-alt);
+      }
+      .stat .label {
+        font-size: 0.76rem;
+        text-transform: uppercase;
+        font-weight: 700;
+        color: var(--muted);
+      }
+      .stat .value {
+        margin-top: 6px;
+        font-size: 1.35rem;
+        font-weight: 700;
+        color: var(--ink);
+      }
+      .list {
+        display: grid;
+        gap: 12px;
+      }
+      .list-item {
+        padding: 14px 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel-alt);
+      }
+      .kicker {
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        font-weight: 700;
+        color: var(--accent-2);
+        margin-bottom: 6px;
+      }
+      @media (max-width: 980px) {
+        .hero, .grid-2, .grid-3 { grid-template-columns: 1fr; }
+      }
+      @media (max-width: 720px) {
+        .page { width: min(100% - 20px, 1180px); padding-top: 14px; }
+        .hero, .card, .essay { padding: 16px; }
+        .stats { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <a class="back" href="../../site/index.html">Back to root research index</a>
+
+      <section class="hero">
+        <div>
+          <span class="eyebrow">Foundations Course Research</span>
+          <h1>Foundations of Finance</h1>
+          <p class="lead">The course teaches the conceptual floor beneath Damodaran&#x27;s broader system: how to think about value claims before building more advanced valuation, financing, and investing judgments.</p>
+          <div class="meta">
+            <span class="chip">Updated: August 9, 2026</span>
+            <span class="chip">13 playlist videos</span>
+            <span class="chip">11 transcript-backed sessions</span>
+            <span class="chip">31,493 words</span>
+          </div>
+          <nav><a class="" href="index.html">Overview</a><a class="active" href="course-thesis.html">Course Thesis</a><a class="" href="concepts/index.html">Concept Atlas</a></nav>
+        </div>
+        <div class="hero-aside">
+          <div class="aside-card">
+            <h2>What This Course Adds</h2>
+            <p>This workspace now has a reader-facing layer for Damodaran's first-principles finance course, making the introductory material usable alongside the richer investment, valuation, and corporate-finance workspaces.</p>
+          </div>
+          <div class="aside-card">
+            <h2>Coverage Note</h2>
+            <p>Theme map is built from the 11 transcript-backed sessions available on August 9, 2026. Session 3 had no subtitles available and one playlist video was private.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Long-Form Reading</h2>
+          <p>A simple way to read the course is as an argument about how financial claims become legible.</p>
+        </div>
+
+          <article class="essay">
+            <h2>The Course Thesis</h2>
+            <p>Foundations of Finance is a first-principles bridge course. It builds the conceptual architecture required to understand how businesses create value, how claims on that value differ, and how time, risk, inflation, and currency shape every financial judgment.</p>
+          </article>
+        
+
+          <article class="essay">
+            <h2>Why This Course Matters In The Larger Damodaran System</h2>
+            <p>In the broader Damodaran corpus, this course acts like the basement layer. Investment philosophy, valuation, and corporate finance all assume the reader already understands cash flows, risk, claim structure, discounting, and nominal consistency. Foundations of Finance makes those assumptions explicit.</p>
+          </article>
+        
+
+          <article class="essay">
+            <h2>What A Reader Should Carry Forward</h2>
+            <p>A reader should leave with a handful of durable habits: ask what claim is being valued, ask whose risk matters, separate nominal from real thinking, treat growth as valuable only when it creates value, and keep the whole analysis internally consistent.</p>
+          </article>
+        
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <h2>Three Durable Takeaways</h2>
+        </div>
+        <div class="grid-3">
+          <article class="card">
+            <h3>Value Starts With Business Reality</h3>
+            <p>Every later spreadsheet is downstream of a view about what the business owns, how it grows, and who gets paid first.</p>
+          </article>
+          <article class="card">
+            <h3>Risk And Discounting Are Interpretive</h3>
+            <p>Required return is an argument about uncertainty and ownership, not just a plug variable.</p>
+          </article>
+          <article class="card">
+            <h3>Consistency Is A Habit</h3>
+            <p>Real versus nominal logic, inflation assumptions, and currency choice have to fit together before the final number can mean anything.</p>
+          </article>
+        </div>
+      </section>
+
+    </main>
+  </body>
+</html>

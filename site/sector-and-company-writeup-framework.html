@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sector And Company Writeup Framework - Aswath Damodaran Courses Concepts Research</title>
+    <style>
+      :root {
+        --bg: #f4f1ea;
+        --panel: #fffdf8;
+        --panel-alt: #f8f4ed;
+        --ink: #1f1f1b;
+        --muted: #605b52;
+        --line: #d7d0c4;
+        --accent: #0b6b6f;
+        --accent-soft: #d8ecec;
+        --shadow: 0 16px 40px rgba(32, 26, 16, 0.08);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: var(--bg);
+        color: var(--ink);
+        line-height: 1.68;
+      }
+      .page { width: min(1000px, calc(100% - 24px)); margin: 0 auto; padding: 24px 0 56px; }
+      .back {
+        display: inline-flex; align-items: center; min-height: 36px; padding: 0 12px;
+        border: 1px solid var(--line); border-radius: 999px; background: var(--panel);
+        color: var(--muted); text-decoration: none; margin-bottom: 18px;
+      }
+      .hero, .section {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        box-shadow: var(--shadow);
+        padding: 24px;
+      }
+      .stack { display: grid; gap: 18px; margin-top: 22px; }
+      .eyebrow {
+        display: inline-block; padding: 6px 10px; border-radius: 999px;
+        background: var(--accent-soft); color: var(--accent); font-size: 12px;
+        font-weight: 700; text-transform: uppercase;
+      }
+      h1, h2 { margin: 0; font-weight: 700; }
+      h1 { margin-top: 12px; font-size: clamp(2rem, 4vw, 3.15rem); line-height: 1.04; }
+      h2 { font-size: 1.36rem; margin-bottom: 14px; }
+      p { margin: 0 0 14px; color: var(--muted); }
+      .lead { color: var(--ink); font-size: 1.06rem; max-width: 76ch; }
+      .meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+      .chip {
+        display: inline-flex; align-items: center; min-height: 30px; padding: 0 10px;
+        border: 1px solid var(--line); border-radius: 999px; background: var(--panel-alt);
+        color: var(--muted); font-size: 0.84rem;
+      }
+      ul, ol { margin: 0; padding-left: 20px; color: var(--muted); }
+      li + li { margin-top: 8px; }
+      @media (max-width: 720px) {
+        .hero, .section { padding: 18px; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+
+      <a class="back" href="index.html">Back to root index</a>
+      <section class="hero">
+        <span class="eyebrow">Writeup Framework</span>
+        <h1>Sector And Company Writeup Framework</h1>
+        <p class="lead">
+          A root-level guide for turning the Damodaran concept, comparison, and
+          synthesis layers into detailed but easy-to-understand sector and
+          company analysis.
+        </p>
+        <div class="meta">
+          <span class="chip">Reusable writing scaffold</span>
+          <span class="chip">Sector and company analysis</span>
+          <span class="chip">Updated August 9, 2026</span>
+        </div>
+      </section>
+    
+      <div class="stack">
+      <section class="section">
+        <h2>What This Framework Is For</h2>
+        <p>The active Damodaran workspace is now strong enough to support downstream sector and company writeups. The goal is not to produce thin market commentary or list-like company notes. The goal is to write clear, detailed analyses that connect business story, market narrative, industry structure, valuation logic, capital-allocation discipline, and institutional context.</p>
+<p>This framework exists so future writeups use the transcript-backed concept layer already built in the workspace instead of starting from scratch each time.</p>
+      </section>
+      <section class="section">
+        <h2>The Standard For A Good Sector Writeup</h2>
+        <p>A good sector writeup should explain what kind of business systems operate in the sector, what demand or consumer behavior drives them, what narrative the market tends to attach to them, and where valuation or pricing usually goes wrong.</p>
+<p>At minimum, a serious sector writeup should answer these questions:</p>
+<ol>
+<li>What is the real economic engine of the sector?</li>
+<li>What customer or user behavior actually drives revenue durability?</li>
+<li>What does the market usually get excited about in this sector?</li>
+<li>Which metrics are informative, and which metrics are usually seductive but misleading?</li>
+<li>What capital-allocation pattern separates strong operators from weak ones?</li>
+<li>What kind of valuation mistakes recur here because analysts use the wrong template, time horizon, peer set, or narrative?</li>
+</ol>
+      </section>
+      <section class="section">
+        <h2>The Standard For A Good Company Writeup</h2>
+        <p>A good company writeup should explain not just what the company does, but what story the company wants investors or customers to believe, what economics would have to be true for that story to hold, and what risks, constraints, or ownership realities change the answer.</p>
+<p>At minimum, a serious company writeup should answer these questions:</p>
+<ol>
+<li>What is the company&#x27;s actual business model?</li>
+<li>Where does it sit in the life cycle?</li>
+<li>What is the market pricing narrative around it?</li>
+<li>Which assumptions really drive value?</li>
+<li>What has to be true about growth, margins, reinvestment, and risk for the current story to make sense?</li>
+<li>What type of business is it really: mature operator, platform, financial firm, private business, distressed case, option-heavy asset, or something else?</li>
+<li>What governance, control, liquidity, or capital-structure issues matter to the valuation?</li>
+</ol>
+      </section>
+      <section class="section">
+        <h2>Core Analytical Lenses To Reuse</h2>
+        <p>The workspace already contains several lenses that should be reused directly in future sector and company work.</p>
+<ul>
+<li>intrinsic value versus pricing</li>
+<li>narrative versus numbers</li>
+<li>growth and reinvestment discipline</li>
+<li>fit and constraints</li>
+<li>risk as a structured input rather than ambient fear</li>
+<li>control, ownership, and liquidity</li>
+<li>optionality and contingent upside</li>
+<li>institutional trust and market legitimacy</li>
+</ul>
+<p>These are not decorative topics. They are the operating lenses that keep a writeup from turning into either naive storytelling or sterile spreadsheet description.</p>
+      </section>
+      <section class="section">
+        <h2>Sector Writeup Structure</h2>
+        <p>The default structure for a sector writeup should be:</p>
+<ol>
+<li>Sector thesis in plain English.</li>
+<li>Demand or consumer behavior layer.</li>
+<li>Industry structure and business-model types.</li>
+<li>Market narrative and common pricing habits.</li>
+<li>Capital intensity, reinvestment, and margin structure.</li>
+<li>Risk, regulation, or institutional trust layer.</li>
+<li>Valuation traps and common category mistakes.</li>
+<li>Damodaran concept links that best frame the sector.</li>
+</ol>
+<p>The point is to move from broad story to operating economics to analytical discipline, not to jump straight into multiples without defining the business system first.</p>
+      </section>
+      <section class="section">
+        <h2>Company Writeup Structure</h2>
+        <p>The default structure for a company writeup should be:</p>
+<ol>
+<li>Company thesis in plain English.</li>
+<li>Business model and revenue logic.</li>
+<li>Customer behavior or adoption pattern.</li>
+<li>Narrative currently attached by the market.</li>
+<li>Unit economics, margins, and reinvestment needs.</li>
+<li>Life-cycle position and what that implies.</li>
+<li>Risk, discount-rate, or ownership questions.</li>
+<li>Valuation framing: intrinsic value, pricing, or both.</li>
+<li>What would change the thesis.</li>
+<li>Damodaran concept links that best frame the company.</li>
+</ol>
+<p>This keeps the writeup understandable to a non-specialist while still forcing the underlying valuation logic to stay explicit.</p>
+      </section>
+      <section class="section">
+        <h2>Societal, Cultural, Consumer, And Industrial Layers</h2>
+        <p>The workspace should keep pushing beyond finance language alone. Sector and company writeups should explicitly ask:</p>
+<ul>
+<li>what cultural story is carrying attention or pricing?</li>
+<li>what kind of consumer identity or aspiration is embedded in demand?</li>
+<li>what institutional or trust layer shapes the market?</li>
+<li>what industrial structure determines bargaining power, margins, or durability?</li>
+<li>what social or governance patterns affect legitimacy, power, or capital access?</li>
+</ul>
+<p>This is where the broader synthesis work becomes useful. It turns the course workspace into a tool for real-world interpretation instead of just course documentation.</p>
+      </section>
+      <section class="section">
+        <h2>Evidence Discipline</h2>
+        <p>Future writeups should tie back to the existing workspace wherever possible:</p>
+<ul>
+<li>course themes and subthemes</li>
+<li>course concept pages</li>
+<li>root normalized concepts</li>
+<li>cross-course comparison pages</li>
+<li>audience-comparison pages where teaching stance matters</li>
+<li>root synthesis essays when a broader societal or market pattern is being used</li>
+</ul>
+<p>If a writeup introduces a claim that depends on a Damodaran pattern, the source concept or comparison layer should be named explicitly.</p>
+      </section>
+      <section class="section">
+        <h2>What This Enables Next</h2>
+        <p>Once this framework is used consistently, the workspace can support:</p>
+<ul>
+<li>industry playbooks</li>
+<li>company research briefs</li>
+<li>investment memos</li>
+<li>curriculum modules</li>
+<li>founder or operator teaching notes</li>
+<li>cross-sector comparisons built on the same interpretive structure</li>
+</ul>
+<p>That is the real downstream use of the project: turning transcript-backed teaching into reusable analytical writing.</p>
+      </section>
+      </div>
+    </main>
+  </body>
+</html>

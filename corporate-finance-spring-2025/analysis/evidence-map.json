@@ -1,0 +1,944 @@
+{
+  "concepts": {
+    "objective-function": [
+      {
+        "session": 10,
+        "title": "Session 9: More on beta - bottom up betas and private company betas",
+        "url": "https://www.youtube.com/watch?v=awEyDWhEdhg",
+        "score": 267,
+        "excerpt": "everything for every business so that's your first business the second business",
+        "start_seconds": 817.16,
+        "end_seconds": 819.35
+      },
+      {
+        "session": 26,
+        "title": "Session 25: Valuation - The Final Frontier!",
+        "url": "https://www.youtube.com/watch?v=CERMihGaLlA",
+        "score": 167,
+        "excerpt": "value of the operating assets. Much of that value comes in the terminal value",
+        "start_seconds": 4073.52,
+        "end_seconds": 4075.27
+      },
+      {
+        "session": 25,
+        "title": "Session 24: Closure on Dividends and First Steps on Valuation",
+        "url": "https://www.youtube.com/watch?v=bm1zE4wCQvI",
+        "score": 150,
+        "excerpt": "you're an AI business, a young business, an old business. Ultimately, I value",
+        "start_seconds": 1102.24,
+        "end_seconds": 1104.87
+      },
+      {
+        "session": 16,
+        "title": "Session 15: Celsius Case Analysis, Real Options and Investment Post-mortems",
+        "url": "https://www.youtube.com/watch?v=pz2hF0_ygm4",
+        "score": 147,
+        "excerpt": "saying, but I replaced my salvage value with the terminal value. I want to talk",
+        "start_seconds": 336.48,
+        "end_seconds": 338.31
+      },
+      {
+        "session": 2,
+        "title": "Session 1: Class themes, structure and logistics",
+        "url": "https://www.youtube.com/watch?v=5rhild0Juf4",
+        "score": 128,
+        "excerpt": "I'm trying to maximize the value of the business. That's a loaded objective. You",
+        "start_seconds": 3930.64,
+        "end_seconds": 3932.83
+      }
+    ],
+    "corporate-governance": [
+      {
+        "session": 4,
+        "title": "Session 3: Corporate Governance - Power abhors a vacuum!",
+        "url": "https://www.youtube.com/watch?v=IPTe5Ww2kOk",
+        "score": 220,
+        "excerpt": "so if shareholders have little power over managers you know what managers do",
+        "start_seconds": 1053.44,
+        "end_seconds": 1055.43
+      },
+      {
+        "session": 3,
+        "title": "Session 2: The End Game in Business",
+        "url": "https://www.youtube.com/watch?v=CqwuN4dLLFg",
+        "score": 136,
+        "excerpt": "board the CEO you have a counter CEO the CEO brings out Bankers to say this deal",
+        "start_seconds": 4694.239,
+        "end_seconds": 4696.229
+      },
+      {
+        "session": 5,
+        "title": "Session 4: Closure on the End Game - Stakeholders, Sustainability and ESG",
+        "url": "https://www.youtube.com/watch?v=cLotdkcvdd4",
+        "score": 121,
+        "excerpt": "shareholders have little power over manager so what do managers do whatever",
+        "start_seconds": 167.959,
+        "end_seconds": 169.949
+      },
+      {
+        "session": 24,
+        "title": "Session 23: Assessing Dividend (and Cash Return) Policy",
+        "url": "https://www.youtube.com/watch?v=juhEybZYE2M",
+        "score": 77,
+        "excerpt": "governance. How much power do you have as managers? And I will wag it that in",
+        "start_seconds": 2491.359,
+        "end_seconds": 2493.99
+      },
+      {
+        "session": 27,
+        "title": "Session 26: The End Game",
+        "url": "https://www.youtube.com/watch?v=dRBc9uFgD_A",
+        "score": 43,
+        "excerpt": "Shareholders, we said, often have little power over managers. So, what do they",
+        "start_seconds": 637.2,
+        "end_seconds": 638.83
+      }
+    ],
+    "stakeholders-sustainability-and-esg": [
+      {
+        "session": 5,
+        "title": "Session 4: Closure on the End Game - Stakeholders, Sustainability and ESG",
+        "url": "https://www.youtube.com/watch?v=cLotdkcvdd4",
+        "score": 110,
+        "excerpt": "sustainability corporate sustainability or product sustainability and the reason",
+        "start_seconds": 1945.159,
+        "end_seconds": 1946.75
+      },
+      {
+        "session": 3,
+        "title": "Session 2: The End Game in Business",
+        "url": "https://www.youtube.com/watch?v=CqwuN4dLLFg",
+        "score": 56,
+        "excerpt": "ESG so let's start with this notion of stakeholders who are the stakeholders in",
+        "start_seconds": 1911.639,
+        "end_seconds": 1913.629
+      },
+      {
+        "session": 4,
+        "title": "Session 3: Corporate Governance - Power abhors a vacuum!",
+        "url": "https://www.youtube.com/watch?v=IPTe5Ww2kOk",
+        "score": 12,
+        "excerpt": "which is a social CA and again in theory social cause and social benefits don't",
+        "start_seconds": 4588.76,
+        "end_seconds": 4590.669
+      },
+      {
+        "session": 27,
+        "title": "Session 26: The End Game",
+        "url": "https://www.youtube.com/watch?v=dRBc9uFgD_A",
+        "score": 11,
+        "excerpt": "So, let's go back to the start of the class. We talked about the stakeholders",
+        "start_seconds": 548.52,
+        "end_seconds": 551.15
+      },
+      {
+        "session": 2,
+        "title": "Session 1: Class themes, structure and logistics",
+        "url": "https://www.youtube.com/watch?v=5rhild0Juf4",
+        "score": 8,
+        "excerpt": "things like sustainability and ESG and stakeholder wealth maximization that I'm",
+        "start_seconds": 4941.36,
+        "end_seconds": 4943.31
+      }
+    ],
+    "riskfree-rates": [
+      {
+        "session": 7,
+        "title": "Session 6: Riskfree Rates and Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=oeRtLInQTAM",
+        "score": 125,
+        "excerpt": "of what currency you should get a risk free rated it depends on what currency",
+        "start_seconds": 1500.76,
+        "end_seconds": 1502.95
+      },
+      {
+        "session": 13,
+        "title": "Session 12: Incremental, time-weighted Cash Flow Returns",
+        "url": "https://www.youtube.com/watch?v=CncUmN65lDs",
+        "score": 35,
+        "excerpt": "currency with a 9% inflation rate the other with the 2% inflation rate the",
+        "start_seconds": 4704.88,
+        "end_seconds": 4707.39
+      },
+      {
+        "session": 8,
+        "title": "Session 7: Equity Risk Premiums and Betas",
+        "url": "https://www.youtube.com/watch?v=nGXi-YnQqao",
+        "score": 32,
+        "excerpt": "about risk free rates and the risk free rate we said depends on the currency you",
+        "start_seconds": 2169.4,
+        "end_seconds": 2171.309
+      },
+      {
+        "session": 9,
+        "title": "Session 8: Expected returns and Costs of Equity",
+        "url": "https://www.youtube.com/watch?v=nQ9OFaatyPA",
+        "score": 31,
+        "excerpt": "treasury and hope and pray the US Treasury is not default free if it's",
+        "start_seconds": 282.44,
+        "end_seconds": 285.15
+      },
+      {
+        "session": 21,
+        "title": "Session 20: Debt Design",
+        "url": "https://www.youtube.com/watch?v=Kk7BEn3Y4XY",
+        "score": 26,
+        "excerpt": "respond to inflation, or how you as a business respond to inflation.",
+        "start_seconds": 1467.28,
+        "end_seconds": 1469.59
+      }
+    ],
+    "equity-risk-premiums": [
+      {
+        "session": 8,
+        "title": "Session 7: Equity Risk Premiums and Betas",
+        "url": "https://www.youtube.com/watch?v=nGXi-YnQqao",
+        "score": 135,
+        "excerpt": "additional country risk premium just add it on to us premium and then as a second",
+        "start_seconds": 274.56,
+        "end_seconds": 277.99
+      },
+      {
+        "session": 7,
+        "title": "Session 6: Riskfree Rates and Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=oeRtLInQTAM",
+        "score": 69,
+        "excerpt": "gave me an equity risk premium how many of you would demand a larger premium now",
+        "start_seconds": 3535.52,
+        "end_seconds": 3538.15
+      },
+      {
+        "session": 20,
+        "title": "Session 19: The APV and Peer Group Approaches to Financing Mix",
+        "url": "https://www.youtube.com/watch?v=jv-mk7lpIdg",
+        "score": 31,
+        "excerpt": "do we call it? The equity risk premium, right? And I",
+        "start_seconds": 1298.28,
+        "end_seconds": 1300.11
+      },
+      {
+        "session": 13,
+        "title": "Session 12: Incremental, time-weighted Cash Flow Returns",
+        "url": "https://www.youtube.com/watch?v=CncUmN65lDs",
+        "score": 28,
+        "excerpt": "that additional country risk premium to my mature Market premium 8.5% much",
+        "start_seconds": 529.08,
+        "end_seconds": 532.269
+      },
+      {
+        "session": 10,
+        "title": "Session 9: More on beta - bottom up betas and private company betas",
+        "url": "https://www.youtube.com/watch?v=awEyDWhEdhg",
+        "score": 22,
+        "excerpt": "for Disney we took the risk-free rate the equity risk premium and then we used",
+        "start_seconds": 284.12,
+        "end_seconds": 286.35
+      }
+    ],
+    "bottom-up-betas": [
+      {
+        "session": 10,
+        "title": "Session 9: More on beta - bottom up betas and private company betas",
+        "url": "https://www.youtube.com/watch?v=awEyDWhEdhg",
+        "score": 281,
+        "excerpt": "an unlevered beta for being in the tobacco business and an unlevered beta",
+        "start_seconds": 516.88,
+        "end_seconds": 519.43
+      },
+      {
+        "session": 9,
+        "title": "Session 8: Expected returns and Costs of Equity",
+        "url": "https://www.youtube.com/watch?v=nQ9OFaatyPA",
+        "score": 269,
+        "excerpt": "betas by business I do a global beta I do us betas I do European betas I do",
+        "start_seconds": 2843.559,
+        "end_seconds": 2846.23
+      },
+      {
+        "session": 8,
+        "title": "Session 7: Equity Risk Premiums and Betas",
+        "url": "https://www.youtube.com/watch?v=nGXi-YnQqao",
+        "score": 158,
+        "excerpt": "there's the raw beta that's a regression beta I'll talk about the adjust beta in",
+        "start_seconds": 4423.0,
+        "end_seconds": 4424.55
+      },
+      {
+        "session": 27,
+        "title": "Session 26: The End Game",
+        "url": "https://www.youtube.com/watch?v=dRBc9uFgD_A",
+        "score": 110,
+        "excerpt": "question. If bottom-up betas and regression betas usually give you",
+        "start_seconds": 1566.08,
+        "end_seconds": 1567.31
+      },
+      {
+        "session": 18,
+        "title": "Session 17: Optimizing the Debt Mix with Cost of Capital approach",
+        "url": "https://www.youtube.com/watch?v=fdEnaqWUYzM",
+        "score": 88,
+        "excerpt": "unlevered beta for each business. We came up with an unlevered beta for",
+        "start_seconds": 2017.28,
+        "end_seconds": 2019.27
+      }
+    ],
+    "cost-of-equity": [
+      {
+        "session": 9,
+        "title": "Session 8: Expected returns and Costs of Equity",
+        "url": "https://www.youtube.com/watch?v=nQ9OFaatyPA",
+        "score": 216,
+        "excerpt": "betas by business I do a global beta I do us betas I do European betas I do",
+        "start_seconds": 2843.559,
+        "end_seconds": 2846.23
+      },
+      {
+        "session": 10,
+        "title": "Session 9: More on beta - bottom up betas and private company betas",
+        "url": "https://www.youtube.com/watch?v=awEyDWhEdhg",
+        "score": 201,
+        "excerpt": "beta they go to Bloomberg they look up the beta and they get a regression beta",
+        "start_seconds": 2709.04,
+        "end_seconds": 2710.549
+      },
+      {
+        "session": 8,
+        "title": "Session 7: Equity Risk Premiums and Betas",
+        "url": "https://www.youtube.com/watch?v=nGXi-YnQqao",
+        "score": 186,
+        "excerpt": "beta and then they call it predicted beta forecasted beta adjusted beta when",
+        "start_seconds": 4795.6,
+        "end_seconds": 4799.07
+      },
+      {
+        "session": 18,
+        "title": "Session 17: Optimizing the Debt Mix with Cost of Capital approach",
+        "url": "https://www.youtube.com/watch?v=fdEnaqWUYzM",
+        "score": 99,
+        "excerpt": "started. Cost of equity is driven by the beta. Beta measures what kind of risk?",
+        "start_seconds": 1311.32,
+        "end_seconds": 1316.55
+      },
+      {
+        "session": 7,
+        "title": "Session 6: Riskfree Rates and Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=oeRtLInQTAM",
+        "score": 90,
+        "excerpt": "require for the cost of equity in the capm the equation for expected return",
+        "start_seconds": 1227.64,
+        "end_seconds": 1230.35
+      }
+    ],
+    "cost-of-debt": [
+      {
+        "session": 11,
+        "title": "Session 10: Debt and the Cost of Debt",
+        "url": "https://www.youtube.com/watch?v=RNeCC28qbVI",
+        "score": 224,
+        "excerpt": "deuts had single a ratings V had an A minus rating so they're S&P ratings I",
+        "start_seconds": 1082.0,
+        "end_seconds": 1085.31
+      },
+      {
+        "session": 18,
+        "title": "Session 17: Optimizing the Debt Mix with Cost of Capital approach",
+        "url": "https://www.youtube.com/watch?v=fdEnaqWUYzM",
+        "score": 165,
+        "excerpt": "know, about ratings, you know, about triple B in ratings? What's what what is",
+        "start_seconds": 4658.08,
+        "end_seconds": 4660.07
+      },
+      {
+        "session": 19,
+        "title": "Session 18: Finishing up with Cost of Capital Optimization",
+        "url": "https://www.youtube.com/watch?v=zDbBR8-myEQ",
+        "score": 80,
+        "excerpt": "cost of debt, estimate a synthetic rating based on the interest coverage",
+        "start_seconds": 1556.4,
+        "end_seconds": 1557.669
+      },
+      {
+        "session": 20,
+        "title": "Session 19: The APV and Peer Group Approaches to Financing Mix",
+        "url": "https://www.youtube.com/watch?v=jv-mk7lpIdg",
+        "score": 77,
+        "excerpt": "100 years of corporate bond ratings and the default rates on each ratings class.",
+        "start_seconds": 2040.28,
+        "end_seconds": 2043.87
+      },
+      {
+        "session": 21,
+        "title": "Session 20: Debt Design",
+        "url": "https://www.youtube.com/watch?v=Kk7BEn3Y4XY",
+        "score": 71,
+        "excerpt": "ratings agencies, but you can't make this all about can we fool the ratings",
+        "start_seconds": 2399.08,
+        "end_seconds": 2400.91
+      }
+    ],
+    "hurdle-rates": [
+      {
+        "session": 18,
+        "title": "Session 17: Optimizing the Debt Mix with Cost of Capital approach",
+        "url": "https://www.youtube.com/watch?v=fdEnaqWUYzM",
+        "score": 75,
+        "excerpt": "other judgments, the cost of capital. It was a hurdle rate when we did investment",
+        "start_seconds": 740.4,
+        "end_seconds": 742.03
+      },
+      {
+        "session": 13,
+        "title": "Session 12: Incremental, time-weighted Cash Flow Returns",
+        "url": "https://www.youtube.com/watch?v=CncUmN65lDs",
+        "score": 56,
+        "excerpt": "decision guess what you need you need a hurdle rate you need a discount rate you",
+        "start_seconds": 3809.92,
+        "end_seconds": 3812.47
+      },
+      {
+        "session": 12,
+        "title": "Session 11: Hurdle Rates Closure and First Steps on Investment Returns",
+        "url": "https://www.youtube.com/watch?v=0FeHGmeqcX0",
+        "score": 53,
+        "excerpt": "you came to me with a movie Project what's your hurdle rate the hurdle rate",
+        "start_seconds": 1766.76,
+        "end_seconds": 1768.87
+      },
+      {
+        "session": 15,
+        "title": "Session 14: Choosing between investments and Side Costs/Benefits",
+        "url": "https://www.youtube.com/watch?v=k7fGl2kvq-U",
+        "score": 43,
+        "excerpt": "project. If the IRR is greater than your hurdle rate, you accept the project.",
+        "start_seconds": 189.44,
+        "end_seconds": 192.15
+      },
+      {
+        "session": 10,
+        "title": "Session 9: More on beta - bottom up betas and private company betas",
+        "url": "https://www.youtube.com/watch?v=awEyDWhEdhg",
+        "score": 41,
+        "excerpt": "is to come up with a hurdle rate for a company we came up with a hurdle rate",
+        "start_seconds": 280.32,
+        "end_seconds": 282.51
+      }
+    ],
+    "incremental-cash-flows": [
+      {
+        "session": 13,
+        "title": "Session 12: Incremental, time-weighted Cash Flow Returns",
+        "url": "https://www.youtube.com/watch?v=CncUmN65lDs",
+        "score": 249,
+        "excerpt": "do we gone from earnings to cash flows cash flows to incremental cash flows",
+        "start_seconds": 3338.359,
+        "end_seconds": 3340.63
+      },
+      {
+        "session": 15,
+        "title": "Session 14: Choosing between investments and Side Costs/Benefits",
+        "url": "https://www.youtube.com/watch?v=k7fGl2kvq-U",
+        "score": 148,
+        "excerpt": "you do exactly what we did. Estimate the cash flows, incremental cash flows,",
+        "start_seconds": 165.68,
+        "end_seconds": 168.35
+      },
+      {
+        "session": 17,
+        "title": "Session 16: The Debt Equity Tradeoff",
+        "url": "https://www.youtube.com/watch?v=4ZWSccnMaa4",
+        "score": 141,
+        "excerpt": "or based on cash flows, incremental cash flows, net present value, and",
+        "start_seconds": 274.15999999999997,
+        "end_seconds": 276.51
+      },
+      {
+        "session": 16,
+        "title": "Session 15: Celsius Case Analysis, Real Options and Investment Post-mortems",
+        "url": "https://www.youtube.com/watch?v=pz2hF0_ygm4",
+        "score": 136,
+        "excerpt": "So they were expecting about 100 million in cash flows, after-tax cash flows from",
+        "start_seconds": 4440.48,
+        "end_seconds": 4442.43
+      },
+      {
+        "session": 25,
+        "title": "Session 24: Closure on Dividends and First Steps on Valuation",
+        "url": "https://www.youtube.com/watch?v=bm1zE4wCQvI",
+        "score": 129,
+        "excerpt": "cash flows. Those cash flows can either be before debt payments. It's cash flows",
+        "start_seconds": 2224.16,
+        "end_seconds": 2226.47
+      }
+    ],
+    "project-returns": [
+      {
+        "session": 15,
+        "title": "Session 14: Choosing between investments and Side Costs/Benefits",
+        "url": "https://www.youtube.com/watch?v=k7fGl2kvq-U",
+        "score": 477,
+        "excerpt": "the NPV, it's The NPV of project two is higher than the NPV of project one.",
+        "start_seconds": 1368.32,
+        "end_seconds": 1370.87
+      },
+      {
+        "session": 13,
+        "title": "Session 12: Incremental, time-weighted Cash Flow Returns",
+        "url": "https://www.youtube.com/watch?v=CncUmN65lDs",
+        "score": 233,
+        "excerpt": "around the world are still based on accounting returns return Equity return",
+        "start_seconds": 1328.279,
+        "end_seconds": 1330.269
+      },
+      {
+        "session": 16,
+        "title": "Session 15: Celsius Case Analysis, Real Options and Investment Post-mortems",
+        "url": "https://www.youtube.com/watch?v=pz2hF0_ygm4",
+        "score": 199,
+        "excerpt": "based on return on capital. Any questions in accounting return",
+        "start_seconds": 730.6,
+        "end_seconds": 732.03
+      },
+      {
+        "session": 26,
+        "title": "Session 25: Valuation - The Final Frontier!",
+        "url": "https://www.youtube.com/watch?v=CERMihGaLlA",
+        "score": 136,
+        "excerpt": "returns. So as you look at the accounting returns, take a look at where",
+        "start_seconds": 1688.0,
+        "end_seconds": 1689.75
+      },
+      {
+        "session": 14,
+        "title": "Session 13: Dealing with uncertainty and more project analyses",
+        "url": "https://www.youtube.com/watch?v=vxuuxJ68Dj8",
+        "score": 121,
+        "excerpt": "This is a good project on an accounting return basis, an NPV basis, and an IRR",
+        "start_seconds": 3107.8,
+        "end_seconds": 3111.39
+      }
+    ],
+    "side-costs-and-side-benefits": [
+      {
+        "session": 15,
+        "title": "Session 14: Choosing between investments and Side Costs/Benefits",
+        "url": "https://www.youtube.com/watch?v=k7fGl2kvq-U",
+        "score": 80,
+        "excerpt": "I also want now to talk about side costs and side benefits. When I talked about",
+        "start_seconds": 2892.88,
+        "end_seconds": 2895.19
+      },
+      {
+        "session": 14,
+        "title": "Session 13: Dealing with uncertainty and more project analyses",
+        "url": "https://www.youtube.com/watch?v=vxuuxJ68Dj8",
+        "score": 18,
+        "excerpt": "we're going to talk about side costs and side benefits.",
+        "start_seconds": 4484.32,
+        "end_seconds": 4486.47
+      },
+      {
+        "session": 4,
+        "title": "Session 3: Corporate Governance - Power abhors a vacuum!",
+        "url": "https://www.youtube.com/watch?v=IPTe5Ww2kOk",
+        "score": 10,
+        "excerpt": "Synergy or reverse synergy one in six merges there Synergy where everybody",
+        "start_seconds": 1709.08,
+        "end_seconds": 1710.669
+      },
+      {
+        "session": 16,
+        "title": "Session 15: Celsius Case Analysis, Real Options and Investment Post-mortems",
+        "url": "https://www.youtube.com/watch?v=pz2hF0_ygm4",
+        "score": 6,
+        "excerpt": "get a headache with other caffeine. So, that's a side cost, but the side benefit",
+        "start_seconds": 152.92000000000002,
+        "end_seconds": 154.63
+      },
+      {
+        "session": 6,
+        "title": "Session 5: Closure on the end game and first steps on risk",
+        "url": "https://www.youtube.com/watch?v=_SxIBHEGhbo",
+        "score": 4,
+        "excerpt": "without the side costs or reducing the the side cost will exist but how do we",
+        "start_seconds": 341.919,
+        "end_seconds": 343.35
+      }
+    ],
+    "real-options": [
+      {
+        "session": 16,
+        "title": "Session 15: Celsius Case Analysis, Real Options and Investment Post-mortems",
+        "url": "https://www.youtube.com/watch?v=pz2hF0_ygm4",
+        "score": 145,
+        "excerpt": "It's your option to abandon. The option to delay, the option to expand, the",
+        "start_seconds": 3139.52,
+        "end_seconds": 3140.95
+      },
+      {
+        "session": 14,
+        "title": "Session 13: Dealing with uncertainty and more project analyses",
+        "url": "https://www.youtube.com/watch?v=vxuuxJ68Dj8",
+        "score": 27,
+        "excerpt": "stuff, you now have to bring in the uncertainty of politics, the uncertainty",
+        "start_seconds": 310.56,
+        "end_seconds": 312.43
+      },
+      {
+        "session": 13,
+        "title": "Session 12: Incremental, time-weighted Cash Flow Returns",
+        "url": "https://www.youtube.com/watch?v=CncUmN65lDs",
+        "score": 13,
+        "excerpt": "worst businesses in the world to be in you expand you're expanding in a in a",
+        "start_seconds": 1198.36,
+        "end_seconds": 1200.669
+      },
+      {
+        "session": 15,
+        "title": "Session 14: Choosing between investments and Side Costs/Benefits",
+        "url": "https://www.youtube.com/watch?v=k7fGl2kvq-U",
+        "score": 12,
+        "excerpt": "So, you can go down the list and you can see profitability index. Real options",
+        "start_seconds": 2831.16,
+        "end_seconds": 2833.11
+      },
+      {
+        "session": 21,
+        "title": "Session 20: Debt Design",
+        "url": "https://www.youtube.com/watch?v=Kk7BEn3Y4XY",
+        "score": 12,
+        "excerpt": "in the case of Disney, given that they have plans to expand their theme parks,",
+        "start_seconds": 767.64,
+        "end_seconds": 769.67
+      }
+    ],
+    "debt-equity-tradeoff": [
+      {
+        "session": 17,
+        "title": "Session 16: The Debt Equity Tradeoff",
+        "url": "https://www.youtube.com/watch?v=4ZWSccnMaa4",
+        "score": 108,
+        "excerpt": "agency cost. What's an agency cost? An agency cost arises when you have two",
+        "start_seconds": 1856.64,
+        "end_seconds": 1858.87
+      },
+      {
+        "session": 20,
+        "title": "Session 19: The APV and Peer Group Approaches to Financing Mix",
+        "url": "https://www.youtube.com/watch?v=jv-mk7lpIdg",
+        "score": 68,
+        "excerpt": "used to teach a bankruptcy the distress and bankruptcy cost here. Used to update",
+        "start_seconds": 2047.56,
+        "end_seconds": 2049.71
+      },
+      {
+        "session": 18,
+        "title": "Session 17: Optimizing the Debt Mix with Cost of Capital approach",
+        "url": "https://www.youtube.com/watch?v=fdEnaqWUYzM",
+        "score": 34,
+        "excerpt": "agency cost. So, tell me again what agency cost is. What What What What What",
+        "start_seconds": 486.16,
+        "end_seconds": 488.83
+      },
+      {
+        "session": 21,
+        "title": "Session 20: Debt Design",
+        "url": "https://www.youtube.com/watch?v=Kk7BEn3Y4XY",
+        "score": 22,
+        "excerpt": "companies that are on the verge of bankruptcy or even in bankruptcy become",
+        "start_seconds": 586.32,
+        "end_seconds": 589.03
+      },
+      {
+        "session": 11,
+        "title": "Session 10: Debt and the Cost of Debt",
+        "url": "https://www.youtube.com/watch?v=RNeCC28qbVI",
+        "score": 9,
+        "excerpt": "whatever you talking about a ratings agency S&P Moody Fitch",
+        "start_seconds": 661.519,
+        "end_seconds": 665.829
+      }
+    ],
+    "cost-of-capital-optimization": [
+      {
+        "session": 18,
+        "title": "Session 17: Optimizing the Debt Mix with Cost of Capital approach",
+        "url": "https://www.youtube.com/watch?v=fdEnaqWUYzM",
+        "score": 238,
+        "excerpt": "cost of capital, you have a cost of capital and the existing debt ratio and",
+        "start_seconds": 865.079,
+        "end_seconds": 866.829
+      },
+      {
+        "session": 20,
+        "title": "Session 19: The APV and Peer Group Approaches to Financing Mix",
+        "url": "https://www.youtube.com/watch?v=jv-mk7lpIdg",
+        "score": 144,
+        "excerpt": "I'll do all No, zero to 90% debt ratios, cost of capital at every debt ratio.",
+        "start_seconds": 1551.16,
+        "end_seconds": 1553.55
+      },
+      {
+        "session": 19,
+        "title": "Session 18: Finishing up with Cost of Capital Optimization",
+        "url": "https://www.youtube.com/watch?v=zDbBR8-myEQ",
+        "score": 119,
+        "excerpt": "right? When you change your debt ratio, your rating drops, your cost of capital",
+        "start_seconds": 2539.359,
+        "end_seconds": 2541.43
+      },
+      {
+        "session": 11,
+        "title": "Session 10: Debt and the Cost of Debt",
+        "url": "https://www.youtube.com/watch?v=RNeCC28qbVI",
+        "score": 111,
+        "excerpt": "deuts had single a ratings V had an A minus rating so they're S&P ratings I",
+        "start_seconds": 1082.0,
+        "end_seconds": 1085.31
+      },
+      {
+        "session": 21,
+        "title": "Session 20: Debt Design",
+        "url": "https://www.youtube.com/watch?v=Kk7BEn3Y4XY",
+        "score": 95,
+        "excerpt": "come my firm value doesn't? Because my firm value The firm value has other",
+        "start_seconds": 4684.92,
+        "end_seconds": 4686.67
+      }
+    ],
+    "apv-and-peer-group-financing": [
+      {
+        "session": 20,
+        "title": "Session 19: The APV and Peer Group Approaches to Financing Mix",
+        "url": "https://www.youtube.com/watch?v=jv-mk7lpIdg",
+        "score": 69,
+        "excerpt": "optimal called the adjusted present value approach or the APV approach.",
+        "start_seconds": 1648.76,
+        "end_seconds": 1651.51
+      },
+      {
+        "session": 18,
+        "title": "Session 17: Optimizing the Debt Mix with Cost of Capital approach",
+        "url": "https://www.youtube.com/watch?v=fdEnaqWUYzM",
+        "score": 23,
+        "excerpt": "The cost of debt is adjusted for the tax benefit. There's where the tax benefit",
+        "start_seconds": 858.12,
+        "end_seconds": 860.51
+      },
+      {
+        "session": 17,
+        "title": "Session 16: The Debt Equity Tradeoff",
+        "url": "https://www.youtube.com/watch?v=4ZWSccnMaa4",
+        "score": 19,
+        "excerpt": "interest expense, you can claim it as a tax benefit. And the tax benefit then",
+        "start_seconds": 1949.04,
+        "end_seconds": 1951.27
+      },
+      {
+        "session": 13,
+        "title": "Session 12: Incremental, time-weighted Cash Flow Returns",
+        "url": "https://www.youtube.com/watch?v=CncUmN65lDs",
+        "score": 7,
+        "excerpt": "depreciation amount multiplied by a tax rate that is the tax benefit you get",
+        "start_seconds": 1516.6,
+        "end_seconds": 1518.789
+      },
+      {
+        "session": 25,
+        "title": "Session 24: Closure on Dividends and First Steps on Valuation",
+        "url": "https://www.youtube.com/watch?v=bm1zE4wCQvI",
+        "score": 6,
+        "excerpt": "companies relative to my comparable group. And I've defined my comparable",
+        "start_seconds": 590.48,
+        "end_seconds": 592.23
+      }
+    ],
+    "debt-design": [
+      {
+        "session": 21,
+        "title": "Session 20: Debt Design",
+        "url": "https://www.youtube.com/watch?v=Kk7BEn3Y4XY",
+        "score": 193,
+        "excerpt": "So, at least focus on duration, currency, fixed or floating. So, each of",
+        "start_seconds": 3539.32,
+        "end_seconds": 3541.59
+      },
+      {
+        "session": 7,
+        "title": "Session 6: Riskfree Rates and Equity Risk Premiums",
+        "url": "https://www.youtube.com/watch?v=oeRtLInQTAM",
+        "score": 126,
+        "excerpt": "yield to maturity on a bond you take the price of the bond you take the coupons",
+        "start_seconds": 4295.88,
+        "end_seconds": 4297.39
+      },
+      {
+        "session": 22,
+        "title": "Session 21: Dividends and Cash Return - First Steps",
+        "url": "https://www.youtube.com/watch?v=Ka_oFIhWmwo",
+        "score": 99,
+        "excerpt": "duration. Why is that France? Why can't I compare maturity to duration?",
+        "start_seconds": 611.279,
+        "end_seconds": 616.71
+      },
+      {
+        "session": 11,
+        "title": "Session 10: Debt and the Cost of Debt",
+        "url": "https://www.youtube.com/watch?v=RNeCC28qbVI",
+        "score": 69,
+        "excerpt": "maturity on a bond that I've issued right AT&T as as bonds outstanding now",
+        "start_seconds": 760.8,
+        "end_seconds": 764.03
+      },
+      {
+        "session": 17,
+        "title": "Session 16: The Debt Equity Tradeoff",
+        "url": "https://www.youtube.com/watch?v=4ZWSccnMaa4",
+        "score": 69,
+        "excerpt": "of floating rate debt. Does everybody know how floating rate debt works? Fixed",
+        "start_seconds": 1057.72,
+        "end_seconds": 1059.79
+      }
+    ],
+    "dividends-and-buybacks": [
+      {
+        "session": 22,
+        "title": "Session 21: Dividends and Cash Return - First Steps",
+        "url": "https://www.youtube.com/watch?v=Ka_oFIhWmwo",
+        "score": 516,
+        "excerpt": "dividends. So, dividends are sticky. Dividends follow earnings. Dividends are",
+        "start_seconds": 2827.76,
+        "end_seconds": 2829.67
+      },
+      {
+        "session": 23,
+        "title": "Session 22: Dividend Trade offs",
+        "url": "https://www.youtube.com/watch?v=HwmBqsMySTg",
+        "score": 465,
+        "excerpt": "dividends. You can pay high dividends, low dividends. You can pay more than you",
+        "start_seconds": 511.759,
+        "end_seconds": 513.11
+      },
+      {
+        "session": 24,
+        "title": "Session 23: Assessing Dividend (and Cash Return) Policy",
+        "url": "https://www.youtube.com/watch?v=juhEybZYE2M",
+        "score": 427,
+        "excerpt": "dividends. You pay enormous dividends. Who buys your shares? Dividend",
+        "start_seconds": 4837.28,
+        "end_seconds": 4840.59
+      },
+      {
+        "session": 25,
+        "title": "Session 24: Closure on Dividends and First Steps on Valuation",
+        "url": "https://www.youtube.com/watch?v=bm1zE4wCQvI",
+        "score": 156,
+        "excerpt": "form of stock buybacks. So you can take dividends plus",
+        "start_seconds": 2309.92,
+        "end_seconds": 2311.39
+      },
+      {
+        "session": 26,
+        "title": "Session 25: Valuation - The Final Frontier!",
+        "url": "https://www.youtube.com/watch?v=CERMihGaLlA",
+        "score": 53,
+        "excerpt": "mechanism by by which dividends what is what do dividends affect that show up in",
+        "start_seconds": 1166.88,
+        "end_seconds": 1168.549
+      }
+    ],
+    "cash-return-policy": [
+      {
+        "session": 24,
+        "title": "Session 23: Assessing Dividend (and Cash Return) Policy",
+        "url": "https://www.youtube.com/watch?v=juhEybZYE2M",
+        "score": 577,
+        "excerpt": "dividend changes, dividend increases outnumber dividend decreases 4:1 to 5:1.",
+        "start_seconds": 258.639,
+        "end_seconds": 261.67
+      },
+      {
+        "session": 22,
+        "title": "Session 21: Dividends and Cash Return - First Steps",
+        "url": "https://www.youtube.com/watch?v=Ka_oFIhWmwo",
+        "score": 362,
+        "excerpt": "dividends. So, dividends are sticky. Dividends follow earnings. Dividends are",
+        "start_seconds": 2827.76,
+        "end_seconds": 2829.67
+      },
+      {
+        "session": 23,
+        "title": "Session 22: Dividend Trade offs",
+        "url": "https://www.youtube.com/watch?v=HwmBqsMySTg",
+        "score": 342,
+        "excerpt": "dividends opens up, companies refuse to pay dividends. They hold on to the cash",
+        "start_seconds": 222.07999999999998,
+        "end_seconds": 223.91
+      },
+      {
+        "session": 25,
+        "title": "Session 24: Closure on Dividends and First Steps on Valuation",
+        "url": "https://www.youtube.com/watch?v=bm1zE4wCQvI",
+        "score": 227,
+        "excerpt": "differences in dividend yield and dividend payout ratio across the market.",
+        "start_seconds": 710.9590000000001,
+        "end_seconds": 713.59
+      },
+      {
+        "session": 26,
+        "title": "Session 25: Valuation - The Final Frontier!",
+        "url": "https://www.youtube.com/watch?v=CERMihGaLlA",
+        "score": 148,
+        "excerpt": "cash or equity which is potential dividend. Cash flow to the firm is a",
+        "start_seconds": 1849.919,
+        "end_seconds": 1852.47
+      }
+    ],
+    "valuation-closure": [
+      {
+        "session": 26,
+        "title": "Session 25: Valuation - The Final Frontier!",
+        "url": "https://www.youtube.com/watch?v=CERMihGaLlA",
+        "score": 399,
+        "excerpt": "value when you stop. That's where the terminal value comes in. The terminal",
+        "start_seconds": 1980.72,
+        "end_seconds": 1982.389
+      },
+      {
+        "session": 25,
+        "title": "Session 24: Closure on Dividends and First Steps on Valuation",
+        "url": "https://www.youtube.com/watch?v=bm1zE4wCQvI",
+        "score": 265,
+        "excerpt": "the value of growth captures how much growth will add or destroy in value as",
+        "start_seconds": 1326.48,
+        "end_seconds": 1329.83
+      },
+      {
+        "session": 12,
+        "title": "Session 11: Hurdle Rates Closure and First Steps on Investment Returns",
+        "url": "https://www.youtube.com/watch?v=0FeHGmeqcX0",
+        "score": 114,
+        "excerpt": "value they will use Book value they're using Book value not because it's the r",
+        "start_seconds": 419.72,
+        "end_seconds": 421.39
+      },
+      {
+        "session": 16,
+        "title": "Session 15: Celsius Case Analysis, Real Options and Investment Post-mortems",
+        "url": "https://www.youtube.com/watch?v=pz2hF0_ygm4",
+        "score": 110,
+        "excerpt": "saying, but I replaced my salvage value with the terminal value. I want to talk",
+        "start_seconds": 336.48,
+        "end_seconds": 338.31
+      },
+      {
+        "session": 13,
+        "title": "Session 12: Incremental, time-weighted Cash Flow Returns",
+        "url": "https://www.youtube.com/watch?v=CncUmN65lDs",
+        "score": 109,
+        "excerpt": "Present Value what is the Net Present Value I take each cash flow discounted",
+        "start_seconds": 3646.079,
+        "end_seconds": 3648.029
+      }
+    ]
+  }
+}

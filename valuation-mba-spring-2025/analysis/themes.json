@@ -1,0 +1,461 @@
+[
+  {
+    "slug": "valuation-discipline",
+    "name": "Valuation As A Discipline",
+    "thesis": "The course frames valuation as translated judgment: a business story has to become explicit assumptions, and those assumptions have to survive economic scrutiny.",
+    "session_indexes": [
+      1,
+      2,
+      3,
+      7,
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      25,
+      26,
+      27
+    ],
+    "session_titles": [
+      "Session 26: Closing Thoughts (and a discourse of the value of control)",
+      "Session 25: Acquisition Closure + Value Enhancement",
+      "Session 24: Distressed Equity as an Option and Acquisition Valuation",
+      "Session 20: Pricing Closure and Asset-based Valuation/Pricing",
+      "Session 18: Tariff Talk and Market PE ratios",
+      "Session 16: Closure on Intrinsic Value",
+      "Session 15: Valuations across the life cycle",
+      "Session 14: Closure on stories and numbers and fist valuations!",
+      "Session 13: Stock-based Compensation and Stories in Valuation",
+      "Session 12: Loose Ends in Valuation",
+      "Session 2: The Bermuda Triangle of Valuation",
+      "Session 1: Class themes, structure and sequence",
+      "Valuation: A Preview"
+    ],
+    "evidence_terms": [
+      [
+        "you",
+        13
+      ],
+      [
+        "but",
+        13
+      ],
+      [
+        "it's",
+        12
+      ],
+      [
+        "not",
+        12
+      ],
+      [
+        "for",
+        12
+      ],
+      [
+        "company",
+        10
+      ],
+      [
+        "you're",
+        9
+      ],
+      [
+        "was",
+        7
+      ],
+      [
+        "are",
+        5
+      ],
+      [
+        "i'm",
+        5
+      ],
+      [
+        "companies",
+        5
+      ],
+      [
+        "get",
+        4
+      ]
+    ]
+  },
+  {
+    "slug": "dcf-architecture",
+    "name": "DCF Architecture And Consistency",
+    "thesis": "Discounted cash flow valuation is built as an internally consistent architecture of cash flows, discount rates, currency, inflation, growth, reinvestment, and terminal value.",
+    "session_indexes": [
+      22,
+      23,
+      24
+    ],
+    "session_titles": [
+      "Session 5: Closure on Riskfree Rates & Equity Risk Premiums",
+      "Session 4: DCF Big Picture and First Steps in Riskfree Rates",
+      "Session 3: Valuation Introduction (completed) and Cashflow Consistency"
+    ],
+    "evidence_terms": [
+      [
+        "you",
+        3
+      ],
+      [
+        "but",
+        3
+      ],
+      [
+        "for",
+        3
+      ],
+      [
+        "it's",
+        3
+      ],
+      [
+        "rate",
+        2
+      ],
+      [
+        "risk",
+        2
+      ],
+      [
+        "not",
+        2
+      ],
+      [
+        "i'm",
+        2
+      ],
+      [
+        "you're",
+        2
+      ],
+      [
+        "cash",
+        2
+      ],
+      [
+        "company",
+        2
+      ],
+      [
+        "rates",
+        1
+      ]
+    ]
+  },
+  {
+    "slug": "risk-discount-rates",
+    "name": "Risk And Discount Rates",
+    "thesis": "Risk enters valuation through riskfree rates, equity risk premiums, country risk, betas, costs of debt, and costs of capital that must match the cash flows being valued.",
+    "session_indexes": [
+      19,
+      20,
+      21
+    ],
+    "session_titles": [
+      "Session 8: Closure on Cost of Capital + First steps on cash flows",
+      "Session 7: Measuring Relative Risk - Betas and Alternatives",
+      "Session 6: Company Exposure to Country Risk + Implied Equity Risk Premiums"
+    ],
+    "evidence_terms": [
+      [
+        "you",
+        3
+      ],
+      [
+        "but",
+        3
+      ],
+      [
+        "for",
+        3
+      ],
+      [
+        "you're",
+        3
+      ],
+      [
+        "it's",
+        3
+      ],
+      [
+        "company",
+        2
+      ],
+      [
+        "debt",
+        1
+      ],
+      [
+        "cost",
+        1
+      ],
+      [
+        "rate",
+        1
+      ],
+      [
+        "capital",
+        1
+      ],
+      [
+        "beta",
+        1
+      ],
+      [
+        "i'm",
+        1
+      ]
+    ]
+  },
+  {
+    "slug": "growth-cash-flows",
+    "name": "Growth, Cash Flows, And Operating Reality",
+    "thesis": "Growth creates value only when the operating story supports margins, taxes, reinvestment, capital intensity, and ownership of future cash flows.",
+    "session_indexes": [
+      16,
+      17,
+      18
+    ],
+    "session_titles": [
+      "Session 11: More on Growth and Terminal Value",
+      "Session 10: Estimating Growth",
+      "Session 9: Digging Deeper into Cash Flows"
+    ],
+    "evidence_terms": [
+      [
+        "you",
+        3
+      ],
+      [
+        "but",
+        3
+      ],
+      [
+        "you're",
+        3
+      ],
+      [
+        "for",
+        3
+      ],
+      [
+        "company",
+        3
+      ],
+      [
+        "growth",
+        2
+      ],
+      [
+        "it's",
+        2
+      ],
+      [
+        "rate",
+        2
+      ],
+      [
+        "get",
+        2
+      ],
+      [
+        "are",
+        2
+      ],
+      [
+        "capital",
+        1
+      ],
+      [
+        "equity",
+        1
+      ]
+    ]
+  },
+  {
+    "slug": "pricing-language",
+    "name": "Pricing As A Different Market Language",
+    "thesis": "Pricing is treated as a relative and social market language built from multiples, comparables, peer groups, and market mood rather than a shortcut version of intrinsic value.",
+    "session_indexes": [
+      8,
+      10
+    ],
+    "session_titles": [
+      "Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups",
+      "Session 17: Pricing 101"
+    ],
+    "evidence_terms": [
+      [
+        "you",
+        2
+      ],
+      [
+        "for",
+        2
+      ],
+      [
+        "but",
+        2
+      ],
+      [
+        "it's",
+        2
+      ],
+      [
+        "price",
+        2
+      ],
+      [
+        "are",
+        2
+      ],
+      [
+        "companies",
+        1
+      ],
+      [
+        "company",
+        1
+      ],
+      [
+        "you're",
+        1
+      ],
+      [
+        "i'm",
+        1
+      ],
+      [
+        "growth",
+        1
+      ],
+      [
+        "equity",
+        1
+      ]
+    ]
+  },
+  {
+    "slug": "special-situations",
+    "name": "Special Situations And Ownership Frictions",
+    "thesis": "Private companies, IPOs, asset-based cases, distressed firms, and acquisitions reveal where public-market valuation habits need new anchors.",
+    "session_indexes": [
+      6
+    ],
+    "session_titles": [
+      "Session 21: Valuing Privately owned businesses (not publicly listed)"
+    ],
+    "evidence_terms": [
+      [
+        "you",
+        1
+      ],
+      [
+        "company",
+        1
+      ],
+      [
+        "for",
+        1
+      ],
+      [
+        "but",
+        1
+      ],
+      [
+        "it's",
+        1
+      ],
+      [
+        "private",
+        1
+      ],
+      [
+        "not",
+        1
+      ],
+      [
+        "you're",
+        1
+      ],
+      [
+        "public",
+        1
+      ],
+      [
+        "i'm",
+        1
+      ]
+    ]
+  },
+  {
+    "slug": "optionality-control",
+    "name": "Optionality, Control, And Decision Rights",
+    "thesis": "Late-course material shows when uncertainty can create option value and when control creates value by changing decisions rather than merely changing ownership labels.",
+    "session_indexes": [
+      4,
+      5
+    ],
+    "session_titles": [
+      "Session 23: Patents and Natural Resources as Options",
+      "Session 22: Closure on IPOs and Introduction to Real Options"
+    ],
+    "evidence_terms": [
+      [
+        "you",
+        2
+      ],
+      [
+        "it's",
+        2
+      ],
+      [
+        "for",
+        2
+      ],
+      [
+        "but",
+        2
+      ],
+      [
+        "you're",
+        2
+      ],
+      [
+        "option",
+        1
+      ],
+      [
+        "get",
+        1
+      ],
+      [
+        "i'm",
+        1
+      ],
+      [
+        "cost",
+        1
+      ],
+      [
+        "will",
+        1
+      ],
+      [
+        "company",
+        1
+      ],
+      [
+        "are",
+        1
+      ]
+    ]
+  }
+]

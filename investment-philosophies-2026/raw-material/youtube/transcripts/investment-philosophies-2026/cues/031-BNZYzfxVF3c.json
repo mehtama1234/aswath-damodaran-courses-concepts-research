@@ -1,0 +1,4433 @@
+[
+  {
+    "start": "00:00:00.400",
+    "end": "00:00:03.590",
+    "start_seconds": 0.4,
+    "end_seconds": 3.59,
+    "text": "Hi, welcome back. In this session, I'd"
+  },
+  {
+    "start": "00:00:03.590",
+    "end": "00:00:03.600",
+    "start_seconds": 3.59,
+    "end_seconds": 3.6,
+    "text": "Hi, welcome back. In this session, I'd"
+  },
+  {
+    "start": "00:00:03.600",
+    "end": "00:00:05.269",
+    "start_seconds": 3.6,
+    "end_seconds": 5.269,
+    "text": "Hi, welcome back. In this session, I'd like to turn to something we haven't"
+  },
+  {
+    "start": "00:00:05.269",
+    "end": "00:00:05.279",
+    "start_seconds": 5.269,
+    "end_seconds": 5.279,
+    "text": "like to turn to something we haven't"
+  },
+  {
+    "start": "00:00:05.279",
+    "end": "00:00:08.629",
+    "start_seconds": 5.279,
+    "end_seconds": 8.629,
+    "text": "like to turn to something we haven't talked about so far in this class."
+  },
+  {
+    "start": "00:00:08.629",
+    "end": "00:00:08.639",
+    "start_seconds": 8.629,
+    "end_seconds": 8.639,
+    "text": "talked about so far in this class."
+  },
+  {
+    "start": "00:00:08.639",
+    "end": "00:00:10.950",
+    "start_seconds": 8.639,
+    "end_seconds": 10.95,
+    "text": "talked about so far in this class. As you look at the journey we've come"
+  },
+  {
+    "start": "00:00:10.950",
+    "end": "00:00:10.960",
+    "start_seconds": 10.95,
+    "end_seconds": 10.96,
+    "text": "As you look at the journey we've come"
+  },
+  {
+    "start": "00:00:10.960",
+    "end": "00:00:13.270",
+    "start_seconds": 10.96,
+    "end_seconds": 13.27,
+    "text": "As you look at the journey we've come through, we looked at technical analysis"
+  },
+  {
+    "start": "00:00:13.270",
+    "end": "00:00:13.280",
+    "start_seconds": 13.27,
+    "end_seconds": 13.28,
+    "text": "through, we looked at technical analysis"
+  },
+  {
+    "start": "00:00:13.280",
+    "end": "00:00:15.190",
+    "start_seconds": 13.28,
+    "end_seconds": 15.19,
+    "text": "through, we looked at technical analysis and charting. We looked at value"
+  },
+  {
+    "start": "00:00:15.190",
+    "end": "00:00:15.200",
+    "start_seconds": 15.19,
+    "end_seconds": 15.2,
+    "text": "and charting. We looked at value"
+  },
+  {
+    "start": "00:00:15.200",
+    "end": "00:00:17.990",
+    "start_seconds": 15.2,
+    "end_seconds": 17.99,
+    "text": "and charting. We looked at value investing, growth investing, arbitrage,"
+  },
+  {
+    "start": "00:00:17.990",
+    "end": "00:00:18.000",
+    "start_seconds": 17.99,
+    "end_seconds": 18.0,
+    "text": "investing, growth investing, arbitrage,"
+  },
+  {
+    "start": "00:00:18.000",
+    "end": "00:00:20.310",
+    "start_seconds": 18.0,
+    "end_seconds": 20.31,
+    "text": "investing, growth investing, arbitrage, trading on information."
+  },
+  {
+    "start": "00:00:20.310",
+    "end": "00:00:20.320",
+    "start_seconds": 20.31,
+    "end_seconds": 20.32,
+    "text": "trading on information."
+  },
+  {
+    "start": "00:00:20.320",
+    "end": "00:00:22.710",
+    "start_seconds": 20.32,
+    "end_seconds": 22.71,
+    "text": "trading on information. But in every one of these, we focused in"
+  },
+  {
+    "start": "00:00:22.710",
+    "end": "00:00:22.720",
+    "start_seconds": 22.71,
+    "end_seconds": 22.72,
+    "text": "But in every one of these, we focused in"
+  },
+  {
+    "start": "00:00:22.720",
+    "end": "00:00:25.109",
+    "start_seconds": 22.72,
+    "end_seconds": 25.109,
+    "text": "But in every one of these, we focused in individual stocks, individual"
+  },
+  {
+    "start": "00:00:25.109",
+    "end": "00:00:25.119",
+    "start_seconds": 25.109,
+    "end_seconds": 25.119,
+    "text": "individual stocks, individual"
+  },
+  {
+    "start": "00:00:25.119",
+    "end": "00:00:27.589",
+    "start_seconds": 25.119,
+    "end_seconds": 27.589,
+    "text": "individual stocks, individual investments. In this session, I want to"
+  },
+  {
+    "start": "00:00:27.589",
+    "end": "00:00:27.599",
+    "start_seconds": 27.589,
+    "end_seconds": 27.599,
+    "text": "investments. In this session, I want to"
+  },
+  {
+    "start": "00:00:27.599",
+    "end": "00:00:31.029",
+    "start_seconds": 27.599,
+    "end_seconds": 31.029,
+    "text": "investments. In this session, I want to focus on market timing. Why so many"
+  },
+  {
+    "start": "00:00:31.029",
+    "end": "00:00:31.039",
+    "start_seconds": 31.029,
+    "end_seconds": 31.039,
+    "text": "focus on market timing. Why so many"
+  },
+  {
+    "start": "00:00:31.039",
+    "end": "00:00:33.750",
+    "start_seconds": 31.039,
+    "end_seconds": 33.75,
+    "text": "focus on market timing. Why so many people are drawn to it and why it's so"
+  },
+  {
+    "start": "00:00:33.750",
+    "end": "00:00:33.760",
+    "start_seconds": 33.75,
+    "end_seconds": 33.76,
+    "text": "people are drawn to it and why it's so"
+  },
+  {
+    "start": "00:00:33.760",
+    "end": "00:00:36.150",
+    "start_seconds": 33.76,
+    "end_seconds": 36.15,
+    "text": "people are drawn to it and why it's so difficult to succeed. I call it the"
+  },
+  {
+    "start": "00:00:36.150",
+    "end": "00:00:36.160",
+    "start_seconds": 36.15,
+    "end_seconds": 36.16,
+    "text": "difficult to succeed. I call it the"
+  },
+  {
+    "start": "00:00:36.160",
+    "end": "00:00:39.110",
+    "start_seconds": 36.16,
+    "end_seconds": 39.11,
+    "text": "difficult to succeed. I call it the impossible dream drawing on a Broadway"
+  },
+  {
+    "start": "00:00:39.110",
+    "end": "00:00:39.120",
+    "start_seconds": 39.11,
+    "end_seconds": 39.12,
+    "text": "impossible dream drawing on a Broadway"
+  },
+  {
+    "start": "00:00:39.120",
+    "end": "00:00:41.590",
+    "start_seconds": 39.12,
+    "end_seconds": 41.59,
+    "text": "impossible dream drawing on a Broadway show. But it is a dream that almost"
+  },
+  {
+    "start": "00:00:41.590",
+    "end": "00:00:41.600",
+    "start_seconds": 41.59,
+    "end_seconds": 41.6,
+    "text": "show. But it is a dream that almost"
+  },
+  {
+    "start": "00:00:41.600",
+    "end": "00:00:44.869",
+    "start_seconds": 41.6,
+    "end_seconds": 44.869,
+    "text": "show. But it is a dream that almost every investor has. I'd be lying if I"
+  },
+  {
+    "start": "00:00:44.869",
+    "end": "00:00:44.879",
+    "start_seconds": 44.869,
+    "end_seconds": 44.879,
+    "text": "every investor has. I'd be lying if I"
+  },
+  {
+    "start": "00:00:44.879",
+    "end": "00:00:47.110",
+    "start_seconds": 44.879,
+    "end_seconds": 47.11,
+    "text": "every investor has. I'd be lying if I said I don't try to time markets. In"
+  },
+  {
+    "start": "00:00:47.110",
+    "end": "00:00:47.120",
+    "start_seconds": 47.11,
+    "end_seconds": 47.12,
+    "text": "said I don't try to time markets. In"
+  },
+  {
+    "start": "00:00:47.120",
+    "end": "00:00:49.430",
+    "start_seconds": 47.12,
+    "end_seconds": 49.43,
+    "text": "said I don't try to time markets. In fact, anybody who claims that they never"
+  },
+  {
+    "start": "00:00:49.430",
+    "end": "00:00:49.440",
+    "start_seconds": 49.43,
+    "end_seconds": 49.44,
+    "text": "fact, anybody who claims that they never"
+  },
+  {
+    "start": "00:00:49.440",
+    "end": "00:00:51.990",
+    "start_seconds": 49.44,
+    "end_seconds": 51.99,
+    "text": "fact, anybody who claims that they never time markets is lying because the draw"
+  },
+  {
+    "start": "00:00:51.990",
+    "end": "00:00:52.000",
+    "start_seconds": 51.99,
+    "end_seconds": 52.0,
+    "text": "time markets is lying because the draw"
+  },
+  {
+    "start": "00:00:52.000",
+    "end": "00:00:54.470",
+    "start_seconds": 52.0,
+    "end_seconds": 54.47,
+    "text": "time markets is lying because the draw of market timing is so great that"
+  },
+  {
+    "start": "00:00:54.470",
+    "end": "00:00:54.480",
+    "start_seconds": 54.47,
+    "end_seconds": 54.48,
+    "text": "of market timing is so great that"
+  },
+  {
+    "start": "00:00:54.480",
+    "end": "00:00:56.549",
+    "start_seconds": 54.48,
+    "end_seconds": 56.549,
+    "text": "of market timing is so great that everybody at some point in time in their"
+  },
+  {
+    "start": "00:00:56.549",
+    "end": "00:00:56.559",
+    "start_seconds": 56.549,
+    "end_seconds": 56.559,
+    "text": "everybody at some point in time in their"
+  },
+  {
+    "start": "00:00:56.559",
+    "end": "00:00:59.029",
+    "start_seconds": 56.559,
+    "end_seconds": 59.029,
+    "text": "everybody at some point in time in their investing life does a wee bit of market"
+  },
+  {
+    "start": "00:00:59.029",
+    "end": "00:00:59.039",
+    "start_seconds": 59.029,
+    "end_seconds": 59.039,
+    "text": "investing life does a wee bit of market"
+  },
+  {
+    "start": "00:00:59.039",
+    "end": "00:01:01.830",
+    "start_seconds": 59.039,
+    "end_seconds": 61.83,
+    "text": "investing life does a wee bit of market timing. So let's see where market timing"
+  },
+  {
+    "start": "00:01:01.830",
+    "end": "00:01:01.840",
+    "start_seconds": 61.83,
+    "end_seconds": 61.84,
+    "text": "timing. So let's see where market timing"
+  },
+  {
+    "start": "00:01:01.840",
+    "end": "00:01:04.789",
+    "start_seconds": 61.84,
+    "end_seconds": 64.789,
+    "text": "timing. So let's see where market timing fits in the portfolio process."
+  },
+  {
+    "start": "00:01:04.789",
+    "end": "00:01:04.799",
+    "start_seconds": 64.789,
+    "end_seconds": 64.799,
+    "text": "fits in the portfolio process."
+  },
+  {
+    "start": "00:01:04.799",
+    "end": "00:01:06.630",
+    "start_seconds": 64.799,
+    "end_seconds": 66.63,
+    "text": "fits in the portfolio process. You remember I talked about the three"
+  },
+  {
+    "start": "00:01:06.630",
+    "end": "00:01:06.640",
+    "start_seconds": 66.63,
+    "end_seconds": 66.64,
+    "text": "You remember I talked about the three"
+  },
+  {
+    "start": "00:01:06.640",
+    "end": "00:01:09.350",
+    "start_seconds": 66.64,
+    "end_seconds": 69.35,
+    "text": "You remember I talked about the three steps of devising a portfolio. The first"
+  },
+  {
+    "start": "00:01:09.350",
+    "end": "00:01:09.360",
+    "start_seconds": 69.35,
+    "end_seconds": 69.36,
+    "text": "steps of devising a portfolio. The first"
+  },
+  {
+    "start": "00:01:09.360",
+    "end": "00:01:12.149",
+    "start_seconds": 69.36,
+    "end_seconds": 72.149,
+    "text": "steps of devising a portfolio. The first is asset allocation. deciding what"
+  },
+  {
+    "start": "00:01:12.149",
+    "end": "00:01:12.159",
+    "start_seconds": 72.149,
+    "end_seconds": 72.159,
+    "text": "is asset allocation. deciding what"
+  },
+  {
+    "start": "00:01:12.159",
+    "end": "00:01:14.469",
+    "start_seconds": 72.159,
+    "end_seconds": 74.469,
+    "text": "is asset allocation. deciding what percentage of your wealth goes into"
+  },
+  {
+    "start": "00:01:14.469",
+    "end": "00:01:14.479",
+    "start_seconds": 74.469,
+    "end_seconds": 74.479,
+    "text": "percentage of your wealth goes into"
+  },
+  {
+    "start": "00:01:14.479",
+    "end": "00:01:17.429",
+    "start_seconds": 74.479,
+    "end_seconds": 77.429,
+    "text": "percentage of your wealth goes into stocks and bonds and real assets and you"
+  },
+  {
+    "start": "00:01:17.429",
+    "end": "00:01:17.439",
+    "start_seconds": 77.429,
+    "end_seconds": 77.439,
+    "text": "stocks and bonds and real assets and you"
+  },
+  {
+    "start": "00:01:17.439",
+    "end": "00:01:19.590",
+    "start_seconds": 77.439,
+    "end_seconds": 79.59,
+    "text": "stocks and bonds and real assets and you can expand that out into geographies and"
+  },
+  {
+    "start": "00:01:19.590",
+    "end": "00:01:19.600",
+    "start_seconds": 79.59,
+    "end_seconds": 79.6,
+    "text": "can expand that out into geographies and"
+  },
+  {
+    "start": "00:01:19.600",
+    "end": "00:01:21.830",
+    "start_seconds": 79.6,
+    "end_seconds": 81.83,
+    "text": "can expand that out into geographies and sectors. The broad asset allocation"
+  },
+  {
+    "start": "00:01:21.830",
+    "end": "00:01:21.840",
+    "start_seconds": 81.83,
+    "end_seconds": 81.84,
+    "text": "sectors. The broad asset allocation"
+  },
+  {
+    "start": "00:01:21.840",
+    "end": "00:01:24.710",
+    "start_seconds": 81.84,
+    "end_seconds": 84.71000000000001,
+    "text": "sectors. The broad asset allocation decision. The second step is what we"
+  },
+  {
+    "start": "00:01:24.710",
+    "end": "00:01:24.720",
+    "start_seconds": 84.71000000000001,
+    "end_seconds": 84.72,
+    "text": "decision. The second step is what we"
+  },
+  {
+    "start": "00:01:24.720",
+    "end": "00:01:26.070",
+    "start_seconds": 84.72,
+    "end_seconds": 86.07,
+    "text": "decision. The second step is what we call stock selection, investment"
+  },
+  {
+    "start": "00:01:26.070",
+    "end": "00:01:26.080",
+    "start_seconds": 86.07,
+    "end_seconds": 86.08,
+    "text": "call stock selection, investment"
+  },
+  {
+    "start": "00:01:26.080",
+    "end": "00:01:27.670",
+    "start_seconds": 86.08,
+    "end_seconds": 87.67,
+    "text": "call stock selection, investment selection. Which stocks, which bonds,"
+  },
+  {
+    "start": "00:01:27.670",
+    "end": "00:01:27.680",
+    "start_seconds": 87.67,
+    "end_seconds": 87.68,
+    "text": "selection. Which stocks, which bonds,"
+  },
+  {
+    "start": "00:01:27.680",
+    "end": "00:01:30.149",
+    "start_seconds": 87.68,
+    "end_seconds": 90.149,
+    "text": "selection. Which stocks, which bonds, which real real assets should you hold?"
+  },
+  {
+    "start": "00:01:30.149",
+    "end": "00:01:30.159",
+    "start_seconds": 90.149,
+    "end_seconds": 90.15899999999999,
+    "text": "which real real assets should you hold?"
+  },
+  {
+    "start": "00:01:30.159",
+    "end": "00:01:32.630",
+    "start_seconds": 90.15899999999999,
+    "end_seconds": 92.63,
+    "text": "which real real assets should you hold? And the third part is execution."
+  },
+  {
+    "start": "00:01:32.630",
+    "end": "00:01:32.640",
+    "start_seconds": 92.63,
+    "end_seconds": 92.64,
+    "text": "And the third part is execution."
+  },
+  {
+    "start": "00:01:32.640",
+    "end": "00:01:35.030",
+    "start_seconds": 92.64,
+    "end_seconds": 95.03,
+    "text": "And the third part is execution. Market timing is all about the asset"
+  },
+  {
+    "start": "00:01:35.030",
+    "end": "00:01:35.040",
+    "start_seconds": 95.03,
+    "end_seconds": 95.03999999999999,
+    "text": "Market timing is all about the asset"
+  },
+  {
+    "start": "00:01:35.040",
+    "end": "00:01:37.030",
+    "start_seconds": 95.03999999999999,
+    "end_seconds": 97.03,
+    "text": "Market timing is all about the asset allocation part of the portfolio"
+  },
+  {
+    "start": "00:01:37.030",
+    "end": "00:01:37.040",
+    "start_seconds": 97.03,
+    "end_seconds": 97.03999999999999,
+    "text": "allocation part of the portfolio"
+  },
+  {
+    "start": "00:01:37.040",
+    "end": "00:01:39.030",
+    "start_seconds": 97.03999999999999,
+    "end_seconds": 99.03,
+    "text": "allocation part of the portfolio management process. And here's how it"
+  },
+  {
+    "start": "00:01:39.030",
+    "end": "00:01:39.040",
+    "start_seconds": 99.03,
+    "end_seconds": 99.03999999999999,
+    "text": "management process. And here's how it"
+  },
+  {
+    "start": "00:01:39.040",
+    "end": "00:01:41.749",
+    "start_seconds": 99.03999999999999,
+    "end_seconds": 101.749,
+    "text": "management process. And here's how it plays out. We talked about how as"
+  },
+  {
+    "start": "00:01:41.749",
+    "end": "00:01:41.759",
+    "start_seconds": 101.749,
+    "end_seconds": 101.759,
+    "text": "plays out. We talked about how as"
+  },
+  {
+    "start": "00:01:41.759",
+    "end": "00:01:44.149",
+    "start_seconds": 101.759,
+    "end_seconds": 104.149,
+    "text": "plays out. We talked about how as investors based on our risk aversion, we"
+  },
+  {
+    "start": "00:01:44.149",
+    "end": "00:01:44.159",
+    "start_seconds": 104.149,
+    "end_seconds": 104.15899999999999,
+    "text": "investors based on our risk aversion, we"
+  },
+  {
+    "start": "00:01:44.159",
+    "end": "00:01:46.550",
+    "start_seconds": 104.15899999999999,
+    "end_seconds": 106.55,
+    "text": "investors based on our risk aversion, we make a judgment of how much money to put"
+  },
+  {
+    "start": "00:01:46.550",
+    "end": "00:01:46.560",
+    "start_seconds": 106.55,
+    "end_seconds": 106.56,
+    "text": "make a judgment of how much money to put"
+  },
+  {
+    "start": "00:01:46.560",
+    "end": "00:01:48.789",
+    "start_seconds": 106.56,
+    "end_seconds": 108.789,
+    "text": "make a judgment of how much money to put into different asset classes. So let's"
+  },
+  {
+    "start": "00:01:48.789",
+    "end": "00:01:48.799",
+    "start_seconds": 108.789,
+    "end_seconds": 108.799,
+    "text": "into different asset classes. So let's"
+  },
+  {
+    "start": "00:01:48.799",
+    "end": "00:01:51.590",
+    "start_seconds": 108.799,
+    "end_seconds": 111.59,
+    "text": "into different asset classes. So let's say that you're in your mid30s and you"
+  },
+  {
+    "start": "00:01:51.590",
+    "end": "00:01:51.600",
+    "start_seconds": 111.59,
+    "end_seconds": 111.6,
+    "text": "say that you're in your mid30s and you"
+  },
+  {
+    "start": "00:01:51.600",
+    "end": "00:01:53.670",
+    "start_seconds": 111.6,
+    "end_seconds": 113.67,
+    "text": "say that you're in your mid30s and you have a long time horizon. You're willing"
+  },
+  {
+    "start": "00:01:53.670",
+    "end": "00:01:53.680",
+    "start_seconds": 113.67,
+    "end_seconds": 113.68,
+    "text": "have a long time horizon. You're willing"
+  },
+  {
+    "start": "00:01:53.680",
+    "end": "00:01:56.870",
+    "start_seconds": 113.68,
+    "end_seconds": 116.87,
+    "text": "have a long time horizon. You're willing to take risk and you say I put my 60% of"
+  },
+  {
+    "start": "00:01:56.870",
+    "end": "00:01:56.880",
+    "start_seconds": 116.87,
+    "end_seconds": 116.88,
+    "text": "to take risk and you say I put my 60% of"
+  },
+  {
+    "start": "00:01:56.880",
+    "end": "00:01:59.670",
+    "start_seconds": 116.88,
+    "end_seconds": 119.67,
+    "text": "to take risk and you say I put my 60% of my money in stocks, 30% in bonds, and"
+  },
+  {
+    "start": "00:01:59.670",
+    "end": "00:01:59.680",
+    "start_seconds": 119.67,
+    "end_seconds": 119.68,
+    "text": "my money in stocks, 30% in bonds, and"
+  },
+  {
+    "start": "00:01:59.680",
+    "end": "00:02:03.350",
+    "start_seconds": 119.68,
+    "end_seconds": 123.35,
+    "text": "my money in stocks, 30% in bonds, and 10% in real estate. Fair enough. That is"
+  },
+  {
+    "start": "00:02:03.350",
+    "end": "00:02:03.360",
+    "start_seconds": 123.35,
+    "end_seconds": 123.36,
+    "text": "10% in real estate. Fair enough. That is"
+  },
+  {
+    "start": "00:02:03.360",
+    "end": "00:02:05.590",
+    "start_seconds": 123.36,
+    "end_seconds": 125.59,
+    "text": "10% in real estate. Fair enough. That is an asset allocation bas based on your"
+  },
+  {
+    "start": "00:02:05.590",
+    "end": "00:02:05.600",
+    "start_seconds": 125.59,
+    "end_seconds": 125.6,
+    "text": "an asset allocation bas based on your"
+  },
+  {
+    "start": "00:02:05.600",
+    "end": "00:02:08.469",
+    "start_seconds": 125.6,
+    "end_seconds": 128.469,
+    "text": "an asset allocation bas based on your risk aversion, your age, and what you"
+  },
+  {
+    "start": "00:02:08.469",
+    "end": "00:02:08.479",
+    "start_seconds": 128.469,
+    "end_seconds": 128.47899999999998,
+    "text": "risk aversion, your age, and what you"
+  },
+  {
+    "start": "00:02:08.479",
+    "end": "00:02:10.309",
+    "start_seconds": 128.47899999999998,
+    "end_seconds": 130.309,
+    "text": "risk aversion, your age, and what you what your liquidity needs are. Here's"
+  },
+  {
+    "start": "00:02:10.309",
+    "end": "00:02:10.319",
+    "start_seconds": 130.309,
+    "end_seconds": 130.319,
+    "text": "what your liquidity needs are. Here's"
+  },
+  {
+    "start": "00:02:10.319",
+    "end": "00:02:12.470",
+    "start_seconds": 130.319,
+    "end_seconds": 132.47,
+    "text": "what your liquidity needs are. Here's where market timing comes in. Let's"
+  },
+  {
+    "start": "00:02:12.470",
+    "end": "00:02:12.480",
+    "start_seconds": 132.47,
+    "end_seconds": 132.48,
+    "text": "where market timing comes in. Let's"
+  },
+  {
+    "start": "00:02:12.480",
+    "end": "00:02:14.790",
+    "start_seconds": 132.48,
+    "end_seconds": 134.79,
+    "text": "where market timing comes in. Let's assume you think markets are overpriced."
+  },
+  {
+    "start": "00:02:14.790",
+    "end": "00:02:14.800",
+    "start_seconds": 134.79,
+    "end_seconds": 134.8,
+    "text": "assume you think markets are overpriced."
+  },
+  {
+    "start": "00:02:14.800",
+    "end": "00:02:17.110",
+    "start_seconds": 134.8,
+    "end_seconds": 137.11,
+    "text": "assume you think markets are overpriced. In particular, stocks are overpriced,"
+  },
+  {
+    "start": "00:02:17.110",
+    "end": "00:02:17.120",
+    "start_seconds": 137.11,
+    "end_seconds": 137.12,
+    "text": "In particular, stocks are overpriced,"
+  },
+  {
+    "start": "00:02:17.120",
+    "end": "00:02:19.510",
+    "start_seconds": 137.12,
+    "end_seconds": 139.51,
+    "text": "In particular, stocks are overpriced, but you believe bonds are underpriced."
+  },
+  {
+    "start": "00:02:19.510",
+    "end": "00:02:19.520",
+    "start_seconds": 139.51,
+    "end_seconds": 139.52,
+    "text": "but you believe bonds are underpriced."
+  },
+  {
+    "start": "00:02:19.520",
+    "end": "00:02:20.949",
+    "start_seconds": 139.52,
+    "end_seconds": 140.949,
+    "text": "but you believe bonds are underpriced. Here's what you would do. Rather than"
+  },
+  {
+    "start": "00:02:20.949",
+    "end": "00:02:20.959",
+    "start_seconds": 140.949,
+    "end_seconds": 140.959,
+    "text": "Here's what you would do. Rather than"
+  },
+  {
+    "start": "00:02:20.959",
+    "end": "00:02:23.350",
+    "start_seconds": 140.959,
+    "end_seconds": 143.35,
+    "text": "Here's what you would do. Rather than put 60% of your money into stocks, you"
+  },
+  {
+    "start": "00:02:23.350",
+    "end": "00:02:23.360",
+    "start_seconds": 143.35,
+    "end_seconds": 143.36,
+    "text": "put 60% of your money into stocks, you"
+  },
+  {
+    "start": "00:02:23.360",
+    "end": "00:02:26.790",
+    "start_seconds": 143.36,
+    "end_seconds": 146.79,
+    "text": "put 60% of your money into stocks, you might put only 40 or 20 or even 0% and"
+  },
+  {
+    "start": "00:02:26.790",
+    "end": "00:02:26.800",
+    "start_seconds": 146.79,
+    "end_seconds": 146.8,
+    "text": "might put only 40 or 20 or even 0% and"
+  },
+  {
+    "start": "00:02:26.800",
+    "end": "00:02:29.430",
+    "start_seconds": 146.8,
+    "end_seconds": 149.43,
+    "text": "might put only 40 or 20 or even 0% and increase the amount you have in bonds."
+  },
+  {
+    "start": "00:02:29.430",
+    "end": "00:02:29.440",
+    "start_seconds": 149.43,
+    "end_seconds": 149.44,
+    "text": "increase the amount you have in bonds."
+  },
+  {
+    "start": "00:02:29.440",
+    "end": "00:02:32.390",
+    "start_seconds": 149.44,
+    "end_seconds": 152.39,
+    "text": "increase the amount you have in bonds. So market timing is about moving away"
+  },
+  {
+    "start": "00:02:32.390",
+    "end": "00:02:32.400",
+    "start_seconds": 152.39,
+    "end_seconds": 152.4,
+    "text": "So market timing is about moving away"
+  },
+  {
+    "start": "00:02:32.400",
+    "end": "00:02:34.630",
+    "start_seconds": 152.4,
+    "end_seconds": 154.63,
+    "text": "So market timing is about moving away from that asset allocation mix that's"
+  },
+  {
+    "start": "00:02:34.630",
+    "end": "00:02:34.640",
+    "start_seconds": 154.63,
+    "end_seconds": 154.64,
+    "text": "from that asset allocation mix that's"
+  },
+  {
+    "start": "00:02:34.640",
+    "end": "00:02:37.270",
+    "start_seconds": 154.64,
+    "end_seconds": 157.27,
+    "text": "from that asset allocation mix that's the right one given your risk aversion"
+  },
+  {
+    "start": "00:02:37.270",
+    "end": "00:02:37.280",
+    "start_seconds": 157.27,
+    "end_seconds": 157.28,
+    "text": "the right one given your risk aversion"
+  },
+  {
+    "start": "00:02:37.280",
+    "end": "00:02:39.350",
+    "start_seconds": 157.28,
+    "end_seconds": 159.35,
+    "text": "the right one given your risk aversion but doing it because you think a"
+  },
+  {
+    "start": "00:02:39.350",
+    "end": "00:02:39.360",
+    "start_seconds": 159.35,
+    "end_seconds": 159.36,
+    "text": "but doing it because you think a"
+  },
+  {
+    "start": "00:02:39.360",
+    "end": "00:02:41.430",
+    "start_seconds": 159.36,
+    "end_seconds": 161.43,
+    "text": "but doing it because you think a particular market stocks or bonds or"
+  },
+  {
+    "start": "00:02:41.430",
+    "end": "00:02:41.440",
+    "start_seconds": 161.43,
+    "end_seconds": 161.44,
+    "text": "particular market stocks or bonds or"
+  },
+  {
+    "start": "00:02:41.440",
+    "end": "00:02:43.430",
+    "start_seconds": 161.44,
+    "end_seconds": 163.43,
+    "text": "particular market stocks or bonds or real assets is underpriced or"
+  },
+  {
+    "start": "00:02:43.430",
+    "end": "00:02:43.440",
+    "start_seconds": 163.43,
+    "end_seconds": 163.44,
+    "text": "real assets is underpriced or"
+  },
+  {
+    "start": "00:02:43.440",
+    "end": "00:02:47.030",
+    "start_seconds": 163.44,
+    "end_seconds": 167.03,
+    "text": "real assets is underpriced or overpriced. Now within each of these"
+  },
+  {
+    "start": "00:02:47.030",
+    "end": "00:02:47.040",
+    "start_seconds": 167.03,
+    "end_seconds": 167.04,
+    "text": "overpriced. Now within each of these"
+  },
+  {
+    "start": "00:02:47.040",
+    "end": "00:02:49.030",
+    "start_seconds": 167.04,
+    "end_seconds": 169.03,
+    "text": "overpriced. Now within each of these broad asset classes you can do further"
+  },
+  {
+    "start": "00:02:49.030",
+    "end": "00:02:49.040",
+    "start_seconds": 169.03,
+    "end_seconds": 169.04,
+    "text": "broad asset classes you can do further"
+  },
+  {
+    "start": "00:02:49.040",
+    "end": "00:02:51.270",
+    "start_seconds": 169.04,
+    "end_seconds": 171.27,
+    "text": "broad asset classes you can do further market timing within stocks for instance"
+  },
+  {
+    "start": "00:02:51.270",
+    "end": "00:02:51.280",
+    "start_seconds": 171.27,
+    "end_seconds": 171.28,
+    "text": "market timing within stocks for instance"
+  },
+  {
+    "start": "00:02:51.280",
+    "end": "00:02:53.430",
+    "start_seconds": 171.28,
+    "end_seconds": 173.43,
+    "text": "market timing within stocks for instance you can decide US stocks are overpriced"
+  },
+  {
+    "start": "00:02:53.430",
+    "end": "00:02:53.440",
+    "start_seconds": 173.43,
+    "end_seconds": 173.44,
+    "text": "you can decide US stocks are overpriced"
+  },
+  {
+    "start": "00:02:53.440",
+    "end": "00:02:55.430",
+    "start_seconds": 173.44,
+    "end_seconds": 175.43,
+    "text": "you can decide US stocks are overpriced but European stocks are underpriced. So"
+  },
+  {
+    "start": "00:02:55.430",
+    "end": "00:02:55.440",
+    "start_seconds": 175.43,
+    "end_seconds": 175.44,
+    "text": "but European stocks are underpriced. So"
+  },
+  {
+    "start": "00:02:55.440",
+    "end": "00:02:58.150",
+    "start_seconds": 175.44,
+    "end_seconds": 178.15,
+    "text": "but European stocks are underpriced. So what do you do? You overload on European"
+  },
+  {
+    "start": "00:02:58.150",
+    "end": "00:02:58.160",
+    "start_seconds": 178.15,
+    "end_seconds": 178.16,
+    "text": "what do you do? You overload on European"
+  },
+  {
+    "start": "00:02:58.160",
+    "end": "00:03:00.550",
+    "start_seconds": 178.16,
+    "end_seconds": 180.55,
+    "text": "what do you do? You overload on European stocks more than you normally own and"
+  },
+  {
+    "start": "00:03:00.550",
+    "end": "00:03:00.560",
+    "start_seconds": 180.55,
+    "end_seconds": 180.56,
+    "text": "stocks more than you normally own and"
+  },
+  {
+    "start": "00:03:00.560",
+    "end": "00:03:03.750",
+    "start_seconds": 180.56,
+    "end_seconds": 183.75,
+    "text": "stocks more than you normally own and and underload on US stocks. So market"
+  },
+  {
+    "start": "00:03:03.750",
+    "end": "00:03:03.760",
+    "start_seconds": 183.75,
+    "end_seconds": 183.76,
+    "text": "and underload on US stocks. So market"
+  },
+  {
+    "start": "00:03:03.760",
+    "end": "00:03:06.309",
+    "start_seconds": 183.76,
+    "end_seconds": 186.309,
+    "text": "and underload on US stocks. So market timing is all about changing your asset"
+  },
+  {
+    "start": "00:03:06.309",
+    "end": "00:03:06.319",
+    "start_seconds": 186.309,
+    "end_seconds": 186.319,
+    "text": "timing is all about changing your asset"
+  },
+  {
+    "start": "00:03:06.319",
+    "end": "00:03:07.990",
+    "start_seconds": 186.319,
+    "end_seconds": 187.99,
+    "text": "timing is all about changing your asset allocation."
+  },
+  {
+    "start": "00:03:07.990",
+    "end": "00:03:08.000",
+    "start_seconds": 187.99,
+    "end_seconds": 188.0,
+    "text": "allocation."
+  },
+  {
+    "start": "00:03:08.000",
+    "end": "00:03:10.070",
+    "start_seconds": 188.0,
+    "end_seconds": 190.07,
+    "text": "allocation. You're saying why do people try? The"
+  },
+  {
+    "start": "00:03:10.070",
+    "end": "00:03:10.080",
+    "start_seconds": 190.07,
+    "end_seconds": 190.08,
+    "text": "You're saying why do people try? The"
+  },
+  {
+    "start": "00:03:10.080",
+    "end": "00:03:12.949",
+    "start_seconds": 190.08,
+    "end_seconds": 192.949,
+    "text": "You're saying why do people try? The reason is very simple. If you can time"
+  },
+  {
+    "start": "00:03:12.949",
+    "end": "00:03:12.959",
+    "start_seconds": 192.949,
+    "end_seconds": 192.959,
+    "text": "reason is very simple. If you can time"
+  },
+  {
+    "start": "00:03:12.959",
+    "end": "00:03:15.110",
+    "start_seconds": 192.959,
+    "end_seconds": 195.11,
+    "text": "reason is very simple. If you can time markets, the amount of returns you can"
+  },
+  {
+    "start": "00:03:15.110",
+    "end": "00:03:15.120",
+    "start_seconds": 195.11,
+    "end_seconds": 195.12,
+    "text": "markets, the amount of returns you can"
+  },
+  {
+    "start": "00:03:15.120",
+    "end": "00:03:18.070",
+    "start_seconds": 195.12,
+    "end_seconds": 198.07,
+    "text": "markets, the amount of returns you can make will vastly be vastly greater than"
+  },
+  {
+    "start": "00:03:18.070",
+    "end": "00:03:18.080",
+    "start_seconds": 198.07,
+    "end_seconds": 198.07999999999998,
+    "text": "make will vastly be vastly greater than"
+  },
+  {
+    "start": "00:03:18.080",
+    "end": "00:03:19.589",
+    "start_seconds": 198.07999999999998,
+    "end_seconds": 199.589,
+    "text": "make will vastly be vastly greater than the returns you will make by picking"
+  },
+  {
+    "start": "00:03:19.589",
+    "end": "00:03:19.599",
+    "start_seconds": 199.589,
+    "end_seconds": 199.599,
+    "text": "the returns you will make by picking"
+  },
+  {
+    "start": "00:03:19.599",
+    "end": "00:03:22.790",
+    "start_seconds": 199.599,
+    "end_seconds": 202.79,
+    "text": "the returns you will make by picking individual stocks. In 1986 article that"
+  },
+  {
+    "start": "00:03:22.790",
+    "end": "00:03:22.800",
+    "start_seconds": 202.79,
+    "end_seconds": 202.8,
+    "text": "individual stocks. In 1986 article that"
+  },
+  {
+    "start": "00:03:22.800",
+    "end": "00:03:25.030",
+    "start_seconds": 202.8,
+    "end_seconds": 205.03,
+    "text": "individual stocks. In 1986 article that drew a lot of attention, a group of"
+  },
+  {
+    "start": "00:03:25.030",
+    "end": "00:03:25.040",
+    "start_seconds": 205.03,
+    "end_seconds": 205.04,
+    "text": "drew a lot of attention, a group of"
+  },
+  {
+    "start": "00:03:25.040",
+    "end": "00:03:27.030",
+    "start_seconds": 205.04,
+    "end_seconds": 207.03,
+    "text": "drew a lot of attention, a group of researchers looked at what percentage of"
+  },
+  {
+    "start": "00:03:27.030",
+    "end": "00:03:27.040",
+    "start_seconds": 207.03,
+    "end_seconds": 207.04,
+    "text": "researchers looked at what percentage of"
+  },
+  {
+    "start": "00:03:27.040",
+    "end": "00:03:29.430",
+    "start_seconds": 207.04,
+    "end_seconds": 209.43,
+    "text": "researchers looked at what percentage of the variation in quarterly performance"
+  },
+  {
+    "start": "00:03:29.430",
+    "end": "00:03:29.440",
+    "start_seconds": 209.43,
+    "end_seconds": 209.44,
+    "text": "the variation in quarterly performance"
+  },
+  {
+    "start": "00:03:29.440",
+    "end": "00:03:32.149",
+    "start_seconds": 209.44,
+    "end_seconds": 212.149,
+    "text": "the variation in quarterly performance across active investors is explained by"
+  },
+  {
+    "start": "00:03:32.149",
+    "end": "00:03:32.159",
+    "start_seconds": 212.149,
+    "end_seconds": 212.159,
+    "text": "across active investors is explained by"
+  },
+  {
+    "start": "00:03:32.159",
+    "end": "00:03:35.110",
+    "start_seconds": 212.159,
+    "end_seconds": 215.11,
+    "text": "across active investors is explained by asset allocation 94%."
+  },
+  {
+    "start": "00:03:35.110",
+    "end": "00:03:35.120",
+    "start_seconds": 215.11,
+    "end_seconds": 215.12,
+    "text": "asset allocation 94%."
+  },
+  {
+    "start": "00:03:35.120",
+    "end": "00:03:37.030",
+    "start_seconds": 215.12,
+    "end_seconds": 217.03,
+    "text": "asset allocation 94%. Most of the differences came not from"
+  },
+  {
+    "start": "00:03:37.030",
+    "end": "00:03:37.040",
+    "start_seconds": 217.03,
+    "end_seconds": 217.04,
+    "text": "Most of the differences came not from"
+  },
+  {
+    "start": "00:03:37.040",
+    "end": "00:03:38.949",
+    "start_seconds": 217.04,
+    "end_seconds": 218.949,
+    "text": "Most of the differences came not from the individual stocks they picked but"
+  },
+  {
+    "start": "00:03:38.949",
+    "end": "00:03:38.959",
+    "start_seconds": 218.949,
+    "end_seconds": 218.959,
+    "text": "the individual stocks they picked but"
+  },
+  {
+    "start": "00:03:38.959",
+    "end": "00:03:41.030",
+    "start_seconds": 218.959,
+    "end_seconds": 221.03,
+    "text": "the individual stocks they picked but from the allocated how much money they"
+  },
+  {
+    "start": "00:03:41.030",
+    "end": "00:03:41.040",
+    "start_seconds": 221.03,
+    "end_seconds": 221.04,
+    "text": "from the allocated how much money they"
+  },
+  {
+    "start": "00:03:41.040",
+    "end": "00:03:43.509",
+    "start_seconds": 221.04,
+    "end_seconds": 223.50900000000001,
+    "text": "from the allocated how much money they decide to put in the stock market. A"
+  },
+  {
+    "start": "00:03:43.509",
+    "end": "00:03:43.519",
+    "start_seconds": 223.50900000000001,
+    "end_seconds": 223.519,
+    "text": "decide to put in the stock market. A"
+  },
+  {
+    "start": "00:03:43.519",
+    "end": "00:03:45.750",
+    "start_seconds": 223.519,
+    "end_seconds": 225.75,
+    "text": "decide to put in the stock market. A later study looked at mutual funds and"
+  },
+  {
+    "start": "00:03:45.750",
+    "end": "00:03:45.760",
+    "start_seconds": 225.75,
+    "end_seconds": 225.76,
+    "text": "later study looked at mutual funds and"
+  },
+  {
+    "start": "00:03:45.760",
+    "end": "00:03:48.309",
+    "start_seconds": 225.76,
+    "end_seconds": 228.309,
+    "text": "later study looked at mutual funds and pension funds and concluded that about"
+  },
+  {
+    "start": "00:03:48.309",
+    "end": "00:03:48.319",
+    "start_seconds": 228.309,
+    "end_seconds": 228.31900000000002,
+    "text": "pension funds and concluded that about"
+  },
+  {
+    "start": "00:03:48.319",
+    "end": "00:03:50.229",
+    "start_seconds": 228.31900000000002,
+    "end_seconds": 230.22899999999998,
+    "text": "pension funds and concluded that about 40% of the difference in returns came"
+  },
+  {
+    "start": "00:03:50.229",
+    "end": "00:03:50.239",
+    "start_seconds": 230.22899999999998,
+    "end_seconds": 230.239,
+    "text": "40% of the difference in returns came"
+  },
+  {
+    "start": "00:03:50.239",
+    "end": "00:03:52.070",
+    "start_seconds": 230.239,
+    "end_seconds": 232.07,
+    "text": "40% of the difference in returns came from their asset allocation decisions."
+  },
+  {
+    "start": "00:03:52.070",
+    "end": "00:03:52.080",
+    "start_seconds": 232.07,
+    "end_seconds": 232.07999999999998,
+    "text": "from their asset allocation decisions."
+  },
+  {
+    "start": "00:03:52.080",
+    "end": "00:03:54.710",
+    "start_seconds": 232.07999999999998,
+    "end_seconds": 234.71,
+    "text": "from their asset allocation decisions. Asset allocation has a disproportionate"
+  },
+  {
+    "start": "00:03:54.710",
+    "end": "00:03:54.720",
+    "start_seconds": 234.71,
+    "end_seconds": 234.72,
+    "text": "Asset allocation has a disproportionate"
+  },
+  {
+    "start": "00:03:54.720",
+    "end": "00:03:57.350",
+    "start_seconds": 234.72,
+    "end_seconds": 237.35,
+    "text": "Asset allocation has a disproportionate effect on your overall returns. So over"
+  },
+  {
+    "start": "00:03:57.350",
+    "end": "00:03:57.360",
+    "start_seconds": 237.35,
+    "end_seconds": 237.36,
+    "text": "effect on your overall returns. So over"
+  },
+  {
+    "start": "00:03:57.360",
+    "end": "00:03:59.910",
+    "start_seconds": 237.36,
+    "end_seconds": 239.91,
+    "text": "effect on your overall returns. So over the last 20 years, you had 90% of your"
+  },
+  {
+    "start": "00:03:59.910",
+    "end": "00:03:59.920",
+    "start_seconds": 239.91,
+    "end_seconds": 239.92000000000002,
+    "text": "the last 20 years, you had 90% of your"
+  },
+  {
+    "start": "00:03:59.920",
+    "end": "00:04:02.390",
+    "start_seconds": 239.92000000000002,
+    "end_seconds": 242.39,
+    "text": "the last 20 years, you had 90% of your money and you're a US investor, you 90%"
+  },
+  {
+    "start": "00:04:02.390",
+    "end": "00:04:02.400",
+    "start_seconds": 242.39,
+    "end_seconds": 242.4,
+    "text": "money and you're a US investor, you 90%"
+  },
+  {
+    "start": "00:04:02.400",
+    "end": "00:04:04.869",
+    "start_seconds": 242.4,
+    "end_seconds": 244.869,
+    "text": "money and you're a US investor, you 90% of your money in T- bills or T- bonds,"
+  },
+  {
+    "start": "00:04:04.869",
+    "end": "00:04:04.879",
+    "start_seconds": 244.869,
+    "end_seconds": 244.879,
+    "text": "of your money in T- bills or T- bonds,"
+  },
+  {
+    "start": "00:04:04.879",
+    "end": "00:04:06.149",
+    "start_seconds": 244.879,
+    "end_seconds": 246.149,
+    "text": "of your money in T- bills or T- bonds, you would have significantly"
+  },
+  {
+    "start": "00:04:06.149",
+    "end": "00:04:06.159",
+    "start_seconds": 246.149,
+    "end_seconds": 246.159,
+    "text": "you would have significantly"
+  },
+  {
+    "start": "00:04:06.159",
+    "end": "00:04:07.670",
+    "start_seconds": 246.159,
+    "end_seconds": 247.67,
+    "text": "you would have significantly underperformed the market even though"
+  },
+  {
+    "start": "00:04:07.670",
+    "end": "00:04:07.680",
+    "start_seconds": 247.67,
+    "end_seconds": 247.68,
+    "text": "underperformed the market even though"
+  },
+  {
+    "start": "00:04:07.680",
+    "end": "00:04:10.550",
+    "start_seconds": 247.68,
+    "end_seconds": 250.55,
+    "text": "underperformed the market even though you might have picked the the best bonds"
+  },
+  {
+    "start": "00:04:10.550",
+    "end": "00:04:10.560",
+    "start_seconds": 250.55,
+    "end_seconds": 250.56,
+    "text": "you might have picked the the best bonds"
+  },
+  {
+    "start": "00:04:10.560",
+    "end": "00:04:13.110",
+    "start_seconds": 250.56,
+    "end_seconds": 253.11,
+    "text": "you might have picked the the best bonds during that period. Now, if you dig a"
+  },
+  {
+    "start": "00:04:13.110",
+    "end": "00:04:13.120",
+    "start_seconds": 253.11,
+    "end_seconds": 253.12,
+    "text": "during that period. Now, if you dig a"
+  },
+  {
+    "start": "00:04:13.120",
+    "end": "00:04:14.789",
+    "start_seconds": 253.12,
+    "end_seconds": 254.789,
+    "text": "during that period. Now, if you dig a little deeper and look further at what"
+  },
+  {
+    "start": "00:04:14.789",
+    "end": "00:04:14.799",
+    "start_seconds": 254.789,
+    "end_seconds": 254.799,
+    "text": "little deeper and look further at what"
+  },
+  {
+    "start": "00:04:14.799",
+    "end": "00:04:17.110",
+    "start_seconds": 254.799,
+    "end_seconds": 257.11,
+    "text": "little deeper and look further at what what draws us to market timing, here are"
+  },
+  {
+    "start": "00:04:17.110",
+    "end": "00:04:17.120",
+    "start_seconds": 257.11,
+    "end_seconds": 257.12,
+    "text": "what draws us to market timing, here are"
+  },
+  {
+    "start": "00:04:17.120",
+    "end": "00:04:19.830",
+    "start_seconds": 257.12,
+    "end_seconds": 259.83,
+    "text": "what draws us to market timing, here are some very simple statistics as to why"
+  },
+  {
+    "start": "00:04:19.830",
+    "end": "00:04:19.840",
+    "start_seconds": 259.83,
+    "end_seconds": 259.84,
+    "text": "some very simple statistics as to why"
+  },
+  {
+    "start": "00:04:19.840",
+    "end": "00:04:21.749",
+    "start_seconds": 259.84,
+    "end_seconds": 261.749,
+    "text": "some very simple statistics as to why you and I are going to be tempted by"
+  },
+  {
+    "start": "00:04:21.749",
+    "end": "00:04:21.759",
+    "start_seconds": 261.749,
+    "end_seconds": 261.759,
+    "text": "you and I are going to be tempted by"
+  },
+  {
+    "start": "00:04:21.759",
+    "end": "00:04:24.469",
+    "start_seconds": 261.759,
+    "end_seconds": 264.469,
+    "text": "you and I are going to be tempted by market timing. You know, when you watch"
+  },
+  {
+    "start": "00:04:24.469",
+    "end": "00:04:24.479",
+    "start_seconds": 264.469,
+    "end_seconds": 264.479,
+    "text": "market timing. You know, when you watch"
+  },
+  {
+    "start": "00:04:24.479",
+    "end": "00:04:28.390",
+    "start_seconds": 264.479,
+    "end_seconds": 268.39,
+    "text": "market timing. You know, when you watch the stock market in across time and you"
+  },
+  {
+    "start": "00:04:28.390",
+    "end": "00:04:28.400",
+    "start_seconds": 268.39,
+    "end_seconds": 268.4,
+    "text": "the stock market in across time and you"
+  },
+  {
+    "start": "00:04:28.400",
+    "end": "00:04:30.550",
+    "start_seconds": 268.4,
+    "end_seconds": 270.55,
+    "text": "the stock market in across time and you have good years and bad years, good days"
+  },
+  {
+    "start": "00:04:30.550",
+    "end": "00:04:30.560",
+    "start_seconds": 270.55,
+    "end_seconds": 270.56,
+    "text": "have good years and bad years, good days"
+  },
+  {
+    "start": "00:04:30.560",
+    "end": "00:04:32.790",
+    "start_seconds": 270.56,
+    "end_seconds": 272.79,
+    "text": "have good years and bad years, good days and bad days, good weeks and bad weeks."
+  },
+  {
+    "start": "00:04:32.790",
+    "end": "00:04:32.800",
+    "start_seconds": 272.79,
+    "end_seconds": 272.8,
+    "text": "and bad days, good weeks and bad weeks."
+  },
+  {
+    "start": "00:04:32.800",
+    "end": "00:04:34.310",
+    "start_seconds": 272.8,
+    "end_seconds": 274.31,
+    "text": "and bad days, good weeks and bad weeks. Let's play a little experiment. Let's"
+  },
+  {
+    "start": "00:04:34.310",
+    "end": "00:04:34.320",
+    "start_seconds": 274.31,
+    "end_seconds": 274.32,
+    "text": "Let's play a little experiment. Let's"
+  },
+  {
+    "start": "00:04:34.320",
+    "end": "00:04:36.230",
+    "start_seconds": 274.32,
+    "end_seconds": 276.23,
+    "text": "Let's play a little experiment. Let's assume that you could stay out of the"
+  },
+  {
+    "start": "00:04:36.230",
+    "end": "00:04:36.240",
+    "start_seconds": 276.23,
+    "end_seconds": 276.24,
+    "text": "assume that you could stay out of the"
+  },
+  {
+    "start": "00:04:36.240",
+    "end": "00:04:38.230",
+    "start_seconds": 276.24,
+    "end_seconds": 278.23,
+    "text": "assume that you could stay out of the bad days, the bad weeks or the bad"
+  },
+  {
+    "start": "00:04:38.230",
+    "end": "00:04:38.240",
+    "start_seconds": 278.23,
+    "end_seconds": 278.24,
+    "text": "bad days, the bad weeks or the bad"
+  },
+  {
+    "start": "00:04:38.240",
+    "end": "00:04:41.189",
+    "start_seconds": 278.24,
+    "end_seconds": 281.189,
+    "text": "bad days, the bad weeks or the bad years. your returns are going to be much"
+  },
+  {
+    "start": "00:04:41.189",
+    "end": "00:04:41.199",
+    "start_seconds": 281.189,
+    "end_seconds": 281.199,
+    "text": "years. your returns are going to be much"
+  },
+  {
+    "start": "00:04:41.199",
+    "end": "00:04:42.950",
+    "start_seconds": 281.199,
+    "end_seconds": 282.95,
+    "text": "years. your returns are going to be much much greater than somebody who couldn't"
+  },
+  {
+    "start": "00:04:42.950",
+    "end": "00:04:42.960",
+    "start_seconds": 282.95,
+    "end_seconds": 282.96,
+    "text": "much greater than somebody who couldn't"
+  },
+  {
+    "start": "00:04:42.960",
+    "end": "00:04:44.870",
+    "start_seconds": 282.96,
+    "end_seconds": 284.87,
+    "text": "much greater than somebody who couldn't do that, right? And in hindsight, it's"
+  },
+  {
+    "start": "00:04:44.870",
+    "end": "00:04:44.880",
+    "start_seconds": 284.87,
+    "end_seconds": 284.88,
+    "text": "do that, right? And in hindsight, it's"
+  },
+  {
+    "start": "00:04:44.880",
+    "end": "00:04:45.990",
+    "start_seconds": 284.88,
+    "end_seconds": 285.99,
+    "text": "do that, right? And in hindsight, it's going to look obvious. So, you're going"
+  },
+  {
+    "start": "00:04:45.990",
+    "end": "00:04:46.000",
+    "start_seconds": 285.99,
+    "end_seconds": 286.0,
+    "text": "going to look obvious. So, you're going"
+  },
+  {
+    "start": "00:04:46.000",
+    "end": "00:04:48.150",
+    "start_seconds": 286.0,
+    "end_seconds": 288.15,
+    "text": "going to look obvious. So, you're going to look back and say, \"I knew that crash"
+  },
+  {
+    "start": "00:04:48.150",
+    "end": "00:04:48.160",
+    "start_seconds": 288.15,
+    "end_seconds": 288.15999999999997,
+    "text": "to look back and say, \"I knew that crash"
+  },
+  {
+    "start": "00:04:48.160",
+    "end": "00:04:50.150",
+    "start_seconds": 288.15999999999997,
+    "end_seconds": 290.15,
+    "text": "to look back and say, \"I knew that crash was coming.\" Notice after every big"
+  },
+  {
+    "start": "00:04:50.150",
+    "end": "00:04:50.160",
+    "start_seconds": 290.15,
+    "end_seconds": 290.15999999999997,
+    "text": "was coming.\" Notice after every big"
+  },
+  {
+    "start": "00:04:50.160",
+    "end": "00:04:52.790",
+    "start_seconds": 290.15999999999997,
+    "end_seconds": 292.79,
+    "text": "was coming.\" Notice after every big correction, people claim they knew. I"
+  },
+  {
+    "start": "00:04:52.790",
+    "end": "00:04:52.800",
+    "start_seconds": 292.79,
+    "end_seconds": 292.8,
+    "text": "correction, people claim they knew. I"
+  },
+  {
+    "start": "00:04:52.800",
+    "end": "00:04:54.629",
+    "start_seconds": 292.8,
+    "end_seconds": 294.629,
+    "text": "correction, people claim they knew. I should have got out before. So, in"
+  },
+  {
+    "start": "00:04:54.629",
+    "end": "00:04:54.639",
+    "start_seconds": 294.629,
+    "end_seconds": 294.639,
+    "text": "should have got out before. So, in"
+  },
+  {
+    "start": "00:04:54.639",
+    "end": "00:04:57.030",
+    "start_seconds": 294.639,
+    "end_seconds": 297.03,
+    "text": "should have got out before. So, in hindsight, it looks like if you time"
+  },
+  {
+    "start": "00:04:57.030",
+    "end": "00:04:57.040",
+    "start_seconds": 297.03,
+    "end_seconds": 297.04,
+    "text": "hindsight, it looks like if you time"
+  },
+  {
+    "start": "00:04:57.040",
+    "end": "00:04:58.629",
+    "start_seconds": 297.04,
+    "end_seconds": 298.629,
+    "text": "hindsight, it looks like if you time markets, you'd have been you'd be much"
+  },
+  {
+    "start": "00:04:58.629",
+    "end": "00:04:58.639",
+    "start_seconds": 298.629,
+    "end_seconds": 298.639,
+    "text": "markets, you'd have been you'd be much"
+  },
+  {
+    "start": "00:04:58.639",
+    "end": "00:05:00.870",
+    "start_seconds": 298.639,
+    "end_seconds": 300.87,
+    "text": "markets, you'd have been you'd be much better off today. And if you dig a"
+  },
+  {
+    "start": "00:05:00.870",
+    "end": "00:05:00.880",
+    "start_seconds": 300.87,
+    "end_seconds": 300.88,
+    "text": "better off today. And if you dig a"
+  },
+  {
+    "start": "00:05:00.880",
+    "end": "00:05:03.270",
+    "start_seconds": 300.88,
+    "end_seconds": 303.27,
+    "text": "better off today. And if you dig a little deeper, there will always be"
+  },
+  {
+    "start": "00:05:03.270",
+    "end": "00:05:03.280",
+    "start_seconds": 303.27,
+    "end_seconds": 303.28,
+    "text": "little deeper, there will always be"
+  },
+  {
+    "start": "00:05:03.280",
+    "end": "00:05:06.550",
+    "start_seconds": 303.28,
+    "end_seconds": 306.55,
+    "text": "little deeper, there will always be indicators that seem to point to that"
+  },
+  {
+    "start": "00:05:06.550",
+    "end": "00:05:06.560",
+    "start_seconds": 306.55,
+    "end_seconds": 306.56,
+    "text": "indicators that seem to point to that"
+  },
+  {
+    "start": "00:05:06.560",
+    "end": "00:05:09.029",
+    "start_seconds": 306.56,
+    "end_seconds": 309.029,
+    "text": "indicators that seem to point to that market correction, those bad days, and"
+  },
+  {
+    "start": "00:05:09.029",
+    "end": "00:05:09.039",
+    "start_seconds": 309.029,
+    "end_seconds": 309.039,
+    "text": "market correction, those bad days, and"
+  },
+  {
+    "start": "00:05:09.039",
+    "end": "00:05:11.029",
+    "start_seconds": 309.039,
+    "end_seconds": 311.029,
+    "text": "market correction, those bad days, and you say, \"If only I'd use those"
+  },
+  {
+    "start": "00:05:11.029",
+    "end": "00:05:11.039",
+    "start_seconds": 311.029,
+    "end_seconds": 311.039,
+    "text": "you say, \"If only I'd use those"
+  },
+  {
+    "start": "00:05:11.039",
+    "end": "00:05:12.870",
+    "start_seconds": 311.039,
+    "end_seconds": 312.87,
+    "text": "you say, \"If only I'd use those indicators.\" Those indicators might have"
+  },
+  {
+    "start": "00:05:12.870",
+    "end": "00:05:12.880",
+    "start_seconds": 312.87,
+    "end_seconds": 312.88,
+    "text": "indicators.\" Those indicators might have"
+  },
+  {
+    "start": "00:05:12.880",
+    "end": "00:05:14.390",
+    "start_seconds": 312.88,
+    "end_seconds": 314.39,
+    "text": "indicators.\" Those indicators might have been, you know, we and we'll go through"
+  },
+  {
+    "start": "00:05:14.390",
+    "end": "00:05:14.400",
+    "start_seconds": 314.39,
+    "end_seconds": 314.4,
+    "text": "been, you know, we and we'll go through"
+  },
+  {
+    "start": "00:05:14.400",
+    "end": "00:05:16.550",
+    "start_seconds": 314.4,
+    "end_seconds": 316.55,
+    "text": "been, you know, we and we'll go through a whole series. Might be macroeconomic"
+  },
+  {
+    "start": "00:05:16.550",
+    "end": "00:05:16.560",
+    "start_seconds": 316.55,
+    "end_seconds": 316.56,
+    "text": "a whole series. Might be macroeconomic"
+  },
+  {
+    "start": "00:05:16.560",
+    "end": "00:05:18.150",
+    "start_seconds": 316.56,
+    "end_seconds": 318.15,
+    "text": "a whole series. Might be macroeconomic indicators. They might be technical"
+  },
+  {
+    "start": "00:05:18.150",
+    "end": "00:05:18.160",
+    "start_seconds": 318.15,
+    "end_seconds": 318.16,
+    "text": "indicators. They might be technical"
+  },
+  {
+    "start": "00:05:18.160",
+    "end": "00:05:20.390",
+    "start_seconds": 318.16,
+    "end_seconds": 320.39,
+    "text": "indicators. They might be technical indicators. They might be feelood"
+  },
+  {
+    "start": "00:05:20.390",
+    "end": "00:05:20.400",
+    "start_seconds": 320.39,
+    "end_seconds": 320.4,
+    "text": "indicators. They might be feelood"
+  },
+  {
+    "start": "00:05:20.400",
+    "end": "00:05:22.310",
+    "start_seconds": 320.4,
+    "end_seconds": 322.31,
+    "text": "indicators. They might be feelood indicators, but indicators that told you"
+  },
+  {
+    "start": "00:05:22.310",
+    "end": "00:05:22.320",
+    "start_seconds": 322.31,
+    "end_seconds": 322.32,
+    "text": "indicators, but indicators that told you"
+  },
+  {
+    "start": "00:05:22.320",
+    "end": "00:05:24.550",
+    "start_seconds": 322.32,
+    "end_seconds": 324.55,
+    "text": "indicators, but indicators that told you that a correction was coming."
+  },
+  {
+    "start": "00:05:24.550",
+    "end": "00:05:24.560",
+    "start_seconds": 324.55,
+    "end_seconds": 324.56,
+    "text": "that a correction was coming."
+  },
+  {
+    "start": "00:05:24.560",
+    "end": "00:05:26.070",
+    "start_seconds": 324.56,
+    "end_seconds": 326.07,
+    "text": "that a correction was coming. In fact, there have been studies that"
+  },
+  {
+    "start": "00:05:26.070",
+    "end": "00:05:26.080",
+    "start_seconds": 326.07,
+    "end_seconds": 326.08,
+    "text": "In fact, there have been studies that"
+  },
+  {
+    "start": "00:05:26.080",
+    "end": "00:05:28.230",
+    "start_seconds": 326.08,
+    "end_seconds": 328.23,
+    "text": "In fact, there have been studies that looked at what your returns would look"
+  },
+  {
+    "start": "00:05:28.230",
+    "end": "00:05:28.240",
+    "start_seconds": 328.23,
+    "end_seconds": 328.24,
+    "text": "looked at what your returns would look"
+  },
+  {
+    "start": "00:05:28.240",
+    "end": "00:05:30.310",
+    "start_seconds": 328.24,
+    "end_seconds": 330.31,
+    "text": "looked at what your returns would look like as an investor if you just avoided"
+  },
+  {
+    "start": "00:05:30.310",
+    "end": "00:05:30.320",
+    "start_seconds": 330.31,
+    "end_seconds": 330.32,
+    "text": "like as an investor if you just avoided"
+  },
+  {
+    "start": "00:05:30.320",
+    "end": "00:05:32.469",
+    "start_seconds": 330.32,
+    "end_seconds": 332.469,
+    "text": "like as an investor if you just avoided the bad days, the bad weeks, or the bad"
+  },
+  {
+    "start": "00:05:32.469",
+    "end": "00:05:32.479",
+    "start_seconds": 332.469,
+    "end_seconds": 332.479,
+    "text": "the bad days, the bad weeks, or the bad"
+  },
+  {
+    "start": "00:05:32.479",
+    "end": "00:05:34.870",
+    "start_seconds": 332.479,
+    "end_seconds": 334.87,
+    "text": "the bad days, the bad weeks, or the bad years. One study looked at what would"
+  },
+  {
+    "start": "00:05:34.870",
+    "end": "00:05:34.880",
+    "start_seconds": 334.87,
+    "end_seconds": 334.88,
+    "text": "years. One study looked at what would"
+  },
+  {
+    "start": "00:05:34.880",
+    "end": "00:05:37.029",
+    "start_seconds": 334.88,
+    "end_seconds": 337.029,
+    "text": "years. One study looked at what would happen if you avoided the 10 worst days"
+  },
+  {
+    "start": "00:05:37.029",
+    "end": "00:05:37.039",
+    "start_seconds": 337.029,
+    "end_seconds": 337.039,
+    "text": "happen if you avoided the 10 worst days"
+  },
+  {
+    "start": "00:05:37.039",
+    "end": "00:05:38.870",
+    "start_seconds": 337.039,
+    "end_seconds": 338.87,
+    "text": "happen if you avoided the 10 worst days of the year, concluded you'd almost"
+  },
+  {
+    "start": "00:05:38.870",
+    "end": "00:05:38.880",
+    "start_seconds": 338.87,
+    "end_seconds": 338.88,
+    "text": "of the year, concluded you'd almost"
+  },
+  {
+    "start": "00:05:38.880",
+    "end": "00:05:43.430",
+    "start_seconds": 338.88,
+    "end_seconds": 343.43,
+    "text": "of the year, concluded you'd almost double your returns. In 1992, Schilling"
+  },
+  {
+    "start": "00:05:43.430",
+    "end": "00:05:43.440",
+    "start_seconds": 343.43,
+    "end_seconds": 343.44,
+    "text": "double your returns. In 1992, Schilling"
+  },
+  {
+    "start": "00:05:43.440",
+    "end": "00:05:46.310",
+    "start_seconds": 343.44,
+    "end_seconds": 346.31,
+    "text": "double your returns. In 1992, Schilling Schiller Schilling examined the effect"
+  },
+  {
+    "start": "00:05:46.310",
+    "end": "00:05:46.320",
+    "start_seconds": 346.31,
+    "end_seconds": 346.32,
+    "text": "Schiller Schilling examined the effect"
+  },
+  {
+    "start": "00:05:46.320",
+    "end": "00:05:48.390",
+    "start_seconds": 346.32,
+    "end_seconds": 348.39,
+    "text": "Schiller Schilling examined the effect of on your annual returns of being able"
+  },
+  {
+    "start": "00:05:48.390",
+    "end": "00:05:48.400",
+    "start_seconds": 348.39,
+    "end_seconds": 348.4,
+    "text": "of on your annual returns of being able"
+  },
+  {
+    "start": "00:05:48.400",
+    "end": "00:05:50.150",
+    "start_seconds": 348.4,
+    "end_seconds": 350.15,
+    "text": "of on your annual returns of being able to stay out of the market during bad"
+  },
+  {
+    "start": "00:05:50.150",
+    "end": "00:05:50.160",
+    "start_seconds": 350.15,
+    "end_seconds": 350.15999999999997,
+    "text": "to stay out of the market during bad"
+  },
+  {
+    "start": "00:05:50.160",
+    "end": "00:05:52.469",
+    "start_seconds": 350.15999999999997,
+    "end_seconds": 352.469,
+    "text": "to stay out of the market during bad months, not just bad days, bad months."
+  },
+  {
+    "start": "00:05:52.469",
+    "end": "00:05:52.479",
+    "start_seconds": 352.469,
+    "end_seconds": 352.479,
+    "text": "months, not just bad days, bad months."
+  },
+  {
+    "start": "00:05:52.479",
+    "end": "00:05:54.390",
+    "start_seconds": 352.479,
+    "end_seconds": 354.39,
+    "text": "months, not just bad days, bad months. And he concluded that an investor who"
+  },
+  {
+    "start": "00:05:54.390",
+    "end": "00:05:54.400",
+    "start_seconds": 354.39,
+    "end_seconds": 354.4,
+    "text": "And he concluded that an investor who"
+  },
+  {
+    "start": "00:05:54.400",
+    "end": "00:05:56.790",
+    "start_seconds": 354.4,
+    "end_seconds": 356.79,
+    "text": "And he concluded that an investor who would have missed the 50 weakest months"
+  },
+  {
+    "start": "00:05:56.790",
+    "end": "00:05:56.800",
+    "start_seconds": 356.79,
+    "end_seconds": 356.8,
+    "text": "would have missed the 50 weakest months"
+  },
+  {
+    "start": "00:05:56.800",
+    "end": "00:05:59.270",
+    "start_seconds": 356.8,
+    "end_seconds": 359.27,
+    "text": "would have missed the 50 weakest months between 46 and 91 would almost again"
+  },
+  {
+    "start": "00:05:59.270",
+    "end": "00:05:59.280",
+    "start_seconds": 359.27,
+    "end_seconds": 359.28,
+    "text": "between 46 and 91 would almost again"
+  },
+  {
+    "start": "00:05:59.280",
+    "end": "00:06:01.749",
+    "start_seconds": 359.28,
+    "end_seconds": 361.749,
+    "text": "between 46 and 91 would almost again double their returns. Other studies"
+  },
+  {
+    "start": "00:06:01.749",
+    "end": "00:06:01.759",
+    "start_seconds": 361.749,
+    "end_seconds": 361.759,
+    "text": "double their returns. Other studies"
+  },
+  {
+    "start": "00:06:01.759",
+    "end": "00:06:03.990",
+    "start_seconds": 361.759,
+    "end_seconds": 363.99,
+    "text": "double their returns. Other studies reinforce this findings. Staying out of"
+  },
+  {
+    "start": "00:06:03.990",
+    "end": "00:06:04.000",
+    "start_seconds": 363.99,
+    "end_seconds": 364.0,
+    "text": "reinforce this findings. Staying out of"
+  },
+  {
+    "start": "00:06:04.000",
+    "end": "00:06:05.830",
+    "start_seconds": 364.0,
+    "end_seconds": 365.83,
+    "text": "reinforce this findings. Staying out of the worst days, the worst weeks, the"
+  },
+  {
+    "start": "00:06:05.830",
+    "end": "00:06:05.840",
+    "start_seconds": 365.83,
+    "end_seconds": 365.84,
+    "text": "the worst days, the worst weeks, the"
+  },
+  {
+    "start": "00:06:05.840",
+    "end": "00:06:08.469",
+    "start_seconds": 365.84,
+    "end_seconds": 368.469,
+    "text": "the worst days, the worst weeks, the worst months would clearly have this"
+  },
+  {
+    "start": "00:06:08.469",
+    "end": "00:06:08.479",
+    "start_seconds": 368.469,
+    "end_seconds": 368.479,
+    "text": "worst months would clearly have this"
+  },
+  {
+    "start": "00:06:08.479",
+    "end": "00:06:11.350",
+    "start_seconds": 368.479,
+    "end_seconds": 371.35,
+    "text": "worst months would clearly have this supercharging effect on returns. And if"
+  },
+  {
+    "start": "00:06:11.350",
+    "end": "00:06:11.360",
+    "start_seconds": 371.35,
+    "end_seconds": 371.36,
+    "text": "supercharging effect on returns. And if"
+  },
+  {
+    "start": "00:06:11.360",
+    "end": "00:06:12.790",
+    "start_seconds": 371.36,
+    "end_seconds": 372.79,
+    "text": "supercharging effect on returns. And if you look back in time and you think"
+  },
+  {
+    "start": "00:06:12.790",
+    "end": "00:06:12.800",
+    "start_seconds": 372.79,
+    "end_seconds": 372.8,
+    "text": "you look back in time and you think"
+  },
+  {
+    "start": "00:06:12.800",
+    "end": "00:06:15.430",
+    "start_seconds": 372.8,
+    "end_seconds": 375.43,
+    "text": "you look back in time and you think about the bubbles, the dot bubble, the"
+  },
+  {
+    "start": "00:06:15.430",
+    "end": "00:06:15.440",
+    "start_seconds": 375.43,
+    "end_seconds": 375.44,
+    "text": "about the bubbles, the dot bubble, the"
+  },
+  {
+    "start": "00:06:15.440",
+    "end": "00:06:18.070",
+    "start_seconds": 375.44,
+    "end_seconds": 378.07,
+    "text": "about the bubbles, the dot bubble, the 2008 correction, you say, \"If only I'd"
+  },
+  {
+    "start": "00:06:18.070",
+    "end": "00:06:18.080",
+    "start_seconds": 378.07,
+    "end_seconds": 378.08,
+    "text": "2008 correction, you say, \"If only I'd"
+  },
+  {
+    "start": "00:06:18.080",
+    "end": "00:06:19.670",
+    "start_seconds": 378.08,
+    "end_seconds": 379.67,
+    "text": "2008 correction, you say, \"If only I'd stayed out of that bubble, look how much"
+  },
+  {
+    "start": "00:06:19.670",
+    "end": "00:06:19.680",
+    "start_seconds": 379.67,
+    "end_seconds": 379.68,
+    "text": "stayed out of that bubble, look how much"
+  },
+  {
+    "start": "00:06:19.680",
+    "end": "00:06:22.790",
+    "start_seconds": 379.68,
+    "end_seconds": 382.79,
+    "text": "stayed out of that bubble, look how much better off I'd have been.\" That is the"
+  },
+  {
+    "start": "00:06:22.790",
+    "end": "00:06:22.800",
+    "start_seconds": 382.79,
+    "end_seconds": 382.8,
+    "text": "better off I'd have been.\" That is the"
+  },
+  {
+    "start": "00:06:22.800",
+    "end": "00:06:25.909",
+    "start_seconds": 382.8,
+    "end_seconds": 385.909,
+    "text": "better off I'd have been.\" That is the draw of market timing. If only if only"
+  },
+  {
+    "start": "00:06:25.909",
+    "end": "00:06:25.919",
+    "start_seconds": 385.909,
+    "end_seconds": 385.919,
+    "text": "draw of market timing. If only if only"
+  },
+  {
+    "start": "00:06:25.919",
+    "end": "00:06:29.110",
+    "start_seconds": 385.919,
+    "end_seconds": 389.11,
+    "text": "draw of market timing. If only if only if only becomes the the the the"
+  },
+  {
+    "start": "00:06:29.110",
+    "end": "00:06:29.120",
+    "start_seconds": 389.11,
+    "end_seconds": 389.12,
+    "text": "if only becomes the the the the"
+  },
+  {
+    "start": "00:06:29.120",
+    "end": "00:06:31.189",
+    "start_seconds": 389.12,
+    "end_seconds": 391.189,
+    "text": "if only becomes the the the the recurring thing."
+  },
+  {
+    "start": "00:06:31.189",
+    "end": "00:06:31.199",
+    "start_seconds": 391.189,
+    "end_seconds": 391.199,
+    "text": "recurring thing."
+  },
+  {
+    "start": "00:06:31.199",
+    "end": "00:06:33.590",
+    "start_seconds": 391.199,
+    "end_seconds": 393.59000000000003,
+    "text": "recurring thing. But there's a cost, right? We talked"
+  },
+  {
+    "start": "00:06:33.590",
+    "end": "00:06:33.600",
+    "start_seconds": 393.59000000000003,
+    "end_seconds": 393.6,
+    "text": "But there's a cost, right? We talked"
+  },
+  {
+    "start": "00:06:33.600",
+    "end": "00:06:35.430",
+    "start_seconds": 393.6,
+    "end_seconds": 395.43,
+    "text": "But there's a cost, right? We talked about the 10 worst days. But one of the"
+  },
+  {
+    "start": "00:06:35.430",
+    "end": "00:06:35.440",
+    "start_seconds": 395.43,
+    "end_seconds": 395.44,
+    "text": "about the 10 worst days. But one of the"
+  },
+  {
+    "start": "00:06:35.440",
+    "end": "00:06:37.430",
+    "start_seconds": 395.44,
+    "end_seconds": 397.43,
+    "text": "about the 10 worst days. But one of the things about markets, it's intero"
+  },
+  {
+    "start": "00:06:37.430",
+    "end": "00:06:37.440",
+    "start_seconds": 397.43,
+    "end_seconds": 397.44,
+    "text": "things about markets, it's intero"
+  },
+  {
+    "start": "00:06:37.440",
+    "end": "00:06:39.510",
+    "start_seconds": 397.44,
+    "end_seconds": 399.51,
+    "text": "things about markets, it's intero interspersed between the worst days is"
+  },
+  {
+    "start": "00:06:39.510",
+    "end": "00:06:39.520",
+    "start_seconds": 399.51,
+    "end_seconds": 399.52,
+    "text": "interspersed between the worst days is"
+  },
+  {
+    "start": "00:06:39.520",
+    "end": "00:06:41.350",
+    "start_seconds": 399.52,
+    "end_seconds": 401.35,
+    "text": "interspersed between the worst days is often some of the best days in the"
+  },
+  {
+    "start": "00:06:41.350",
+    "end": "00:06:41.360",
+    "start_seconds": 401.35,
+    "end_seconds": 401.36,
+    "text": "often some of the best days in the"
+  },
+  {
+    "start": "00:06:41.360",
+    "end": "00:06:44.550",
+    "start_seconds": 401.36,
+    "end_seconds": 404.55,
+    "text": "often some of the best days in the market. So as you try to miss the worst"
+  },
+  {
+    "start": "00:06:44.550",
+    "end": "00:06:44.560",
+    "start_seconds": 404.55,
+    "end_seconds": 404.56,
+    "text": "market. So as you try to miss the worst"
+  },
+  {
+    "start": "00:06:44.560",
+    "end": "00:06:45.990",
+    "start_seconds": 404.56,
+    "end_seconds": 405.99,
+    "text": "market. So as you try to miss the worst days of the market, what if you start"
+  },
+  {
+    "start": "00:06:45.990",
+    "end": "00:06:46.000",
+    "start_seconds": 405.99,
+    "end_seconds": 406.0,
+    "text": "days of the market, what if you start"
+  },
+  {
+    "start": "00:06:46.000",
+    "end": "00:06:48.150",
+    "start_seconds": 406.0,
+    "end_seconds": 408.15,
+    "text": "days of the market, what if you start missing the best days? And it turns out"
+  },
+  {
+    "start": "00:06:48.150",
+    "end": "00:06:48.160",
+    "start_seconds": 408.15,
+    "end_seconds": 408.15999999999997,
+    "text": "missing the best days? And it turns out"
+  },
+  {
+    "start": "00:06:48.160",
+    "end": "00:06:50.150",
+    "start_seconds": 408.15999999999997,
+    "end_seconds": 410.15,
+    "text": "missing the best days? And it turns out that if you miss the 10 best days of the"
+  },
+  {
+    "start": "00:06:50.150",
+    "end": "00:06:50.160",
+    "start_seconds": 410.15,
+    "end_seconds": 410.15999999999997,
+    "text": "that if you miss the 10 best days of the"
+  },
+  {
+    "start": "00:06:50.160",
+    "end": "00:06:51.990",
+    "start_seconds": 410.15999999999997,
+    "end_seconds": 411.99,
+    "text": "that if you miss the 10 best days of the market, you can have your return. So"
+  },
+  {
+    "start": "00:06:51.990",
+    "end": "00:06:52.000",
+    "start_seconds": 411.99,
+    "end_seconds": 412.0,
+    "text": "market, you can have your return. So"
+  },
+  {
+    "start": "00:06:52.000",
+    "end": "00:06:54.390",
+    "start_seconds": 412.0,
+    "end_seconds": 414.39,
+    "text": "market, you can have your return. So here's the challenge. In trying to miss"
+  },
+  {
+    "start": "00:06:54.390",
+    "end": "00:06:54.400",
+    "start_seconds": 414.39,
+    "end_seconds": 414.4,
+    "text": "here's the challenge. In trying to miss"
+  },
+  {
+    "start": "00:06:54.400",
+    "end": "00:06:55.909",
+    "start_seconds": 414.4,
+    "end_seconds": 415.909,
+    "text": "here's the challenge. In trying to miss the worst days in the market, are you"
+  },
+  {
+    "start": "00:06:55.909",
+    "end": "00:06:55.919",
+    "start_seconds": 415.909,
+    "end_seconds": 415.919,
+    "text": "the worst days in the market, are you"
+  },
+  {
+    "start": "00:06:55.919",
+    "end": "00:06:57.909",
+    "start_seconds": 415.919,
+    "end_seconds": 417.909,
+    "text": "the worst days in the market, are you also missing the best days? In trying to"
+  },
+  {
+    "start": "00:06:57.909",
+    "end": "00:06:57.919",
+    "start_seconds": 417.909,
+    "end_seconds": 417.919,
+    "text": "also missing the best days? In trying to"
+  },
+  {
+    "start": "00:06:57.919",
+    "end": "00:06:59.990",
+    "start_seconds": 417.919,
+    "end_seconds": 419.99,
+    "text": "also missing the best days? In trying to miss the worst months, are you also"
+  },
+  {
+    "start": "00:06:59.990",
+    "end": "00:07:00.000",
+    "start_seconds": 419.99,
+    "end_seconds": 420.0,
+    "text": "miss the worst months, are you also"
+  },
+  {
+    "start": "00:07:00.000",
+    "end": "00:07:02.550",
+    "start_seconds": 420.0,
+    "end_seconds": 422.55,
+    "text": "miss the worst months, are you also missing the best months?"
+  },
+  {
+    "start": "00:07:02.550",
+    "end": "00:07:02.560",
+    "start_seconds": 422.55,
+    "end_seconds": 422.56,
+    "text": "missing the best months?"
+  },
+  {
+    "start": "00:07:02.560",
+    "end": "00:07:05.430",
+    "start_seconds": 422.56,
+    "end_seconds": 425.43,
+    "text": "missing the best months? So it turns out that"
+  },
+  {
+    "start": "00:07:05.430",
+    "end": "00:07:05.440",
+    "start_seconds": 425.43,
+    "end_seconds": 425.44,
+    "text": "So it turns out that"
+  },
+  {
+    "start": "00:07:05.440",
+    "end": "00:07:07.830",
+    "start_seconds": 425.44,
+    "end_seconds": 427.83,
+    "text": "So it turns out that and in fact that's the it gives rise to"
+  },
+  {
+    "start": "00:07:07.830",
+    "end": "00:07:07.840",
+    "start_seconds": 427.83,
+    "end_seconds": 427.84,
+    "text": "and in fact that's the it gives rise to"
+  },
+  {
+    "start": "00:07:07.840",
+    "end": "00:07:10.870",
+    "start_seconds": 427.84,
+    "end_seconds": 430.87,
+    "text": "and in fact that's the it gives rise to the thing it's better to spend time in"
+  },
+  {
+    "start": "00:07:10.870",
+    "end": "00:07:10.880",
+    "start_seconds": 430.87,
+    "end_seconds": 430.88,
+    "text": "the thing it's better to spend time in"
+  },
+  {
+    "start": "00:07:10.880",
+    "end": "00:07:12.550",
+    "start_seconds": 430.88,
+    "end_seconds": 432.55,
+    "text": "the thing it's better to spend time in the market than timing the market"
+  },
+  {
+    "start": "00:07:12.550",
+    "end": "00:07:12.560",
+    "start_seconds": 432.55,
+    "end_seconds": 432.56,
+    "text": "the market than timing the market"
+  },
+  {
+    "start": "00:07:12.560",
+    "end": "00:07:14.870",
+    "start_seconds": 432.56,
+    "end_seconds": 434.87,
+    "text": "the market than timing the market because many people in trying to time"
+  },
+  {
+    "start": "00:07:14.870",
+    "end": "00:07:14.880",
+    "start_seconds": 434.87,
+    "end_seconds": 434.88,
+    "text": "because many people in trying to time"
+  },
+  {
+    "start": "00:07:14.880",
+    "end": "00:07:16.469",
+    "start_seconds": 434.88,
+    "end_seconds": 436.469,
+    "text": "because many people in trying to time the market end up being out of the"
+  },
+  {
+    "start": "00:07:16.469",
+    "end": "00:07:16.479",
+    "start_seconds": 436.469,
+    "end_seconds": 436.479,
+    "text": "the market end up being out of the"
+  },
+  {
+    "start": "00:07:16.479",
+    "end": "00:07:17.430",
+    "start_seconds": 436.479,
+    "end_seconds": 437.43,
+    "text": "the market end up being out of the market."
+  },
+  {
+    "start": "00:07:17.430",
+    "end": "00:07:17.440",
+    "start_seconds": 437.43,
+    "end_seconds": 437.44,
+    "text": "market."
+  },
+  {
+    "start": "00:07:17.440",
+    "end": "00:07:19.029",
+    "start_seconds": 437.44,
+    "end_seconds": 439.029,
+    "text": "market. Now, it goes without saying that if you"
+  },
+  {
+    "start": "00:07:19.029",
+    "end": "00:07:19.039",
+    "start_seconds": 439.029,
+    "end_seconds": 439.039,
+    "text": "Now, it goes without saying that if you"
+  },
+  {
+    "start": "00:07:19.039",
+    "end": "00:07:20.469",
+    "start_seconds": 439.039,
+    "end_seconds": 440.469,
+    "text": "Now, it goes without saying that if you try to time the market, you're going to"
+  },
+  {
+    "start": "00:07:20.469",
+    "end": "00:07:20.479",
+    "start_seconds": 440.469,
+    "end_seconds": 440.479,
+    "text": "try to time the market, you're going to"
+  },
+  {
+    "start": "00:07:20.479",
+    "end": "00:07:22.390",
+    "start_seconds": 440.479,
+    "end_seconds": 442.39,
+    "text": "try to time the market, you're going to turn over your portfolio a lot more,"
+  },
+  {
+    "start": "00:07:22.390",
+    "end": "00:07:22.400",
+    "start_seconds": 442.39,
+    "end_seconds": 442.4,
+    "text": "turn over your portfolio a lot more,"
+  },
+  {
+    "start": "00:07:22.400",
+    "end": "00:07:23.909",
+    "start_seconds": 442.4,
+    "end_seconds": 443.909,
+    "text": "turn over your portfolio a lot more, right? You got to sell things and buy"
+  },
+  {
+    "start": "00:07:23.909",
+    "end": "00:07:23.919",
+    "start_seconds": 443.909,
+    "end_seconds": 443.919,
+    "text": "right? You got to sell things and buy"
+  },
+  {
+    "start": "00:07:23.919",
+    "end": "00:07:25.510",
+    "start_seconds": 443.919,
+    "end_seconds": 445.51,
+    "text": "right? You got to sell things and buy things, that's going to increase your"
+  },
+  {
+    "start": "00:07:25.510",
+    "end": "00:07:25.520",
+    "start_seconds": 445.51,
+    "end_seconds": 445.52,
+    "text": "things, that's going to increase your"
+  },
+  {
+    "start": "00:07:25.520",
+    "end": "00:07:27.990",
+    "start_seconds": 445.52,
+    "end_seconds": 447.99,
+    "text": "things, that's going to increase your transactions cost. Often, you're trading"
+  },
+  {
+    "start": "00:07:27.990",
+    "end": "00:07:28.000",
+    "start_seconds": 447.99,
+    "end_seconds": 448.0,
+    "text": "transactions cost. Often, you're trading"
+  },
+  {
+    "start": "00:07:28.000",
+    "end": "00:07:29.749",
+    "start_seconds": 448.0,
+    "end_seconds": 449.749,
+    "text": "transactions cost. Often, you're trading much more than somebody who doesn't do"
+  },
+  {
+    "start": "00:07:29.749",
+    "end": "00:07:29.759",
+    "start_seconds": 449.749,
+    "end_seconds": 449.759,
+    "text": "much more than somebody who doesn't do"
+  },
+  {
+    "start": "00:07:29.759",
+    "end": "00:07:32.309",
+    "start_seconds": 449.759,
+    "end_seconds": 452.30899999999997,
+    "text": "much more than somebody who doesn't do market timing. And if you trade, and we"
+  },
+  {
+    "start": "00:07:32.309",
+    "end": "00:07:32.319",
+    "start_seconds": 452.30899999999997,
+    "end_seconds": 452.319,
+    "text": "market timing. And if you trade, and we"
+  },
+  {
+    "start": "00:07:32.319",
+    "end": "00:07:34.309",
+    "start_seconds": 452.319,
+    "end_seconds": 454.30899999999997,
+    "text": "market timing. And if you trade, and we saw that in earlier session on taxes,"
+  },
+  {
+    "start": "00:07:34.309",
+    "end": "00:07:34.319",
+    "start_seconds": 454.30899999999997,
+    "end_seconds": 454.319,
+    "text": "saw that in earlier session on taxes,"
+  },
+  {
+    "start": "00:07:34.319",
+    "end": "00:07:35.990",
+    "start_seconds": 454.319,
+    "end_seconds": 455.99,
+    "text": "saw that in earlier session on taxes, you're also going to increase your tax"
+  },
+  {
+    "start": "00:07:35.990",
+    "end": "00:07:36.000",
+    "start_seconds": 455.99,
+    "end_seconds": 456.0,
+    "text": "you're also going to increase your tax"
+  },
+  {
+    "start": "00:07:36.000",
+    "end": "00:07:38.150",
+    "start_seconds": 456.0,
+    "end_seconds": 458.15,
+    "text": "you're also going to increase your tax libraries. If you think markets are"
+  },
+  {
+    "start": "00:07:38.150",
+    "end": "00:07:38.160",
+    "start_seconds": 458.15,
+    "end_seconds": 458.15999999999997,
+    "text": "libraries. If you think markets are"
+  },
+  {
+    "start": "00:07:38.160",
+    "end": "00:07:39.909",
+    "start_seconds": 458.15999999999997,
+    "end_seconds": 459.909,
+    "text": "libraries. If you think markets are overpriced today and you sell all your"
+  },
+  {
+    "start": "00:07:39.909",
+    "end": "00:07:39.919",
+    "start_seconds": 459.909,
+    "end_seconds": 459.919,
+    "text": "overpriced today and you sell all your"
+  },
+  {
+    "start": "00:07:39.919",
+    "end": "00:07:42.469",
+    "start_seconds": 459.919,
+    "end_seconds": 462.469,
+    "text": "overpriced today and you sell all your stocks and even if you get the timing"
+  },
+  {
+    "start": "00:07:42.469",
+    "end": "00:07:42.479",
+    "start_seconds": 462.469,
+    "end_seconds": 462.479,
+    "text": "stocks and even if you get the timing"
+  },
+  {
+    "start": "00:07:42.479",
+    "end": "00:07:44.070",
+    "start_seconds": 462.479,
+    "end_seconds": 464.07,
+    "text": "stocks and even if you get the timing right, remember when you sell all your"
+  },
+  {
+    "start": "00:07:44.070",
+    "end": "00:07:44.080",
+    "start_seconds": 464.07,
+    "end_seconds": 464.08,
+    "text": "right, remember when you sell all your"
+  },
+  {
+    "start": "00:07:44.080",
+    "end": "00:07:46.070",
+    "start_seconds": 464.08,
+    "end_seconds": 466.07,
+    "text": "right, remember when you sell all your stocks, assuming that you've held them"
+  },
+  {
+    "start": "00:07:46.070",
+    "end": "00:07:46.080",
+    "start_seconds": 466.07,
+    "end_seconds": 466.08,
+    "text": "stocks, assuming that you've held them"
+  },
+  {
+    "start": "00:07:46.080",
+    "end": "00:07:47.270",
+    "start_seconds": 466.08,
+    "end_seconds": 467.27,
+    "text": "stocks, assuming that you've held them for a while, you're going to have tax"
+  },
+  {
+    "start": "00:07:47.270",
+    "end": "00:07:47.280",
+    "start_seconds": 467.27,
+    "end_seconds": 467.28,
+    "text": "for a while, you're going to have tax"
+  },
+  {
+    "start": "00:07:47.280",
+    "end": "00:07:49.430",
+    "start_seconds": 467.28,
+    "end_seconds": 469.43,
+    "text": "for a while, you're going to have tax liabilities that come due when you sell"
+  },
+  {
+    "start": "00:07:49.430",
+    "end": "00:07:49.440",
+    "start_seconds": 469.43,
+    "end_seconds": 469.44,
+    "text": "liabilities that come due when you sell"
+  },
+  {
+    "start": "00:07:49.440",
+    "end": "00:07:52.230",
+    "start_seconds": 469.44,
+    "end_seconds": 472.23,
+    "text": "liabilities that come due when you sell the stock. So that's the trade-off you"
+  },
+  {
+    "start": "00:07:52.230",
+    "end": "00:07:52.240",
+    "start_seconds": 472.23,
+    "end_seconds": 472.24,
+    "text": "the stock. So that's the trade-off you"
+  },
+  {
+    "start": "00:07:52.240",
+    "end": "00:07:53.830",
+    "start_seconds": 472.24,
+    "end_seconds": 473.83,
+    "text": "the stock. So that's the trade-off you face. There's a benefit, there's a cost."
+  },
+  {
+    "start": "00:07:53.830",
+    "end": "00:07:53.840",
+    "start_seconds": 473.83,
+    "end_seconds": 473.84000000000003,
+    "text": "face. There's a benefit, there's a cost."
+  },
+  {
+    "start": "00:07:53.840",
+    "end": "00:07:55.670",
+    "start_seconds": 473.84000000000003,
+    "end_seconds": 475.67,
+    "text": "face. There's a benefit, there's a cost. We look at whether the net effect pays"
+  },
+  {
+    "start": "00:07:55.670",
+    "end": "00:07:55.680",
+    "start_seconds": 475.67,
+    "end_seconds": 475.68,
+    "text": "We look at whether the net effect pays"
+  },
+  {
+    "start": "00:07:55.680",
+    "end": "00:07:58.230",
+    "start_seconds": 475.68,
+    "end_seconds": 478.23,
+    "text": "We look at whether the net effect pays off for people, but that's what drives"
+  },
+  {
+    "start": "00:07:58.230",
+    "end": "00:07:58.240",
+    "start_seconds": 478.23,
+    "end_seconds": 478.24,
+    "text": "off for people, but that's what drives"
+  },
+  {
+    "start": "00:07:58.240",
+    "end": "00:08:00.869",
+    "start_seconds": 478.24,
+    "end_seconds": 480.869,
+    "text": "off for people, but that's what drives the desired time markets. Now, we talked"
+  },
+  {
+    "start": "00:08:00.869",
+    "end": "00:08:00.879",
+    "start_seconds": 480.869,
+    "end_seconds": 480.879,
+    "text": "the desired time markets. Now, we talked"
+  },
+  {
+    "start": "00:08:00.879",
+    "end": "00:08:03.589",
+    "start_seconds": 480.879,
+    "end_seconds": 483.589,
+    "text": "the desired time markets. Now, we talked a lot about timing in the stock market."
+  },
+  {
+    "start": "00:08:03.589",
+    "end": "00:08:03.599",
+    "start_seconds": 483.589,
+    "end_seconds": 483.599,
+    "text": "a lot about timing in the stock market."
+  },
+  {
+    "start": "00:08:03.599",
+    "end": "00:08:05.270",
+    "start_seconds": 483.599,
+    "end_seconds": 485.27,
+    "text": "a lot about timing in the stock market. You can time the bond market as well,"
+  },
+  {
+    "start": "00:08:05.270",
+    "end": "00:08:05.280",
+    "start_seconds": 485.27,
+    "end_seconds": 485.28,
+    "text": "You can time the bond market as well,"
+  },
+  {
+    "start": "00:08:05.280",
+    "end": "00:08:07.430",
+    "start_seconds": 485.28,
+    "end_seconds": 487.43,
+    "text": "You can time the bond market as well, right? How does it what form does this"
+  },
+  {
+    "start": "00:08:07.430",
+    "end": "00:08:07.440",
+    "start_seconds": 487.43,
+    "end_seconds": 487.44,
+    "text": "right? How does it what form does this"
+  },
+  {
+    "start": "00:08:07.440",
+    "end": "00:08:09.189",
+    "start_seconds": 487.44,
+    "end_seconds": 489.189,
+    "text": "right? How does it what form does this take? When you talk about the direction"
+  },
+  {
+    "start": "00:08:09.189",
+    "end": "00:08:09.199",
+    "start_seconds": 489.189,
+    "end_seconds": 489.199,
+    "text": "take? When you talk about the direction"
+  },
+  {
+    "start": "00:08:09.199",
+    "end": "00:08:11.029",
+    "start_seconds": 489.199,
+    "end_seconds": 491.029,
+    "text": "take? When you talk about the direction of interest rates that interest rates"
+  },
+  {
+    "start": "00:08:11.029",
+    "end": "00:08:11.039",
+    "start_seconds": 491.029,
+    "end_seconds": 491.039,
+    "text": "of interest rates that interest rates"
+  },
+  {
+    "start": "00:08:11.039",
+    "end": "00:08:12.950",
+    "start_seconds": 491.039,
+    "end_seconds": 492.95,
+    "text": "of interest rates that interest rates are going to come down over the next two"
+  },
+  {
+    "start": "00:08:12.950",
+    "end": "00:08:12.960",
+    "start_seconds": 492.95,
+    "end_seconds": 492.96,
+    "text": "are going to come down over the next two"
+  },
+  {
+    "start": "00:08:12.960",
+    "end": "00:08:14.869",
+    "start_seconds": 492.96,
+    "end_seconds": 494.869,
+    "text": "are going to come down over the next two or three or four years, especially"
+  },
+  {
+    "start": "00:08:14.869",
+    "end": "00:08:14.879",
+    "start_seconds": 494.869,
+    "end_seconds": 494.879,
+    "text": "or three or four years, especially"
+  },
+  {
+    "start": "00:08:14.879",
+    "end": "00:08:16.950",
+    "start_seconds": 494.879,
+    "end_seconds": 496.95,
+    "text": "or three or four years, especially long-term rates, you're telling me bonds"
+  },
+  {
+    "start": "00:08:16.950",
+    "end": "00:08:16.960",
+    "start_seconds": 496.95,
+    "end_seconds": 496.96,
+    "text": "long-term rates, you're telling me bonds"
+  },
+  {
+    "start": "00:08:16.960",
+    "end": "00:08:18.469",
+    "start_seconds": 496.96,
+    "end_seconds": 498.469,
+    "text": "long-term rates, you're telling me bonds are a good place to be because when"
+  },
+  {
+    "start": "00:08:18.469",
+    "end": "00:08:18.479",
+    "start_seconds": 498.469,
+    "end_seconds": 498.479,
+    "text": "are a good place to be because when"
+  },
+  {
+    "start": "00:08:18.479",
+    "end": "00:08:20.550",
+    "start_seconds": 498.479,
+    "end_seconds": 500.55,
+    "text": "are a good place to be because when interest rates come down, bond prices go"
+  },
+  {
+    "start": "00:08:20.550",
+    "end": "00:08:20.560",
+    "start_seconds": 500.55,
+    "end_seconds": 500.56,
+    "text": "interest rates come down, bond prices go"
+  },
+  {
+    "start": "00:08:20.560",
+    "end": "00:08:22.790",
+    "start_seconds": 500.56,
+    "end_seconds": 502.79,
+    "text": "interest rates come down, bond prices go up. Conversely, we think interest rates"
+  },
+  {
+    "start": "00:08:22.790",
+    "end": "00:08:22.800",
+    "start_seconds": 502.79,
+    "end_seconds": 502.8,
+    "text": "up. Conversely, we think interest rates"
+  },
+  {
+    "start": "00:08:22.800",
+    "end": "00:08:24.869",
+    "start_seconds": 502.8,
+    "end_seconds": 504.869,
+    "text": "up. Conversely, we think interest rates are going to go up. Bond prices are"
+  },
+  {
+    "start": "00:08:24.869",
+    "end": "00:08:24.879",
+    "start_seconds": 504.869,
+    "end_seconds": 504.879,
+    "text": "are going to go up. Bond prices are"
+  },
+  {
+    "start": "00:08:24.879",
+    "end": "00:08:26.150",
+    "start_seconds": 504.879,
+    "end_seconds": 506.15,
+    "text": "are going to go up. Bond prices are going to go down, especially the"
+  },
+  {
+    "start": "00:08:26.150",
+    "end": "00:08:26.160",
+    "start_seconds": 506.15,
+    "end_seconds": 506.16,
+    "text": "going to go down, especially the"
+  },
+  {
+    "start": "00:08:26.160",
+    "end": "00:08:28.150",
+    "start_seconds": 506.16,
+    "end_seconds": 508.15,
+    "text": "going to go down, especially the long-term bonds."
+  },
+  {
+    "start": "00:08:28.150",
+    "end": "00:08:28.160",
+    "start_seconds": 508.15,
+    "end_seconds": 508.16,
+    "text": "long-term bonds."
+  },
+  {
+    "start": "00:08:28.160",
+    "end": "00:08:29.990",
+    "start_seconds": 508.16,
+    "end_seconds": 509.99,
+    "text": "long-term bonds. Timing in the real estate market, we all"
+  },
+  {
+    "start": "00:08:29.990",
+    "end": "00:08:30.000",
+    "start_seconds": 509.99,
+    "end_seconds": 510.0,
+    "text": "Timing in the real estate market, we all"
+  },
+  {
+    "start": "00:08:30.000",
+    "end": "00:08:32.790",
+    "start_seconds": 510.0,
+    "end_seconds": 512.79,
+    "text": "Timing in the real estate market, we all do it, right? You own a house which you"
+  },
+  {
+    "start": "00:08:32.790",
+    "end": "00:08:32.800",
+    "start_seconds": 512.79,
+    "end_seconds": 512.8,
+    "text": "do it, right? You own a house which you"
+  },
+  {
+    "start": "00:08:32.800",
+    "end": "00:08:35.110",
+    "start_seconds": 512.8,
+    "end_seconds": 515.11,
+    "text": "do it, right? You own a house which you bought in a particular year. You say,"
+  },
+  {
+    "start": "00:08:35.110",
+    "end": "00:08:35.120",
+    "start_seconds": 515.11,
+    "end_seconds": 515.12,
+    "text": "bought in a particular year. You say,"
+  },
+  {
+    "start": "00:08:35.120",
+    "end": "00:08:36.949",
+    "start_seconds": 515.12,
+    "end_seconds": 516.949,
+    "text": "bought in a particular year. You say, \"If only I had bought it three years"
+  },
+  {
+    "start": "00:08:36.949",
+    "end": "00:08:36.959",
+    "start_seconds": 516.949,
+    "end_seconds": 516.9590000000001,
+    "text": "\"If only I had bought it three years"
+  },
+  {
+    "start": "00:08:36.959",
+    "end": "00:08:39.029",
+    "start_seconds": 516.9590000000001,
+    "end_seconds": 519.029,
+    "text": "\"If only I had bought it three years earlier or 5 years earlier, I would have"
+  },
+  {
+    "start": "00:08:39.029",
+    "end": "00:08:39.039",
+    "start_seconds": 519.029,
+    "end_seconds": 519.039,
+    "text": "earlier or 5 years earlier, I would have"
+  },
+  {
+    "start": "00:08:39.039",
+    "end": "00:08:40.709",
+    "start_seconds": 519.039,
+    "end_seconds": 520.7090000000001,
+    "text": "earlier or 5 years earlier, I would have been much better off.\" If you bought"
+  },
+  {
+    "start": "00:08:40.709",
+    "end": "00:08:40.719",
+    "start_seconds": 520.7090000000001,
+    "end_seconds": 520.719,
+    "text": "been much better off.\" If you bought"
+  },
+  {
+    "start": "00:08:40.719",
+    "end": "00:08:43.670",
+    "start_seconds": 520.719,
+    "end_seconds": 523.67,
+    "text": "been much better off.\" If you bought when the market was high and with"
+  },
+  {
+    "start": "00:08:43.670",
+    "end": "00:08:43.680",
+    "start_seconds": 523.67,
+    "end_seconds": 523.68,
+    "text": "when the market was high and with"
+  },
+  {
+    "start": "00:08:43.680",
+    "end": "00:08:45.750",
+    "start_seconds": 523.68,
+    "end_seconds": 525.75,
+    "text": "when the market was high and with collectibles and other assets, this has"
+  },
+  {
+    "start": "00:08:45.750",
+    "end": "00:08:45.760",
+    "start_seconds": 525.75,
+    "end_seconds": 525.76,
+    "text": "collectibles and other assets, this has"
+  },
+  {
+    "start": "00:08:45.760",
+    "end": "00:08:48.949",
+    "start_seconds": 525.76,
+    "end_seconds": 528.949,
+    "text": "collectibles and other assets, this has become a recurring theme. You take"
+  },
+  {
+    "start": "00:08:48.949",
+    "end": "00:08:48.959",
+    "start_seconds": 528.949,
+    "end_seconds": 528.9590000000001,
+    "text": "become a recurring theme. You take"
+  },
+  {
+    "start": "00:08:48.959",
+    "end": "00:08:50.710",
+    "start_seconds": 528.9590000000001,
+    "end_seconds": 530.71,
+    "text": "become a recurring theme. You take something like Bitcoin, trading at close"
+  },
+  {
+    "start": "00:08:50.710",
+    "end": "00:08:50.720",
+    "start_seconds": 530.71,
+    "end_seconds": 530.72,
+    "text": "something like Bitcoin, trading at close"
+  },
+  {
+    "start": "00:08:50.720",
+    "end": "00:08:53.350",
+    "start_seconds": 530.72,
+    "end_seconds": 533.35,
+    "text": "something like Bitcoin, trading at close to $100,000 when I'm doing this session"
+  },
+  {
+    "start": "00:08:53.350",
+    "end": "00:08:53.360",
+    "start_seconds": 533.35,
+    "end_seconds": 533.36,
+    "text": "to $100,000 when I'm doing this session"
+  },
+  {
+    "start": "00:08:53.360",
+    "end": "00:08:56.230",
+    "start_seconds": 533.36,
+    "end_seconds": 536.23,
+    "text": "to $100,000 when I'm doing this session right now, and you say, \"If only I'd put"
+  },
+  {
+    "start": "00:08:56.230",
+    "end": "00:08:56.240",
+    "start_seconds": 536.23,
+    "end_seconds": 536.24,
+    "text": "right now, and you say, \"If only I'd put"
+  },
+  {
+    "start": "00:08:56.240",
+    "end": "00:08:58.550",
+    "start_seconds": 536.24,
+    "end_seconds": 538.55,
+    "text": "right now, and you say, \"If only I'd put my money in Bitcoin 10 years ago rather"
+  },
+  {
+    "start": "00:08:58.550",
+    "end": "00:08:58.560",
+    "start_seconds": 538.55,
+    "end_seconds": 538.56,
+    "text": "my money in Bitcoin 10 years ago rather"
+  },
+  {
+    "start": "00:08:58.560",
+    "end": "00:09:00.870",
+    "start_seconds": 538.56,
+    "end_seconds": 540.87,
+    "text": "my money in Bitcoin 10 years ago rather than stocks or bonds, think of how much"
+  },
+  {
+    "start": "00:09:00.870",
+    "end": "00:09:00.880",
+    "start_seconds": 540.87,
+    "end_seconds": 540.88,
+    "text": "than stocks or bonds, think of how much"
+  },
+  {
+    "start": "00:09:00.880",
+    "end": "00:09:03.350",
+    "start_seconds": 540.88,
+    "end_seconds": 543.35,
+    "text": "than stocks or bonds, think of how much wealthier I'd have been.\""
+  },
+  {
+    "start": "00:09:03.350",
+    "end": "00:09:03.360",
+    "start_seconds": 543.35,
+    "end_seconds": 543.36,
+    "text": "wealthier I'd have been.\""
+  },
+  {
+    "start": "00:09:03.360",
+    "end": "00:09:06.150",
+    "start_seconds": 543.36,
+    "end_seconds": 546.15,
+    "text": "wealthier I'd have been.\" Hindsight is 2020 and looking back in"
+  },
+  {
+    "start": "00:09:06.150",
+    "end": "00:09:06.160",
+    "start_seconds": 546.15,
+    "end_seconds": 546.16,
+    "text": "Hindsight is 2020 and looking back in"
+  },
+  {
+    "start": "00:09:06.160",
+    "end": "00:09:08.230",
+    "start_seconds": 546.16,
+    "end_seconds": 548.23,
+    "text": "Hindsight is 2020 and looking back in time, it looks like we could have made a"
+  },
+  {
+    "start": "00:09:08.230",
+    "end": "00:09:08.240",
+    "start_seconds": 548.23,
+    "end_seconds": 548.24,
+    "text": "time, it looks like we could have made a"
+  },
+  {
+    "start": "00:09:08.240",
+    "end": "00:09:11.030",
+    "start_seconds": 548.24,
+    "end_seconds": 551.03,
+    "text": "time, it looks like we could have made a lot more money by timing these markets."
+  },
+  {
+    "start": "00:09:11.030",
+    "end": "00:09:11.040",
+    "start_seconds": 551.03,
+    "end_seconds": 551.04,
+    "text": "lot more money by timing these markets."
+  },
+  {
+    "start": "00:09:11.040",
+    "end": "00:09:12.710",
+    "start_seconds": 551.04,
+    "end_seconds": 552.71,
+    "text": "lot more money by timing these markets. But what we're missing there is the"
+  },
+  {
+    "start": "00:09:12.710",
+    "end": "00:09:12.720",
+    "start_seconds": 552.71,
+    "end_seconds": 552.72,
+    "text": "But what we're missing there is the"
+  },
+  {
+    "start": "00:09:12.720",
+    "end": "00:09:14.870",
+    "start_seconds": 552.72,
+    "end_seconds": 554.87,
+    "text": "But what we're missing there is the shifting fundamentals that at that point"
+  },
+  {
+    "start": "00:09:14.870",
+    "end": "00:09:14.880",
+    "start_seconds": 554.87,
+    "end_seconds": 554.88,
+    "text": "shifting fundamentals that at that point"
+  },
+  {
+    "start": "00:09:14.880",
+    "end": "00:09:17.590",
+    "start_seconds": 554.88,
+    "end_seconds": 557.59,
+    "text": "shifting fundamentals that at that point in time in 2014,"
+  },
+  {
+    "start": "00:09:17.590",
+    "end": "00:09:17.600",
+    "start_seconds": 557.59,
+    "end_seconds": 557.6,
+    "text": "in time in 2014,"
+  },
+  {
+    "start": "00:09:17.600",
+    "end": "00:09:19.670",
+    "start_seconds": 557.6,
+    "end_seconds": 559.67,
+    "text": "in time in 2014, you didn't know what was coming. And if"
+  },
+  {
+    "start": "00:09:19.670",
+    "end": "00:09:19.680",
+    "start_seconds": 559.67,
+    "end_seconds": 559.68,
+    "text": "you didn't know what was coming. And if"
+  },
+  {
+    "start": "00:09:19.680",
+    "end": "00:09:21.910",
+    "start_seconds": 559.68,
+    "end_seconds": 561.91,
+    "text": "you didn't know what was coming. And if you think about your cho choices then,"
+  },
+  {
+    "start": "00:09:21.910",
+    "end": "00:09:21.920",
+    "start_seconds": 561.91,
+    "end_seconds": 561.92,
+    "text": "you think about your cho choices then,"
+  },
+  {
+    "start": "00:09:21.920",
+    "end": "00:09:23.750",
+    "start_seconds": 561.92,
+    "end_seconds": 563.75,
+    "text": "you think about your cho choices then, you could have made some bad choices"
+  },
+  {
+    "start": "00:09:23.750",
+    "end": "00:09:23.760",
+    "start_seconds": 563.75,
+    "end_seconds": 563.76,
+    "text": "you could have made some bad choices"
+  },
+  {
+    "start": "00:09:23.760",
+    "end": "00:09:25.990",
+    "start_seconds": 563.76,
+    "end_seconds": 565.99,
+    "text": "you could have made some bad choices based on looking at the things you"
+  },
+  {
+    "start": "00:09:25.990",
+    "end": "00:09:26.000",
+    "start_seconds": 565.99,
+    "end_seconds": 566.0,
+    "text": "based on looking at the things you"
+  },
+  {
+    "start": "00:09:26.000",
+    "end": "00:09:27.750",
+    "start_seconds": 566.0,
+    "end_seconds": 567.75,
+    "text": "based on looking at the things you looked at."
+  },
+  {
+    "start": "00:09:27.750",
+    "end": "00:09:27.760",
+    "start_seconds": 567.75,
+    "end_seconds": 567.76,
+    "text": "looked at."
+  },
+  {
+    "start": "00:09:27.760",
+    "end": "00:09:29.829",
+    "start_seconds": 567.76,
+    "end_seconds": 569.829,
+    "text": "looked at. Cycles are unpredictable. Transaction"
+  },
+  {
+    "start": "00:09:29.829",
+    "end": "00:09:29.839",
+    "start_seconds": 569.829,
+    "end_seconds": 569.8389999999999,
+    "text": "Cycles are unpredictable. Transaction"
+  },
+  {
+    "start": "00:09:29.839",
+    "end": "00:09:32.070",
+    "start_seconds": 569.8389999999999,
+    "end_seconds": 572.07,
+    "text": "Cycles are unpredictable. Transaction costs are very high. But basically"
+  },
+  {
+    "start": "00:09:32.070",
+    "end": "00:09:32.080",
+    "start_seconds": 572.07,
+    "end_seconds": 572.08,
+    "text": "costs are very high. But basically"
+  },
+  {
+    "start": "00:09:32.080",
+    "end": "00:09:34.230",
+    "start_seconds": 572.08,
+    "end_seconds": 574.23,
+    "text": "costs are very high. But basically people try to time markets because the"
+  },
+  {
+    "start": "00:09:34.230",
+    "end": "00:09:34.240",
+    "start_seconds": 574.23,
+    "end_seconds": 574.24,
+    "text": "people try to time markets because the"
+  },
+  {
+    "start": "00:09:34.240",
+    "end": "00:09:37.190",
+    "start_seconds": 574.24,
+    "end_seconds": 577.19,
+    "text": "people try to time markets because the payoff looks so high."
+  },
+  {
+    "start": "00:09:37.190",
+    "end": "00:09:37.200",
+    "start_seconds": 577.19,
+    "end_seconds": 577.2,
+    "text": "payoff looks so high."
+  },
+  {
+    "start": "00:09:37.200",
+    "end": "00:09:38.790",
+    "start_seconds": 577.2,
+    "end_seconds": 578.79,
+    "text": "payoff looks so high. Now in the next few sessions we're going"
+  },
+  {
+    "start": "00:09:38.790",
+    "end": "00:09:38.800",
+    "start_seconds": 578.79,
+    "end_seconds": 578.8,
+    "text": "Now in the next few sessions we're going"
+  },
+  {
+    "start": "00:09:38.800",
+    "end": "00:09:40.870",
+    "start_seconds": 578.8,
+    "end_seconds": 580.87,
+    "text": "Now in the next few sessions we're going to talk about how people try to time"
+  },
+  {
+    "start": "00:09:40.870",
+    "end": "00:09:40.880",
+    "start_seconds": 580.87,
+    "end_seconds": 580.88,
+    "text": "to talk about how people try to time"
+  },
+  {
+    "start": "00:09:40.880",
+    "end": "00:09:43.110",
+    "start_seconds": 580.88,
+    "end_seconds": 583.11,
+    "text": "to talk about how people try to time markets. Let me at least list out the"
+  },
+  {
+    "start": "00:09:43.110",
+    "end": "00:09:43.120",
+    "start_seconds": 583.11,
+    "end_seconds": 583.12,
+    "text": "markets. Let me at least list out the"
+  },
+  {
+    "start": "00:09:43.120",
+    "end": "00:09:45.590",
+    "start_seconds": 583.12,
+    "end_seconds": 585.59,
+    "text": "markets. Let me at least list out the choices. There are people who use"
+  },
+  {
+    "start": "00:09:45.590",
+    "end": "00:09:45.600",
+    "start_seconds": 585.59,
+    "end_seconds": 585.6,
+    "text": "choices. There are people who use"
+  },
+  {
+    "start": "00:09:45.600",
+    "end": "00:09:47.590",
+    "start_seconds": 585.6,
+    "end_seconds": 587.59,
+    "text": "choices. There are people who use non-financial indicators. You think what"
+  },
+  {
+    "start": "00:09:47.590",
+    "end": "00:09:47.600",
+    "start_seconds": 587.59,
+    "end_seconds": 587.6,
+    "text": "non-financial indicators. You think what"
+  },
+  {
+    "start": "00:09:47.600",
+    "end": "00:09:49.750",
+    "start_seconds": 587.6,
+    "end_seconds": 589.75,
+    "text": "non-financial indicators. You think what does that mean? That they're indicators"
+  },
+  {
+    "start": "00:09:49.750",
+    "end": "00:09:49.760",
+    "start_seconds": 589.75,
+    "end_seconds": 589.76,
+    "text": "does that mean? That they're indicators"
+  },
+  {
+    "start": "00:09:49.760",
+    "end": "00:09:51.190",
+    "start_seconds": 589.76,
+    "end_seconds": 591.19,
+    "text": "does that mean? That they're indicators that don't show up in the numbers and"
+  },
+  {
+    "start": "00:09:51.190",
+    "end": "00:09:51.200",
+    "start_seconds": 591.19,
+    "end_seconds": 591.2,
+    "text": "that don't show up in the numbers and"
+  },
+  {
+    "start": "00:09:51.200",
+    "end": "00:09:53.350",
+    "start_seconds": 591.2,
+    "end_seconds": 593.35,
+    "text": "that don't show up in the numbers and we'll talk about a few. There are of"
+  },
+  {
+    "start": "00:09:53.350",
+    "end": "00:09:53.360",
+    "start_seconds": 593.35,
+    "end_seconds": 593.36,
+    "text": "we'll talk about a few. There are of"
+  },
+  {
+    "start": "00:09:53.360",
+    "end": "00:09:55.590",
+    "start_seconds": 593.36,
+    "end_seconds": 595.59,
+    "text": "we'll talk about a few. There are of course technical indicators. We talked"
+  },
+  {
+    "start": "00:09:55.590",
+    "end": "00:09:55.600",
+    "start_seconds": 595.59,
+    "end_seconds": 595.6,
+    "text": "course technical indicators. We talked"
+  },
+  {
+    "start": "00:09:55.600",
+    "end": "00:09:57.509",
+    "start_seconds": 595.6,
+    "end_seconds": 597.509,
+    "text": "course technical indicators. We talked about these in the context of trading"
+  },
+  {
+    "start": "00:09:57.509",
+    "end": "00:09:57.519",
+    "start_seconds": 597.509,
+    "end_seconds": 597.519,
+    "text": "about these in the context of trading"
+  },
+  {
+    "start": "00:09:57.519",
+    "end": "00:09:59.990",
+    "start_seconds": 597.519,
+    "end_seconds": 599.99,
+    "text": "about these in the context of trading individual stocks charts trading volume."
+  },
+  {
+    "start": "00:09:59.990",
+    "end": "00:10:00.000",
+    "start_seconds": 599.99,
+    "end_seconds": 600.0,
+    "text": "individual stocks charts trading volume."
+  },
+  {
+    "start": "00:10:00.000",
+    "end": "00:10:01.829",
+    "start_seconds": 600.0,
+    "end_seconds": 601.829,
+    "text": "individual stocks charts trading volume. technical indicators that might tell you"
+  },
+  {
+    "start": "00:10:01.829",
+    "end": "00:10:01.839",
+    "start_seconds": 601.829,
+    "end_seconds": 601.839,
+    "text": "technical indicators that might tell you"
+  },
+  {
+    "start": "00:10:01.839",
+    "end": "00:10:04.310",
+    "start_seconds": 601.839,
+    "end_seconds": 604.31,
+    "text": "technical indicators that might tell you where the overall market is going."
+  },
+  {
+    "start": "00:10:04.310",
+    "end": "00:10:04.320",
+    "start_seconds": 604.31,
+    "end_seconds": 604.32,
+    "text": "where the overall market is going."
+  },
+  {
+    "start": "00:10:04.320",
+    "end": "00:10:05.990",
+    "start_seconds": 604.32,
+    "end_seconds": 605.99,
+    "text": "where the overall market is going. There's a whole group of indicators that"
+  },
+  {
+    "start": "00:10:05.990",
+    "end": "00:10:06.000",
+    "start_seconds": 605.99,
+    "end_seconds": 606.0,
+    "text": "There's a whole group of indicators that"
+  },
+  {
+    "start": "00:10:06.000",
+    "end": "00:10:07.990",
+    "start_seconds": 606.0,
+    "end_seconds": 607.99,
+    "text": "There's a whole group of indicators that I call mean reversion indicators where"
+  },
+  {
+    "start": "00:10:07.990",
+    "end": "00:10:08.000",
+    "start_seconds": 607.99,
+    "end_seconds": 608.0,
+    "text": "I call mean reversion indicators where"
+  },
+  {
+    "start": "00:10:08.000",
+    "end": "00:10:09.990",
+    "start_seconds": 608.0,
+    "end_seconds": 609.99,
+    "text": "I call mean reversion indicators where you invest in something because you"
+  },
+  {
+    "start": "00:10:09.990",
+    "end": "00:10:10.000",
+    "start_seconds": 609.99,
+    "end_seconds": 610.0,
+    "text": "you invest in something because you"
+  },
+  {
+    "start": "00:10:10.000",
+    "end": "00:10:11.670",
+    "start_seconds": 610.0,
+    "end_seconds": 611.67,
+    "text": "you invest in something because you think things are going to revert back to"
+  },
+  {
+    "start": "00:10:11.670",
+    "end": "00:10:11.680",
+    "start_seconds": 611.67,
+    "end_seconds": 611.68,
+    "text": "think things are going to revert back to"
+  },
+  {
+    "start": "00:10:11.680",
+    "end": "00:10:14.150",
+    "start_seconds": 611.68,
+    "end_seconds": 614.15,
+    "text": "think things are going to revert back to the way they used to be. Mean remember"
+  },
+  {
+    "start": "00:10:14.150",
+    "end": "00:10:14.160",
+    "start_seconds": 614.15,
+    "end_seconds": 614.16,
+    "text": "the way they used to be. Mean remember"
+  },
+  {
+    "start": "00:10:14.160",
+    "end": "00:10:15.670",
+    "start_seconds": 614.16,
+    "end_seconds": 615.67,
+    "text": "the way they used to be. Mean remember the example I gave with interest rates"
+  },
+  {
+    "start": "00:10:15.670",
+    "end": "00:10:15.680",
+    "start_seconds": 615.67,
+    "end_seconds": 615.68,
+    "text": "the example I gave with interest rates"
+  },
+  {
+    "start": "00:10:15.680",
+    "end": "00:10:17.350",
+    "start_seconds": 615.68,
+    "end_seconds": 617.35,
+    "text": "the example I gave with interest rates just a couple of minutes ago. How do"
+  },
+  {
+    "start": "00:10:17.350",
+    "end": "00:10:17.360",
+    "start_seconds": 617.35,
+    "end_seconds": 617.36,
+    "text": "just a couple of minutes ago. How do"
+  },
+  {
+    "start": "00:10:17.360",
+    "end": "00:10:18.870",
+    "start_seconds": 617.36,
+    "end_seconds": 618.87,
+    "text": "just a couple of minutes ago. How do people decide that interest rates are"
+  },
+  {
+    "start": "00:10:18.870",
+    "end": "00:10:18.880",
+    "start_seconds": 618.87,
+    "end_seconds": 618.88,
+    "text": "people decide that interest rates are"
+  },
+  {
+    "start": "00:10:18.880",
+    "end": "00:10:21.350",
+    "start_seconds": 618.88,
+    "end_seconds": 621.35,
+    "text": "people decide that interest rates are going to go up or down? They often based"
+  },
+  {
+    "start": "00:10:21.350",
+    "end": "00:10:21.360",
+    "start_seconds": 621.35,
+    "end_seconds": 621.36,
+    "text": "going to go up or down? They often based"
+  },
+  {
+    "start": "00:10:21.360",
+    "end": "00:10:22.630",
+    "start_seconds": 621.36,
+    "end_seconds": 622.63,
+    "text": "going to go up or down? They often based on what interest rates have been"
+  },
+  {
+    "start": "00:10:22.630",
+    "end": "00:10:22.640",
+    "start_seconds": 622.63,
+    "end_seconds": 622.64,
+    "text": "on what interest rates have been"
+  },
+  {
+    "start": "00:10:22.640",
+    "end": "00:10:24.230",
+    "start_seconds": 622.64,
+    "end_seconds": 624.23,
+    "text": "on what interest rates have been historically"
+  },
+  {
+    "start": "00:10:24.230",
+    "end": "00:10:24.240",
+    "start_seconds": 624.23,
+    "end_seconds": 624.24,
+    "text": "historically"
+  },
+  {
+    "start": "00:10:24.240",
+    "end": "00:10:25.990",
+    "start_seconds": 624.24,
+    "end_seconds": 625.99,
+    "text": "historically between in the last decade for instance"
+  },
+  {
+    "start": "00:10:25.990",
+    "end": "00:10:26.000",
+    "start_seconds": 625.99,
+    "end_seconds": 626.0,
+    "text": "between in the last decade for instance"
+  },
+  {
+    "start": "00:10:26.000",
+    "end": "00:10:29.350",
+    "start_seconds": 626.0,
+    "end_seconds": 629.35,
+    "text": "between in the last decade for instance the rates were low 2% 2 and a half% 3%"
+  },
+  {
+    "start": "00:10:29.350",
+    "end": "00:10:29.360",
+    "start_seconds": 629.35,
+    "end_seconds": 629.36,
+    "text": "the rates were low 2% 2 and a half% 3%"
+  },
+  {
+    "start": "00:10:29.360",
+    "end": "00:10:30.790",
+    "start_seconds": 629.36,
+    "end_seconds": 630.79,
+    "text": "the rates were low 2% 2 and a half% 3% there were people who were convinced"
+  },
+  {
+    "start": "00:10:30.790",
+    "end": "00:10:30.800",
+    "start_seconds": 630.79,
+    "end_seconds": 630.8,
+    "text": "there were people who were convinced"
+  },
+  {
+    "start": "00:10:30.800",
+    "end": "00:10:33.670",
+    "start_seconds": 630.8,
+    "end_seconds": 633.67,
+    "text": "there were people who were convinced rates would go up why not because of any"
+  },
+  {
+    "start": "00:10:33.670",
+    "end": "00:10:33.680",
+    "start_seconds": 633.67,
+    "end_seconds": 633.68,
+    "text": "rates would go up why not because of any"
+  },
+  {
+    "start": "00:10:33.680",
+    "end": "00:10:35.829",
+    "start_seconds": 633.68,
+    "end_seconds": 635.829,
+    "text": "rates would go up why not because of any fundamental analysis but because they"
+  },
+  {
+    "start": "00:10:35.829",
+    "end": "00:10:35.839",
+    "start_seconds": 635.829,
+    "end_seconds": 635.8389999999999,
+    "text": "fundamental analysis but because they"
+  },
+  {
+    "start": "00:10:35.839",
+    "end": "00:10:37.670",
+    "start_seconds": 635.8389999999999,
+    "end_seconds": 637.67,
+    "text": "fundamental analysis but because they remember to time when rates were five or"
+  },
+  {
+    "start": "00:10:37.670",
+    "end": "00:10:37.680",
+    "start_seconds": 637.67,
+    "end_seconds": 637.68,
+    "text": "remember to time when rates were five or"
+  },
+  {
+    "start": "00:10:37.680",
+    "end": "00:10:41.350",
+    "start_seconds": 637.68,
+    "end_seconds": 641.35,
+    "text": "remember to time when rates were five or 6% that they've got to go back higher"
+  },
+  {
+    "start": "00:10:41.350",
+    "end": "00:10:41.360",
+    "start_seconds": 641.35,
+    "end_seconds": 641.36,
+    "text": "6% that they've got to go back higher"
+  },
+  {
+    "start": "00:10:41.360",
+    "end": "00:10:43.030",
+    "start_seconds": 641.36,
+    "end_seconds": 643.03,
+    "text": "6% that they've got to go back higher there are people who try to time markets"
+  },
+  {
+    "start": "00:10:43.030",
+    "end": "00:10:43.040",
+    "start_seconds": 643.03,
+    "end_seconds": 643.04,
+    "text": "there are people who try to time markets"
+  },
+  {
+    "start": "00:10:43.040",
+    "end": "00:10:45.430",
+    "start_seconds": 643.04,
+    "end_seconds": 645.43,
+    "text": "there are people who try to time markets using macroeconomic indicators and at"
+  },
+  {
+    "start": "00:10:45.430",
+    "end": "00:10:45.440",
+    "start_seconds": 645.43,
+    "end_seconds": 645.44,
+    "text": "using macroeconomic indicators and at"
+  },
+  {
+    "start": "00:10:45.440",
+    "end": "00:10:47.910",
+    "start_seconds": 645.44,
+    "end_seconds": 647.91,
+    "text": "using macroeconomic indicators and at its basis you can see that makes sense"
+  },
+  {
+    "start": "00:10:47.910",
+    "end": "00:10:47.920",
+    "start_seconds": 647.91,
+    "end_seconds": 647.92,
+    "text": "its basis you can see that makes sense"
+  },
+  {
+    "start": "00:10:47.920",
+    "end": "00:10:50.389",
+    "start_seconds": 647.92,
+    "end_seconds": 650.389,
+    "text": "its basis you can see that makes sense after all markets reflect economy"
+  },
+  {
+    "start": "00:10:50.389",
+    "end": "00:10:50.399",
+    "start_seconds": 650.389,
+    "end_seconds": 650.399,
+    "text": "after all markets reflect economy"
+  },
+  {
+    "start": "00:10:50.399",
+    "end": "00:10:53.590",
+    "start_seconds": 650.399,
+    "end_seconds": 653.59,
+    "text": "after all markets reflect economy So if I can forecast what the economy is"
+  },
+  {
+    "start": "00:10:53.590",
+    "end": "00:10:53.600",
+    "start_seconds": 653.59,
+    "end_seconds": 653.6,
+    "text": "So if I can forecast what the economy is"
+  },
+  {
+    "start": "00:10:53.600",
+    "end": "00:10:54.949",
+    "start_seconds": 653.6,
+    "end_seconds": 654.949,
+    "text": "So if I can forecast what the economy is going to do that's going to strengthen"
+  },
+  {
+    "start": "00:10:54.949",
+    "end": "00:10:54.959",
+    "start_seconds": 654.949,
+    "end_seconds": 654.9590000000001,
+    "text": "going to do that's going to strengthen"
+  },
+  {
+    "start": "00:10:54.959",
+    "end": "00:10:56.710",
+    "start_seconds": 654.9590000000001,
+    "end_seconds": 656.71,
+    "text": "going to do that's going to strengthen or weaken I should be able to make money"
+  },
+  {
+    "start": "00:10:56.710",
+    "end": "00:10:56.720",
+    "start_seconds": 656.71,
+    "end_seconds": 656.72,
+    "text": "or weaken I should be able to make money"
+  },
+  {
+    "start": "00:10:56.720",
+    "end": "00:10:59.910",
+    "start_seconds": 656.72,
+    "end_seconds": 659.91,
+    "text": "or weaken I should be able to make money out in the market. Maybe maybe not. And"
+  },
+  {
+    "start": "00:10:59.910",
+    "end": "00:10:59.920",
+    "start_seconds": 659.91,
+    "end_seconds": 659.92,
+    "text": "out in the market. Maybe maybe not. And"
+  },
+  {
+    "start": "00:10:59.920",
+    "end": "00:11:02.790",
+    "start_seconds": 659.92,
+    "end_seconds": 662.79,
+    "text": "out in the market. Maybe maybe not. And finally we talked about valuation in"
+  },
+  {
+    "start": "00:11:02.790",
+    "end": "00:11:02.800",
+    "start_seconds": 662.79,
+    "end_seconds": 662.8,
+    "text": "finally we talked about valuation in"
+  },
+  {
+    "start": "00:11:02.800",
+    "end": "00:11:05.509",
+    "start_seconds": 662.8,
+    "end_seconds": 665.509,
+    "text": "finally we talked about valuation in earlier in earlier sessions as a basis"
+  },
+  {
+    "start": "00:11:05.509",
+    "end": "00:11:05.519",
+    "start_seconds": 665.509,
+    "end_seconds": 665.519,
+    "text": "earlier in earlier sessions as a basis"
+  },
+  {
+    "start": "00:11:05.519",
+    "end": "00:11:07.910",
+    "start_seconds": 665.519,
+    "end_seconds": 667.91,
+    "text": "earlier in earlier sessions as a basis for deciding what stocks to buy"
+  },
+  {
+    "start": "00:11:07.910",
+    "end": "00:11:07.920",
+    "start_seconds": 667.91,
+    "end_seconds": 667.92,
+    "text": "for deciding what stocks to buy"
+  },
+  {
+    "start": "00:11:07.920",
+    "end": "00:11:10.389",
+    "start_seconds": 667.92,
+    "end_seconds": 670.389,
+    "text": "for deciding what stocks to buy undervalued versus overvalued. I'm going"
+  },
+  {
+    "start": "00:11:10.389",
+    "end": "00:11:10.399",
+    "start_seconds": 670.389,
+    "end_seconds": 670.399,
+    "text": "undervalued versus overvalued. I'm going"
+  },
+  {
+    "start": "00:11:10.399",
+    "end": "00:11:12.230",
+    "start_seconds": 670.399,
+    "end_seconds": 672.23,
+    "text": "undervalued versus overvalued. I'm going to argue that you can bring in the same"
+  },
+  {
+    "start": "00:11:12.230",
+    "end": "00:11:12.240",
+    "start_seconds": 672.23,
+    "end_seconds": 672.24,
+    "text": "to argue that you can bring in the same"
+  },
+  {
+    "start": "00:11:12.240",
+    "end": "00:11:14.310",
+    "start_seconds": 672.24,
+    "end_seconds": 674.31,
+    "text": "to argue that you can bring in the same tools of valuation to markets to do an"
+  },
+  {
+    "start": "00:11:14.310",
+    "end": "00:11:14.320",
+    "start_seconds": 674.31,
+    "end_seconds": 674.32,
+    "text": "tools of valuation to markets to do an"
+  },
+  {
+    "start": "00:11:14.320",
+    "end": "00:11:16.710",
+    "start_seconds": 674.32,
+    "end_seconds": 676.71,
+    "text": "tools of valuation to markets to do an intrinsic valuation"
+  },
+  {
+    "start": "00:11:16.710",
+    "end": "00:11:16.720",
+    "start_seconds": 676.71,
+    "end_seconds": 676.72,
+    "text": "intrinsic valuation"
+  },
+  {
+    "start": "00:11:16.720",
+    "end": "00:11:19.509",
+    "start_seconds": 676.72,
+    "end_seconds": 679.509,
+    "text": "intrinsic valuation of all stocks to decide whether stocks"
+  },
+  {
+    "start": "00:11:19.509",
+    "end": "00:11:19.519",
+    "start_seconds": 679.509,
+    "end_seconds": 679.519,
+    "text": "of all stocks to decide whether stocks"
+  },
+  {
+    "start": "00:11:19.519",
+    "end": "00:11:21.670",
+    "start_seconds": 679.519,
+    "end_seconds": 681.67,
+    "text": "of all stocks to decide whether stocks collectively are cheap or expensive,"
+  },
+  {
+    "start": "00:11:21.670",
+    "end": "00:11:21.680",
+    "start_seconds": 681.67,
+    "end_seconds": 681.68,
+    "text": "collectively are cheap or expensive,"
+  },
+  {
+    "start": "00:11:21.680",
+    "end": "00:11:23.030",
+    "start_seconds": 681.68,
+    "end_seconds": 683.03,
+    "text": "collectively are cheap or expensive, whether interest rates are going to"
+  },
+  {
+    "start": "00:11:23.030",
+    "end": "00:11:23.040",
+    "start_seconds": 683.03,
+    "end_seconds": 683.04,
+    "text": "whether interest rates are going to"
+  },
+  {
+    "start": "00:11:23.040",
+    "end": "00:11:24.550",
+    "start_seconds": 683.04,
+    "end_seconds": 684.55,
+    "text": "whether interest rates are going to decline or increase and whether real"
+  },
+  {
+    "start": "00:11:24.550",
+    "end": "00:11:24.560",
+    "start_seconds": 684.55,
+    "end_seconds": 684.56,
+    "text": "decline or increase and whether real"
+  },
+  {
+    "start": "00:11:24.560",
+    "end": "00:11:28.069",
+    "start_seconds": 684.56,
+    "end_seconds": 688.069,
+    "text": "decline or increase and whether real assets are headed up or down. So there's"
+  },
+  {
+    "start": "00:11:28.069",
+    "end": "00:11:28.079",
+    "start_seconds": 688.069,
+    "end_seconds": 688.079,
+    "text": "assets are headed up or down. So there's"
+  },
+  {
+    "start": "00:11:28.079",
+    "end": "00:11:30.310",
+    "start_seconds": 688.079,
+    "end_seconds": 690.31,
+    "text": "assets are headed up or down. So there's a lot on our table on the table. We look"
+  },
+  {
+    "start": "00:11:30.310",
+    "end": "00:11:30.320",
+    "start_seconds": 690.31,
+    "end_seconds": 690.32,
+    "text": "a lot on our table on the table. We look"
+  },
+  {
+    "start": "00:11:30.320",
+    "end": "00:11:33.670",
+    "start_seconds": 690.32,
+    "end_seconds": 693.67,
+    "text": "a lot on our table on the table. We look at the variety of choices and why after"
+  },
+  {
+    "start": "00:11:33.670",
+    "end": "00:11:33.680",
+    "start_seconds": 693.67,
+    "end_seconds": 693.68,
+    "text": "at the variety of choices and why after"
+  },
+  {
+    "start": "00:11:33.680",
+    "end": "00:11:35.350",
+    "start_seconds": 693.68,
+    "end_seconds": 695.35,
+    "text": "at the variety of choices and why after looking even at the variety we may"
+  },
+  {
+    "start": "00:11:35.350",
+    "end": "00:11:35.360",
+    "start_seconds": 695.35,
+    "end_seconds": 695.36,
+    "text": "looking even at the variety we may"
+  },
+  {
+    "start": "00:11:35.360",
+    "end": "00:11:37.990",
+    "start_seconds": 695.36,
+    "end_seconds": 697.99,
+    "text": "looking even at the variety we may decide not to time markets. So in"
+  },
+  {
+    "start": "00:11:37.990",
+    "end": "00:11:38.000",
+    "start_seconds": 697.99,
+    "end_seconds": 698.0,
+    "text": "decide not to time markets. So in"
+  },
+  {
+    "start": "00:11:38.000",
+    "end": "00:11:40.230",
+    "start_seconds": 698.0,
+    "end_seconds": 700.23,
+    "text": "decide not to time markets. So in summary, everybody tries to time"
+  },
+  {
+    "start": "00:11:40.230",
+    "end": "00:11:40.240",
+    "start_seconds": 700.23,
+    "end_seconds": 700.24,
+    "text": "summary, everybody tries to time"
+  },
+  {
+    "start": "00:11:40.240",
+    "end": "00:11:44.389",
+    "start_seconds": 700.24,
+    "end_seconds": 704.389,
+    "text": "summary, everybody tries to time markets. Very few people succeed."
+  },
+  {
+    "start": "00:11:44.389",
+    "end": "00:11:44.399",
+    "start_seconds": 704.389,
+    "end_seconds": 704.399,
+    "text": "markets. Very few people succeed."
+  },
+  {
+    "start": "00:11:44.399",
+    "end": "00:11:46.630",
+    "start_seconds": 704.399,
+    "end_seconds": 706.63,
+    "text": "markets. Very few people succeed. We look at what makes market timing"
+  },
+  {
+    "start": "00:11:46.630",
+    "end": "00:11:46.640",
+    "start_seconds": 706.63,
+    "end_seconds": 706.64,
+    "text": "We look at what makes market timing"
+  },
+  {
+    "start": "00:11:46.640",
+    "end": "00:11:49.030",
+    "start_seconds": 706.64,
+    "end_seconds": 709.03,
+    "text": "We look at what makes market timing difficult in the aggregate,"
+  },
+  {
+    "start": "00:11:49.030",
+    "end": "00:11:49.040",
+    "start_seconds": 709.03,
+    "end_seconds": 709.04,
+    "text": "difficult in the aggregate,"
+  },
+  {
+    "start": "00:11:49.040",
+    "end": "00:11:50.870",
+    "start_seconds": 709.04,
+    "end_seconds": 710.87,
+    "text": "difficult in the aggregate, but it's something to bring into your"
+  },
+  {
+    "start": "00:11:50.870",
+    "end": "00:11:50.880",
+    "start_seconds": 710.87,
+    "end_seconds": 710.88,
+    "text": "but it's something to bring into your"
+  },
+  {
+    "start": "00:11:50.880",
+    "end": "00:11:52.310",
+    "start_seconds": 710.88,
+    "end_seconds": 712.31,
+    "text": "but it's something to bring into your arsenal when you think about different"
+  },
+  {
+    "start": "00:11:52.310",
+    "end": "00:11:52.320",
+    "start_seconds": 712.31,
+    "end_seconds": 712.32,
+    "text": "arsenal when you think about different"
+  },
+  {
+    "start": "00:11:52.320",
+    "end": "00:11:54.310",
+    "start_seconds": 712.32,
+    "end_seconds": 714.31,
+    "text": "arsenal when you think about different investment philosophies."
+  },
+  {
+    "start": "00:11:54.310",
+    "end": "00:11:54.320",
+    "start_seconds": 714.31,
+    "end_seconds": 714.32,
+    "text": "investment philosophies."
+  },
+  {
+    "start": "00:11:54.320",
+    "end": "00:11:56.470",
+    "start_seconds": 714.32,
+    "end_seconds": 716.47,
+    "text": "investment philosophies. I hope you found the session useful and"
+  },
+  {
+    "start": "00:11:56.470",
+    "end": "00:11:56.480",
+    "start_seconds": 716.47,
+    "end_seconds": 716.48,
+    "text": "I hope you found the session useful and"
+  },
+  {
+    "start": "00:11:56.480",
+    "end": "00:12:00.640",
+    "start_seconds": 716.48,
+    "end_seconds": 720.64,
+    "text": "I hope you found the session useful and I thank you very much for listening."
+  }
+]

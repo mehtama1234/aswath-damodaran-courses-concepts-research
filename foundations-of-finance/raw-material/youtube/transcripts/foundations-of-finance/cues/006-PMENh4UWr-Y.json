@@ -1,0 +1,6239 @@
+[
+  {
+    "start": "00:00:00.030",
+    "end": "00:00:03.080",
+    "start_seconds": 0.03,
+    "end_seconds": 3.08,
+    "text": "this is session six of the foundations"
+  },
+  {
+    "start": "00:00:03.080",
+    "end": "00:00:03.090",
+    "start_seconds": 3.08,
+    "end_seconds": 3.09,
+    "text": "this is session six of the foundations"
+  },
+  {
+    "start": "00:00:03.090",
+    "end": "00:00:05.120",
+    "start_seconds": 3.09,
+    "end_seconds": 5.12,
+    "text": "this is session six of the foundations of finance module and in this session"
+  },
+  {
+    "start": "00:00:05.120",
+    "end": "00:00:05.130",
+    "start_seconds": 5.12,
+    "end_seconds": 5.13,
+    "text": "of finance module and in this session"
+  },
+  {
+    "start": "00:00:05.130",
+    "end": "00:00:07.190",
+    "start_seconds": 5.13,
+    "end_seconds": 7.19,
+    "text": "of finance module and in this session I'd like to bring together two concepts"
+  },
+  {
+    "start": "00:00:07.190",
+    "end": "00:00:07.200",
+    "start_seconds": 7.19,
+    "end_seconds": 7.2,
+    "text": "I'd like to bring together two concepts"
+  },
+  {
+    "start": "00:00:07.200",
+    "end": "00:00:09.140",
+    "start_seconds": 7.2,
+    "end_seconds": 9.14,
+    "text": "I'd like to bring together two concepts we've already talked about cash flows"
+  },
+  {
+    "start": "00:00:09.140",
+    "end": "00:00:09.150",
+    "start_seconds": 9.14,
+    "end_seconds": 9.15,
+    "text": "we've already talked about cash flows"
+  },
+  {
+    "start": "00:00:09.150",
+    "end": "00:00:11.690",
+    "start_seconds": 9.15,
+    "end_seconds": 11.69,
+    "text": "we've already talked about cash flows and discount rates into a single number"
+  },
+  {
+    "start": "00:00:11.690",
+    "end": "00:00:11.700",
+    "start_seconds": 11.69,
+    "end_seconds": 11.7,
+    "text": "and discount rates into a single number"
+  },
+  {
+    "start": "00:00:11.700",
+    "end": "00:00:14.270",
+    "start_seconds": 11.7,
+    "end_seconds": 14.27,
+    "text": "and discount rates into a single number the time value of money you've all heard"
+  },
+  {
+    "start": "00:00:14.270",
+    "end": "00:00:14.280",
+    "start_seconds": 14.27,
+    "end_seconds": 14.28,
+    "text": "the time value of money you've all heard"
+  },
+  {
+    "start": "00:00:14.280",
+    "end": "00:00:15.530",
+    "start_seconds": 14.28,
+    "end_seconds": 15.53,
+    "text": "the time value of money you've all heard the saying right at the start of every"
+  },
+  {
+    "start": "00:00:15.530",
+    "end": "00:00:15.540",
+    "start_seconds": 15.53,
+    "end_seconds": 15.54,
+    "text": "the saying right at the start of every"
+  },
+  {
+    "start": "00:00:15.540",
+    "end": "00:00:17.660",
+    "start_seconds": 15.54,
+    "end_seconds": 17.66,
+    "text": "the saying right at the start of every finance class you're told a dollar today"
+  },
+  {
+    "start": "00:00:17.660",
+    "end": "00:00:17.670",
+    "start_seconds": 17.66,
+    "end_seconds": 17.67,
+    "text": "finance class you're told a dollar today"
+  },
+  {
+    "start": "00:00:17.670",
+    "end": "00:00:19.730",
+    "start_seconds": 17.67,
+    "end_seconds": 19.73,
+    "text": "finance class you're told a dollar today is worth more than a dollar a year from"
+  },
+  {
+    "start": "00:00:19.730",
+    "end": "00:00:19.740",
+    "start_seconds": 19.73,
+    "end_seconds": 19.74,
+    "text": "is worth more than a dollar a year from"
+  },
+  {
+    "start": "00:00:19.740",
+    "end": "00:00:21.170",
+    "start_seconds": 19.74,
+    "end_seconds": 21.17,
+    "text": "is worth more than a dollar a year from now and depending where else you're in"
+  },
+  {
+    "start": "00:00:21.170",
+    "end": "00:00:21.180",
+    "start_seconds": 21.17,
+    "end_seconds": 21.18,
+    "text": "now and depending where else you're in"
+  },
+  {
+    "start": "00:00:21.180",
+    "end": "00:00:23.120",
+    "start_seconds": 21.18,
+    "end_seconds": 23.12,
+    "text": "now and depending where else you're in the world of peso today I repeat today"
+  },
+  {
+    "start": "00:00:23.120",
+    "end": "00:00:23.130",
+    "start_seconds": 23.12,
+    "end_seconds": 23.13,
+    "text": "the world of peso today I repeat today"
+  },
+  {
+    "start": "00:00:23.130",
+    "end": "00:00:25.460",
+    "start_seconds": 23.13,
+    "end_seconds": 25.46,
+    "text": "the world of peso today I repeat today the question is why and there are three"
+  },
+  {
+    "start": "00:00:25.460",
+    "end": "00:00:25.470",
+    "start_seconds": 25.46,
+    "end_seconds": 25.47,
+    "text": "the question is why and there are three"
+  },
+  {
+    "start": "00:00:25.470",
+    "end": "00:00:28.099",
+    "start_seconds": 25.47,
+    "end_seconds": 28.099,
+    "text": "the question is why and there are three reasons why a dollar today is worth more"
+  },
+  {
+    "start": "00:00:28.099",
+    "end": "00:00:28.109",
+    "start_seconds": 28.099,
+    "end_seconds": 28.109,
+    "text": "reasons why a dollar today is worth more"
+  },
+  {
+    "start": "00:00:28.109",
+    "end": "00:00:30.710",
+    "start_seconds": 28.109,
+    "end_seconds": 30.71,
+    "text": "reasons why a dollar today is worth more than a dollar you're ten years 20 years"
+  },
+  {
+    "start": "00:00:30.710",
+    "end": "00:00:30.720",
+    "start_seconds": 30.71,
+    "end_seconds": 30.72,
+    "text": "than a dollar you're ten years 20 years"
+  },
+  {
+    "start": "00:00:30.720",
+    "end": "00:00:33.229",
+    "start_seconds": 30.72,
+    "end_seconds": 33.229,
+    "text": "than a dollar you're ten years 20 years from now the first is human beings for"
+  },
+  {
+    "start": "00:00:33.229",
+    "end": "00:00:33.239",
+    "start_seconds": 33.229,
+    "end_seconds": 33.239,
+    "text": "from now the first is human beings for"
+  },
+  {
+    "start": "00:00:33.239",
+    "end": "00:00:35.360",
+    "start_seconds": 33.239,
+    "end_seconds": 35.36,
+    "text": "from now the first is human beings for whatever reason prefer cut present"
+  },
+  {
+    "start": "00:00:35.360",
+    "end": "00:00:35.370",
+    "start_seconds": 35.36,
+    "end_seconds": 35.37,
+    "text": "whatever reason prefer cut present"
+  },
+  {
+    "start": "00:00:35.370",
+    "end": "00:00:38.180",
+    "start_seconds": 35.37,
+    "end_seconds": 38.18,
+    "text": "whatever reason prefer cut present consumption to future consumption so to"
+  },
+  {
+    "start": "00:00:38.180",
+    "end": "00:00:38.190",
+    "start_seconds": 38.18,
+    "end_seconds": 38.19,
+    "text": "consumption to future consumption so to"
+  },
+  {
+    "start": "00:00:38.190",
+    "end": "00:00:40.310",
+    "start_seconds": 38.19,
+    "end_seconds": 40.31,
+    "text": "consumption to future consumption so to get you to give up present consumption"
+  },
+  {
+    "start": "00:00:40.310",
+    "end": "00:00:40.320",
+    "start_seconds": 40.31,
+    "end_seconds": 40.32,
+    "text": "get you to give up present consumption"
+  },
+  {
+    "start": "00:00:40.320",
+    "end": "00:00:41.959",
+    "start_seconds": 40.32,
+    "end_seconds": 41.959,
+    "text": "get you to give up present consumption for future consumption assuming you're"
+  },
+  {
+    "start": "00:00:41.959",
+    "end": "00:00:41.969",
+    "start_seconds": 41.959,
+    "end_seconds": 41.969,
+    "text": "for future consumption assuming you're"
+  },
+  {
+    "start": "00:00:41.969",
+    "end": "00:00:44.360",
+    "start_seconds": 41.969,
+    "end_seconds": 44.36,
+    "text": "for future consumption assuming you're lending stuff out I have to offer you"
+  },
+  {
+    "start": "00:00:44.360",
+    "end": "00:00:44.370",
+    "start_seconds": 44.36,
+    "end_seconds": 44.37,
+    "text": "lending stuff out I have to offer you"
+  },
+  {
+    "start": "00:00:44.370",
+    "end": "00:00:45.529",
+    "start_seconds": 44.37,
+    "end_seconds": 45.529,
+    "text": "lending stuff out I have to offer you some compensation"
+  },
+  {
+    "start": "00:00:45.529",
+    "end": "00:00:45.539",
+    "start_seconds": 45.529,
+    "end_seconds": 45.539,
+    "text": "some compensation"
+  },
+  {
+    "start": "00:00:45.539",
+    "end": "00:00:47.840",
+    "start_seconds": 45.539,
+    "end_seconds": 47.84,
+    "text": "some compensation that's called a real interest rate but"
+  },
+  {
+    "start": "00:00:47.840",
+    "end": "00:00:47.850",
+    "start_seconds": 47.84,
+    "end_seconds": 47.85,
+    "text": "that's called a real interest rate but"
+  },
+  {
+    "start": "00:00:47.850",
+    "end": "00:00:49.520",
+    "start_seconds": 47.85,
+    "end_seconds": 49.52,
+    "text": "that's called a real interest rate but that's just a fancy way of saying you"
+  },
+  {
+    "start": "00:00:49.520",
+    "end": "00:00:49.530",
+    "start_seconds": 49.52,
+    "end_seconds": 49.53,
+    "text": "that's just a fancy way of saying you"
+  },
+  {
+    "start": "00:00:49.530",
+    "end": "00:00:51.020",
+    "start_seconds": 49.53,
+    "end_seconds": 51.02,
+    "text": "that's just a fancy way of saying you know you've got to give people something"
+  },
+  {
+    "start": "00:00:51.020",
+    "end": "00:00:51.030",
+    "start_seconds": 51.02,
+    "end_seconds": 51.03,
+    "text": "know you've got to give people something"
+  },
+  {
+    "start": "00:00:51.030",
+    "end": "00:00:53.750",
+    "start_seconds": 51.03,
+    "end_seconds": 53.75,
+    "text": "know you've got to give people something to give a present consumption the second"
+  },
+  {
+    "start": "00:00:53.750",
+    "end": "00:00:53.760",
+    "start_seconds": 53.75,
+    "end_seconds": 53.76,
+    "text": "to give a present consumption the second"
+  },
+  {
+    "start": "00:00:53.760",
+    "end": "00:00:56.299",
+    "start_seconds": 53.76,
+    "end_seconds": 56.299,
+    "text": "to give a present consumption the second is inflation which the dollar today"
+  },
+  {
+    "start": "00:00:56.299",
+    "end": "00:00:56.309",
+    "start_seconds": 56.299,
+    "end_seconds": 56.309,
+    "text": "is inflation which the dollar today"
+  },
+  {
+    "start": "00:00:56.309",
+    "end": "00:00:58.069",
+    "start_seconds": 56.309,
+    "end_seconds": 58.069,
+    "text": "is inflation which the dollar today might buy a lot more than a dollar"
+  },
+  {
+    "start": "00:00:58.069",
+    "end": "00:00:58.079",
+    "start_seconds": 58.069,
+    "end_seconds": 58.079,
+    "text": "might buy a lot more than a dollar"
+  },
+  {
+    "start": "00:00:58.079",
+    "end": "00:00:59.810",
+    "start_seconds": 58.079,
+    "end_seconds": 59.81,
+    "text": "might buy a lot more than a dollar you're from now and that difference is"
+  },
+  {
+    "start": "00:00:59.810",
+    "end": "00:00:59.820",
+    "start_seconds": 59.81,
+    "end_seconds": 59.82,
+    "text": "you're from now and that difference is"
+  },
+  {
+    "start": "00:00:59.820",
+    "end": "00:01:01.400",
+    "start_seconds": 59.82,
+    "end_seconds": 61.4,
+    "text": "you're from now and that difference is going to widen depending on the"
+  },
+  {
+    "start": "00:01:01.400",
+    "end": "00:01:01.410",
+    "start_seconds": 61.4,
+    "end_seconds": 61.41,
+    "text": "going to widen depending on the"
+  },
+  {
+    "start": "00:01:01.410",
+    "end": "00:01:03.619",
+    "start_seconds": 61.41,
+    "end_seconds": 63.619,
+    "text": "going to widen depending on the inflation rate so higher inflation"
+  },
+  {
+    "start": "00:01:03.619",
+    "end": "00:01:03.629",
+    "start_seconds": 63.619,
+    "end_seconds": 63.629,
+    "text": "inflation rate so higher inflation"
+  },
+  {
+    "start": "00:01:03.629",
+    "end": "00:01:06.230",
+    "start_seconds": 63.629,
+    "end_seconds": 66.23,
+    "text": "inflation rate so higher inflation becomes the the more the difference will"
+  },
+  {
+    "start": "00:01:06.230",
+    "end": "00:01:06.240",
+    "start_seconds": 66.23,
+    "end_seconds": 66.24,
+    "text": "becomes the the more the difference will"
+  },
+  {
+    "start": "00:01:06.240",
+    "end": "00:01:07.850",
+    "start_seconds": 66.24,
+    "end_seconds": 67.85,
+    "text": "becomes the the more the difference will be between getting a dollar today at a"
+  },
+  {
+    "start": "00:01:07.850",
+    "end": "00:01:07.860",
+    "start_seconds": 67.85,
+    "end_seconds": 67.86,
+    "text": "be between getting a dollar today at a"
+  },
+  {
+    "start": "00:01:07.860",
+    "end": "00:01:09.980",
+    "start_seconds": 67.86,
+    "end_seconds": 69.98,
+    "text": "be between getting a dollar today at a dollar you're from now and the third is"
+  },
+  {
+    "start": "00:01:09.980",
+    "end": "00:01:09.990",
+    "start_seconds": 69.98,
+    "end_seconds": 69.99,
+    "text": "dollar you're from now and the third is"
+  },
+  {
+    "start": "00:01:09.990",
+    "end": "00:01:12.289",
+    "start_seconds": 69.99,
+    "end_seconds": 72.289,
+    "text": "dollar you're from now and the third is uncertainty the dollar today I can"
+  },
+  {
+    "start": "00:01:12.289",
+    "end": "00:01:12.299",
+    "start_seconds": 72.289,
+    "end_seconds": 72.299,
+    "text": "uncertainty the dollar today I can"
+  },
+  {
+    "start": "00:01:12.299",
+    "end": "00:01:14.060",
+    "start_seconds": 72.299,
+    "end_seconds": 74.06,
+    "text": "uncertainty the dollar today I can collect from your hand but a dollar a"
+  },
+  {
+    "start": "00:01:14.060",
+    "end": "00:01:14.070",
+    "start_seconds": 74.06,
+    "end_seconds": 74.07,
+    "text": "collect from your hand but a dollar a"
+  },
+  {
+    "start": "00:01:14.070",
+    "end": "00:01:16.070",
+    "start_seconds": 74.07,
+    "end_seconds": 76.07,
+    "text": "collect from your hand but a dollar a year from now I'm dependent on you"
+  },
+  {
+    "start": "00:01:16.070",
+    "end": "00:01:16.080",
+    "start_seconds": 76.07,
+    "end_seconds": 76.08,
+    "text": "year from now I'm dependent on you"
+  },
+  {
+    "start": "00:01:16.080",
+    "end": "00:01:17.899",
+    "start_seconds": 76.08,
+    "end_seconds": 77.899,
+    "text": "year from now I'm dependent on you showing up and giving me the dollar and"
+  },
+  {
+    "start": "00:01:17.899",
+    "end": "00:01:17.909",
+    "start_seconds": 77.899,
+    "end_seconds": 77.90899999999999,
+    "text": "showing up and giving me the dollar and"
+  },
+  {
+    "start": "00:01:17.909",
+    "end": "00:01:20.240",
+    "start_seconds": 77.90899999999999,
+    "end_seconds": 80.24,
+    "text": "showing up and giving me the dollar and the more uncertain I feel about that the"
+  },
+  {
+    "start": "00:01:20.240",
+    "end": "00:01:20.250",
+    "start_seconds": 80.24,
+    "end_seconds": 80.25,
+    "text": "the more uncertain I feel about that the"
+  },
+  {
+    "start": "00:01:20.250",
+    "end": "00:01:22.550",
+    "start_seconds": 80.25,
+    "end_seconds": 82.55,
+    "text": "the more uncertain I feel about that the less value I would attach the dollar so"
+  },
+  {
+    "start": "00:01:22.550",
+    "end": "00:01:22.560",
+    "start_seconds": 82.55,
+    "end_seconds": 82.56,
+    "text": "less value I would attach the dollar so"
+  },
+  {
+    "start": "00:01:22.560",
+    "end": "00:01:24.580",
+    "start_seconds": 82.56,
+    "end_seconds": 84.58,
+    "text": "less value I would attach the dollar so the preference for current consumption"
+  },
+  {
+    "start": "00:01:24.580",
+    "end": "00:01:24.590",
+    "start_seconds": 84.58,
+    "end_seconds": 84.59,
+    "text": "the preference for current consumption"
+  },
+  {
+    "start": "00:01:24.590",
+    "end": "00:01:27.499",
+    "start_seconds": 84.59,
+    "end_seconds": 87.499,
+    "text": "the preference for current consumption inflation and uncertainty and as a"
+  },
+  {
+    "start": "00:01:27.499",
+    "end": "00:01:27.509",
+    "start_seconds": 87.499,
+    "end_seconds": 87.509,
+    "text": "inflation and uncertainty and as a"
+  },
+  {
+    "start": "00:01:27.509",
+    "end": "00:01:30.890",
+    "start_seconds": 87.509,
+    "end_seconds": 90.89,
+    "text": "inflation and uncertainty and as a preference increases the time value of"
+  },
+  {
+    "start": "00:01:30.890",
+    "end": "00:01:30.900",
+    "start_seconds": 90.89,
+    "end_seconds": 90.9,
+    "text": "preference increases the time value of"
+  },
+  {
+    "start": "00:01:30.900",
+    "end": "00:01:33.380",
+    "start_seconds": 90.9,
+    "end_seconds": 93.38,
+    "text": "preference increases the time value of money will go up as expected inflation"
+  },
+  {
+    "start": "00:01:33.380",
+    "end": "00:01:33.390",
+    "start_seconds": 93.38,
+    "end_seconds": 93.39,
+    "text": "money will go up as expected inflation"
+  },
+  {
+    "start": "00:01:33.390",
+    "end": "00:01:35.810",
+    "start_seconds": 93.39,
+    "end_seconds": 95.81,
+    "text": "money will go up as expected inflation increases the time value effect is going"
+  },
+  {
+    "start": "00:01:35.810",
+    "end": "00:01:35.820",
+    "start_seconds": 95.81,
+    "end_seconds": 95.82,
+    "text": "increases the time value effect is going"
+  },
+  {
+    "start": "00:01:35.820",
+    "end": "00:01:37.190",
+    "start_seconds": 95.82,
+    "end_seconds": 97.19,
+    "text": "increases the time value effect is going to be greater and the greater the"
+  },
+  {
+    "start": "00:01:37.190",
+    "end": "00:01:37.200",
+    "start_seconds": 97.19,
+    "end_seconds": 97.2,
+    "text": "to be greater and the greater the"
+  },
+  {
+    "start": "00:01:37.200",
+    "end": "00:01:39.289",
+    "start_seconds": 97.2,
+    "end_seconds": 99.289,
+    "text": "to be greater and the greater the uncertainty the greater the time value"
+  },
+  {
+    "start": "00:01:39.289",
+    "end": "00:01:39.299",
+    "start_seconds": 99.289,
+    "end_seconds": 99.299,
+    "text": "uncertainty the greater the time value"
+  },
+  {
+    "start": "00:01:39.299",
+    "end": "00:01:41.960",
+    "start_seconds": 99.299,
+    "end_seconds": 101.96000000000001,
+    "text": "uncertainty the greater the time value effect on money so let's bring this"
+  },
+  {
+    "start": "00:01:41.960",
+    "end": "00:01:41.970",
+    "start_seconds": 101.96000000000001,
+    "end_seconds": 101.97,
+    "text": "effect on money so let's bring this"
+  },
+  {
+    "start": "00:01:41.970",
+    "end": "00:01:44.539",
+    "start_seconds": 101.97,
+    "end_seconds": 104.539,
+    "text": "effect on money so let's bring this together into a very simple process the"
+  },
+  {
+    "start": "00:01:44.539",
+    "end": "00:01:44.549",
+    "start_seconds": 104.539,
+    "end_seconds": 104.549,
+    "text": "together into a very simple process the"
+  },
+  {
+    "start": "00:01:44.549",
+    "end": "00:01:47.120",
+    "start_seconds": 104.549,
+    "end_seconds": 107.12,
+    "text": "together into a very simple process the the mechanics of time value of money a"
+  },
+  {
+    "start": "00:01:47.120",
+    "end": "00:01:47.130",
+    "start_seconds": 107.12,
+    "end_seconds": 107.13,
+    "text": "the mechanics of time value of money a"
+  },
+  {
+    "start": "00:01:47.130",
+    "end": "00:01:49.600",
+    "start_seconds": 107.13,
+    "end_seconds": 109.6,
+    "text": "the mechanics of time value of money a bit around discounting or compounding"
+  },
+  {
+    "start": "00:01:49.600",
+    "end": "00:01:49.610",
+    "start_seconds": 109.6,
+    "end_seconds": 109.61,
+    "text": "bit around discounting or compounding"
+  },
+  {
+    "start": "00:01:49.610",
+    "end": "00:01:51.590",
+    "start_seconds": 109.61,
+    "end_seconds": 111.59,
+    "text": "bit around discounting or compounding discounting reflects effectively"
+  },
+  {
+    "start": "00:01:51.590",
+    "end": "00:01:51.600",
+    "start_seconds": 111.59,
+    "end_seconds": 111.6,
+    "text": "discounting reflects effectively"
+  },
+  {
+    "start": "00:01:51.600",
+    "end": "00:01:53.990",
+    "start_seconds": 111.6,
+    "end_seconds": 113.99000000000001,
+    "text": "discounting reflects effectively bringing future cash flows back to today"
+  },
+  {
+    "start": "00:01:53.990",
+    "end": "00:01:54.000",
+    "start_seconds": 113.99000000000001,
+    "end_seconds": 114.0,
+    "text": "bringing future cash flows back to today"
+  },
+  {
+    "start": "00:01:54.000",
+    "end": "00:01:56.359",
+    "start_seconds": 114.0,
+    "end_seconds": 116.35900000000001,
+    "text": "bringing future cash flows back to today and compounding reflects the fact that"
+  },
+  {
+    "start": "00:01:56.359",
+    "end": "00:01:56.369",
+    "start_seconds": 116.35900000000001,
+    "end_seconds": 116.369,
+    "text": "and compounding reflects the fact that"
+  },
+  {
+    "start": "00:01:56.369",
+    "end": "00:01:58.130",
+    "start_seconds": 116.369,
+    "end_seconds": 118.13,
+    "text": "and compounding reflects the fact that you taking today's cash flows into the"
+  },
+  {
+    "start": "00:01:58.130",
+    "end": "00:01:58.140",
+    "start_seconds": 118.13,
+    "end_seconds": 118.14,
+    "text": "you taking today's cash flows into the"
+  },
+  {
+    "start": "00:01:58.140",
+    "end": "00:02:01.160",
+    "start_seconds": 118.14,
+    "end_seconds": 121.16,
+    "text": "you taking today's cash flows into the future and the discount rate becomes the"
+  },
+  {
+    "start": "00:02:01.160",
+    "end": "00:02:01.170",
+    "start_seconds": 121.16,
+    "end_seconds": 121.17,
+    "text": "future and the discount rate becomes the"
+  },
+  {
+    "start": "00:02:01.170",
+    "end": "00:02:03.740",
+    "start_seconds": 121.17,
+    "end_seconds": 123.74,
+    "text": "future and the discount rate becomes the mechanism I use to bring in all three"
+  },
+  {
+    "start": "00:02:03.740",
+    "end": "00:02:03.750",
+    "start_seconds": 123.74,
+    "end_seconds": 123.75,
+    "text": "mechanism I use to bring in all three"
+  },
+  {
+    "start": "00:02:03.750",
+    "end": "00:02:05.840",
+    "start_seconds": 123.75,
+    "end_seconds": 125.84,
+    "text": "mechanism I use to bring in all three factors we talked about so holding all"
+  },
+  {
+    "start": "00:02:05.840",
+    "end": "00:02:05.850",
+    "start_seconds": 125.84,
+    "end_seconds": 125.85,
+    "text": "factors we talked about so holding all"
+  },
+  {
+    "start": "00:02:05.850",
+    "end": "00:02:08.029",
+    "start_seconds": 125.85,
+    "end_seconds": 128.029,
+    "text": "factors we talked about so holding all its constant the greater the preference"
+  },
+  {
+    "start": "00:02:08.029",
+    "end": "00:02:08.039",
+    "start_seconds": 128.029,
+    "end_seconds": 128.039,
+    "text": "its constant the greater the preference"
+  },
+  {
+    "start": "00:02:08.039",
+    "end": "00:02:09.619",
+    "start_seconds": 128.039,
+    "end_seconds": 129.619,
+    "text": "its constant the greater the preference for current consumption the higher the"
+  },
+  {
+    "start": "00:02:09.619",
+    "end": "00:02:09.629",
+    "start_seconds": 129.619,
+    "end_seconds": 129.629,
+    "text": "for current consumption the higher the"
+  },
+  {
+    "start": "00:02:09.629",
+    "end": "00:02:10.120",
+    "start_seconds": 129.629,
+    "end_seconds": 130.12,
+    "text": "for current consumption the higher the discount"
+  },
+  {
+    "start": "00:02:10.120",
+    "end": "00:02:10.130",
+    "start_seconds": 130.12,
+    "end_seconds": 130.13,
+    "text": "discount"
+  },
+  {
+    "start": "00:02:10.130",
+    "end": "00:02:12.160",
+    "start_seconds": 130.13,
+    "end_seconds": 132.16,
+    "text": "discount it's gonna be the greater the inflation"
+  },
+  {
+    "start": "00:02:12.160",
+    "end": "00:02:12.170",
+    "start_seconds": 132.16,
+    "end_seconds": 132.17,
+    "text": "it's gonna be the greater the inflation"
+  },
+  {
+    "start": "00:02:12.170",
+    "end": "00:02:13.600",
+    "start_seconds": 132.17,
+    "end_seconds": 133.6,
+    "text": "it's gonna be the greater the inflation rate the higher the discount rate and"
+  },
+  {
+    "start": "00:02:13.600",
+    "end": "00:02:13.610",
+    "start_seconds": 133.6,
+    "end_seconds": 133.61,
+    "text": "rate the higher the discount rate and"
+  },
+  {
+    "start": "00:02:13.610",
+    "end": "00:02:15.670",
+    "start_seconds": 133.61,
+    "end_seconds": 135.67,
+    "text": "rate the higher the discount rate and the greater the uncertainty the higher"
+  },
+  {
+    "start": "00:02:15.670",
+    "end": "00:02:15.680",
+    "start_seconds": 135.67,
+    "end_seconds": 135.68,
+    "text": "the greater the uncertainty the higher"
+  },
+  {
+    "start": "00:02:15.680",
+    "end": "00:02:18.970",
+    "start_seconds": 135.68,
+    "end_seconds": 138.97,
+    "text": "the greater the uncertainty the higher the discount rate now that said you can"
+  },
+  {
+    "start": "00:02:18.970",
+    "end": "00:02:18.980",
+    "start_seconds": 138.97,
+    "end_seconds": 138.98,
+    "text": "the discount rate now that said you can"
+  },
+  {
+    "start": "00:02:18.980",
+    "end": "00:02:20.950",
+    "start_seconds": 138.98,
+    "end_seconds": 140.95,
+    "text": "the discount rate now that said you can already see why currencies matter when"
+  },
+  {
+    "start": "00:02:20.950",
+    "end": "00:02:20.960",
+    "start_seconds": 140.95,
+    "end_seconds": 140.96,
+    "text": "already see why currencies matter when"
+  },
+  {
+    "start": "00:02:20.960",
+    "end": "00:02:23.740",
+    "start_seconds": 140.96,
+    "end_seconds": 143.74,
+    "text": "already see why currencies matter when you talk about cash flows the value"
+  },
+  {
+    "start": "00:02:23.740",
+    "end": "00:02:23.750",
+    "start_seconds": 143.74,
+    "end_seconds": 143.75,
+    "text": "you talk about cash flows the value"
+  },
+  {
+    "start": "00:02:23.750",
+    "end": "00:02:26.350",
+    "start_seconds": 143.75,
+    "end_seconds": 146.35,
+    "text": "you talk about cash flows the value offer dollar today relative to dollar a"
+  },
+  {
+    "start": "00:02:26.350",
+    "end": "00:02:26.360",
+    "start_seconds": 146.35,
+    "end_seconds": 146.36,
+    "text": "offer dollar today relative to dollar a"
+  },
+  {
+    "start": "00:02:26.360",
+    "end": "00:02:27.700",
+    "start_seconds": 146.36,
+    "end_seconds": 147.7,
+    "text": "offer dollar today relative to dollar a year from now would reflect the"
+  },
+  {
+    "start": "00:02:27.700",
+    "end": "00:02:27.710",
+    "start_seconds": 147.7,
+    "end_seconds": 147.71,
+    "text": "year from now would reflect the"
+  },
+  {
+    "start": "00:02:27.710",
+    "end": "00:02:29.470",
+    "start_seconds": 147.71,
+    "end_seconds": 149.47,
+    "text": "year from now would reflect the inflation rate of the dollar but the"
+  },
+  {
+    "start": "00:02:29.470",
+    "end": "00:02:29.480",
+    "start_seconds": 149.47,
+    "end_seconds": 149.48,
+    "text": "inflation rate of the dollar but the"
+  },
+  {
+    "start": "00:02:29.480",
+    "end": "00:02:32.500",
+    "start_seconds": 149.48,
+    "end_seconds": 152.5,
+    "text": "inflation rate of the dollar but the value of an Argentine peso today and a"
+  },
+  {
+    "start": "00:02:32.500",
+    "end": "00:02:32.510",
+    "start_seconds": 152.5,
+    "end_seconds": 152.51,
+    "text": "value of an Argentine peso today and a"
+  },
+  {
+    "start": "00:02:32.510",
+    "end": "00:02:34.120",
+    "start_seconds": 152.51,
+    "end_seconds": 154.12,
+    "text": "value of an Argentine peso today and a peso yo from now will reflect the"
+  },
+  {
+    "start": "00:02:34.120",
+    "end": "00:02:34.130",
+    "start_seconds": 154.12,
+    "end_seconds": 154.13,
+    "text": "peso yo from now will reflect the"
+  },
+  {
+    "start": "00:02:34.130",
+    "end": "00:02:36.610",
+    "start_seconds": 154.13,
+    "end_seconds": 156.61,
+    "text": "peso yo from now will reflect the inflation rate in the peso currencies"
+  },
+  {
+    "start": "00:02:36.610",
+    "end": "00:02:36.620",
+    "start_seconds": 156.61,
+    "end_seconds": 156.62,
+    "text": "inflation rate in the peso currencies"
+  },
+  {
+    "start": "00:02:36.620",
+    "end": "00:02:38.350",
+    "start_seconds": 156.62,
+    "end_seconds": 158.35,
+    "text": "inflation rate in the peso currencies matter when it comes to discount rates"
+  },
+  {
+    "start": "00:02:38.350",
+    "end": "00:02:38.360",
+    "start_seconds": 158.35,
+    "end_seconds": 158.36,
+    "text": "matter when it comes to discount rates"
+  },
+  {
+    "start": "00:02:38.360",
+    "end": "00:02:40.360",
+    "start_seconds": 158.36,
+    "end_seconds": 160.36,
+    "text": "matter when it comes to discount rates because depending on the inflation rate"
+  },
+  {
+    "start": "00:02:40.360",
+    "end": "00:02:40.370",
+    "start_seconds": 160.36,
+    "end_seconds": 160.37,
+    "text": "because depending on the inflation rate"
+  },
+  {
+    "start": "00:02:40.370",
+    "end": "00:02:42.370",
+    "start_seconds": 160.37,
+    "end_seconds": 162.37,
+    "text": "because depending on the inflation rate in that currency your discount rate will"
+  },
+  {
+    "start": "00:02:42.370",
+    "end": "00:02:42.380",
+    "start_seconds": 162.37,
+    "end_seconds": 162.38,
+    "text": "in that currency your discount rate will"
+  },
+  {
+    "start": "00:02:42.380",
+    "end": "00:02:43.990",
+    "start_seconds": 162.38,
+    "end_seconds": 163.99,
+    "text": "in that currency your discount rate will be higher or lower and this is something"
+  },
+  {
+    "start": "00:02:43.990",
+    "end": "00:02:44.000",
+    "start_seconds": 163.99,
+    "end_seconds": 164.0,
+    "text": "be higher or lower and this is something"
+  },
+  {
+    "start": "00:02:44.000",
+    "end": "00:02:45.280",
+    "start_seconds": 164.0,
+    "end_seconds": 165.28,
+    "text": "be higher or lower and this is something we're going to come back and deal with"
+  },
+  {
+    "start": "00:02:45.280",
+    "end": "00:02:45.290",
+    "start_seconds": 165.28,
+    "end_seconds": 165.29,
+    "text": "we're going to come back and deal with"
+  },
+  {
+    "start": "00:02:45.290",
+    "end": "00:02:47.710",
+    "start_seconds": 165.29,
+    "end_seconds": 167.71,
+    "text": "we're going to come back and deal with more tangibly later in both the"
+  },
+  {
+    "start": "00:02:47.710",
+    "end": "00:02:47.720",
+    "start_seconds": 167.71,
+    "end_seconds": 167.72,
+    "text": "more tangibly later in both the"
+  },
+  {
+    "start": "00:02:47.720",
+    "end": "00:02:49.600",
+    "start_seconds": 167.72,
+    "end_seconds": 169.6,
+    "text": "more tangibly later in both the corporate finance and evaluation classes"
+  },
+  {
+    "start": "00:02:49.600",
+    "end": "00:02:49.610",
+    "start_seconds": 169.6,
+    "end_seconds": 169.61,
+    "text": "corporate finance and evaluation classes"
+  },
+  {
+    "start": "00:02:49.610",
+    "end": "00:02:51.880",
+    "start_seconds": 169.61,
+    "end_seconds": 171.88,
+    "text": "corporate finance and evaluation classes the discount rate is also an opportunity"
+  },
+  {
+    "start": "00:02:51.880",
+    "end": "00:02:51.890",
+    "start_seconds": 171.88,
+    "end_seconds": 171.89,
+    "text": "the discount rate is also an opportunity"
+  },
+  {
+    "start": "00:02:51.890",
+    "end": "00:02:54.460",
+    "start_seconds": 171.89,
+    "end_seconds": 174.46,
+    "text": "the discount rate is also an opportunity cost an opportunity cost in what sense"
+  },
+  {
+    "start": "00:02:54.460",
+    "end": "00:02:54.470",
+    "start_seconds": 174.46,
+    "end_seconds": 174.47,
+    "text": "cost an opportunity cost in what sense"
+  },
+  {
+    "start": "00:02:54.470",
+    "end": "00:02:56.050",
+    "start_seconds": 174.47,
+    "end_seconds": 176.05,
+    "text": "cost an opportunity cost in what sense when you use a discount rate a"
+  },
+  {
+    "start": "00:02:56.050",
+    "end": "00:02:56.060",
+    "start_seconds": 176.05,
+    "end_seconds": 176.06,
+    "text": "when you use a discount rate a"
+  },
+  {
+    "start": "00:02:56.060",
+    "end": "00:02:58.210",
+    "start_seconds": 176.06,
+    "end_seconds": 178.21,
+    "text": "when you use a discount rate a discounted cash flow you're also telling"
+  },
+  {
+    "start": "00:02:58.210",
+    "end": "00:02:58.220",
+    "start_seconds": 178.21,
+    "end_seconds": 178.22,
+    "text": "discounted cash flow you're also telling"
+  },
+  {
+    "start": "00:02:58.220",
+    "end": "00:03:01.240",
+    "start_seconds": 178.22,
+    "end_seconds": 181.24,
+    "text": "discounted cash flow you're also telling me indirectly or directly that you can"
+  },
+  {
+    "start": "00:03:01.240",
+    "end": "00:03:01.250",
+    "start_seconds": 181.24,
+    "end_seconds": 181.25,
+    "text": "me indirectly or directly that you can"
+  },
+  {
+    "start": "00:03:01.250",
+    "end": "00:03:03.490",
+    "start_seconds": 181.25,
+    "end_seconds": 183.49,
+    "text": "me indirectly or directly that you can make that rate of return on an"
+  },
+  {
+    "start": "00:03:03.490",
+    "end": "00:03:03.500",
+    "start_seconds": 183.49,
+    "end_seconds": 183.5,
+    "text": "make that rate of return on an"
+  },
+  {
+    "start": "00:03:03.500",
+    "end": "00:03:05.560",
+    "start_seconds": 183.5,
+    "end_seconds": 185.56,
+    "text": "make that rate of return on an investment of equivalent risk out there"
+  },
+  {
+    "start": "00:03:05.560",
+    "end": "00:03:05.570",
+    "start_seconds": 185.56,
+    "end_seconds": 185.57,
+    "text": "investment of equivalent risk out there"
+  },
+  {
+    "start": "00:03:05.570",
+    "end": "00:03:07.840",
+    "start_seconds": 185.57,
+    "end_seconds": 187.84,
+    "text": "investment of equivalent risk out there in the marketplace so when you go"
+  },
+  {
+    "start": "00:03:07.840",
+    "end": "00:03:07.850",
+    "start_seconds": 187.84,
+    "end_seconds": 187.85,
+    "text": "in the marketplace so when you go"
+  },
+  {
+    "start": "00:03:07.850",
+    "end": "00:03:09.550",
+    "start_seconds": 187.85,
+    "end_seconds": 189.55,
+    "text": "in the marketplace so when you go looking for discount rates it's not"
+  },
+  {
+    "start": "00:03:09.550",
+    "end": "00:03:09.560",
+    "start_seconds": 189.55,
+    "end_seconds": 189.56,
+    "text": "looking for discount rates it's not"
+  },
+  {
+    "start": "00:03:09.560",
+    "end": "00:03:11.320",
+    "start_seconds": 189.56,
+    "end_seconds": 191.32,
+    "text": "looking for discount rates it's not about what you would like to make on an"
+  },
+  {
+    "start": "00:03:11.320",
+    "end": "00:03:11.330",
+    "start_seconds": 191.32,
+    "end_seconds": 191.33,
+    "text": "about what you would like to make on an"
+  },
+  {
+    "start": "00:03:11.330",
+    "end": "00:03:13.210",
+    "start_seconds": 191.33,
+    "end_seconds": 193.21,
+    "text": "about what you would like to make on an investment that drives it it's what you"
+  },
+  {
+    "start": "00:03:13.210",
+    "end": "00:03:13.220",
+    "start_seconds": 193.21,
+    "end_seconds": 193.22,
+    "text": "investment that drives it it's what you"
+  },
+  {
+    "start": "00:03:13.220",
+    "end": "00:03:15.550",
+    "start_seconds": 193.22,
+    "end_seconds": 195.55,
+    "text": "investment that drives it it's what you can make on the next best investment of"
+  },
+  {
+    "start": "00:03:15.550",
+    "end": "00:03:15.560",
+    "start_seconds": 195.55,
+    "end_seconds": 195.56,
+    "text": "can make on the next best investment of"
+  },
+  {
+    "start": "00:03:15.560",
+    "end": "00:03:18.550",
+    "start_seconds": 195.56,
+    "end_seconds": 198.55,
+    "text": "can make on the next best investment of equivalent risk so discounting brings"
+  },
+  {
+    "start": "00:03:18.550",
+    "end": "00:03:18.560",
+    "start_seconds": 198.55,
+    "end_seconds": 198.56,
+    "text": "equivalent risk so discounting brings"
+  },
+  {
+    "start": "00:03:18.560",
+    "end": "00:03:20.320",
+    "start_seconds": 198.56,
+    "end_seconds": 200.32,
+    "text": "equivalent risk so discounting brings future cash flows back to today"
+  },
+  {
+    "start": "00:03:20.320",
+    "end": "00:03:20.330",
+    "start_seconds": 200.32,
+    "end_seconds": 200.32999999999998,
+    "text": "future cash flows back to today"
+  },
+  {
+    "start": "00:03:20.330",
+    "end": "00:03:22.570",
+    "start_seconds": 200.32999999999998,
+    "end_seconds": 202.57,
+    "text": "future cash flows back to today compounding converts today's cash flows"
+  },
+  {
+    "start": "00:03:22.570",
+    "end": "00:03:22.580",
+    "start_seconds": 202.57,
+    "end_seconds": 202.57999999999998,
+    "text": "compounding converts today's cash flows"
+  },
+  {
+    "start": "00:03:22.580",
+    "end": "00:03:24.760",
+    "start_seconds": 202.57999999999998,
+    "end_seconds": 204.76,
+    "text": "compounding converts today's cash flows into future cash flows so let's talk"
+  },
+  {
+    "start": "00:03:24.760",
+    "end": "00:03:24.770",
+    "start_seconds": 204.76,
+    "end_seconds": 204.77,
+    "text": "into future cash flows so let's talk"
+  },
+  {
+    "start": "00:03:24.770",
+    "end": "00:03:26.920",
+    "start_seconds": 204.77,
+    "end_seconds": 206.92000000000002,
+    "text": "into future cash flows so let's talk about some very simple present value"
+  },
+  {
+    "start": "00:03:26.920",
+    "end": "00:03:26.930",
+    "start_seconds": 206.92000000000002,
+    "end_seconds": 206.93,
+    "text": "about some very simple present value"
+  },
+  {
+    "start": "00:03:26.930",
+    "end": "00:03:29.350",
+    "start_seconds": 206.93,
+    "end_seconds": 209.35,
+    "text": "about some very simple present value principles and obvious ones the first is"
+  },
+  {
+    "start": "00:03:29.350",
+    "end": "00:03:29.360",
+    "start_seconds": 209.35,
+    "end_seconds": 209.36,
+    "text": "principles and obvious ones the first is"
+  },
+  {
+    "start": "00:03:29.360",
+    "end": "00:03:31.810",
+    "start_seconds": 209.36,
+    "end_seconds": 211.81,
+    "text": "principles and obvious ones the first is if you gave me an investment with cash"
+  },
+  {
+    "start": "00:03:31.810",
+    "end": "00:03:31.820",
+    "start_seconds": 211.81,
+    "end_seconds": 211.82,
+    "text": "if you gave me an investment with cash"
+  },
+  {
+    "start": "00:03:31.820",
+    "end": "00:03:33.850",
+    "start_seconds": 211.82,
+    "end_seconds": 213.85,
+    "text": "if you gave me an investment with cash flows every year for the next 15 years I"
+  },
+  {
+    "start": "00:03:33.850",
+    "end": "00:03:33.860",
+    "start_seconds": 213.85,
+    "end_seconds": 213.86,
+    "text": "flows every year for the next 15 years I"
+  },
+  {
+    "start": "00:03:33.860",
+    "end": "00:03:35.740",
+    "start_seconds": 213.86,
+    "end_seconds": 215.74,
+    "text": "flows every year for the next 15 years I kind of add up those cash flows and give"
+  },
+  {
+    "start": "00:03:35.740",
+    "end": "00:03:35.750",
+    "start_seconds": 215.74,
+    "end_seconds": 215.75,
+    "text": "kind of add up those cash flows and give"
+  },
+  {
+    "start": "00:03:35.750",
+    "end": "00:03:37.630",
+    "start_seconds": 215.75,
+    "end_seconds": 217.63,
+    "text": "kind of add up those cash flows and give you any kind of answer because cash"
+  },
+  {
+    "start": "00:03:37.630",
+    "end": "00:03:37.640",
+    "start_seconds": 217.63,
+    "end_seconds": 217.64,
+    "text": "you any kind of answer because cash"
+  },
+  {
+    "start": "00:03:37.640",
+    "end": "00:03:39.430",
+    "start_seconds": 217.64,
+    "end_seconds": 219.43,
+    "text": "you any kind of answer because cash flows at different points in time on"
+  },
+  {
+    "start": "00:03:39.430",
+    "end": "00:03:39.440",
+    "start_seconds": 219.43,
+    "end_seconds": 219.44,
+    "text": "flows at different points in time on"
+  },
+  {
+    "start": "00:03:39.440",
+    "end": "00:03:41.830",
+    "start_seconds": 219.44,
+    "end_seconds": 221.82999999999998,
+    "text": "flows at different points in time on different types of cash flows so cash"
+  },
+  {
+    "start": "00:03:41.830",
+    "end": "00:03:41.840",
+    "start_seconds": 221.82999999999998,
+    "end_seconds": 221.84,
+    "text": "different types of cash flows so cash"
+  },
+  {
+    "start": "00:03:41.840",
+    "end": "00:03:43.690",
+    "start_seconds": 221.84,
+    "end_seconds": 223.69,
+    "text": "different types of cash flows so cash flows have to be brought back to the"
+  },
+  {
+    "start": "00:03:43.690",
+    "end": "00:03:43.700",
+    "start_seconds": 223.69,
+    "end_seconds": 223.7,
+    "text": "flows have to be brought back to the"
+  },
+  {
+    "start": "00:03:43.700",
+    "end": "00:03:45.670",
+    "start_seconds": 223.7,
+    "end_seconds": 225.67000000000002,
+    "text": "flows have to be brought back to the same point in time that can be either"
+  },
+  {
+    "start": "00:03:45.670",
+    "end": "00:03:45.680",
+    "start_seconds": 225.67000000000002,
+    "end_seconds": 225.68,
+    "text": "same point in time that can be either"
+  },
+  {
+    "start": "00:03:45.680",
+    "end": "00:03:48.370",
+    "start_seconds": 225.68,
+    "end_seconds": 228.37,
+    "text": "same point in time that can be either today or five years from now but as long"
+  },
+  {
+    "start": "00:03:48.370",
+    "end": "00:03:48.380",
+    "start_seconds": 228.37,
+    "end_seconds": 228.38,
+    "text": "today or five years from now but as long"
+  },
+  {
+    "start": "00:03:48.380",
+    "end": "00:03:49.510",
+    "start_seconds": 228.38,
+    "end_seconds": 229.51,
+    "text": "today or five years from now but as long as you bring the cash flow the same"
+  },
+  {
+    "start": "00:03:49.510",
+    "end": "00:03:49.520",
+    "start_seconds": 229.51,
+    "end_seconds": 229.52,
+    "text": "as you bring the cash flow the same"
+  },
+  {
+    "start": "00:03:49.520",
+    "end": "00:03:51.730",
+    "start_seconds": 229.52,
+    "end_seconds": 231.73,
+    "text": "as you bring the cash flow the same point in time you can aggregate them you"
+  },
+  {
+    "start": "00:03:51.730",
+    "end": "00:03:51.740",
+    "start_seconds": 231.73,
+    "end_seconds": 231.74,
+    "text": "point in time you can aggregate them you"
+  },
+  {
+    "start": "00:03:51.740",
+    "end": "00:03:53.680",
+    "start_seconds": 231.74,
+    "end_seconds": 233.68,
+    "text": "point in time you can aggregate them you can subtract them you can you can net"
+  },
+  {
+    "start": "00:03:53.680",
+    "end": "00:03:53.690",
+    "start_seconds": 233.68,
+    "end_seconds": 233.69,
+    "text": "can subtract them you can you can net"
+  },
+  {
+    "start": "00:03:53.690",
+    "end": "00:03:55.930",
+    "start_seconds": 233.69,
+    "end_seconds": 235.93,
+    "text": "can subtract them you can you can net them up the second is a good investment"
+  },
+  {
+    "start": "00:03:55.930",
+    "end": "00:03:55.940",
+    "start_seconds": 235.93,
+    "end_seconds": 235.94,
+    "text": "them up the second is a good investment"
+  },
+  {
+    "start": "00:03:55.940",
+    "end": "00:03:57.910",
+    "start_seconds": 235.94,
+    "end_seconds": 237.91,
+    "text": "them up the second is a good investment rule whether it's in corporate finance"
+  },
+  {
+    "start": "00:03:57.910",
+    "end": "00:03:57.920",
+    "start_seconds": 237.91,
+    "end_seconds": 237.92000000000002,
+    "text": "rule whether it's in corporate finance"
+  },
+  {
+    "start": "00:03:57.920",
+    "end": "00:04:00.010",
+    "start_seconds": 237.92000000000002,
+    "end_seconds": 240.01,
+    "text": "rule whether it's in corporate finance as a capital budgeting rule or in"
+  },
+  {
+    "start": "00:04:00.010",
+    "end": "00:04:00.020",
+    "start_seconds": 240.01,
+    "end_seconds": 240.02,
+    "text": "as a capital budgeting rule or in"
+  },
+  {
+    "start": "00:04:00.020",
+    "end": "00:04:02.350",
+    "start_seconds": 240.02,
+    "end_seconds": 242.35,
+    "text": "as a capital budgeting rule or in valuation as an investment rule should"
+  },
+  {
+    "start": "00:04:02.350",
+    "end": "00:04:02.360",
+    "start_seconds": 242.35,
+    "end_seconds": 242.36,
+    "text": "valuation as an investment rule should"
+  },
+  {
+    "start": "00:04:02.360",
+    "end": "00:04:04.270",
+    "start_seconds": 242.36,
+    "end_seconds": 244.27,
+    "text": "valuation as an investment rule should be based not only on how much you will"
+  },
+  {
+    "start": "00:04:04.270",
+    "end": "00:04:04.280",
+    "start_seconds": 244.27,
+    "end_seconds": 244.28,
+    "text": "be based not only on how much you will"
+  },
+  {
+    "start": "00:04:04.280",
+    "end": "00:04:05.980",
+    "start_seconds": 244.28,
+    "end_seconds": 245.98,
+    "text": "be based not only on how much you will get in cash flows from the investment"
+  },
+  {
+    "start": "00:04:05.980",
+    "end": "00:04:05.990",
+    "start_seconds": 245.98,
+    "end_seconds": 245.99,
+    "text": "get in cash flows from the investment"
+  },
+  {
+    "start": "00:04:05.990",
+    "end": "00:04:08.500",
+    "start_seconds": 245.99,
+    "end_seconds": 248.5,
+    "text": "get in cash flows from the investment but when you get those cash flows that's"
+  },
+  {
+    "start": "00:04:08.500",
+    "end": "00:04:08.510",
+    "start_seconds": 248.5,
+    "end_seconds": 248.51,
+    "text": "but when you get those cash flows that's"
+  },
+  {
+    "start": "00:04:08.510",
+    "end": "00:04:10.660",
+    "start_seconds": 248.51,
+    "end_seconds": 250.66,
+    "text": "but when you get those cash flows that's a discounting a time value story so"
+  },
+  {
+    "start": "00:04:10.660",
+    "end": "00:04:10.670",
+    "start_seconds": 250.66,
+    "end_seconds": 250.67,
+    "text": "a discounting a time value story so"
+  },
+  {
+    "start": "00:04:10.670",
+    "end": "00:04:12.390",
+    "start_seconds": 250.67,
+    "end_seconds": 252.39,
+    "text": "a discounting a time value story so let's talk about the mechanics of"
+  },
+  {
+    "start": "00:04:12.390",
+    "end": "00:04:12.400",
+    "start_seconds": 252.39,
+    "end_seconds": 252.4,
+    "text": "let's talk about the mechanics of"
+  },
+  {
+    "start": "00:04:12.400",
+    "end": "00:04:15.880",
+    "start_seconds": 252.4,
+    "end_seconds": 255.88,
+    "text": "let's talk about the mechanics of converting future cash flows in today"
+  },
+  {
+    "start": "00:04:15.880",
+    "end": "00:04:15.890",
+    "start_seconds": 255.88,
+    "end_seconds": 255.89,
+    "text": "converting future cash flows in today"
+  },
+  {
+    "start": "00:04:15.890",
+    "end": "00:04:19.270",
+    "start_seconds": 255.89,
+    "end_seconds": 259.27,
+    "text": "converting future cash flows in today one of the one of the contraptions that"
+  },
+  {
+    "start": "00:04:19.270",
+    "end": "00:04:19.280",
+    "start_seconds": 259.27,
+    "end_seconds": 259.28,
+    "text": "one of the one of the contraptions that"
+  },
+  {
+    "start": "00:04:19.280",
+    "end": "00:04:21.880",
+    "start_seconds": 259.28,
+    "end_seconds": 261.88,
+    "text": "one of the one of the contraptions that is useful in making this adjustment is"
+  },
+  {
+    "start": "00:04:21.880",
+    "end": "00:04:21.890",
+    "start_seconds": 261.88,
+    "end_seconds": 261.89,
+    "text": "is useful in making this adjustment is"
+  },
+  {
+    "start": "00:04:21.890",
+    "end": "00:04:23.860",
+    "start_seconds": 261.89,
+    "end_seconds": 263.86,
+    "text": "is useful in making this adjustment is what I call a time line sounds fancy"
+  },
+  {
+    "start": "00:04:23.860",
+    "end": "00:04:23.870",
+    "start_seconds": 263.86,
+    "end_seconds": 263.87,
+    "text": "what I call a time line sounds fancy"
+  },
+  {
+    "start": "00:04:23.870",
+    "end": "00:04:25.870",
+    "start_seconds": 263.87,
+    "end_seconds": 265.87,
+    "text": "what I call a time line sounds fancy when the timeline here's what you do you"
+  },
+  {
+    "start": "00:04:25.870",
+    "end": "00:04:25.880",
+    "start_seconds": 265.87,
+    "end_seconds": 265.88,
+    "text": "when the timeline here's what you do you"
+  },
+  {
+    "start": "00:04:25.880",
+    "end": "00:04:28.120",
+    "start_seconds": 265.88,
+    "end_seconds": 268.12,
+    "text": "when the timeline here's what you do you draw time as a line that's why it's"
+  },
+  {
+    "start": "00:04:28.120",
+    "end": "00:04:28.130",
+    "start_seconds": 268.12,
+    "end_seconds": 268.13,
+    "text": "draw time as a line that's why it's"
+  },
+  {
+    "start": "00:04:28.130",
+    "end": "00:04:29.770",
+    "start_seconds": 268.13,
+    "end_seconds": 269.77,
+    "text": "draw time as a line that's why it's called a timeline then you show me what"
+  },
+  {
+    "start": "00:04:29.770",
+    "end": "00:04:29.780",
+    "start_seconds": 269.77,
+    "end_seconds": 269.78,
+    "text": "called a timeline then you show me what"
+  },
+  {
+    "start": "00:04:29.780",
+    "end": "00:04:31.420",
+    "start_seconds": 269.78,
+    "end_seconds": 271.42,
+    "text": "called a timeline then you show me what you will get as cash flows in each point"
+  },
+  {
+    "start": "00:04:31.420",
+    "end": "00:04:31.430",
+    "start_seconds": 271.42,
+    "end_seconds": 271.43,
+    "text": "you will get as cash flows in each point"
+  },
+  {
+    "start": "00:04:31.430",
+    "end": "00:04:33.490",
+    "start_seconds": 271.43,
+    "end_seconds": 273.49,
+    "text": "you will get as cash flows in each point in time so your for instance is a"
+  },
+  {
+    "start": "00:04:33.490",
+    "end": "00:04:33.500",
+    "start_seconds": 273.49,
+    "end_seconds": 273.5,
+    "text": "in time so your for instance is a"
+  },
+  {
+    "start": "00:04:33.500",
+    "end": "00:04:35.770",
+    "start_seconds": 273.5,
+    "end_seconds": 275.77,
+    "text": "in time so your for instance is a timeline of cash flows of a hundred"
+  },
+  {
+    "start": "00:04:35.770",
+    "end": "00:04:35.780",
+    "start_seconds": 275.77,
+    "end_seconds": 275.78,
+    "text": "timeline of cash flows of a hundred"
+  },
+  {
+    "start": "00:04:35.780",
+    "end": "00:04:37.840",
+    "start_seconds": 275.78,
+    "end_seconds": 277.84000000000003,
+    "text": "timeline of cash flows of a hundred dollars in cash flows each year at the"
+  },
+  {
+    "start": "00:04:37.840",
+    "end": "00:04:37.850",
+    "start_seconds": 277.84000000000003,
+    "end_seconds": 277.85,
+    "text": "dollars in cash flows each year at the"
+  },
+  {
+    "start": "00:04:37.850",
+    "end": "00:04:39.520",
+    "start_seconds": 277.85,
+    "end_seconds": 279.52,
+    "text": "dollars in cash flows each year at the end of each year for the next four years"
+  },
+  {
+    "start": "00:04:39.520",
+    "end": "00:04:39.530",
+    "start_seconds": 279.52,
+    "end_seconds": 279.53,
+    "text": "end of each year for the next four years"
+  },
+  {
+    "start": "00:04:39.530",
+    "end": "00:04:41.950",
+    "start_seconds": 279.53,
+    "end_seconds": 281.95,
+    "text": "end of each year for the next four years you're already going to see that when we"
+  },
+  {
+    "start": "00:04:41.950",
+    "end": "00:04:41.960",
+    "start_seconds": 281.95,
+    "end_seconds": 281.96,
+    "text": "you're already going to see that when we"
+  },
+  {
+    "start": "00:04:41.960",
+    "end": "00:04:43.990",
+    "start_seconds": 281.96,
+    "end_seconds": 283.99,
+    "text": "you're already going to see that when we talk about cash flows nearing a year I"
+  },
+  {
+    "start": "00:04:43.990",
+    "end": "00:04:44.000",
+    "start_seconds": 283.99,
+    "end_seconds": 284.0,
+    "text": "talk about cash flows nearing a year I"
+  },
+  {
+    "start": "00:04:44.000",
+    "end": "00:04:45.850",
+    "start_seconds": 284.0,
+    "end_seconds": 285.85,
+    "text": "talk about cash flows nearing a year I need to specify where in the year you"
+  },
+  {
+    "start": "00:04:45.850",
+    "end": "00:04:45.860",
+    "start_seconds": 285.85,
+    "end_seconds": 285.86,
+    "text": "need to specify where in the year you"
+  },
+  {
+    "start": "00:04:45.860",
+    "end": "00:04:47.560",
+    "start_seconds": 285.86,
+    "end_seconds": 287.56,
+    "text": "need to specify where in the year you get those cash flows the start of the"
+  },
+  {
+    "start": "00:04:47.560",
+    "end": "00:04:47.570",
+    "start_seconds": 287.56,
+    "end_seconds": 287.57,
+    "text": "get those cash flows the start of the"
+  },
+  {
+    "start": "00:04:47.570",
+    "end": "00:04:49.330",
+    "start_seconds": 287.57,
+    "end_seconds": 289.33,
+    "text": "get those cash flows the start of the year the middle of the year the end of"
+  },
+  {
+    "start": "00:04:49.330",
+    "end": "00:04:49.340",
+    "start_seconds": 289.33,
+    "end_seconds": 289.34000000000003,
+    "text": "year the middle of the year the end of"
+  },
+  {
+    "start": "00:04:49.340",
+    "end": "00:04:51.640",
+    "start_seconds": 289.34000000000003,
+    "end_seconds": 291.64,
+    "text": "year the middle of the year the end of the year or all through the year in this"
+  },
+  {
+    "start": "00:04:51.640",
+    "end": "00:04:51.650",
+    "start_seconds": 291.64,
+    "end_seconds": 291.65,
+    "text": "the year or all through the year in this"
+  },
+  {
+    "start": "00:04:51.650",
+    "end": "00:04:53.620",
+    "start_seconds": 291.65,
+    "end_seconds": 293.62,
+    "text": "the year or all through the year in this case these are a hundred dollars in cash"
+  },
+  {
+    "start": "00:04:53.620",
+    "end": "00:04:53.630",
+    "start_seconds": 293.62,
+    "end_seconds": 293.63,
+    "text": "case these are a hundred dollars in cash"
+  },
+  {
+    "start": "00:04:53.630",
+    "end": "00:04:55.629",
+    "start_seconds": 293.63,
+    "end_seconds": 295.629,
+    "text": "case these are a hundred dollars in cash flows each year at the end of the next"
+  },
+  {
+    "start": "00:04:55.629",
+    "end": "00:04:55.639",
+    "start_seconds": 295.629,
+    "end_seconds": 295.639,
+    "text": "flows each year at the end of the next"
+  },
+  {
+    "start": "00:04:55.639",
+    "end": "00:04:56.550",
+    "start_seconds": 295.639,
+    "end_seconds": 296.55,
+    "text": "flows each year at the end of the next four years"
+  },
+  {
+    "start": "00:04:56.550",
+    "end": "00:04:56.560",
+    "start_seconds": 296.55,
+    "end_seconds": 296.56,
+    "text": "four years"
+  },
+  {
+    "start": "00:04:56.560",
+    "end": "00:04:59.379",
+    "start_seconds": 296.56,
+    "end_seconds": 299.379,
+    "text": "four years that's called an annuity and that will"
+  },
+  {
+    "start": "00:04:59.379",
+    "end": "00:04:59.389",
+    "start_seconds": 299.379,
+    "end_seconds": 299.389,
+    "text": "that's called an annuity and that will"
+  },
+  {
+    "start": "00:04:59.389",
+    "end": "00:05:01.540",
+    "start_seconds": 299.389,
+    "end_seconds": 301.54,
+    "text": "that's called an annuity and that will let me then use the mechanism I have"
+  },
+  {
+    "start": "00:05:01.540",
+    "end": "00:05:01.550",
+    "start_seconds": 301.54,
+    "end_seconds": 301.55,
+    "text": "let me then use the mechanism I have"
+  },
+  {
+    "start": "00:05:01.550",
+    "end": "00:05:03.580",
+    "start_seconds": 301.55,
+    "end_seconds": 303.58,
+    "text": "let me then use the mechanism I have converting annuities into present value"
+  },
+  {
+    "start": "00:05:03.580",
+    "end": "00:05:03.590",
+    "start_seconds": 303.58,
+    "end_seconds": 303.59,
+    "text": "converting annuities into present value"
+  },
+  {
+    "start": "00:05:03.590",
+    "end": "00:05:05.980",
+    "start_seconds": 303.59,
+    "end_seconds": 305.98,
+    "text": "converting annuities into present value so with that set up let's talk about the"
+  },
+  {
+    "start": "00:05:05.980",
+    "end": "00:05:05.990",
+    "start_seconds": 305.98,
+    "end_seconds": 305.99,
+    "text": "so with that set up let's talk about the"
+  },
+  {
+    "start": "00:05:05.990",
+    "end": "00:05:08.500",
+    "start_seconds": 305.99,
+    "end_seconds": 308.5,
+    "text": "so with that set up let's talk about the five types of cash flows that you might"
+  },
+  {
+    "start": "00:05:08.500",
+    "end": "00:05:08.510",
+    "start_seconds": 308.5,
+    "end_seconds": 308.51,
+    "text": "five types of cash flows that you might"
+  },
+  {
+    "start": "00:05:08.510",
+    "end": "00:05:10.960",
+    "start_seconds": 308.51,
+    "end_seconds": 310.96,
+    "text": "five types of cash flows that you might have to deal with you know in fact every"
+  },
+  {
+    "start": "00:05:10.960",
+    "end": "00:05:10.970",
+    "start_seconds": 310.96,
+    "end_seconds": 310.97,
+    "text": "have to deal with you know in fact every"
+  },
+  {
+    "start": "00:05:10.970",
+    "end": "00:05:12.400",
+    "start_seconds": 310.97,
+    "end_seconds": 312.4,
+    "text": "have to deal with you know in fact every cash flow in Finance I'm gonna argue"
+  },
+  {
+    "start": "00:05:12.400",
+    "end": "00:05:12.410",
+    "start_seconds": 312.4,
+    "end_seconds": 312.41,
+    "text": "cash flow in Finance I'm gonna argue"
+  },
+  {
+    "start": "00:05:12.410",
+    "end": "00:05:14.800",
+    "start_seconds": 312.41,
+    "end_seconds": 314.8,
+    "text": "cash flow in Finance I'm gonna argue some combination of these five types of"
+  },
+  {
+    "start": "00:05:14.800",
+    "end": "00:05:14.810",
+    "start_seconds": 314.8,
+    "end_seconds": 314.81,
+    "text": "some combination of these five types of"
+  },
+  {
+    "start": "00:05:14.810",
+    "end": "00:05:17.050",
+    "start_seconds": 314.81,
+    "end_seconds": 317.05,
+    "text": "some combination of these five types of cash flows the first is a simple cash"
+  },
+  {
+    "start": "00:05:17.050",
+    "end": "00:05:17.060",
+    "start_seconds": 317.05,
+    "end_seconds": 317.06,
+    "text": "cash flows the first is a simple cash"
+  },
+  {
+    "start": "00:05:17.060",
+    "end": "00:05:18.939",
+    "start_seconds": 317.06,
+    "end_seconds": 318.939,
+    "text": "cash flows the first is a simple cash flow what's a simple cash flow I offer"
+  },
+  {
+    "start": "00:05:18.939",
+    "end": "00:05:18.949",
+    "start_seconds": 318.939,
+    "end_seconds": 318.949,
+    "text": "flow what's a simple cash flow I offer"
+  },
+  {
+    "start": "00:05:18.949",
+    "end": "00:05:20.860",
+    "start_seconds": 318.949,
+    "end_seconds": 320.86,
+    "text": "flow what's a simple cash flow I offer to pay you ten million dollars ten years"
+  },
+  {
+    "start": "00:05:20.860",
+    "end": "00:05:20.870",
+    "start_seconds": 320.86,
+    "end_seconds": 320.87,
+    "text": "to pay you ten million dollars ten years"
+  },
+  {
+    "start": "00:05:20.870",
+    "end": "00:05:22.779",
+    "start_seconds": 320.87,
+    "end_seconds": 322.779,
+    "text": "to pay you ten million dollars ten years from now that's a single cash flow in"
+  },
+  {
+    "start": "00:05:22.779",
+    "end": "00:05:22.789",
+    "start_seconds": 322.779,
+    "end_seconds": 322.789,
+    "text": "from now that's a single cash flow in"
+  },
+  {
+    "start": "00:05:22.789",
+    "end": "00:05:25.029",
+    "start_seconds": 322.789,
+    "end_seconds": 325.029,
+    "text": "from now that's a single cash flow in the future simple cash flow then we're"
+  },
+  {
+    "start": "00:05:25.029",
+    "end": "00:05:25.039",
+    "start_seconds": 325.029,
+    "end_seconds": 325.039,
+    "text": "the future simple cash flow then we're"
+  },
+  {
+    "start": "00:05:25.039",
+    "end": "00:05:26.680",
+    "start_seconds": 325.039,
+    "end_seconds": 326.68,
+    "text": "the future simple cash flow then we're going to talk about annuities annuities"
+  },
+  {
+    "start": "00:05:26.680",
+    "end": "00:05:26.690",
+    "start_seconds": 326.68,
+    "end_seconds": 326.69,
+    "text": "going to talk about annuities annuities"
+  },
+  {
+    "start": "00:05:26.690",
+    "end": "00:05:28.990",
+    "start_seconds": 326.69,
+    "end_seconds": 328.99,
+    "text": "going to talk about annuities annuities are constant cash flows that occur at"
+  },
+  {
+    "start": "00:05:28.990",
+    "end": "00:05:29.000",
+    "start_seconds": 328.99,
+    "end_seconds": 329.0,
+    "text": "are constant cash flows that occur at"
+  },
+  {
+    "start": "00:05:29.000",
+    "end": "00:05:31.360",
+    "start_seconds": 329.0,
+    "end_seconds": 331.36,
+    "text": "are constant cash flows that occur at regular intervals a hundred dollars here"
+  },
+  {
+    "start": "00:05:31.360",
+    "end": "00:05:31.370",
+    "start_seconds": 331.36,
+    "end_seconds": 331.37,
+    "text": "regular intervals a hundred dollars here"
+  },
+  {
+    "start": "00:05:31.370",
+    "end": "00:05:33.250",
+    "start_seconds": 331.37,
+    "end_seconds": 333.25,
+    "text": "regular intervals a hundred dollars here every year for the next five years is an"
+  },
+  {
+    "start": "00:05:33.250",
+    "end": "00:05:33.260",
+    "start_seconds": 333.25,
+    "end_seconds": 333.26,
+    "text": "every year for the next five years is an"
+  },
+  {
+    "start": "00:05:33.260",
+    "end": "00:05:35.469",
+    "start_seconds": 333.26,
+    "end_seconds": 335.469,
+    "text": "every year for the next five years is an annuity sixty dollars a month every"
+  },
+  {
+    "start": "00:05:35.469",
+    "end": "00:05:35.479",
+    "start_seconds": 335.469,
+    "end_seconds": 335.479,
+    "text": "annuity sixty dollars a month every"
+  },
+  {
+    "start": "00:05:35.479",
+    "end": "00:05:37.420",
+    "start_seconds": 335.479,
+    "end_seconds": 337.42,
+    "text": "annuity sixty dollars a month every month for the next 24 months is an"
+  },
+  {
+    "start": "00:05:37.420",
+    "end": "00:05:37.430",
+    "start_seconds": 337.42,
+    "end_seconds": 337.43,
+    "text": "month for the next 24 months is an"
+  },
+  {
+    "start": "00:05:37.430",
+    "end": "00:05:40.120",
+    "start_seconds": 337.43,
+    "end_seconds": 340.12,
+    "text": "month for the next 24 months is an annuity the third is a growing annuity"
+  },
+  {
+    "start": "00:05:40.120",
+    "end": "00:05:40.130",
+    "start_seconds": 340.12,
+    "end_seconds": 340.13,
+    "text": "annuity the third is a growing annuity"
+  },
+  {
+    "start": "00:05:40.130",
+    "end": "00:05:42.400",
+    "start_seconds": 340.13,
+    "end_seconds": 342.4,
+    "text": "annuity the third is a growing annuity that's a little more daunting but here's"
+  },
+  {
+    "start": "00:05:42.400",
+    "end": "00:05:42.410",
+    "start_seconds": 342.4,
+    "end_seconds": 342.40999999999997,
+    "text": "that's a little more daunting but here's"
+  },
+  {
+    "start": "00:05:42.410",
+    "end": "00:05:43.750",
+    "start_seconds": 342.40999999999997,
+    "end_seconds": 343.75,
+    "text": "that's a little more daunting but here's what the growing annuity would look like"
+  },
+  {
+    "start": "00:05:43.750",
+    "end": "00:05:43.760",
+    "start_seconds": 343.75,
+    "end_seconds": 343.76,
+    "text": "what the growing annuity would look like"
+  },
+  {
+    "start": "00:05:43.760",
+    "end": "00:05:46.029",
+    "start_seconds": 343.76,
+    "end_seconds": 346.029,
+    "text": "what the growing annuity would look like a hundred dollars growing at five"
+  },
+  {
+    "start": "00:05:46.029",
+    "end": "00:05:46.039",
+    "start_seconds": 346.029,
+    "end_seconds": 346.039,
+    "text": "a hundred dollars growing at five"
+  },
+  {
+    "start": "00:05:46.039",
+    "end": "00:05:47.950",
+    "start_seconds": 346.039,
+    "end_seconds": 347.95,
+    "text": "a hundred dollars growing at five percent a year every year for the next"
+  },
+  {
+    "start": "00:05:47.950",
+    "end": "00:05:47.960",
+    "start_seconds": 347.95,
+    "end_seconds": 347.96,
+    "text": "percent a year every year for the next"
+  },
+  {
+    "start": "00:05:47.960",
+    "end": "00:05:49.960",
+    "start_seconds": 347.96,
+    "end_seconds": 349.96,
+    "text": "percent a year every year for the next 25 years so next I get a hundred and"
+  },
+  {
+    "start": "00:05:49.960",
+    "end": "00:05:49.970",
+    "start_seconds": 349.96,
+    "end_seconds": 349.97,
+    "text": "25 years so next I get a hundred and"
+  },
+  {
+    "start": "00:05:49.970",
+    "end": "00:05:51.279",
+    "start_seconds": 349.97,
+    "end_seconds": 351.279,
+    "text": "25 years so next I get a hundred and five the year after I get a hundred"
+  },
+  {
+    "start": "00:05:51.279",
+    "end": "00:05:51.289",
+    "start_seconds": 351.279,
+    "end_seconds": 351.289,
+    "text": "five the year after I get a hundred"
+  },
+  {
+    "start": "00:05:51.289",
+    "end": "00:05:53.200",
+    "start_seconds": 351.289,
+    "end_seconds": 353.2,
+    "text": "five the year after I get a hundred eleven and a five percent growth rate"
+  },
+  {
+    "start": "00:05:53.200",
+    "end": "00:05:53.210",
+    "start_seconds": 353.2,
+    "end_seconds": 353.21,
+    "text": "eleven and a five percent growth rate"
+  },
+  {
+    "start": "00:05:53.210",
+    "end": "00:05:54.670",
+    "start_seconds": 353.21,
+    "end_seconds": 354.67,
+    "text": "eleven and a five percent growth rate every year for the next twenty five"
+  },
+  {
+    "start": "00:05:54.670",
+    "end": "00:05:54.680",
+    "start_seconds": 354.67,
+    "end_seconds": 354.68,
+    "text": "every year for the next twenty five"
+  },
+  {
+    "start": "00:05:54.680",
+    "end": "00:05:55.029",
+    "start_seconds": 354.68,
+    "end_seconds": 355.029,
+    "text": "every year for the next twenty five years"
+  },
+  {
+    "start": "00:05:55.029",
+    "end": "00:05:55.039",
+    "start_seconds": 355.029,
+    "end_seconds": 355.039,
+    "text": "years"
+  },
+  {
+    "start": "00:05:55.039",
+    "end": "00:05:56.890",
+    "start_seconds": 355.039,
+    "end_seconds": 356.89,
+    "text": "years that's called a growing annuity and then"
+  },
+  {
+    "start": "00:05:56.890",
+    "end": "00:05:56.900",
+    "start_seconds": 356.89,
+    "end_seconds": 356.9,
+    "text": "that's called a growing annuity and then"
+  },
+  {
+    "start": "00:05:56.900",
+    "end": "00:05:58.390",
+    "start_seconds": 356.9,
+    "end_seconds": 358.39,
+    "text": "that's called a growing annuity and then you get to two measures of cash flows"
+  },
+  {
+    "start": "00:05:58.390",
+    "end": "00:05:58.400",
+    "start_seconds": 358.39,
+    "end_seconds": 358.4,
+    "text": "you get to two measures of cash flows"
+  },
+  {
+    "start": "00:05:58.400",
+    "end": "00:06:00.580",
+    "start_seconds": 358.4,
+    "end_seconds": 360.58,
+    "text": "you get to two measures of cash flows that are truly mind-blowing the first is"
+  },
+  {
+    "start": "00:06:00.580",
+    "end": "00:06:00.590",
+    "start_seconds": 360.58,
+    "end_seconds": 360.59,
+    "text": "that are truly mind-blowing the first is"
+  },
+  {
+    "start": "00:06:00.590",
+    "end": "00:06:03.580",
+    "start_seconds": 360.59,
+    "end_seconds": 363.58,
+    "text": "that are truly mind-blowing the first is a perpetuity a cash flow constant cash"
+  },
+  {
+    "start": "00:06:03.580",
+    "end": "00:06:03.590",
+    "start_seconds": 363.58,
+    "end_seconds": 363.59,
+    "text": "a perpetuity a cash flow constant cash"
+  },
+  {
+    "start": "00:06:03.590",
+    "end": "00:06:05.980",
+    "start_seconds": 363.59,
+    "end_seconds": 365.98,
+    "text": "a perpetuity a cash flow constant cash flow regular intervals for the rest of"
+  },
+  {
+    "start": "00:06:05.980",
+    "end": "00:06:05.990",
+    "start_seconds": 365.98,
+    "end_seconds": 365.99,
+    "text": "flow regular intervals for the rest of"
+  },
+  {
+    "start": "00:06:05.990",
+    "end": "00:06:07.180",
+    "start_seconds": 365.99,
+    "end_seconds": 367.18,
+    "text": "flow regular intervals for the rest of eternity forever"
+  },
+  {
+    "start": "00:06:07.180",
+    "end": "00:06:07.190",
+    "start_seconds": 367.18,
+    "end_seconds": 367.19,
+    "text": "eternity forever"
+  },
+  {
+    "start": "00:06:07.190",
+    "end": "00:06:09.279",
+    "start_seconds": 367.19,
+    "end_seconds": 369.279,
+    "text": "eternity forever that's a perpetuity a hundred dollars"
+  },
+  {
+    "start": "00:06:09.279",
+    "end": "00:06:09.289",
+    "start_seconds": 369.279,
+    "end_seconds": 369.289,
+    "text": "that's a perpetuity a hundred dollars"
+  },
+  {
+    "start": "00:06:09.289",
+    "end": "00:06:11.589",
+    "start_seconds": 369.289,
+    "end_seconds": 371.589,
+    "text": "that's a perpetuity a hundred dollars every year forever the second is a"
+  },
+  {
+    "start": "00:06:11.589",
+    "end": "00:06:11.599",
+    "start_seconds": 371.589,
+    "end_seconds": 371.599,
+    "text": "every year forever the second is a"
+  },
+  {
+    "start": "00:06:11.599",
+    "end": "00:06:13.779",
+    "start_seconds": 371.599,
+    "end_seconds": 373.779,
+    "text": "every year forever the second is a growing perpetuity a hundred dollars"
+  },
+  {
+    "start": "00:06:13.779",
+    "end": "00:06:13.789",
+    "start_seconds": 373.779,
+    "end_seconds": 373.789,
+    "text": "growing perpetuity a hundred dollars"
+  },
+  {
+    "start": "00:06:13.789",
+    "end": "00:06:16.480",
+    "start_seconds": 373.789,
+    "end_seconds": 376.48,
+    "text": "growing perpetuity a hundred dollars growing at 2% a year every year forever"
+  },
+  {
+    "start": "00:06:16.480",
+    "end": "00:06:16.490",
+    "start_seconds": 376.48,
+    "end_seconds": 376.49,
+    "text": "growing at 2% a year every year forever"
+  },
+  {
+    "start": "00:06:16.490",
+    "end": "00:06:19.600",
+    "start_seconds": 376.49,
+    "end_seconds": 379.6,
+    "text": "growing at 2% a year every year forever is a growing perpetuity I'm going to"
+  },
+  {
+    "start": "00:06:19.600",
+    "end": "00:06:19.610",
+    "start_seconds": 379.6,
+    "end_seconds": 379.61,
+    "text": "is a growing perpetuity I'm going to"
+  },
+  {
+    "start": "00:06:19.610",
+    "end": "00:06:21.909",
+    "start_seconds": 379.61,
+    "end_seconds": 381.909,
+    "text": "is a growing perpetuity I'm going to talk about present value equations that"
+  },
+  {
+    "start": "00:06:21.909",
+    "end": "00:06:21.919",
+    "start_seconds": 381.909,
+    "end_seconds": 381.919,
+    "text": "talk about present value equations that"
+  },
+  {
+    "start": "00:06:21.919",
+    "end": "00:06:23.620",
+    "start_seconds": 381.919,
+    "end_seconds": 383.62,
+    "text": "talk about present value equations that work with each of these cash flows and"
+  },
+  {
+    "start": "00:06:23.620",
+    "end": "00:06:23.630",
+    "start_seconds": 383.62,
+    "end_seconds": 383.63,
+    "text": "work with each of these cash flows and"
+  },
+  {
+    "start": "00:06:23.630",
+    "end": "00:06:25.089",
+    "start_seconds": 383.63,
+    "end_seconds": 385.089,
+    "text": "work with each of these cash flows and as I talk about them you're probably"
+  },
+  {
+    "start": "00:06:25.089",
+    "end": "00:06:25.099",
+    "start_seconds": 385.089,
+    "end_seconds": 385.099,
+    "text": "as I talk about them you're probably"
+  },
+  {
+    "start": "00:06:25.099",
+    "end": "00:06:27.250",
+    "start_seconds": 385.099,
+    "end_seconds": 387.25,
+    "text": "as I talk about them you're probably gonna wonder why I'm wasting my time"
+  },
+  {
+    "start": "00:06:27.250",
+    "end": "00:06:27.260",
+    "start_seconds": 387.25,
+    "end_seconds": 387.26,
+    "text": "gonna wonder why I'm wasting my time"
+  },
+  {
+    "start": "00:06:27.260",
+    "end": "00:06:28.719",
+    "start_seconds": 387.26,
+    "end_seconds": 388.719,
+    "text": "gonna wonder why I'm wasting my time because you have a present value"
+  },
+  {
+    "start": "00:06:28.719",
+    "end": "00:06:28.729",
+    "start_seconds": 388.719,
+    "end_seconds": 388.729,
+    "text": "because you have a present value"
+  },
+  {
+    "start": "00:06:28.729",
+    "end": "00:06:30.279",
+    "start_seconds": 388.729,
+    "end_seconds": 390.279,
+    "text": "because you have a present value function in your calculator and it's"
+  },
+  {
+    "start": "00:06:30.279",
+    "end": "00:06:30.289",
+    "start_seconds": 390.279,
+    "end_seconds": 390.289,
+    "text": "function in your calculator and it's"
+  },
+  {
+    "start": "00:06:30.289",
+    "end": "00:06:33.339",
+    "start_seconds": 390.289,
+    "end_seconds": 393.339,
+    "text": "function in your calculator and it's true many people no longer use these"
+  },
+  {
+    "start": "00:06:33.339",
+    "end": "00:06:33.349",
+    "start_seconds": 393.339,
+    "end_seconds": 393.349,
+    "text": "true many people no longer use these"
+  },
+  {
+    "start": "00:06:33.349",
+    "end": "00:06:35.200",
+    "start_seconds": 393.349,
+    "end_seconds": 395.2,
+    "text": "true many people no longer use these equations to compute present values"
+  },
+  {
+    "start": "00:06:35.200",
+    "end": "00:06:35.210",
+    "start_seconds": 395.2,
+    "end_seconds": 395.21,
+    "text": "equations to compute present values"
+  },
+  {
+    "start": "00:06:35.210",
+    "end": "00:06:36.399",
+    "start_seconds": 395.21,
+    "end_seconds": 396.399,
+    "text": "equations to compute present values because it's already"
+  },
+  {
+    "start": "00:06:36.399",
+    "end": "00:06:36.409",
+    "start_seconds": 396.399,
+    "end_seconds": 396.409,
+    "text": "because it's already"
+  },
+  {
+    "start": "00:06:36.409",
+    "end": "00:06:38.979",
+    "start_seconds": 396.409,
+    "end_seconds": 398.979,
+    "text": "because it's already later but I would suggest that you try"
+  },
+  {
+    "start": "00:06:38.979",
+    "end": "00:06:38.989",
+    "start_seconds": 398.979,
+    "end_seconds": 398.989,
+    "text": "later but I would suggest that you try"
+  },
+  {
+    "start": "00:06:38.989",
+    "end": "00:06:40.359",
+    "start_seconds": 398.989,
+    "end_seconds": 400.359,
+    "text": "later but I would suggest that you try these equations at least once or twice"
+  },
+  {
+    "start": "00:06:40.359",
+    "end": "00:06:40.369",
+    "start_seconds": 400.359,
+    "end_seconds": 400.369,
+    "text": "these equations at least once or twice"
+  },
+  {
+    "start": "00:06:40.369",
+    "end": "00:06:42.850",
+    "start_seconds": 400.369,
+    "end_seconds": 402.85,
+    "text": "these equations at least once or twice to see what's behind that PV button on"
+  },
+  {
+    "start": "00:06:42.850",
+    "end": "00:06:42.860",
+    "start_seconds": 402.85,
+    "end_seconds": 402.86,
+    "text": "to see what's behind that PV button on"
+  },
+  {
+    "start": "00:06:42.860",
+    "end": "00:06:44.589",
+    "start_seconds": 402.86,
+    "end_seconds": 404.589,
+    "text": "to see what's behind that PV button on your calculator so let's start with a"
+  },
+  {
+    "start": "00:06:44.589",
+    "end": "00:06:44.599",
+    "start_seconds": 404.589,
+    "end_seconds": 404.599,
+    "text": "your calculator so let's start with a"
+  },
+  {
+    "start": "00:06:44.599",
+    "end": "00:06:46.629",
+    "start_seconds": 404.599,
+    "end_seconds": 406.629,
+    "text": "your calculator so let's start with a simple cash flow you tell me you're"
+  },
+  {
+    "start": "00:06:46.629",
+    "end": "00:06:46.639",
+    "start_seconds": 406.629,
+    "end_seconds": 406.639,
+    "text": "simple cash flow you tell me you're"
+  },
+  {
+    "start": "00:06:46.639",
+    "end": "00:06:49.059",
+    "start_seconds": 406.639,
+    "end_seconds": 409.05899999999997,
+    "text": "simple cash flow you tell me you're gonna pay to pay me 10 million 10 years"
+  },
+  {
+    "start": "00:06:49.059",
+    "end": "00:06:49.069",
+    "start_seconds": 409.05899999999997,
+    "end_seconds": 409.069,
+    "text": "gonna pay to pay me 10 million 10 years"
+  },
+  {
+    "start": "00:06:49.069",
+    "end": "00:06:51.249",
+    "start_seconds": 409.069,
+    "end_seconds": 411.249,
+    "text": "gonna pay to pay me 10 million 10 years from now you ask me how much is it worth"
+  },
+  {
+    "start": "00:06:51.249",
+    "end": "00:06:51.259",
+    "start_seconds": 411.249,
+    "end_seconds": 411.259,
+    "text": "from now you ask me how much is it worth"
+  },
+  {
+    "start": "00:06:51.259",
+    "end": "00:06:53.529",
+    "start_seconds": 411.259,
+    "end_seconds": 413.529,
+    "text": "from now you ask me how much is it worth today here's what I need to do I'll take"
+  },
+  {
+    "start": "00:06:53.529",
+    "end": "00:06:53.539",
+    "start_seconds": 413.529,
+    "end_seconds": 413.539,
+    "text": "today here's what I need to do I'll take"
+  },
+  {
+    "start": "00:06:53.539",
+    "end": "00:06:55.929",
+    "start_seconds": 413.539,
+    "end_seconds": 415.929,
+    "text": "today here's what I need to do I'll take the 10 million and I'll discount it back"
+  },
+  {
+    "start": "00:06:55.929",
+    "end": "00:06:55.939",
+    "start_seconds": 415.929,
+    "end_seconds": 415.939,
+    "text": "the 10 million and I'll discount it back"
+  },
+  {
+    "start": "00:06:55.939",
+    "end": "00:06:58.989",
+    "start_seconds": 415.939,
+    "end_seconds": 418.989,
+    "text": "the 10 million and I'll discount it back to today at whatever your rate of return"
+  },
+  {
+    "start": "00:06:58.989",
+    "end": "00:06:58.999",
+    "start_seconds": 418.989,
+    "end_seconds": 418.999,
+    "text": "to today at whatever your rate of return"
+  },
+  {
+    "start": "00:06:58.999",
+    "end": "00:07:00.579",
+    "start_seconds": 418.999,
+    "end_seconds": 420.579,
+    "text": "to today at whatever your rate of return is whatever discount rate yeah so let's"
+  },
+  {
+    "start": "00:07:00.579",
+    "end": "00:07:00.589",
+    "start_seconds": 420.579,
+    "end_seconds": 420.589,
+    "text": "is whatever discount rate yeah so let's"
+  },
+  {
+    "start": "00:07:00.589",
+    "end": "00:07:02.169",
+    "start_seconds": 420.589,
+    "end_seconds": 422.169,
+    "text": "is whatever discount rate yeah so let's assume that your discount rate is 8%"
+  },
+  {
+    "start": "00:07:02.169",
+    "end": "00:07:02.179",
+    "start_seconds": 422.169,
+    "end_seconds": 422.179,
+    "text": "assume that your discount rate is 8%"
+  },
+  {
+    "start": "00:07:02.179",
+    "end": "00:07:04.779",
+    "start_seconds": 422.179,
+    "end_seconds": 424.779,
+    "text": "assume that your discount rate is 8% that includes your payment for president"
+  },
+  {
+    "start": "00:07:04.779",
+    "end": "00:07:04.789",
+    "start_seconds": 424.779,
+    "end_seconds": 424.789,
+    "text": "that includes your payment for president"
+  },
+  {
+    "start": "00:07:04.789",
+    "end": "00:07:07.059",
+    "start_seconds": 424.789,
+    "end_seconds": 427.059,
+    "text": "that includes your payment for president for giving up current consumption you're"
+  },
+  {
+    "start": "00:07:07.059",
+    "end": "00:07:07.069",
+    "start_seconds": 427.059,
+    "end_seconds": 427.069,
+    "text": "for giving up current consumption you're"
+  },
+  {
+    "start": "00:07:07.069",
+    "end": "00:07:09.669",
+    "start_seconds": 427.069,
+    "end_seconds": 429.669,
+    "text": "for giving up current consumption you're dealing with inflation and and risk"
+  },
+  {
+    "start": "00:07:09.669",
+    "end": "00:07:09.679",
+    "start_seconds": 429.669,
+    "end_seconds": 429.679,
+    "text": "dealing with inflation and and risk"
+  },
+  {
+    "start": "00:07:09.679",
+    "end": "00:07:12.219",
+    "start_seconds": 429.679,
+    "end_seconds": 432.219,
+    "text": "dealing with inflation and and risk they're all in there I will take the 10"
+  },
+  {
+    "start": "00:07:12.219",
+    "end": "00:07:12.229",
+    "start_seconds": 432.219,
+    "end_seconds": 432.229,
+    "text": "they're all in there I will take the 10"
+  },
+  {
+    "start": "00:07:12.229",
+    "end": "00:07:14.469",
+    "start_seconds": 432.229,
+    "end_seconds": 434.469,
+    "text": "they're all in there I will take the 10 million and now we'll divide by 1.08"
+  },
+  {
+    "start": "00:07:14.469",
+    "end": "00:07:14.479",
+    "start_seconds": 434.469,
+    "end_seconds": 434.479,
+    "text": "million and now we'll divide by 1.08"
+  },
+  {
+    "start": "00:07:14.479",
+    "end": "00:07:16.809",
+    "start_seconds": 434.479,
+    "end_seconds": 436.809,
+    "text": "million and now we'll divide by 1.08 that's the 8% convert into it into it"
+  },
+  {
+    "start": "00:07:16.809",
+    "end": "00:07:16.819",
+    "start_seconds": 436.809,
+    "end_seconds": 436.819,
+    "text": "that's the 8% convert into it into it"
+  },
+  {
+    "start": "00:07:16.819",
+    "end": "00:07:19.509",
+    "start_seconds": 436.819,
+    "end_seconds": 439.509,
+    "text": "that's the 8% convert into it into it into a 1 plus R raised to the power 10"
+  },
+  {
+    "start": "00:07:19.509",
+    "end": "00:07:19.519",
+    "start_seconds": 439.509,
+    "end_seconds": 439.519,
+    "text": "into a 1 plus R raised to the power 10"
+  },
+  {
+    "start": "00:07:19.519",
+    "end": "00:07:21.219",
+    "start_seconds": 439.519,
+    "end_seconds": 441.219,
+    "text": "into a 1 plus R raised to the power 10 what I get is a present value will be"
+  },
+  {
+    "start": "00:07:21.219",
+    "end": "00:07:21.229",
+    "start_seconds": 441.219,
+    "end_seconds": 441.229,
+    "text": "what I get is a present value will be"
+  },
+  {
+    "start": "00:07:21.229",
+    "end": "00:07:23.979",
+    "start_seconds": 441.229,
+    "end_seconds": 443.979,
+    "text": "what I get is a present value will be well below 10 million if I want to take"
+  },
+  {
+    "start": "00:07:23.979",
+    "end": "00:07:23.989",
+    "start_seconds": 443.979,
+    "end_seconds": 443.989,
+    "text": "well below 10 million if I want to take"
+  },
+  {
+    "start": "00:07:23.989",
+    "end": "00:07:25.600",
+    "start_seconds": 443.989,
+    "end_seconds": 445.6,
+    "text": "well below 10 million if I want to take 10 million today and move it into the"
+  },
+  {
+    "start": "00:07:25.600",
+    "end": "00:07:25.610",
+    "start_seconds": 445.6,
+    "end_seconds": 445.61,
+    "text": "10 million today and move it into the"
+  },
+  {
+    "start": "00:07:25.610",
+    "end": "00:07:27.159",
+    "start_seconds": 445.61,
+    "end_seconds": 447.159,
+    "text": "10 million today and move it into the future I will do the reverse I would"
+  },
+  {
+    "start": "00:07:27.159",
+    "end": "00:07:27.169",
+    "start_seconds": 447.159,
+    "end_seconds": 447.169,
+    "text": "future I will do the reverse I would"
+  },
+  {
+    "start": "00:07:27.169",
+    "end": "00:07:29.769",
+    "start_seconds": 447.169,
+    "end_seconds": 449.769,
+    "text": "future I will do the reverse I would take the 10 million and multiply by 1.08"
+  },
+  {
+    "start": "00:07:29.769",
+    "end": "00:07:29.779",
+    "start_seconds": 449.769,
+    "end_seconds": 449.779,
+    "text": "take the 10 million and multiply by 1.08"
+  },
+  {
+    "start": "00:07:29.779",
+    "end": "00:07:32.350",
+    "start_seconds": 449.779,
+    "end_seconds": 452.35,
+    "text": "take the 10 million and multiply by 1.08 raised to power 10 as simple as that"
+  },
+  {
+    "start": "00:07:32.350",
+    "end": "00:07:32.360",
+    "start_seconds": 452.35,
+    "end_seconds": 452.36,
+    "text": "raised to power 10 as simple as that"
+  },
+  {
+    "start": "00:07:32.360",
+    "end": "00:07:35.529",
+    "start_seconds": 452.36,
+    "end_seconds": 455.529,
+    "text": "raised to power 10 as simple as that let's move on to something about cash"
+  },
+  {
+    "start": "00:07:35.529",
+    "end": "00:07:35.539",
+    "start_seconds": 455.529,
+    "end_seconds": 455.539,
+    "text": "let's move on to something about cash"
+  },
+  {
+    "start": "00:07:35.539",
+    "end": "00:07:37.179",
+    "start_seconds": 455.539,
+    "end_seconds": 457.179,
+    "text": "let's move on to something about cash flows that we talk about all the time"
+  },
+  {
+    "start": "00:07:37.179",
+    "end": "00:07:37.189",
+    "start_seconds": 457.179,
+    "end_seconds": 457.189,
+    "text": "flows that we talk about all the time"
+  },
+  {
+    "start": "00:07:37.189",
+    "end": "00:07:39.790",
+    "start_seconds": 457.189,
+    "end_seconds": 459.79,
+    "text": "flows that we talk about all the time but we really don't grasp we talk about"
+  },
+  {
+    "start": "00:07:39.790",
+    "end": "00:07:39.800",
+    "start_seconds": 459.79,
+    "end_seconds": 459.8,
+    "text": "but we really don't grasp we talk about"
+  },
+  {
+    "start": "00:07:39.800",
+    "end": "00:07:42.009",
+    "start_seconds": 459.8,
+    "end_seconds": 462.009,
+    "text": "but we really don't grasp we talk about the power of compounding and discounting"
+  },
+  {
+    "start": "00:07:42.009",
+    "end": "00:07:42.019",
+    "start_seconds": 462.009,
+    "end_seconds": 462.019,
+    "text": "the power of compounding and discounting"
+  },
+  {
+    "start": "00:07:42.019",
+    "end": "00:07:43.749",
+    "start_seconds": 462.019,
+    "end_seconds": 463.749,
+    "text": "the power of compounding and discounting but until you actually see the numbers"
+  },
+  {
+    "start": "00:07:43.749",
+    "end": "00:07:43.759",
+    "start_seconds": 463.749,
+    "end_seconds": 463.759,
+    "text": "but until you actually see the numbers"
+  },
+  {
+    "start": "00:07:43.759",
+    "end": "00:07:45.699",
+    "start_seconds": 463.759,
+    "end_seconds": 465.699,
+    "text": "but until you actually see the numbers I'm gonna have argue that his role"
+  },
+  {
+    "start": "00:07:45.699",
+    "end": "00:07:45.709",
+    "start_seconds": 465.699,
+    "end_seconds": 465.709,
+    "text": "I'm gonna have argue that his role"
+  },
+  {
+    "start": "00:07:45.709",
+    "end": "00:07:47.589",
+    "start_seconds": 465.709,
+    "end_seconds": 467.589,
+    "text": "I'm gonna have argue that his role really will not capture that powerful"
+  },
+  {
+    "start": "00:07:47.589",
+    "end": "00:07:47.599",
+    "start_seconds": 467.589,
+    "end_seconds": 467.599,
+    "text": "really will not capture that powerful"
+  },
+  {
+    "start": "00:07:47.599",
+    "end": "00:07:49.989",
+    "start_seconds": 467.599,
+    "end_seconds": 469.989,
+    "text": "really will not capture that powerful may give you an example you have a"
+  },
+  {
+    "start": "00:07:49.989",
+    "end": "00:07:49.999",
+    "start_seconds": 469.989,
+    "end_seconds": 469.999,
+    "text": "may give you an example you have a"
+  },
+  {
+    "start": "00:07:49.999",
+    "end": "00:07:51.639",
+    "start_seconds": 469.999,
+    "end_seconds": 471.639,
+    "text": "may give you an example you have a hundred million dollars in revenues"
+  },
+  {
+    "start": "00:07:51.639",
+    "end": "00:07:51.649",
+    "start_seconds": 471.639,
+    "end_seconds": 471.649,
+    "text": "hundred million dollars in revenues"
+  },
+  {
+    "start": "00:07:51.649",
+    "end": "00:07:54.249",
+    "start_seconds": 471.649,
+    "end_seconds": 474.249,
+    "text": "hundred million dollars in revenues right now let's assume you project out a"
+  },
+  {
+    "start": "00:07:54.249",
+    "end": "00:07:54.259",
+    "start_seconds": 474.249,
+    "end_seconds": 474.259,
+    "text": "right now let's assume you project out a"
+  },
+  {
+    "start": "00:07:54.259",
+    "end": "00:07:56.109",
+    "start_seconds": 474.259,
+    "end_seconds": 476.109,
+    "text": "right now let's assume you project out a growth rate of 50 percent of that"
+  },
+  {
+    "start": "00:07:56.109",
+    "end": "00:07:56.119",
+    "start_seconds": 476.109,
+    "end_seconds": 476.119,
+    "text": "growth rate of 50 percent of that"
+  },
+  {
+    "start": "00:07:56.119",
+    "end": "00:07:58.600",
+    "start_seconds": 476.119,
+    "end_seconds": 478.6,
+    "text": "growth rate of 50 percent of that hundred million that's gonna be that'll"
+  },
+  {
+    "start": "00:07:58.600",
+    "end": "00:07:58.610",
+    "start_seconds": 478.6,
+    "end_seconds": 478.61,
+    "text": "hundred million that's gonna be that'll"
+  },
+  {
+    "start": "00:07:58.610",
+    "end": "00:07:59.919",
+    "start_seconds": 478.61,
+    "end_seconds": 479.919,
+    "text": "hundred million that's gonna be that'll mean that your revenues will go from a"
+  },
+  {
+    "start": "00:07:59.919",
+    "end": "00:07:59.929",
+    "start_seconds": 479.919,
+    "end_seconds": 479.929,
+    "text": "mean that your revenues will go from a"
+  },
+  {
+    "start": "00:07:59.929",
+    "end": "00:08:01.509",
+    "start_seconds": 479.929,
+    "end_seconds": 481.509,
+    "text": "mean that your revenues will go from a hundred to one hundred and fifty million"
+  },
+  {
+    "start": "00:08:01.509",
+    "end": "00:08:01.519",
+    "start_seconds": 481.509,
+    "end_seconds": 481.519,
+    "text": "hundred to one hundred and fifty million"
+  },
+  {
+    "start": "00:08:01.519",
+    "end": "00:08:04.749",
+    "start_seconds": 481.519,
+    "end_seconds": 484.749,
+    "text": "hundred to one hundred and fifty million eminently doable right then you continue"
+  },
+  {
+    "start": "00:08:04.749",
+    "end": "00:08:04.759",
+    "start_seconds": 484.749,
+    "end_seconds": 484.759,
+    "text": "eminently doable right then you continue"
+  },
+  {
+    "start": "00:08:04.759",
+    "end": "00:08:06.879",
+    "start_seconds": 484.759,
+    "end_seconds": 486.879,
+    "text": "eminently doable right then you continue to use 50 percent the year after now"
+  },
+  {
+    "start": "00:08:06.879",
+    "end": "00:08:06.889",
+    "start_seconds": 486.879,
+    "end_seconds": 486.889,
+    "text": "to use 50 percent the year after now"
+  },
+  {
+    "start": "00:08:06.889",
+    "end": "00:08:08.829",
+    "start_seconds": 486.889,
+    "end_seconds": 488.829,
+    "text": "to use 50 percent the year after now your revenues have to go from 150"
+  },
+  {
+    "start": "00:08:08.829",
+    "end": "00:08:08.839",
+    "start_seconds": 488.829,
+    "end_seconds": 488.839,
+    "text": "your revenues have to go from 150"
+  },
+  {
+    "start": "00:08:08.839",
+    "end": "00:08:11.439",
+    "start_seconds": 488.839,
+    "end_seconds": 491.439,
+    "text": "your revenues have to go from 150 million to 225 million a 75 million"
+  },
+  {
+    "start": "00:08:11.439",
+    "end": "00:08:11.449",
+    "start_seconds": 491.439,
+    "end_seconds": 491.449,
+    "text": "million to 225 million a 75 million"
+  },
+  {
+    "start": "00:08:11.449",
+    "end": "00:08:13.629",
+    "start_seconds": 491.449,
+    "end_seconds": 493.629,
+    "text": "million to 225 million a 75 million dollar increase if you keep the revenues"
+  },
+  {
+    "start": "00:08:13.629",
+    "end": "00:08:13.639",
+    "start_seconds": 493.629,
+    "end_seconds": 493.639,
+    "text": "dollar increase if you keep the revenues"
+  },
+  {
+    "start": "00:08:13.639",
+    "end": "00:08:15.179",
+    "start_seconds": 493.639,
+    "end_seconds": 495.179,
+    "text": "dollar increase if you keep the revenues at 50 percent you're gonna see the"
+  },
+  {
+    "start": "00:08:15.179",
+    "end": "00:08:15.189",
+    "start_seconds": 495.179,
+    "end_seconds": 495.189,
+    "text": "at 50 percent you're gonna see the"
+  },
+  {
+    "start": "00:08:15.189",
+    "end": "00:08:17.889",
+    "start_seconds": 495.189,
+    "end_seconds": 497.889,
+    "text": "at 50 percent you're gonna see the compounding effect very quickly start to"
+  },
+  {
+    "start": "00:08:17.889",
+    "end": "00:08:17.899",
+    "start_seconds": 497.889,
+    "end_seconds": 497.899,
+    "text": "compounding effect very quickly start to"
+  },
+  {
+    "start": "00:08:17.899",
+    "end": "00:08:20.079",
+    "start_seconds": 497.899,
+    "end_seconds": 500.079,
+    "text": "compounding effect very quickly start to make your number a really big number the"
+  },
+  {
+    "start": "00:08:20.079",
+    "end": "00:08:20.089",
+    "start_seconds": 500.079,
+    "end_seconds": 500.089,
+    "text": "make your number a really big number the"
+  },
+  {
+    "start": "00:08:20.089",
+    "end": "00:08:21.609",
+    "start_seconds": 500.089,
+    "end_seconds": 501.609,
+    "text": "make your number a really big number the reason I bring this up is when we get to"
+  },
+  {
+    "start": "00:08:21.609",
+    "end": "00:08:21.619",
+    "start_seconds": 501.609,
+    "end_seconds": 501.619,
+    "text": "reason I bring this up is when we get to"
+  },
+  {
+    "start": "00:08:21.619",
+    "end": "00:08:24.009",
+    "start_seconds": 501.619,
+    "end_seconds": 504.009,
+    "text": "reason I bring this up is when we get to valuation and use spreadsheets value"
+  },
+  {
+    "start": "00:08:24.009",
+    "end": "00:08:24.019",
+    "start_seconds": 504.009,
+    "end_seconds": 504.019,
+    "text": "valuation and use spreadsheets value"
+  },
+  {
+    "start": "00:08:24.019",
+    "end": "00:08:25.989",
+    "start_seconds": 504.019,
+    "end_seconds": 505.989,
+    "text": "valuation and use spreadsheets value companies you are often going to use"
+  },
+  {
+    "start": "00:08:25.989",
+    "end": "00:08:25.999",
+    "start_seconds": 505.989,
+    "end_seconds": 505.999,
+    "text": "companies you are often going to use"
+  },
+  {
+    "start": "00:08:25.999",
+    "end": "00:08:27.699",
+    "start_seconds": 505.999,
+    "end_seconds": 507.699,
+    "text": "companies you are often going to use growth rates in percent and if you're"
+  },
+  {
+    "start": "00:08:27.699",
+    "end": "00:08:27.709",
+    "start_seconds": 507.699,
+    "end_seconds": 507.709,
+    "text": "growth rates in percent and if you're"
+  },
+  {
+    "start": "00:08:27.709",
+    "end": "00:08:30.369",
+    "start_seconds": 507.709,
+    "end_seconds": 510.369,
+    "text": "growth rates in percent and if you're not careful your revenues your earnings"
+  },
+  {
+    "start": "00:08:30.369",
+    "end": "00:08:30.379",
+    "start_seconds": 510.369,
+    "end_seconds": 510.379,
+    "text": "not careful your revenues your earnings"
+  },
+  {
+    "start": "00:08:30.379",
+    "end": "00:08:31.869",
+    "start_seconds": 510.379,
+    "end_seconds": 511.869,
+    "text": "not careful your revenues your earnings or whatever number you grow at that rate"
+  },
+  {
+    "start": "00:08:31.869",
+    "end": "00:08:31.879",
+    "start_seconds": 511.869,
+    "end_seconds": 511.879,
+    "text": "or whatever number you grow at that rate"
+  },
+  {
+    "start": "00:08:31.879",
+    "end": "00:08:34.329",
+    "start_seconds": 511.879,
+    "end_seconds": 514.329,
+    "text": "or whatever number you grow at that rate can very quickly become an explosive"
+  },
+  {
+    "start": "00:08:34.329",
+    "end": "00:08:34.339",
+    "start_seconds": 514.329,
+    "end_seconds": 514.3389999999999,
+    "text": "can very quickly become an explosive"
+  },
+  {
+    "start": "00:08:34.339",
+    "end": "00:08:36.309",
+    "start_seconds": 514.3389999999999,
+    "end_seconds": 516.309,
+    "text": "can very quickly become an explosive number we'll come back and deal with it"
+  },
+  {
+    "start": "00:08:36.309",
+    "end": "00:08:36.319",
+    "start_seconds": 516.309,
+    "end_seconds": 516.319,
+    "text": "number we'll come back and deal with it"
+  },
+  {
+    "start": "00:08:36.319",
+    "end": "00:08:39.339",
+    "start_seconds": 516.319,
+    "end_seconds": 519.3389999999999,
+    "text": "number we'll come back and deal with it but be aware that compounding is a very"
+  },
+  {
+    "start": "00:08:39.339",
+    "end": "00:08:39.349",
+    "start_seconds": 519.3389999999999,
+    "end_seconds": 519.349,
+    "text": "but be aware that compounding is a very"
+  },
+  {
+    "start": "00:08:39.349",
+    "end": "00:08:41.980",
+    "start_seconds": 519.349,
+    "end_seconds": 521.98,
+    "text": "but be aware that compounding is a very real factor conversely when you're"
+  },
+  {
+    "start": "00:08:41.980",
+    "end": "00:08:41.990",
+    "start_seconds": 521.98,
+    "end_seconds": 521.99,
+    "text": "real factor conversely when you're"
+  },
+  {
+    "start": "00:08:41.990",
+    "end": "00:08:43.869",
+    "start_seconds": 521.99,
+    "end_seconds": 523.869,
+    "text": "real factor conversely when you're projecting a value 10 years out which is"
+  },
+  {
+    "start": "00:08:43.869",
+    "end": "00:08:43.879",
+    "start_seconds": 523.869,
+    "end_seconds": 523.879,
+    "text": "projecting a value 10 years out which is"
+  },
+  {
+    "start": "00:08:43.879",
+    "end": "00:08:45.370",
+    "start_seconds": 523.879,
+    "end_seconds": 525.37,
+    "text": "projecting a value 10 years out which is often what you do in valuation when you"
+  },
+  {
+    "start": "00:08:45.370",
+    "end": "00:08:45.380",
+    "start_seconds": 525.37,
+    "end_seconds": 525.38,
+    "text": "often what you do in valuation when you"
+  },
+  {
+    "start": "00:08:45.380",
+    "end": "00:08:47.019",
+    "start_seconds": 525.38,
+    "end_seconds": 527.019,
+    "text": "often what you do in valuation when you estimate the value of a company 10 years"
+  },
+  {
+    "start": "00:08:47.019",
+    "end": "00:08:47.029",
+    "start_seconds": 527.019,
+    "end_seconds": 527.029,
+    "text": "estimate the value of a company 10 years"
+  },
+  {
+    "start": "00:08:47.029",
+    "end": "00:08:48.180",
+    "start_seconds": 527.029,
+    "end_seconds": 528.18,
+    "text": "estimate the value of a company 10 years out and you"
+  },
+  {
+    "start": "00:08:48.180",
+    "end": "00:08:48.190",
+    "start_seconds": 528.18,
+    "end_seconds": 528.19,
+    "text": "out and you"
+  },
+  {
+    "start": "00:08:48.190",
+    "end": "00:08:50.730",
+    "start_seconds": 528.19,
+    "end_seconds": 530.73,
+    "text": "out and you get back to today don't be surprised to"
+  },
+  {
+    "start": "00:08:50.730",
+    "end": "00:08:50.740",
+    "start_seconds": 530.73,
+    "end_seconds": 530.74,
+    "text": "get back to today don't be surprised to"
+  },
+  {
+    "start": "00:08:50.740",
+    "end": "00:08:53.190",
+    "start_seconds": 530.74,
+    "end_seconds": 533.19,
+    "text": "get back to today don't be surprised to see a big loss in value a hundred"
+  },
+  {
+    "start": "00:08:53.190",
+    "end": "00:08:53.200",
+    "start_seconds": 533.19,
+    "end_seconds": 533.2,
+    "text": "see a big loss in value a hundred"
+  },
+  {
+    "start": "00:08:53.200",
+    "end": "00:08:54.780",
+    "start_seconds": 533.2,
+    "end_seconds": 534.78,
+    "text": "see a big loss in value a hundred billion dollar terminal value at the end"
+  },
+  {
+    "start": "00:08:54.780",
+    "end": "00:08:54.790",
+    "start_seconds": 534.78,
+    "end_seconds": 534.79,
+    "text": "billion dollar terminal value at the end"
+  },
+  {
+    "start": "00:08:54.790",
+    "end": "00:08:56.520",
+    "start_seconds": 534.79,
+    "end_seconds": 536.52,
+    "text": "billion dollar terminal value at the end of your tenth today might be worth only"
+  },
+  {
+    "start": "00:08:56.520",
+    "end": "00:08:56.530",
+    "start_seconds": 536.52,
+    "end_seconds": 536.53,
+    "text": "of your tenth today might be worth only"
+  },
+  {
+    "start": "00:08:56.530",
+    "end": "00:08:59.160",
+    "start_seconds": 536.53,
+    "end_seconds": 539.16,
+    "text": "of your tenth today might be worth only thirty-five billion so sometimes working"
+  },
+  {
+    "start": "00:08:59.160",
+    "end": "00:08:59.170",
+    "start_seconds": 539.16,
+    "end_seconds": 539.17,
+    "text": "thirty-five billion so sometimes working"
+  },
+  {
+    "start": "00:08:59.170",
+    "end": "00:09:00.750",
+    "start_seconds": 539.17,
+    "end_seconds": 540.75,
+    "text": "thirty-five billion so sometimes working with the numbers will get a bit give you"
+  },
+  {
+    "start": "00:09:00.750",
+    "end": "00:09:00.760",
+    "start_seconds": 540.75,
+    "end_seconds": 540.76,
+    "text": "with the numbers will get a bit give you"
+  },
+  {
+    "start": "00:09:00.760",
+    "end": "00:09:02.190",
+    "start_seconds": 540.76,
+    "end_seconds": 542.19,
+    "text": "with the numbers will get a bit give you a better sense of the effect of"
+  },
+  {
+    "start": "00:09:02.190",
+    "end": "00:09:02.200",
+    "start_seconds": 542.19,
+    "end_seconds": 542.2,
+    "text": "a better sense of the effect of"
+  },
+  {
+    "start": "00:09:02.200",
+    "end": "00:09:04.410",
+    "start_seconds": 542.2,
+    "end_seconds": 544.41,
+    "text": "a better sense of the effect of compounding and discounting here's the"
+  },
+  {
+    "start": "00:09:04.410",
+    "end": "00:09:04.420",
+    "start_seconds": 544.41,
+    "end_seconds": 544.42,
+    "text": "compounding and discounting here's the"
+  },
+  {
+    "start": "00:09:04.420",
+    "end": "00:09:06.270",
+    "start_seconds": 544.42,
+    "end_seconds": 546.27,
+    "text": "compounding and discounting here's the other feature about discount rates that"
+  },
+  {
+    "start": "00:09:06.270",
+    "end": "00:09:06.280",
+    "start_seconds": 546.27,
+    "end_seconds": 546.28,
+    "text": "other feature about discount rates that"
+  },
+  {
+    "start": "00:09:06.280",
+    "end": "00:09:09.960",
+    "start_seconds": 546.28,
+    "end_seconds": 549.96,
+    "text": "other feature about discount rates that we sometimes miss often for ease of use"
+  },
+  {
+    "start": "00:09:09.960",
+    "end": "00:09:09.970",
+    "start_seconds": 549.96,
+    "end_seconds": 549.97,
+    "text": "we sometimes miss often for ease of use"
+  },
+  {
+    "start": "00:09:09.970",
+    "end": "00:09:12.630",
+    "start_seconds": 549.97,
+    "end_seconds": 552.63,
+    "text": "we sometimes miss often for ease of use we act like cash flows come in at the"
+  },
+  {
+    "start": "00:09:12.630",
+    "end": "00:09:12.640",
+    "start_seconds": 552.63,
+    "end_seconds": 552.64,
+    "text": "we act like cash flows come in at the"
+  },
+  {
+    "start": "00:09:12.640",
+    "end": "00:09:13.950",
+    "start_seconds": 552.64,
+    "end_seconds": 553.95,
+    "text": "we act like cash flows come in at the end of every year the reason I say for"
+  },
+  {
+    "start": "00:09:13.950",
+    "end": "00:09:13.960",
+    "start_seconds": 553.95,
+    "end_seconds": 553.96,
+    "text": "end of every year the reason I say for"
+  },
+  {
+    "start": "00:09:13.960",
+    "end": "00:09:15.990",
+    "start_seconds": 553.96,
+    "end_seconds": 555.99,
+    "text": "end of every year the reason I say for ease of use so you're in a business you"
+  },
+  {
+    "start": "00:09:15.990",
+    "end": "00:09:16.000",
+    "start_seconds": 555.99,
+    "end_seconds": 556.0,
+    "text": "ease of use so you're in a business you"
+  },
+  {
+    "start": "00:09:16.000",
+    "end": "00:09:17.580",
+    "start_seconds": 556.0,
+    "end_seconds": 557.58,
+    "text": "ease of use so you're in a business you don't sell all your stuff at December"
+  },
+  {
+    "start": "00:09:17.580",
+    "end": "00:09:17.590",
+    "start_seconds": 557.58,
+    "end_seconds": 557.59,
+    "text": "don't sell all your stuff at December"
+  },
+  {
+    "start": "00:09:17.590",
+    "end": "00:09:19.890",
+    "start_seconds": 557.59,
+    "end_seconds": 559.89,
+    "text": "don't sell all your stuff at December 31st of every year you sell it through"
+  },
+  {
+    "start": "00:09:19.890",
+    "end": "00:09:19.900",
+    "start_seconds": 559.89,
+    "end_seconds": 559.9,
+    "text": "31st of every year you sell it through"
+  },
+  {
+    "start": "00:09:19.900",
+    "end": "00:09:22.470",
+    "start_seconds": 559.9,
+    "end_seconds": 562.47,
+    "text": "31st of every year you sell it through the course of the year so we for ease of"
+  },
+  {
+    "start": "00:09:22.470",
+    "end": "00:09:22.480",
+    "start_seconds": 562.47,
+    "end_seconds": 562.48,
+    "text": "the course of the year so we for ease of"
+  },
+  {
+    "start": "00:09:22.480",
+    "end": "00:09:24.660",
+    "start_seconds": 562.48,
+    "end_seconds": 564.66,
+    "text": "the course of the year so we for ease of use we act like cash flows happen once a"
+  },
+  {
+    "start": "00:09:24.660",
+    "end": "00:09:24.670",
+    "start_seconds": 564.66,
+    "end_seconds": 564.67,
+    "text": "use we act like cash flows happen once a"
+  },
+  {
+    "start": "00:09:24.670",
+    "end": "00:09:26.160",
+    "start_seconds": 564.67,
+    "end_seconds": 566.16,
+    "text": "use we act like cash flows happen once a year and the discount rate is an annual"
+  },
+  {
+    "start": "00:09:26.160",
+    "end": "00:09:26.170",
+    "start_seconds": 566.16,
+    "end_seconds": 566.17,
+    "text": "year and the discount rate is an annual"
+  },
+  {
+    "start": "00:09:26.170",
+    "end": "00:09:28.590",
+    "start_seconds": 566.17,
+    "end_seconds": 568.59,
+    "text": "year and the discount rate is an annual ring but to the extent that those cash"
+  },
+  {
+    "start": "00:09:28.590",
+    "end": "00:09:28.600",
+    "start_seconds": 568.59,
+    "end_seconds": 568.6,
+    "text": "ring but to the extent that those cash"
+  },
+  {
+    "start": "00:09:28.600",
+    "end": "00:09:30.930",
+    "start_seconds": 568.6,
+    "end_seconds": 570.93,
+    "text": "ring but to the extent that those cash flows might be monthly cash flow so"
+  },
+  {
+    "start": "00:09:30.930",
+    "end": "00:09:30.940",
+    "start_seconds": 570.93,
+    "end_seconds": 570.94,
+    "text": "flows might be monthly cash flow so"
+  },
+  {
+    "start": "00:09:30.940",
+    "end": "00:09:33.000",
+    "start_seconds": 570.94,
+    "end_seconds": 573.0,
+    "text": "flows might be monthly cash flow so instead of having a hundred and twenty"
+  },
+  {
+    "start": "00:09:33.000",
+    "end": "00:09:33.010",
+    "start_seconds": 573.0,
+    "end_seconds": 573.01,
+    "text": "instead of having a hundred and twenty"
+  },
+  {
+    "start": "00:09:33.010",
+    "end": "00:09:34.440",
+    "start_seconds": 573.01,
+    "end_seconds": 574.44,
+    "text": "instead of having a hundred and twenty million dollars at the end of the year"
+  },
+  {
+    "start": "00:09:34.440",
+    "end": "00:09:34.450",
+    "start_seconds": 574.44,
+    "end_seconds": 574.45,
+    "text": "million dollars at the end of the year"
+  },
+  {
+    "start": "00:09:34.450",
+    "end": "00:09:35.970",
+    "start_seconds": 574.45,
+    "end_seconds": 575.97,
+    "text": "million dollars at the end of the year let's say you made 10 million every year"
+  },
+  {
+    "start": "00:09:35.970",
+    "end": "00:09:35.980",
+    "start_seconds": 575.97,
+    "end_seconds": 575.98,
+    "text": "let's say you made 10 million every year"
+  },
+  {
+    "start": "00:09:35.980",
+    "end": "00:09:38.460",
+    "start_seconds": 575.98,
+    "end_seconds": 578.46,
+    "text": "let's say you made 10 million every year for the next ten years you are in effect"
+  },
+  {
+    "start": "00:09:38.460",
+    "end": "00:09:38.470",
+    "start_seconds": 578.46,
+    "end_seconds": 578.47,
+    "text": "for the next ten years you are in effect"
+  },
+  {
+    "start": "00:09:38.470",
+    "end": "00:09:41.370",
+    "start_seconds": 578.47,
+    "end_seconds": 581.37,
+    "text": "for the next ten years you are in effect going to see the freedom you see how"
+  },
+  {
+    "start": "00:09:41.370",
+    "end": "00:09:41.380",
+    "start_seconds": 581.37,
+    "end_seconds": 581.38,
+    "text": "going to see the freedom you see how"
+  },
+  {
+    "start": "00:09:41.380",
+    "end": "00:09:43.110",
+    "start_seconds": 581.38,
+    "end_seconds": 583.11,
+    "text": "going to see the freedom you see how much compounding matters if you do it"
+  },
+  {
+    "start": "00:09:43.110",
+    "end": "00:09:43.120",
+    "start_seconds": 583.11,
+    "end_seconds": 583.12,
+    "text": "much compounding matters if you do it"
+  },
+  {
+    "start": "00:09:43.120",
+    "end": "00:09:44.970",
+    "start_seconds": 583.12,
+    "end_seconds": 584.97,
+    "text": "much compounding matters if you do it more frequently I'll give you a very"
+  },
+  {
+    "start": "00:09:44.970",
+    "end": "00:09:44.980",
+    "start_seconds": 584.97,
+    "end_seconds": 584.98,
+    "text": "more frequently I'll give you a very"
+  },
+  {
+    "start": "00:09:44.980",
+    "end": "00:09:46.710",
+    "start_seconds": 584.98,
+    "end_seconds": 586.71,
+    "text": "more frequently I'll give you a very simple example to show you how the"
+  },
+  {
+    "start": "00:09:46.710",
+    "end": "00:09:46.720",
+    "start_seconds": 586.71,
+    "end_seconds": 586.72,
+    "text": "simple example to show you how the"
+  },
+  {
+    "start": "00:09:46.720",
+    "end": "00:09:48.930",
+    "start_seconds": 586.72,
+    "end_seconds": 588.93,
+    "text": "simple example to show you how the compounding effect can change the"
+  },
+  {
+    "start": "00:09:48.930",
+    "end": "00:09:48.940",
+    "start_seconds": 588.93,
+    "end_seconds": 588.94,
+    "text": "compounding effect can change the"
+  },
+  {
+    "start": "00:09:48.940",
+    "end": "00:09:51.570",
+    "start_seconds": 588.94,
+    "end_seconds": 591.57,
+    "text": "compounding effect can change the observed interest rate on a loan or an"
+  },
+  {
+    "start": "00:09:51.570",
+    "end": "00:09:51.580",
+    "start_seconds": 591.57,
+    "end_seconds": 591.58,
+    "text": "observed interest rate on a loan or an"
+  },
+  {
+    "start": "00:09:51.580",
+    "end": "00:09:53.670",
+    "start_seconds": 591.58,
+    "end_seconds": 593.67,
+    "text": "observed interest rate on a loan or an investment let's assume you have a ten"
+  },
+  {
+    "start": "00:09:53.670",
+    "end": "00:09:53.680",
+    "start_seconds": 593.67,
+    "end_seconds": 593.68,
+    "text": "investment let's assume you have a ten"
+  },
+  {
+    "start": "00:09:53.680",
+    "end": "00:09:55.170",
+    "start_seconds": 593.68,
+    "end_seconds": 595.17,
+    "text": "investment let's assume you have a ten percent annual interest rate you"
+  },
+  {
+    "start": "00:09:55.170",
+    "end": "00:09:55.180",
+    "start_seconds": 595.17,
+    "end_seconds": 595.18,
+    "text": "percent annual interest rate you"
+  },
+  {
+    "start": "00:09:55.180",
+    "end": "00:09:57.060",
+    "start_seconds": 595.18,
+    "end_seconds": 597.06,
+    "text": "percent annual interest rate you compound only once at the end of every"
+  },
+  {
+    "start": "00:09:57.060",
+    "end": "00:09:57.070",
+    "start_seconds": 597.06,
+    "end_seconds": 597.07,
+    "text": "compound only once at the end of every"
+  },
+  {
+    "start": "00:09:57.070",
+    "end": "00:09:58.440",
+    "start_seconds": 597.07,
+    "end_seconds": 598.44,
+    "text": "compound only once at the end of every year you're on a ten percent rate of"
+  },
+  {
+    "start": "00:09:58.440",
+    "end": "00:09:58.450",
+    "start_seconds": 598.44,
+    "end_seconds": 598.45,
+    "text": "year you're on a ten percent rate of"
+  },
+  {
+    "start": "00:09:58.450",
+    "end": "00:10:01.200",
+    "start_seconds": 598.45,
+    "end_seconds": 601.2,
+    "text": "year you're on a ten percent rate of return if you compound twice a year"
+  },
+  {
+    "start": "00:10:01.200",
+    "end": "00:10:01.210",
+    "start_seconds": 601.2,
+    "end_seconds": 601.21,
+    "text": "return if you compound twice a year"
+  },
+  {
+    "start": "00:10:01.210",
+    "end": "00:10:03.210",
+    "start_seconds": 601.21,
+    "end_seconds": 603.21,
+    "text": "return if you compound twice a year semi-annually and let's say I just"
+  },
+  {
+    "start": "00:10:03.210",
+    "end": "00:10:03.220",
+    "start_seconds": 603.21,
+    "end_seconds": 603.22,
+    "text": "semi-annually and let's say I just"
+  },
+  {
+    "start": "00:10:03.220",
+    "end": "00:10:04.830",
+    "start_seconds": 603.22,
+    "end_seconds": 604.83,
+    "text": "semi-annually and let's say I just divide the 10 percent and give you a"
+  },
+  {
+    "start": "00:10:04.830",
+    "end": "00:10:04.840",
+    "start_seconds": 604.83,
+    "end_seconds": 604.84,
+    "text": "divide the 10 percent and give you a"
+  },
+  {
+    "start": "00:10:04.840",
+    "end": "00:10:06.150",
+    "start_seconds": 604.84,
+    "end_seconds": 606.15,
+    "text": "divide the 10 percent and give you a five percent interest rate in the first"
+  },
+  {
+    "start": "00:10:06.150",
+    "end": "00:10:06.160",
+    "start_seconds": 606.15,
+    "end_seconds": 606.16,
+    "text": "five percent interest rate in the first"
+  },
+  {
+    "start": "00:10:06.160",
+    "end": "00:10:07.800",
+    "start_seconds": 606.16,
+    "end_seconds": 607.8,
+    "text": "five percent interest rate in the first six months and a five percent a second"
+  },
+  {
+    "start": "00:10:07.800",
+    "end": "00:10:07.810",
+    "start_seconds": 607.8,
+    "end_seconds": 607.81,
+    "text": "six months and a five percent a second"
+  },
+  {
+    "start": "00:10:07.810",
+    "end": "00:10:10.230",
+    "start_seconds": 607.81,
+    "end_seconds": 610.23,
+    "text": "six months and a five percent a second six months I will actually make ten"
+  },
+  {
+    "start": "00:10:10.230",
+    "end": "00:10:10.240",
+    "start_seconds": 610.23,
+    "end_seconds": 610.24,
+    "text": "six months I will actually make ten"
+  },
+  {
+    "start": "00:10:10.240",
+    "end": "00:10:12.420",
+    "start_seconds": 610.24,
+    "end_seconds": 612.42,
+    "text": "six months I will actually make ten point one two five percent you're saying"
+  },
+  {
+    "start": "00:10:12.420",
+    "end": "00:10:12.430",
+    "start_seconds": 612.42,
+    "end_seconds": 612.43,
+    "text": "point one two five percent you're saying"
+  },
+  {
+    "start": "00:10:12.430",
+    "end": "00:10:14.880",
+    "start_seconds": 612.43,
+    "end_seconds": 614.88,
+    "text": "point one two five percent you're saying why because the money I make in the"
+  },
+  {
+    "start": "00:10:14.880",
+    "end": "00:10:14.890",
+    "start_seconds": 614.88,
+    "end_seconds": 614.89,
+    "text": "why because the money I make in the"
+  },
+  {
+    "start": "00:10:14.890",
+    "end": "00:10:16.980",
+    "start_seconds": 614.89,
+    "end_seconds": 616.98,
+    "text": "why because the money I make in the first six months will now earn money in"
+  },
+  {
+    "start": "00:10:16.980",
+    "end": "00:10:16.990",
+    "start_seconds": 616.98,
+    "end_seconds": 616.99,
+    "text": "first six months will now earn money in"
+  },
+  {
+    "start": "00:10:16.990",
+    "end": "00:10:18.660",
+    "start_seconds": 616.99,
+    "end_seconds": 618.66,
+    "text": "first six months will now earn money in the second six months of power of"
+  },
+  {
+    "start": "00:10:18.660",
+    "end": "00:10:18.670",
+    "start_seconds": 618.66,
+    "end_seconds": 618.67,
+    "text": "the second six months of power of"
+  },
+  {
+    "start": "00:10:18.670",
+    "end": "00:10:21.570",
+    "start_seconds": 618.67,
+    "end_seconds": 621.57,
+    "text": "the second six months of power of compounding if I compound every month in"
+  },
+  {
+    "start": "00:10:21.570",
+    "end": "00:10:21.580",
+    "start_seconds": 621.57,
+    "end_seconds": 621.58,
+    "text": "compounding if I compound every month in"
+  },
+  {
+    "start": "00:10:21.580",
+    "end": "00:10:23.010",
+    "start_seconds": 621.58,
+    "end_seconds": 623.01,
+    "text": "compounding if I compound every month in other words I take the 10 percent and"
+  },
+  {
+    "start": "00:10:23.010",
+    "end": "00:10:23.020",
+    "start_seconds": 623.01,
+    "end_seconds": 623.02,
+    "text": "other words I take the 10 percent and"
+  },
+  {
+    "start": "00:10:23.020",
+    "end": "00:10:25.110",
+    "start_seconds": 623.02,
+    "end_seconds": 625.11,
+    "text": "other words I take the 10 percent and divide by 12 and I give you that monthly"
+  },
+  {
+    "start": "00:10:25.110",
+    "end": "00:10:25.120",
+    "start_seconds": 625.11,
+    "end_seconds": 625.12,
+    "text": "divide by 12 and I give you that monthly"
+  },
+  {
+    "start": "00:10:25.120",
+    "end": "00:10:26.820",
+    "start_seconds": 625.12,
+    "end_seconds": 626.82,
+    "text": "divide by 12 and I give you that monthly rate every month for the next 12 months"
+  },
+  {
+    "start": "00:10:26.820",
+    "end": "00:10:26.830",
+    "start_seconds": 626.82,
+    "end_seconds": 626.83,
+    "text": "rate every month for the next 12 months"
+  },
+  {
+    "start": "00:10:26.830",
+    "end": "00:10:29.100",
+    "start_seconds": 626.83,
+    "end_seconds": 629.1,
+    "text": "rate every month for the next 12 months the 10 percent becomes ten point four"
+  },
+  {
+    "start": "00:10:29.100",
+    "end": "00:10:29.110",
+    "start_seconds": 629.1,
+    "end_seconds": 629.11,
+    "text": "the 10 percent becomes ten point four"
+  },
+  {
+    "start": "00:10:29.110",
+    "end": "00:10:32.310",
+    "start_seconds": 629.11,
+    "end_seconds": 632.31,
+    "text": "the 10 percent becomes ten point four seven percent effect at the limit if I"
+  },
+  {
+    "start": "00:10:32.310",
+    "end": "00:10:32.320",
+    "start_seconds": 632.31,
+    "end_seconds": 632.32,
+    "text": "seven percent effect at the limit if I"
+  },
+  {
+    "start": "00:10:32.320",
+    "end": "00:10:35.340",
+    "start_seconds": 632.32,
+    "end_seconds": 635.34,
+    "text": "seven percent effect at the limit if I compound continuously and this one of"
+  },
+  {
+    "start": "00:10:35.340",
+    "end": "00:10:35.350",
+    "start_seconds": 635.34,
+    "end_seconds": 635.35,
+    "text": "compound continuously and this one of"
+  },
+  {
+    "start": "00:10:35.350",
+    "end": "00:10:37.290",
+    "start_seconds": 635.35,
+    "end_seconds": 637.29,
+    "text": "compound continuously and this one of those don't sell those button on your"
+  },
+  {
+    "start": "00:10:37.290",
+    "end": "00:10:37.300",
+    "start_seconds": 637.29,
+    "end_seconds": 637.3,
+    "text": "those don't sell those button on your"
+  },
+  {
+    "start": "00:10:37.300",
+    "end": "00:10:39.030",
+    "start_seconds": 637.3,
+    "end_seconds": 639.03,
+    "text": "those don't sell those button on your calculator might never use it's called"
+  },
+  {
+    "start": "00:10:39.030",
+    "end": "00:10:39.040",
+    "start_seconds": 639.03,
+    "end_seconds": 639.04,
+    "text": "calculator might never use it's called"
+  },
+  {
+    "start": "00:10:39.040",
+    "end": "00:10:40.980",
+    "start_seconds": 639.04,
+    "end_seconds": 640.98,
+    "text": "calculator might never use it's called the exponential button you will actually"
+  },
+  {
+    "start": "00:10:40.980",
+    "end": "00:10:40.990",
+    "start_seconds": 640.98,
+    "end_seconds": 640.99,
+    "text": "the exponential button you will actually"
+  },
+  {
+    "start": "00:10:40.990",
+    "end": "00:10:42.900",
+    "start_seconds": 640.99,
+    "end_seconds": 642.9,
+    "text": "the exponential button you will actually get the limiting case which is the ten"
+  },
+  {
+    "start": "00:10:42.900",
+    "end": "00:10:42.910",
+    "start_seconds": 642.9,
+    "end_seconds": 642.91,
+    "text": "get the limiting case which is the ten"
+  },
+  {
+    "start": "00:10:42.910",
+    "end": "00:10:44.850",
+    "start_seconds": 642.91,
+    "end_seconds": 644.85,
+    "text": "get the limiting case which is the ten point five one seven one percent"
+  },
+  {
+    "start": "00:10:44.850",
+    "end": "00:10:44.860",
+    "start_seconds": 644.85,
+    "end_seconds": 644.86,
+    "text": "point five one seven one percent"
+  },
+  {
+    "start": "00:10:44.860",
+    "end": "00:10:46.350",
+    "start_seconds": 644.86,
+    "end_seconds": 646.35,
+    "text": "point five one seven one percent interest rate if you compound"
+  },
+  {
+    "start": "00:10:46.350",
+    "end": "00:10:46.360",
+    "start_seconds": 646.35,
+    "end_seconds": 646.36,
+    "text": "interest rate if you compound"
+  },
+  {
+    "start": "00:10:46.360",
+    "end": "00:10:48.780",
+    "start_seconds": 646.36,
+    "end_seconds": 648.78,
+    "text": "interest rate if you compound continuously so the frequency of"
+  },
+  {
+    "start": "00:10:48.780",
+    "end": "00:10:48.790",
+    "start_seconds": 648.78,
+    "end_seconds": 648.79,
+    "text": "continuously so the frequency of"
+  },
+  {
+    "start": "00:10:48.790",
+    "end": "00:10:50.730",
+    "start_seconds": 648.79,
+    "end_seconds": 650.73,
+    "text": "continuously so the frequency of compounding matters and that is"
+  },
+  {
+    "start": "00:10:50.730",
+    "end": "00:10:50.740",
+    "start_seconds": 650.73,
+    "end_seconds": 650.74,
+    "text": "compounding matters and that is"
+  },
+  {
+    "start": "00:10:50.740",
+    "end": "00:10:52.470",
+    "start_seconds": 650.74,
+    "end_seconds": 652.47,
+    "text": "compounding matters and that is something to think about is when you use"
+  },
+  {
+    "start": "00:10:52.470",
+    "end": "00:10:52.480",
+    "start_seconds": 652.47,
+    "end_seconds": 652.48,
+    "text": "something to think about is when you use"
+  },
+  {
+    "start": "00:10:52.480",
+    "end": "00:10:55.230",
+    "start_seconds": 652.48,
+    "end_seconds": 655.23,
+    "text": "something to think about is when you use annual cash flows you are in fact making"
+  },
+  {
+    "start": "00:10:55.230",
+    "end": "00:10:55.240",
+    "start_seconds": 655.23,
+    "end_seconds": 655.24,
+    "text": "annual cash flows you are in fact making"
+  },
+  {
+    "start": "00:10:55.240",
+    "end": "00:10:56.910",
+    "start_seconds": 655.24,
+    "end_seconds": 656.91,
+    "text": "annual cash flows you are in fact making this assumption that cash flows happen"
+  },
+  {
+    "start": "00:10:56.910",
+    "end": "00:10:56.920",
+    "start_seconds": 656.91,
+    "end_seconds": 656.92,
+    "text": "this assumption that cash flows happen"
+  },
+  {
+    "start": "00:10:56.920",
+    "end": "00:10:58.770",
+    "start_seconds": 656.92,
+    "end_seconds": 658.77,
+    "text": "this assumption that cash flows happen only once you're in the rate using is an"
+  },
+  {
+    "start": "00:10:58.770",
+    "end": "00:10:58.780",
+    "start_seconds": 658.77,
+    "end_seconds": 658.78,
+    "text": "only once you're in the rate using is an"
+  },
+  {
+    "start": "00:10:58.780",
+    "end": "00:11:01.050",
+    "start_seconds": 658.78,
+    "end_seconds": 661.05,
+    "text": "only once you're in the rate using is an annual interest rate let's move on to"
+  },
+  {
+    "start": "00:11:01.050",
+    "end": "00:11:01.060",
+    "start_seconds": 661.05,
+    "end_seconds": 661.06,
+    "text": "annual interest rate let's move on to"
+  },
+  {
+    "start": "00:11:01.060",
+    "end": "00:11:02.070",
+    "start_seconds": 661.06,
+    "end_seconds": 662.07,
+    "text": "annual interest rate let's move on to annuities and"
+  },
+  {
+    "start": "00:11:02.070",
+    "end": "00:11:02.080",
+    "start_seconds": 662.07,
+    "end_seconds": 662.08,
+    "text": "annuities and"
+  },
+  {
+    "start": "00:11:02.080",
+    "end": "00:11:04.020",
+    "start_seconds": 662.08,
+    "end_seconds": 664.02,
+    "text": "annuities and nobody as I described it is a constant"
+  },
+  {
+    "start": "00:11:04.020",
+    "end": "00:11:04.030",
+    "start_seconds": 664.02,
+    "end_seconds": 664.03,
+    "text": "nobody as I described it is a constant"
+  },
+  {
+    "start": "00:11:04.030",
+    "end": "00:11:05.640",
+    "start_seconds": 664.03,
+    "end_seconds": 665.64,
+    "text": "nobody as I described it is a constant cash flow that occurs at regular"
+  },
+  {
+    "start": "00:11:05.640",
+    "end": "00:11:05.650",
+    "start_seconds": 665.64,
+    "end_seconds": 665.65,
+    "text": "cash flow that occurs at regular"
+  },
+  {
+    "start": "00:11:05.650",
+    "end": "00:11:08.010",
+    "start_seconds": 665.65,
+    "end_seconds": 668.01,
+    "text": "cash flow that occurs at regular intervals so a is the annuity of an"
+  },
+  {
+    "start": "00:11:08.010",
+    "end": "00:11:08.020",
+    "start_seconds": 668.01,
+    "end_seconds": 668.02,
+    "text": "intervals so a is the annuity of an"
+  },
+  {
+    "start": "00:11:08.020",
+    "end": "00:11:09.870",
+    "start_seconds": 668.02,
+    "end_seconds": 669.87,
+    "text": "intervals so a is the annuity of an annuity which is fixed at a and every"
+  },
+  {
+    "start": "00:11:09.870",
+    "end": "00:11:09.880",
+    "start_seconds": 669.87,
+    "end_seconds": 669.88,
+    "text": "annuity which is fixed at a and every"
+  },
+  {
+    "start": "00:11:09.880",
+    "end": "00:11:11.160",
+    "start_seconds": 669.88,
+    "end_seconds": 671.16,
+    "text": "annuity which is fixed at a and every year for the next four years you get a"
+  },
+  {
+    "start": "00:11:11.160",
+    "end": "00:11:11.170",
+    "start_seconds": 671.16,
+    "end_seconds": 671.17,
+    "text": "year for the next four years you get a"
+  },
+  {
+    "start": "00:11:11.170",
+    "end": "00:11:13.860",
+    "start_seconds": 671.17,
+    "end_seconds": 673.86,
+    "text": "year for the next four years you get a you got an annuity the present value of"
+  },
+  {
+    "start": "00:11:13.860",
+    "end": "00:11:13.870",
+    "start_seconds": 673.86,
+    "end_seconds": 673.87,
+    "text": "you got an annuity the present value of"
+  },
+  {
+    "start": "00:11:13.870",
+    "end": "00:11:16.530",
+    "start_seconds": 673.87,
+    "end_seconds": 676.53,
+    "text": "you got an annuity the present value of an annuity can be computed using an"
+  },
+  {
+    "start": "00:11:16.530",
+    "end": "00:11:16.540",
+    "start_seconds": 676.53,
+    "end_seconds": 676.54,
+    "text": "an annuity can be computed using an"
+  },
+  {
+    "start": "00:11:16.540",
+    "end": "00:11:18.840",
+    "start_seconds": 676.54,
+    "end_seconds": 678.84,
+    "text": "an annuity can be computed using an equation as I said most people don't use"
+  },
+  {
+    "start": "00:11:18.840",
+    "end": "00:11:18.850",
+    "start_seconds": 678.84,
+    "end_seconds": 678.85,
+    "text": "equation as I said most people don't use"
+  },
+  {
+    "start": "00:11:18.850",
+    "end": "00:11:20.760",
+    "start_seconds": 678.85,
+    "end_seconds": 680.76,
+    "text": "equation as I said most people don't use these equations anymore because you use"
+  },
+  {
+    "start": "00:11:20.760",
+    "end": "00:11:20.770",
+    "start_seconds": 680.76,
+    "end_seconds": 680.77,
+    "text": "these equations anymore because you use"
+  },
+  {
+    "start": "00:11:20.770",
+    "end": "00:11:22.320",
+    "start_seconds": 680.77,
+    "end_seconds": 682.32,
+    "text": "these equations anymore because you use the payment button in the calculator but"
+  },
+  {
+    "start": "00:11:22.320",
+    "end": "00:11:22.330",
+    "start_seconds": 682.32,
+    "end_seconds": 682.33,
+    "text": "the payment button in the calculator but"
+  },
+  {
+    "start": "00:11:22.330",
+    "end": "00:11:23.910",
+    "start_seconds": 682.33,
+    "end_seconds": 683.91,
+    "text": "the payment button in the calculator but this is what's going on behind the"
+  },
+  {
+    "start": "00:11:23.910",
+    "end": "00:11:23.920",
+    "start_seconds": 683.91,
+    "end_seconds": 683.92,
+    "text": "this is what's going on behind the"
+  },
+  {
+    "start": "00:11:23.920",
+    "end": "00:11:26.190",
+    "start_seconds": 683.92,
+    "end_seconds": 686.19,
+    "text": "this is what's going on behind the payment button for a cash flow for an"
+  },
+  {
+    "start": "00:11:26.190",
+    "end": "00:11:26.200",
+    "start_seconds": 686.19,
+    "end_seconds": 686.2,
+    "text": "payment button for a cash flow for an"
+  },
+  {
+    "start": "00:11:26.200",
+    "end": "00:11:28.140",
+    "start_seconds": 686.2,
+    "end_seconds": 688.14,
+    "text": "payment button for a cash flow for an annuity that happens at the end of every"
+  },
+  {
+    "start": "00:11:28.140",
+    "end": "00:11:28.150",
+    "start_seconds": 688.14,
+    "end_seconds": 688.15,
+    "text": "annuity that happens at the end of every"
+  },
+  {
+    "start": "00:11:28.150",
+    "end": "00:11:29.760",
+    "start_seconds": 688.15,
+    "end_seconds": 689.76,
+    "text": "annuity that happens at the end of every year notice why that matters because it"
+  },
+  {
+    "start": "00:11:29.760",
+    "end": "00:11:29.770",
+    "start_seconds": 689.76,
+    "end_seconds": 689.77,
+    "text": "year notice why that matters because it"
+  },
+  {
+    "start": "00:11:29.770",
+    "end": "00:11:31.860",
+    "start_seconds": 689.77,
+    "end_seconds": 691.86,
+    "text": "year notice why that matters because it affects the present value the present"
+  },
+  {
+    "start": "00:11:31.860",
+    "end": "00:11:31.870",
+    "start_seconds": 691.86,
+    "end_seconds": 691.87,
+    "text": "affects the present value the present"
+  },
+  {
+    "start": "00:11:31.870",
+    "end": "00:11:34.290",
+    "start_seconds": 691.87,
+    "end_seconds": 694.29,
+    "text": "affects the present value the present value is the annuity to 10 million 100"
+  },
+  {
+    "start": "00:11:34.290",
+    "end": "00:11:34.300",
+    "start_seconds": 694.29,
+    "end_seconds": 694.3,
+    "text": "value is the annuity to 10 million 100"
+  },
+  {
+    "start": "00:11:34.300",
+    "end": "00:11:38.100",
+    "start_seconds": 694.3,
+    "end_seconds": 698.1,
+    "text": "value is the annuity to 10 million 100 million that you get times 1 minus 1"
+  },
+  {
+    "start": "00:11:38.100",
+    "end": "00:11:38.110",
+    "start_seconds": 698.1,
+    "end_seconds": 698.11,
+    "text": "million that you get times 1 minus 1"
+  },
+  {
+    "start": "00:11:38.110",
+    "end": "00:11:40.260",
+    "start_seconds": 698.11,
+    "end_seconds": 700.26,
+    "text": "million that you get times 1 minus 1 plus R raised to the power n so notice"
+  },
+  {
+    "start": "00:11:40.260",
+    "end": "00:11:40.270",
+    "start_seconds": 700.26,
+    "end_seconds": 700.27,
+    "text": "plus R raised to the power n so notice"
+  },
+  {
+    "start": "00:11:40.270",
+    "end": "00:11:41.970",
+    "start_seconds": 700.27,
+    "end_seconds": 701.97,
+    "text": "plus R raised to the power n so notice all the things that come and reflect you"
+  },
+  {
+    "start": "00:11:41.970",
+    "end": "00:11:41.980",
+    "start_seconds": 701.97,
+    "end_seconds": 701.98,
+    "text": "all the things that come and reflect you"
+  },
+  {
+    "start": "00:11:41.980",
+    "end": "00:11:45.090",
+    "start_seconds": 701.98,
+    "end_seconds": 705.09,
+    "text": "all the things that come and reflect you discard rate I mean it looks complex but"
+  },
+  {
+    "start": "00:11:45.090",
+    "end": "00:11:45.100",
+    "start_seconds": 705.09,
+    "end_seconds": 705.1,
+    "text": "discard rate I mean it looks complex but"
+  },
+  {
+    "start": "00:11:45.100",
+    "end": "00:11:47.460",
+    "start_seconds": 705.1,
+    "end_seconds": 707.46,
+    "text": "discard rate I mean it looks complex but you can program this and you can do this"
+  },
+  {
+    "start": "00:11:47.460",
+    "end": "00:11:47.470",
+    "start_seconds": 707.46,
+    "end_seconds": 707.47,
+    "text": "you can program this and you can do this"
+  },
+  {
+    "start": "00:11:47.470",
+    "end": "00:11:49.020",
+    "start_seconds": 707.47,
+    "end_seconds": 709.02,
+    "text": "you can program this and you can do this or if you have a scientific calculator"
+  },
+  {
+    "start": "00:11:49.020",
+    "end": "00:11:49.030",
+    "start_seconds": 709.02,
+    "end_seconds": 709.03,
+    "text": "or if you have a scientific calculator"
+  },
+  {
+    "start": "00:11:49.030",
+    "end": "00:11:50.580",
+    "start_seconds": 709.03,
+    "end_seconds": 710.58,
+    "text": "or if you have a scientific calculator to do it on your own I'll be quite"
+  },
+  {
+    "start": "00:11:50.580",
+    "end": "00:11:50.590",
+    "start_seconds": 710.58,
+    "end_seconds": 710.59,
+    "text": "to do it on your own I'll be quite"
+  },
+  {
+    "start": "00:11:50.590",
+    "end": "00:11:52.470",
+    "start_seconds": 710.59,
+    "end_seconds": 712.47,
+    "text": "to do it on your own I'll be quite honest I actually still use these"
+  },
+  {
+    "start": "00:11:52.470",
+    "end": "00:11:52.480",
+    "start_seconds": 712.47,
+    "end_seconds": 712.48,
+    "text": "honest I actually still use these"
+  },
+  {
+    "start": "00:11:52.480",
+    "end": "00:11:54.570",
+    "start_seconds": 712.48,
+    "end_seconds": 714.57,
+    "text": "honest I actually still use these present value functions rather than the"
+  },
+  {
+    "start": "00:11:54.570",
+    "end": "00:11:54.580",
+    "start_seconds": 714.57,
+    "end_seconds": 714.58,
+    "text": "present value functions rather than the"
+  },
+  {
+    "start": "00:11:54.580",
+    "end": "00:11:55.980",
+    "start_seconds": 714.58,
+    "end_seconds": 715.98,
+    "text": "present value functions rather than the payment button in your calculator that"
+  },
+  {
+    "start": "00:11:55.980",
+    "end": "00:11:55.990",
+    "start_seconds": 715.98,
+    "end_seconds": 715.99,
+    "text": "payment button in your calculator that"
+  },
+  {
+    "start": "00:11:55.990",
+    "end": "00:11:58.110",
+    "start_seconds": 715.99,
+    "end_seconds": 718.11,
+    "text": "payment button in your calculator that my sister if like my age I don't trust"
+  },
+  {
+    "start": "00:11:58.110",
+    "end": "00:11:58.120",
+    "start_seconds": 718.11,
+    "end_seconds": 718.12,
+    "text": "my sister if like my age I don't trust"
+  },
+  {
+    "start": "00:11:58.120",
+    "end": "00:11:59.460",
+    "start_seconds": 718.12,
+    "end_seconds": 719.46,
+    "text": "my sister if like my age I don't trust my calculator and give me the right"
+  },
+  {
+    "start": "00:11:59.460",
+    "end": "00:11:59.470",
+    "start_seconds": 719.46,
+    "end_seconds": 719.47,
+    "text": "my calculator and give me the right"
+  },
+  {
+    "start": "00:11:59.470",
+    "end": "00:12:01.740",
+    "start_seconds": 719.47,
+    "end_seconds": 721.74,
+    "text": "my calculator and give me the right answer so you told me that your cash"
+  },
+  {
+    "start": "00:12:01.740",
+    "end": "00:12:01.750",
+    "start_seconds": 721.74,
+    "end_seconds": 721.75,
+    "text": "answer so you told me that your cash"
+  },
+  {
+    "start": "00:12:01.750",
+    "end": "00:12:04.110",
+    "start_seconds": 721.75,
+    "end_seconds": 724.11,
+    "text": "answer so you told me that your cash through your annuity is $1,000 CR every"
+  },
+  {
+    "start": "00:12:04.110",
+    "end": "00:12:04.120",
+    "start_seconds": 724.11,
+    "end_seconds": 724.12,
+    "text": "through your annuity is $1,000 CR every"
+  },
+  {
+    "start": "00:12:04.120",
+    "end": "00:12:05.940",
+    "start_seconds": 724.12,
+    "end_seconds": 725.94,
+    "text": "through your annuity is $1,000 CR every year for the next 5 years yes the"
+  },
+  {
+    "start": "00:12:05.940",
+    "end": "00:12:05.950",
+    "start_seconds": 725.94,
+    "end_seconds": 725.95,
+    "text": "year for the next 5 years yes the"
+  },
+  {
+    "start": "00:12:05.950",
+    "end": "00:12:07.530",
+    "start_seconds": 725.95,
+    "end_seconds": 727.53,
+    "text": "year for the next 5 years yes the present value the thousand is the"
+  },
+  {
+    "start": "00:12:07.530",
+    "end": "00:12:07.540",
+    "start_seconds": 727.53,
+    "end_seconds": 727.54,
+    "text": "present value the thousand is the"
+  },
+  {
+    "start": "00:12:07.540",
+    "end": "00:12:09.450",
+    "start_seconds": 727.54,
+    "end_seconds": 729.45,
+    "text": "present value the thousand is the annuity the 10% is the discount rate"
+  },
+  {
+    "start": "00:12:09.450",
+    "end": "00:12:09.460",
+    "start_seconds": 729.45,
+    "end_seconds": 729.46,
+    "text": "annuity the 10% is the discount rate"
+  },
+  {
+    "start": "00:12:09.460",
+    "end": "00:12:11.700",
+    "start_seconds": 729.46,
+    "end_seconds": 731.7,
+    "text": "annuity the 10% is the discount rate notice it shows up as point 1 home what"
+  },
+  {
+    "start": "00:12:11.700",
+    "end": "00:12:11.710",
+    "start_seconds": 731.7,
+    "end_seconds": 731.71,
+    "text": "notice it shows up as point 1 home what"
+  },
+  {
+    "start": "00:12:11.710",
+    "end": "00:12:13.140",
+    "start_seconds": 731.71,
+    "end_seconds": 733.14,
+    "text": "notice it shows up as point 1 home what I get is a present value is three"
+  },
+  {
+    "start": "00:12:13.140",
+    "end": "00:12:13.150",
+    "start_seconds": 733.14,
+    "end_seconds": 733.15,
+    "text": "I get is a present value is three"
+  },
+  {
+    "start": "00:12:13.150",
+    "end": "00:12:15.600",
+    "start_seconds": 733.15,
+    "end_seconds": 735.6,
+    "text": "I get is a present value is three thousand seven ninety-one value you're"
+  },
+  {
+    "start": "00:12:15.600",
+    "end": "00:12:15.610",
+    "start_seconds": 735.6,
+    "end_seconds": 735.61,
+    "text": "thousand seven ninety-one value you're"
+  },
+  {
+    "start": "00:12:15.610",
+    "end": "00:12:16.710",
+    "start_seconds": 735.61,
+    "end_seconds": 736.71,
+    "text": "thousand seven ninety-one value you're saying how do I know that's the right"
+  },
+  {
+    "start": "00:12:16.710",
+    "end": "00:12:16.720",
+    "start_seconds": 736.71,
+    "end_seconds": 736.72,
+    "text": "saying how do I know that's the right"
+  },
+  {
+    "start": "00:12:16.720",
+    "end": "00:12:19.860",
+    "start_seconds": 736.72,
+    "end_seconds": 739.86,
+    "text": "saying how do I know that's the right number try this out take each cashflow"
+  },
+  {
+    "start": "00:12:19.860",
+    "end": "00:12:19.870",
+    "start_seconds": 739.86,
+    "end_seconds": 739.87,
+    "text": "number try this out take each cashflow"
+  },
+  {
+    "start": "00:12:19.870",
+    "end": "00:12:22.200",
+    "start_seconds": 739.87,
+    "end_seconds": 742.2,
+    "text": "number try this out take each cashflow thousand year one thousand discount each"
+  },
+  {
+    "start": "00:12:22.200",
+    "end": "00:12:22.210",
+    "start_seconds": 742.2,
+    "end_seconds": 742.21,
+    "text": "thousand year one thousand discount each"
+  },
+  {
+    "start": "00:12:22.210",
+    "end": "00:12:23.790",
+    "start_seconds": 742.21,
+    "end_seconds": 743.79,
+    "text": "thousand year one thousand discount each one separately add them all up you"
+  },
+  {
+    "start": "00:12:23.790",
+    "end": "00:12:23.800",
+    "start_seconds": 743.79,
+    "end_seconds": 743.8,
+    "text": "one separately add them all up you"
+  },
+  {
+    "start": "00:12:23.800",
+    "end": "00:12:25.730",
+    "start_seconds": 743.8,
+    "end_seconds": 745.73,
+    "text": "one separately add them all up you should get exactly the same answer"
+  },
+  {
+    "start": "00:12:25.730",
+    "end": "00:12:25.740",
+    "start_seconds": 745.73,
+    "end_seconds": 745.74,
+    "text": "should get exactly the same answer"
+  },
+  {
+    "start": "00:12:25.740",
+    "end": "00:12:28.020",
+    "start_seconds": 745.74,
+    "end_seconds": 748.02,
+    "text": "should get exactly the same answer present values are additive you can"
+  },
+  {
+    "start": "00:12:28.020",
+    "end": "00:12:28.030",
+    "start_seconds": 748.02,
+    "end_seconds": 748.03,
+    "text": "present values are additive you can"
+  },
+  {
+    "start": "00:12:28.030",
+    "end": "00:12:30.060",
+    "start_seconds": 748.03,
+    "end_seconds": 750.06,
+    "text": "present values are additive you can always check your answer so that's an"
+  },
+  {
+    "start": "00:12:30.060",
+    "end": "00:12:30.070",
+    "start_seconds": 750.06,
+    "end_seconds": 750.07,
+    "text": "always check your answer so that's an"
+  },
+  {
+    "start": "00:12:30.070",
+    "end": "00:12:31.560",
+    "start_seconds": 750.07,
+    "end_seconds": 751.56,
+    "text": "always check your answer so that's an annuity let's talk about growing"
+  },
+  {
+    "start": "00:12:31.560",
+    "end": "00:12:31.570",
+    "start_seconds": 751.56,
+    "end_seconds": 751.57,
+    "text": "annuity let's talk about growing"
+  },
+  {
+    "start": "00:12:31.570",
+    "end": "00:12:33.810",
+    "start_seconds": 751.57,
+    "end_seconds": 753.81,
+    "text": "annuity let's talk about growing annuities a growing annuity as I said is"
+  },
+  {
+    "start": "00:12:33.810",
+    "end": "00:12:33.820",
+    "start_seconds": 753.81,
+    "end_seconds": 753.82,
+    "text": "annuities a growing annuity as I said is"
+  },
+  {
+    "start": "00:12:33.820",
+    "end": "00:12:36.180",
+    "start_seconds": 753.82,
+    "end_seconds": 756.18,
+    "text": "annuities a growing annuity as I said is a is an annuity grows at a constant rate"
+  },
+  {
+    "start": "00:12:36.180",
+    "end": "00:12:36.190",
+    "start_seconds": 756.18,
+    "end_seconds": 756.19,
+    "text": "a is an annuity grows at a constant rate"
+  },
+  {
+    "start": "00:12:36.190",
+    "end": "00:12:38.760",
+    "start_seconds": 756.19,
+    "end_seconds": 758.76,
+    "text": "a is an annuity grows at a constant rate for a particular period 10 years 20"
+  },
+  {
+    "start": "00:12:38.760",
+    "end": "00:12:38.770",
+    "start_seconds": 758.76,
+    "end_seconds": 758.77,
+    "text": "for a particular period 10 years 20"
+  },
+  {
+    "start": "00:12:38.770",
+    "end": "00:12:41.550",
+    "start_seconds": 758.77,
+    "end_seconds": 761.55,
+    "text": "for a particular period 10 years 20 years 25 years again to compute the"
+  },
+  {
+    "start": "00:12:41.550",
+    "end": "00:12:41.560",
+    "start_seconds": 761.55,
+    "end_seconds": 761.56,
+    "text": "years 25 years again to compute the"
+  },
+  {
+    "start": "00:12:41.560",
+    "end": "00:12:43.110",
+    "start_seconds": 761.56,
+    "end_seconds": 763.11,
+    "text": "years 25 years again to compute the present value growing annuity you can do"
+  },
+  {
+    "start": "00:12:43.110",
+    "end": "00:12:43.120",
+    "start_seconds": 763.11,
+    "end_seconds": 763.12,
+    "text": "present value growing annuity you can do"
+  },
+  {
+    "start": "00:12:43.120",
+    "end": "00:12:44.820",
+    "start_seconds": 763.12,
+    "end_seconds": 764.82,
+    "text": "present value growing annuity you can do it the long way you could take each of"
+  },
+  {
+    "start": "00:12:44.820",
+    "end": "00:12:44.830",
+    "start_seconds": 764.82,
+    "end_seconds": 764.83,
+    "text": "it the long way you could take each of"
+  },
+  {
+    "start": "00:12:44.830",
+    "end": "00:12:47.490",
+    "start_seconds": 764.83,
+    "end_seconds": 767.49,
+    "text": "it the long way you could take each of these cash flows and discount it back to"
+  },
+  {
+    "start": "00:12:47.490",
+    "end": "00:12:47.500",
+    "start_seconds": 767.49,
+    "end_seconds": 767.5,
+    "text": "these cash flows and discount it back to"
+  },
+  {
+    "start": "00:12:47.500",
+    "end": "00:12:49.050",
+    "start_seconds": 767.5,
+    "end_seconds": 769.05,
+    "text": "these cash flows and discount it back to today but let's say you're in a hurry"
+  },
+  {
+    "start": "00:12:49.050",
+    "end": "00:12:49.060",
+    "start_seconds": 769.05,
+    "end_seconds": 769.06,
+    "text": "today but let's say you're in a hurry"
+  },
+  {
+    "start": "00:12:49.060",
+    "end": "00:12:51.300",
+    "start_seconds": 769.06,
+    "end_seconds": 771.3,
+    "text": "today but let's say you're in a hurry you want to do it in one step the"
+  },
+  {
+    "start": "00:12:51.300",
+    "end": "00:12:51.310",
+    "start_seconds": 771.3,
+    "end_seconds": 771.31,
+    "text": "you want to do it in one step the"
+  },
+  {
+    "start": "00:12:51.310",
+    "end": "00:12:53.280",
+    "start_seconds": 771.31,
+    "end_seconds": 773.28,
+    "text": "you want to do it in one step the present value of a growing annuity can"
+  },
+  {
+    "start": "00:12:53.280",
+    "end": "00:12:53.290",
+    "start_seconds": 773.28,
+    "end_seconds": 773.29,
+    "text": "present value of a growing annuity can"
+  },
+  {
+    "start": "00:12:53.290",
+    "end": "00:12:54.900",
+    "start_seconds": 773.29,
+    "end_seconds": 774.9,
+    "text": "present value of a growing annuity can be written just like the present value"
+  },
+  {
+    "start": "00:12:54.900",
+    "end": "00:12:54.910",
+    "start_seconds": 774.9,
+    "end_seconds": 774.91,
+    "text": "be written just like the present value"
+  },
+  {
+    "start": "00:12:54.910",
+    "end": "00:12:57.180",
+    "start_seconds": 774.91,
+    "end_seconds": 777.18,
+    "text": "be written just like the present value of an annuity as an equation and notice"
+  },
+  {
+    "start": "00:12:57.180",
+    "end": "00:12:57.190",
+    "start_seconds": 777.18,
+    "end_seconds": 777.19,
+    "text": "of an annuity as an equation and notice"
+  },
+  {
+    "start": "00:12:57.190",
+    "end": "00:12:58.800",
+    "start_seconds": 777.19,
+    "end_seconds": 778.8,
+    "text": "of an annuity as an equation and notice the new variable that's popped up in the"
+  },
+  {
+    "start": "00:12:58.800",
+    "end": "00:12:58.810",
+    "start_seconds": 778.8,
+    "end_seconds": 778.81,
+    "text": "the new variable that's popped up in the"
+  },
+  {
+    "start": "00:12:58.810",
+    "end": "00:13:00.570",
+    "start_seconds": 778.81,
+    "end_seconds": 780.57,
+    "text": "the new variable that's popped up in the equation the growth rate is now part of"
+  },
+  {
+    "start": "00:13:00.570",
+    "end": "00:13:00.580",
+    "start_seconds": 780.57,
+    "end_seconds": 780.58,
+    "text": "equation the growth rate is now part of"
+  },
+  {
+    "start": "00:13:00.580",
+    "end": "00:13:01.050",
+    "start_seconds": 780.58,
+    "end_seconds": 781.05,
+    "text": "equation the growth rate is now part of the game"
+  },
+  {
+    "start": "00:13:01.050",
+    "end": "00:13:01.060",
+    "start_seconds": 781.05,
+    "end_seconds": 781.06,
+    "text": "the game"
+  },
+  {
+    "start": "00:13:01.060",
+    "end": "00:13:03.660",
+    "start_seconds": 781.06,
+    "end_seconds": 783.66,
+    "text": "the game your first cash flow next year's cash"
+  },
+  {
+    "start": "00:13:03.660",
+    "end": "00:13:03.670",
+    "start_seconds": 783.66,
+    "end_seconds": 783.67,
+    "text": "your first cash flow next year's cash"
+  },
+  {
+    "start": "00:13:03.670",
+    "end": "00:13:05.160",
+    "start_seconds": 783.67,
+    "end_seconds": 785.16,
+    "text": "your first cash flow next year's cash flow would reflect the growth over the"
+  },
+  {
+    "start": "00:13:05.160",
+    "end": "00:13:05.170",
+    "start_seconds": 785.16,
+    "end_seconds": 785.17,
+    "text": "flow would reflect the growth over the"
+  },
+  {
+    "start": "00:13:05.170",
+    "end": "00:13:07.080",
+    "start_seconds": 785.17,
+    "end_seconds": 787.08,
+    "text": "flow would reflect the growth over the first year so that's 8 times 1 plus G"
+  },
+  {
+    "start": "00:13:07.080",
+    "end": "00:13:07.090",
+    "start_seconds": 787.08,
+    "end_seconds": 787.09,
+    "text": "first year so that's 8 times 1 plus G"
+  },
+  {
+    "start": "00:13:07.090",
+    "end": "00:13:09.870",
+    "start_seconds": 787.09,
+    "end_seconds": 789.87,
+    "text": "first year so that's 8 times 1 plus G and inside the brackets you see both the"
+  },
+  {
+    "start": "00:13:09.870",
+    "end": "00:13:09.880",
+    "start_seconds": 789.87,
+    "end_seconds": 789.88,
+    "text": "and inside the brackets you see both the"
+  },
+  {
+    "start": "00:13:09.880",
+    "end": "00:13:12.750",
+    "start_seconds": 789.88,
+    "end_seconds": 792.75,
+    "text": "and inside the brackets you see both the growth rate at the discard rate when you"
+  },
+  {
+    "start": "00:13:12.750",
+    "end": "00:13:12.760",
+    "start_seconds": 792.75,
+    "end_seconds": 792.76,
+    "text": "growth rate at the discard rate when you"
+  },
+  {
+    "start": "00:13:12.760",
+    "end": "00:13:14.490",
+    "start_seconds": 792.76,
+    "end_seconds": 794.49,
+    "text": "growth rate at the discard rate when you have a growing annuity the growth rate"
+  },
+  {
+    "start": "00:13:14.490",
+    "end": "00:13:14.500",
+    "start_seconds": 794.49,
+    "end_seconds": 794.5,
+    "text": "have a growing annuity the growth rate"
+  },
+  {
+    "start": "00:13:14.500",
+    "end": "00:13:15.300",
+    "start_seconds": 794.5,
+    "end_seconds": 795.3,
+    "text": "have a growing annuity the growth rate can actually be"
+  },
+  {
+    "start": "00:13:15.300",
+    "end": "00:13:15.310",
+    "start_seconds": 795.3,
+    "end_seconds": 795.31,
+    "text": "can actually be"
+  },
+  {
+    "start": "00:13:15.310",
+    "end": "00:13:16.800",
+    "start_seconds": 795.31,
+    "end_seconds": 796.8,
+    "text": "can actually be higher than the discount rate and you're"
+  },
+  {
+    "start": "00:13:16.800",
+    "end": "00:13:16.810",
+    "start_seconds": 796.8,
+    "end_seconds": 796.81,
+    "text": "higher than the discount rate and you're"
+  },
+  {
+    "start": "00:13:16.810",
+    "end": "00:13:18.570",
+    "start_seconds": 796.81,
+    "end_seconds": 798.57,
+    "text": "higher than the discount rate and you're still gonna be okay so how can I be okay"
+  },
+  {
+    "start": "00:13:18.570",
+    "end": "00:13:18.580",
+    "start_seconds": 798.57,
+    "end_seconds": 798.58,
+    "text": "still gonna be okay so how can I be okay"
+  },
+  {
+    "start": "00:13:18.580",
+    "end": "00:13:20.400",
+    "start_seconds": 798.58,
+    "end_seconds": 800.4,
+    "text": "still gonna be okay so how can I be okay G is greater than or that denominator is"
+  },
+  {
+    "start": "00:13:20.400",
+    "end": "00:13:20.410",
+    "start_seconds": 800.4,
+    "end_seconds": 800.41,
+    "text": "G is greater than or that denominator is"
+  },
+  {
+    "start": "00:13:20.410",
+    "end": "00:13:22.260",
+    "start_seconds": 800.41,
+    "end_seconds": 802.26,
+    "text": "G is greater than or that denominator is going to be negative when G is greater"
+  },
+  {
+    "start": "00:13:22.260",
+    "end": "00:13:22.270",
+    "start_seconds": 802.26,
+    "end_seconds": 802.27,
+    "text": "going to be negative when G is greater"
+  },
+  {
+    "start": "00:13:22.270",
+    "end": "00:13:23.970",
+    "start_seconds": 802.27,
+    "end_seconds": 803.97,
+    "text": "going to be negative when G is greater than are you numerator will also be"
+  },
+  {
+    "start": "00:13:23.970",
+    "end": "00:13:23.980",
+    "start_seconds": 803.97,
+    "end_seconds": 803.98,
+    "text": "than are you numerator will also be"
+  },
+  {
+    "start": "00:13:23.980",
+    "end": "00:13:26.850",
+    "start_seconds": 803.98,
+    "end_seconds": 806.85,
+    "text": "than are you numerator will also be negative this equation will work for any"
+  },
+  {
+    "start": "00:13:26.850",
+    "end": "00:13:26.860",
+    "start_seconds": 806.85,
+    "end_seconds": 806.86,
+    "text": "negative this equation will work for any"
+  },
+  {
+    "start": "00:13:26.860",
+    "end": "00:13:28.890",
+    "start_seconds": 806.86,
+    "end_seconds": 808.89,
+    "text": "negative this equation will work for any growth rate as long as it's a finite"
+  },
+  {
+    "start": "00:13:28.890",
+    "end": "00:13:28.900",
+    "start_seconds": 808.89,
+    "end_seconds": 808.9,
+    "text": "growth rate as long as it's a finite"
+  },
+  {
+    "start": "00:13:28.900",
+    "end": "00:13:31.350",
+    "start_seconds": 808.9,
+    "end_seconds": 811.35,
+    "text": "growth rate as long as it's a finite growth rate so if you have a cashflow"
+  },
+  {
+    "start": "00:13:31.350",
+    "end": "00:13:31.360",
+    "start_seconds": 811.35,
+    "end_seconds": 811.36,
+    "text": "growth rate so if you have a cashflow"
+  },
+  {
+    "start": "00:13:31.360",
+    "end": "00:13:33.660",
+    "start_seconds": 811.36,
+    "end_seconds": 813.66,
+    "text": "growth rate so if you have a cashflow growing at 25% a year for the next five"
+  },
+  {
+    "start": "00:13:33.660",
+    "end": "00:13:33.670",
+    "start_seconds": 813.66,
+    "end_seconds": 813.67,
+    "text": "growing at 25% a year for the next five"
+  },
+  {
+    "start": "00:13:33.670",
+    "end": "00:13:36.150",
+    "start_seconds": 813.67,
+    "end_seconds": 816.15,
+    "text": "growing at 25% a year for the next five years and your discount rate is 10% try"
+  },
+  {
+    "start": "00:13:36.150",
+    "end": "00:13:36.160",
+    "start_seconds": 816.15,
+    "end_seconds": 816.16,
+    "text": "years and your discount rate is 10% try"
+  },
+  {
+    "start": "00:13:36.160",
+    "end": "00:13:37.590",
+    "start_seconds": 816.16,
+    "end_seconds": 817.59,
+    "text": "years and your discount rate is 10% try it out again check your answer by"
+  },
+  {
+    "start": "00:13:37.590",
+    "end": "00:13:37.600",
+    "start_seconds": 817.59,
+    "end_seconds": 817.6,
+    "text": "it out again check your answer by"
+  },
+  {
+    "start": "00:13:37.600",
+    "end": "00:13:39.269",
+    "start_seconds": 817.6,
+    "end_seconds": 819.269,
+    "text": "it out again check your answer by discounting each cashflow separately"
+  },
+  {
+    "start": "00:13:39.269",
+    "end": "00:13:39.279",
+    "start_seconds": 819.269,
+    "end_seconds": 819.279,
+    "text": "discounting each cashflow separately"
+  },
+  {
+    "start": "00:13:39.279",
+    "end": "00:13:42.360",
+    "start_seconds": 819.279,
+    "end_seconds": 822.36,
+    "text": "discounting each cashflow separately back the only the only scenario it will"
+  },
+  {
+    "start": "00:13:42.360",
+    "end": "00:13:42.370",
+    "start_seconds": 822.36,
+    "end_seconds": 822.37,
+    "text": "back the only the only scenario it will"
+  },
+  {
+    "start": "00:13:42.370",
+    "end": "00:13:44.220",
+    "start_seconds": 822.37,
+    "end_seconds": 824.22,
+    "text": "back the only the only scenario it will not work as G's equal to RS and what"
+  },
+  {
+    "start": "00:13:44.220",
+    "end": "00:13:44.230",
+    "start_seconds": 824.22,
+    "end_seconds": 824.23,
+    "text": "not work as G's equal to RS and what"
+  },
+  {
+    "start": "00:13:44.230",
+    "end": "00:13:46.650",
+    "start_seconds": 824.23,
+    "end_seconds": 826.65,
+    "text": "not work as G's equal to RS and what what do I do that G's equaled are they"
+  },
+  {
+    "start": "00:13:46.650",
+    "end": "00:13:46.660",
+    "start_seconds": 826.65,
+    "end_seconds": 826.66,
+    "text": "what do I do that G's equaled are they"
+  },
+  {
+    "start": "00:13:46.660",
+    "end": "00:13:49.200",
+    "start_seconds": 826.66,
+    "end_seconds": 829.2,
+    "text": "what do I do that G's equaled are they cancel out so we have $100 growing at"
+  },
+  {
+    "start": "00:13:49.200",
+    "end": "00:13:49.210",
+    "start_seconds": 829.2,
+    "end_seconds": 829.21,
+    "text": "cancel out so we have $100 growing at"
+  },
+  {
+    "start": "00:13:49.210",
+    "end": "00:13:50.910",
+    "start_seconds": 829.21,
+    "end_seconds": 830.91,
+    "text": "cancel out so we have $100 growing at 10% a year for the next five years in"
+  },
+  {
+    "start": "00:13:50.910",
+    "end": "00:13:50.920",
+    "start_seconds": 830.91,
+    "end_seconds": 830.92,
+    "text": "10% a year for the next five years in"
+  },
+  {
+    "start": "00:13:50.920",
+    "end": "00:13:53.250",
+    "start_seconds": 830.92,
+    "end_seconds": 833.25,
+    "text": "10% a year for the next five years in your discount rate is 10% the present"
+  },
+  {
+    "start": "00:13:53.250",
+    "end": "00:13:53.260",
+    "start_seconds": 833.25,
+    "end_seconds": 833.26,
+    "text": "your discount rate is 10% the present"
+  },
+  {
+    "start": "00:13:53.260",
+    "end": "00:13:54.690",
+    "start_seconds": 833.26,
+    "end_seconds": 834.69,
+    "text": "your discount rate is 10% the present value is going to be five times a"
+  },
+  {
+    "start": "00:13:54.690",
+    "end": "00:13:54.700",
+    "start_seconds": 834.69,
+    "end_seconds": 834.7,
+    "text": "value is going to be five times a"
+  },
+  {
+    "start": "00:13:54.700",
+    "end": "00:13:56.610",
+    "start_seconds": 834.7,
+    "end_seconds": 836.61,
+    "text": "value is going to be five times a hundred five hundred you don't even need"
+  },
+  {
+    "start": "00:13:56.610",
+    "end": "00:13:56.620",
+    "start_seconds": 836.61,
+    "end_seconds": 836.62,
+    "text": "hundred five hundred you don't even need"
+  },
+  {
+    "start": "00:13:56.620",
+    "end": "00:13:58.860",
+    "start_seconds": 836.62,
+    "end_seconds": 838.86,
+    "text": "hundred five hundred you don't even need to go through this calculation now let's"
+  },
+  {
+    "start": "00:13:58.860",
+    "end": "00:13:58.870",
+    "start_seconds": 838.86,
+    "end_seconds": 838.87,
+    "text": "to go through this calculation now let's"
+  },
+  {
+    "start": "00:13:58.870",
+    "end": "00:14:00.750",
+    "start_seconds": 838.87,
+    "end_seconds": 840.75,
+    "text": "to go through this calculation now let's talk about perpetuity so as I said it's"
+  },
+  {
+    "start": "00:14:00.750",
+    "end": "00:14:00.760",
+    "start_seconds": 840.75,
+    "end_seconds": 840.76,
+    "text": "talk about perpetuity so as I said it's"
+  },
+  {
+    "start": "00:14:00.760",
+    "end": "00:14:02.100",
+    "start_seconds": 840.76,
+    "end_seconds": 842.1,
+    "text": "talk about perpetuity so as I said it's mind-boggling because none of us is"
+  },
+  {
+    "start": "00:14:02.100",
+    "end": "00:14:02.110",
+    "start_seconds": 842.1,
+    "end_seconds": 842.11,
+    "text": "mind-boggling because none of us is"
+  },
+  {
+    "start": "00:14:02.110",
+    "end": "00:14:03.960",
+    "start_seconds": 842.11,
+    "end_seconds": 843.96,
+    "text": "mind-boggling because none of us is going to be around forever but if you"
+  },
+  {
+    "start": "00:14:03.960",
+    "end": "00:14:03.970",
+    "start_seconds": 843.96,
+    "end_seconds": 843.97,
+    "text": "going to be around forever but if you"
+  },
+  {
+    "start": "00:14:03.970",
+    "end": "00:14:06.210",
+    "start_seconds": 843.97,
+    "end_seconds": 846.21,
+    "text": "going to be around forever but if you have a cash flow that is fixed and it's"
+  },
+  {
+    "start": "00:14:06.210",
+    "end": "00:14:06.220",
+    "start_seconds": 846.21,
+    "end_seconds": 846.22,
+    "text": "have a cash flow that is fixed and it's"
+  },
+  {
+    "start": "00:14:06.220",
+    "end": "00:14:07.320",
+    "start_seconds": 846.22,
+    "end_seconds": 847.32,
+    "text": "have a cash flow that is fixed and it's going to be there forever"
+  },
+  {
+    "start": "00:14:07.320",
+    "end": "00:14:07.330",
+    "start_seconds": 847.32,
+    "end_seconds": 847.33,
+    "text": "going to be there forever"
+  },
+  {
+    "start": "00:14:07.330",
+    "end": "00:14:09.600",
+    "start_seconds": 847.33,
+    "end_seconds": 849.6,
+    "text": "going to be there forever a hundred dollars each year forever the"
+  },
+  {
+    "start": "00:14:09.600",
+    "end": "00:14:09.610",
+    "start_seconds": 849.6,
+    "end_seconds": 849.61,
+    "text": "a hundred dollars each year forever the"
+  },
+  {
+    "start": "00:14:09.610",
+    "end": "00:14:11.430",
+    "start_seconds": 849.61,
+    "end_seconds": 851.43,
+    "text": "a hundred dollars each year forever the present value of a perpetuity is that"
+  },
+  {
+    "start": "00:14:11.430",
+    "end": "00:14:11.440",
+    "start_seconds": 851.43,
+    "end_seconds": 851.44,
+    "text": "present value of a perpetuity is that"
+  },
+  {
+    "start": "00:14:11.440",
+    "end": "00:14:13.710",
+    "start_seconds": 851.44,
+    "end_seconds": 853.71,
+    "text": "present value of a perpetuity is that hundred dollars divided by the discount"
+  },
+  {
+    "start": "00:14:13.710",
+    "end": "00:14:13.720",
+    "start_seconds": 853.71,
+    "end_seconds": 853.72,
+    "text": "hundred dollars divided by the discount"
+  },
+  {
+    "start": "00:14:13.720",
+    "end": "00:14:15.329",
+    "start_seconds": 853.72,
+    "end_seconds": 855.329,
+    "text": "hundred dollars divided by the discount rate so your discount rate is 8 percent"
+  },
+  {
+    "start": "00:14:15.329",
+    "end": "00:14:15.339",
+    "start_seconds": 855.329,
+    "end_seconds": 855.339,
+    "text": "rate so your discount rate is 8 percent"
+  },
+  {
+    "start": "00:14:15.339",
+    "end": "00:14:18.710",
+    "start_seconds": 855.339,
+    "end_seconds": 858.71,
+    "text": "rate so your discount rate is 8 percent a hundred divided by 0.08 gives me"
+  },
+  {
+    "start": "00:14:18.710",
+    "end": "00:14:18.720",
+    "start_seconds": 858.71,
+    "end_seconds": 858.72,
+    "text": "a hundred divided by 0.08 gives me"
+  },
+  {
+    "start": "00:14:18.720",
+    "end": "00:14:20.970",
+    "start_seconds": 858.72,
+    "end_seconds": 860.97,
+    "text": "a hundred divided by 0.08 gives me $1,250 that's the present value of a"
+  },
+  {
+    "start": "00:14:20.970",
+    "end": "00:14:20.980",
+    "start_seconds": 860.97,
+    "end_seconds": 860.98,
+    "text": "$1,250 that's the present value of a"
+  },
+  {
+    "start": "00:14:20.980",
+    "end": "00:14:22.290",
+    "start_seconds": 860.98,
+    "end_seconds": 862.29,
+    "text": "$1,250 that's the present value of a perpetuity you see what's the intuition"
+  },
+  {
+    "start": "00:14:22.290",
+    "end": "00:14:22.300",
+    "start_seconds": 862.29,
+    "end_seconds": 862.3,
+    "text": "perpetuity you see what's the intuition"
+  },
+  {
+    "start": "00:14:22.300",
+    "end": "00:14:25.290",
+    "start_seconds": 862.3,
+    "end_seconds": 865.29,
+    "text": "perpetuity you see what's the intuition if you take that 1,000 250 and put it in"
+  },
+  {
+    "start": "00:14:25.290",
+    "end": "00:14:25.300",
+    "start_seconds": 865.29,
+    "end_seconds": 865.3,
+    "text": "if you take that 1,000 250 and put it in"
+  },
+  {
+    "start": "00:14:25.300",
+    "end": "00:14:27.270",
+    "start_seconds": 865.3,
+    "end_seconds": 867.27,
+    "text": "if you take that 1,000 250 and put it in a bank and the bank paid you 8 percent"
+  },
+  {
+    "start": "00:14:27.270",
+    "end": "00:14:27.280",
+    "start_seconds": 867.27,
+    "end_seconds": 867.28,
+    "text": "a bank and the bank paid you 8 percent"
+  },
+  {
+    "start": "00:14:27.280",
+    "end": "00:14:28.320",
+    "start_seconds": 867.28,
+    "end_seconds": 868.32,
+    "text": "a bank and the bank paid you 8 percent every year think of what you're going to"
+  },
+  {
+    "start": "00:14:28.320",
+    "end": "00:14:28.330",
+    "start_seconds": 868.32,
+    "end_seconds": 868.33,
+    "text": "every year think of what you're going to"
+  },
+  {
+    "start": "00:14:28.330",
+    "end": "00:14:29.850",
+    "start_seconds": 868.33,
+    "end_seconds": 869.85,
+    "text": "every year think of what you're going to get to the rest of it earning eight"
+  },
+  {
+    "start": "00:14:29.850",
+    "end": "00:14:29.860",
+    "start_seconds": 869.85,
+    "end_seconds": 869.86,
+    "text": "get to the rest of it earning eight"
+  },
+  {
+    "start": "00:14:29.860",
+    "end": "00:14:32.310",
+    "start_seconds": 869.86,
+    "end_seconds": 872.31,
+    "text": "get to the rest of it earning eight percent of 1000 250 is a hundred there"
+  },
+  {
+    "start": "00:14:32.310",
+    "end": "00:14:32.320",
+    "start_seconds": 872.31,
+    "end_seconds": 872.32,
+    "text": "percent of 1000 250 is a hundred there"
+  },
+  {
+    "start": "00:14:32.320",
+    "end": "00:14:33.990",
+    "start_seconds": 872.32,
+    "end_seconds": 873.99,
+    "text": "percent of 1000 250 is a hundred there you go you can check your answer again"
+  },
+  {
+    "start": "00:14:33.990",
+    "end": "00:14:34.000",
+    "start_seconds": 873.99,
+    "end_seconds": 874.0,
+    "text": "you go you can check your answer again"
+  },
+  {
+    "start": "00:14:34.000",
+    "end": "00:14:36.540",
+    "start_seconds": 874.0,
+    "end_seconds": 876.54,
+    "text": "you go you can check your answer again and finally if you think about mind"
+  },
+  {
+    "start": "00:14:36.540",
+    "end": "00:14:36.550",
+    "start_seconds": 876.54,
+    "end_seconds": 876.55,
+    "text": "and finally if you think about mind"
+  },
+  {
+    "start": "00:14:36.550",
+    "end": "00:14:37.650",
+    "start_seconds": 876.55,
+    "end_seconds": 877.65,
+    "text": "and finally if you think about mind boggling here's an even more"
+  },
+  {
+    "start": "00:14:37.650",
+    "end": "00:14:37.660",
+    "start_seconds": 877.65,
+    "end_seconds": 877.66,
+    "text": "boggling here's an even more"
+  },
+  {
+    "start": "00:14:37.660",
+    "end": "00:14:39.900",
+    "start_seconds": 877.66,
+    "end_seconds": 879.9,
+    "text": "boggling here's an even more mind-boggling concept a cash flow"
+  },
+  {
+    "start": "00:14:39.900",
+    "end": "00:14:39.910",
+    "start_seconds": 879.9,
+    "end_seconds": 879.91,
+    "text": "mind-boggling concept a cash flow"
+  },
+  {
+    "start": "00:14:39.910",
+    "end": "00:14:42.960",
+    "start_seconds": 879.91,
+    "end_seconds": 882.96,
+    "text": "mind-boggling concept a cash flow growing at a constant rate forever $100"
+  },
+  {
+    "start": "00:14:42.960",
+    "end": "00:14:42.970",
+    "start_seconds": 882.96,
+    "end_seconds": 882.97,
+    "text": "growing at a constant rate forever $100"
+  },
+  {
+    "start": "00:14:42.970",
+    "end": "00:14:45.360",
+    "start_seconds": 882.97,
+    "end_seconds": 885.36,
+    "text": "growing at a constant rate forever $100 growing at 2% a year forever here the"
+  },
+  {
+    "start": "00:14:45.360",
+    "end": "00:14:45.370",
+    "start_seconds": 885.36,
+    "end_seconds": 885.37,
+    "text": "growing at 2% a year forever here the"
+  },
+  {
+    "start": "00:14:45.370",
+    "end": "00:14:47.280",
+    "start_seconds": 885.37,
+    "end_seconds": 887.28,
+    "text": "growing at 2% a year forever here the present value of a growing perpetuity is"
+  },
+  {
+    "start": "00:14:47.280",
+    "end": "00:14:47.290",
+    "start_seconds": 887.28,
+    "end_seconds": 887.29,
+    "text": "present value of a growing perpetuity is"
+  },
+  {
+    "start": "00:14:47.290",
+    "end": "00:14:49.320",
+    "start_seconds": 887.29,
+    "end_seconds": 889.32,
+    "text": "present value of a growing perpetuity is the expected cash flow one year out you"
+  },
+  {
+    "start": "00:14:49.320",
+    "end": "00:14:49.330",
+    "start_seconds": 889.32,
+    "end_seconds": 889.33,
+    "text": "the expected cash flow one year out you"
+  },
+  {
+    "start": "00:14:49.330",
+    "end": "00:14:51.360",
+    "start_seconds": 889.33,
+    "end_seconds": 891.36,
+    "text": "the expected cash flow one year out you always have to do that in present values"
+  },
+  {
+    "start": "00:14:51.360",
+    "end": "00:14:51.370",
+    "start_seconds": 891.36,
+    "end_seconds": 891.37,
+    "text": "always have to do that in present values"
+  },
+  {
+    "start": "00:14:51.370",
+    "end": "00:14:53.300",
+    "start_seconds": 891.37,
+    "end_seconds": 893.3,
+    "text": "always have to do that in present values so 100 and become a hundred and two"
+  },
+  {
+    "start": "00:14:53.300",
+    "end": "00:14:53.310",
+    "start_seconds": 893.3,
+    "end_seconds": 893.31,
+    "text": "so 100 and become a hundred and two"
+  },
+  {
+    "start": "00:14:53.310",
+    "end": "00:14:55.470",
+    "start_seconds": 893.31,
+    "end_seconds": 895.47,
+    "text": "so 100 and become a hundred and two divided by the difference with the"
+  },
+  {
+    "start": "00:14:55.470",
+    "end": "00:14:55.480",
+    "start_seconds": 895.47,
+    "end_seconds": 895.48,
+    "text": "divided by the difference with the"
+  },
+  {
+    "start": "00:14:55.480",
+    "end": "00:14:57.420",
+    "start_seconds": 895.48,
+    "end_seconds": 897.42,
+    "text": "divided by the difference with the discount rate and the growth rate are"
+  },
+  {
+    "start": "00:14:57.420",
+    "end": "00:14:57.430",
+    "start_seconds": 897.42,
+    "end_seconds": 897.43,
+    "text": "discount rate and the growth rate are"
+  },
+  {
+    "start": "00:14:57.430",
+    "end": "00:15:00.300",
+    "start_seconds": 897.43,
+    "end_seconds": 900.3,
+    "text": "discount rate and the growth rate are minus G this is one of the most used and"
+  },
+  {
+    "start": "00:15:00.300",
+    "end": "00:15:00.310",
+    "start_seconds": 900.3,
+    "end_seconds": 900.31,
+    "text": "minus G this is one of the most used and"
+  },
+  {
+    "start": "00:15:00.310",
+    "end": "00:15:03.060",
+    "start_seconds": 900.31,
+    "end_seconds": 903.06,
+    "text": "minus G this is one of the most used and misused equations in corporate finance"
+  },
+  {
+    "start": "00:15:03.060",
+    "end": "00:15:03.070",
+    "start_seconds": 903.06,
+    "end_seconds": 903.07,
+    "text": "misused equations in corporate finance"
+  },
+  {
+    "start": "00:15:03.070",
+    "end": "00:15:05.130",
+    "start_seconds": 903.07,
+    "end_seconds": 905.13,
+    "text": "misused equations in corporate finance and valuation you're going to see the"
+  },
+  {
+    "start": "00:15:05.130",
+    "end": "00:15:05.140",
+    "start_seconds": 905.13,
+    "end_seconds": 905.14,
+    "text": "and valuation you're going to see the"
+  },
+  {
+    "start": "00:15:05.140",
+    "end": "00:15:07.920",
+    "start_seconds": 905.14,
+    "end_seconds": 907.92,
+    "text": "and valuation you're going to see the see me use this later in my valuation"
+  },
+  {
+    "start": "00:15:07.920",
+    "end": "00:15:07.930",
+    "start_seconds": 907.92,
+    "end_seconds": 907.93,
+    "text": "see me use this later in my valuation"
+  },
+  {
+    "start": "00:15:07.930",
+    "end": "00:15:09.449",
+    "start_seconds": 907.93,
+    "end_seconds": 909.449,
+    "text": "see me use this later in my valuation class to get terminal value in my"
+  },
+  {
+    "start": "00:15:09.449",
+    "end": "00:15:09.459",
+    "start_seconds": 909.449,
+    "end_seconds": 909.459,
+    "text": "class to get terminal value in my"
+  },
+  {
+    "start": "00:15:09.459",
+    "end": "00:15:11.160",
+    "start_seconds": 909.459,
+    "end_seconds": 911.16,
+    "text": "class to get terminal value in my corporate finance class to get the end"
+  },
+  {
+    "start": "00:15:11.160",
+    "end": "00:15:11.170",
+    "start_seconds": 911.16,
+    "end_seconds": 911.17,
+    "text": "corporate finance class to get the end"
+  },
+  {
+    "start": "00:15:11.170",
+    "end": "00:15:13.199",
+    "start_seconds": 911.17,
+    "end_seconds": 913.199,
+    "text": "corporate finance class to get the end value for a project and I'm going to"
+  },
+  {
+    "start": "00:15:13.199",
+    "end": "00:15:13.209",
+    "start_seconds": 913.199,
+    "end_seconds": 913.209,
+    "text": "value for a project and I'm going to"
+  },
+  {
+    "start": "00:15:13.209",
+    "end": "00:15:15.480",
+    "start_seconds": 913.209,
+    "end_seconds": 915.48,
+    "text": "value for a project and I'm going to introduce some rules that go with this"
+  },
+  {
+    "start": "00:15:15.480",
+    "end": "00:15:15.490",
+    "start_seconds": 915.48,
+    "end_seconds": 915.49,
+    "text": "introduce some rules that go with this"
+  },
+  {
+    "start": "00:15:15.490",
+    "end": "00:15:17.699",
+    "start_seconds": 915.49,
+    "end_seconds": 917.699,
+    "text": "introduce some rules that go with this equation that will keep it from from"
+  },
+  {
+    "start": "00:15:17.699",
+    "end": "00:15:17.709",
+    "start_seconds": 917.699,
+    "end_seconds": 917.709,
+    "text": "equation that will keep it from from"
+  },
+  {
+    "start": "00:15:17.709",
+    "end": "00:15:19.019",
+    "start_seconds": 917.709,
+    "end_seconds": 919.019,
+    "text": "equation that will keep it from from running away from you because it can"
+  },
+  {
+    "start": "00:15:19.019",
+    "end": "00:15:19.029",
+    "start_seconds": 919.019,
+    "end_seconds": 919.029,
+    "text": "running away from you because it can"
+  },
+  {
+    "start": "00:15:19.029",
+    "end": "00:15:21.269",
+    "start_seconds": 919.029,
+    "end_seconds": 921.269,
+    "text": "running away from you because it can very easily get out of control but in"
+  },
+  {
+    "start": "00:15:21.269",
+    "end": "00:15:21.279",
+    "start_seconds": 921.269,
+    "end_seconds": 921.279,
+    "text": "very easily get out of control but in"
+  },
+  {
+    "start": "00:15:21.279",
+    "end": "00:15:23.850",
+    "start_seconds": 921.279,
+    "end_seconds": 923.85,
+    "text": "very easily get out of control but in summary those are the only five types of"
+  },
+  {
+    "start": "00:15:23.850",
+    "end": "00:15:23.860",
+    "start_seconds": 923.85,
+    "end_seconds": 923.86,
+    "text": "summary those are the only five types of"
+  },
+  {
+    "start": "00:15:23.860",
+    "end": "00:15:25.860",
+    "start_seconds": 923.86,
+    "end_seconds": 925.86,
+    "text": "summary those are the only five types of cash flows you will ever run into and"
+  },
+  {
+    "start": "00:15:25.860",
+    "end": "00:15:25.870",
+    "start_seconds": 925.86,
+    "end_seconds": 925.87,
+    "text": "cash flows you will ever run into and"
+  },
+  {
+    "start": "00:15:25.870",
+    "end": "00:15:28.350",
+    "start_seconds": 925.87,
+    "end_seconds": 928.35,
+    "text": "cash flows you will ever run into and knowing the mechanics"
+  },
+  {
+    "start": "00:15:28.350",
+    "end": "00:15:28.360",
+    "start_seconds": 928.35,
+    "end_seconds": 928.36,
+    "text": "knowing the mechanics"
+  },
+  {
+    "start": "00:15:28.360",
+    "end": "00:15:29.400",
+    "start_seconds": 928.36,
+    "end_seconds": 929.4,
+    "text": "knowing the mechanics computing the present value the cash"
+  },
+  {
+    "start": "00:15:29.400",
+    "end": "00:15:29.410",
+    "start_seconds": 929.4,
+    "end_seconds": 929.41,
+    "text": "computing the present value the cash"
+  },
+  {
+    "start": "00:15:29.410",
+    "end": "00:15:32.910",
+    "start_seconds": 929.41,
+    "end_seconds": 932.91,
+    "text": "computing the present value the cash flows will stand you in good stead"
+  }
+]

@@ -1,0 +1,4391 @@
+[
+  {
+    "start": "00:00:00.110",
+    "end": "00:00:03.200",
+    "start_seconds": 0.11,
+    "end_seconds": 3.2,
+    "text": "this is session 8 the foundations and"
+  },
+  {
+    "start": "00:00:03.200",
+    "end": "00:00:03.210",
+    "start_seconds": 3.2,
+    "end_seconds": 3.21,
+    "text": "this is session 8 the foundations and"
+  },
+  {
+    "start": "00:00:03.210",
+    "end": "00:00:06.110",
+    "start_seconds": 3.21,
+    "end_seconds": 6.11,
+    "text": "this is session 8 the foundations and finance module and in this session I'd"
+  },
+  {
+    "start": "00:00:06.110",
+    "end": "00:00:06.120",
+    "start_seconds": 6.11,
+    "end_seconds": 6.12,
+    "text": "finance module and in this session I'd"
+  },
+  {
+    "start": "00:00:06.120",
+    "end": "00:00:08.270",
+    "start_seconds": 6.12,
+    "end_seconds": 8.27,
+    "text": "finance module and in this session I'd like to take the time value concepts we"
+  },
+  {
+    "start": "00:00:08.270",
+    "end": "00:00:08.280",
+    "start_seconds": 8.27,
+    "end_seconds": 8.28,
+    "text": "like to take the time value concepts we"
+  },
+  {
+    "start": "00:00:08.280",
+    "end": "00:00:10.700",
+    "start_seconds": 8.28,
+    "end_seconds": 10.7,
+    "text": "like to take the time value concepts we used to value bonds and use them to"
+  },
+  {
+    "start": "00:00:10.700",
+    "end": "00:00:10.710",
+    "start_seconds": 10.7,
+    "end_seconds": 10.71,
+    "text": "used to value bonds and use them to"
+  },
+  {
+    "start": "00:00:10.710",
+    "end": "00:00:13.669",
+    "start_seconds": 10.71,
+    "end_seconds": 13.669,
+    "text": "used to value bonds and use them to value residual claims or equity so let's"
+  },
+  {
+    "start": "00:00:13.669",
+    "end": "00:00:13.679",
+    "start_seconds": 13.669,
+    "end_seconds": 13.679,
+    "text": "value residual claims or equity so let's"
+  },
+  {
+    "start": "00:00:13.679",
+    "end": "00:00:15.770",
+    "start_seconds": 13.679,
+    "end_seconds": 15.77,
+    "text": "value residual claims or equity so let's set the table when you're an equity"
+  },
+  {
+    "start": "00:00:15.770",
+    "end": "00:00:15.780",
+    "start_seconds": 15.77,
+    "end_seconds": 15.78,
+    "text": "set the table when you're an equity"
+  },
+  {
+    "start": "00:00:15.780",
+    "end": "00:00:17.090",
+    "start_seconds": 15.78,
+    "end_seconds": 17.09,
+    "text": "set the table when you're an equity investor in a business you're the owner"
+  },
+  {
+    "start": "00:00:17.090",
+    "end": "00:00:17.100",
+    "start_seconds": 17.09,
+    "end_seconds": 17.1,
+    "text": "investor in a business you're the owner"
+  },
+  {
+    "start": "00:00:17.100",
+    "end": "00:00:19.189",
+    "start_seconds": 17.1,
+    "end_seconds": 19.189,
+    "text": "investor in a business you're the owner of a business stockholder and a publicly"
+  },
+  {
+    "start": "00:00:19.189",
+    "end": "00:00:19.199",
+    "start_seconds": 19.189,
+    "end_seconds": 19.199,
+    "text": "of a business stockholder and a publicly"
+  },
+  {
+    "start": "00:00:19.199",
+    "end": "00:00:21.019",
+    "start_seconds": 19.199,
+    "end_seconds": 21.019,
+    "text": "of a business stockholder and a publicly traded company an equity investor in any"
+  },
+  {
+    "start": "00:00:21.019",
+    "end": "00:00:21.029",
+    "start_seconds": 21.019,
+    "end_seconds": 21.029,
+    "text": "traded company an equity investor in any"
+  },
+  {
+    "start": "00:00:21.029",
+    "end": "00:00:23.689",
+    "start_seconds": 21.029,
+    "end_seconds": 23.689,
+    "text": "traded company an equity investor in any enterprise what you have is a claim on"
+  },
+  {
+    "start": "00:00:23.689",
+    "end": "00:00:23.699",
+    "start_seconds": 23.689,
+    "end_seconds": 23.699,
+    "text": "enterprise what you have is a claim on"
+  },
+  {
+    "start": "00:00:23.699",
+    "end": "00:00:25.519",
+    "start_seconds": 23.699,
+    "end_seconds": 25.519,
+    "text": "enterprise what you have is a claim on the residual cash flow what's left over"
+  },
+  {
+    "start": "00:00:25.519",
+    "end": "00:00:25.529",
+    "start_seconds": 25.519,
+    "end_seconds": 25.529,
+    "text": "the residual cash flow what's left over"
+  },
+  {
+    "start": "00:00:25.529",
+    "end": "00:00:28.040",
+    "start_seconds": 25.529,
+    "end_seconds": 28.04,
+    "text": "the residual cash flow what's left over after everybody else has been paid it's"
+  },
+  {
+    "start": "00:00:28.040",
+    "end": "00:00:28.050",
+    "start_seconds": 28.04,
+    "end_seconds": 28.05,
+    "text": "after everybody else has been paid it's"
+  },
+  {
+    "start": "00:00:28.050",
+    "end": "00:00:29.870",
+    "start_seconds": 28.05,
+    "end_seconds": 29.87,
+    "text": "after everybody else has been paid it's not a contract release at cash flow it's"
+  },
+  {
+    "start": "00:00:29.870",
+    "end": "00:00:29.880",
+    "start_seconds": 29.87,
+    "end_seconds": 29.88,
+    "text": "not a contract release at cash flow it's"
+  },
+  {
+    "start": "00:00:29.880",
+    "end": "00:00:32.510",
+    "start_seconds": 29.88,
+    "end_seconds": 32.51,
+    "text": "not a contract release at cash flow it's not a promise cash flow and generically"
+  },
+  {
+    "start": "00:00:32.510",
+    "end": "00:00:32.520",
+    "start_seconds": 32.51,
+    "end_seconds": 32.52,
+    "text": "not a promise cash flow and generically"
+  },
+  {
+    "start": "00:00:32.520",
+    "end": "00:00:34.100",
+    "start_seconds": 32.52,
+    "end_seconds": 34.1,
+    "text": "not a promise cash flow and generically there are two ways you can value the"
+  },
+  {
+    "start": "00:00:34.100",
+    "end": "00:00:34.110",
+    "start_seconds": 34.1,
+    "end_seconds": 34.11,
+    "text": "there are two ways you can value the"
+  },
+  {
+    "start": "00:00:34.110",
+    "end": "00:00:37.940",
+    "start_seconds": 34.11,
+    "end_seconds": 37.94,
+    "text": "there are two ways you can value the equity in an asset or a business one is"
+  },
+  {
+    "start": "00:00:37.940",
+    "end": "00:00:37.950",
+    "start_seconds": 37.94,
+    "end_seconds": 37.95,
+    "text": "equity in an asset or a business one is"
+  },
+  {
+    "start": "00:00:37.950",
+    "end": "00:00:40.400",
+    "start_seconds": 37.95,
+    "end_seconds": 40.4,
+    "text": "equity in an asset or a business one is to focus just an equity look at what you"
+  },
+  {
+    "start": "00:00:40.400",
+    "end": "00:00:40.410",
+    "start_seconds": 40.4,
+    "end_seconds": 40.41,
+    "text": "to focus just an equity look at what you"
+  },
+  {
+    "start": "00:00:40.410",
+    "end": "00:00:42.619",
+    "start_seconds": 40.41,
+    "end_seconds": 42.619,
+    "text": "to focus just an equity look at what you get as cash flows as an equity investor"
+  },
+  {
+    "start": "00:00:42.619",
+    "end": "00:00:42.629",
+    "start_seconds": 42.619,
+    "end_seconds": 42.629,
+    "text": "get as cash flows as an equity investor"
+  },
+  {
+    "start": "00:00:42.629",
+    "end": "00:00:44.420",
+    "start_seconds": 42.629,
+    "end_seconds": 44.42,
+    "text": "get as cash flows as an equity investor which as cash flows left over after debt"
+  },
+  {
+    "start": "00:00:44.420",
+    "end": "00:00:44.430",
+    "start_seconds": 44.42,
+    "end_seconds": 44.43,
+    "text": "which as cash flows left over after debt"
+  },
+  {
+    "start": "00:00:44.430",
+    "end": "00:00:46.760",
+    "start_seconds": 44.43,
+    "end_seconds": 46.76,
+    "text": "which as cash flows left over after debt payments and discount those cash flows"
+  },
+  {
+    "start": "00:00:46.760",
+    "end": "00:00:46.770",
+    "start_seconds": 46.76,
+    "end_seconds": 46.77,
+    "text": "payments and discount those cash flows"
+  },
+  {
+    "start": "00:00:46.770",
+    "end": "00:00:48.889",
+    "start_seconds": 46.77,
+    "end_seconds": 48.889,
+    "text": "payments and discount those cash flows back at a rate of return you would need"
+  },
+  {
+    "start": "00:00:48.889",
+    "end": "00:00:48.899",
+    "start_seconds": 48.889,
+    "end_seconds": 48.899,
+    "text": "back at a rate of return you would need"
+  },
+  {
+    "start": "00:00:48.899",
+    "end": "00:00:50.540",
+    "start_seconds": 48.899,
+    "end_seconds": 50.54,
+    "text": "back at a rate of return you would need to make given the risk in that equity of"
+  },
+  {
+    "start": "00:00:50.540",
+    "end": "00:00:50.550",
+    "start_seconds": 50.54,
+    "end_seconds": 50.55,
+    "text": "to make given the risk in that equity of"
+  },
+  {
+    "start": "00:00:50.550",
+    "end": "00:00:53.180",
+    "start_seconds": 50.55,
+    "end_seconds": 53.18,
+    "text": "to make given the risk in that equity of cost of equity the second way you can"
+  },
+  {
+    "start": "00:00:53.180",
+    "end": "00:00:53.190",
+    "start_seconds": 53.18,
+    "end_seconds": 53.19,
+    "text": "cost of equity the second way you can"
+  },
+  {
+    "start": "00:00:53.190",
+    "end": "00:00:55.310",
+    "start_seconds": 53.19,
+    "end_seconds": 55.31,
+    "text": "cost of equity the second way you can value the equity in a business is you"
+  },
+  {
+    "start": "00:00:55.310",
+    "end": "00:00:55.320",
+    "start_seconds": 55.31,
+    "end_seconds": 55.32,
+    "text": "value the equity in a business is you"
+  },
+  {
+    "start": "00:00:55.320",
+    "end": "00:00:56.959",
+    "start_seconds": 55.32,
+    "end_seconds": 56.959,
+    "text": "value the equity in a business is you can value the entire business the cash"
+  },
+  {
+    "start": "00:00:56.959",
+    "end": "00:00:56.969",
+    "start_seconds": 56.959,
+    "end_seconds": 56.969,
+    "text": "can value the entire business the cash"
+  },
+  {
+    "start": "00:00:56.969",
+    "end": "00:00:58.880",
+    "start_seconds": 56.969,
+    "end_seconds": 58.88,
+    "text": "can value the entire business the cash flows to all of the claim holders in"
+  },
+  {
+    "start": "00:00:58.880",
+    "end": "00:00:58.890",
+    "start_seconds": 58.88,
+    "end_seconds": 58.89,
+    "text": "flows to all of the claim holders in"
+  },
+  {
+    "start": "00:00:58.890",
+    "end": "00:01:00.410",
+    "start_seconds": 58.89,
+    "end_seconds": 60.41,
+    "text": "flows to all of the claim holders in this case both lenders and equity"
+  },
+  {
+    "start": "00:01:00.410",
+    "end": "00:01:00.420",
+    "start_seconds": 60.41,
+    "end_seconds": 60.42,
+    "text": "this case both lenders and equity"
+  },
+  {
+    "start": "00:01:00.420",
+    "end": "00:01:02.060",
+    "start_seconds": 60.42,
+    "end_seconds": 62.06,
+    "text": "this case both lenders and equity investors it's called the cash flow to"
+  },
+  {
+    "start": "00:01:02.060",
+    "end": "00:01:02.070",
+    "start_seconds": 62.06,
+    "end_seconds": 62.07,
+    "text": "investors it's called the cash flow to"
+  },
+  {
+    "start": "00:01:02.070",
+    "end": "00:01:03.590",
+    "start_seconds": 62.07,
+    "end_seconds": 63.59,
+    "text": "investors it's called the cash flow to the business the cash flow to the firm"
+  },
+  {
+    "start": "00:01:03.590",
+    "end": "00:01:03.600",
+    "start_seconds": 63.59,
+    "end_seconds": 63.6,
+    "text": "the business the cash flow to the firm"
+  },
+  {
+    "start": "00:01:03.600",
+    "end": "00:01:06.980",
+    "start_seconds": 63.6,
+    "end_seconds": 66.98,
+    "text": "the business the cash flow to the firm and discount those cash flows back not"
+  },
+  {
+    "start": "00:01:06.980",
+    "end": "00:01:06.990",
+    "start_seconds": 66.98,
+    "end_seconds": 66.99,
+    "text": "and discount those cash flows back not"
+  },
+  {
+    "start": "00:01:06.990",
+    "end": "00:01:08.899",
+    "start_seconds": 66.99,
+    "end_seconds": 68.899,
+    "text": "and discount those cash flows back not at the cost of equity but at a weighted"
+  },
+  {
+    "start": "00:01:08.899",
+    "end": "00:01:08.909",
+    "start_seconds": 68.899,
+    "end_seconds": 68.909,
+    "text": "at the cost of equity but at a weighted"
+  },
+  {
+    "start": "00:01:08.909",
+    "end": "00:01:10.460",
+    "start_seconds": 68.909,
+    "end_seconds": 70.46000000000001,
+    "text": "at the cost of equity but at a weighted average of what the equity investors"
+  },
+  {
+    "start": "00:01:10.460",
+    "end": "00:01:10.470",
+    "start_seconds": 70.46000000000001,
+    "end_seconds": 70.47,
+    "text": "average of what the equity investors"
+  },
+  {
+    "start": "00:01:10.470",
+    "end": "00:01:11.929",
+    "start_seconds": 70.47,
+    "end_seconds": 71.929,
+    "text": "average of what the equity investors want which is the cost of equity and"
+  },
+  {
+    "start": "00:01:11.929",
+    "end": "00:01:11.939",
+    "start_seconds": 71.929,
+    "end_seconds": 71.939,
+    "text": "want which is the cost of equity and"
+  },
+  {
+    "start": "00:01:11.939",
+    "end": "00:01:13.490",
+    "start_seconds": 71.939,
+    "end_seconds": 73.49,
+    "text": "want which is the cost of equity and what the lenders want which is the cost"
+  },
+  {
+    "start": "00:01:13.490",
+    "end": "00:01:13.500",
+    "start_seconds": 73.49,
+    "end_seconds": 73.5,
+    "text": "what the lenders want which is the cost"
+  },
+  {
+    "start": "00:01:13.500",
+    "end": "00:01:15.140",
+    "start_seconds": 73.5,
+    "end_seconds": 75.14,
+    "text": "what the lenders want which is the cost of debt it's called the cost of capital"
+  },
+  {
+    "start": "00:01:15.140",
+    "end": "00:01:15.150",
+    "start_seconds": 75.14,
+    "end_seconds": 75.15,
+    "text": "of debt it's called the cost of capital"
+  },
+  {
+    "start": "00:01:15.150",
+    "end": "00:01:17.120",
+    "start_seconds": 75.15,
+    "end_seconds": 77.12,
+    "text": "of debt it's called the cost of capital and discount the entire business she"
+  },
+  {
+    "start": "00:01:17.120",
+    "end": "00:01:17.130",
+    "start_seconds": 77.12,
+    "end_seconds": 77.13,
+    "text": "and discount the entire business she"
+  },
+  {
+    "start": "00:01:17.130",
+    "end": "00:01:18.289",
+    "start_seconds": 77.13,
+    "end_seconds": 78.289,
+    "text": "and discount the entire business she said how does that help me get to the"
+  },
+  {
+    "start": "00:01:18.289",
+    "end": "00:01:18.299",
+    "start_seconds": 78.289,
+    "end_seconds": 78.299,
+    "text": "said how does that help me get to the"
+  },
+  {
+    "start": "00:01:18.299",
+    "end": "00:01:20.690",
+    "start_seconds": 78.299,
+    "end_seconds": 80.69,
+    "text": "said how does that help me get to the value of equity if you subtract out the"
+  },
+  {
+    "start": "00:01:20.690",
+    "end": "00:01:20.700",
+    "start_seconds": 80.69,
+    "end_seconds": 80.7,
+    "text": "value of equity if you subtract out the"
+  },
+  {
+    "start": "00:01:20.700",
+    "end": "00:01:22.490",
+    "start_seconds": 80.7,
+    "end_seconds": 82.49,
+    "text": "value of equity if you subtract out the debt you owe you should end up with the"
+  },
+  {
+    "start": "00:01:22.490",
+    "end": "00:01:22.500",
+    "start_seconds": 82.49,
+    "end_seconds": 82.5,
+    "text": "debt you owe you should end up with the"
+  },
+  {
+    "start": "00:01:22.500",
+    "end": "00:01:24.890",
+    "start_seconds": 82.5,
+    "end_seconds": 84.89,
+    "text": "debt you owe you should end up with the value of equity in a business there will"
+  },
+  {
+    "start": "00:01:24.890",
+    "end": "00:01:24.900",
+    "start_seconds": 84.89,
+    "end_seconds": 84.9,
+    "text": "value of equity in a business there will"
+  },
+  {
+    "start": "00:01:24.900",
+    "end": "00:01:27.080",
+    "start_seconds": 84.9,
+    "end_seconds": 87.08,
+    "text": "value of equity in a business there will be plenty of time to revisit these these"
+  },
+  {
+    "start": "00:01:27.080",
+    "end": "00:01:27.090",
+    "start_seconds": 87.08,
+    "end_seconds": 87.09,
+    "text": "be plenty of time to revisit these these"
+  },
+  {
+    "start": "00:01:27.090",
+    "end": "00:01:29.149",
+    "start_seconds": 87.09,
+    "end_seconds": 89.149,
+    "text": "be plenty of time to revisit these these concepts and examine them in detail but"
+  },
+  {
+    "start": "00:01:29.149",
+    "end": "00:01:29.159",
+    "start_seconds": 89.149,
+    "end_seconds": 89.15899999999999,
+    "text": "concepts and examine them in detail but"
+  },
+  {
+    "start": "00:01:29.159",
+    "end": "00:01:31.399",
+    "start_seconds": 89.15899999999999,
+    "end_seconds": 91.399,
+    "text": "concepts and examine them in detail but let's set up the general picture in an"
+  },
+  {
+    "start": "00:01:31.399",
+    "end": "00:01:31.409",
+    "start_seconds": 91.399,
+    "end_seconds": 91.40899999999999,
+    "text": "let's set up the general picture in an"
+  },
+  {
+    "start": "00:01:31.409",
+    "end": "00:01:32.810",
+    "start_seconds": 91.40899999999999,
+    "end_seconds": 92.81,
+    "text": "let's set up the general picture in an equity valuation here's what you're"
+  },
+  {
+    "start": "00:01:32.810",
+    "end": "00:01:32.820",
+    "start_seconds": 92.81,
+    "end_seconds": 92.82,
+    "text": "equity valuation here's what you're"
+  },
+  {
+    "start": "00:01:32.820",
+    "end": "00:01:34.940",
+    "start_seconds": 92.82,
+    "end_seconds": 94.94,
+    "text": "equity valuation here's what you're trying to do the cash flows you're"
+  },
+  {
+    "start": "00:01:34.940",
+    "end": "00:01:34.950",
+    "start_seconds": 94.94,
+    "end_seconds": 94.95,
+    "text": "trying to do the cash flows you're"
+  },
+  {
+    "start": "00:01:34.950",
+    "end": "00:01:36.859",
+    "start_seconds": 94.95,
+    "end_seconds": 96.85900000000001,
+    "text": "trying to do the cash flows you're looking at are the cash flows from both"
+  },
+  {
+    "start": "00:01:36.859",
+    "end": "00:01:36.869",
+    "start_seconds": 96.85900000000001,
+    "end_seconds": 96.869,
+    "text": "looking at are the cash flows from both"
+  },
+  {
+    "start": "00:01:36.869",
+    "end": "00:01:38.569",
+    "start_seconds": 96.869,
+    "end_seconds": 98.569,
+    "text": "looking at are the cash flows from both assets in place and growth assets but"
+  },
+  {
+    "start": "00:01:38.569",
+    "end": "00:01:38.579",
+    "start_seconds": 98.569,
+    "end_seconds": 98.57900000000001,
+    "text": "assets in place and growth assets but"
+  },
+  {
+    "start": "00:01:38.579",
+    "end": "00:01:40.760",
+    "start_seconds": 98.57900000000001,
+    "end_seconds": 100.75999999999999,
+    "text": "assets in place and growth assets but cash flows after reinvestment needs"
+  },
+  {
+    "start": "00:01:40.760",
+    "end": "00:01:40.770",
+    "start_seconds": 100.75999999999999,
+    "end_seconds": 100.77000000000001,
+    "text": "cash flows after reinvestment needs"
+  },
+  {
+    "start": "00:01:40.770",
+    "end": "00:01:42.260",
+    "start_seconds": 100.77000000000001,
+    "end_seconds": 102.25999999999999,
+    "text": "cash flows after reinvestment needs which can be substantially we have a lot"
+  },
+  {
+    "start": "00:01:42.260",
+    "end": "00:01:42.270",
+    "start_seconds": 102.25999999999999,
+    "end_seconds": 102.27000000000001,
+    "text": "which can be substantially we have a lot"
+  },
+  {
+    "start": "00:01:42.270",
+    "end": "00:01:44.510",
+    "start_seconds": 102.27000000000001,
+    "end_seconds": 104.50999999999999,
+    "text": "which can be substantially we have a lot of growth assets and after you've made"
+  },
+  {
+    "start": "00:01:44.510",
+    "end": "00:01:44.520",
+    "start_seconds": 104.50999999999999,
+    "end_seconds": 104.52000000000001,
+    "text": "of growth assets and after you've made"
+  },
+  {
+    "start": "00:01:44.520",
+    "end": "00:01:46.010",
+    "start_seconds": 104.52000000000001,
+    "end_seconds": 106.00999999999999,
+    "text": "of growth assets and after you've made that payments interest payments and"
+  },
+  {
+    "start": "00:01:46.010",
+    "end": "00:01:46.020",
+    "start_seconds": 106.00999999999999,
+    "end_seconds": 106.02000000000001,
+    "text": "that payments interest payments and"
+  },
+  {
+    "start": "00:01:46.020",
+    "end": "00:01:47.899",
+    "start_seconds": 106.02000000000001,
+    "end_seconds": 107.899,
+    "text": "that payments interest payments and principal payments to the extent that"
+  },
+  {
+    "start": "00:01:47.899",
+    "end": "00:01:47.909",
+    "start_seconds": 107.899,
+    "end_seconds": 107.90899999999999,
+    "text": "principal payments to the extent that"
+  },
+  {
+    "start": "00:01:47.909",
+    "end": "00:01:49.429",
+    "start_seconds": 107.90899999999999,
+    "end_seconds": 109.429,
+    "text": "principal payments to the extent that you borrow money to fund some of your"
+  },
+  {
+    "start": "00:01:49.429",
+    "end": "00:01:49.439",
+    "start_seconds": 109.429,
+    "end_seconds": 109.439,
+    "text": "you borrow money to fund some of your"
+  },
+  {
+    "start": "00:01:49.439",
+    "end": "00:01:51.560",
+    "start_seconds": 109.439,
+    "end_seconds": 111.56,
+    "text": "you borrow money to fund some of your projects think of that as a cash cash"
+  },
+  {
+    "start": "00:01:51.560",
+    "end": "00:01:51.570",
+    "start_seconds": 111.56,
+    "end_seconds": 111.57,
+    "text": "projects think of that as a cash cash"
+  },
+  {
+    "start": "00:01:51.570",
+    "end": "00:01:54.440",
+    "start_seconds": 111.57,
+    "end_seconds": 114.44,
+    "text": "projects think of that as a cash cash inflow cash flows to equity our cash"
+  },
+  {
+    "start": "00:01:54.440",
+    "end": "00:01:54.450",
+    "start_seconds": 114.44,
+    "end_seconds": 114.45,
+    "text": "inflow cash flows to equity our cash"
+  },
+  {
+    "start": "00:01:54.450",
+    "end": "00:01:56.420",
+    "start_seconds": 114.45,
+    "end_seconds": 116.42,
+    "text": "inflow cash flows to equity our cash flows that you face as an equity"
+  },
+  {
+    "start": "00:01:56.420",
+    "end": "00:01:56.430",
+    "start_seconds": 116.42,
+    "end_seconds": 116.43,
+    "text": "flows that you face as an equity"
+  },
+  {
+    "start": "00:01:56.430",
+    "end": "00:01:58.550",
+    "start_seconds": 116.43,
+    "end_seconds": 118.55,
+    "text": "flows that you face as an equity investor the discount rate you use to"
+  },
+  {
+    "start": "00:01:58.550",
+    "end": "00:01:58.560",
+    "start_seconds": 118.55,
+    "end_seconds": 118.56,
+    "text": "investor the discount rate you use to"
+  },
+  {
+    "start": "00:01:58.560",
+    "end": "00:02:00.050",
+    "start_seconds": 118.56,
+    "end_seconds": 120.05,
+    "text": "investor the discount rate you use to discount those cash flows will reflect"
+  },
+  {
+    "start": "00:02:00.050",
+    "end": "00:02:00.060",
+    "start_seconds": 120.05,
+    "end_seconds": 120.06,
+    "text": "discount those cash flows will reflect"
+  },
+  {
+    "start": "00:02:00.060",
+    "end": "00:02:01.969",
+    "start_seconds": 120.06,
+    "end_seconds": 121.969,
+    "text": "discount those cash flows will reflect the risk you see in the equity and"
+  },
+  {
+    "start": "00:02:01.969",
+    "end": "00:02:01.979",
+    "start_seconds": 121.969,
+    "end_seconds": 121.979,
+    "text": "the risk you see in the equity and"
+  },
+  {
+    "start": "00:02:01.979",
+    "end": "00:02:03.499",
+    "start_seconds": 121.979,
+    "end_seconds": 123.499,
+    "text": "the risk you see in the equity and remember again the notion of an"
+  },
+  {
+    "start": "00:02:03.499",
+    "end": "00:02:03.509",
+    "start_seconds": 123.499,
+    "end_seconds": 123.509,
+    "text": "remember again the notion of an"
+  },
+  {
+    "start": "00:02:03.509",
+    "end": "00:02:05.690",
+    "start_seconds": 123.509,
+    "end_seconds": 125.69,
+    "text": "remember again the notion of an opportunity cost it's what you can make"
+  },
+  {
+    "start": "00:02:05.690",
+    "end": "00:02:05.700",
+    "start_seconds": 125.69,
+    "end_seconds": 125.7,
+    "text": "opportunity cost it's what you can make"
+  },
+  {
+    "start": "00:02:05.700",
+    "end": "00:02:07.490",
+    "start_seconds": 125.7,
+    "end_seconds": 127.49,
+    "text": "opportunity cost it's what you can make on other equity investments of"
+  },
+  {
+    "start": "00:02:07.490",
+    "end": "00:02:07.500",
+    "start_seconds": 127.49,
+    "end_seconds": 127.5,
+    "text": "on other equity investments of"
+  },
+  {
+    "start": "00:02:07.500",
+    "end": "00:02:09.380",
+    "start_seconds": 127.5,
+    "end_seconds": 129.38,
+    "text": "on other equity investments of equivalent risk what do you get as a"
+  },
+  {
+    "start": "00:02:09.380",
+    "end": "00:02:09.390",
+    "start_seconds": 129.38,
+    "end_seconds": 129.39,
+    "text": "equivalent risk what do you get as a"
+  },
+  {
+    "start": "00:02:09.390",
+    "end": "00:02:11.540",
+    "start_seconds": 129.39,
+    "end_seconds": 131.54,
+    "text": "equivalent risk what do you get as a present value is the value of equity in"
+  },
+  {
+    "start": "00:02:11.540",
+    "end": "00:02:11.550",
+    "start_seconds": 131.54,
+    "end_seconds": 131.55,
+    "text": "present value is the value of equity in"
+  },
+  {
+    "start": "00:02:11.550",
+    "end": "00:02:12.540",
+    "start_seconds": 131.55,
+    "end_seconds": 132.54,
+    "text": "present value is the value of equity in the business"
+  },
+  {
+    "start": "00:02:12.540",
+    "end": "00:02:12.550",
+    "start_seconds": 132.54,
+    "end_seconds": 132.55,
+    "text": "the business"
+  },
+  {
+    "start": "00:02:12.550",
+    "end": "00:02:14.220",
+    "start_seconds": 132.55,
+    "end_seconds": 134.22,
+    "text": "the business now let's step back and think about this"
+  },
+  {
+    "start": "00:02:14.220",
+    "end": "00:02:14.230",
+    "start_seconds": 134.22,
+    "end_seconds": 134.23,
+    "text": "now let's step back and think about this"
+  },
+  {
+    "start": "00:02:14.230",
+    "end": "00:02:17.100",
+    "start_seconds": 134.23,
+    "end_seconds": 137.1,
+    "text": "now let's step back and think about this cash flow stacking the cash flows equity"
+  },
+  {
+    "start": "00:02:17.100",
+    "end": "00:02:17.110",
+    "start_seconds": 137.1,
+    "end_seconds": 137.11,
+    "text": "cash flow stacking the cash flows equity"
+  },
+  {
+    "start": "00:02:17.110",
+    "end": "00:02:19.380",
+    "start_seconds": 137.11,
+    "end_seconds": 139.38,
+    "text": "cash flow stacking the cash flows equity as I said our cash flows leftover after"
+  },
+  {
+    "start": "00:02:19.380",
+    "end": "00:02:19.390",
+    "start_seconds": 139.38,
+    "end_seconds": 139.39,
+    "text": "as I said our cash flows leftover after"
+  },
+  {
+    "start": "00:02:19.390",
+    "end": "00:02:22.440",
+    "start_seconds": 139.39,
+    "end_seconds": 142.44,
+    "text": "as I said our cash flows leftover after every conceivable need as we met but if"
+  },
+  {
+    "start": "00:02:22.440",
+    "end": "00:02:22.450",
+    "start_seconds": 142.44,
+    "end_seconds": 142.45,
+    "text": "every conceivable need as we met but if"
+  },
+  {
+    "start": "00:02:22.450",
+    "end": "00:02:23.370",
+    "start_seconds": 142.45,
+    "end_seconds": 143.37,
+    "text": "every conceivable need as we met but if you're a stockholder and a"
+  },
+  {
+    "start": "00:02:23.370",
+    "end": "00:02:23.380",
+    "start_seconds": 143.37,
+    "end_seconds": 143.38,
+    "text": "you're a stockholder and a"
+  },
+  {
+    "start": "00:02:23.380",
+    "end": "00:02:25.500",
+    "start_seconds": 143.38,
+    "end_seconds": 145.5,
+    "text": "you're a stockholder and a publicly-traded from the company the"
+  },
+  {
+    "start": "00:02:25.500",
+    "end": "00:02:25.510",
+    "start_seconds": 145.5,
+    "end_seconds": 145.51,
+    "text": "publicly-traded from the company the"
+  },
+  {
+    "start": "00:02:25.510",
+    "end": "00:02:27.360",
+    "start_seconds": 145.51,
+    "end_seconds": 147.36,
+    "text": "publicly-traded from the company the cash flow you generally receive from the"
+  },
+  {
+    "start": "00:02:27.360",
+    "end": "00:02:27.370",
+    "start_seconds": 147.36,
+    "end_seconds": 147.37,
+    "text": "cash flow you generally receive from the"
+  },
+  {
+    "start": "00:02:27.370",
+    "end": "00:02:27.930",
+    "start_seconds": 147.37,
+    "end_seconds": 147.93,
+    "text": "cash flow you generally receive from the company"
+  },
+  {
+    "start": "00:02:27.930",
+    "end": "00:02:27.940",
+    "start_seconds": 147.93,
+    "end_seconds": 147.94,
+    "text": "company"
+  },
+  {
+    "start": "00:02:27.940",
+    "end": "00:02:30.270",
+    "start_seconds": 147.94,
+    "end_seconds": 150.27,
+    "text": "company it's a dividend right the dividend if"
+  },
+  {
+    "start": "00:02:30.270",
+    "end": "00:02:30.280",
+    "start_seconds": 150.27,
+    "end_seconds": 150.28,
+    "text": "it's a dividend right the dividend if"
+  },
+  {
+    "start": "00:02:30.280",
+    "end": "00:02:32.790",
+    "start_seconds": 150.28,
+    "end_seconds": 152.79,
+    "text": "it's a dividend right the dividend if the managers discretionary judgment and"
+  },
+  {
+    "start": "00:02:32.790",
+    "end": "00:02:32.800",
+    "start_seconds": 152.79,
+    "end_seconds": 152.8,
+    "text": "the managers discretionary judgment and"
+  },
+  {
+    "start": "00:02:32.800",
+    "end": "00:02:34.410",
+    "start_seconds": 152.8,
+    "end_seconds": 154.41,
+    "text": "the managers discretionary judgment and how much the company can afford to pay"
+  },
+  {
+    "start": "00:02:34.410",
+    "end": "00:02:34.420",
+    "start_seconds": 154.41,
+    "end_seconds": 154.42000000000002,
+    "text": "how much the company can afford to pay"
+  },
+  {
+    "start": "00:02:34.420",
+    "end": "00:02:36.810",
+    "start_seconds": 154.42000000000002,
+    "end_seconds": 156.81,
+    "text": "how much the company can afford to pay out it's observable it's right there and"
+  },
+  {
+    "start": "00:02:36.810",
+    "end": "00:02:36.820",
+    "start_seconds": 156.81,
+    "end_seconds": 156.82,
+    "text": "out it's observable it's right there and"
+  },
+  {
+    "start": "00:02:36.820",
+    "end": "00:02:39.510",
+    "start_seconds": 156.82,
+    "end_seconds": 159.51,
+    "text": "out it's observable it's right there and not surprisingly the earliest discounted"
+  },
+  {
+    "start": "00:02:39.510",
+    "end": "00:02:39.520",
+    "start_seconds": 159.51,
+    "end_seconds": 159.52,
+    "text": "not surprisingly the earliest discounted"
+  },
+  {
+    "start": "00:02:39.520",
+    "end": "00:02:41.220",
+    "start_seconds": 159.52,
+    "end_seconds": 161.22,
+    "text": "not surprisingly the earliest discounted cash flow models to value equity were"
+  },
+  {
+    "start": "00:02:41.220",
+    "end": "00:02:41.230",
+    "start_seconds": 161.22,
+    "end_seconds": 161.23,
+    "text": "cash flow models to value equity were"
+  },
+  {
+    "start": "00:02:41.230",
+    "end": "00:02:43.170",
+    "start_seconds": 161.23,
+    "end_seconds": 163.17000000000002,
+    "text": "cash flow models to value equity were built around dividends because you could"
+  },
+  {
+    "start": "00:02:43.170",
+    "end": "00:02:43.180",
+    "start_seconds": 163.17000000000002,
+    "end_seconds": 163.18,
+    "text": "built around dividends because you could"
+  },
+  {
+    "start": "00:02:43.180",
+    "end": "00:02:46.050",
+    "start_seconds": 163.18,
+    "end_seconds": 166.05,
+    "text": "built around dividends because you could build those but in effect what you're"
+  },
+  {
+    "start": "00:02:46.050",
+    "end": "00:02:46.060",
+    "start_seconds": 166.05,
+    "end_seconds": 166.06,
+    "text": "build those but in effect what you're"
+  },
+  {
+    "start": "00:02:46.060",
+    "end": "00:02:47.250",
+    "start_seconds": 166.06,
+    "end_seconds": 167.25,
+    "text": "build those but in effect what you're doing when use the dividend discount"
+  },
+  {
+    "start": "00:02:47.250",
+    "end": "00:02:47.260",
+    "start_seconds": 167.25,
+    "end_seconds": 167.26,
+    "text": "doing when use the dividend discount"
+  },
+  {
+    "start": "00:02:47.260",
+    "end": "00:02:50.100",
+    "start_seconds": 167.26,
+    "end_seconds": 170.1,
+    "text": "doing when use the dividend discount model is assuming that what gets fade"
+  },
+  {
+    "start": "00:02:50.100",
+    "end": "00:02:50.110",
+    "start_seconds": 170.1,
+    "end_seconds": 170.11,
+    "text": "model is assuming that what gets fade"
+  },
+  {
+    "start": "00:02:50.110",
+    "end": "00:02:52.200",
+    "start_seconds": 170.11,
+    "end_seconds": 172.2,
+    "text": "model is assuming that what gets fade out the dividends is what can what the"
+  },
+  {
+    "start": "00:02:52.200",
+    "end": "00:02:52.210",
+    "start_seconds": 172.2,
+    "end_seconds": 172.21,
+    "text": "out the dividends is what can what the"
+  },
+  {
+    "start": "00:02:52.210",
+    "end": "00:02:54.600",
+    "start_seconds": 172.21,
+    "end_seconds": 174.6,
+    "text": "out the dividends is what can what the company can afford to bear the more"
+  },
+  {
+    "start": "00:02:54.600",
+    "end": "00:02:54.610",
+    "start_seconds": 174.6,
+    "end_seconds": 174.61,
+    "text": "company can afford to bear the more"
+  },
+  {
+    "start": "00:02:54.610",
+    "end": "00:02:56.640",
+    "start_seconds": 174.61,
+    "end_seconds": 176.64,
+    "text": "company can afford to bear the more generic the more general definition of"
+  },
+  {
+    "start": "00:02:56.640",
+    "end": "00:02:56.650",
+    "start_seconds": 176.64,
+    "end_seconds": 176.65,
+    "text": "generic the more general definition of"
+  },
+  {
+    "start": "00:02:56.650",
+    "end": "00:02:59.010",
+    "start_seconds": 176.65,
+    "end_seconds": 179.01,
+    "text": "generic the more general definition of free cash flow equity it's not trust"
+  },
+  {
+    "start": "00:02:59.010",
+    "end": "00:02:59.020",
+    "start_seconds": 179.01,
+    "end_seconds": 179.02,
+    "text": "free cash flow equity it's not trust"
+  },
+  {
+    "start": "00:02:59.020",
+    "end": "00:03:02.190",
+    "start_seconds": 179.02,
+    "end_seconds": 182.19,
+    "text": "free cash flow equity it's not trust companies when they pay dividends now"
+  },
+  {
+    "start": "00:03:02.190",
+    "end": "00:03:02.200",
+    "start_seconds": 182.19,
+    "end_seconds": 182.2,
+    "text": "companies when they pay dividends now"
+  },
+  {
+    "start": "00:03:02.200",
+    "end": "00:03:04.320",
+    "start_seconds": 182.2,
+    "end_seconds": 184.32,
+    "text": "companies when they pay dividends now act as if those might not be what the"
+  },
+  {
+    "start": "00:03:04.320",
+    "end": "00:03:04.330",
+    "start_seconds": 184.32,
+    "end_seconds": 184.33,
+    "text": "act as if those might not be what the"
+  },
+  {
+    "start": "00:03:04.330",
+    "end": "00:03:06.270",
+    "start_seconds": 184.33,
+    "end_seconds": 186.27,
+    "text": "act as if those might not be what the company could have paid and estimate"
+  },
+  {
+    "start": "00:03:06.270",
+    "end": "00:03:06.280",
+    "start_seconds": 186.27,
+    "end_seconds": 186.28,
+    "text": "company could have paid and estimate"
+  },
+  {
+    "start": "00:03:06.280",
+    "end": "00:03:07.590",
+    "start_seconds": 186.28,
+    "end_seconds": 187.59,
+    "text": "company could have paid and estimate yourself what the company could have"
+  },
+  {
+    "start": "00:03:07.590",
+    "end": "00:03:07.600",
+    "start_seconds": 187.59,
+    "end_seconds": 187.6,
+    "text": "yourself what the company could have"
+  },
+  {
+    "start": "00:03:07.600",
+    "end": "00:03:09.030",
+    "start_seconds": 187.6,
+    "end_seconds": 189.03,
+    "text": "yourself what the company could have paid a dividend I like to call this"
+  },
+  {
+    "start": "00:03:09.030",
+    "end": "00:03:09.040",
+    "start_seconds": 189.03,
+    "end_seconds": 189.04,
+    "text": "paid a dividend I like to call this"
+  },
+  {
+    "start": "00:03:09.040",
+    "end": "00:03:10.890",
+    "start_seconds": 189.04,
+    "end_seconds": 190.89,
+    "text": "paid a dividend I like to call this potential dividend a free cash drawer"
+  },
+  {
+    "start": "00:03:10.890",
+    "end": "00:03:10.900",
+    "start_seconds": 190.89,
+    "end_seconds": 190.9,
+    "text": "potential dividend a free cash drawer"
+  },
+  {
+    "start": "00:03:10.900",
+    "end": "00:03:12.870",
+    "start_seconds": 190.9,
+    "end_seconds": 192.87,
+    "text": "potential dividend a free cash drawer equity and yes what you're doing you're"
+  },
+  {
+    "start": "00:03:12.870",
+    "end": "00:03:12.880",
+    "start_seconds": 192.87,
+    "end_seconds": 192.88,
+    "text": "equity and yes what you're doing you're"
+  },
+  {
+    "start": "00:03:12.880",
+    "end": "00:03:14.940",
+    "start_seconds": 192.88,
+    "end_seconds": 194.94,
+    "text": "equity and yes what you're doing you're looking at the cash flow leftover after"
+  },
+  {
+    "start": "00:03:14.940",
+    "end": "00:03:14.950",
+    "start_seconds": 194.94,
+    "end_seconds": 194.95,
+    "text": "looking at the cash flow leftover after"
+  },
+  {
+    "start": "00:03:14.950",
+    "end": "00:03:16.650",
+    "start_seconds": 194.95,
+    "end_seconds": 196.65,
+    "text": "looking at the cash flow leftover after interest payments after debt payments"
+  },
+  {
+    "start": "00:03:16.650",
+    "end": "00:03:16.660",
+    "start_seconds": 196.65,
+    "end_seconds": 196.66,
+    "text": "interest payments after debt payments"
+  },
+  {
+    "start": "00:03:16.660",
+    "end": "00:03:19.080",
+    "start_seconds": 196.66,
+    "end_seconds": 199.07999999999998,
+    "text": "interest payments after debt payments after investment needs after taxes the"
+  },
+  {
+    "start": "00:03:19.080",
+    "end": "00:03:19.090",
+    "start_seconds": 199.07999999999998,
+    "end_seconds": 199.09,
+    "text": "after investment needs after taxes the"
+  },
+  {
+    "start": "00:03:19.090",
+    "end": "00:03:21.360",
+    "start_seconds": 199.09,
+    "end_seconds": 201.36,
+    "text": "after investment needs after taxes the way I describe it as is the owner of a"
+  },
+  {
+    "start": "00:03:21.360",
+    "end": "00:03:21.370",
+    "start_seconds": 201.36,
+    "end_seconds": 201.37,
+    "text": "way I describe it as is the owner of a"
+  },
+  {
+    "start": "00:03:21.370",
+    "end": "00:03:23.400",
+    "start_seconds": 201.37,
+    "end_seconds": 203.4,
+    "text": "way I describe it as is the owner of a business this is the cash left in the"
+  },
+  {
+    "start": "00:03:23.400",
+    "end": "00:03:23.410",
+    "start_seconds": 203.4,
+    "end_seconds": 203.41,
+    "text": "business this is the cash left in the"
+  },
+  {
+    "start": "00:03:23.410",
+    "end": "00:03:25.500",
+    "start_seconds": 203.41,
+    "end_seconds": 205.5,
+    "text": "business this is the cash left in the till after every conceivable need has"
+  },
+  {
+    "start": "00:03:25.500",
+    "end": "00:03:25.510",
+    "start_seconds": 205.5,
+    "end_seconds": 205.51,
+    "text": "till after every conceivable need has"
+  },
+  {
+    "start": "00:03:25.510",
+    "end": "00:03:27.870",
+    "start_seconds": 205.51,
+    "end_seconds": 207.87,
+    "text": "till after every conceivable need has been met and remember remember unlike"
+  },
+  {
+    "start": "00:03:27.870",
+    "end": "00:03:27.880",
+    "start_seconds": 207.87,
+    "end_seconds": 207.88,
+    "text": "been met and remember remember unlike"
+  },
+  {
+    "start": "00:03:27.880",
+    "end": "00:03:29.370",
+    "start_seconds": 207.88,
+    "end_seconds": 209.37,
+    "text": "been met and remember remember unlike dividends which are flawed at zero"
+  },
+  {
+    "start": "00:03:29.370",
+    "end": "00:03:29.380",
+    "start_seconds": 209.37,
+    "end_seconds": 209.38,
+    "text": "dividends which are flawed at zero"
+  },
+  {
+    "start": "00:03:29.380",
+    "end": "00:03:31.290",
+    "start_seconds": 209.38,
+    "end_seconds": 211.29,
+    "text": "dividends which are flawed at zero cannot have a negative dividend your"
+  },
+  {
+    "start": "00:03:31.290",
+    "end": "00:03:31.300",
+    "start_seconds": 211.29,
+    "end_seconds": 211.3,
+    "text": "cannot have a negative dividend your"
+  },
+  {
+    "start": "00:03:31.300",
+    "end": "00:03:33.120",
+    "start_seconds": 211.3,
+    "end_seconds": 213.12,
+    "text": "cannot have a negative dividend your free cash flow equity can be a negative"
+  },
+  {
+    "start": "00:03:33.120",
+    "end": "00:03:33.130",
+    "start_seconds": 213.12,
+    "end_seconds": 213.13,
+    "text": "free cash flow equity can be a negative"
+  },
+  {
+    "start": "00:03:33.130",
+    "end": "00:03:35.160",
+    "start_seconds": 213.13,
+    "end_seconds": 215.16,
+    "text": "free cash flow equity can be a negative number and often if you're a young"
+  },
+  {
+    "start": "00:03:35.160",
+    "end": "00:03:35.170",
+    "start_seconds": 215.16,
+    "end_seconds": 215.17000000000002,
+    "text": "number and often if you're a young"
+  },
+  {
+    "start": "00:03:35.170",
+    "end": "00:03:37.530",
+    "start_seconds": 215.17000000000002,
+    "end_seconds": 217.53,
+    "text": "number and often if you're a young company is startup a growing company it"
+  },
+  {
+    "start": "00:03:37.530",
+    "end": "00:03:37.540",
+    "start_seconds": 217.53,
+    "end_seconds": 217.54,
+    "text": "company is startup a growing company it"
+  },
+  {
+    "start": "00:03:37.540",
+    "end": "00:03:39.660",
+    "start_seconds": 217.54,
+    "end_seconds": 219.66,
+    "text": "company is startup a growing company it should be a negative number so those are"
+  },
+  {
+    "start": "00:03:39.660",
+    "end": "00:03:39.670",
+    "start_seconds": 219.66,
+    "end_seconds": 219.67000000000002,
+    "text": "should be a negative number so those are"
+  },
+  {
+    "start": "00:03:39.670",
+    "end": "00:03:41.940",
+    "start_seconds": 219.67000000000002,
+    "end_seconds": 221.94,
+    "text": "should be a negative number so those are your measures of cash flows let's talk"
+  },
+  {
+    "start": "00:03:41.940",
+    "end": "00:03:41.950",
+    "start_seconds": 221.94,
+    "end_seconds": 221.95,
+    "text": "your measures of cash flows let's talk"
+  },
+  {
+    "start": "00:03:41.950",
+    "end": "00:03:44.130",
+    "start_seconds": 221.95,
+    "end_seconds": 224.13,
+    "text": "your measures of cash flows let's talk about the cost of equity the cost of"
+  },
+  {
+    "start": "00:03:44.130",
+    "end": "00:03:44.140",
+    "start_seconds": 224.13,
+    "end_seconds": 224.14,
+    "text": "about the cost of equity the cost of"
+  },
+  {
+    "start": "00:03:44.140",
+    "end": "00:03:45.900",
+    "start_seconds": 224.14,
+    "end_seconds": 225.9,
+    "text": "about the cost of equity the cost of equity is the rate of return you as an"
+  },
+  {
+    "start": "00:03:45.900",
+    "end": "00:03:45.910",
+    "start_seconds": 225.9,
+    "end_seconds": 225.91,
+    "text": "equity is the rate of return you as an"
+  },
+  {
+    "start": "00:03:45.910",
+    "end": "00:03:48.810",
+    "start_seconds": 225.91,
+    "end_seconds": 228.81,
+    "text": "equity is the rate of return you as an equity investor need to make not want to"
+  },
+  {
+    "start": "00:03:48.810",
+    "end": "00:03:48.820",
+    "start_seconds": 228.81,
+    "end_seconds": 228.82,
+    "text": "equity investor need to make not want to"
+  },
+  {
+    "start": "00:03:48.820",
+    "end": "00:03:50.699",
+    "start_seconds": 228.82,
+    "end_seconds": 230.699,
+    "text": "equity investor need to make not want to need to make on this investment given"
+  },
+  {
+    "start": "00:03:50.699",
+    "end": "00:03:50.709",
+    "start_seconds": 230.699,
+    "end_seconds": 230.709,
+    "text": "need to make on this investment given"
+  },
+  {
+    "start": "00:03:50.709",
+    "end": "00:03:53.070",
+    "start_seconds": 230.709,
+    "end_seconds": 233.07,
+    "text": "need to make on this investment given its risk it reflects what you can make"
+  },
+  {
+    "start": "00:03:53.070",
+    "end": "00:03:53.080",
+    "start_seconds": 233.07,
+    "end_seconds": 233.07999999999998,
+    "text": "its risk it reflects what you can make"
+  },
+  {
+    "start": "00:03:53.080",
+    "end": "00:03:55.410",
+    "start_seconds": 233.07999999999998,
+    "end_seconds": 235.41,
+    "text": "its risk it reflects what you can make on otherwise similar equity investments"
+  },
+  {
+    "start": "00:03:55.410",
+    "end": "00:03:55.420",
+    "start_seconds": 235.41,
+    "end_seconds": 235.42000000000002,
+    "text": "on otherwise similar equity investments"
+  },
+  {
+    "start": "00:03:55.420",
+    "end": "00:03:57.270",
+    "start_seconds": 235.42000000000002,
+    "end_seconds": 237.27,
+    "text": "on otherwise similar equity investments with equivalent risk so if you have"
+  },
+  {
+    "start": "00:03:57.270",
+    "end": "00:03:57.280",
+    "start_seconds": 237.27,
+    "end_seconds": 237.28,
+    "text": "with equivalent risk so if you have"
+  },
+  {
+    "start": "00:03:57.280",
+    "end": "00:03:59.280",
+    "start_seconds": 237.28,
+    "end_seconds": 239.28,
+    "text": "with equivalent risk so if you have higher risk equity investments your cost"
+  },
+  {
+    "start": "00:03:59.280",
+    "end": "00:03:59.290",
+    "start_seconds": 239.28,
+    "end_seconds": 239.29,
+    "text": "higher risk equity investments your cost"
+  },
+  {
+    "start": "00:03:59.290",
+    "end": "00:04:01.380",
+    "start_seconds": 239.29,
+    "end_seconds": 241.38,
+    "text": "higher risk equity investments your cost of equity should be higher in fact much"
+  },
+  {
+    "start": "00:04:01.380",
+    "end": "00:04:01.390",
+    "start_seconds": 241.38,
+    "end_seconds": 241.39,
+    "text": "of equity should be higher in fact much"
+  },
+  {
+    "start": "00:04:01.390",
+    "end": "00:04:03.300",
+    "start_seconds": 241.39,
+    "end_seconds": 243.3,
+    "text": "of equity should be higher in fact much of what we talked about in the context"
+  },
+  {
+    "start": "00:04:03.300",
+    "end": "00:04:03.310",
+    "start_seconds": 243.3,
+    "end_seconds": 243.31,
+    "text": "of what we talked about in the context"
+  },
+  {
+    "start": "00:04:03.310",
+    "end": "00:04:05.880",
+    "start_seconds": 243.31,
+    "end_seconds": 245.88,
+    "text": "of what we talked about in the context of risk measurement was setting up to"
+  },
+  {
+    "start": "00:04:05.880",
+    "end": "00:04:05.890",
+    "start_seconds": 245.88,
+    "end_seconds": 245.89,
+    "text": "of risk measurement was setting up to"
+  },
+  {
+    "start": "00:04:05.890",
+    "end": "00:04:07.980",
+    "start_seconds": 245.89,
+    "end_seconds": 247.98,
+    "text": "of risk measurement was setting up to come up with the cost of equity so"
+  },
+  {
+    "start": "00:04:07.980",
+    "end": "00:04:07.990",
+    "start_seconds": 247.98,
+    "end_seconds": 247.99,
+    "text": "come up with the cost of equity so"
+  },
+  {
+    "start": "00:04:07.990",
+    "end": "00:04:10.740",
+    "start_seconds": 247.99,
+    "end_seconds": 250.74,
+    "text": "come up with the cost of equity so here's the problem we raise this in the"
+  },
+  {
+    "start": "00:04:10.740",
+    "end": "00:04:10.750",
+    "start_seconds": 250.74,
+    "end_seconds": 250.75,
+    "text": "here's the problem we raise this in the"
+  },
+  {
+    "start": "00:04:10.750",
+    "end": "00:04:12.720",
+    "start_seconds": 250.75,
+    "end_seconds": 252.72,
+    "text": "here's the problem we raise this in the context of risk and return models if"
+  },
+  {
+    "start": "00:04:12.720",
+    "end": "00:04:12.730",
+    "start_seconds": 252.72,
+    "end_seconds": 252.73,
+    "text": "context of risk and return models if"
+  },
+  {
+    "start": "00:04:12.730",
+    "end": "00:04:14.670",
+    "start_seconds": 252.73,
+    "end_seconds": 254.67,
+    "text": "context of risk and return models if you're a publicly traded company with"
+  },
+  {
+    "start": "00:04:14.670",
+    "end": "00:04:14.680",
+    "start_seconds": 254.67,
+    "end_seconds": 254.68,
+    "text": "you're a publicly traded company with"
+  },
+  {
+    "start": "00:04:14.680",
+    "end": "00:04:16.920",
+    "start_seconds": 254.68,
+    "end_seconds": 256.92,
+    "text": "you're a publicly traded company with dozens hundreds thousands of equity"
+  },
+  {
+    "start": "00:04:16.920",
+    "end": "00:04:16.930",
+    "start_seconds": 256.92,
+    "end_seconds": 256.93,
+    "text": "dozens hundreds thousands of equity"
+  },
+  {
+    "start": "00:04:16.930",
+    "end": "00:04:19.170",
+    "start_seconds": 256.93,
+    "end_seconds": 259.17,
+    "text": "dozens hundreds thousands of equity investors each equity investor might"
+  },
+  {
+    "start": "00:04:19.170",
+    "end": "00:04:19.180",
+    "start_seconds": 259.17,
+    "end_seconds": 259.18,
+    "text": "investors each equity investor might"
+  },
+  {
+    "start": "00:04:19.180",
+    "end": "00:04:21.420",
+    "start_seconds": 259.18,
+    "end_seconds": 261.42,
+    "text": "investors each equity investor might have a different cost of equity because"
+  },
+  {
+    "start": "00:04:21.420",
+    "end": "00:04:21.430",
+    "start_seconds": 261.42,
+    "end_seconds": 261.43,
+    "text": "have a different cost of equity because"
+  },
+  {
+    "start": "00:04:21.430",
+    "end": "00:04:22.680",
+    "start_seconds": 261.43,
+    "end_seconds": 262.68,
+    "text": "have a different cost of equity because they're coming from different places"
+  },
+  {
+    "start": "00:04:22.680",
+    "end": "00:04:22.690",
+    "start_seconds": 262.68,
+    "end_seconds": 262.69,
+    "text": "they're coming from different places"
+  },
+  {
+    "start": "00:04:22.690",
+    "end": "00:04:25.230",
+    "start_seconds": 262.69,
+    "end_seconds": 265.23,
+    "text": "they're coming from different places different perceptions of risk and that's"
+  },
+  {
+    "start": "00:04:25.230",
+    "end": "00:04:25.240",
+    "start_seconds": 265.23,
+    "end_seconds": 265.24,
+    "text": "different perceptions of risk and that's"
+  },
+  {
+    "start": "00:04:25.240",
+    "end": "00:04:26.310",
+    "start_seconds": 265.24,
+    "end_seconds": 266.31,
+    "text": "different perceptions of risk and that's why we introduced"
+  },
+  {
+    "start": "00:04:26.310",
+    "end": "00:04:26.320",
+    "start_seconds": 266.31,
+    "end_seconds": 266.32,
+    "text": "why we introduced"
+  },
+  {
+    "start": "00:04:26.320",
+    "end": "00:04:28.590",
+    "start_seconds": 266.32,
+    "end_seconds": 268.59,
+    "text": "why we introduced Shabba module investor the module"
+  },
+  {
+    "start": "00:04:28.590",
+    "end": "00:04:28.600",
+    "start_seconds": 268.59,
+    "end_seconds": 268.6,
+    "text": "Shabba module investor the module"
+  },
+  {
+    "start": "00:04:28.600",
+    "end": "00:04:31.020",
+    "start_seconds": 268.6,
+    "end_seconds": 271.02,
+    "text": "Shabba module investor the module investor is the price setter modular"
+  },
+  {
+    "start": "00:04:31.020",
+    "end": "00:04:31.030",
+    "start_seconds": 271.02,
+    "end_seconds": 271.03,
+    "text": "investor is the price setter modular"
+  },
+  {
+    "start": "00:04:31.030",
+    "end": "00:04:33.240",
+    "start_seconds": 271.03,
+    "end_seconds": 273.24,
+    "text": "investor is the price setter modular investors we remember own a lot of stock"
+  },
+  {
+    "start": "00:04:33.240",
+    "end": "00:04:33.250",
+    "start_seconds": 273.24,
+    "end_seconds": 273.25,
+    "text": "investors we remember own a lot of stock"
+  },
+  {
+    "start": "00:04:33.250",
+    "end": "00:04:35.190",
+    "start_seconds": 273.25,
+    "end_seconds": 275.19,
+    "text": "investors we remember own a lot of stock and trade that stock the rest of us are"
+  },
+  {
+    "start": "00:04:35.190",
+    "end": "00:04:35.200",
+    "start_seconds": 275.19,
+    "end_seconds": 275.2,
+    "text": "and trade that stock the rest of us are"
+  },
+  {
+    "start": "00:04:35.200",
+    "end": "00:04:37.770",
+    "start_seconds": 275.2,
+    "end_seconds": 277.77,
+    "text": "and trade that stock the rest of us are price takers in other words the modular"
+  },
+  {
+    "start": "00:04:37.770",
+    "end": "00:04:37.780",
+    "start_seconds": 277.77,
+    "end_seconds": 277.78,
+    "text": "price takers in other words the modular"
+  },
+  {
+    "start": "00:04:37.780",
+    "end": "00:04:39.900",
+    "start_seconds": 277.78,
+    "end_seconds": 279.9,
+    "text": "price takers in other words the modular investors eyes are through whose eyes we"
+  },
+  {
+    "start": "00:04:39.900",
+    "end": "00:04:39.910",
+    "start_seconds": 279.9,
+    "end_seconds": 279.90999999999997,
+    "text": "investors eyes are through whose eyes we"
+  },
+  {
+    "start": "00:04:39.910",
+    "end": "00:04:41.790",
+    "start_seconds": 279.90999999999997,
+    "end_seconds": 281.79,
+    "text": "investors eyes are through whose eyes we should measure that risk in equity and"
+  },
+  {
+    "start": "00:04:41.790",
+    "end": "00:04:41.800",
+    "start_seconds": 281.79,
+    "end_seconds": 281.8,
+    "text": "should measure that risk in equity and"
+  },
+  {
+    "start": "00:04:41.800",
+    "end": "00:04:44.250",
+    "start_seconds": 281.8,
+    "end_seconds": 284.25,
+    "text": "should measure that risk in equity and that's the rationale we use for focusing"
+  },
+  {
+    "start": "00:04:44.250",
+    "end": "00:04:44.260",
+    "start_seconds": 284.25,
+    "end_seconds": 284.26,
+    "text": "that's the rationale we use for focusing"
+  },
+  {
+    "start": "00:04:44.260",
+    "end": "00:04:46.230",
+    "start_seconds": 284.26,
+    "end_seconds": 286.23,
+    "text": "that's the rationale we use for focusing on risk you cannot diversify over which"
+  },
+  {
+    "start": "00:04:46.230",
+    "end": "00:04:46.240",
+    "start_seconds": 286.23,
+    "end_seconds": 286.24,
+    "text": "on risk you cannot diversify over which"
+  },
+  {
+    "start": "00:04:46.240",
+    "end": "00:04:48.270",
+    "start_seconds": 286.24,
+    "end_seconds": 288.27,
+    "text": "on risk you cannot diversify over which we captured at the beta and that we"
+  },
+  {
+    "start": "00:04:48.270",
+    "end": "00:04:48.280",
+    "start_seconds": 288.27,
+    "end_seconds": 288.28,
+    "text": "we captured at the beta and that we"
+  },
+  {
+    "start": "00:04:48.280",
+    "end": "00:04:50.370",
+    "start_seconds": 288.28,
+    "end_seconds": 290.37,
+    "text": "we captured at the beta and that we incorporate into the cost of equity so"
+  },
+  {
+    "start": "00:04:50.370",
+    "end": "00:04:50.380",
+    "start_seconds": 290.37,
+    "end_seconds": 290.38,
+    "text": "incorporate into the cost of equity so"
+  },
+  {
+    "start": "00:04:50.380",
+    "end": "00:04:51.990",
+    "start_seconds": 290.38,
+    "end_seconds": 291.99,
+    "text": "incorporate into the cost of equity so the cost of equity discussion is very"
+  },
+  {
+    "start": "00:04:51.990",
+    "end": "00:04:52.000",
+    "start_seconds": 291.99,
+    "end_seconds": 292.0,
+    "text": "the cost of equity discussion is very"
+  },
+  {
+    "start": "00:04:52.000",
+    "end": "00:04:53.550",
+    "start_seconds": 292.0,
+    "end_seconds": 293.55,
+    "text": "the cost of equity discussion is very closely tied to our earlier discussion"
+  },
+  {
+    "start": "00:04:53.550",
+    "end": "00:04:53.560",
+    "start_seconds": 293.55,
+    "end_seconds": 293.56,
+    "text": "closely tied to our earlier discussion"
+  },
+  {
+    "start": "00:04:53.560",
+    "end": "00:04:55.800",
+    "start_seconds": 293.56,
+    "end_seconds": 295.8,
+    "text": "closely tied to our earlier discussion about risk and return and how it shows"
+  },
+  {
+    "start": "00:04:55.800",
+    "end": "00:04:55.810",
+    "start_seconds": 295.8,
+    "end_seconds": 295.81,
+    "text": "about risk and return and how it shows"
+  },
+  {
+    "start": "00:04:55.810",
+    "end": "00:04:58.530",
+    "start_seconds": 295.81,
+    "end_seconds": 298.53,
+    "text": "about risk and return and how it shows up in a required rate of return so let's"
+  },
+  {
+    "start": "00:04:58.530",
+    "end": "00:04:58.540",
+    "start_seconds": 298.53,
+    "end_seconds": 298.54,
+    "text": "up in a required rate of return so let's"
+  },
+  {
+    "start": "00:04:58.540",
+    "end": "00:05:00.780",
+    "start_seconds": 298.54,
+    "end_seconds": 300.78,
+    "text": "up in a required rate of return so let's take a very simple example of an equity"
+  },
+  {
+    "start": "00:05:00.780",
+    "end": "00:05:00.790",
+    "start_seconds": 300.78,
+    "end_seconds": 300.79,
+    "text": "take a very simple example of an equity"
+  },
+  {
+    "start": "00:05:00.790",
+    "end": "00:05:02.550",
+    "start_seconds": 300.79,
+    "end_seconds": 302.55,
+    "text": "take a very simple example of an equity valuation model an old-fashioned"
+  },
+  {
+    "start": "00:05:02.550",
+    "end": "00:05:02.560",
+    "start_seconds": 302.55,
+    "end_seconds": 302.56,
+    "text": "valuation model an old-fashioned"
+  },
+  {
+    "start": "00:05:02.560",
+    "end": "00:05:04.680",
+    "start_seconds": 302.56,
+    "end_seconds": 304.68,
+    "text": "valuation model an old-fashioned dividend discount model let's assume"
+  },
+  {
+    "start": "00:05:04.680",
+    "end": "00:05:04.690",
+    "start_seconds": 304.68,
+    "end_seconds": 304.69,
+    "text": "dividend discount model let's assume"
+  },
+  {
+    "start": "00:05:04.690",
+    "end": "00:05:06.510",
+    "start_seconds": 304.69,
+    "end_seconds": 306.51,
+    "text": "dividend discount model let's assume Cornette which is a public you turn a"
+  },
+  {
+    "start": "00:05:06.510",
+    "end": "00:05:06.520",
+    "start_seconds": 306.51,
+    "end_seconds": 306.52,
+    "text": "Cornette which is a public you turn a"
+  },
+  {
+    "start": "00:05:06.520",
+    "end": "00:05:08.370",
+    "start_seconds": 306.52,
+    "end_seconds": 308.37,
+    "text": "Cornette which is a public you turn a that serves much of New York City a"
+  },
+  {
+    "start": "00:05:08.370",
+    "end": "00:05:08.380",
+    "start_seconds": 308.37,
+    "end_seconds": 308.38,
+    "text": "that serves much of New York City a"
+  },
+  {
+    "start": "00:05:08.380",
+    "end": "00:05:11.280",
+    "start_seconds": 308.38,
+    "end_seconds": 311.28,
+    "text": "that serves much of New York City a mature company paid dividends of $4 per"
+  },
+  {
+    "start": "00:05:11.280",
+    "end": "00:05:11.290",
+    "start_seconds": 311.28,
+    "end_seconds": 311.29,
+    "text": "mature company paid dividends of $4 per"
+  },
+  {
+    "start": "00:05:11.290",
+    "end": "00:05:13.890",
+    "start_seconds": 311.29,
+    "end_seconds": 313.89,
+    "text": "mature company paid dividends of $4 per share in 2016 it pays out most of its"
+  },
+  {
+    "start": "00:05:13.890",
+    "end": "00:05:13.900",
+    "start_seconds": 313.89,
+    "end_seconds": 313.9,
+    "text": "share in 2016 it pays out most of its"
+  },
+  {
+    "start": "00:05:13.900",
+    "end": "00:05:15.600",
+    "start_seconds": 313.9,
+    "end_seconds": 315.6,
+    "text": "share in 2016 it pays out most of its earnings as dividends which is what"
+  },
+  {
+    "start": "00:05:15.600",
+    "end": "00:05:15.610",
+    "start_seconds": 315.6,
+    "end_seconds": 315.61,
+    "text": "earnings as dividends which is what"
+  },
+  {
+    "start": "00:05:15.610",
+    "end": "00:05:17.880",
+    "start_seconds": 315.61,
+    "end_seconds": 317.88,
+    "text": "earnings as dividends which is what mature companies tend to do as a mature"
+  },
+  {
+    "start": "00:05:17.880",
+    "end": "00:05:17.890",
+    "start_seconds": 317.88,
+    "end_seconds": 317.89,
+    "text": "mature companies tend to do as a mature"
+  },
+  {
+    "start": "00:05:17.890",
+    "end": "00:05:20.100",
+    "start_seconds": 317.89,
+    "end_seconds": 320.1,
+    "text": "mature companies tend to do as a mature company serving a part of the country"
+  },
+  {
+    "start": "00:05:20.100",
+    "end": "00:05:20.110",
+    "start_seconds": 320.1,
+    "end_seconds": 320.11,
+    "text": "company serving a part of the country"
+  },
+  {
+    "start": "00:05:20.110",
+    "end": "00:05:21.840",
+    "start_seconds": 320.11,
+    "end_seconds": 321.84,
+    "text": "company serving a part of the country which isn't growing that fast I'm going"
+  },
+  {
+    "start": "00:05:21.840",
+    "end": "00:05:21.850",
+    "start_seconds": 321.84,
+    "end_seconds": 321.85,
+    "text": "which isn't growing that fast I'm going"
+  },
+  {
+    "start": "00:05:21.850",
+    "end": "00:05:23.580",
+    "start_seconds": 321.85,
+    "end_seconds": 323.58,
+    "text": "which isn't growing that fast I'm going to assume that Corner's earnings and"
+  },
+  {
+    "start": "00:05:23.580",
+    "end": "00:05:23.590",
+    "start_seconds": 323.58,
+    "end_seconds": 323.59,
+    "text": "to assume that Corner's earnings and"
+  },
+  {
+    "start": "00:05:23.590",
+    "end": "00:05:25.950",
+    "start_seconds": 323.59,
+    "end_seconds": 325.95,
+    "text": "to assume that Corner's earnings and dividends are going to grow at about 2%"
+  },
+  {
+    "start": "00:05:25.950",
+    "end": "00:05:25.960",
+    "start_seconds": 325.95,
+    "end_seconds": 325.96,
+    "text": "dividends are going to grow at about 2%"
+  },
+  {
+    "start": "00:05:25.960",
+    "end": "00:05:30.060",
+    "start_seconds": 325.96,
+    "end_seconds": 330.06,
+    "text": "dividends are going to grow at about 2% a year in perpetuity notice growth rate"
+  },
+  {
+    "start": "00:05:30.060",
+    "end": "00:05:30.070",
+    "start_seconds": 330.06,
+    "end_seconds": 330.07,
+    "text": "a year in perpetuity notice growth rate"
+  },
+  {
+    "start": "00:05:30.070",
+    "end": "00:05:31.890",
+    "start_seconds": 330.07,
+    "end_seconds": 331.89,
+    "text": "a year in perpetuity notice growth rate of 2% a year in perpetuity makes this a"
+  },
+  {
+    "start": "00:05:31.890",
+    "end": "00:05:31.900",
+    "start_seconds": 331.89,
+    "end_seconds": 331.9,
+    "text": "of 2% a year in perpetuity makes this a"
+  },
+  {
+    "start": "00:05:31.900",
+    "end": "00:05:34.860",
+    "start_seconds": 331.9,
+    "end_seconds": 334.86,
+    "text": "of 2% a year in perpetuity makes this a growing perpetuity let's assume the cost"
+  },
+  {
+    "start": "00:05:34.860",
+    "end": "00:05:34.870",
+    "start_seconds": 334.86,
+    "end_seconds": 334.87,
+    "text": "growing perpetuity let's assume the cost"
+  },
+  {
+    "start": "00:05:34.870",
+    "end": "00:05:36.690",
+    "start_seconds": 334.87,
+    "end_seconds": 336.69,
+    "text": "growing perpetuity let's assume the cost of equity for this company which is"
+  },
+  {
+    "start": "00:05:36.690",
+    "end": "00:05:36.700",
+    "start_seconds": 336.69,
+    "end_seconds": 336.7,
+    "text": "of equity for this company which is"
+  },
+  {
+    "start": "00:05:36.700",
+    "end": "00:05:38.550",
+    "start_seconds": 336.7,
+    "end_seconds": 338.55,
+    "text": "of equity for this company which is basically what marginal investors in"
+  },
+  {
+    "start": "00:05:38.550",
+    "end": "00:05:38.560",
+    "start_seconds": 338.55,
+    "end_seconds": 338.56,
+    "text": "basically what marginal investors in"
+  },
+  {
+    "start": "00:05:38.560",
+    "end": "00:05:40.620",
+    "start_seconds": 338.56,
+    "end_seconds": 340.62,
+    "text": "basically what marginal investors in this company demand for investing in its"
+  },
+  {
+    "start": "00:05:40.620",
+    "end": "00:05:40.630",
+    "start_seconds": 340.62,
+    "end_seconds": 340.63,
+    "text": "this company demand for investing in its"
+  },
+  {
+    "start": "00:05:40.630",
+    "end": "00:05:42.900",
+    "start_seconds": 340.63,
+    "end_seconds": 342.9,
+    "text": "this company demand for investing in its equity is 8 percent of everything I need"
+  },
+  {
+    "start": "00:05:42.900",
+    "end": "00:05:42.910",
+    "start_seconds": 342.9,
+    "end_seconds": 342.90999999999997,
+    "text": "equity is 8 percent of everything I need"
+  },
+  {
+    "start": "00:05:42.910",
+    "end": "00:05:45.750",
+    "start_seconds": 342.90999999999997,
+    "end_seconds": 345.75,
+    "text": "equity is 8 percent of everything I need to value cornered stock I take the 4"
+  },
+  {
+    "start": "00:05:45.750",
+    "end": "00:05:45.760",
+    "start_seconds": 345.75,
+    "end_seconds": 345.76,
+    "text": "to value cornered stock I take the 4"
+  },
+  {
+    "start": "00:05:45.760",
+    "end": "00:05:47.520",
+    "start_seconds": 345.76,
+    "end_seconds": 347.52,
+    "text": "to value cornered stock I take the 4 dollars which is last year's dividends"
+  },
+  {
+    "start": "00:05:47.520",
+    "end": "00:05:47.530",
+    "start_seconds": 347.52,
+    "end_seconds": 347.53,
+    "text": "dollars which is last year's dividends"
+  },
+  {
+    "start": "00:05:47.530",
+    "end": "00:05:50.130",
+    "start_seconds": 347.53,
+    "end_seconds": 350.13,
+    "text": "dollars which is last year's dividends but remember all perpetual growth models"
+  },
+  {
+    "start": "00:05:50.130",
+    "end": "00:05:50.140",
+    "start_seconds": 350.13,
+    "end_seconds": 350.14,
+    "text": "but remember all perpetual growth models"
+  },
+  {
+    "start": "00:05:50.140",
+    "end": "00:05:52.200",
+    "start_seconds": 350.14,
+    "end_seconds": 352.2,
+    "text": "but remember all perpetual growth models require expected dividends next year"
+  },
+  {
+    "start": "00:05:52.200",
+    "end": "00:05:52.210",
+    "start_seconds": 352.2,
+    "end_seconds": 352.21,
+    "text": "require expected dividends next year"
+  },
+  {
+    "start": "00:05:52.210",
+    "end": "00:05:54.510",
+    "start_seconds": 352.21,
+    "end_seconds": 354.51,
+    "text": "require expected dividends next year expected cash flow next beside grow it"
+  },
+  {
+    "start": "00:05:54.510",
+    "end": "00:05:54.520",
+    "start_seconds": 354.51,
+    "end_seconds": 354.52,
+    "text": "expected cash flow next beside grow it"
+  },
+  {
+    "start": "00:05:54.520",
+    "end": "00:05:57.420",
+    "start_seconds": 354.52,
+    "end_seconds": 357.42,
+    "text": "expected cash flow next beside grow it out by 2% and then I divide by the"
+  },
+  {
+    "start": "00:05:57.420",
+    "end": "00:05:57.430",
+    "start_seconds": 357.42,
+    "end_seconds": 357.43,
+    "text": "out by 2% and then I divide by the"
+  },
+  {
+    "start": "00:05:57.430",
+    "end": "00:05:59.610",
+    "start_seconds": 357.43,
+    "end_seconds": 359.61,
+    "text": "out by 2% and then I divide by the difference we might cost of equity is 8%"
+  },
+  {
+    "start": "00:05:59.610",
+    "end": "00:05:59.620",
+    "start_seconds": 359.61,
+    "end_seconds": 359.62,
+    "text": "difference we might cost of equity is 8%"
+  },
+  {
+    "start": "00:05:59.620",
+    "end": "00:06:01.530",
+    "start_seconds": 359.62,
+    "end_seconds": 361.53,
+    "text": "difference we might cost of equity is 8% my growth rate of 2% the growing"
+  },
+  {
+    "start": "00:06:01.530",
+    "end": "00:06:01.540",
+    "start_seconds": 361.53,
+    "end_seconds": 361.54,
+    "text": "my growth rate of 2% the growing"
+  },
+  {
+    "start": "00:06:01.540",
+    "end": "00:06:03.780",
+    "start_seconds": 361.54,
+    "end_seconds": 363.78,
+    "text": "my growth rate of 2% the growing perpetuate equation what I get as a"
+  },
+  {
+    "start": "00:06:03.780",
+    "end": "00:06:03.790",
+    "start_seconds": 363.78,
+    "end_seconds": 363.79,
+    "text": "perpetuate equation what I get as a"
+  },
+  {
+    "start": "00:06:03.790",
+    "end": "00:06:06.060",
+    "start_seconds": 363.79,
+    "end_seconds": 366.06,
+    "text": "perpetuate equation what I get as a present value is $68 you're saying what"
+  },
+  {
+    "start": "00:06:06.060",
+    "end": "00:06:06.070",
+    "start_seconds": 366.06,
+    "end_seconds": 366.07,
+    "text": "present value is $68 you're saying what"
+  },
+  {
+    "start": "00:06:06.070",
+    "end": "00:06:06.660",
+    "start_seconds": 366.07,
+    "end_seconds": 366.66,
+    "text": "present value is $68 you're saying what does that tell me"
+  },
+  {
+    "start": "00:06:06.660",
+    "end": "00:06:06.670",
+    "start_seconds": 366.66,
+    "end_seconds": 366.67,
+    "text": "does that tell me"
+  },
+  {
+    "start": "00:06:06.670",
+    "end": "00:06:09.060",
+    "start_seconds": 366.67,
+    "end_seconds": 369.06,
+    "text": "does that tell me based on the dividend discount model"
+  },
+  {
+    "start": "00:06:09.060",
+    "end": "00:06:09.070",
+    "start_seconds": 369.06,
+    "end_seconds": 369.07,
+    "text": "based on the dividend discount model"
+  },
+  {
+    "start": "00:06:09.070",
+    "end": "00:06:11.700",
+    "start_seconds": 369.07,
+    "end_seconds": 371.7,
+    "text": "based on the dividend discount model based on your perspective cash flows"
+  },
+  {
+    "start": "00:06:11.700",
+    "end": "00:06:11.710",
+    "start_seconds": 371.7,
+    "end_seconds": 371.71,
+    "text": "based on your perspective cash flows"
+  },
+  {
+    "start": "00:06:11.710",
+    "end": "00:06:14.160",
+    "start_seconds": 371.71,
+    "end_seconds": 374.16,
+    "text": "based on your perspective cash flows being dividends the value per share at"
+  },
+  {
+    "start": "00:06:14.160",
+    "end": "00:06:14.170",
+    "start_seconds": 374.16,
+    "end_seconds": 374.17,
+    "text": "being dividends the value per share at"
+  },
+  {
+    "start": "00:06:14.170",
+    "end": "00:06:16.740",
+    "start_seconds": 374.17,
+    "end_seconds": 376.74,
+    "text": "being dividends the value per share at Cornette is $68 you see the stock is"
+  },
+  {
+    "start": "00:06:16.740",
+    "end": "00:06:16.750",
+    "start_seconds": 376.74,
+    "end_seconds": 376.75,
+    "text": "Cornette is $68 you see the stock is"
+  },
+  {
+    "start": "00:06:16.750",
+    "end": "00:06:18.900",
+    "start_seconds": 376.75,
+    "end_seconds": 378.9,
+    "text": "Cornette is $68 you see the stock is trading at 70 your going to conclude"
+  },
+  {
+    "start": "00:06:18.900",
+    "end": "00:06:18.910",
+    "start_seconds": 378.9,
+    "end_seconds": 378.91,
+    "text": "trading at 70 your going to conclude"
+  },
+  {
+    "start": "00:06:18.910",
+    "end": "00:06:21.060",
+    "start_seconds": 378.91,
+    "end_seconds": 381.06,
+    "text": "trading at 70 your going to conclude that the stock is slightly of a value"
+  },
+  {
+    "start": "00:06:21.060",
+    "end": "00:06:21.070",
+    "start_seconds": 381.06,
+    "end_seconds": 381.07,
+    "text": "that the stock is slightly of a value"
+  },
+  {
+    "start": "00:06:21.070",
+    "end": "00:06:22.950",
+    "start_seconds": 381.07,
+    "end_seconds": 382.95,
+    "text": "that the stock is slightly of a value slightly because it's only two dollars"
+  },
+  {
+    "start": "00:06:22.950",
+    "end": "00:06:22.960",
+    "start_seconds": 382.95,
+    "end_seconds": 382.96,
+    "text": "slightly because it's only two dollars"
+  },
+  {
+    "start": "00:06:22.960",
+    "end": "00:06:25.080",
+    "start_seconds": 382.96,
+    "end_seconds": 385.08,
+    "text": "slightly because it's only two dollars off but the price is greater than the"
+  },
+  {
+    "start": "00:06:25.080",
+    "end": "00:06:25.090",
+    "start_seconds": 385.08,
+    "end_seconds": 385.09,
+    "text": "off but the price is greater than the"
+  },
+  {
+    "start": "00:06:25.090",
+    "end": "00:06:27.420",
+    "start_seconds": 385.09,
+    "end_seconds": 387.42,
+    "text": "off but the price is greater than the value it's simple enough right"
+  },
+  {
+    "start": "00:06:27.420",
+    "end": "00:06:27.430",
+    "start_seconds": 387.42,
+    "end_seconds": 387.43,
+    "text": "value it's simple enough right"
+  },
+  {
+    "start": "00:06:27.430",
+    "end": "00:06:29.190",
+    "start_seconds": 387.43,
+    "end_seconds": 389.19,
+    "text": "value it's simple enough right but remember when you use a dividend"
+  },
+  {
+    "start": "00:06:29.190",
+    "end": "00:06:29.200",
+    "start_seconds": 389.19,
+    "end_seconds": 389.2,
+    "text": "but remember when you use a dividend"
+  },
+  {
+    "start": "00:06:29.200",
+    "end": "00:06:30.630",
+    "start_seconds": 389.2,
+    "end_seconds": 390.63,
+    "text": "but remember when you use a dividend discount model you are assuming that"
+  },
+  {
+    "start": "00:06:30.630",
+    "end": "00:06:30.640",
+    "start_seconds": 390.63,
+    "end_seconds": 390.64,
+    "text": "discount model you are assuming that"
+  },
+  {
+    "start": "00:06:30.640",
+    "end": "00:06:32.610",
+    "start_seconds": 390.64,
+    "end_seconds": 392.61,
+    "text": "discount model you are assuming that Cornett is paying out what it can afford"
+  },
+  {
+    "start": "00:06:32.610",
+    "end": "00:06:32.620",
+    "start_seconds": 392.61,
+    "end_seconds": 392.62,
+    "text": "Cornett is paying out what it can afford"
+  },
+  {
+    "start": "00:06:32.620",
+    "end": "00:06:35.220",
+    "start_seconds": 392.62,
+    "end_seconds": 395.22,
+    "text": "Cornett is paying out what it can afford to let's say that you have the capacity"
+  },
+  {
+    "start": "00:06:35.220",
+    "end": "00:06:35.230",
+    "start_seconds": 395.22,
+    "end_seconds": 395.23,
+    "text": "to let's say that you have the capacity"
+  },
+  {
+    "start": "00:06:35.230",
+    "end": "00:06:36.750",
+    "start_seconds": 395.23,
+    "end_seconds": 396.75,
+    "text": "to let's say that you have the capacity to compute potential evidence you might"
+  },
+  {
+    "start": "00:06:36.750",
+    "end": "00:06:36.760",
+    "start_seconds": 396.75,
+    "end_seconds": 396.76,
+    "text": "to compute potential evidence you might"
+  },
+  {
+    "start": "00:06:36.760",
+    "end": "00:06:39.170",
+    "start_seconds": 396.76,
+    "end_seconds": 399.17,
+    "text": "to compute potential evidence you might not right now but you will after"
+  },
+  {
+    "start": "00:06:39.170",
+    "end": "00:06:39.180",
+    "start_seconds": 399.17,
+    "end_seconds": 399.18,
+    "text": "not right now but you will after"
+  },
+  {
+    "start": "00:06:39.180",
+    "end": "00:06:41.210",
+    "start_seconds": 399.18,
+    "end_seconds": 401.21,
+    "text": "not right now but you will after class but let's assume that you can"
+  },
+  {
+    "start": "00:06:41.210",
+    "end": "00:06:41.220",
+    "start_seconds": 401.21,
+    "end_seconds": 401.22,
+    "text": "class but let's assume that you can"
+  },
+  {
+    "start": "00:06:41.220",
+    "end": "00:06:43.279",
+    "start_seconds": 401.22,
+    "end_seconds": 403.279,
+    "text": "class but let's assume that you can compute those cash flows leftover after"
+  },
+  {
+    "start": "00:06:43.279",
+    "end": "00:06:43.289",
+    "start_seconds": 403.279,
+    "end_seconds": 403.289,
+    "text": "compute those cash flows leftover after"
+  },
+  {
+    "start": "00:06:43.289",
+    "end": "00:06:45.110",
+    "start_seconds": 403.289,
+    "end_seconds": 405.11,
+    "text": "compute those cash flows leftover after taxes reinvestment needs and debt"
+  },
+  {
+    "start": "00:06:45.110",
+    "end": "00:06:45.120",
+    "start_seconds": 405.11,
+    "end_seconds": 405.12,
+    "text": "taxes reinvestment needs and debt"
+  },
+  {
+    "start": "00:06:45.120",
+    "end": "00:06:47.960",
+    "start_seconds": 405.12,
+    "end_seconds": 407.96,
+    "text": "taxes reinvestment needs and debt payments and let's say last year that"
+  },
+  {
+    "start": "00:06:47.960",
+    "end": "00:06:47.970",
+    "start_seconds": 407.96,
+    "end_seconds": 407.97,
+    "text": "payments and let's say last year that"
+  },
+  {
+    "start": "00:06:47.970",
+    "end": "00:06:50.029",
+    "start_seconds": 407.97,
+    "end_seconds": 410.029,
+    "text": "payments and let's say last year that cash flow the free cash flow and equity"
+  },
+  {
+    "start": "00:06:50.029",
+    "end": "00:06:50.039",
+    "start_seconds": 410.029,
+    "end_seconds": 410.039,
+    "text": "cash flow the free cash flow and equity"
+  },
+  {
+    "start": "00:06:50.039",
+    "end": "00:06:51.770",
+    "start_seconds": 410.039,
+    "end_seconds": 411.77,
+    "text": "cash flow the free cash flow and equity of potential divet was four dollars and"
+  },
+  {
+    "start": "00:06:51.770",
+    "end": "00:06:51.780",
+    "start_seconds": 411.77,
+    "end_seconds": 411.78,
+    "text": "of potential divet was four dollars and"
+  },
+  {
+    "start": "00:06:51.780",
+    "end": "00:06:52.760",
+    "start_seconds": 411.78,
+    "end_seconds": 412.76,
+    "text": "of potential divet was four dollars and 25 cents"
+  },
+  {
+    "start": "00:06:52.760",
+    "end": "00:06:52.770",
+    "start_seconds": 412.76,
+    "end_seconds": 412.77,
+    "text": "25 cents"
+  },
+  {
+    "start": "00:06:52.770",
+    "end": "00:06:54.650",
+    "start_seconds": 412.77,
+    "end_seconds": 414.65,
+    "text": "25 cents remember cornet paid only four dollars"
+  },
+  {
+    "start": "00:06:54.650",
+    "end": "00:06:54.660",
+    "start_seconds": 414.65,
+    "end_seconds": 414.65999999999997,
+    "text": "remember cornet paid only four dollars"
+  },
+  {
+    "start": "00:06:54.660",
+    "end": "00:06:56.540",
+    "start_seconds": 414.65999999999997,
+    "end_seconds": 416.54,
+    "text": "remember cornet paid only four dollars per share it could have paid for twenty"
+  },
+  {
+    "start": "00:06:56.540",
+    "end": "00:06:56.550",
+    "start_seconds": 416.54,
+    "end_seconds": 416.55,
+    "text": "per share it could have paid for twenty"
+  },
+  {
+    "start": "00:06:56.550",
+    "end": "00:06:58.879",
+    "start_seconds": 416.55,
+    "end_seconds": 418.879,
+    "text": "per share it could have paid for twenty five and that's not uncommon companies"
+  },
+  {
+    "start": "00:06:58.879",
+    "end": "00:06:58.889",
+    "start_seconds": 418.879,
+    "end_seconds": 418.889,
+    "text": "five and that's not uncommon companies"
+  },
+  {
+    "start": "00:06:58.889",
+    "end": "00:07:02.090",
+    "start_seconds": 418.889,
+    "end_seconds": 422.09,
+    "text": "five and that's not uncommon companies often hold back cash to value Carnot on"
+  },
+  {
+    "start": "00:07:02.090",
+    "end": "00:07:02.100",
+    "start_seconds": 422.09,
+    "end_seconds": 422.1,
+    "text": "often hold back cash to value Carnot on"
+  },
+  {
+    "start": "00:07:02.100",
+    "end": "00:07:04.219",
+    "start_seconds": 422.1,
+    "end_seconds": 424.219,
+    "text": "often hold back cash to value Carnot on a free cash flow equity model I'm just"
+  },
+  {
+    "start": "00:07:04.219",
+    "end": "00:07:04.229",
+    "start_seconds": 424.219,
+    "end_seconds": 424.229,
+    "text": "a free cash flow equity model I'm just"
+  },
+  {
+    "start": "00:07:04.229",
+    "end": "00:07:05.749",
+    "start_seconds": 424.229,
+    "end_seconds": 425.749,
+    "text": "a free cash flow equity model I'm just going to replace the four dollars which"
+  },
+  {
+    "start": "00:07:05.749",
+    "end": "00:07:05.759",
+    "start_seconds": 425.749,
+    "end_seconds": 425.759,
+    "text": "going to replace the four dollars which"
+  },
+  {
+    "start": "00:07:05.759",
+    "end": "00:07:07.610",
+    "start_seconds": 425.759,
+    "end_seconds": 427.61,
+    "text": "going to replace the four dollars which is my dividend discount model number and"
+  },
+  {
+    "start": "00:07:07.610",
+    "end": "00:07:07.620",
+    "start_seconds": 427.61,
+    "end_seconds": 427.62,
+    "text": "is my dividend discount model number and"
+  },
+  {
+    "start": "00:07:07.620",
+    "end": "00:07:09.860",
+    "start_seconds": 427.62,
+    "end_seconds": 429.86,
+    "text": "is my dividend discount model number and and I'm going to put in the four twenty"
+  },
+  {
+    "start": "00:07:09.860",
+    "end": "00:07:09.870",
+    "start_seconds": 429.86,
+    "end_seconds": 429.87,
+    "text": "and I'm going to put in the four twenty"
+  },
+  {
+    "start": "00:07:09.870",
+    "end": "00:07:11.659",
+    "start_seconds": 429.87,
+    "end_seconds": 431.659,
+    "text": "and I'm going to put in the four twenty five everything else about the model"
+  },
+  {
+    "start": "00:07:11.659",
+    "end": "00:07:11.669",
+    "start_seconds": 431.659,
+    "end_seconds": 431.669,
+    "text": "five everything else about the model"
+  },
+  {
+    "start": "00:07:11.669",
+    "end": "00:07:13.490",
+    "start_seconds": 431.669,
+    "end_seconds": 433.49,
+    "text": "five everything else about the model stays the same same growth rate same"
+  },
+  {
+    "start": "00:07:13.490",
+    "end": "00:07:13.500",
+    "start_seconds": 433.49,
+    "end_seconds": 433.5,
+    "text": "stays the same same growth rate same"
+  },
+  {
+    "start": "00:07:13.500",
+    "end": "00:07:15.890",
+    "start_seconds": 433.5,
+    "end_seconds": 435.89,
+    "text": "stays the same same growth rate same cost of equity what I get is a present"
+  },
+  {
+    "start": "00:07:15.890",
+    "end": "00:07:15.900",
+    "start_seconds": 435.89,
+    "end_seconds": 435.9,
+    "text": "cost of equity what I get is a present"
+  },
+  {
+    "start": "00:07:15.900",
+    "end": "00:07:19.310",
+    "start_seconds": 435.9,
+    "end_seconds": 439.31,
+    "text": "cost of equity what I get is a present value $17.25 I would view as my free"
+  },
+  {
+    "start": "00:07:19.310",
+    "end": "00:07:19.320",
+    "start_seconds": 439.31,
+    "end_seconds": 439.32,
+    "text": "value $17.25 I would view as my free"
+  },
+  {
+    "start": "00:07:19.320",
+    "end": "00:07:21.710",
+    "start_seconds": 439.32,
+    "end_seconds": 441.71,
+    "text": "value $17.25 I would view as my free cash for equity value as we go through"
+  },
+  {
+    "start": "00:07:21.710",
+    "end": "00:07:21.720",
+    "start_seconds": 441.71,
+    "end_seconds": 441.72,
+    "text": "cash for equity value as we go through"
+  },
+  {
+    "start": "00:07:21.720",
+    "end": "00:07:23.300",
+    "start_seconds": 441.72,
+    "end_seconds": 443.3,
+    "text": "cash for equity value as we go through this class I'm gonna argue that"
+  },
+  {
+    "start": "00:07:23.300",
+    "end": "00:07:23.310",
+    "start_seconds": 443.3,
+    "end_seconds": 443.31,
+    "text": "this class I'm gonna argue that"
+  },
+  {
+    "start": "00:07:23.310",
+    "end": "00:07:25.129",
+    "start_seconds": 443.31,
+    "end_seconds": 445.129,
+    "text": "this class I'm gonna argue that increasingly you need to put your faith"
+  },
+  {
+    "start": "00:07:25.129",
+    "end": "00:07:25.139",
+    "start_seconds": 445.129,
+    "end_seconds": 445.139,
+    "text": "increasingly you need to put your faith"
+  },
+  {
+    "start": "00:07:25.139",
+    "end": "00:07:27.230",
+    "start_seconds": 445.139,
+    "end_seconds": 447.23,
+    "text": "increasingly you need to put your faith and cash flows and not trust companies"
+  },
+  {
+    "start": "00:07:27.230",
+    "end": "00:07:27.240",
+    "start_seconds": 447.23,
+    "end_seconds": 447.24,
+    "text": "and cash flows and not trust companies"
+  },
+  {
+    "start": "00:07:27.240",
+    "end": "00:07:28.820",
+    "start_seconds": 447.24,
+    "end_seconds": 448.82,
+    "text": "and cash flows and not trust companies to pay out what they can afford new and"
+  },
+  {
+    "start": "00:07:28.820",
+    "end": "00:07:28.830",
+    "start_seconds": 448.82,
+    "end_seconds": 448.83,
+    "text": "to pay out what they can afford new and"
+  },
+  {
+    "start": "00:07:28.830",
+    "end": "00:07:30.950",
+    "start_seconds": 448.83,
+    "end_seconds": 450.95,
+    "text": "to pay out what they can afford new and dividends but an equity valuation you're"
+  },
+  {
+    "start": "00:07:30.950",
+    "end": "00:07:30.960",
+    "start_seconds": 450.95,
+    "end_seconds": 450.96,
+    "text": "dividends but an equity valuation you're"
+  },
+  {
+    "start": "00:07:30.960",
+    "end": "00:07:32.810",
+    "start_seconds": 450.96,
+    "end_seconds": 452.81,
+    "text": "dividends but an equity valuation you're focused on cash flows to equity that"
+  },
+  {
+    "start": "00:07:32.810",
+    "end": "00:07:32.820",
+    "start_seconds": 452.81,
+    "end_seconds": 452.82,
+    "text": "focused on cash flows to equity that"
+  },
+  {
+    "start": "00:07:32.820",
+    "end": "00:07:35.140",
+    "start_seconds": 452.82,
+    "end_seconds": 455.14,
+    "text": "focused on cash flows to equity that your discount back at the cost of equity"
+  },
+  {
+    "start": "00:07:35.140",
+    "end": "00:07:35.150",
+    "start_seconds": 455.14,
+    "end_seconds": 455.15,
+    "text": "your discount back at the cost of equity"
+  },
+  {
+    "start": "00:07:35.150",
+    "end": "00:07:37.580",
+    "start_seconds": 455.15,
+    "end_seconds": 457.58,
+    "text": "your discount back at the cost of equity now I'm not going to go into the details"
+  },
+  {
+    "start": "00:07:37.580",
+    "end": "00:07:37.590",
+    "start_seconds": 457.58,
+    "end_seconds": 457.59000000000003,
+    "text": "now I'm not going to go into the details"
+  },
+  {
+    "start": "00:07:37.590",
+    "end": "00:07:39.409",
+    "start_seconds": 457.59000000000003,
+    "end_seconds": 459.409,
+    "text": "now I'm not going to go into the details of firm valuation because it'll require"
+  },
+  {
+    "start": "00:07:39.409",
+    "end": "00:07:39.419",
+    "start_seconds": 459.409,
+    "end_seconds": 459.419,
+    "text": "of firm valuation because it'll require"
+  },
+  {
+    "start": "00:07:39.419",
+    "end": "00:07:41.450",
+    "start_seconds": 459.419,
+    "end_seconds": 461.45,
+    "text": "of firm valuation because it'll require entangling ourselves with numbers were"
+  },
+  {
+    "start": "00:07:41.450",
+    "end": "00:07:41.460",
+    "start_seconds": 461.45,
+    "end_seconds": 461.46,
+    "text": "entangling ourselves with numbers were"
+  },
+  {
+    "start": "00:07:41.460",
+    "end": "00:07:42.980",
+    "start_seconds": 461.46,
+    "end_seconds": 462.98,
+    "text": "entangling ourselves with numbers were not quite ready to entangle ourselves"
+  },
+  {
+    "start": "00:07:42.980",
+    "end": "00:07:42.990",
+    "start_seconds": 462.98,
+    "end_seconds": 462.99,
+    "text": "not quite ready to entangle ourselves"
+  },
+  {
+    "start": "00:07:42.990",
+    "end": "00:07:45.860",
+    "start_seconds": 462.99,
+    "end_seconds": 465.86,
+    "text": "not quite ready to entangle ourselves with but here's the big picture to value"
+  },
+  {
+    "start": "00:07:45.860",
+    "end": "00:07:45.870",
+    "start_seconds": 465.86,
+    "end_seconds": 465.87,
+    "text": "with but here's the big picture to value"
+  },
+  {
+    "start": "00:07:45.870",
+    "end": "00:07:47.540",
+    "start_seconds": 465.87,
+    "end_seconds": 467.54,
+    "text": "with but here's the big picture to value an entire business you look at cash"
+  },
+  {
+    "start": "00:07:47.540",
+    "end": "00:07:47.550",
+    "start_seconds": 467.54,
+    "end_seconds": 467.55,
+    "text": "an entire business you look at cash"
+  },
+  {
+    "start": "00:07:47.550",
+    "end": "00:07:49.219",
+    "start_seconds": 467.55,
+    "end_seconds": 469.219,
+    "text": "an entire business you look at cash flows before debt payments in other"
+  },
+  {
+    "start": "00:07:49.219",
+    "end": "00:07:49.229",
+    "start_seconds": 469.219,
+    "end_seconds": 469.229,
+    "text": "flows before debt payments in other"
+  },
+  {
+    "start": "00:07:49.229",
+    "end": "00:07:50.570",
+    "start_seconds": 469.229,
+    "end_seconds": 470.57,
+    "text": "flows before debt payments in other words you're looking at the collective"
+  },
+  {
+    "start": "00:07:50.570",
+    "end": "00:07:50.580",
+    "start_seconds": 470.57,
+    "end_seconds": 470.58,
+    "text": "words you're looking at the collective"
+  },
+  {
+    "start": "00:07:50.580",
+    "end": "00:07:52.310",
+    "start_seconds": 470.58,
+    "end_seconds": 472.31,
+    "text": "words you're looking at the collective cash flows both lenders and equity"
+  },
+  {
+    "start": "00:07:52.310",
+    "end": "00:07:52.320",
+    "start_seconds": 472.31,
+    "end_seconds": 472.32,
+    "text": "cash flows both lenders and equity"
+  },
+  {
+    "start": "00:07:52.320",
+    "end": "00:07:53.629",
+    "start_seconds": 472.32,
+    "end_seconds": 473.629,
+    "text": "cash flows both lenders and equity investors get from the firm"
+  },
+  {
+    "start": "00:07:53.629",
+    "end": "00:07:53.639",
+    "start_seconds": 473.629,
+    "end_seconds": 473.639,
+    "text": "investors get from the firm"
+  },
+  {
+    "start": "00:07:53.639",
+    "end": "00:07:56.480",
+    "start_seconds": 473.639,
+    "end_seconds": 476.48,
+    "text": "investors get from the firm it's a pre debt cash flow you discount"
+  },
+  {
+    "start": "00:07:56.480",
+    "end": "00:07:56.490",
+    "start_seconds": 476.48,
+    "end_seconds": 476.49,
+    "text": "it's a pre debt cash flow you discount"
+  },
+  {
+    "start": "00:07:56.490",
+    "end": "00:07:58.460",
+    "start_seconds": 476.49,
+    "end_seconds": 478.46,
+    "text": "it's a pre debt cash flow you discount the it's pre debt but it's after taxes"
+  },
+  {
+    "start": "00:07:58.460",
+    "end": "00:07:58.470",
+    "start_seconds": 478.46,
+    "end_seconds": 478.47,
+    "text": "the it's pre debt but it's after taxes"
+  },
+  {
+    "start": "00:07:58.470",
+    "end": "00:08:00.320",
+    "start_seconds": 478.47,
+    "end_seconds": 480.32,
+    "text": "the it's pre debt but it's after taxes and after reinvestment needs you"
+  },
+  {
+    "start": "00:08:00.320",
+    "end": "00:08:00.330",
+    "start_seconds": 480.32,
+    "end_seconds": 480.33,
+    "text": "and after reinvestment needs you"
+  },
+  {
+    "start": "00:08:00.330",
+    "end": "00:08:02.120",
+    "start_seconds": 480.33,
+    "end_seconds": 482.12,
+    "text": "and after reinvestment needs you discount that cash flow back at a"
+  },
+  {
+    "start": "00:08:02.120",
+    "end": "00:08:02.130",
+    "start_seconds": 482.12,
+    "end_seconds": 482.13,
+    "text": "discount that cash flow back at a"
+  },
+  {
+    "start": "00:08:02.130",
+    "end": "00:08:03.680",
+    "start_seconds": 482.13,
+    "end_seconds": 483.68,
+    "text": "discount that cash flow back at a weighted average so what your equity"
+  },
+  {
+    "start": "00:08:03.680",
+    "end": "00:08:03.690",
+    "start_seconds": 483.68,
+    "end_seconds": 483.69,
+    "text": "weighted average so what your equity"
+  },
+  {
+    "start": "00:08:03.690",
+    "end": "00:08:05.120",
+    "start_seconds": 483.69,
+    "end_seconds": 485.12,
+    "text": "weighted average so what your equity investors want which is the cost of"
+  },
+  {
+    "start": "00:08:05.120",
+    "end": "00:08:05.130",
+    "start_seconds": 485.12,
+    "end_seconds": 485.13,
+    "text": "investors want which is the cost of"
+  },
+  {
+    "start": "00:08:05.130",
+    "end": "00:08:06.920",
+    "start_seconds": 485.13,
+    "end_seconds": 486.92,
+    "text": "investors want which is the cost of equity and what your lenders want which"
+  },
+  {
+    "start": "00:08:06.920",
+    "end": "00:08:06.930",
+    "start_seconds": 486.92,
+    "end_seconds": 486.93,
+    "text": "equity and what your lenders want which"
+  },
+  {
+    "start": "00:08:06.930",
+    "end": "00:08:08.390",
+    "start_seconds": 486.93,
+    "end_seconds": 488.39,
+    "text": "equity and what your lenders want which is the cost of that's called the cost of"
+  },
+  {
+    "start": "00:08:08.390",
+    "end": "00:08:08.400",
+    "start_seconds": 488.39,
+    "end_seconds": 488.4,
+    "text": "is the cost of that's called the cost of"
+  },
+  {
+    "start": "00:08:08.400",
+    "end": "00:08:11.330",
+    "start_seconds": 488.4,
+    "end_seconds": 491.33,
+    "text": "is the cost of that's called the cost of capital you discount the cash flows to"
+  },
+  {
+    "start": "00:08:11.330",
+    "end": "00:08:11.340",
+    "start_seconds": 491.33,
+    "end_seconds": 491.34,
+    "text": "capital you discount the cash flows to"
+  },
+  {
+    "start": "00:08:11.340",
+    "end": "00:08:13.010",
+    "start_seconds": 491.34,
+    "end_seconds": 493.01,
+    "text": "capital you discount the cash flows to the firm at the cost of capital you"
+  },
+  {
+    "start": "00:08:13.010",
+    "end": "00:08:13.020",
+    "start_seconds": 493.01,
+    "end_seconds": 493.02,
+    "text": "the firm at the cost of capital you"
+  },
+  {
+    "start": "00:08:13.020",
+    "end": "00:08:14.870",
+    "start_seconds": 493.02,
+    "end_seconds": 494.87,
+    "text": "the firm at the cost of capital you value the entire business and as I said"
+  },
+  {
+    "start": "00:08:14.870",
+    "end": "00:08:14.880",
+    "start_seconds": 494.87,
+    "end_seconds": 494.88,
+    "text": "value the entire business and as I said"
+  },
+  {
+    "start": "00:08:14.880",
+    "end": "00:08:16.999",
+    "start_seconds": 494.88,
+    "end_seconds": 496.999,
+    "text": "value the entire business and as I said you really want to get to the value back"
+  },
+  {
+    "start": "00:08:16.999",
+    "end": "00:08:17.009",
+    "start_seconds": 496.999,
+    "end_seconds": 497.009,
+    "text": "you really want to get to the value back"
+  },
+  {
+    "start": "00:08:17.009",
+    "end": "00:08:19.249",
+    "start_seconds": 497.009,
+    "end_seconds": 499.249,
+    "text": "you really want to get to the value back buddy all you need to do is subtract out"
+  },
+  {
+    "start": "00:08:19.249",
+    "end": "00:08:19.259",
+    "start_seconds": 499.249,
+    "end_seconds": 499.259,
+    "text": "buddy all you need to do is subtract out"
+  },
+  {
+    "start": "00:08:19.259",
+    "end": "00:08:23.210",
+    "start_seconds": 499.259,
+    "end_seconds": 503.21,
+    "text": "buddy all you need to do is subtract out there so you can value a firm by taking"
+  },
+  {
+    "start": "00:08:23.210",
+    "end": "00:08:23.220",
+    "start_seconds": 503.21,
+    "end_seconds": 503.22,
+    "text": "there so you can value a firm by taking"
+  },
+  {
+    "start": "00:08:23.220",
+    "end": "00:08:25.820",
+    "start_seconds": 503.22,
+    "end_seconds": 505.82,
+    "text": "there so you can value a firm by taking pre debt cash flows and that cash flow"
+  },
+  {
+    "start": "00:08:25.820",
+    "end": "00:08:25.830",
+    "start_seconds": 505.82,
+    "end_seconds": 505.83,
+    "text": "pre debt cash flows and that cash flow"
+  },
+  {
+    "start": "00:08:25.830",
+    "end": "00:08:28.129",
+    "start_seconds": 505.83,
+    "end_seconds": 508.129,
+    "text": "pre debt cash flows and that cash flow will generally be higher than the than"
+  },
+  {
+    "start": "00:08:28.129",
+    "end": "00:08:28.139",
+    "start_seconds": 508.129,
+    "end_seconds": 508.139,
+    "text": "will generally be higher than the than"
+  },
+  {
+    "start": "00:08:28.139",
+    "end": "00:08:29.899",
+    "start_seconds": 508.139,
+    "end_seconds": 509.899,
+    "text": "will generally be higher than the than the cash flow to equity but you're"
+  },
+  {
+    "start": "00:08:29.899",
+    "end": "00:08:29.909",
+    "start_seconds": 509.899,
+    "end_seconds": 509.909,
+    "text": "the cash flow to equity but you're"
+  },
+  {
+    "start": "00:08:29.909",
+    "end": "00:08:31.640",
+    "start_seconds": 509.909,
+    "end_seconds": 511.64,
+    "text": "the cash flow to equity but you're taking a very different perspective and"
+  },
+  {
+    "start": "00:08:31.640",
+    "end": "00:08:31.650",
+    "start_seconds": 511.64,
+    "end_seconds": 511.65,
+    "text": "taking a very different perspective and"
+  },
+  {
+    "start": "00:08:31.650",
+    "end": "00:08:33.140",
+    "start_seconds": 511.65,
+    "end_seconds": 513.14,
+    "text": "taking a very different perspective and valuation when you do it because you're"
+  },
+  {
+    "start": "00:08:33.140",
+    "end": "00:08:33.150",
+    "start_seconds": 513.14,
+    "end_seconds": 513.15,
+    "text": "valuation when you do it because you're"
+  },
+  {
+    "start": "00:08:33.150",
+    "end": "00:08:34.819",
+    "start_seconds": 513.15,
+    "end_seconds": 514.819,
+    "text": "valuation when you do it because you're looking at all claim holders in the"
+  },
+  {
+    "start": "00:08:34.819",
+    "end": "00:08:34.829",
+    "start_seconds": 514.819,
+    "end_seconds": 514.829,
+    "text": "looking at all claim holders in the"
+  },
+  {
+    "start": "00:08:34.829",
+    "end": "00:08:36.560",
+    "start_seconds": 514.829,
+    "end_seconds": 516.56,
+    "text": "looking at all claim holders in the fourth firm in the cash flows they"
+  },
+  {
+    "start": "00:08:36.560",
+    "end": "00:08:36.570",
+    "start_seconds": 516.56,
+    "end_seconds": 516.57,
+    "text": "fourth firm in the cash flows they"
+  },
+  {
+    "start": "00:08:36.570",
+    "end": "00:08:39.440",
+    "start_seconds": 516.57,
+    "end_seconds": 519.44,
+    "text": "fourth firm in the cash flows they collect from those claims and when you"
+  },
+  {
+    "start": "00:08:39.440",
+    "end": "00:08:39.450",
+    "start_seconds": 519.44,
+    "end_seconds": 519.45,
+    "text": "collect from those claims and when you"
+  },
+  {
+    "start": "00:08:39.450",
+    "end": "00:08:40.760",
+    "start_seconds": 519.45,
+    "end_seconds": 520.76,
+    "text": "collect from those claims and when you talk about a cost of capital you're"
+  },
+  {
+    "start": "00:08:40.760",
+    "end": "00:08:40.770",
+    "start_seconds": 520.76,
+    "end_seconds": 520.77,
+    "text": "talk about a cost of capital you're"
+  },
+  {
+    "start": "00:08:40.770",
+    "end": "00:08:42.230",
+    "start_seconds": 520.77,
+    "end_seconds": 522.23,
+    "text": "talk about a cost of capital you're talking about a weighted average or"
+  },
+  {
+    "start": "00:08:42.230",
+    "end": "00:08:42.240",
+    "start_seconds": 522.23,
+    "end_seconds": 522.24,
+    "text": "talking about a weighted average or"
+  },
+  {
+    "start": "00:08:42.240",
+    "end": "00:08:44.269",
+    "start_seconds": 522.24,
+    "end_seconds": 524.269,
+    "text": "talking about a weighted average or weighted average of what of your cost of"
+  },
+  {
+    "start": "00:08:44.269",
+    "end": "00:08:44.279",
+    "start_seconds": 524.269,
+    "end_seconds": 524.279,
+    "text": "weighted average of what of your cost of"
+  },
+  {
+    "start": "00:08:44.279",
+    "end": "00:08:46.579",
+    "start_seconds": 524.279,
+    "end_seconds": 526.579,
+    "text": "weighted average of what of your cost of equity and the cost of borrowing money"
+  },
+  {
+    "start": "00:08:46.579",
+    "end": "00:08:46.589",
+    "start_seconds": 526.579,
+    "end_seconds": 526.5889999999999,
+    "text": "equity and the cost of borrowing money"
+  },
+  {
+    "start": "00:08:46.589",
+    "end": "00:08:48.710",
+    "start_seconds": 526.5889999999999,
+    "end_seconds": 528.71,
+    "text": "equity and the cost of borrowing money and here's where the tax code kicks in"
+  },
+  {
+    "start": "00:08:48.710",
+    "end": "00:08:48.720",
+    "start_seconds": 528.71,
+    "end_seconds": 528.72,
+    "text": "and here's where the tax code kicks in"
+  },
+  {
+    "start": "00:08:48.720",
+    "end": "00:08:51.620",
+    "start_seconds": 528.72,
+    "end_seconds": 531.62,
+    "text": "and here's where the tax code kicks in the tax code is tilted towards that"
+  },
+  {
+    "start": "00:08:51.620",
+    "end": "00:08:51.630",
+    "start_seconds": 531.62,
+    "end_seconds": 531.63,
+    "text": "the tax code is tilted towards that"
+  },
+  {
+    "start": "00:08:51.630",
+    "end": "00:08:52.310",
+    "start_seconds": 531.63,
+    "end_seconds": 532.31,
+    "text": "the tax code is tilted towards that interest"
+  },
+  {
+    "start": "00:08:52.310",
+    "end": "00:08:52.320",
+    "start_seconds": 532.31,
+    "end_seconds": 532.32,
+    "text": "interest"
+  },
+  {
+    "start": "00:08:52.320",
+    "end": "00:08:53.780",
+    "start_seconds": 532.32,
+    "end_seconds": 533.78,
+    "text": "interest payments and debt much in the world and"
+  },
+  {
+    "start": "00:08:53.780",
+    "end": "00:08:53.790",
+    "start_seconds": 533.78,
+    "end_seconds": 533.79,
+    "text": "payments and debt much in the world and"
+  },
+  {
+    "start": "00:08:53.790",
+    "end": "00:08:55.400",
+    "start_seconds": 533.79,
+    "end_seconds": 535.4,
+    "text": "payments and debt much in the world and tax-deductible see her cost of debt"
+  },
+  {
+    "start": "00:08:55.400",
+    "end": "00:08:55.410",
+    "start_seconds": 535.4,
+    "end_seconds": 535.41,
+    "text": "tax-deductible see her cost of debt"
+  },
+  {
+    "start": "00:08:55.410",
+    "end": "00:08:57.080",
+    "start_seconds": 535.41,
+    "end_seconds": 537.08,
+    "text": "tax-deductible see her cost of debt might be much lower than what you"
+  },
+  {
+    "start": "00:08:57.080",
+    "end": "00:08:57.090",
+    "start_seconds": 537.08,
+    "end_seconds": 537.09,
+    "text": "might be much lower than what you"
+  },
+  {
+    "start": "00:08:57.090",
+    "end": "00:08:58.970",
+    "start_seconds": 537.09,
+    "end_seconds": 538.97,
+    "text": "might be much lower than what you actually see on your bank loan a five"
+  },
+  {
+    "start": "00:08:58.970",
+    "end": "00:08:58.980",
+    "start_seconds": 538.97,
+    "end_seconds": 538.98,
+    "text": "actually see on your bank loan a five"
+  },
+  {
+    "start": "00:08:58.980",
+    "end": "00:09:01.010",
+    "start_seconds": 538.98,
+    "end_seconds": 541.01,
+    "text": "actually see on your bank loan a five percent interest in a bank loan might"
+  },
+  {
+    "start": "00:09:01.010",
+    "end": "00:09:01.020",
+    "start_seconds": 541.01,
+    "end_seconds": 541.02,
+    "text": "percent interest in a bank loan might"
+  },
+  {
+    "start": "00:09:01.020",
+    "end": "00:09:02.870",
+    "start_seconds": 541.02,
+    "end_seconds": 542.87,
+    "text": "percent interest in a bank loan might translate into a three percent interest"
+  },
+  {
+    "start": "00:09:02.870",
+    "end": "00:09:02.880",
+    "start_seconds": 542.87,
+    "end_seconds": 542.88,
+    "text": "translate into a three percent interest"
+  },
+  {
+    "start": "00:09:02.880",
+    "end": "00:09:04.610",
+    "start_seconds": 542.88,
+    "end_seconds": 544.61,
+    "text": "translate into a three percent interest rate after taxes if you have a 40"
+  },
+  {
+    "start": "00:09:04.610",
+    "end": "00:09:04.620",
+    "start_seconds": 544.61,
+    "end_seconds": 544.62,
+    "text": "rate after taxes if you have a 40"
+  },
+  {
+    "start": "00:09:04.620",
+    "end": "00:09:06.800",
+    "start_seconds": 544.62,
+    "end_seconds": 546.8,
+    "text": "rate after taxes if you have a 40 percent tax rate your cost to capital is"
+  },
+  {
+    "start": "00:09:06.800",
+    "end": "00:09:06.810",
+    "start_seconds": 546.8,
+    "end_seconds": 546.81,
+    "text": "percent tax rate your cost to capital is"
+  },
+  {
+    "start": "00:09:06.810",
+    "end": "00:09:08.330",
+    "start_seconds": 546.81,
+    "end_seconds": 548.33,
+    "text": "percent tax rate your cost to capital is a weighted average of your cost of"
+  },
+  {
+    "start": "00:09:08.330",
+    "end": "00:09:08.340",
+    "start_seconds": 548.33,
+    "end_seconds": 548.34,
+    "text": "a weighted average of your cost of"
+  },
+  {
+    "start": "00:09:08.340",
+    "end": "00:09:10.430",
+    "start_seconds": 548.34,
+    "end_seconds": 550.43,
+    "text": "a weighted average of your cost of equity and your after-tax cost of debt"
+  },
+  {
+    "start": "00:09:10.430",
+    "end": "00:09:10.440",
+    "start_seconds": 550.43,
+    "end_seconds": 550.44,
+    "text": "equity and your after-tax cost of debt"
+  },
+  {
+    "start": "00:09:10.440",
+    "end": "00:09:12.980",
+    "start_seconds": 550.44,
+    "end_seconds": 552.98,
+    "text": "equity and your after-tax cost of debt with the weights being the market values"
+  },
+  {
+    "start": "00:09:12.980",
+    "end": "00:09:12.990",
+    "start_seconds": 552.98,
+    "end_seconds": 552.99,
+    "text": "with the weights being the market values"
+  },
+  {
+    "start": "00:09:12.990",
+    "end": "00:09:14.840",
+    "start_seconds": 552.99,
+    "end_seconds": 554.84,
+    "text": "with the weights being the market values of how much equity and debt use this"
+  },
+  {
+    "start": "00:09:14.840",
+    "end": "00:09:14.850",
+    "start_seconds": 554.84,
+    "end_seconds": 554.85,
+    "text": "of how much equity and debt use this"
+  },
+  {
+    "start": "00:09:14.850",
+    "end": "00:09:17.000",
+    "start_seconds": 554.85,
+    "end_seconds": 557.0,
+    "text": "of how much equity and debt use this firm eighty twenty ninety ten or a"
+  },
+  {
+    "start": "00:09:17.000",
+    "end": "00:09:17.010",
+    "start_seconds": 557.0,
+    "end_seconds": 557.01,
+    "text": "firm eighty twenty ninety ten or a"
+  },
+  {
+    "start": "00:09:17.010",
+    "end": "00:09:19.340",
+    "start_seconds": 557.01,
+    "end_seconds": 559.34,
+    "text": "firm eighty twenty ninety ten or a hundred percent equity so the cash flow"
+  },
+  {
+    "start": "00:09:19.340",
+    "end": "00:09:19.350",
+    "start_seconds": 559.34,
+    "end_seconds": 559.35,
+    "text": "hundred percent equity so the cash flow"
+  },
+  {
+    "start": "00:09:19.350",
+    "end": "00:09:21.110",
+    "start_seconds": 559.35,
+    "end_seconds": 561.11,
+    "text": "hundred percent equity so the cash flow to the firm discounted back of the cost"
+  },
+  {
+    "start": "00:09:21.110",
+    "end": "00:09:21.120",
+    "start_seconds": 561.11,
+    "end_seconds": 561.12,
+    "text": "to the firm discounted back of the cost"
+  },
+  {
+    "start": "00:09:21.120",
+    "end": "00:09:22.550",
+    "start_seconds": 561.12,
+    "end_seconds": 562.55,
+    "text": "to the firm discounted back of the cost of capital gives you the value of the"
+  },
+  {
+    "start": "00:09:22.550",
+    "end": "00:09:22.560",
+    "start_seconds": 562.55,
+    "end_seconds": 562.56,
+    "text": "of capital gives you the value of the"
+  },
+  {
+    "start": "00:09:22.560",
+    "end": "00:09:24.800",
+    "start_seconds": 562.56,
+    "end_seconds": 564.8,
+    "text": "of capital gives you the value of the business you subtract our debt you get"
+  },
+  {
+    "start": "00:09:24.800",
+    "end": "00:09:24.810",
+    "start_seconds": 564.8,
+    "end_seconds": 564.81,
+    "text": "business you subtract our debt you get"
+  },
+  {
+    "start": "00:09:24.810",
+    "end": "00:09:26.570",
+    "start_seconds": 564.81,
+    "end_seconds": 566.57,
+    "text": "business you subtract our debt you get to the value of equity now I'm going to"
+  },
+  {
+    "start": "00:09:26.570",
+    "end": "00:09:26.580",
+    "start_seconds": 566.57,
+    "end_seconds": 566.58,
+    "text": "to the value of equity now I'm going to"
+  },
+  {
+    "start": "00:09:26.580",
+    "end": "00:09:28.850",
+    "start_seconds": 566.58,
+    "end_seconds": 568.85,
+    "text": "to the value of equity now I'm going to give you some good news on on valuation"
+  },
+  {
+    "start": "00:09:28.850",
+    "end": "00:09:28.860",
+    "start_seconds": 568.85,
+    "end_seconds": 568.86,
+    "text": "give you some good news on on valuation"
+  },
+  {
+    "start": "00:09:28.860",
+    "end": "00:09:29.870",
+    "start_seconds": 568.86,
+    "end_seconds": 569.87,
+    "text": "give you some good news on on valuation in a minute"
+  },
+  {
+    "start": "00:09:29.870",
+    "end": "00:09:29.880",
+    "start_seconds": 569.87,
+    "end_seconds": 569.88,
+    "text": "in a minute"
+  },
+  {
+    "start": "00:09:29.880",
+    "end": "00:09:31.820",
+    "start_seconds": 569.88,
+    "end_seconds": 571.82,
+    "text": "in a minute but if you step back from both these"
+  },
+  {
+    "start": "00:09:31.820",
+    "end": "00:09:31.830",
+    "start_seconds": 571.82,
+    "end_seconds": 571.83,
+    "text": "but if you step back from both these"
+  },
+  {
+    "start": "00:09:31.830",
+    "end": "00:09:33.770",
+    "start_seconds": 571.83,
+    "end_seconds": 573.77,
+    "text": "but if you step back from both these models the equity in the firm valuation"
+  },
+  {
+    "start": "00:09:33.770",
+    "end": "00:09:33.780",
+    "start_seconds": 573.77,
+    "end_seconds": 573.78,
+    "text": "models the equity in the firm valuation"
+  },
+  {
+    "start": "00:09:33.780",
+    "end": "00:09:35.720",
+    "start_seconds": 573.78,
+    "end_seconds": 575.72,
+    "text": "models the equity in the firm valuation model you can also already see the"
+  },
+  {
+    "start": "00:09:35.720",
+    "end": "00:09:35.730",
+    "start_seconds": 575.72,
+    "end_seconds": 575.73,
+    "text": "model you can also already see the"
+  },
+  {
+    "start": "00:09:35.730",
+    "end": "00:09:38.240",
+    "start_seconds": 575.73,
+    "end_seconds": 578.24,
+    "text": "model you can also already see the drivers of value in a business the"
+  },
+  {
+    "start": "00:09:38.240",
+    "end": "00:09:38.250",
+    "start_seconds": 578.24,
+    "end_seconds": 578.25,
+    "text": "drivers of value in a business the"
+  },
+  {
+    "start": "00:09:38.250",
+    "end": "00:09:40.190",
+    "start_seconds": 578.25,
+    "end_seconds": 580.19,
+    "text": "drivers of value in a business the drivers of value in a business are cash"
+  },
+  {
+    "start": "00:09:40.190",
+    "end": "00:09:40.200",
+    "start_seconds": 580.19,
+    "end_seconds": 580.2,
+    "text": "drivers of value in a business are cash"
+  },
+  {
+    "start": "00:09:40.200",
+    "end": "00:09:43.010",
+    "start_seconds": 580.2,
+    "end_seconds": 583.01,
+    "text": "drivers of value in a business are cash flows the expected growth in those cash"
+  },
+  {
+    "start": "00:09:43.010",
+    "end": "00:09:43.020",
+    "start_seconds": 583.01,
+    "end_seconds": 583.02,
+    "text": "flows the expected growth in those cash"
+  },
+  {
+    "start": "00:09:43.020",
+    "end": "00:09:44.900",
+    "start_seconds": 583.02,
+    "end_seconds": 584.9,
+    "text": "flows the expected growth in those cash flows and this con trade you apply to"
+  },
+  {
+    "start": "00:09:44.900",
+    "end": "00:09:44.910",
+    "start_seconds": 584.9,
+    "end_seconds": 584.91,
+    "text": "flows and this con trade you apply to"
+  },
+  {
+    "start": "00:09:44.910",
+    "end": "00:09:47.360",
+    "start_seconds": 584.91,
+    "end_seconds": 587.36,
+    "text": "flows and this con trade you apply to those cash flows and a way of putting"
+  },
+  {
+    "start": "00:09:47.360",
+    "end": "00:09:47.370",
+    "start_seconds": 587.36,
+    "end_seconds": 587.37,
+    "text": "those cash flows and a way of putting"
+  },
+  {
+    "start": "00:09:47.370",
+    "end": "00:09:49.190",
+    "start_seconds": 587.37,
+    "end_seconds": 589.19,
+    "text": "those cash flows and a way of putting closure and part of the reason you need"
+  },
+  {
+    "start": "00:09:49.190",
+    "end": "00:09:49.200",
+    "start_seconds": 589.19,
+    "end_seconds": 589.2,
+    "text": "closure and part of the reason you need"
+  },
+  {
+    "start": "00:09:49.200",
+    "end": "00:09:51.350",
+    "start_seconds": 589.2,
+    "end_seconds": 591.35,
+    "text": "closure and part of the reason you need closure is in a publicly traded company"
+  },
+  {
+    "start": "00:09:51.350",
+    "end": "00:09:51.360",
+    "start_seconds": 591.35,
+    "end_seconds": 591.36,
+    "text": "closure is in a publicly traded company"
+  },
+  {
+    "start": "00:09:51.360",
+    "end": "00:09:53.600",
+    "start_seconds": 591.36,
+    "end_seconds": 593.6,
+    "text": "closure is in a publicly traded company of cash flows can keep going and going"
+  },
+  {
+    "start": "00:09:53.600",
+    "end": "00:09:53.610",
+    "start_seconds": 593.6,
+    "end_seconds": 593.61,
+    "text": "of cash flows can keep going and going"
+  },
+  {
+    "start": "00:09:53.610",
+    "end": "00:09:55.400",
+    "start_seconds": 593.61,
+    "end_seconds": 595.4,
+    "text": "of cash flows can keep going and going and going forever and that's what a"
+  },
+  {
+    "start": "00:09:55.400",
+    "end": "00:09:55.410",
+    "start_seconds": 595.4,
+    "end_seconds": 595.41,
+    "text": "and going forever and that's what a"
+  },
+  {
+    "start": "00:09:55.410",
+    "end": "00:09:57.830",
+    "start_seconds": 595.41,
+    "end_seconds": 597.83,
+    "text": "and going forever and that's what a terminal value does an evaluation is it"
+  },
+  {
+    "start": "00:09:57.830",
+    "end": "00:09:57.840",
+    "start_seconds": 597.83,
+    "end_seconds": 597.84,
+    "text": "terminal value does an evaluation is it"
+  },
+  {
+    "start": "00:09:57.840",
+    "end": "00:09:59.840",
+    "start_seconds": 597.84,
+    "end_seconds": 599.84,
+    "text": "terminal value does an evaluation is it allows you to stop estimating cash flows"
+  },
+  {
+    "start": "00:09:59.840",
+    "end": "00:09:59.850",
+    "start_seconds": 599.84,
+    "end_seconds": 599.85,
+    "text": "allows you to stop estimating cash flows"
+  },
+  {
+    "start": "00:09:59.850",
+    "end": "00:10:02.090",
+    "start_seconds": 599.85,
+    "end_seconds": 602.09,
+    "text": "allows you to stop estimating cash flows and generally use that perpetual growth"
+  },
+  {
+    "start": "00:10:02.090",
+    "end": "00:10:02.100",
+    "start_seconds": 602.09,
+    "end_seconds": 602.1,
+    "text": "and generally use that perpetual growth"
+  },
+  {
+    "start": "00:10:02.100",
+    "end": "00:10:04.430",
+    "start_seconds": 602.1,
+    "end_seconds": 604.43,
+    "text": "and generally use that perpetual growth model that he saw for car net to get a"
+  },
+  {
+    "start": "00:10:04.430",
+    "end": "00:10:04.440",
+    "start_seconds": 604.43,
+    "end_seconds": 604.44,
+    "text": "model that he saw for car net to get a"
+  },
+  {
+    "start": "00:10:04.440",
+    "end": "00:10:06.680",
+    "start_seconds": 604.44,
+    "end_seconds": 606.68,
+    "text": "model that he saw for car net to get a value at the end of the period but in"
+  },
+  {
+    "start": "00:10:06.680",
+    "end": "00:10:06.690",
+    "start_seconds": 606.68,
+    "end_seconds": 606.69,
+    "text": "value at the end of the period but in"
+  },
+  {
+    "start": "00:10:06.690",
+    "end": "00:10:09.590",
+    "start_seconds": 606.69,
+    "end_seconds": 609.59,
+    "text": "value at the end of the period but in all valuation models it's all about cash"
+  },
+  {
+    "start": "00:10:09.590",
+    "end": "00:10:09.600",
+    "start_seconds": 609.59,
+    "end_seconds": 609.6,
+    "text": "all valuation models it's all about cash"
+  },
+  {
+    "start": "00:10:09.600",
+    "end": "00:10:11.180",
+    "start_seconds": 609.6,
+    "end_seconds": 611.18,
+    "text": "all valuation models it's all about cash flows growth and risk those are the"
+  },
+  {
+    "start": "00:10:11.180",
+    "end": "00:10:11.190",
+    "start_seconds": 611.18,
+    "end_seconds": 611.19,
+    "text": "flows growth and risk those are the"
+  },
+  {
+    "start": "00:10:11.190",
+    "end": "00:10:13.370",
+    "start_seconds": 611.19,
+    "end_seconds": 613.37,
+    "text": "flows growth and risk those are the drivers of value whether you do equity"
+  },
+  {
+    "start": "00:10:13.370",
+    "end": "00:10:13.380",
+    "start_seconds": 613.37,
+    "end_seconds": 613.38,
+    "text": "drivers of value whether you do equity"
+  },
+  {
+    "start": "00:10:13.380",
+    "end": "00:10:15.770",
+    "start_seconds": 613.38,
+    "end_seconds": 615.77,
+    "text": "drivers of value whether you do equity valuation of firm valuation now you"
+  },
+  {
+    "start": "00:10:15.770",
+    "end": "00:10:15.780",
+    "start_seconds": 615.77,
+    "end_seconds": 615.78,
+    "text": "valuation of firm valuation now you"
+  },
+  {
+    "start": "00:10:15.780",
+    "end": "00:10:17.480",
+    "start_seconds": 615.78,
+    "end_seconds": 617.48,
+    "text": "valuation of firm valuation now you might wonder when you value a company"
+  },
+  {
+    "start": "00:10:17.480",
+    "end": "00:10:17.490",
+    "start_seconds": 617.48,
+    "end_seconds": 617.49,
+    "text": "might wonder when you value a company"
+  },
+  {
+    "start": "00:10:17.490",
+    "end": "00:10:19.340",
+    "start_seconds": 617.49,
+    "end_seconds": 619.34,
+    "text": "might wonder when you value a company should you value the equity directly or"
+  },
+  {
+    "start": "00:10:19.340",
+    "end": "00:10:19.350",
+    "start_seconds": 619.34,
+    "end_seconds": 619.35,
+    "text": "should you value the equity directly or"
+  },
+  {
+    "start": "00:10:19.350",
+    "end": "00:10:20.480",
+    "start_seconds": 619.35,
+    "end_seconds": 620.48,
+    "text": "should you value the equity directly or should you value the business and"
+  },
+  {
+    "start": "00:10:20.480",
+    "end": "00:10:20.490",
+    "start_seconds": 620.48,
+    "end_seconds": 620.49,
+    "text": "should you value the business and"
+  },
+  {
+    "start": "00:10:20.490",
+    "end": "00:10:22.550",
+    "start_seconds": 620.49,
+    "end_seconds": 622.55,
+    "text": "should you value the business and subtract our debt well if you do it"
+  },
+  {
+    "start": "00:10:22.550",
+    "end": "00:10:22.560",
+    "start_seconds": 622.55,
+    "end_seconds": 622.56,
+    "text": "subtract our debt well if you do it"
+  },
+  {
+    "start": "00:10:22.560",
+    "end": "00:10:24.560",
+    "start_seconds": 622.56,
+    "end_seconds": 624.56,
+    "text": "subtract our debt well if you do it right if you make consistent assumptions"
+  },
+  {
+    "start": "00:10:24.560",
+    "end": "00:10:24.570",
+    "start_seconds": 624.56,
+    "end_seconds": 624.57,
+    "text": "right if you make consistent assumptions"
+  },
+  {
+    "start": "00:10:24.570",
+    "end": "00:10:26.660",
+    "start_seconds": 624.57,
+    "end_seconds": 626.66,
+    "text": "right if you make consistent assumptions about cash flows debt and risk you"
+  },
+  {
+    "start": "00:10:26.660",
+    "end": "00:10:26.670",
+    "start_seconds": 626.66,
+    "end_seconds": 626.67,
+    "text": "about cash flows debt and risk you"
+  },
+  {
+    "start": "00:10:26.670",
+    "end": "00:10:28.490",
+    "start_seconds": 626.67,
+    "end_seconds": 628.49,
+    "text": "about cash flows debt and risk you should get the same value for equity"
+  },
+  {
+    "start": "00:10:28.490",
+    "end": "00:10:28.500",
+    "start_seconds": 628.49,
+    "end_seconds": 628.5,
+    "text": "should get the same value for equity"
+  },
+  {
+    "start": "00:10:28.500",
+    "end": "00:10:32.060",
+    "start_seconds": 628.5,
+    "end_seconds": 632.06,
+    "text": "should get the same value for equity using both approaches but I also make an"
+  },
+  {
+    "start": "00:10:32.060",
+    "end": "00:10:32.070",
+    "start_seconds": 632.06,
+    "end_seconds": 632.07,
+    "text": "using both approaches but I also make an"
+  },
+  {
+    "start": "00:10:32.070",
+    "end": "00:10:33.290",
+    "start_seconds": 632.07,
+    "end_seconds": 633.29,
+    "text": "using both approaches but I also make an admission that's one of the most"
+  },
+  {
+    "start": "00:10:33.290",
+    "end": "00:10:33.300",
+    "start_seconds": 633.29,
+    "end_seconds": 633.3,
+    "text": "admission that's one of the most"
+  },
+  {
+    "start": "00:10:33.300",
+    "end": "00:10:35.450",
+    "start_seconds": 633.3,
+    "end_seconds": 635.45,
+    "text": "admission that's one of the most difficult tasks in valuation is to stay"
+  },
+  {
+    "start": "00:10:35.450",
+    "end": "00:10:35.460",
+    "start_seconds": 635.45,
+    "end_seconds": 635.46,
+    "text": "difficult tasks in valuation is to stay"
+  },
+  {
+    "start": "00:10:35.460",
+    "end": "00:10:37.310",
+    "start_seconds": 635.46,
+    "end_seconds": 637.31,
+    "text": "difficult tasks in valuation is to stay consistent as you move from one approach"
+  },
+  {
+    "start": "00:10:37.310",
+    "end": "00:10:37.320",
+    "start_seconds": 637.31,
+    "end_seconds": 637.32,
+    "text": "consistent as you move from one approach"
+  },
+  {
+    "start": "00:10:37.320",
+    "end": "00:10:39.260",
+    "start_seconds": 637.32,
+    "end_seconds": 639.26,
+    "text": "consistent as you move from one approach another so we'll come back and address"
+  },
+  {
+    "start": "00:10:39.260",
+    "end": "00:10:39.270",
+    "start_seconds": 639.26,
+    "end_seconds": 639.27,
+    "text": "another so we'll come back and address"
+  },
+  {
+    "start": "00:10:39.270",
+    "end": "00:10:41.480",
+    "start_seconds": 639.27,
+    "end_seconds": 641.48,
+    "text": "another so we'll come back and address this as we go through the process of"
+  },
+  {
+    "start": "00:10:41.480",
+    "end": "00:10:41.490",
+    "start_seconds": 641.48,
+    "end_seconds": 641.49,
+    "text": "this as we go through the process of"
+  },
+  {
+    "start": "00:10:41.490",
+    "end": "00:10:44.390",
+    "start_seconds": 641.49,
+    "end_seconds": 644.39,
+    "text": "this as we go through the process of getting the specifics on valuation but"
+  },
+  {
+    "start": "00:10:44.390",
+    "end": "00:10:44.400",
+    "start_seconds": 644.39,
+    "end_seconds": 644.4,
+    "text": "getting the specifics on valuation but"
+  },
+  {
+    "start": "00:10:44.400",
+    "end": "00:10:45.830",
+    "start_seconds": 644.4,
+    "end_seconds": 645.83,
+    "text": "getting the specifics on valuation but you have the tools to at least start"
+  },
+  {
+    "start": "00:10:45.830",
+    "end": "00:10:45.840",
+    "start_seconds": 645.83,
+    "end_seconds": 645.84,
+    "text": "you have the tools to at least start"
+  },
+  {
+    "start": "00:10:45.840",
+    "end": "00:10:48.080",
+    "start_seconds": 645.84,
+    "end_seconds": 648.08,
+    "text": "you have the tools to at least start thinking about the value of residual"
+  },
+  {
+    "start": "00:10:48.080",
+    "end": "00:10:48.090",
+    "start_seconds": 648.08,
+    "end_seconds": 648.09,
+    "text": "thinking about the value of residual"
+  },
+  {
+    "start": "00:10:48.090",
+    "end": "00:10:52.340",
+    "start_seconds": 648.09,
+    "end_seconds": 652.34,
+    "text": "thinking about the value of residual claims the value of equity in a business"
+  }
+]

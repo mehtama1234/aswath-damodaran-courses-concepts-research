@@ -1,0 +1,5539 @@
+[
+  {
+    "start": "00:00:01.040",
+    "end": "00:00:04.230",
+    "start_seconds": 1.04,
+    "end_seconds": 4.23,
+    "text": "Hi, welcome to this the second session"
+  },
+  {
+    "start": "00:00:04.230",
+    "end": "00:00:04.240",
+    "start_seconds": 4.23,
+    "end_seconds": 4.24,
+    "text": "Hi, welcome to this the second session"
+  },
+  {
+    "start": "00:00:04.240",
+    "end": "00:00:06.789",
+    "start_seconds": 4.24,
+    "end_seconds": 6.789,
+    "text": "Hi, welcome to this the second session of the investment philosophies class. In"
+  },
+  {
+    "start": "00:00:06.789",
+    "end": "00:00:06.799",
+    "start_seconds": 6.789,
+    "end_seconds": 6.799,
+    "text": "of the investment philosophies class. In"
+  },
+  {
+    "start": "00:00:06.799",
+    "end": "00:00:08.470",
+    "start_seconds": 6.799,
+    "end_seconds": 8.47,
+    "text": "of the investment philosophies class. In this session, we're going to talk in at"
+  },
+  {
+    "start": "00:00:08.470",
+    "end": "00:00:08.480",
+    "start_seconds": 8.47,
+    "end_seconds": 8.48,
+    "text": "this session, we're going to talk in at"
+  },
+  {
+    "start": "00:00:08.480",
+    "end": "00:00:11.430",
+    "start_seconds": 8.48,
+    "end_seconds": 11.43,
+    "text": "this session, we're going to talk in at least general terms about risk. Risk is"
+  },
+  {
+    "start": "00:00:11.430",
+    "end": "00:00:11.440",
+    "start_seconds": 11.43,
+    "end_seconds": 11.44,
+    "text": "least general terms about risk. Risk is"
+  },
+  {
+    "start": "00:00:11.440",
+    "end": "00:00:13.190",
+    "start_seconds": 11.44,
+    "end_seconds": 13.19,
+    "text": "least general terms about risk. Risk is a theme in investing. You can't make it"
+  },
+  {
+    "start": "00:00:13.190",
+    "end": "00:00:13.200",
+    "start_seconds": 13.19,
+    "end_seconds": 13.2,
+    "text": "a theme in investing. You can't make it"
+  },
+  {
+    "start": "00:00:13.200",
+    "end": "00:00:15.270",
+    "start_seconds": 13.2,
+    "end_seconds": 15.27,
+    "text": "a theme in investing. You can't make it go away. It's a constant source of"
+  },
+  {
+    "start": "00:00:15.270",
+    "end": "00:00:15.280",
+    "start_seconds": 15.27,
+    "end_seconds": 15.28,
+    "text": "go away. It's a constant source of"
+  },
+  {
+    "start": "00:00:15.280",
+    "end": "00:00:18.070",
+    "start_seconds": 15.28,
+    "end_seconds": 18.07,
+    "text": "go away. It's a constant source of debate. And in spite of all of the"
+  },
+  {
+    "start": "00:00:18.070",
+    "end": "00:00:18.080",
+    "start_seconds": 18.07,
+    "end_seconds": 18.08,
+    "text": "debate. And in spite of all of the"
+  },
+  {
+    "start": "00:00:18.080",
+    "end": "00:00:20.230",
+    "start_seconds": 18.08,
+    "end_seconds": 20.23,
+    "text": "debate. And in spite of all of the movements we've made in finance, there"
+  },
+  {
+    "start": "00:00:20.230",
+    "end": "00:00:20.240",
+    "start_seconds": 20.23,
+    "end_seconds": 20.24,
+    "text": "movements we've made in finance, there"
+  },
+  {
+    "start": "00:00:20.240",
+    "end": "00:00:22.630",
+    "start_seconds": 20.24,
+    "end_seconds": 22.63,
+    "text": "movements we've made in finance, there is really no consensus on how to define"
+  },
+  {
+    "start": "00:00:22.630",
+    "end": "00:00:22.640",
+    "start_seconds": 22.63,
+    "end_seconds": 22.64,
+    "text": "is really no consensus on how to define"
+  },
+  {
+    "start": "00:00:22.640",
+    "end": "00:00:24.870",
+    "start_seconds": 22.64,
+    "end_seconds": 24.87,
+    "text": "is really no consensus on how to define and measure risk. In fact, in this"
+  },
+  {
+    "start": "00:00:24.870",
+    "end": "00:00:24.880",
+    "start_seconds": 24.87,
+    "end_seconds": 24.88,
+    "text": "and measure risk. In fact, in this"
+  },
+  {
+    "start": "00:00:24.880",
+    "end": "00:00:26.790",
+    "start_seconds": 24.88,
+    "end_seconds": 26.79,
+    "text": "and measure risk. In fact, in this session, I'm going to desri describe"
+  },
+  {
+    "start": "00:00:26.790",
+    "end": "00:00:26.800",
+    "start_seconds": 26.79,
+    "end_seconds": 26.8,
+    "text": "session, I'm going to desri describe"
+  },
+  {
+    "start": "00:00:26.800",
+    "end": "00:00:28.870",
+    "start_seconds": 26.8,
+    "end_seconds": 28.87,
+    "text": "session, I'm going to desri describe risk as a double-edged sword. Let me"
+  },
+  {
+    "start": "00:00:28.870",
+    "end": "00:00:28.880",
+    "start_seconds": 28.87,
+    "end_seconds": 28.88,
+    "text": "risk as a double-edged sword. Let me"
+  },
+  {
+    "start": "00:00:28.880",
+    "end": "00:00:31.189",
+    "start_seconds": 28.88,
+    "end_seconds": 31.189,
+    "text": "risk as a double-edged sword. Let me start with that. I know there are lots"
+  },
+  {
+    "start": "00:00:31.189",
+    "end": "00:00:31.199",
+    "start_seconds": 31.189,
+    "end_seconds": 31.199,
+    "text": "start with that. I know there are lots"
+  },
+  {
+    "start": "00:00:31.199",
+    "end": "00:00:33.030",
+    "start_seconds": 31.199,
+    "end_seconds": 33.03,
+    "text": "start with that. I know there are lots of definitions of risk. Many are"
+  },
+  {
+    "start": "00:00:33.030",
+    "end": "00:00:33.040",
+    "start_seconds": 33.03,
+    "end_seconds": 33.04,
+    "text": "of definitions of risk. Many are"
+  },
+  {
+    "start": "00:00:33.040",
+    "end": "00:00:35.030",
+    "start_seconds": 33.04,
+    "end_seconds": 35.03,
+    "text": "of definitions of risk. Many are statistical and I think they missed the"
+  },
+  {
+    "start": "00:00:35.030",
+    "end": "00:00:35.040",
+    "start_seconds": 35.03,
+    "end_seconds": 35.04,
+    "text": "statistical and I think they missed the"
+  },
+  {
+    "start": "00:00:35.040",
+    "end": "00:00:37.750",
+    "start_seconds": 35.04,
+    "end_seconds": 37.75,
+    "text": "statistical and I think they missed the point. In fact, much of risk management"
+  },
+  {
+    "start": "00:00:37.750",
+    "end": "00:00:37.760",
+    "start_seconds": 37.75,
+    "end_seconds": 37.76,
+    "text": "point. In fact, much of risk management"
+  },
+  {
+    "start": "00:00:37.760",
+    "end": "00:00:39.750",
+    "start_seconds": 37.76,
+    "end_seconds": 39.75,
+    "text": "point. In fact, much of risk management is built on the presumption that risk is"
+  },
+  {
+    "start": "00:00:39.750",
+    "end": "00:00:39.760",
+    "start_seconds": 39.75,
+    "end_seconds": 39.76,
+    "text": "is built on the presumption that risk is"
+  },
+  {
+    "start": "00:00:39.760",
+    "end": "00:00:41.830",
+    "start_seconds": 39.76,
+    "end_seconds": 41.83,
+    "text": "is built on the presumption that risk is a bad thing. It's a negative. I think"
+  },
+  {
+    "start": "00:00:41.830",
+    "end": "00:00:41.840",
+    "start_seconds": 41.83,
+    "end_seconds": 41.84,
+    "text": "a bad thing. It's a negative. I think"
+  },
+  {
+    "start": "00:00:41.840",
+    "end": "00:00:44.150",
+    "start_seconds": 41.84,
+    "end_seconds": 44.15,
+    "text": "a bad thing. It's a negative. I think the best definition of risk I've ever"
+  },
+  {
+    "start": "00:00:44.150",
+    "end": "00:00:44.160",
+    "start_seconds": 44.15,
+    "end_seconds": 44.16,
+    "text": "the best definition of risk I've ever"
+  },
+  {
+    "start": "00:00:44.160",
+    "end": "00:00:46.709",
+    "start_seconds": 44.16,
+    "end_seconds": 46.709,
+    "text": "the best definition of risk I've ever seen is the Chinese symbol for"
+  },
+  {
+    "start": "00:00:46.709",
+    "end": "00:00:46.719",
+    "start_seconds": 46.709,
+    "end_seconds": 46.719,
+    "text": "seen is the Chinese symbol for"
+  },
+  {
+    "start": "00:00:46.719",
+    "end": "00:00:48.470",
+    "start_seconds": 46.719,
+    "end_seconds": 48.47,
+    "text": "seen is the Chinese symbol for crisis/big"
+  },
+  {
+    "start": "00:00:48.470",
+    "end": "00:00:48.480",
+    "start_seconds": 48.47,
+    "end_seconds": 48.48,
+    "text": "crisis/big"
+  },
+  {
+    "start": "00:00:48.480",
+    "end": "00:00:51.029",
+    "start_seconds": 48.48,
+    "end_seconds": 51.029,
+    "text": "crisis/big risk. And it's a combination of two"
+  },
+  {
+    "start": "00:00:51.029",
+    "end": "00:00:51.039",
+    "start_seconds": 51.029,
+    "end_seconds": 51.039,
+    "text": "risk. And it's a combination of two"
+  },
+  {
+    "start": "00:00:51.039",
+    "end": "00:00:53.590",
+    "start_seconds": 51.039,
+    "end_seconds": 53.59,
+    "text": "risk. And it's a combination of two symbols. The first one is a symbol for"
+  },
+  {
+    "start": "00:00:53.590",
+    "end": "00:00:53.600",
+    "start_seconds": 53.59,
+    "end_seconds": 53.6,
+    "text": "symbols. The first one is a symbol for"
+  },
+  {
+    "start": "00:00:53.600",
+    "end": "00:00:56.869",
+    "start_seconds": 53.6,
+    "end_seconds": 56.869,
+    "text": "symbols. The first one is a symbol for danger. The second one is a symbol for"
+  },
+  {
+    "start": "00:00:56.869",
+    "end": "00:00:56.879",
+    "start_seconds": 56.869,
+    "end_seconds": 56.879,
+    "text": "danger. The second one is a symbol for"
+  },
+  {
+    "start": "00:00:56.879",
+    "end": "00:01:00.549",
+    "start_seconds": 56.879,
+    "end_seconds": 60.549,
+    "text": "danger. The second one is a symbol for opportunity. Put simply, risk is danger"
+  },
+  {
+    "start": "00:01:00.549",
+    "end": "00:01:00.559",
+    "start_seconds": 60.549,
+    "end_seconds": 60.559,
+    "text": "opportunity. Put simply, risk is danger"
+  },
+  {
+    "start": "00:01:00.559",
+    "end": "00:01:03.670",
+    "start_seconds": 60.559,
+    "end_seconds": 63.67,
+    "text": "opportunity. Put simply, risk is danger plus opportunity. Perfect way to think"
+  },
+  {
+    "start": "00:01:03.670",
+    "end": "00:01:03.680",
+    "start_seconds": 63.67,
+    "end_seconds": 63.68,
+    "text": "plus opportunity. Perfect way to think"
+  },
+  {
+    "start": "00:01:03.680",
+    "end": "00:01:06.469",
+    "start_seconds": 63.68,
+    "end_seconds": 66.469,
+    "text": "plus opportunity. Perfect way to think about risk because it locks the two at"
+  },
+  {
+    "start": "00:01:06.469",
+    "end": "00:01:06.479",
+    "start_seconds": 66.469,
+    "end_seconds": 66.479,
+    "text": "about risk because it locks the two at"
+  },
+  {
+    "start": "00:01:06.479",
+    "end": "00:01:08.789",
+    "start_seconds": 66.479,
+    "end_seconds": 68.789,
+    "text": "about risk because it locks the two at the hip. It says if you want one, you"
+  },
+  {
+    "start": "00:01:08.789",
+    "end": "00:01:08.799",
+    "start_seconds": 68.789,
+    "end_seconds": 68.799,
+    "text": "the hip. It says if you want one, you"
+  },
+  {
+    "start": "00:01:08.799",
+    "end": "00:01:10.789",
+    "start_seconds": 68.799,
+    "end_seconds": 70.789,
+    "text": "the hip. It says if you want one, you got to live with the other. Now, we know"
+  },
+  {
+    "start": "00:01:10.789",
+    "end": "00:01:10.799",
+    "start_seconds": 70.789,
+    "end_seconds": 70.799,
+    "text": "got to live with the other. Now, we know"
+  },
+  {
+    "start": "00:01:10.799",
+    "end": "00:01:13.109",
+    "start_seconds": 70.799,
+    "end_seconds": 73.109,
+    "text": "got to live with the other. Now, we know which one we want. We want opportunity."
+  },
+  {
+    "start": "00:01:13.109",
+    "end": "00:01:13.119",
+    "start_seconds": 73.109,
+    "end_seconds": 73.119,
+    "text": "which one we want. We want opportunity."
+  },
+  {
+    "start": "00:01:13.119",
+    "end": "00:01:14.789",
+    "start_seconds": 73.119,
+    "end_seconds": 74.789,
+    "text": "which one we want. We want opportunity. But this definition says you want more"
+  },
+  {
+    "start": "00:01:14.789",
+    "end": "00:01:14.799",
+    "start_seconds": 74.789,
+    "end_seconds": 74.799,
+    "text": "But this definition says you want more"
+  },
+  {
+    "start": "00:01:14.799",
+    "end": "00:01:16.469",
+    "start_seconds": 74.799,
+    "end_seconds": 76.469,
+    "text": "But this definition says you want more opportunity, you got to be willing to"
+  },
+  {
+    "start": "00:01:16.469",
+    "end": "00:01:16.479",
+    "start_seconds": 76.469,
+    "end_seconds": 76.479,
+    "text": "opportunity, you got to be willing to"
+  },
+  {
+    "start": "00:01:16.479",
+    "end": "00:01:19.510",
+    "start_seconds": 76.479,
+    "end_seconds": 79.51,
+    "text": "opportunity, you got to be willing to live with more danger. One way to think"
+  },
+  {
+    "start": "00:01:19.510",
+    "end": "00:01:19.520",
+    "start_seconds": 79.51,
+    "end_seconds": 79.52,
+    "text": "live with more danger. One way to think"
+  },
+  {
+    "start": "00:01:19.520",
+    "end": "00:01:21.270",
+    "start_seconds": 79.52,
+    "end_seconds": 81.27,
+    "text": "live with more danger. One way to think about the discussion of risk and return"
+  },
+  {
+    "start": "00:01:21.270",
+    "end": "00:01:21.280",
+    "start_seconds": 81.27,
+    "end_seconds": 81.28,
+    "text": "about the discussion of risk and return"
+  },
+  {
+    "start": "00:01:21.280",
+    "end": "00:01:22.789",
+    "start_seconds": 81.28,
+    "end_seconds": 82.789,
+    "text": "about the discussion of risk and return we're going to have is when you're an"
+  },
+  {
+    "start": "00:01:22.789",
+    "end": "00:01:22.799",
+    "start_seconds": 82.789,
+    "end_seconds": 82.799,
+    "text": "we're going to have is when you're an"
+  },
+  {
+    "start": "00:01:22.799",
+    "end": "00:01:25.749",
+    "start_seconds": 82.799,
+    "end_seconds": 85.749,
+    "text": "we're going to have is when you're an investor and you expose yourself to"
+  },
+  {
+    "start": "00:01:25.749",
+    "end": "00:01:25.759",
+    "start_seconds": 85.749,
+    "end_seconds": 85.759,
+    "text": "investor and you expose yourself to"
+  },
+  {
+    "start": "00:01:25.759",
+    "end": "00:01:27.030",
+    "start_seconds": 85.759,
+    "end_seconds": 87.03,
+    "text": "investor and you expose yourself to danger in an investment. And the"
+  },
+  {
+    "start": "00:01:27.030",
+    "end": "00:01:27.040",
+    "start_seconds": 87.03,
+    "end_seconds": 87.03999999999999,
+    "text": "danger in an investment. And the"
+  },
+  {
+    "start": "00:01:27.040",
+    "end": "00:01:28.310",
+    "start_seconds": 87.03999999999999,
+    "end_seconds": 88.31,
+    "text": "danger in an investment. And the question you're asking is, how much"
+  },
+  {
+    "start": "00:01:28.310",
+    "end": "00:01:28.320",
+    "start_seconds": 88.31,
+    "end_seconds": 88.32,
+    "text": "question you're asking is, how much"
+  },
+  {
+    "start": "00:01:28.320",
+    "end": "00:01:31.030",
+    "start_seconds": 88.32,
+    "end_seconds": 91.03,
+    "text": "question you're asking is, how much opportunity do I need to compensate for"
+  },
+  {
+    "start": "00:01:31.030",
+    "end": "00:01:31.040",
+    "start_seconds": 91.03,
+    "end_seconds": 91.03999999999999,
+    "text": "opportunity do I need to compensate for"
+  },
+  {
+    "start": "00:01:31.040",
+    "end": "00:01:33.670",
+    "start_seconds": 91.03999999999999,
+    "end_seconds": 93.67,
+    "text": "opportunity do I need to compensate for that danger? Using a phrase I've used"
+  },
+  {
+    "start": "00:01:33.670",
+    "end": "00:01:33.680",
+    "start_seconds": 93.67,
+    "end_seconds": 93.68,
+    "text": "that danger? Using a phrase I've used"
+  },
+  {
+    "start": "00:01:33.680",
+    "end": "00:01:35.830",
+    "start_seconds": 93.68,
+    "end_seconds": 95.83,
+    "text": "that danger? Using a phrase I've used before, we're not bungee jumpers in"
+  },
+  {
+    "start": "00:01:35.830",
+    "end": "00:01:35.840",
+    "start_seconds": 95.83,
+    "end_seconds": 95.84,
+    "text": "before, we're not bungee jumpers in"
+  },
+  {
+    "start": "00:01:35.840",
+    "end": "00:01:38.230",
+    "start_seconds": 95.84,
+    "end_seconds": 98.22999999999999,
+    "text": "before, we're not bungee jumpers in investing. We don't take risk for the"
+  },
+  {
+    "start": "00:01:38.230",
+    "end": "00:01:38.240",
+    "start_seconds": 98.22999999999999,
+    "end_seconds": 98.24000000000001,
+    "text": "investing. We don't take risk for the"
+  },
+  {
+    "start": "00:01:38.240",
+    "end": "00:01:40.710",
+    "start_seconds": 98.24000000000001,
+    "end_seconds": 100.71000000000001,
+    "text": "investing. We don't take risk for the sake of taking taking risk. We take risk"
+  },
+  {
+    "start": "00:01:40.710",
+    "end": "00:01:40.720",
+    "start_seconds": 100.71000000000001,
+    "end_seconds": 100.72,
+    "text": "sake of taking taking risk. We take risk"
+  },
+  {
+    "start": "00:01:40.720",
+    "end": "00:01:42.550",
+    "start_seconds": 100.72,
+    "end_seconds": 102.55,
+    "text": "sake of taking taking risk. We take risk because we think we can earn a return"
+  },
+  {
+    "start": "00:01:42.550",
+    "end": "00:01:42.560",
+    "start_seconds": 102.55,
+    "end_seconds": 102.56,
+    "text": "because we think we can earn a return"
+  },
+  {
+    "start": "00:01:42.560",
+    "end": "00:01:45.350",
+    "start_seconds": 102.56,
+    "end_seconds": 105.35,
+    "text": "because we think we can earn a return that is higher because of that risk."
+  },
+  {
+    "start": "00:01:45.350",
+    "end": "00:01:45.360",
+    "start_seconds": 105.35,
+    "end_seconds": 105.36,
+    "text": "that is higher because of that risk."
+  },
+  {
+    "start": "00:01:45.360",
+    "end": "00:01:47.350",
+    "start_seconds": 105.36,
+    "end_seconds": 107.35,
+    "text": "that is higher because of that risk. With that lead in, let's talk about the"
+  },
+  {
+    "start": "00:01:47.350",
+    "end": "00:01:47.360",
+    "start_seconds": 107.35,
+    "end_seconds": 107.36,
+    "text": "With that lead in, let's talk about the"
+  },
+  {
+    "start": "00:01:47.360",
+    "end": "00:01:49.109",
+    "start_seconds": 107.36,
+    "end_seconds": 109.10900000000001,
+    "text": "With that lead in, let's talk about the different dimensions on which you can"
+  },
+  {
+    "start": "00:01:49.109",
+    "end": "00:01:49.119",
+    "start_seconds": 109.10900000000001,
+    "end_seconds": 109.119,
+    "text": "different dimensions on which you can"
+  },
+  {
+    "start": "00:01:49.119",
+    "end": "00:01:51.670",
+    "start_seconds": 109.119,
+    "end_seconds": 111.67,
+    "text": "different dimensions on which you can measure risk. When you invest in a stock"
+  },
+  {
+    "start": "00:01:51.670",
+    "end": "00:01:51.680",
+    "start_seconds": 111.67,
+    "end_seconds": 111.68,
+    "text": "measure risk. When you invest in a stock"
+  },
+  {
+    "start": "00:01:51.680",
+    "end": "00:01:54.389",
+    "start_seconds": 111.68,
+    "end_seconds": 114.38900000000001,
+    "text": "measure risk. When you invest in a stock or any financial asset, there's price"
+  },
+  {
+    "start": "00:01:54.389",
+    "end": "00:01:54.399",
+    "start_seconds": 114.38900000000001,
+    "end_seconds": 114.399,
+    "text": "or any financial asset, there's price"
+  },
+  {
+    "start": "00:01:54.399",
+    "end": "00:01:56.310",
+    "start_seconds": 114.399,
+    "end_seconds": 116.31,
+    "text": "or any financial asset, there's price risk from the price of the asset moving"
+  },
+  {
+    "start": "00:01:56.310",
+    "end": "00:01:56.320",
+    "start_seconds": 116.31,
+    "end_seconds": 116.32,
+    "text": "risk from the price of the asset moving"
+  },
+  {
+    "start": "00:01:56.320",
+    "end": "00:01:58.310",
+    "start_seconds": 116.32,
+    "end_seconds": 118.31,
+    "text": "risk from the price of the asset moving from period to period. And there's cash"
+  },
+  {
+    "start": "00:01:58.310",
+    "end": "00:01:58.320",
+    "start_seconds": 118.31,
+    "end_seconds": 118.32,
+    "text": "from period to period. And there's cash"
+  },
+  {
+    "start": "00:01:58.320",
+    "end": "00:02:00.709",
+    "start_seconds": 118.32,
+    "end_seconds": 120.709,
+    "text": "from period to period. And there's cash flow risk, which is the cash flows"
+  },
+  {
+    "start": "00:02:00.709",
+    "end": "00:02:00.719",
+    "start_seconds": 120.709,
+    "end_seconds": 120.719,
+    "text": "flow risk, which is the cash flows"
+  },
+  {
+    "start": "00:02:00.719",
+    "end": "00:02:02.709",
+    "start_seconds": 120.719,
+    "end_seconds": 122.709,
+    "text": "flow risk, which is the cash flows you're expecting to get on that asset"
+  },
+  {
+    "start": "00:02:02.709",
+    "end": "00:02:02.719",
+    "start_seconds": 122.709,
+    "end_seconds": 122.719,
+    "text": "you're expecting to get on that asset"
+  },
+  {
+    "start": "00:02:02.719",
+    "end": "00:02:04.389",
+    "start_seconds": 122.719,
+    "end_seconds": 124.389,
+    "text": "you're expecting to get on that asset can change over time be different from"
+  },
+  {
+    "start": "00:02:04.389",
+    "end": "00:02:04.399",
+    "start_seconds": 124.389,
+    "end_seconds": 124.399,
+    "text": "can change over time be different from"
+  },
+  {
+    "start": "00:02:04.399",
+    "end": "00:02:06.709",
+    "start_seconds": 124.399,
+    "end_seconds": 126.709,
+    "text": "can change over time be different from what you expected. So there are two ways"
+  },
+  {
+    "start": "00:02:06.709",
+    "end": "00:02:06.719",
+    "start_seconds": 126.709,
+    "end_seconds": 126.719,
+    "text": "what you expected. So there are two ways"
+  },
+  {
+    "start": "00:02:06.719",
+    "end": "00:02:08.469",
+    "start_seconds": 126.719,
+    "end_seconds": 128.469,
+    "text": "what you expected. So there are two ways in which investors can think about the"
+  },
+  {
+    "start": "00:02:08.469",
+    "end": "00:02:08.479",
+    "start_seconds": 128.469,
+    "end_seconds": 128.47899999999998,
+    "text": "in which investors can think about the"
+  },
+  {
+    "start": "00:02:08.479",
+    "end": "00:02:10.949",
+    "start_seconds": 128.47899999999998,
+    "end_seconds": 130.949,
+    "text": "in which investors can think about the risk in investing. One is as the"
+  },
+  {
+    "start": "00:02:10.949",
+    "end": "00:02:10.959",
+    "start_seconds": 130.949,
+    "end_seconds": 130.959,
+    "text": "risk in investing. One is as the"
+  },
+  {
+    "start": "00:02:10.959",
+    "end": "00:02:13.190",
+    "start_seconds": 130.959,
+    "end_seconds": 133.19,
+    "text": "risk in investing. One is as the variability in its in the price. The"
+  },
+  {
+    "start": "00:02:13.190",
+    "end": "00:02:13.200",
+    "start_seconds": 133.19,
+    "end_seconds": 133.2,
+    "text": "variability in its in the price. The"
+  },
+  {
+    "start": "00:02:13.200",
+    "end": "00:02:14.949",
+    "start_seconds": 133.2,
+    "end_seconds": 134.949,
+    "text": "variability in its in the price. The more variable the price, the riskier the"
+  },
+  {
+    "start": "00:02:14.949",
+    "end": "00:02:14.959",
+    "start_seconds": 134.949,
+    "end_seconds": 134.959,
+    "text": "more variable the price, the riskier the"
+  },
+  {
+    "start": "00:02:14.959",
+    "end": "00:02:16.949",
+    "start_seconds": 134.959,
+    "end_seconds": 136.949,
+    "text": "more variable the price, the riskier the investment. But there are some intrinsic"
+  },
+  {
+    "start": "00:02:16.949",
+    "end": "00:02:16.959",
+    "start_seconds": 136.949,
+    "end_seconds": 136.959,
+    "text": "investment. But there are some intrinsic"
+  },
+  {
+    "start": "00:02:16.959",
+    "end": "00:02:19.190",
+    "start_seconds": 136.959,
+    "end_seconds": 139.19,
+    "text": "investment. But there are some intrinsic value. People argue that the prices set"
+  },
+  {
+    "start": "00:02:19.190",
+    "end": "00:02:19.200",
+    "start_seconds": 139.19,
+    "end_seconds": 139.2,
+    "text": "value. People argue that the prices set"
+  },
+  {
+    "start": "00:02:19.200",
+    "end": "00:02:21.750",
+    "start_seconds": 139.2,
+    "end_seconds": 141.75,
+    "text": "value. People argue that the prices set by the market which can make mistakes"
+  },
+  {
+    "start": "00:02:21.750",
+    "end": "00:02:21.760",
+    "start_seconds": 141.75,
+    "end_seconds": 141.76,
+    "text": "by the market which can make mistakes"
+  },
+  {
+    "start": "00:02:21.760",
+    "end": "00:02:23.270",
+    "start_seconds": 141.76,
+    "end_seconds": 143.27,
+    "text": "by the market which can make mistakes that you should be really looking at the"
+  },
+  {
+    "start": "00:02:23.270",
+    "end": "00:02:23.280",
+    "start_seconds": 143.27,
+    "end_seconds": 143.28,
+    "text": "that you should be really looking at the"
+  },
+  {
+    "start": "00:02:23.280",
+    "end": "00:02:25.910",
+    "start_seconds": 143.28,
+    "end_seconds": 145.91,
+    "text": "that you should be really looking at the variance in the cash flows you get. So"
+  },
+  {
+    "start": "00:02:25.910",
+    "end": "00:02:25.920",
+    "start_seconds": 145.91,
+    "end_seconds": 145.92000000000002,
+    "text": "variance in the cash flows you get. So"
+  },
+  {
+    "start": "00:02:25.920",
+    "end": "00:02:28.390",
+    "start_seconds": 145.92000000000002,
+    "end_seconds": 148.39,
+    "text": "variance in the cash flows you get. So if you're investing in stocks that the"
+  },
+  {
+    "start": "00:02:28.390",
+    "end": "00:02:28.400",
+    "start_seconds": 148.39,
+    "end_seconds": 148.4,
+    "text": "if you're investing in stocks that the"
+  },
+  {
+    "start": "00:02:28.400",
+    "end": "00:02:30.070",
+    "start_seconds": 148.4,
+    "end_seconds": 150.07,
+    "text": "if you're investing in stocks that the variance in earnings and dividends"
+  },
+  {
+    "start": "00:02:30.070",
+    "end": "00:02:30.080",
+    "start_seconds": 150.07,
+    "end_seconds": 150.07999999999998,
+    "text": "variance in earnings and dividends"
+  },
+  {
+    "start": "00:02:30.080",
+    "end": "00:02:31.910",
+    "start_seconds": 150.07999999999998,
+    "end_seconds": 151.91,
+    "text": "variance in earnings and dividends should be what drives you thinking about"
+  },
+  {
+    "start": "00:02:31.910",
+    "end": "00:02:31.920",
+    "start_seconds": 151.91,
+    "end_seconds": 151.92000000000002,
+    "text": "should be what drives you thinking about"
+  },
+  {
+    "start": "00:02:31.920",
+    "end": "00:02:35.270",
+    "start_seconds": 151.92000000000002,
+    "end_seconds": 155.27,
+    "text": "should be what drives you thinking about risk, price risk versus cash flow risk."
+  },
+  {
+    "start": "00:02:35.270",
+    "end": "00:02:35.280",
+    "start_seconds": 155.27,
+    "end_seconds": 155.28,
+    "text": "risk, price risk versus cash flow risk."
+  },
+  {
+    "start": "00:02:35.280",
+    "end": "00:02:37.830",
+    "start_seconds": 155.28,
+    "end_seconds": 157.82999999999998,
+    "text": "risk, price risk versus cash flow risk. You also have total risk versus downside"
+  },
+  {
+    "start": "00:02:37.830",
+    "end": "00:02:37.840",
+    "start_seconds": 157.82999999999998,
+    "end_seconds": 157.84,
+    "text": "You also have total risk versus downside"
+  },
+  {
+    "start": "00:02:37.840",
+    "end": "00:02:40.470",
+    "start_seconds": 157.84,
+    "end_seconds": 160.47,
+    "text": "You also have total risk versus downside risk. We'll draw this contrast more"
+  },
+  {
+    "start": "00:02:40.470",
+    "end": "00:02:40.480",
+    "start_seconds": 160.47,
+    "end_seconds": 160.48,
+    "text": "risk. We'll draw this contrast more"
+  },
+  {
+    "start": "00:02:40.480",
+    "end": "00:02:42.150",
+    "start_seconds": 160.48,
+    "end_seconds": 162.15,
+    "text": "risk. We'll draw this contrast more deeply when we look at the statistical"
+  },
+  {
+    "start": "00:02:42.150",
+    "end": "00:02:42.160",
+    "start_seconds": 162.15,
+    "end_seconds": 162.16,
+    "text": "deeply when we look at the statistical"
+  },
+  {
+    "start": "00:02:42.160",
+    "end": "00:02:44.390",
+    "start_seconds": 162.16,
+    "end_seconds": 164.39,
+    "text": "deeply when we look at the statistical measure of risk. But total risk looks at"
+  },
+  {
+    "start": "00:02:44.390",
+    "end": "00:02:44.400",
+    "start_seconds": 164.39,
+    "end_seconds": 164.4,
+    "text": "measure of risk. But total risk looks at"
+  },
+  {
+    "start": "00:02:44.400",
+    "end": "00:02:46.630",
+    "start_seconds": 164.4,
+    "end_seconds": 166.63,
+    "text": "measure of risk. But total risk looks at both the risk that you get outcomes that"
+  },
+  {
+    "start": "00:02:46.630",
+    "end": "00:02:46.640",
+    "start_seconds": 166.63,
+    "end_seconds": 166.64,
+    "text": "both the risk that you get outcomes that"
+  },
+  {
+    "start": "00:02:46.640",
+    "end": "00:02:48.630",
+    "start_seconds": 166.64,
+    "end_seconds": 168.63,
+    "text": "both the risk that you get outcomes that are worse than expected, which is what"
+  },
+  {
+    "start": "00:02:48.630",
+    "end": "00:02:48.640",
+    "start_seconds": 168.63,
+    "end_seconds": 168.64,
+    "text": "are worse than expected, which is what"
+  },
+  {
+    "start": "00:02:48.640",
+    "end": "00:02:50.550",
+    "start_seconds": 168.64,
+    "end_seconds": 170.55,
+    "text": "are worse than expected, which is what we generally think of when we think"
+  },
+  {
+    "start": "00:02:50.550",
+    "end": "00:02:50.560",
+    "start_seconds": 170.55,
+    "end_seconds": 170.56,
+    "text": "we generally think of when we think"
+  },
+  {
+    "start": "00:02:50.560",
+    "end": "00:02:52.470",
+    "start_seconds": 170.56,
+    "end_seconds": 172.47,
+    "text": "we generally think of when we think about risk, but also better than"
+  },
+  {
+    "start": "00:02:52.470",
+    "end": "00:02:52.480",
+    "start_seconds": 172.47,
+    "end_seconds": 172.48,
+    "text": "about risk, but also better than"
+  },
+  {
+    "start": "00:02:52.480",
+    "end": "00:02:54.869",
+    "start_seconds": 172.48,
+    "end_seconds": 174.869,
+    "text": "about risk, but also better than expected. Total risk looks at both"
+  },
+  {
+    "start": "00:02:54.869",
+    "end": "00:02:54.879",
+    "start_seconds": 174.869,
+    "end_seconds": 174.879,
+    "text": "expected. Total risk looks at both"
+  },
+  {
+    "start": "00:02:54.879",
+    "end": "00:02:57.110",
+    "start_seconds": 174.879,
+    "end_seconds": 177.11,
+    "text": "expected. Total risk looks at both upside and downside. Downside risk, you"
+  },
+  {
+    "start": "00:02:57.110",
+    "end": "00:02:57.120",
+    "start_seconds": 177.11,
+    "end_seconds": 177.12,
+    "text": "upside and downside. Downside risk, you"
+  },
+  {
+    "start": "00:02:57.120",
+    "end": "00:02:59.110",
+    "start_seconds": 177.12,
+    "end_seconds": 179.11,
+    "text": "upside and downside. Downside risk, you focus only on that dimension of risk"
+  },
+  {
+    "start": "00:02:59.110",
+    "end": "00:02:59.120",
+    "start_seconds": 179.11,
+    "end_seconds": 179.12,
+    "text": "focus only on that dimension of risk"
+  },
+  {
+    "start": "00:02:59.120",
+    "end": "00:03:01.350",
+    "start_seconds": 179.12,
+    "end_seconds": 181.35,
+    "text": "focus only on that dimension of risk where you think you're going to be hurt."
+  },
+  {
+    "start": "00:03:01.350",
+    "end": "00:03:01.360",
+    "start_seconds": 181.35,
+    "end_seconds": 181.36,
+    "text": "where you think you're going to be hurt."
+  },
+  {
+    "start": "00:03:01.360",
+    "end": "00:03:03.110",
+    "start_seconds": 181.36,
+    "end_seconds": 183.11,
+    "text": "where you think you're going to be hurt. And there's a third dimension which I"
+  },
+  {
+    "start": "00:03:03.110",
+    "end": "00:03:03.120",
+    "start_seconds": 183.11,
+    "end_seconds": 183.12,
+    "text": "And there's a third dimension which I"
+  },
+  {
+    "start": "00:03:03.120",
+    "end": "00:03:04.470",
+    "start_seconds": 183.12,
+    "end_seconds": 184.47,
+    "text": "And there's a third dimension which I think is a pretty critical one in"
+  },
+  {
+    "start": "00:03:04.470",
+    "end": "00:03:04.480",
+    "start_seconds": 184.47,
+    "end_seconds": 184.48,
+    "text": "think is a pretty critical one in"
+  },
+  {
+    "start": "00:03:04.480",
+    "end": "00:03:06.790",
+    "start_seconds": 184.48,
+    "end_seconds": 186.79,
+    "text": "think is a pretty critical one in investing. When you look at investment,"
+  },
+  {
+    "start": "00:03:06.790",
+    "end": "00:03:06.800",
+    "start_seconds": 186.79,
+    "end_seconds": 186.8,
+    "text": "investing. When you look at investment,"
+  },
+  {
+    "start": "00:03:06.800",
+    "end": "00:03:09.030",
+    "start_seconds": 186.8,
+    "end_seconds": 189.03,
+    "text": "investing. When you look at investment, you can look at the risk on a standalone"
+  },
+  {
+    "start": "00:03:09.030",
+    "end": "00:03:09.040",
+    "start_seconds": 189.03,
+    "end_seconds": 189.04,
+    "text": "you can look at the risk on a standalone"
+  },
+  {
+    "start": "00:03:09.040",
+    "end": "00:03:11.430",
+    "start_seconds": 189.04,
+    "end_seconds": 191.43,
+    "text": "you can look at the risk on a standalone basis. You can look at Apple or Nvidia"
+  },
+  {
+    "start": "00:03:11.430",
+    "end": "00:03:11.440",
+    "start_seconds": 191.43,
+    "end_seconds": 191.44,
+    "text": "basis. You can look at Apple or Nvidia"
+  },
+  {
+    "start": "00:03:11.440",
+    "end": "00:03:14.149",
+    "start_seconds": 191.44,
+    "end_seconds": 194.149,
+    "text": "basis. You can look at Apple or Nvidia and say this is the risk of investing in"
+  },
+  {
+    "start": "00:03:14.149",
+    "end": "00:03:14.159",
+    "start_seconds": 194.149,
+    "end_seconds": 194.159,
+    "text": "and say this is the risk of investing in"
+  },
+  {
+    "start": "00:03:14.159",
+    "end": "00:03:17.030",
+    "start_seconds": 194.159,
+    "end_seconds": 197.03,
+    "text": "and say this is the risk of investing in this stock or you can look at the risk"
+  },
+  {
+    "start": "00:03:17.030",
+    "end": "00:03:17.040",
+    "start_seconds": 197.03,
+    "end_seconds": 197.04,
+    "text": "this stock or you can look at the risk"
+  },
+  {
+    "start": "00:03:17.040",
+    "end": "00:03:19.670",
+    "start_seconds": 197.04,
+    "end_seconds": 199.67000000000002,
+    "text": "this stock or you can look at the risk that that stock adds to a portfolio. You"
+  },
+  {
+    "start": "00:03:19.670",
+    "end": "00:03:19.680",
+    "start_seconds": 199.67000000000002,
+    "end_seconds": 199.68,
+    "text": "that that stock adds to a portfolio. You"
+  },
+  {
+    "start": "00:03:19.680",
+    "end": "00:03:21.430",
+    "start_seconds": 199.68,
+    "end_seconds": 201.43,
+    "text": "that that stock adds to a portfolio. You might wonder what's the difference. The"
+  },
+  {
+    "start": "00:03:21.430",
+    "end": "00:03:21.440",
+    "start_seconds": 201.43,
+    "end_seconds": 201.44,
+    "text": "might wonder what's the difference. The"
+  },
+  {
+    "start": "00:03:21.440",
+    "end": "00:03:23.030",
+    "start_seconds": 201.44,
+    "end_seconds": 203.03,
+    "text": "might wonder what's the difference. The difference can be very large and we'll"
+  },
+  {
+    "start": "00:03:23.030",
+    "end": "00:03:23.040",
+    "start_seconds": 203.03,
+    "end_seconds": 203.04,
+    "text": "difference can be very large and we'll"
+  },
+  {
+    "start": "00:03:23.040",
+    "end": "00:03:25.990",
+    "start_seconds": 203.04,
+    "end_seconds": 205.99,
+    "text": "difference can be very large and we'll talk about why that's become the central"
+  },
+  {
+    "start": "00:03:25.990",
+    "end": "00:03:26.000",
+    "start_seconds": 205.99,
+    "end_seconds": 206.0,
+    "text": "talk about why that's become the central"
+  },
+  {
+    "start": "00:03:26.000",
+    "end": "00:03:28.470",
+    "start_seconds": 206.0,
+    "end_seconds": 208.47,
+    "text": "talk about why that's become the central theme in portfolio theory. The way we"
+  },
+  {
+    "start": "00:03:28.470",
+    "end": "00:03:28.480",
+    "start_seconds": 208.47,
+    "end_seconds": 208.48,
+    "text": "theme in portfolio theory. The way we"
+  },
+  {
+    "start": "00:03:28.480",
+    "end": "00:03:30.630",
+    "start_seconds": 208.48,
+    "end_seconds": 210.63,
+    "text": "theme in portfolio theory. The way we think about risk being the risk added to"
+  },
+  {
+    "start": "00:03:30.630",
+    "end": "00:03:30.640",
+    "start_seconds": 210.63,
+    "end_seconds": 210.64,
+    "text": "think about risk being the risk added to"
+  },
+  {
+    "start": "00:03:30.640",
+    "end": "00:03:32.470",
+    "start_seconds": 210.64,
+    "end_seconds": 212.47,
+    "text": "think about risk being the risk added to a portfolio."
+  },
+  {
+    "start": "00:03:32.470",
+    "end": "00:03:32.480",
+    "start_seconds": 212.47,
+    "end_seconds": 212.48,
+    "text": "a portfolio."
+  },
+  {
+    "start": "00:03:32.480",
+    "end": "00:03:35.110",
+    "start_seconds": 212.48,
+    "end_seconds": 215.11,
+    "text": "a portfolio. So let's get the process started with a"
+  },
+  {
+    "start": "00:03:35.110",
+    "end": "00:03:35.120",
+    "start_seconds": 215.11,
+    "end_seconds": 215.12,
+    "text": "So let's get the process started with a"
+  },
+  {
+    "start": "00:03:35.120",
+    "end": "00:03:37.589",
+    "start_seconds": 215.12,
+    "end_seconds": 217.589,
+    "text": "So let's get the process started with a couple of basic propositions."
+  },
+  {
+    "start": "00:03:37.589",
+    "end": "00:03:37.599",
+    "start_seconds": 217.589,
+    "end_seconds": 217.599,
+    "text": "couple of basic propositions."
+  },
+  {
+    "start": "00:03:37.599",
+    "end": "00:03:39.830",
+    "start_seconds": 217.599,
+    "end_seconds": 219.82999999999998,
+    "text": "couple of basic propositions. The first proposition is if you're"
+  },
+  {
+    "start": "00:03:39.830",
+    "end": "00:03:39.840",
+    "start_seconds": 219.82999999999998,
+    "end_seconds": 219.84,
+    "text": "The first proposition is if you're"
+  },
+  {
+    "start": "00:03:39.840",
+    "end": "00:03:42.229",
+    "start_seconds": 219.84,
+    "end_seconds": 222.22899999999998,
+    "text": "The first proposition is if you're unwilling to take any risk, expose"
+  },
+  {
+    "start": "00:03:42.229",
+    "end": "00:03:42.239",
+    "start_seconds": 222.22899999999998,
+    "end_seconds": 222.239,
+    "text": "unwilling to take any risk, expose"
+  },
+  {
+    "start": "00:03:42.239",
+    "end": "00:03:43.990",
+    "start_seconds": 222.239,
+    "end_seconds": 223.99,
+    "text": "unwilling to take any risk, expose yourself to any risk, you shouldn't"
+  },
+  {
+    "start": "00:03:43.990",
+    "end": "00:03:44.000",
+    "start_seconds": 223.99,
+    "end_seconds": 224.0,
+    "text": "yourself to any risk, you shouldn't"
+  },
+  {
+    "start": "00:03:44.000",
+    "end": "00:03:46.229",
+    "start_seconds": 224.0,
+    "end_seconds": 226.22899999999998,
+    "text": "yourself to any risk, you shouldn't expect to get a return higher than the"
+  },
+  {
+    "start": "00:03:46.229",
+    "end": "00:03:46.239",
+    "start_seconds": 226.22899999999998,
+    "end_seconds": 226.239,
+    "text": "expect to get a return higher than the"
+  },
+  {
+    "start": "00:03:46.239",
+    "end": "00:03:47.589",
+    "start_seconds": 226.239,
+    "end_seconds": 227.589,
+    "text": "expect to get a return higher than the risk-free rate. You should be able to"
+  },
+  {
+    "start": "00:03:47.589",
+    "end": "00:03:47.599",
+    "start_seconds": 227.589,
+    "end_seconds": 227.599,
+    "text": "risk-free rate. You should be able to"
+  },
+  {
+    "start": "00:03:47.599",
+    "end": "00:03:49.350",
+    "start_seconds": 227.599,
+    "end_seconds": 229.35,
+    "text": "risk-free rate. You should be able to earn what you can earn on a risk-free"
+  },
+  {
+    "start": "00:03:49.350",
+    "end": "00:03:49.360",
+    "start_seconds": 229.35,
+    "end_seconds": 229.36,
+    "text": "earn what you can earn on a risk-free"
+  },
+  {
+    "start": "00:03:49.360",
+    "end": "00:03:51.910",
+    "start_seconds": 229.36,
+    "end_seconds": 231.91,
+    "text": "earn what you can earn on a risk-free investment. But I'll give you an escape"
+  },
+  {
+    "start": "00:03:51.910",
+    "end": "00:03:51.920",
+    "start_seconds": 231.91,
+    "end_seconds": 231.92000000000002,
+    "text": "investment. But I'll give you an escape"
+  },
+  {
+    "start": "00:03:51.920",
+    "end": "00:03:53.350",
+    "start_seconds": 231.92000000000002,
+    "end_seconds": 233.35,
+    "text": "investment. But I'll give you an escape clause. It's called the arbitrage"
+  },
+  {
+    "start": "00:03:53.350",
+    "end": "00:03:53.360",
+    "start_seconds": 233.35,
+    "end_seconds": 233.36,
+    "text": "clause. It's called the arbitrage"
+  },
+  {
+    "start": "00:03:53.360",
+    "end": "00:03:56.390",
+    "start_seconds": 233.36,
+    "end_seconds": 236.39,
+    "text": "clause. It's called the arbitrage clause. If you can find a riskless"
+  },
+  {
+    "start": "00:03:56.390",
+    "end": "00:03:56.400",
+    "start_seconds": 236.39,
+    "end_seconds": 236.4,
+    "text": "clause. If you can find a riskless"
+  },
+  {
+    "start": "00:03:56.400",
+    "end": "00:03:59.030",
+    "start_seconds": 236.4,
+    "end_seconds": 239.03,
+    "text": "clause. If you can find a riskless investment that earns more than a"
+  },
+  {
+    "start": "00:03:59.030",
+    "end": "00:03:59.040",
+    "start_seconds": 239.03,
+    "end_seconds": 239.04,
+    "text": "investment that earns more than a"
+  },
+  {
+    "start": "00:03:59.040",
+    "end": "00:04:01.110",
+    "start_seconds": 239.04,
+    "end_seconds": 241.11,
+    "text": "investment that earns more than a risk-free rate,"
+  },
+  {
+    "start": "00:04:01.110",
+    "end": "00:04:01.120",
+    "start_seconds": 241.11,
+    "end_seconds": 241.12,
+    "text": "risk-free rate,"
+  },
+  {
+    "start": "00:04:01.120",
+    "end": "00:04:04.229",
+    "start_seconds": 241.12,
+    "end_seconds": 244.229,
+    "text": "risk-free rate, you found a profit machine. You think"
+  },
+  {
+    "start": "00:04:04.229",
+    "end": "00:04:04.239",
+    "start_seconds": 244.229,
+    "end_seconds": 244.239,
+    "text": "you found a profit machine. You think"
+  },
+  {
+    "start": "00:04:04.239",
+    "end": "00:04:06.149",
+    "start_seconds": 244.239,
+    "end_seconds": 246.149,
+    "text": "you found a profit machine. You think what is the chance I have of finding"
+  },
+  {
+    "start": "00:04:06.149",
+    "end": "00:04:06.159",
+    "start_seconds": 246.149,
+    "end_seconds": 246.159,
+    "text": "what is the chance I have of finding"
+  },
+  {
+    "start": "00:04:06.159",
+    "end": "00:04:07.910",
+    "start_seconds": 246.159,
+    "end_seconds": 247.91,
+    "text": "what is the chance I have of finding something like that? Later in this"
+  },
+  {
+    "start": "00:04:07.910",
+    "end": "00:04:07.920",
+    "start_seconds": 247.91,
+    "end_seconds": 247.92,
+    "text": "something like that? Later in this"
+  },
+  {
+    "start": "00:04:07.920",
+    "end": "00:04:09.110",
+    "start_seconds": 247.92,
+    "end_seconds": 249.11,
+    "text": "something like that? Later in this class, we're going to talk about"
+  },
+  {
+    "start": "00:04:09.110",
+    "end": "00:04:09.120",
+    "start_seconds": 249.11,
+    "end_seconds": 249.12,
+    "text": "class, we're going to talk about"
+  },
+  {
+    "start": "00:04:09.120",
+    "end": "00:04:11.030",
+    "start_seconds": 249.12,
+    "end_seconds": 251.03,
+    "text": "class, we're going to talk about arbitrage investment philosophy where"
+  },
+  {
+    "start": "00:04:11.030",
+    "end": "00:04:11.040",
+    "start_seconds": 251.03,
+    "end_seconds": 251.04,
+    "text": "arbitrage investment philosophy where"
+  },
+  {
+    "start": "00:04:11.040",
+    "end": "00:04:13.589",
+    "start_seconds": 251.04,
+    "end_seconds": 253.589,
+    "text": "arbitrage investment philosophy where people try to do exactly that. Find a"
+  },
+  {
+    "start": "00:04:13.589",
+    "end": "00:04:13.599",
+    "start_seconds": 253.589,
+    "end_seconds": 253.599,
+    "text": "people try to do exactly that. Find a"
+  },
+  {
+    "start": "00:04:13.599",
+    "end": "00:04:15.910",
+    "start_seconds": 253.599,
+    "end_seconds": 255.91,
+    "text": "people try to do exactly that. Find a way to lock in a riskless investment and"
+  },
+  {
+    "start": "00:04:15.910",
+    "end": "00:04:15.920",
+    "start_seconds": 255.91,
+    "end_seconds": 255.92,
+    "text": "way to lock in a riskless investment and"
+  },
+  {
+    "start": "00:04:15.920",
+    "end": "00:04:18.229",
+    "start_seconds": 255.92,
+    "end_seconds": 258.229,
+    "text": "way to lock in a riskless investment and earn more than the riskless rate. The"
+  },
+  {
+    "start": "00:04:18.229",
+    "end": "00:04:18.239",
+    "start_seconds": 258.229,
+    "end_seconds": 258.239,
+    "text": "earn more than the riskless rate. The"
+  },
+  {
+    "start": "00:04:18.239",
+    "end": "00:04:20.949",
+    "start_seconds": 258.239,
+    "end_seconds": 260.949,
+    "text": "earn more than the riskless rate. The second proposition, in a market that is"
+  },
+  {
+    "start": "00:04:20.949",
+    "end": "00:04:20.959",
+    "start_seconds": 260.949,
+    "end_seconds": 260.959,
+    "text": "second proposition, in a market that is"
+  },
+  {
+    "start": "00:04:20.959",
+    "end": "00:04:23.110",
+    "start_seconds": 260.959,
+    "end_seconds": 263.11,
+    "text": "second proposition, in a market that is efficient, but things are priced the way"
+  },
+  {
+    "start": "00:04:23.110",
+    "end": "00:04:23.120",
+    "start_seconds": 263.11,
+    "end_seconds": 263.12,
+    "text": "efficient, but things are priced the way"
+  },
+  {
+    "start": "00:04:23.120",
+    "end": "00:04:25.909",
+    "start_seconds": 263.12,
+    "end_seconds": 265.909,
+    "text": "efficient, but things are priced the way they should be, your expected return"
+  },
+  {
+    "start": "00:04:25.909",
+    "end": "00:04:25.919",
+    "start_seconds": 265.909,
+    "end_seconds": 265.919,
+    "text": "they should be, your expected return"
+  },
+  {
+    "start": "00:04:25.919",
+    "end": "00:04:27.590",
+    "start_seconds": 265.919,
+    "end_seconds": 267.59,
+    "text": "they should be, your expected return will go up only if you're willing to"
+  },
+  {
+    "start": "00:04:27.590",
+    "end": "00:04:27.600",
+    "start_seconds": 267.59,
+    "end_seconds": 267.6,
+    "text": "will go up only if you're willing to"
+  },
+  {
+    "start": "00:04:27.600",
+    "end": "00:04:30.469",
+    "start_seconds": 267.6,
+    "end_seconds": 270.469,
+    "text": "will go up only if you're willing to take on more risk. In other words, your"
+  },
+  {
+    "start": "00:04:30.469",
+    "end": "00:04:30.479",
+    "start_seconds": 270.469,
+    "end_seconds": 270.479,
+    "text": "take on more risk. In other words, your"
+  },
+  {
+    "start": "00:04:30.479",
+    "end": "00:04:33.270",
+    "start_seconds": 270.479,
+    "end_seconds": 273.27,
+    "text": "take on more risk. In other words, your expected return and risk exposure are"
+  },
+  {
+    "start": "00:04:33.270",
+    "end": "00:04:33.280",
+    "start_seconds": 273.27,
+    "end_seconds": 273.28,
+    "text": "expected return and risk exposure are"
+  },
+  {
+    "start": "00:04:33.280",
+    "end": "00:04:35.350",
+    "start_seconds": 273.28,
+    "end_seconds": 275.35,
+    "text": "expected return and risk exposure are locked at the head. Here again, I'll"
+  },
+  {
+    "start": "00:04:35.350",
+    "end": "00:04:35.360",
+    "start_seconds": 275.35,
+    "end_seconds": 275.36,
+    "text": "locked at the head. Here again, I'll"
+  },
+  {
+    "start": "00:04:35.360",
+    "end": "00:04:37.830",
+    "start_seconds": 275.36,
+    "end_seconds": 277.83,
+    "text": "locked at the head. Here again, I'll give you an escape hatch. The hope of"
+  },
+  {
+    "start": "00:04:37.830",
+    "end": "00:04:37.840",
+    "start_seconds": 277.83,
+    "end_seconds": 277.84000000000003,
+    "text": "give you an escape hatch. The hope of"
+  },
+  {
+    "start": "00:04:37.840",
+    "end": "00:04:39.830",
+    "start_seconds": 277.84000000000003,
+    "end_seconds": 279.83,
+    "text": "give you an escape hatch. The hope of those who hope to beat the market, and"
+  },
+  {
+    "start": "00:04:39.830",
+    "end": "00:04:39.840",
+    "start_seconds": 279.83,
+    "end_seconds": 279.84000000000003,
+    "text": "those who hope to beat the market, and"
+  },
+  {
+    "start": "00:04:39.840",
+    "end": "00:04:41.430",
+    "start_seconds": 279.84000000000003,
+    "end_seconds": 281.43,
+    "text": "those who hope to beat the market, and we'll talk about how this plays out in"
+  },
+  {
+    "start": "00:04:41.430",
+    "end": "00:04:41.440",
+    "start_seconds": 281.43,
+    "end_seconds": 281.44,
+    "text": "we'll talk about how this plays out in"
+  },
+  {
+    "start": "00:04:41.440",
+    "end": "00:04:44.230",
+    "start_seconds": 281.44,
+    "end_seconds": 284.23,
+    "text": "we'll talk about how this plays out in market efficiency and inefficiency,"
+  },
+  {
+    "start": "00:04:44.230",
+    "end": "00:04:44.240",
+    "start_seconds": 284.23,
+    "end_seconds": 284.24,
+    "text": "market efficiency and inefficiency,"
+  },
+  {
+    "start": "00:04:44.240",
+    "end": "00:04:49.030",
+    "start_seconds": 284.24,
+    "end_seconds": 289.03,
+    "text": "market efficiency and inefficiency, is that you can find a way to invest and"
+  },
+  {
+    "start": "00:04:49.030",
+    "end": "00:04:49.040",
+    "start_seconds": 289.03,
+    "end_seconds": 289.04,
+    "text": "is that you can find a way to invest and"
+  },
+  {
+    "start": "00:04:49.040",
+    "end": "00:04:51.030",
+    "start_seconds": 289.04,
+    "end_seconds": 291.03,
+    "text": "is that you can find a way to invest and earn a higher return than you should"
+  },
+  {
+    "start": "00:04:51.030",
+    "end": "00:04:51.040",
+    "start_seconds": 291.03,
+    "end_seconds": 291.04,
+    "text": "earn a higher return than you should"
+  },
+  {
+    "start": "00:04:51.040",
+    "end": "00:04:52.629",
+    "start_seconds": 291.04,
+    "end_seconds": 292.629,
+    "text": "earn a higher return than you should given the risk you're exposed to. That's"
+  },
+  {
+    "start": "00:04:52.629",
+    "end": "00:04:52.639",
+    "start_seconds": 292.629,
+    "end_seconds": 292.639,
+    "text": "given the risk you're exposed to. That's"
+  },
+  {
+    "start": "00:04:52.639",
+    "end": "00:04:55.670",
+    "start_seconds": 292.639,
+    "end_seconds": 295.67,
+    "text": "given the risk you're exposed to. That's an excess return. So, that's a risk and"
+  },
+  {
+    "start": "00:04:55.670",
+    "end": "00:04:55.680",
+    "start_seconds": 295.67,
+    "end_seconds": 295.68,
+    "text": "an excess return. So, that's a risk and"
+  },
+  {
+    "start": "00:04:55.680",
+    "end": "00:04:57.350",
+    "start_seconds": 295.68,
+    "end_seconds": 297.35,
+    "text": "an excess return. So, that's a risk and return standing point. Let's talk a"
+  },
+  {
+    "start": "00:04:57.350",
+    "end": "00:04:57.360",
+    "start_seconds": 297.35,
+    "end_seconds": 297.36,
+    "text": "return standing point. Let's talk a"
+  },
+  {
+    "start": "00:04:57.360",
+    "end": "00:04:59.270",
+    "start_seconds": 297.36,
+    "end_seconds": 299.27,
+    "text": "return standing point. Let's talk a little bit about price risk before we"
+  },
+  {
+    "start": "00:04:59.270",
+    "end": "00:04:59.280",
+    "start_seconds": 299.27,
+    "end_seconds": 299.28,
+    "text": "little bit about price risk before we"
+  },
+  {
+    "start": "00:04:59.280",
+    "end": "00:05:01.990",
+    "start_seconds": 299.28,
+    "end_seconds": 301.99,
+    "text": "little bit about price risk before we look at the different variations"
+  },
+  {
+    "start": "00:05:01.990",
+    "end": "00:05:02.000",
+    "start_seconds": 301.99,
+    "end_seconds": 302.0,
+    "text": "look at the different variations"
+  },
+  {
+    "start": "00:05:02.000",
+    "end": "00:05:05.590",
+    "start_seconds": 302.0,
+    "end_seconds": 305.59,
+    "text": "look at the different variations on measuring risk. Price risk is the RI"
+  },
+  {
+    "start": "00:05:05.590",
+    "end": "00:05:05.600",
+    "start_seconds": 305.59,
+    "end_seconds": 305.6,
+    "text": "on measuring risk. Price risk is the RI"
+  },
+  {
+    "start": "00:05:05.600",
+    "end": "00:05:07.350",
+    "start_seconds": 305.6,
+    "end_seconds": 307.35,
+    "text": "on measuring risk. Price risk is the RI is the risk that comes from the price of"
+  },
+  {
+    "start": "00:05:07.350",
+    "end": "00:05:07.360",
+    "start_seconds": 307.35,
+    "end_seconds": 307.36,
+    "text": "is the risk that comes from the price of"
+  },
+  {
+    "start": "00:05:07.360",
+    "end": "00:05:10.629",
+    "start_seconds": 307.36,
+    "end_seconds": 310.629,
+    "text": "is the risk that comes from the price of your asset moving from period to period."
+  },
+  {
+    "start": "00:05:10.629",
+    "end": "00:05:10.639",
+    "start_seconds": 310.629,
+    "end_seconds": 310.639,
+    "text": "your asset moving from period to period."
+  },
+  {
+    "start": "00:05:10.639",
+    "end": "00:05:13.029",
+    "start_seconds": 310.639,
+    "end_seconds": 313.029,
+    "text": "your asset moving from period to period. And when you look at that number, it's"
+  },
+  {
+    "start": "00:05:13.029",
+    "end": "00:05:13.039",
+    "start_seconds": 313.029,
+    "end_seconds": 313.039,
+    "text": "And when you look at that number, it's"
+  },
+  {
+    "start": "00:05:13.039",
+    "end": "00:05:13.990",
+    "start_seconds": 313.039,
+    "end_seconds": 313.99,
+    "text": "And when you look at that number, it's you know you can compute it"
+  },
+  {
+    "start": "00:05:13.990",
+    "end": "00:05:14.000",
+    "start_seconds": 313.99,
+    "end_seconds": 314.0,
+    "text": "you know you can compute it"
+  },
+  {
+    "start": "00:05:14.000",
+    "end": "00:05:16.070",
+    "start_seconds": 314.0,
+    "end_seconds": 316.07,
+    "text": "you know you can compute it statistically as a standard deviation."
+  },
+  {
+    "start": "00:05:16.070",
+    "end": "00:05:16.080",
+    "start_seconds": 316.07,
+    "end_seconds": 316.08,
+    "text": "statistically as a standard deviation."
+  },
+  {
+    "start": "00:05:16.080",
+    "end": "00:05:18.150",
+    "start_seconds": 316.08,
+    "end_seconds": 318.15,
+    "text": "statistically as a standard deviation. So if I gave you the stock prices for a"
+  },
+  {
+    "start": "00:05:18.150",
+    "end": "00:05:18.160",
+    "start_seconds": 318.15,
+    "end_seconds": 318.16,
+    "text": "So if I gave you the stock prices for a"
+  },
+  {
+    "start": "00:05:18.160",
+    "end": "00:05:20.629",
+    "start_seconds": 318.16,
+    "end_seconds": 320.629,
+    "text": "So if I gave you the stock prices for a stock over the last 120 months, you can"
+  },
+  {
+    "start": "00:05:20.629",
+    "end": "00:05:20.639",
+    "start_seconds": 320.629,
+    "end_seconds": 320.639,
+    "text": "stock over the last 120 months, you can"
+  },
+  {
+    "start": "00:05:20.639",
+    "end": "00:05:22.150",
+    "start_seconds": 320.639,
+    "end_seconds": 322.15,
+    "text": "stock over the last 120 months, you can compute the standard deviation in"
+  },
+  {
+    "start": "00:05:22.150",
+    "end": "00:05:22.160",
+    "start_seconds": 322.15,
+    "end_seconds": 322.16,
+    "text": "compute the standard deviation in"
+  },
+  {
+    "start": "00:05:22.160",
+    "end": "00:05:25.029",
+    "start_seconds": 322.16,
+    "end_seconds": 325.029,
+    "text": "compute the standard deviation in prices. There's a catch though. If your"
+  },
+  {
+    "start": "00:05:25.029",
+    "end": "00:05:25.039",
+    "start_seconds": 325.029,
+    "end_seconds": 325.039,
+    "text": "prices. There's a catch though. If your"
+  },
+  {
+    "start": "00:05:25.039",
+    "end": "00:05:27.270",
+    "start_seconds": 325.039,
+    "end_seconds": 327.27,
+    "text": "prices. There's a catch though. If your stock is highly priced, you know what I"
+  },
+  {
+    "start": "00:05:27.270",
+    "end": "00:05:27.280",
+    "start_seconds": 327.27,
+    "end_seconds": 327.28,
+    "text": "stock is highly priced, you know what I"
+  },
+  {
+    "start": "00:05:27.280",
+    "end": "00:05:29.670",
+    "start_seconds": 327.28,
+    "end_seconds": 329.67,
+    "text": "stock is highly priced, you know what I mean by highly priced, a $500 stock per"
+  },
+  {
+    "start": "00:05:29.670",
+    "end": "00:05:29.680",
+    "start_seconds": 329.67,
+    "end_seconds": 329.68,
+    "text": "mean by highly priced, a $500 stock per"
+  },
+  {
+    "start": "00:05:29.680",
+    "end": "00:05:32.870",
+    "start_seconds": 329.68,
+    "end_seconds": 332.87,
+    "text": "mean by highly priced, a $500 stock per share or $1,000 per share, its standard"
+  },
+  {
+    "start": "00:05:32.870",
+    "end": "00:05:32.880",
+    "start_seconds": 332.87,
+    "end_seconds": 332.88,
+    "text": "share or $1,000 per share, its standard"
+  },
+  {
+    "start": "00:05:32.880",
+    "end": "00:05:35.189",
+    "start_seconds": 332.88,
+    "end_seconds": 335.189,
+    "text": "share or $1,000 per share, its standard deviation in dollar terms is going to be"
+  },
+  {
+    "start": "00:05:35.189",
+    "end": "00:05:35.199",
+    "start_seconds": 335.189,
+    "end_seconds": 335.199,
+    "text": "deviation in dollar terms is going to be"
+  },
+  {
+    "start": "00:05:35.199",
+    "end": "00:05:37.990",
+    "start_seconds": 335.199,
+    "end_seconds": 337.99,
+    "text": "deviation in dollar terms is going to be much greater than if it's a $10 stock."
+  },
+  {
+    "start": "00:05:37.990",
+    "end": "00:05:38.000",
+    "start_seconds": 337.99,
+    "end_seconds": 338.0,
+    "text": "much greater than if it's a $10 stock."
+  },
+  {
+    "start": "00:05:38.000",
+    "end": "00:05:39.749",
+    "start_seconds": 338.0,
+    "end_seconds": 339.749,
+    "text": "much greater than if it's a $10 stock. That's going to make standard deviations"
+  },
+  {
+    "start": "00:05:39.749",
+    "end": "00:05:39.759",
+    "start_seconds": 339.749,
+    "end_seconds": 339.759,
+    "text": "That's going to make standard deviations"
+  },
+  {
+    "start": "00:05:39.759",
+    "end": "00:05:42.550",
+    "start_seconds": 339.759,
+    "end_seconds": 342.55,
+    "text": "That's going to make standard deviations almost impossible to compute. So usually"
+  },
+  {
+    "start": "00:05:42.550",
+    "end": "00:05:42.560",
+    "start_seconds": 342.55,
+    "end_seconds": 342.56,
+    "text": "almost impossible to compute. So usually"
+  },
+  {
+    "start": "00:05:42.560",
+    "end": "00:05:45.189",
+    "start_seconds": 342.56,
+    "end_seconds": 345.189,
+    "text": "almost impossible to compute. So usually when people compute price risk measures,"
+  },
+  {
+    "start": "00:05:45.189",
+    "end": "00:05:45.199",
+    "start_seconds": 345.189,
+    "end_seconds": 345.199,
+    "text": "when people compute price risk measures,"
+  },
+  {
+    "start": "00:05:45.199",
+    "end": "00:05:46.950",
+    "start_seconds": 345.199,
+    "end_seconds": 346.95,
+    "text": "when people compute price risk measures, they try to do it on a standardized"
+  },
+  {
+    "start": "00:05:46.950",
+    "end": "00:05:46.960",
+    "start_seconds": 346.95,
+    "end_seconds": 346.96,
+    "text": "they try to do it on a standardized"
+  },
+  {
+    "start": "00:05:46.960",
+    "end": "00:05:49.110",
+    "start_seconds": 346.96,
+    "end_seconds": 349.11,
+    "text": "they try to do it on a standardized basis. You see, what does that mean? You"
+  },
+  {
+    "start": "00:05:49.110",
+    "end": "00:05:49.120",
+    "start_seconds": 349.11,
+    "end_seconds": 349.12,
+    "text": "basis. You see, what does that mean? You"
+  },
+  {
+    "start": "00:05:49.120",
+    "end": "00:05:51.350",
+    "start_seconds": 349.12,
+    "end_seconds": 351.35,
+    "text": "basis. You see, what does that mean? You can look at the percentage return in the"
+  },
+  {
+    "start": "00:05:51.350",
+    "end": "00:05:51.360",
+    "start_seconds": 351.35,
+    "end_seconds": 351.36,
+    "text": "can look at the percentage return in the"
+  },
+  {
+    "start": "00:05:51.360",
+    "end": "00:05:53.430",
+    "start_seconds": 351.36,
+    "end_seconds": 353.43,
+    "text": "can look at the percentage return in the price rather than the dollar change in"
+  },
+  {
+    "start": "00:05:53.430",
+    "end": "00:05:53.440",
+    "start_seconds": 353.43,
+    "end_seconds": 353.44,
+    "text": "price rather than the dollar change in"
+  },
+  {
+    "start": "00:05:53.440",
+    "end": "00:05:55.270",
+    "start_seconds": 353.44,
+    "end_seconds": 355.27,
+    "text": "price rather than the dollar change in the price."
+  },
+  {
+    "start": "00:05:55.270",
+    "end": "00:05:55.280",
+    "start_seconds": 355.27,
+    "end_seconds": 355.28,
+    "text": "the price."
+  },
+  {
+    "start": "00:05:55.280",
+    "end": "00:05:57.189",
+    "start_seconds": 355.28,
+    "end_seconds": 357.189,
+    "text": "the price. The standard deviation that percentage"
+  },
+  {
+    "start": "00:05:57.189",
+    "end": "00:05:57.199",
+    "start_seconds": 357.189,
+    "end_seconds": 357.199,
+    "text": "The standard deviation that percentage"
+  },
+  {
+    "start": "00:05:57.199",
+    "end": "00:05:59.029",
+    "start_seconds": 357.199,
+    "end_seconds": 359.029,
+    "text": "The standard deviation that percentage return can be compared across different"
+  },
+  {
+    "start": "00:05:59.029",
+    "end": "00:05:59.039",
+    "start_seconds": 359.029,
+    "end_seconds": 359.039,
+    "text": "return can be compared across different"
+  },
+  {
+    "start": "00:05:59.039",
+    "end": "00:06:00.710",
+    "start_seconds": 359.039,
+    "end_seconds": 360.71,
+    "text": "return can be compared across different investments. Not just across stocks,"
+  },
+  {
+    "start": "00:06:00.710",
+    "end": "00:06:00.720",
+    "start_seconds": 360.71,
+    "end_seconds": 360.72,
+    "text": "investments. Not just across stocks,"
+  },
+  {
+    "start": "00:06:00.720",
+    "end": "00:06:03.670",
+    "start_seconds": 360.72,
+    "end_seconds": 363.67,
+    "text": "investments. Not just across stocks, across bonds and across real assets."
+  },
+  {
+    "start": "00:06:03.670",
+    "end": "00:06:03.680",
+    "start_seconds": 363.67,
+    "end_seconds": 363.68,
+    "text": "across bonds and across real assets."
+  },
+  {
+    "start": "00:06:03.680",
+    "end": "00:06:06.390",
+    "start_seconds": 363.68,
+    "end_seconds": 366.39,
+    "text": "across bonds and across real assets. So when we look at standard deviation,"
+  },
+  {
+    "start": "00:06:06.390",
+    "end": "00:06:06.400",
+    "start_seconds": 366.39,
+    "end_seconds": 366.4,
+    "text": "So when we look at standard deviation,"
+  },
+  {
+    "start": "00:06:06.400",
+    "end": "00:06:08.309",
+    "start_seconds": 366.4,
+    "end_seconds": 368.309,
+    "text": "So when we look at standard deviation, we tend to look at standard deviations"
+  },
+  {
+    "start": "00:06:08.309",
+    "end": "00:06:08.319",
+    "start_seconds": 368.309,
+    "end_seconds": 368.319,
+    "text": "we tend to look at standard deviations"
+  },
+  {
+    "start": "00:06:08.319",
+    "end": "00:06:11.110",
+    "start_seconds": 368.319,
+    "end_seconds": 371.11,
+    "text": "we tend to look at standard deviations and changes or percentage changes in a"
+  },
+  {
+    "start": "00:06:11.110",
+    "end": "00:06:11.120",
+    "start_seconds": 371.11,
+    "end_seconds": 371.12,
+    "text": "and changes or percentage changes in a"
+  },
+  {
+    "start": "00:06:11.120",
+    "end": "00:06:13.189",
+    "start_seconds": 371.12,
+    "end_seconds": 373.189,
+    "text": "and changes or percentage changes in a stock. So let's take an example. This is"
+  },
+  {
+    "start": "00:06:13.189",
+    "end": "00:06:13.199",
+    "start_seconds": 373.189,
+    "end_seconds": 373.199,
+    "text": "stock. So let's take an example. This is"
+  },
+  {
+    "start": "00:06:13.199",
+    "end": "00:06:17.510",
+    "start_seconds": 373.199,
+    "end_seconds": 377.51,
+    "text": "stock. So let's take an example. This is a single stock Disney from 2008 to 2013."
+  },
+  {
+    "start": "00:06:17.510",
+    "end": "00:06:17.520",
+    "start_seconds": 377.51,
+    "end_seconds": 377.52,
+    "text": "a single stock Disney from 2008 to 2013."
+  },
+  {
+    "start": "00:06:17.520",
+    "end": "00:06:20.309",
+    "start_seconds": 377.52,
+    "end_seconds": 380.309,
+    "text": "a single stock Disney from 2008 to 2013. I collected the prices for the stock. I"
+  },
+  {
+    "start": "00:06:20.309",
+    "end": "00:06:20.319",
+    "start_seconds": 380.309,
+    "end_seconds": 380.319,
+    "text": "I collected the prices for the stock. I"
+  },
+  {
+    "start": "00:06:20.319",
+    "end": "00:06:21.830",
+    "start_seconds": 380.319,
+    "end_seconds": 381.83,
+    "text": "I collected the prices for the stock. I also collected dividends. Why? Because"
+  },
+  {
+    "start": "00:06:21.830",
+    "end": "00:06:21.840",
+    "start_seconds": 381.83,
+    "end_seconds": 381.84,
+    "text": "also collected dividends. Why? Because"
+  },
+  {
+    "start": "00:06:21.840",
+    "end": "00:06:24.230",
+    "start_seconds": 381.84,
+    "end_seconds": 384.23,
+    "text": "also collected dividends. Why? Because as an investor in Disney, you're going"
+  },
+  {
+    "start": "00:06:24.230",
+    "end": "00:06:24.240",
+    "start_seconds": 384.23,
+    "end_seconds": 384.24,
+    "text": "as an investor in Disney, you're going"
+  },
+  {
+    "start": "00:06:24.240",
+    "end": "00:06:26.070",
+    "start_seconds": 384.24,
+    "end_seconds": 386.07,
+    "text": "as an investor in Disney, you're going to get that as an additional return in"
+  },
+  {
+    "start": "00:06:26.070",
+    "end": "00:06:26.080",
+    "start_seconds": 386.07,
+    "end_seconds": 386.08,
+    "text": "to get that as an additional return in"
+  },
+  {
+    "start": "00:06:26.080",
+    "end": "00:06:28.790",
+    "start_seconds": 386.08,
+    "end_seconds": 388.79,
+    "text": "to get that as an additional return in the months in which the stock go pays a"
+  },
+  {
+    "start": "00:06:28.790",
+    "end": "00:06:28.800",
+    "start_seconds": 388.79,
+    "end_seconds": 388.8,
+    "text": "the months in which the stock go pays a"
+  },
+  {
+    "start": "00:06:28.800",
+    "end": "00:06:32.070",
+    "start_seconds": 388.8,
+    "end_seconds": 392.07,
+    "text": "the months in which the stock go pays a dividend. What you see here in the green"
+  },
+  {
+    "start": "00:06:32.070",
+    "end": "00:06:32.080",
+    "start_seconds": 392.07,
+    "end_seconds": 392.08,
+    "text": "dividend. What you see here in the green"
+  },
+  {
+    "start": "00:06:32.080",
+    "end": "00:06:34.710",
+    "start_seconds": 392.08,
+    "end_seconds": 394.71,
+    "text": "dividend. What you see here in the green line is the Disney stock price. And you"
+  },
+  {
+    "start": "00:06:34.710",
+    "end": "00:06:34.720",
+    "start_seconds": 394.71,
+    "end_seconds": 394.72,
+    "text": "line is the Disney stock price. And you"
+  },
+  {
+    "start": "00:06:34.720",
+    "end": "00:06:36.629",
+    "start_seconds": 394.72,
+    "end_seconds": 396.629,
+    "text": "line is the Disney stock price. And you can see that the axis goes from 0 to"
+  },
+  {
+    "start": "00:06:36.629",
+    "end": "00:06:36.639",
+    "start_seconds": 396.629,
+    "end_seconds": 396.639,
+    "text": "can see that the axis goes from 0 to"
+  },
+  {
+    "start": "00:06:36.639",
+    "end": "00:06:39.830",
+    "start_seconds": 396.639,
+    "end_seconds": 399.83,
+    "text": "can see that the axis goes from 0 to 100. The stock went from about $30 to"
+  },
+  {
+    "start": "00:06:39.830",
+    "end": "00:06:39.840",
+    "start_seconds": 399.83,
+    "end_seconds": 399.84000000000003,
+    "text": "100. The stock went from about $30 to"
+  },
+  {
+    "start": "00:06:39.840",
+    "end": "00:06:42.950",
+    "start_seconds": 399.84000000000003,
+    "end_seconds": 402.95,
+    "text": "100. The stock went from about $30 to about $65 over the period. It almost"
+  },
+  {
+    "start": "00:06:42.950",
+    "end": "00:06:42.960",
+    "start_seconds": 402.95,
+    "end_seconds": 402.96,
+    "text": "about $65 over the period. It almost"
+  },
+  {
+    "start": "00:06:42.960",
+    "end": "00:06:45.270",
+    "start_seconds": 402.96,
+    "end_seconds": 405.27,
+    "text": "about $65 over the period. It almost doubled. That's good, right? All I've"
+  },
+  {
+    "start": "00:06:45.270",
+    "end": "00:06:45.280",
+    "start_seconds": 405.27,
+    "end_seconds": 405.28,
+    "text": "doubled. That's good, right? All I've"
+  },
+  {
+    "start": "00:06:45.280",
+    "end": "00:06:46.870",
+    "start_seconds": 405.28,
+    "end_seconds": 406.87,
+    "text": "doubled. That's good, right? All I've done at the red line is taken the"
+  },
+  {
+    "start": "00:06:46.870",
+    "end": "00:06:46.880",
+    "start_seconds": 406.87,
+    "end_seconds": 406.88,
+    "text": "done at the red line is taken the"
+  },
+  {
+    "start": "00:06:46.880",
+    "end": "00:06:49.590",
+    "start_seconds": 406.88,
+    "end_seconds": 409.59000000000003,
+    "text": "done at the red line is taken the percentage changes in prices every"
+  },
+  {
+    "start": "00:06:49.590",
+    "end": "00:06:49.600",
+    "start_seconds": 409.59000000000003,
+    "end_seconds": 409.6,
+    "text": "percentage changes in prices every"
+  },
+  {
+    "start": "00:06:49.600",
+    "end": "00:06:51.189",
+    "start_seconds": 409.6,
+    "end_seconds": 411.189,
+    "text": "percentage changes in prices every month."
+  },
+  {
+    "start": "00:06:51.189",
+    "end": "00:06:51.199",
+    "start_seconds": 411.189,
+    "end_seconds": 411.199,
+    "text": "month."
+  },
+  {
+    "start": "00:06:51.199",
+    "end": "00:06:53.430",
+    "start_seconds": 411.199,
+    "end_seconds": 413.43,
+    "text": "month. If I look at the standard deviation in"
+  },
+  {
+    "start": "00:06:53.430",
+    "end": "00:06:53.440",
+    "start_seconds": 413.43,
+    "end_seconds": 413.44,
+    "text": "If I look at the standard deviation in"
+  },
+  {
+    "start": "00:06:53.440",
+    "end": "00:06:56.790",
+    "start_seconds": 413.44,
+    "end_seconds": 416.79,
+    "text": "If I look at the standard deviation in the price, it's $1247."
+  },
+  {
+    "start": "00:06:56.790",
+    "end": "00:06:56.800",
+    "start_seconds": 416.79,
+    "end_seconds": 416.8,
+    "text": "the price, it's $1247."
+  },
+  {
+    "start": "00:06:56.800",
+    "end": "00:06:58.309",
+    "start_seconds": 416.8,
+    "end_seconds": 418.30899999999997,
+    "text": "the price, it's $1247. I'm not sure what I can do with that"
+  },
+  {
+    "start": "00:06:58.309",
+    "end": "00:06:58.319",
+    "start_seconds": 418.30899999999997,
+    "end_seconds": 418.319,
+    "text": "I'm not sure what I can do with that"
+  },
+  {
+    "start": "00:06:58.319",
+    "end": "00:07:00.629",
+    "start_seconds": 418.319,
+    "end_seconds": 420.629,
+    "text": "I'm not sure what I can do with that because that is affected by the price"
+  },
+  {
+    "start": "00:07:00.629",
+    "end": "00:07:00.639",
+    "start_seconds": 420.629,
+    "end_seconds": 420.639,
+    "text": "because that is affected by the price"
+  },
+  {
+    "start": "00:07:00.639",
+    "end": "00:07:02.710",
+    "start_seconds": 420.639,
+    "end_seconds": 422.71,
+    "text": "because that is affected by the price level. But the percentage standard"
+  },
+  {
+    "start": "00:07:02.710",
+    "end": "00:07:02.720",
+    "start_seconds": 422.71,
+    "end_seconds": 422.72,
+    "text": "level. But the percentage standard"
+  },
+  {
+    "start": "00:07:02.720",
+    "end": "00:07:05.350",
+    "start_seconds": 422.72,
+    "end_seconds": 425.35,
+    "text": "level. But the percentage standard deviation of 7.64% that you see in"
+  },
+  {
+    "start": "00:07:05.350",
+    "end": "00:07:05.360",
+    "start_seconds": 425.35,
+    "end_seconds": 425.36,
+    "text": "deviation of 7.64% that you see in"
+  },
+  {
+    "start": "00:07:05.360",
+    "end": "00:07:10.150",
+    "start_seconds": 425.36,
+    "end_seconds": 430.15,
+    "text": "deviation of 7.64% that you see in returns, I can compare across stocks,"
+  },
+  {
+    "start": "00:07:10.150",
+    "end": "00:07:10.160",
+    "start_seconds": 430.15,
+    "end_seconds": 430.16,
+    "text": "returns, I can compare across stocks,"
+  },
+  {
+    "start": "00:07:10.160",
+    "end": "00:07:12.150",
+    "start_seconds": 430.16,
+    "end_seconds": 432.15,
+    "text": "returns, I can compare across stocks, across investments."
+  },
+  {
+    "start": "00:07:12.150",
+    "end": "00:07:12.160",
+    "start_seconds": 432.15,
+    "end_seconds": 432.16,
+    "text": "across investments."
+  },
+  {
+    "start": "00:07:12.160",
+    "end": "00:07:13.990",
+    "start_seconds": 432.16,
+    "end_seconds": 433.99,
+    "text": "across investments. In fact, there's a variant that"
+  },
+  {
+    "start": "00:07:13.990",
+    "end": "00:07:14.000",
+    "start_seconds": 433.99,
+    "end_seconds": 434.0,
+    "text": "In fact, there's a variant that"
+  },
+  {
+    "start": "00:07:14.000",
+    "end": "00:07:15.909",
+    "start_seconds": 434.0,
+    "end_seconds": 435.909,
+    "text": "In fact, there's a variant that financial academics and researchers"
+  },
+  {
+    "start": "00:07:15.909",
+    "end": "00:07:15.919",
+    "start_seconds": 435.909,
+    "end_seconds": 435.919,
+    "text": "financial academics and researchers"
+  },
+  {
+    "start": "00:07:15.919",
+    "end": "00:07:17.189",
+    "start_seconds": 435.919,
+    "end_seconds": 437.189,
+    "text": "financial academics and researchers sometimes use where instead of looking"
+  },
+  {
+    "start": "00:07:17.189",
+    "end": "00:07:17.199",
+    "start_seconds": 437.189,
+    "end_seconds": 437.199,
+    "text": "sometimes use where instead of looking"
+  },
+  {
+    "start": "00:07:17.199",
+    "end": "00:07:18.710",
+    "start_seconds": 437.199,
+    "end_seconds": 438.71,
+    "text": "sometimes use where instead of looking at percentage returns, you look at the"
+  },
+  {
+    "start": "00:07:18.710",
+    "end": "00:07:18.720",
+    "start_seconds": 438.71,
+    "end_seconds": 438.72,
+    "text": "at percentage returns, you look at the"
+  },
+  {
+    "start": "00:07:18.720",
+    "end": "00:07:21.029",
+    "start_seconds": 438.72,
+    "end_seconds": 441.029,
+    "text": "at percentage returns, you look at the log price. You have to trust me on this"
+  },
+  {
+    "start": "00:07:21.029",
+    "end": "00:07:21.039",
+    "start_seconds": 441.029,
+    "end_seconds": 441.039,
+    "text": "log price. You have to trust me on this"
+  },
+  {
+    "start": "00:07:21.039",
+    "end": "00:07:23.189",
+    "start_seconds": 441.039,
+    "end_seconds": 443.189,
+    "text": "log price. You have to trust me on this one, but log price is very much like a"
+  },
+  {
+    "start": "00:07:23.189",
+    "end": "00:07:23.199",
+    "start_seconds": 443.189,
+    "end_seconds": 443.199,
+    "text": "one, but log price is very much like a"
+  },
+  {
+    "start": "00:07:23.199",
+    "end": "00:07:25.350",
+    "start_seconds": 443.199,
+    "end_seconds": 445.35,
+    "text": "one, but log price is very much like a percentage return. It has better"
+  },
+  {
+    "start": "00:07:25.350",
+    "end": "00:07:25.360",
+    "start_seconds": 445.35,
+    "end_seconds": 445.36,
+    "text": "percentage return. It has better"
+  },
+  {
+    "start": "00:07:25.360",
+    "end": "00:07:27.189",
+    "start_seconds": 445.36,
+    "end_seconds": 447.189,
+    "text": "percentage return. It has better properties statistically in some ways,"
+  },
+  {
+    "start": "00:07:27.189",
+    "end": "00:07:27.199",
+    "start_seconds": 447.189,
+    "end_seconds": 447.199,
+    "text": "properties statistically in some ways,"
+  },
+  {
+    "start": "00:07:27.199",
+    "end": "00:07:28.950",
+    "start_seconds": 447.199,
+    "end_seconds": 448.95,
+    "text": "properties statistically in some ways, but you're trying to standardize. Again,"
+  },
+  {
+    "start": "00:07:28.950",
+    "end": "00:07:28.960",
+    "start_seconds": 448.95,
+    "end_seconds": 448.96,
+    "text": "but you're trying to standardize. Again,"
+  },
+  {
+    "start": "00:07:28.960",
+    "end": "00:07:31.909",
+    "start_seconds": 448.96,
+    "end_seconds": 451.909,
+    "text": "but you're trying to standardize. Again, that's for an individual stock."
+  },
+  {
+    "start": "00:07:31.909",
+    "end": "00:07:31.919",
+    "start_seconds": 451.909,
+    "end_seconds": 451.919,
+    "text": "that's for an individual stock."
+  },
+  {
+    "start": "00:07:31.919",
+    "end": "00:07:34.629",
+    "start_seconds": 451.919,
+    "end_seconds": 454.629,
+    "text": "that's for an individual stock. Now, in this graph, I look at all US"
+  },
+  {
+    "start": "00:07:34.629",
+    "end": "00:07:34.639",
+    "start_seconds": 454.629,
+    "end_seconds": 454.639,
+    "text": "Now, in this graph, I look at all US"
+  },
+  {
+    "start": "00:07:34.639",
+    "end": "00:07:37.990",
+    "start_seconds": 454.639,
+    "end_seconds": 457.99,
+    "text": "Now, in this graph, I look at all US stocks versus T- bonds."
+  },
+  {
+    "start": "00:07:37.990",
+    "end": "00:07:38.000",
+    "start_seconds": 457.99,
+    "end_seconds": 458.0,
+    "text": "stocks versus T- bonds."
+  },
+  {
+    "start": "00:07:38.000",
+    "end": "00:07:40.550",
+    "start_seconds": 458.0,
+    "end_seconds": 460.55,
+    "text": "stocks versus T- bonds. In fact, I look at stocks, T- bonds, T-"
+  },
+  {
+    "start": "00:07:40.550",
+    "end": "00:07:40.560",
+    "start_seconds": 460.55,
+    "end_seconds": 460.56,
+    "text": "In fact, I look at stocks, T- bonds, T-"
+  },
+  {
+    "start": "00:07:40.560",
+    "end": "00:07:42.870",
+    "start_seconds": 460.56,
+    "end_seconds": 462.87,
+    "text": "In fact, I look at stocks, T- bonds, T- bills, and corporate bonds. I know this"
+  },
+  {
+    "start": "00:07:42.870",
+    "end": "00:07:42.880",
+    "start_seconds": 462.87,
+    "end_seconds": 462.88,
+    "text": "bills, and corporate bonds. I know this"
+  },
+  {
+    "start": "00:07:42.880",
+    "end": "00:07:44.629",
+    "start_seconds": 462.88,
+    "end_seconds": 464.629,
+    "text": "bills, and corporate bonds. I know this graph is almost impossible to read"
+  },
+  {
+    "start": "00:07:44.629",
+    "end": "00:07:44.639",
+    "start_seconds": 464.629,
+    "end_seconds": 464.639,
+    "text": "graph is almost impossible to read"
+  },
+  {
+    "start": "00:07:44.639",
+    "end": "00:07:47.189",
+    "start_seconds": 464.639,
+    "end_seconds": 467.189,
+    "text": "graph is almost impossible to read outside of the S&P 500 stocks. And you"
+  },
+  {
+    "start": "00:07:47.189",
+    "end": "00:07:47.199",
+    "start_seconds": 467.189,
+    "end_seconds": 467.199,
+    "text": "outside of the S&P 500 stocks. And you"
+  },
+  {
+    "start": "00:07:47.199",
+    "end": "00:07:49.830",
+    "start_seconds": 467.199,
+    "end_seconds": 469.83,
+    "text": "outside of the S&P 500 stocks. And you can see that stocks have more zigs and"
+  },
+  {
+    "start": "00:07:49.830",
+    "end": "00:07:49.840",
+    "start_seconds": 469.83,
+    "end_seconds": 469.84000000000003,
+    "text": "can see that stocks have more zigs and"
+  },
+  {
+    "start": "00:07:49.840",
+    "end": "00:07:52.550",
+    "start_seconds": 469.84000000000003,
+    "end_seconds": 472.55,
+    "text": "can see that stocks have more zigs and zags, bigger zigs and zags than T- bonds"
+  },
+  {
+    "start": "00:07:52.550",
+    "end": "00:07:52.560",
+    "start_seconds": 472.55,
+    "end_seconds": 472.56,
+    "text": "zags, bigger zigs and zags than T- bonds"
+  },
+  {
+    "start": "00:07:52.560",
+    "end": "00:07:55.430",
+    "start_seconds": 472.56,
+    "end_seconds": 475.43,
+    "text": "zags, bigger zigs and zags than T- bonds or T- bills. And you can compute the"
+  },
+  {
+    "start": "00:07:55.430",
+    "end": "00:07:55.440",
+    "start_seconds": 475.43,
+    "end_seconds": 475.44,
+    "text": "or T- bills. And you can compute the"
+  },
+  {
+    "start": "00:07:55.440",
+    "end": "00:07:57.350",
+    "start_seconds": 475.44,
+    "end_seconds": 477.35,
+    "text": "or T- bills. And you can compute the standard deviation again in percentage"
+  },
+  {
+    "start": "00:07:57.350",
+    "end": "00:07:57.360",
+    "start_seconds": 477.35,
+    "end_seconds": 477.36,
+    "text": "standard deviation again in percentage"
+  },
+  {
+    "start": "00:07:57.360",
+    "end": "00:08:00.150",
+    "start_seconds": 477.36,
+    "end_seconds": 480.15,
+    "text": "standard deviation again in percentage stock prices, which is about 20%. But"
+  },
+  {
+    "start": "00:08:00.150",
+    "end": "00:08:00.160",
+    "start_seconds": 480.15,
+    "end_seconds": 480.16,
+    "text": "stock prices, which is about 20%. But"
+  },
+  {
+    "start": "00:08:00.160",
+    "end": "00:08:02.230",
+    "start_seconds": 480.16,
+    "end_seconds": 482.23,
+    "text": "stock prices, which is about 20%. But bond price standard deviation is much"
+  },
+  {
+    "start": "00:08:02.230",
+    "end": "00:08:02.240",
+    "start_seconds": 482.23,
+    "end_seconds": 482.24,
+    "text": "bond price standard deviation is much"
+  },
+  {
+    "start": "00:08:02.240",
+    "end": "00:08:04.390",
+    "start_seconds": 482.24,
+    "end_seconds": 484.39,
+    "text": "bond price standard deviation is much lower and TE standard deviation is even"
+  },
+  {
+    "start": "00:08:04.390",
+    "end": "00:08:04.400",
+    "start_seconds": 484.39,
+    "end_seconds": 484.4,
+    "text": "lower and TE standard deviation is even"
+  },
+  {
+    "start": "00:08:04.400",
+    "end": "00:08:05.990",
+    "start_seconds": 484.4,
+    "end_seconds": 485.99,
+    "text": "lower and TE standard deviation is even lower."
+  },
+  {
+    "start": "00:08:05.990",
+    "end": "00:08:06.000",
+    "start_seconds": 485.99,
+    "end_seconds": 486.0,
+    "text": "lower."
+  },
+  {
+    "start": "00:08:06.000",
+    "end": "00:08:08.950",
+    "start_seconds": 486.0,
+    "end_seconds": 488.95,
+    "text": "lower. When we think about risk in investing, I"
+  },
+  {
+    "start": "00:08:08.950",
+    "end": "00:08:08.960",
+    "start_seconds": 488.95,
+    "end_seconds": 488.96,
+    "text": "When we think about risk in investing, I"
+  },
+  {
+    "start": "00:08:08.960",
+    "end": "00:08:10.950",
+    "start_seconds": 488.96,
+    "end_seconds": 490.95,
+    "text": "When we think about risk in investing, I know this is lazy. We've ended up using"
+  },
+  {
+    "start": "00:08:10.950",
+    "end": "00:08:10.960",
+    "start_seconds": 490.95,
+    "end_seconds": 490.96,
+    "text": "know this is lazy. We've ended up using"
+  },
+  {
+    "start": "00:08:10.960",
+    "end": "00:08:12.790",
+    "start_seconds": 490.96,
+    "end_seconds": 492.79,
+    "text": "know this is lazy. We've ended up using standard deviation and percentage"
+  },
+  {
+    "start": "00:08:12.790",
+    "end": "00:08:12.800",
+    "start_seconds": 492.79,
+    "end_seconds": 492.8,
+    "text": "standard deviation and percentage"
+  },
+  {
+    "start": "00:08:12.800",
+    "end": "00:08:15.110",
+    "start_seconds": 492.8,
+    "end_seconds": 495.11,
+    "text": "standard deviation and percentage changes because it's comparable across"
+  },
+  {
+    "start": "00:08:15.110",
+    "end": "00:08:15.120",
+    "start_seconds": 495.11,
+    "end_seconds": 495.12,
+    "text": "changes because it's comparable across"
+  },
+  {
+    "start": "00:08:15.120",
+    "end": "00:08:18.070",
+    "start_seconds": 495.12,
+    "end_seconds": 498.07,
+    "text": "changes because it's comparable across investments. So, let's pause and think"
+  },
+  {
+    "start": "00:08:18.070",
+    "end": "00:08:18.080",
+    "start_seconds": 498.07,
+    "end_seconds": 498.08,
+    "text": "investments. So, let's pause and think"
+  },
+  {
+    "start": "00:08:18.080",
+    "end": "00:08:19.670",
+    "start_seconds": 498.08,
+    "end_seconds": 499.67,
+    "text": "investments. So, let's pause and think about the variance we talked about"
+  },
+  {
+    "start": "00:08:19.670",
+    "end": "00:08:19.680",
+    "start_seconds": 499.67,
+    "end_seconds": 499.68,
+    "text": "about the variance we talked about"
+  },
+  {
+    "start": "00:08:19.680",
+    "end": "00:08:21.990",
+    "start_seconds": 499.68,
+    "end_seconds": 501.99,
+    "text": "about the variance we talked about before. Downside versus total risk."
+  },
+  {
+    "start": "00:08:21.990",
+    "end": "00:08:22.000",
+    "start_seconds": 501.99,
+    "end_seconds": 502.0,
+    "text": "before. Downside versus total risk."
+  },
+  {
+    "start": "00:08:22.000",
+    "end": "00:08:24.150",
+    "start_seconds": 502.0,
+    "end_seconds": 504.15,
+    "text": "before. Downside versus total risk. Let's start with the obvious. As"
+  },
+  {
+    "start": "00:08:24.150",
+    "end": "00:08:24.160",
+    "start_seconds": 504.15,
+    "end_seconds": 504.16,
+    "text": "Let's start with the obvious. As"
+  },
+  {
+    "start": "00:08:24.160",
+    "end": "00:08:27.670",
+    "start_seconds": 504.16,
+    "end_seconds": 507.67,
+    "text": "Let's start with the obvious. As investors, nobody lies at night lies"
+  },
+  {
+    "start": "00:08:27.670",
+    "end": "00:08:27.680",
+    "start_seconds": 507.67,
+    "end_seconds": 507.68,
+    "text": "investors, nobody lies at night lies"
+  },
+  {
+    "start": "00:08:27.680",
+    "end": "00:08:29.909",
+    "start_seconds": 507.68,
+    "end_seconds": 509.909,
+    "text": "investors, nobody lies at night lies awake at night wondering, you know, what"
+  },
+  {
+    "start": "00:08:29.909",
+    "end": "00:08:29.919",
+    "start_seconds": 509.909,
+    "end_seconds": 509.919,
+    "text": "awake at night wondering, you know, what"
+  },
+  {
+    "start": "00:08:29.919",
+    "end": "00:08:31.510",
+    "start_seconds": 509.919,
+    "end_seconds": 511.51,
+    "text": "awake at night wondering, you know, what happened to the stock. The stock doubles"
+  },
+  {
+    "start": "00:08:31.510",
+    "end": "00:08:31.520",
+    "start_seconds": 511.51,
+    "end_seconds": 511.52,
+    "text": "happened to the stock. The stock doubles"
+  },
+  {
+    "start": "00:08:31.520",
+    "end": "00:08:34.550",
+    "start_seconds": 511.52,
+    "end_seconds": 514.55,
+    "text": "happened to the stock. The stock doubles in price. It's downside risk that"
+  },
+  {
+    "start": "00:08:34.550",
+    "end": "00:08:34.560",
+    "start_seconds": 514.55,
+    "end_seconds": 514.56,
+    "text": "in price. It's downside risk that"
+  },
+  {
+    "start": "00:08:34.560",
+    "end": "00:08:36.310",
+    "start_seconds": 514.56,
+    "end_seconds": 516.31,
+    "text": "in price. It's downside risk that creates pain. And so when we think about"
+  },
+  {
+    "start": "00:08:36.310",
+    "end": "00:08:36.320",
+    "start_seconds": 516.31,
+    "end_seconds": 516.32,
+    "text": "creates pain. And so when we think about"
+  },
+  {
+    "start": "00:08:36.320",
+    "end": "00:08:38.230",
+    "start_seconds": 516.32,
+    "end_seconds": 518.23,
+    "text": "creates pain. And so when we think about risk, we tend to think in terms of"
+  },
+  {
+    "start": "00:08:38.230",
+    "end": "00:08:38.240",
+    "start_seconds": 518.23,
+    "end_seconds": 518.24,
+    "text": "risk, we tend to think in terms of"
+  },
+  {
+    "start": "00:08:38.240",
+    "end": "00:08:40.389",
+    "start_seconds": 518.24,
+    "end_seconds": 520.389,
+    "text": "risk, we tend to think in terms of downside risk."
+  },
+  {
+    "start": "00:08:40.389",
+    "end": "00:08:40.399",
+    "start_seconds": 520.389,
+    "end_seconds": 520.399,
+    "text": "downside risk."
+  },
+  {
+    "start": "00:08:40.399",
+    "end": "00:08:42.550",
+    "start_seconds": 520.399,
+    "end_seconds": 522.55,
+    "text": "downside risk. The standard deviations I talked about"
+  },
+  {
+    "start": "00:08:42.550",
+    "end": "00:08:42.560",
+    "start_seconds": 522.55,
+    "end_seconds": 522.56,
+    "text": "The standard deviations I talked about"
+  },
+  {
+    "start": "00:08:42.560",
+    "end": "00:08:44.470",
+    "start_seconds": 522.56,
+    "end_seconds": 524.47,
+    "text": "The standard deviations I talked about look at both sides, right? You can have"
+  },
+  {
+    "start": "00:08:44.470",
+    "end": "00:08:44.480",
+    "start_seconds": 524.47,
+    "end_seconds": 524.48,
+    "text": "look at both sides, right? You can have"
+  },
+  {
+    "start": "00:08:44.480",
+    "end": "00:08:46.230",
+    "start_seconds": 524.48,
+    "end_seconds": 526.23,
+    "text": "look at both sides, right? You can have a high standard deviation for a stock"
+  },
+  {
+    "start": "00:08:46.230",
+    "end": "00:08:46.240",
+    "start_seconds": 526.23,
+    "end_seconds": 526.24,
+    "text": "a high standard deviation for a stock"
+  },
+  {
+    "start": "00:08:46.240",
+    "end": "00:08:48.949",
+    "start_seconds": 526.24,
+    "end_seconds": 528.949,
+    "text": "a high standard deviation for a stock that went up 500%. Because the price"
+  },
+  {
+    "start": "00:08:48.949",
+    "end": "00:08:48.959",
+    "start_seconds": 528.949,
+    "end_seconds": 528.9590000000001,
+    "text": "that went up 500%. Because the price"
+  },
+  {
+    "start": "00:08:48.959",
+    "end": "00:08:52.070",
+    "start_seconds": 528.9590000000001,
+    "end_seconds": 532.07,
+    "text": "that went up 500%. Because the price variation was high. Standard deviations"
+  },
+  {
+    "start": "00:08:52.070",
+    "end": "00:08:52.080",
+    "start_seconds": 532.07,
+    "end_seconds": 532.08,
+    "text": "variation was high. Standard deviations"
+  },
+  {
+    "start": "00:08:52.080",
+    "end": "00:08:53.910",
+    "start_seconds": 532.08,
+    "end_seconds": 533.91,
+    "text": "variation was high. Standard deviations look at total risk. And there are people"
+  },
+  {
+    "start": "00:08:53.910",
+    "end": "00:08:53.920",
+    "start_seconds": 533.91,
+    "end_seconds": 533.92,
+    "text": "look at total risk. And there are people"
+  },
+  {
+    "start": "00:08:53.920",
+    "end": "00:08:56.070",
+    "start_seconds": 533.92,
+    "end_seconds": 536.07,
+    "text": "look at total risk. And there are people in fact who argue that that's a problem"
+  },
+  {
+    "start": "00:08:56.070",
+    "end": "00:08:56.080",
+    "start_seconds": 536.07,
+    "end_seconds": 536.08,
+    "text": "in fact who argue that that's a problem"
+  },
+  {
+    "start": "00:08:56.080",
+    "end": "00:08:58.230",
+    "start_seconds": 536.08,
+    "end_seconds": 538.23,
+    "text": "in fact who argue that that's a problem with standard deviation. There's a way"
+  },
+  {
+    "start": "00:08:58.230",
+    "end": "00:08:58.240",
+    "start_seconds": 538.23,
+    "end_seconds": 538.24,
+    "text": "with standard deviation. There's a way"
+  },
+  {
+    "start": "00:08:58.240",
+    "end": "00:08:59.670",
+    "start_seconds": 538.24,
+    "end_seconds": 539.67,
+    "text": "with standard deviation. There's a way in which you can compute the standard"
+  },
+  {
+    "start": "00:08:59.670",
+    "end": "00:08:59.680",
+    "start_seconds": 539.67,
+    "end_seconds": 539.68,
+    "text": "in which you can compute the standard"
+  },
+  {
+    "start": "00:08:59.680",
+    "end": "00:09:01.990",
+    "start_seconds": 539.68,
+    "end_seconds": 541.99,
+    "text": "in which you can compute the standard deviation variance only in returns that"
+  },
+  {
+    "start": "00:09:01.990",
+    "end": "00:09:02.000",
+    "start_seconds": 541.99,
+    "end_seconds": 542.0,
+    "text": "deviation variance only in returns that"
+  },
+  {
+    "start": "00:09:02.000",
+    "end": "00:09:04.710",
+    "start_seconds": 542.0,
+    "end_seconds": 544.71,
+    "text": "deviation variance only in returns that fall below the average return or just a"
+  },
+  {
+    "start": "00:09:04.710",
+    "end": "00:09:04.720",
+    "start_seconds": 544.71,
+    "end_seconds": 544.72,
+    "text": "fall below the average return or just a"
+  },
+  {
+    "start": "00:09:04.720",
+    "end": "00:09:08.070",
+    "start_seconds": 544.72,
+    "end_seconds": 548.07,
+    "text": "fall below the average return or just a measure of downside risk. So total risk"
+  },
+  {
+    "start": "00:09:08.070",
+    "end": "00:09:08.080",
+    "start_seconds": 548.07,
+    "end_seconds": 548.08,
+    "text": "measure of downside risk. So total risk"
+  },
+  {
+    "start": "00:09:08.080",
+    "end": "00:09:10.949",
+    "start_seconds": 548.08,
+    "end_seconds": 550.949,
+    "text": "measure of downside risk. So total risk versus downside risk. And the reason we"
+  },
+  {
+    "start": "00:09:10.949",
+    "end": "00:09:10.959",
+    "start_seconds": 550.949,
+    "end_seconds": 550.959,
+    "text": "versus downside risk. And the reason we"
+  },
+  {
+    "start": "00:09:10.959",
+    "end": "00:09:13.590",
+    "start_seconds": 550.959,
+    "end_seconds": 553.59,
+    "text": "versus downside risk. And the reason we often focus on total risk is it turns"
+  },
+  {
+    "start": "00:09:13.590",
+    "end": "00:09:13.600",
+    "start_seconds": 553.59,
+    "end_seconds": 553.6,
+    "text": "often focus on total risk is it turns"
+  },
+  {
+    "start": "00:09:13.600",
+    "end": "00:09:16.790",
+    "start_seconds": 553.6,
+    "end_seconds": 556.79,
+    "text": "often focus on total risk is it turns out the world doesn't give you freebies."
+  },
+  {
+    "start": "00:09:16.790",
+    "end": "00:09:16.800",
+    "start_seconds": 556.79,
+    "end_seconds": 556.8,
+    "text": "out the world doesn't give you freebies."
+  },
+  {
+    "start": "00:09:16.800",
+    "end": "00:09:19.110",
+    "start_seconds": 556.8,
+    "end_seconds": 559.11,
+    "text": "out the world doesn't give you freebies. Then when there's a lot of upside,"
+  },
+  {
+    "start": "00:09:19.110",
+    "end": "00:09:19.120",
+    "start_seconds": 559.11,
+    "end_seconds": 559.12,
+    "text": "Then when there's a lot of upside,"
+  },
+  {
+    "start": "00:09:19.120",
+    "end": "00:09:20.870",
+    "start_seconds": 559.12,
+    "end_seconds": 560.87,
+    "text": "Then when there's a lot of upside, there's often a lot of downside. When"
+  },
+  {
+    "start": "00:09:20.870",
+    "end": "00:09:20.880",
+    "start_seconds": 560.87,
+    "end_seconds": 560.88,
+    "text": "there's often a lot of downside. When"
+  },
+  {
+    "start": "00:09:20.880",
+    "end": "00:09:22.389",
+    "start_seconds": 560.88,
+    "end_seconds": 562.389,
+    "text": "there's often a lot of downside. When there's less upside, there's less"
+  },
+  {
+    "start": "00:09:22.389",
+    "end": "00:09:22.399",
+    "start_seconds": 562.389,
+    "end_seconds": 562.399,
+    "text": "there's less upside, there's less"
+  },
+  {
+    "start": "00:09:22.399",
+    "end": "00:09:24.870",
+    "start_seconds": 562.399,
+    "end_seconds": 564.87,
+    "text": "there's less upside, there's less downside. Total risk and downside"
+  },
+  {
+    "start": "00:09:24.870",
+    "end": "00:09:24.880",
+    "start_seconds": 564.87,
+    "end_seconds": 564.88,
+    "text": "downside. Total risk and downside"
+  },
+  {
+    "start": "00:09:24.880",
+    "end": "00:09:27.110",
+    "start_seconds": 564.88,
+    "end_seconds": 567.11,
+    "text": "downside. Total risk and downside standard deviations are very highly"
+  },
+  {
+    "start": "00:09:27.110",
+    "end": "00:09:27.120",
+    "start_seconds": 567.11,
+    "end_seconds": 567.12,
+    "text": "standard deviations are very highly"
+  },
+  {
+    "start": "00:09:27.120",
+    "end": "00:09:30.230",
+    "start_seconds": 567.12,
+    "end_seconds": 570.23,
+    "text": "standard deviations are very highly correlated. You can use one as a standin"
+  },
+  {
+    "start": "00:09:30.230",
+    "end": "00:09:30.240",
+    "start_seconds": 570.23,
+    "end_seconds": 570.24,
+    "text": "correlated. You can use one as a standin"
+  },
+  {
+    "start": "00:09:30.240",
+    "end": "00:09:32.070",
+    "start_seconds": 570.24,
+    "end_seconds": 572.07,
+    "text": "correlated. You can use one as a standin for the other."
+  },
+  {
+    "start": "00:09:32.070",
+    "end": "00:09:32.080",
+    "start_seconds": 572.07,
+    "end_seconds": 572.08,
+    "text": "for the other."
+  },
+  {
+    "start": "00:09:32.080",
+    "end": "00:09:33.750",
+    "start_seconds": 572.08,
+    "end_seconds": 573.75,
+    "text": "for the other. Second contrast, we talked about this"
+  },
+  {
+    "start": "00:09:33.750",
+    "end": "00:09:33.760",
+    "start_seconds": 573.75,
+    "end_seconds": 573.76,
+    "text": "Second contrast, we talked about this"
+  },
+  {
+    "start": "00:09:33.760",
+    "end": "00:09:35.750",
+    "start_seconds": 573.76,
+    "end_seconds": 575.75,
+    "text": "Second contrast, we talked about this earlier. The risk in the cash flows"
+  },
+  {
+    "start": "00:09:35.750",
+    "end": "00:09:35.760",
+    "start_seconds": 575.75,
+    "end_seconds": 575.76,
+    "text": "earlier. The risk in the cash flows"
+  },
+  {
+    "start": "00:09:35.760",
+    "end": "00:09:38.070",
+    "start_seconds": 575.76,
+    "end_seconds": 578.07,
+    "text": "earlier. The risk in the cash flows versus the risk in the price. If you're"
+  },
+  {
+    "start": "00:09:38.070",
+    "end": "00:09:38.080",
+    "start_seconds": 578.07,
+    "end_seconds": 578.08,
+    "text": "versus the risk in the price. If you're"
+  },
+  {
+    "start": "00:09:38.080",
+    "end": "00:09:40.230",
+    "start_seconds": 578.08,
+    "end_seconds": 580.23,
+    "text": "versus the risk in the price. If you're an intrinsic value investor, you buy an"
+  },
+  {
+    "start": "00:09:40.230",
+    "end": "00:09:40.240",
+    "start_seconds": 580.23,
+    "end_seconds": 580.24,
+    "text": "an intrinsic value investor, you buy an"
+  },
+  {
+    "start": "00:09:40.240",
+    "end": "00:09:42.150",
+    "start_seconds": 580.24,
+    "end_seconds": 582.15,
+    "text": "an intrinsic value investor, you buy an investment for its cash flows. So from"
+  },
+  {
+    "start": "00:09:42.150",
+    "end": "00:09:42.160",
+    "start_seconds": 582.15,
+    "end_seconds": 582.16,
+    "text": "investment for its cash flows. So from"
+  },
+  {
+    "start": "00:09:42.160",
+    "end": "00:09:43.829",
+    "start_seconds": 582.16,
+    "end_seconds": 583.829,
+    "text": "investment for its cash flows. So from your perspective, you could argue the"
+  },
+  {
+    "start": "00:09:43.829",
+    "end": "00:09:43.839",
+    "start_seconds": 583.829,
+    "end_seconds": 583.8389999999999,
+    "text": "your perspective, you could argue the"
+  },
+  {
+    "start": "00:09:43.839",
+    "end": "00:09:45.829",
+    "start_seconds": 583.8389999999999,
+    "end_seconds": 585.829,
+    "text": "your perspective, you could argue the way you think about risk is not by"
+  },
+  {
+    "start": "00:09:45.829",
+    "end": "00:09:45.839",
+    "start_seconds": 585.829,
+    "end_seconds": 585.8389999999999,
+    "text": "way you think about risk is not by"
+  },
+  {
+    "start": "00:09:45.839",
+    "end": "00:09:47.670",
+    "start_seconds": 585.8389999999999,
+    "end_seconds": 587.67,
+    "text": "way you think about risk is not by looking at what a market price does"
+  },
+  {
+    "start": "00:09:47.670",
+    "end": "00:09:47.680",
+    "start_seconds": 587.67,
+    "end_seconds": 587.68,
+    "text": "looking at what a market price does"
+  },
+  {
+    "start": "00:09:47.680",
+    "end": "00:09:49.990",
+    "start_seconds": 587.68,
+    "end_seconds": 589.99,
+    "text": "looking at what a market price does because markets make mistakes, but by"
+  },
+  {
+    "start": "00:09:49.990",
+    "end": "00:09:50.000",
+    "start_seconds": 589.99,
+    "end_seconds": 590.0,
+    "text": "because markets make mistakes, but by"
+  },
+  {
+    "start": "00:09:50.000",
+    "end": "00:09:51.670",
+    "start_seconds": 590.0,
+    "end_seconds": 591.67,
+    "text": "because markets make mistakes, but by looking at a variance in earnings or"
+  },
+  {
+    "start": "00:09:51.670",
+    "end": "00:09:51.680",
+    "start_seconds": 591.67,
+    "end_seconds": 591.68,
+    "text": "looking at a variance in earnings or"
+  },
+  {
+    "start": "00:09:51.680",
+    "end": "00:09:54.710",
+    "start_seconds": 591.68,
+    "end_seconds": 594.71,
+    "text": "looking at a variance in earnings or cash flows. We'll come back and discuss"
+  },
+  {
+    "start": "00:09:54.710",
+    "end": "00:09:54.720",
+    "start_seconds": 594.71,
+    "end_seconds": 594.72,
+    "text": "cash flows. We'll come back and discuss"
+  },
+  {
+    "start": "00:09:54.720",
+    "end": "00:09:56.310",
+    "start_seconds": 594.72,
+    "end_seconds": 596.31,
+    "text": "cash flows. We'll come back and discuss this more when we talk about value"
+  },
+  {
+    "start": "00:09:56.310",
+    "end": "00:09:56.320",
+    "start_seconds": 596.31,
+    "end_seconds": 596.32,
+    "text": "this more when we talk about value"
+  },
+  {
+    "start": "00:09:56.320",
+    "end": "00:09:58.470",
+    "start_seconds": 596.32,
+    "end_seconds": 598.47,
+    "text": "this more when we talk about value investing because here again it's a"
+  },
+  {
+    "start": "00:09:58.470",
+    "end": "00:09:58.480",
+    "start_seconds": 598.47,
+    "end_seconds": 598.48,
+    "text": "investing because here again it's a"
+  },
+  {
+    "start": "00:09:58.480",
+    "end": "00:10:01.269",
+    "start_seconds": 598.48,
+    "end_seconds": 601.269,
+    "text": "investing because here again it's a false choice. Most companies which have"
+  },
+  {
+    "start": "00:10:01.269",
+    "end": "00:10:01.279",
+    "start_seconds": 601.269,
+    "end_seconds": 601.279,
+    "text": "false choice. Most companies which have"
+  },
+  {
+    "start": "00:10:01.279",
+    "end": "00:10:03.269",
+    "start_seconds": 601.279,
+    "end_seconds": 603.269,
+    "text": "false choice. Most companies which have high variance earnings and cash flows"
+  },
+  {
+    "start": "00:10:03.269",
+    "end": "00:10:03.279",
+    "start_seconds": 603.269,
+    "end_seconds": 603.279,
+    "text": "high variance earnings and cash flows"
+  },
+  {
+    "start": "00:10:03.279",
+    "end": "00:10:05.269",
+    "start_seconds": 603.279,
+    "end_seconds": 605.269,
+    "text": "high variance earnings and cash flows will have high variance stock price. But"
+  },
+  {
+    "start": "00:10:05.269",
+    "end": "00:10:05.279",
+    "start_seconds": 605.269,
+    "end_seconds": 605.279,
+    "text": "will have high variance stock price. But"
+  },
+  {
+    "start": "00:10:05.279",
+    "end": "00:10:06.949",
+    "start_seconds": 605.279,
+    "end_seconds": 606.949,
+    "text": "will have high variance stock price. But it's true. Sometimes the two might give"
+  },
+  {
+    "start": "00:10:06.949",
+    "end": "00:10:06.959",
+    "start_seconds": 606.949,
+    "end_seconds": 606.959,
+    "text": "it's true. Sometimes the two might give"
+  },
+  {
+    "start": "00:10:06.959",
+    "end": "00:10:09.190",
+    "start_seconds": 606.959,
+    "end_seconds": 609.19,
+    "text": "it's true. Sometimes the two might give you different signals."
+  },
+  {
+    "start": "00:10:09.190",
+    "end": "00:10:09.200",
+    "start_seconds": 609.19,
+    "end_seconds": 609.2,
+    "text": "you different signals."
+  },
+  {
+    "start": "00:10:09.200",
+    "end": "00:10:10.949",
+    "start_seconds": 609.2,
+    "end_seconds": 610.949,
+    "text": "you different signals. The other problem with with earnings and"
+  },
+  {
+    "start": "00:10:10.949",
+    "end": "00:10:10.959",
+    "start_seconds": 610.949,
+    "end_seconds": 610.959,
+    "text": "The other problem with with earnings and"
+  },
+  {
+    "start": "00:10:10.959",
+    "end": "00:10:12.630",
+    "start_seconds": 610.959,
+    "end_seconds": 612.63,
+    "text": "The other problem with with earnings and cash flows, they get measured four times"
+  },
+  {
+    "start": "00:10:12.630",
+    "end": "00:10:12.640",
+    "start_seconds": 612.63,
+    "end_seconds": 612.64,
+    "text": "cash flows, they get measured four times"
+  },
+  {
+    "start": "00:10:12.640",
+    "end": "00:10:14.470",
+    "start_seconds": 612.64,
+    "end_seconds": 614.47,
+    "text": "cash flows, they get measured four times a year for US companies. Every time an"
+  },
+  {
+    "start": "00:10:14.470",
+    "end": "00:10:14.480",
+    "start_seconds": 614.47,
+    "end_seconds": 614.48,
+    "text": "a year for US companies. Every time an"
+  },
+  {
+    "start": "00:10:14.480",
+    "end": "00:10:17.350",
+    "start_seconds": 614.48,
+    "end_seconds": 617.35,
+    "text": "a year for US companies. Every time an earnings report comes out, stock prices"
+  },
+  {
+    "start": "00:10:17.350",
+    "end": "00:10:17.360",
+    "start_seconds": 617.35,
+    "end_seconds": 617.36,
+    "text": "earnings report comes out, stock prices"
+  },
+  {
+    "start": "00:10:17.360",
+    "end": "00:10:20.630",
+    "start_seconds": 617.36,
+    "end_seconds": 620.63,
+    "text": "earnings report comes out, stock prices are continuous. They change minute by"
+  },
+  {
+    "start": "00:10:20.630",
+    "end": "00:10:20.640",
+    "start_seconds": 620.63,
+    "end_seconds": 620.64,
+    "text": "are continuous. They change minute by"
+  },
+  {
+    "start": "00:10:20.640",
+    "end": "00:10:23.110",
+    "start_seconds": 620.64,
+    "end_seconds": 623.11,
+    "text": "are continuous. They change minute by minute, hour by hour, and they can be"
+  },
+  {
+    "start": "00:10:23.110",
+    "end": "00:10:23.120",
+    "start_seconds": 623.11,
+    "end_seconds": 623.12,
+    "text": "minute, hour by hour, and they can be"
+  },
+  {
+    "start": "00:10:23.120",
+    "end": "00:10:25.829",
+    "start_seconds": 623.12,
+    "end_seconds": 625.829,
+    "text": "minute, hour by hour, and they can be updated constantly. Cash flow risk"
+  },
+  {
+    "start": "00:10:25.829",
+    "end": "00:10:25.839",
+    "start_seconds": 625.829,
+    "end_seconds": 625.8389999999999,
+    "text": "updated constantly. Cash flow risk"
+  },
+  {
+    "start": "00:10:25.839",
+    "end": "00:10:28.150",
+    "start_seconds": 625.8389999999999,
+    "end_seconds": 628.15,
+    "text": "updated constantly. Cash flow risk versus price risk. And finally, the"
+  },
+  {
+    "start": "00:10:28.150",
+    "end": "00:10:28.160",
+    "start_seconds": 628.15,
+    "end_seconds": 628.16,
+    "text": "versus price risk. And finally, the"
+  },
+  {
+    "start": "00:10:28.160",
+    "end": "00:10:30.069",
+    "start_seconds": 628.16,
+    "end_seconds": 630.069,
+    "text": "versus price risk. And finally, the contrast that I think we should spend a"
+  },
+  {
+    "start": "00:10:30.069",
+    "end": "00:10:30.079",
+    "start_seconds": 630.069,
+    "end_seconds": 630.079,
+    "text": "contrast that I think we should spend a"
+  },
+  {
+    "start": "00:10:30.079",
+    "end": "00:10:32.949",
+    "start_seconds": 630.079,
+    "end_seconds": 632.949,
+    "text": "contrast that I think we should spend a little bit more time on is the risk of a"
+  },
+  {
+    "start": "00:10:32.949",
+    "end": "00:10:32.959",
+    "start_seconds": 632.949,
+    "end_seconds": 632.9590000000001,
+    "text": "little bit more time on is the risk of a"
+  },
+  {
+    "start": "00:10:32.959",
+    "end": "00:10:34.630",
+    "start_seconds": 632.9590000000001,
+    "end_seconds": 634.63,
+    "text": "little bit more time on is the risk of a company standing alone, investment"
+  },
+  {
+    "start": "00:10:34.630",
+    "end": "00:10:34.640",
+    "start_seconds": 634.63,
+    "end_seconds": 634.64,
+    "text": "company standing alone, investment"
+  },
+  {
+    "start": "00:10:34.640",
+    "end": "00:10:36.310",
+    "start_seconds": 634.64,
+    "end_seconds": 636.31,
+    "text": "company standing alone, investment standing alone as a as opposed to the"
+  },
+  {
+    "start": "00:10:36.310",
+    "end": "00:10:36.320",
+    "start_seconds": 636.31,
+    "end_seconds": 636.32,
+    "text": "standing alone as a as opposed to the"
+  },
+  {
+    "start": "00:10:36.320",
+    "end": "00:10:39.190",
+    "start_seconds": 636.32,
+    "end_seconds": 639.19,
+    "text": "standing alone as a as opposed to the risk that it adds to a portfolio. In"
+  },
+  {
+    "start": "00:10:39.190",
+    "end": "00:10:39.200",
+    "start_seconds": 639.19,
+    "end_seconds": 639.2,
+    "text": "risk that it adds to a portfolio. In"
+  },
+  {
+    "start": "00:10:39.200",
+    "end": "00:10:41.990",
+    "start_seconds": 639.2,
+    "end_seconds": 641.99,
+    "text": "risk that it adds to a portfolio. In fact, we can argue that finance as we"
+  },
+  {
+    "start": "00:10:41.990",
+    "end": "00:10:42.000",
+    "start_seconds": 641.99,
+    "end_seconds": 642.0,
+    "text": "fact, we can argue that finance as we"
+  },
+  {
+    "start": "00:10:42.000",
+    "end": "00:10:45.110",
+    "start_seconds": 642.0,
+    "end_seconds": 645.11,
+    "text": "fact, we can argue that finance as we know it was born out of one man Harry"
+  },
+  {
+    "start": "00:10:45.110",
+    "end": "00:10:45.120",
+    "start_seconds": 645.11,
+    "end_seconds": 645.12,
+    "text": "know it was born out of one man Harry"
+  },
+  {
+    "start": "00:10:45.120",
+    "end": "00:10:48.949",
+    "start_seconds": 645.12,
+    "end_seconds": 648.949,
+    "text": "know it was born out of one man Harry Marow is walking into a library in 19"
+  },
+  {
+    "start": "00:10:48.949",
+    "end": "00:10:48.959",
+    "start_seconds": 648.949,
+    "end_seconds": 648.9590000000001,
+    "text": "Marow is walking into a library in 19"
+  },
+  {
+    "start": "00:10:48.959",
+    "end": "00:10:52.470",
+    "start_seconds": 648.9590000000001,
+    "end_seconds": 652.47,
+    "text": "Marow is walking into a library in 19 the early 50s and getting caught up in"
+  },
+  {
+    "start": "00:10:52.470",
+    "end": "00:10:52.480",
+    "start_seconds": 652.47,
+    "end_seconds": 652.48,
+    "text": "the early 50s and getting caught up in"
+  },
+  {
+    "start": "00:10:52.480",
+    "end": "00:10:54.949",
+    "start_seconds": 652.48,
+    "end_seconds": 654.949,
+    "text": "the early 50s and getting caught up in this issue of hey why do we think of"
+  },
+  {
+    "start": "00:10:54.949",
+    "end": "00:10:54.959",
+    "start_seconds": 654.949,
+    "end_seconds": 654.9590000000001,
+    "text": "this issue of hey why do we think of"
+  },
+  {
+    "start": "00:10:54.959",
+    "end": "00:10:57.990",
+    "start_seconds": 654.9590000000001,
+    "end_seconds": 657.99,
+    "text": "this issue of hey why do we think of risk in terms of a stock alone when in"
+  },
+  {
+    "start": "00:10:57.990",
+    "end": "00:10:58.000",
+    "start_seconds": 657.99,
+    "end_seconds": 658.0,
+    "text": "risk in terms of a stock alone when in"
+  },
+  {
+    "start": "00:10:58.000",
+    "end": "00:11:00.710",
+    "start_seconds": 658.0,
+    "end_seconds": 660.71,
+    "text": "risk in terms of a stock alone when in fact we have portfolios that the risk"
+  },
+  {
+    "start": "00:11:00.710",
+    "end": "00:11:00.720",
+    "start_seconds": 660.71,
+    "end_seconds": 660.72,
+    "text": "fact we have portfolios that the risk"
+  },
+  {
+    "start": "00:11:00.720",
+    "end": "00:11:02.949",
+    "start_seconds": 660.72,
+    "end_seconds": 662.949,
+    "text": "fact we have portfolios that the risk add to a portfolio should be the way we"
+  },
+  {
+    "start": "00:11:02.949",
+    "end": "00:11:02.959",
+    "start_seconds": 662.949,
+    "end_seconds": 662.959,
+    "text": "add to a portfolio should be the way we"
+  },
+  {
+    "start": "00:11:02.959",
+    "end": "00:11:06.389",
+    "start_seconds": 662.959,
+    "end_seconds": 666.389,
+    "text": "add to a portfolio should be the way we think about risk. Now to see why the two"
+  },
+  {
+    "start": "00:11:06.389",
+    "end": "00:11:06.399",
+    "start_seconds": 666.389,
+    "end_seconds": 666.399,
+    "text": "think about risk. Now to see why the two"
+  },
+  {
+    "start": "00:11:06.399",
+    "end": "00:11:08.790",
+    "start_seconds": 666.399,
+    "end_seconds": 668.79,
+    "text": "think about risk. Now to see why the two could be different, let's go back to"
+  },
+  {
+    "start": "00:11:08.790",
+    "end": "00:11:08.800",
+    "start_seconds": 668.79,
+    "end_seconds": 668.8,
+    "text": "could be different, let's go back to"
+  },
+  {
+    "start": "00:11:08.800",
+    "end": "00:11:11.350",
+    "start_seconds": 668.8,
+    "end_seconds": 671.35,
+    "text": "could be different, let's go back to what happens when you go from one stock"
+  },
+  {
+    "start": "00:11:11.350",
+    "end": "00:11:11.360",
+    "start_seconds": 671.35,
+    "end_seconds": 671.36,
+    "text": "what happens when you go from one stock"
+  },
+  {
+    "start": "00:11:11.360",
+    "end": "00:11:13.670",
+    "start_seconds": 671.36,
+    "end_seconds": 673.67,
+    "text": "what happens when you go from one stock to two stocks to five stocks to 10"
+  },
+  {
+    "start": "00:11:13.670",
+    "end": "00:11:13.680",
+    "start_seconds": 673.67,
+    "end_seconds": 673.68,
+    "text": "to two stocks to five stocks to 10"
+  },
+  {
+    "start": "00:11:13.680",
+    "end": "00:11:16.230",
+    "start_seconds": 673.68,
+    "end_seconds": 676.23,
+    "text": "to two stocks to five stocks to 10 stocks to 50 stocks in your portfolio."
+  },
+  {
+    "start": "00:11:16.230",
+    "end": "00:11:16.240",
+    "start_seconds": 676.23,
+    "end_seconds": 676.24,
+    "text": "stocks to 50 stocks in your portfolio."
+  },
+  {
+    "start": "00:11:16.240",
+    "end": "00:11:18.389",
+    "start_seconds": 676.24,
+    "end_seconds": 678.389,
+    "text": "stocks to 50 stocks in your portfolio. First, each investment becomes a smaller"
+  },
+  {
+    "start": "00:11:18.389",
+    "end": "00:11:18.399",
+    "start_seconds": 678.389,
+    "end_seconds": 678.399,
+    "text": "First, each investment becomes a smaller"
+  },
+  {
+    "start": "00:11:18.399",
+    "end": "00:11:20.550",
+    "start_seconds": 678.399,
+    "end_seconds": 680.55,
+    "text": "First, each investment becomes a smaller portion of the portfolio."
+  },
+  {
+    "start": "00:11:20.550",
+    "end": "00:11:20.560",
+    "start_seconds": 680.55,
+    "end_seconds": 680.56,
+    "text": "portion of the portfolio."
+  },
+  {
+    "start": "00:11:20.560",
+    "end": "00:11:22.310",
+    "start_seconds": 680.56,
+    "end_seconds": 682.31,
+    "text": "portion of the portfolio. So the investment has a bad day or a"
+  },
+  {
+    "start": "00:11:22.310",
+    "end": "00:11:22.320",
+    "start_seconds": 682.31,
+    "end_seconds": 682.32,
+    "text": "So the investment has a bad day or a"
+  },
+  {
+    "start": "00:11:22.320",
+    "end": "00:11:24.389",
+    "start_seconds": 682.32,
+    "end_seconds": 684.389,
+    "text": "So the investment has a bad day or a good day, the effect on your portfolio"
+  },
+  {
+    "start": "00:11:24.389",
+    "end": "00:11:24.399",
+    "start_seconds": 684.389,
+    "end_seconds": 684.399,
+    "text": "good day, the effect on your portfolio"
+  },
+  {
+    "start": "00:11:24.399",
+    "end": "00:11:26.470",
+    "start_seconds": 684.399,
+    "end_seconds": 686.47,
+    "text": "good day, the effect on your portfolio be much smaller."
+  },
+  {
+    "start": "00:11:26.470",
+    "end": "00:11:26.480",
+    "start_seconds": 686.47,
+    "end_seconds": 686.48,
+    "text": "be much smaller."
+  },
+  {
+    "start": "00:11:26.480",
+    "end": "00:11:27.910",
+    "start_seconds": 686.48,
+    "end_seconds": 687.91,
+    "text": "be much smaller. But here's the other and much more"
+  },
+  {
+    "start": "00:11:27.910",
+    "end": "00:11:27.920",
+    "start_seconds": 687.91,
+    "end_seconds": 687.92,
+    "text": "But here's the other and much more"
+  },
+  {
+    "start": "00:11:27.920",
+    "end": "00:11:30.550",
+    "start_seconds": 687.92,
+    "end_seconds": 690.55,
+    "text": "But here's the other and much more critical aspect on each of these stocks."
+  },
+  {
+    "start": "00:11:30.550",
+    "end": "00:11:30.560",
+    "start_seconds": 690.55,
+    "end_seconds": 690.56,
+    "text": "critical aspect on each of these stocks."
+  },
+  {
+    "start": "00:11:30.560",
+    "end": "00:11:32.550",
+    "start_seconds": 690.56,
+    "end_seconds": 692.55,
+    "text": "critical aspect on each of these stocks. Things can happen that are specific to"
+  },
+  {
+    "start": "00:11:32.550",
+    "end": "00:11:32.560",
+    "start_seconds": 692.55,
+    "end_seconds": 692.56,
+    "text": "Things can happen that are specific to"
+  },
+  {
+    "start": "00:11:32.560",
+    "end": "00:11:34.870",
+    "start_seconds": 692.56,
+    "end_seconds": 694.87,
+    "text": "Things can happen that are specific to the stock, right? good things, bad"
+  },
+  {
+    "start": "00:11:34.870",
+    "end": "00:11:34.880",
+    "start_seconds": 694.87,
+    "end_seconds": 694.88,
+    "text": "the stock, right? good things, bad"
+  },
+  {
+    "start": "00:11:34.880",
+    "end": "00:11:38.150",
+    "start_seconds": 694.88,
+    "end_seconds": 698.15,
+    "text": "the stock, right? good things, bad things. And the law of large numbers"
+  },
+  {
+    "start": "00:11:38.150",
+    "end": "00:11:38.160",
+    "start_seconds": 698.15,
+    "end_seconds": 698.16,
+    "text": "things. And the law of large numbers"
+  },
+  {
+    "start": "00:11:38.160",
+    "end": "00:11:40.790",
+    "start_seconds": 698.16,
+    "end_seconds": 700.79,
+    "text": "things. And the law of large numbers becomes the mechanism that plays out"
+  },
+  {
+    "start": "00:11:40.790",
+    "end": "00:11:40.800",
+    "start_seconds": 700.79,
+    "end_seconds": 700.8,
+    "text": "becomes the mechanism that plays out"
+  },
+  {
+    "start": "00:11:40.800",
+    "end": "00:11:42.069",
+    "start_seconds": 700.8,
+    "end_seconds": 702.069,
+    "text": "becomes the mechanism that plays out across your portfolio. In other words,"
+  },
+  {
+    "start": "00:11:42.069",
+    "end": "00:11:42.079",
+    "start_seconds": 702.069,
+    "end_seconds": 702.079,
+    "text": "across your portfolio. In other words,"
+  },
+  {
+    "start": "00:11:42.079",
+    "end": "00:11:44.150",
+    "start_seconds": 702.079,
+    "end_seconds": 704.15,
+    "text": "across your portfolio. In other words, if you have 50 stocks, you might have"
+  },
+  {
+    "start": "00:11:44.150",
+    "end": "00:11:44.160",
+    "start_seconds": 704.15,
+    "end_seconds": 704.16,
+    "text": "if you have 50 stocks, you might have"
+  },
+  {
+    "start": "00:11:44.160",
+    "end": "00:11:45.670",
+    "start_seconds": 704.16,
+    "end_seconds": 705.67,
+    "text": "if you have 50 stocks, you might have three stocks where something good"
+  },
+  {
+    "start": "00:11:45.670",
+    "end": "00:11:45.680",
+    "start_seconds": 705.67,
+    "end_seconds": 705.68,
+    "text": "three stocks where something good"
+  },
+  {
+    "start": "00:11:45.680",
+    "end": "00:11:47.269",
+    "start_seconds": 705.68,
+    "end_seconds": 707.269,
+    "text": "three stocks where something good happens, three stocks where something"
+  },
+  {
+    "start": "00:11:47.269",
+    "end": "00:11:47.279",
+    "start_seconds": 707.269,
+    "end_seconds": 707.279,
+    "text": "happens, three stocks where something"
+  },
+  {
+    "start": "00:11:47.279",
+    "end": "00:11:49.509",
+    "start_seconds": 707.279,
+    "end_seconds": 709.509,
+    "text": "happens, three stocks where something bad happens, and 44 stocks where nothing"
+  },
+  {
+    "start": "00:11:49.509",
+    "end": "00:11:49.519",
+    "start_seconds": 709.509,
+    "end_seconds": 709.519,
+    "text": "bad happens, and 44 stocks where nothing"
+  },
+  {
+    "start": "00:11:49.519",
+    "end": "00:11:51.750",
+    "start_seconds": 709.519,
+    "end_seconds": 711.75,
+    "text": "bad happens, and 44 stocks where nothing happens. There's an averaging out that"
+  },
+  {
+    "start": "00:11:51.750",
+    "end": "00:11:51.760",
+    "start_seconds": 711.75,
+    "end_seconds": 711.76,
+    "text": "happens. There's an averaging out that"
+  },
+  {
+    "start": "00:11:51.760",
+    "end": "00:11:54.230",
+    "start_seconds": 711.76,
+    "end_seconds": 714.23,
+    "text": "happens. There's an averaging out that happens over time."
+  },
+  {
+    "start": "00:11:54.230",
+    "end": "00:11:54.240",
+    "start_seconds": 714.23,
+    "end_seconds": 714.24,
+    "text": "happens over time."
+  },
+  {
+    "start": "00:11:54.240",
+    "end": "00:11:56.790",
+    "start_seconds": 714.24,
+    "end_seconds": 716.79,
+    "text": "happens over time. that ladder benefit or the the averaging"
+  },
+  {
+    "start": "00:11:56.790",
+    "end": "00:11:56.800",
+    "start_seconds": 716.79,
+    "end_seconds": 716.8,
+    "text": "that ladder benefit or the the averaging"
+  },
+  {
+    "start": "00:11:56.800",
+    "end": "00:11:59.110",
+    "start_seconds": 716.8,
+    "end_seconds": 719.11,
+    "text": "that ladder benefit or the the averaging out is going to be greater if your"
+  },
+  {
+    "start": "00:11:59.110",
+    "end": "00:11:59.120",
+    "start_seconds": 719.11,
+    "end_seconds": 719.12,
+    "text": "out is going to be greater if your"
+  },
+  {
+    "start": "00:11:59.120",
+    "end": "00:12:00.870",
+    "start_seconds": 719.12,
+    "end_seconds": 720.87,
+    "text": "out is going to be greater if your investments don't all if every"
+  },
+  {
+    "start": "00:12:00.870",
+    "end": "00:12:00.880",
+    "start_seconds": 720.87,
+    "end_seconds": 720.88,
+    "text": "investments don't all if every"
+  },
+  {
+    "start": "00:12:00.880",
+    "end": "00:12:02.470",
+    "start_seconds": 720.88,
+    "end_seconds": 722.47,
+    "text": "investments don't all if every investment that you have moves in"
+  },
+  {
+    "start": "00:12:02.470",
+    "end": "00:12:02.480",
+    "start_seconds": 722.47,
+    "end_seconds": 722.48,
+    "text": "investment that you have moves in"
+  },
+  {
+    "start": "00:12:02.480",
+    "end": "00:12:03.829",
+    "start_seconds": 722.48,
+    "end_seconds": 723.829,
+    "text": "investment that you have moves in proportion to the other investments"
+  },
+  {
+    "start": "00:12:03.829",
+    "end": "00:12:03.839",
+    "start_seconds": 723.829,
+    "end_seconds": 723.839,
+    "text": "proportion to the other investments"
+  },
+  {
+    "start": "00:12:03.839",
+    "end": "00:12:05.910",
+    "start_seconds": 723.839,
+    "end_seconds": 725.91,
+    "text": "proportion to the other investments there's no benefit but the less they"
+  },
+  {
+    "start": "00:12:05.910",
+    "end": "00:12:05.920",
+    "start_seconds": 725.91,
+    "end_seconds": 725.92,
+    "text": "there's no benefit but the less they"
+  },
+  {
+    "start": "00:12:05.920",
+    "end": "00:12:07.910",
+    "start_seconds": 725.92,
+    "end_seconds": 727.91,
+    "text": "there's no benefit but the less they move together the greater the benefit"
+  },
+  {
+    "start": "00:12:07.910",
+    "end": "00:12:07.920",
+    "start_seconds": 727.91,
+    "end_seconds": 727.92,
+    "text": "move together the greater the benefit"
+  },
+  {
+    "start": "00:12:07.920",
+    "end": "00:12:09.350",
+    "start_seconds": 727.92,
+    "end_seconds": 729.35,
+    "text": "move together the greater the benefit this is what we capture with a"
+  },
+  {
+    "start": "00:12:09.350",
+    "end": "00:12:09.360",
+    "start_seconds": 729.35,
+    "end_seconds": 729.36,
+    "text": "this is what we capture with a"
+  },
+  {
+    "start": "00:12:09.360",
+    "end": "00:12:13.110",
+    "start_seconds": 729.36,
+    "end_seconds": 733.11,
+    "text": "this is what we capture with a correlation across investments"
+  },
+  {
+    "start": "00:12:13.110",
+    "end": "00:12:13.120",
+    "start_seconds": 733.11,
+    "end_seconds": 733.12,
+    "text": "correlation across investments"
+  },
+  {
+    "start": "00:12:13.120",
+    "end": "00:12:15.590",
+    "start_seconds": 733.12,
+    "end_seconds": 735.59,
+    "text": "correlation across investments now I can show this benefit very simply"
+  },
+  {
+    "start": "00:12:15.590",
+    "end": "00:12:15.600",
+    "start_seconds": 735.59,
+    "end_seconds": 735.6,
+    "text": "now I can show this benefit very simply"
+  },
+  {
+    "start": "00:12:15.600",
+    "end": "00:12:18.949",
+    "start_seconds": 735.6,
+    "end_seconds": 738.949,
+    "text": "now I can show this benefit very simply with a statistical effect what I've done"
+  },
+  {
+    "start": "00:12:18.949",
+    "end": "00:12:18.959",
+    "start_seconds": 738.949,
+    "end_seconds": 738.959,
+    "text": "with a statistical effect what I've done"
+  },
+  {
+    "start": "00:12:18.959",
+    "end": "00:12:20.550",
+    "start_seconds": 738.959,
+    "end_seconds": 740.55,
+    "text": "with a statistical effect what I've done here is looked at what happens the"
+  },
+  {
+    "start": "00:12:20.550",
+    "end": "00:12:20.560",
+    "start_seconds": 740.55,
+    "end_seconds": 740.56,
+    "text": "here is looked at what happens the"
+  },
+  {
+    "start": "00:12:20.560",
+    "end": "00:12:22.470",
+    "start_seconds": 740.56,
+    "end_seconds": 742.47,
+    "text": "here is looked at what happens the standard deviation of a portfolio as you"
+  },
+  {
+    "start": "00:12:22.470",
+    "end": "00:12:22.480",
+    "start_seconds": 742.47,
+    "end_seconds": 742.48,
+    "text": "standard deviation of a portfolio as you"
+  },
+  {
+    "start": "00:12:22.480",
+    "end": "00:12:26.069",
+    "start_seconds": 742.48,
+    "end_seconds": 746.069,
+    "text": "standard deviation of a portfolio as you go from one stock to 50 stocks. See that"
+  },
+  {
+    "start": "00:12:26.069",
+    "end": "00:12:26.079",
+    "start_seconds": 746.069,
+    "end_seconds": 746.079,
+    "text": "go from one stock to 50 stocks. See that"
+  },
+  {
+    "start": "00:12:26.079",
+    "end": "00:12:27.269",
+    "start_seconds": 746.079,
+    "end_seconds": 747.269,
+    "text": "go from one stock to 50 stocks. See that first line? Nothing happens. You're"
+  },
+  {
+    "start": "00:12:27.269",
+    "end": "00:12:27.279",
+    "start_seconds": 747.269,
+    "end_seconds": 747.279,
+    "text": "first line? Nothing happens. You're"
+  },
+  {
+    "start": "00:12:27.279",
+    "end": "00:12:29.269",
+    "start_seconds": 747.279,
+    "end_seconds": 749.269,
+    "text": "first line? Nothing happens. You're saying how come? Because that's a"
+  },
+  {
+    "start": "00:12:29.269",
+    "end": "00:12:29.279",
+    "start_seconds": 749.269,
+    "end_seconds": 749.279,
+    "text": "saying how come? Because that's a"
+  },
+  {
+    "start": "00:12:29.279",
+    "end": "00:12:31.269",
+    "start_seconds": 749.279,
+    "end_seconds": 751.269,
+    "text": "saying how come? Because that's a scenario where the correlation is one."
+  },
+  {
+    "start": "00:12:31.269",
+    "end": "00:12:31.279",
+    "start_seconds": 751.269,
+    "end_seconds": 751.279,
+    "text": "scenario where the correlation is one."
+  },
+  {
+    "start": "00:12:31.279",
+    "end": "00:12:33.990",
+    "start_seconds": 751.279,
+    "end_seconds": 753.99,
+    "text": "scenario where the correlation is one. The stocks move in perfect proportion to"
+  },
+  {
+    "start": "00:12:33.990",
+    "end": "00:12:34.000",
+    "start_seconds": 753.99,
+    "end_seconds": 754.0,
+    "text": "The stocks move in perfect proportion to"
+  },
+  {
+    "start": "00:12:34.000",
+    "end": "00:12:36.230",
+    "start_seconds": 754.0,
+    "end_seconds": 756.23,
+    "text": "The stocks move in perfect proportion to each other. As the correlation"
+  },
+  {
+    "start": "00:12:36.230",
+    "end": "00:12:36.240",
+    "start_seconds": 756.23,
+    "end_seconds": 756.24,
+    "text": "each other. As the correlation"
+  },
+  {
+    "start": "00:12:36.240",
+    "end": "00:12:39.750",
+    "start_seconds": 756.24,
+    "end_seconds": 759.75,
+    "text": "each other. As the correlation decreases, the benefits to to port to"
+  },
+  {
+    "start": "00:12:39.750",
+    "end": "00:12:39.760",
+    "start_seconds": 759.75,
+    "end_seconds": 759.76,
+    "text": "decreases, the benefits to to port to"
+  },
+  {
+    "start": "00:12:39.760",
+    "end": "00:12:42.470",
+    "start_seconds": 759.76,
+    "end_seconds": 762.47,
+    "text": "decreases, the benefits to to port to having a portfolio increase. In fact, at"
+  },
+  {
+    "start": "00:12:42.470",
+    "end": "00:12:42.480",
+    "start_seconds": 762.47,
+    "end_seconds": 762.48,
+    "text": "having a portfolio increase. In fact, at"
+  },
+  {
+    "start": "00:12:42.480",
+    "end": "00:12:45.030",
+    "start_seconds": 762.48,
+    "end_seconds": 765.03,
+    "text": "having a portfolio increase. In fact, at the limit, if you have 50 uncorrelated"
+  },
+  {
+    "start": "00:12:45.030",
+    "end": "00:12:45.040",
+    "start_seconds": 765.03,
+    "end_seconds": 765.04,
+    "text": "the limit, if you have 50 uncorrelated"
+  },
+  {
+    "start": "00:12:45.040",
+    "end": "00:12:47.269",
+    "start_seconds": 765.04,
+    "end_seconds": 767.269,
+    "text": "the limit, if you have 50 uncorrelated assets, the standard deviation of the"
+  },
+  {
+    "start": "00:12:47.269",
+    "end": "00:12:47.279",
+    "start_seconds": 767.269,
+    "end_seconds": 767.279,
+    "text": "assets, the standard deviation of the"
+  },
+  {
+    "start": "00:12:47.279",
+    "end": "00:12:49.750",
+    "start_seconds": 767.279,
+    "end_seconds": 769.75,
+    "text": "assets, the standard deviation of the portfolio is only 5%. even though the"
+  },
+  {
+    "start": "00:12:49.750",
+    "end": "00:12:49.760",
+    "start_seconds": 769.75,
+    "end_seconds": 769.76,
+    "text": "portfolio is only 5%. even though the"
+  },
+  {
+    "start": "00:12:49.760",
+    "end": "00:12:52.069",
+    "start_seconds": 769.76,
+    "end_seconds": 772.069,
+    "text": "portfolio is only 5%. even though the individual investments you put in each"
+  },
+  {
+    "start": "00:12:52.069",
+    "end": "00:12:52.079",
+    "start_seconds": 772.069,
+    "end_seconds": 772.079,
+    "text": "individual investments you put in each"
+  },
+  {
+    "start": "00:12:52.079",
+    "end": "00:12:55.590",
+    "start_seconds": 772.079,
+    "end_seconds": 775.59,
+    "text": "individual investments you put in each headphone this is portfolio magic and"
+  },
+  {
+    "start": "00:12:55.590",
+    "end": "00:12:55.600",
+    "start_seconds": 775.59,
+    "end_seconds": 775.6,
+    "text": "headphone this is portfolio magic and"
+  },
+  {
+    "start": "00:12:55.600",
+    "end": "00:12:58.069",
+    "start_seconds": 775.6,
+    "end_seconds": 778.069,
+    "text": "headphone this is portfolio magic and I'll also tell you that if you put 50"
+  },
+  {
+    "start": "00:12:58.069",
+    "end": "00:12:58.079",
+    "start_seconds": 778.069,
+    "end_seconds": 778.079,
+    "text": "I'll also tell you that if you put 50"
+  },
+  {
+    "start": "00:12:58.079",
+    "end": "00:12:59.829",
+    "start_seconds": 778.079,
+    "end_seconds": 779.829,
+    "text": "I'll also tell you that if you put 50 stocks together there's almost zero"
+  },
+  {
+    "start": "00:12:59.829",
+    "end": "00:12:59.839",
+    "start_seconds": 779.829,
+    "end_seconds": 779.8389999999999,
+    "text": "stocks together there's almost zero"
+  },
+  {
+    "start": "00:12:59.839",
+    "end": "00:13:01.670",
+    "start_seconds": 779.8389999999999,
+    "end_seconds": 781.67,
+    "text": "stocks together there's almost zero chance that they will be uncorrelated"
+  },
+  {
+    "start": "00:13:01.670",
+    "end": "00:13:01.680",
+    "start_seconds": 781.67,
+    "end_seconds": 781.68,
+    "text": "chance that they will be uncorrelated"
+  },
+  {
+    "start": "00:13:01.680",
+    "end": "00:13:03.110",
+    "start_seconds": 781.68,
+    "end_seconds": 783.11,
+    "text": "chance that they will be uncorrelated with each other have a correlation of"
+  },
+  {
+    "start": "00:13:03.110",
+    "end": "00:13:03.120",
+    "start_seconds": 783.11,
+    "end_seconds": 783.12,
+    "text": "with each other have a correlation of"
+  },
+  {
+    "start": "00:13:03.120",
+    "end": "00:13:05.190",
+    "start_seconds": 783.12,
+    "end_seconds": 785.19,
+    "text": "with each other have a correlation of zero but even if they have a correlation"
+  },
+  {
+    "start": "00:13:05.190",
+    "end": "00:13:05.200",
+    "start_seconds": 785.19,
+    "end_seconds": 785.2,
+    "text": "zero but even if they have a correlation"
+  },
+  {
+    "start": "00:13:05.200",
+    "end": "00:13:07.829",
+    "start_seconds": 785.2,
+    "end_seconds": 787.829,
+    "text": "zero but even if they have a correlation of 6 or8 which is a pretty high"
+  },
+  {
+    "start": "00:13:07.829",
+    "end": "00:13:07.839",
+    "start_seconds": 787.829,
+    "end_seconds": 787.839,
+    "text": "of 6 or8 which is a pretty high"
+  },
+  {
+    "start": "00:13:07.839",
+    "end": "00:13:09.910",
+    "start_seconds": 787.839,
+    "end_seconds": 789.91,
+    "text": "of 6 or8 which is a pretty high correlation look at the benefits you"
+  },
+  {
+    "start": "00:13:09.910",
+    "end": "00:13:09.920",
+    "start_seconds": 789.91,
+    "end_seconds": 789.92,
+    "text": "correlation look at the benefits you"
+  },
+  {
+    "start": "00:13:09.920",
+    "end": "00:13:11.910",
+    "start_seconds": 789.92,
+    "end_seconds": 791.91,
+    "text": "correlation look at the benefits you still get with a 6 correlation your"
+  },
+  {
+    "start": "00:13:11.910",
+    "end": "00:13:11.920",
+    "start_seconds": 791.91,
+    "end_seconds": 791.92,
+    "text": "still get with a 6 correlation your"
+  },
+  {
+    "start": "00:13:11.920",
+    "end": "00:13:14.629",
+    "start_seconds": 791.92,
+    "end_seconds": 794.629,
+    "text": "still get with a 6 correlation your standard deviation goes from 40% down to"
+  },
+  {
+    "start": "00:13:14.629",
+    "end": "00:13:14.639",
+    "start_seconds": 794.629,
+    "end_seconds": 794.639,
+    "text": "standard deviation goes from 40% down to"
+  },
+  {
+    "start": "00:13:14.639",
+    "end": "00:13:16.389",
+    "start_seconds": 794.639,
+    "end_seconds": 796.389,
+    "text": "standard deviation goes from 40% down to 32%."
+  },
+  {
+    "start": "00:13:16.389",
+    "end": "00:13:16.399",
+    "start_seconds": 796.389,
+    "end_seconds": 796.399,
+    "text": "32%."
+  },
+  {
+    "start": "00:13:16.399",
+    "end": "00:13:20.470",
+    "start_seconds": 796.399,
+    "end_seconds": 800.47,
+    "text": "32%. That's the benefit of diversification."
+  },
+  {
+    "start": "00:13:20.470",
+    "end": "00:13:20.480",
+    "start_seconds": 800.47,
+    "end_seconds": 800.48,
+    "text": "That's the benefit of diversification."
+  },
+  {
+    "start": "00:13:20.480",
+    "end": "00:13:22.389",
+    "start_seconds": 800.48,
+    "end_seconds": 802.389,
+    "text": "That's the benefit of diversification. So when you think about when when the"
+  },
+  {
+    "start": "00:13:22.389",
+    "end": "00:13:22.399",
+    "start_seconds": 802.389,
+    "end_seconds": 802.399,
+    "text": "So when you think about when when the"
+  },
+  {
+    "start": "00:13:22.399",
+    "end": "00:13:24.150",
+    "start_seconds": 802.399,
+    "end_seconds": 804.15,
+    "text": "So when you think about when when the when you think about risk here are the b"
+  },
+  {
+    "start": "00:13:24.150",
+    "end": "00:13:24.160",
+    "start_seconds": 804.15,
+    "end_seconds": 804.16,
+    "text": "when you think about risk here are the b"
+  },
+  {
+    "start": "00:13:24.160",
+    "end": "00:13:27.269",
+    "start_seconds": 804.16,
+    "end_seconds": 807.269,
+    "text": "when you think about risk here are the b here's the bottom line. We can disagree"
+  },
+  {
+    "start": "00:13:27.269",
+    "end": "00:13:27.279",
+    "start_seconds": 807.269,
+    "end_seconds": 807.279,
+    "text": "here's the bottom line. We can disagree"
+  },
+  {
+    "start": "00:13:27.279",
+    "end": "00:13:29.110",
+    "start_seconds": 807.279,
+    "end_seconds": 809.11,
+    "text": "here's the bottom line. We can disagree but how to measure risk. Price risk"
+  },
+  {
+    "start": "00:13:29.110",
+    "end": "00:13:29.120",
+    "start_seconds": 809.11,
+    "end_seconds": 809.12,
+    "text": "but how to measure risk. Price risk"
+  },
+  {
+    "start": "00:13:29.120",
+    "end": "00:13:31.990",
+    "start_seconds": 809.12,
+    "end_seconds": 811.99,
+    "text": "but how to measure risk. Price risk versus cash flow risk."
+  },
+  {
+    "start": "00:13:31.990",
+    "end": "00:13:32.000",
+    "start_seconds": 811.99,
+    "end_seconds": 812.0,
+    "text": "versus cash flow risk."
+  },
+  {
+    "start": "00:13:32.000",
+    "end": "00:13:34.230",
+    "start_seconds": 812.0,
+    "end_seconds": 814.23,
+    "text": "versus cash flow risk. We could upside risk versus downside"
+  },
+  {
+    "start": "00:13:34.230",
+    "end": "00:13:34.240",
+    "start_seconds": 814.23,
+    "end_seconds": 814.24,
+    "text": "We could upside risk versus downside"
+  },
+  {
+    "start": "00:13:34.240",
+    "end": "00:13:36.470",
+    "start_seconds": 814.24,
+    "end_seconds": 816.47,
+    "text": "We could upside risk versus downside risk. But to argue that risk doesn't"
+  },
+  {
+    "start": "00:13:36.470",
+    "end": "00:13:36.480",
+    "start_seconds": 816.47,
+    "end_seconds": 816.48,
+    "text": "risk. But to argue that risk doesn't"
+  },
+  {
+    "start": "00:13:36.480",
+    "end": "00:13:39.750",
+    "start_seconds": 816.48,
+    "end_seconds": 819.75,
+    "text": "risk. But to argue that risk doesn't matter as an investor is foolhardy. Risk"
+  },
+  {
+    "start": "00:13:39.750",
+    "end": "00:13:39.760",
+    "start_seconds": 819.75,
+    "end_seconds": 819.76,
+    "text": "matter as an investor is foolhardy. Risk"
+  },
+  {
+    "start": "00:13:39.760",
+    "end": "00:13:42.629",
+    "start_seconds": 819.76,
+    "end_seconds": 822.629,
+    "text": "matter as an investor is foolhardy. Risk always does matter. And if you have"
+  },
+  {
+    "start": "00:13:42.629",
+    "end": "00:13:42.639",
+    "start_seconds": 822.629,
+    "end_seconds": 822.639,
+    "text": "always does matter. And if you have"
+  },
+  {
+    "start": "00:13:42.639",
+    "end": "00:13:44.310",
+    "start_seconds": 822.639,
+    "end_seconds": 824.31,
+    "text": "always does matter. And if you have different investment philosophies, you"
+  },
+  {
+    "start": "00:13:44.310",
+    "end": "00:13:44.320",
+    "start_seconds": 824.31,
+    "end_seconds": 824.32,
+    "text": "different investment philosophies, you"
+  },
+  {
+    "start": "00:13:44.320",
+    "end": "00:13:45.509",
+    "start_seconds": 824.32,
+    "end_seconds": 825.509,
+    "text": "different investment philosophies, you can come up with different measures of"
+  },
+  {
+    "start": "00:13:45.509",
+    "end": "00:13:45.519",
+    "start_seconds": 825.509,
+    "end_seconds": 825.519,
+    "text": "can come up with different measures of"
+  },
+  {
+    "start": "00:13:45.519",
+    "end": "00:13:47.269",
+    "start_seconds": 825.519,
+    "end_seconds": 827.269,
+    "text": "can come up with different measures of risk. If you're a true intrinsic value"
+  },
+  {
+    "start": "00:13:47.269",
+    "end": "00:13:47.279",
+    "start_seconds": 827.269,
+    "end_seconds": 827.279,
+    "text": "risk. If you're a true intrinsic value"
+  },
+  {
+    "start": "00:13:47.279",
+    "end": "00:13:48.790",
+    "start_seconds": 827.279,
+    "end_seconds": 828.79,
+    "text": "risk. If you're a true intrinsic value investor, you might decide your measure"
+  },
+  {
+    "start": "00:13:48.790",
+    "end": "00:13:48.800",
+    "start_seconds": 828.79,
+    "end_seconds": 828.8,
+    "text": "investor, you might decide your measure"
+  },
+  {
+    "start": "00:13:48.800",
+    "end": "00:13:51.509",
+    "start_seconds": 828.8,
+    "end_seconds": 831.509,
+    "text": "investor, you might decide your measure of risk is cash flow risk and only"
+  },
+  {
+    "start": "00:13:51.509",
+    "end": "00:13:51.519",
+    "start_seconds": 831.509,
+    "end_seconds": 831.519,
+    "text": "of risk is cash flow risk and only"
+  },
+  {
+    "start": "00:13:51.519",
+    "end": "00:13:55.269",
+    "start_seconds": 831.519,
+    "end_seconds": 835.269,
+    "text": "of risk is cash flow risk and only downside cash flow risk. Perfectly okay."
+  },
+  {
+    "start": "00:13:55.269",
+    "end": "00:13:55.279",
+    "start_seconds": 835.269,
+    "end_seconds": 835.279,
+    "text": "downside cash flow risk. Perfectly okay."
+  },
+  {
+    "start": "00:13:55.279",
+    "end": "00:13:57.030",
+    "start_seconds": 835.279,
+    "end_seconds": 837.03,
+    "text": "downside cash flow risk. Perfectly okay. If you're a trader, your risk might be"
+  },
+  {
+    "start": "00:13:57.030",
+    "end": "00:13:57.040",
+    "start_seconds": 837.03,
+    "end_seconds": 837.04,
+    "text": "If you're a trader, your risk might be"
+  },
+  {
+    "start": "00:13:57.040",
+    "end": "00:13:58.629",
+    "start_seconds": 837.04,
+    "end_seconds": 838.629,
+    "text": "If you're a trader, your risk might be total risk because that's what you think"
+  },
+  {
+    "start": "00:13:58.629",
+    "end": "00:13:58.639",
+    "start_seconds": 838.629,
+    "end_seconds": 838.639,
+    "text": "total risk because that's what you think"
+  },
+  {
+    "start": "00:13:58.639",
+    "end": "00:14:01.990",
+    "start_seconds": 838.639,
+    "end_seconds": 841.99,
+    "text": "total risk because that's what you think better fits you and in price."
+  },
+  {
+    "start": "00:14:01.990",
+    "end": "00:14:02.000",
+    "start_seconds": 841.99,
+    "end_seconds": 842.0,
+    "text": "better fits you and in price."
+  },
+  {
+    "start": "00:14:02.000",
+    "end": "00:14:04.389",
+    "start_seconds": 842.0,
+    "end_seconds": 844.389,
+    "text": "better fits you and in price. Every investor has to come up with a"
+  },
+  {
+    "start": "00:14:04.389",
+    "end": "00:14:04.399",
+    "start_seconds": 844.389,
+    "end_seconds": 844.399,
+    "text": "Every investor has to come up with a"
+  },
+  {
+    "start": "00:14:04.399",
+    "end": "00:14:06.629",
+    "start_seconds": 844.399,
+    "end_seconds": 846.629,
+    "text": "Every investor has to come up with a risk measure that fits their way of"
+  },
+  {
+    "start": "00:14:06.629",
+    "end": "00:14:06.639",
+    "start_seconds": 846.629,
+    "end_seconds": 846.639,
+    "text": "risk measure that fits their way of"
+  },
+  {
+    "start": "00:14:06.639",
+    "end": "00:14:08.470",
+    "start_seconds": 846.639,
+    "end_seconds": 848.47,
+    "text": "risk measure that fits their way of thinking about the world. And then"
+  },
+  {
+    "start": "00:14:08.470",
+    "end": "00:14:08.480",
+    "start_seconds": 848.47,
+    "end_seconds": 848.48,
+    "text": "thinking about the world. And then"
+  },
+  {
+    "start": "00:14:08.480",
+    "end": "00:14:11.350",
+    "start_seconds": 848.48,
+    "end_seconds": 851.35,
+    "text": "thinking about the world. And then here's I think the part that troubles"
+  },
+  {
+    "start": "00:14:11.350",
+    "end": "00:14:11.360",
+    "start_seconds": 851.35,
+    "end_seconds": 851.36,
+    "text": "here's I think the part that troubles"
+  },
+  {
+    "start": "00:14:11.360",
+    "end": "00:14:13.350",
+    "start_seconds": 851.36,
+    "end_seconds": 853.35,
+    "text": "here's I think the part that troubles investors the more and the reason"
+  },
+  {
+    "start": "00:14:13.350",
+    "end": "00:14:13.360",
+    "start_seconds": 853.35,
+    "end_seconds": 853.36,
+    "text": "investors the more and the reason"
+  },
+  {
+    "start": "00:14:13.360",
+    "end": "00:14:15.189",
+    "start_seconds": 853.36,
+    "end_seconds": 855.189,
+    "text": "investors the more and the reason they're so reluctant to even measure"
+  },
+  {
+    "start": "00:14:15.189",
+    "end": "00:14:15.199",
+    "start_seconds": 855.189,
+    "end_seconds": 855.199,
+    "text": "they're so reluctant to even measure"
+  },
+  {
+    "start": "00:14:15.199",
+    "end": "00:14:17.430",
+    "start_seconds": 855.199,
+    "end_seconds": 857.43,
+    "text": "they're so reluctant to even measure risk. Once you measure the risk, you"
+  },
+  {
+    "start": "00:14:17.430",
+    "end": "00:14:17.440",
+    "start_seconds": 857.43,
+    "end_seconds": 857.44,
+    "text": "risk. Once you measure the risk, you"
+  },
+  {
+    "start": "00:14:17.440",
+    "end": "00:14:18.949",
+    "start_seconds": 857.44,
+    "end_seconds": 858.949,
+    "text": "risk. Once you measure the risk, you then have to look at the returns you"
+  },
+  {
+    "start": "00:14:18.949",
+    "end": "00:14:18.959",
+    "start_seconds": 858.949,
+    "end_seconds": 858.959,
+    "text": "then have to look at the returns you"
+  },
+  {
+    "start": "00:14:18.959",
+    "end": "00:14:21.990",
+    "start_seconds": 858.959,
+    "end_seconds": 861.99,
+    "text": "then have to look at the returns you earned given that risk and ask yourself,"
+  },
+  {
+    "start": "00:14:21.990",
+    "end": "00:14:22.000",
+    "start_seconds": 861.99,
+    "end_seconds": 862.0,
+    "text": "earned given that risk and ask yourself,"
+  },
+  {
+    "start": "00:14:22.000",
+    "end": "00:14:24.230",
+    "start_seconds": 862.0,
+    "end_seconds": 864.23,
+    "text": "earned given that risk and ask yourself, is this worth it? Is what I'm doing"
+  },
+  {
+    "start": "00:14:24.230",
+    "end": "00:14:24.240",
+    "start_seconds": 864.23,
+    "end_seconds": 864.24,
+    "text": "is this worth it? Is what I'm doing"
+  },
+  {
+    "start": "00:14:24.240",
+    "end": "00:14:26.949",
+    "start_seconds": 864.24,
+    "end_seconds": 866.949,
+    "text": "is this worth it? Is what I'm doing adding value or should I go back to"
+  },
+  {
+    "start": "00:14:26.949",
+    "end": "00:14:26.959",
+    "start_seconds": 866.949,
+    "end_seconds": 866.959,
+    "text": "adding value or should I go back to"
+  },
+  {
+    "start": "00:14:26.959",
+    "end": "00:14:28.790",
+    "start_seconds": 866.959,
+    "end_seconds": 868.79,
+    "text": "adding value or should I go back to doing whatever I did with the rest of my"
+  },
+  {
+    "start": "00:14:28.790",
+    "end": "00:14:28.800",
+    "start_seconds": 868.79,
+    "end_seconds": 868.8,
+    "text": "doing whatever I did with the rest of my"
+  },
+  {
+    "start": "00:14:28.800",
+    "end": "00:14:31.829",
+    "start_seconds": 868.8,
+    "end_seconds": 871.829,
+    "text": "doing whatever I did with the rest of my life and put my investing on autopilot?"
+  },
+  {
+    "start": "00:14:31.829",
+    "end": "00:14:31.839",
+    "start_seconds": 871.829,
+    "end_seconds": 871.8389999999999,
+    "text": "life and put my investing on autopilot?"
+  },
+  {
+    "start": "00:14:31.839",
+    "end": "00:14:33.590",
+    "start_seconds": 871.8389999999999,
+    "end_seconds": 873.59,
+    "text": "life and put my investing on autopilot? You see, what's investing on autopilot?"
+  },
+  {
+    "start": "00:14:33.590",
+    "end": "00:14:33.600",
+    "start_seconds": 873.59,
+    "end_seconds": 873.6,
+    "text": "You see, what's investing on autopilot?"
+  },
+  {
+    "start": "00:14:33.600",
+    "end": "00:14:35.670",
+    "start_seconds": 873.6,
+    "end_seconds": 875.67,
+    "text": "You see, what's investing on autopilot? We'll talk about it. There are ways you"
+  },
+  {
+    "start": "00:14:35.670",
+    "end": "00:14:35.680",
+    "start_seconds": 875.67,
+    "end_seconds": 875.68,
+    "text": "We'll talk about it. There are ways you"
+  },
+  {
+    "start": "00:14:35.680",
+    "end": "00:14:37.750",
+    "start_seconds": 875.68,
+    "end_seconds": 877.75,
+    "text": "We'll talk about it. There are ways you can invest today on autopilot where you"
+  },
+  {
+    "start": "00:14:37.750",
+    "end": "00:14:37.760",
+    "start_seconds": 877.75,
+    "end_seconds": 877.76,
+    "text": "can invest today on autopilot where you"
+  },
+  {
+    "start": "00:14:37.760",
+    "end": "00:14:40.310",
+    "start_seconds": 877.76,
+    "end_seconds": 880.31,
+    "text": "can invest today on autopilot where you don't have to make those judgments. So"
+  },
+  {
+    "start": "00:14:40.310",
+    "end": "00:14:40.320",
+    "start_seconds": 880.31,
+    "end_seconds": 880.32,
+    "text": "don't have to make those judgments. So"
+  },
+  {
+    "start": "00:14:40.320",
+    "end": "00:14:42.389",
+    "start_seconds": 880.32,
+    "end_seconds": 882.389,
+    "text": "don't have to make those judgments. So in this session, we've at least in"
+  },
+  {
+    "start": "00:14:42.389",
+    "end": "00:14:42.399",
+    "start_seconds": 882.389,
+    "end_seconds": 882.399,
+    "text": "in this session, we've at least in"
+  },
+  {
+    "start": "00:14:42.399",
+    "end": "00:14:45.189",
+    "start_seconds": 882.399,
+    "end_seconds": 885.189,
+    "text": "in this session, we've at least in generic terms talked about risk as both"
+  },
+  {
+    "start": "00:14:45.189",
+    "end": "00:14:45.199",
+    "start_seconds": 885.189,
+    "end_seconds": 885.199,
+    "text": "generic terms talked about risk as both"
+  },
+  {
+    "start": "00:14:45.199",
+    "end": "00:14:47.670",
+    "start_seconds": 885.199,
+    "end_seconds": 887.67,
+    "text": "generic terms talked about risk as both good and bad, danger plus opportunity."
+  },
+  {
+    "start": "00:14:47.670",
+    "end": "00:14:47.680",
+    "start_seconds": 887.67,
+    "end_seconds": 887.68,
+    "text": "good and bad, danger plus opportunity."
+  },
+  {
+    "start": "00:14:47.680",
+    "end": "00:14:49.350",
+    "start_seconds": 887.68,
+    "end_seconds": 889.35,
+    "text": "good and bad, danger plus opportunity. Talked about the different perspectives"
+  },
+  {
+    "start": "00:14:49.350",
+    "end": "00:14:49.360",
+    "start_seconds": 889.35,
+    "end_seconds": 889.36,
+    "text": "Talked about the different perspectives"
+  },
+  {
+    "start": "00:14:49.360",
+    "end": "00:14:51.829",
+    "start_seconds": 889.36,
+    "end_seconds": 891.829,
+    "text": "Talked about the different perspectives on risk, cash flow versus price, total"
+  },
+  {
+    "start": "00:14:51.829",
+    "end": "00:14:51.839",
+    "start_seconds": 891.829,
+    "end_seconds": 891.8389999999999,
+    "text": "on risk, cash flow versus price, total"
+  },
+  {
+    "start": "00:14:51.839",
+    "end": "00:14:55.189",
+    "start_seconds": 891.8389999999999,
+    "end_seconds": 895.189,
+    "text": "on risk, cash flow versus price, total versus downside,"
+  },
+  {
+    "start": "00:14:55.189",
+    "end": "00:14:55.199",
+    "start_seconds": 895.189,
+    "end_seconds": 895.199,
+    "text": "versus downside,"
+  },
+  {
+    "start": "00:14:55.199",
+    "end": "00:14:58.150",
+    "start_seconds": 895.199,
+    "end_seconds": 898.15,
+    "text": "versus downside, portfolio versus standalone. But we have"
+  },
+  {
+    "start": "00:14:58.150",
+    "end": "00:14:58.160",
+    "start_seconds": 898.15,
+    "end_seconds": 898.16,
+    "text": "portfolio versus standalone. But we have"
+  },
+  {
+    "start": "00:14:58.160",
+    "end": "00:14:59.829",
+    "start_seconds": 898.16,
+    "end_seconds": 899.829,
+    "text": "portfolio versus standalone. But we have a foundation. In the next couple of"
+  },
+  {
+    "start": "00:14:59.829",
+    "end": "00:14:59.839",
+    "start_seconds": 899.829,
+    "end_seconds": 899.8389999999999,
+    "text": "a foundation. In the next couple of"
+  },
+  {
+    "start": "00:14:59.839",
+    "end": "00:15:01.670",
+    "start_seconds": 899.8389999999999,
+    "end_seconds": 901.67,
+    "text": "a foundation. In the next couple of sessions, we'll take that foundation and"
+  },
+  {
+    "start": "00:15:01.670",
+    "end": "00:15:01.680",
+    "start_seconds": 901.67,
+    "end_seconds": 901.68,
+    "text": "sessions, we'll take that foundation and"
+  },
+  {
+    "start": "00:15:01.680",
+    "end": "00:15:03.670",
+    "start_seconds": 901.68,
+    "end_seconds": 903.67,
+    "text": "sessions, we'll take that foundation and use it to come up with specific ways of"
+  },
+  {
+    "start": "00:15:03.670",
+    "end": "00:15:03.680",
+    "start_seconds": 903.67,
+    "end_seconds": 903.68,
+    "text": "use it to come up with specific ways of"
+  },
+  {
+    "start": "00:15:03.680",
+    "end": "00:15:06.470",
+    "start_seconds": 903.68,
+    "end_seconds": 906.47,
+    "text": "use it to come up with specific ways of measuring risk both in fixed income"
+  },
+  {
+    "start": "00:15:06.470",
+    "end": "00:15:06.480",
+    "start_seconds": 906.47,
+    "end_seconds": 906.48,
+    "text": "measuring risk both in fixed income"
+  },
+  {
+    "start": "00:15:06.480",
+    "end": "00:15:09.269",
+    "start_seconds": 906.48,
+    "end_seconds": 909.269,
+    "text": "measuring risk both in fixed income bonds as well as in equities. Thank you"
+  },
+  {
+    "start": "00:15:09.269",
+    "end": "00:15:09.279",
+    "start_seconds": 909.269,
+    "end_seconds": 909.279,
+    "text": "bonds as well as in equities. Thank you"
+  },
+  {
+    "start": "00:15:09.279",
+    "end": "00:15:11.430",
+    "start_seconds": 909.279,
+    "end_seconds": 911.43,
+    "text": "bonds as well as in equities. Thank you very much for listening"
+  },
+  {
+    "start": "00:15:11.430",
+    "end": "00:15:11.440",
+    "start_seconds": 911.43,
+    "end_seconds": 911.44,
+    "text": "very much for listening"
+  },
+  {
+    "start": "00:15:11.440",
+    "end": "00:15:14.720",
+    "start_seconds": 911.44,
+    "end_seconds": 914.72,
+    "text": "very much for listening and I'll see you in the next session."
+  }
+]

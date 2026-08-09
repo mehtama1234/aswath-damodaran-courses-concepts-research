@@ -1,0 +1,5371 @@
+[
+  {
+    "start": "00:00:00.520",
+    "end": "00:00:02.670",
+    "start_seconds": 0.52,
+    "end_seconds": 2.67,
+    "text": "Hi, welcome back."
+  },
+  {
+    "start": "00:00:02.670",
+    "end": "00:00:02.680",
+    "start_seconds": 2.67,
+    "end_seconds": 2.68,
+    "text": "Hi, welcome back."
+  },
+  {
+    "start": "00:00:02.680",
+    "end": "00:00:04.950",
+    "start_seconds": 2.68,
+    "end_seconds": 4.95,
+    "text": "Hi, welcome back. In this session, I want to move on and"
+  },
+  {
+    "start": "00:00:04.950",
+    "end": "00:00:04.960",
+    "start_seconds": 4.95,
+    "end_seconds": 4.96,
+    "text": "In this session, I want to move on and"
+  },
+  {
+    "start": "00:00:04.960",
+    "end": "00:00:07.190",
+    "start_seconds": 4.96,
+    "end_seconds": 7.19,
+    "text": "In this session, I want to move on and talk a little more specifically about"
+  },
+  {
+    "start": "00:00:07.190",
+    "end": "00:00:07.200",
+    "start_seconds": 7.19,
+    "end_seconds": 7.2,
+    "text": "talk a little more specifically about"
+  },
+  {
+    "start": "00:00:07.200",
+    "end": "00:00:09.510",
+    "start_seconds": 7.2,
+    "end_seconds": 9.51,
+    "text": "talk a little more specifically about risk, but with the easier of the two"
+  },
+  {
+    "start": "00:00:09.510",
+    "end": "00:00:09.520",
+    "start_seconds": 9.51,
+    "end_seconds": 9.52,
+    "text": "risk, but with the easier of the two"
+  },
+  {
+    "start": "00:00:09.520",
+    "end": "00:00:12.430",
+    "start_seconds": 9.52,
+    "end_seconds": 12.43,
+    "text": "risk, but with the easier of the two financial asset classes, bonds."
+  },
+  {
+    "start": "00:00:12.430",
+    "end": "00:00:12.440",
+    "start_seconds": 12.43,
+    "end_seconds": 12.44,
+    "text": "financial asset classes, bonds."
+  },
+  {
+    "start": "00:00:12.440",
+    "end": "00:00:14.550",
+    "start_seconds": 12.44,
+    "end_seconds": 14.55,
+    "text": "financial asset classes, bonds. The conventional wisdom is that bonds"
+  },
+  {
+    "start": "00:00:14.550",
+    "end": "00:00:14.560",
+    "start_seconds": 14.55,
+    "end_seconds": 14.56,
+    "text": "The conventional wisdom is that bonds"
+  },
+  {
+    "start": "00:00:14.560",
+    "end": "00:00:16.510",
+    "start_seconds": 14.56,
+    "end_seconds": 16.51,
+    "text": "The conventional wisdom is that bonds are safe, but that turns out to be too"
+  },
+  {
+    "start": "00:00:16.510",
+    "end": "00:00:16.520",
+    "start_seconds": 16.51,
+    "end_seconds": 16.52,
+    "text": "are safe, but that turns out to be too"
+  },
+  {
+    "start": "00:00:16.520",
+    "end": "00:00:18.590",
+    "start_seconds": 16.52,
+    "end_seconds": 18.59,
+    "text": "are safe, but that turns out to be too broad a brush. As we will see in this"
+  },
+  {
+    "start": "00:00:18.590",
+    "end": "00:00:18.600",
+    "start_seconds": 18.59,
+    "end_seconds": 18.6,
+    "text": "broad a brush. As we will see in this"
+  },
+  {
+    "start": "00:00:18.600",
+    "end": "00:00:21.030",
+    "start_seconds": 18.6,
+    "end_seconds": 21.03,
+    "text": "broad a brush. As we will see in this session, you can have a bond that's"
+  },
+  {
+    "start": "00:00:21.030",
+    "end": "00:00:21.040",
+    "start_seconds": 21.03,
+    "end_seconds": 21.04,
+    "text": "session, you can have a bond that's"
+  },
+  {
+    "start": "00:00:21.040",
+    "end": "00:00:23.310",
+    "start_seconds": 21.04,
+    "end_seconds": 23.31,
+    "text": "session, you can have a bond that's riskier than a than an average or a"
+  },
+  {
+    "start": "00:00:23.310",
+    "end": "00:00:23.320",
+    "start_seconds": 23.31,
+    "end_seconds": 23.32,
+    "text": "riskier than a than an average or a"
+  },
+  {
+    "start": "00:00:23.320",
+    "end": "00:00:25.110",
+    "start_seconds": 23.32,
+    "end_seconds": 25.11,
+    "text": "riskier than a than an average or a low-risk stock, and we have to talk"
+  },
+  {
+    "start": "00:00:25.110",
+    "end": "00:00:25.120",
+    "start_seconds": 25.11,
+    "end_seconds": 25.12,
+    "text": "low-risk stock, and we have to talk"
+  },
+  {
+    "start": "00:00:25.120",
+    "end": "00:00:27.270",
+    "start_seconds": 25.12,
+    "end_seconds": 27.27,
+    "text": "low-risk stock, and we have to talk about where that risk comes from."
+  },
+  {
+    "start": "00:00:27.270",
+    "end": "00:00:27.280",
+    "start_seconds": 27.27,
+    "end_seconds": 27.28,
+    "text": "about where that risk comes from."
+  },
+  {
+    "start": "00:00:27.280",
+    "end": "00:00:29.110",
+    "start_seconds": 27.28,
+    "end_seconds": 29.11,
+    "text": "about where that risk comes from. So, to start the process, let's think"
+  },
+  {
+    "start": "00:00:29.110",
+    "end": "00:00:29.120",
+    "start_seconds": 29.11,
+    "end_seconds": 29.12,
+    "text": "So, to start the process, let's think"
+  },
+  {
+    "start": "00:00:29.120",
+    "end": "00:00:31.510",
+    "start_seconds": 29.12,
+    "end_seconds": 31.51,
+    "text": "So, to start the process, let's think about the risk you face as an investor"
+  },
+  {
+    "start": "00:00:31.510",
+    "end": "00:00:31.520",
+    "start_seconds": 31.51,
+    "end_seconds": 31.52,
+    "text": "about the risk you face as an investor"
+  },
+  {
+    "start": "00:00:31.520",
+    "end": "00:00:33.270",
+    "start_seconds": 31.52,
+    "end_seconds": 33.27,
+    "text": "about the risk you face as an investor in a bond. And this is the same risk you"
+  },
+  {
+    "start": "00:00:33.270",
+    "end": "00:00:33.280",
+    "start_seconds": 33.27,
+    "end_seconds": 33.28,
+    "text": "in a bond. And this is the same risk you"
+  },
+  {
+    "start": "00:00:33.280",
+    "end": "00:00:34.950",
+    "start_seconds": 33.28,
+    "end_seconds": 34.95,
+    "text": "in a bond. And this is the same risk you face when you lend money to somebody"
+  },
+  {
+    "start": "00:00:34.950",
+    "end": "00:00:34.960",
+    "start_seconds": 34.95,
+    "end_seconds": 34.96,
+    "text": "face when you lend money to somebody"
+  },
+  {
+    "start": "00:00:34.960",
+    "end": "00:00:36.030",
+    "start_seconds": 34.96,
+    "end_seconds": 36.03,
+    "text": "face when you lend money to somebody else."
+  },
+  {
+    "start": "00:00:36.030",
+    "end": "00:00:36.040",
+    "start_seconds": 36.03,
+    "end_seconds": 36.04,
+    "text": "else."
+  },
+  {
+    "start": "00:00:36.040",
+    "end": "00:00:38.390",
+    "start_seconds": 36.04,
+    "end_seconds": 38.39,
+    "text": "else. Now, in a conventional bond, you are get"
+  },
+  {
+    "start": "00:00:38.390",
+    "end": "00:00:38.400",
+    "start_seconds": 38.39,
+    "end_seconds": 38.4,
+    "text": "Now, in a conventional bond, you are get"
+  },
+  {
+    "start": "00:00:38.400",
+    "end": "00:00:40.430",
+    "start_seconds": 38.4,
+    "end_seconds": 40.43,
+    "text": "Now, in a conventional bond, you are get you are promised fixed payments in the"
+  },
+  {
+    "start": "00:00:40.430",
+    "end": "00:00:40.440",
+    "start_seconds": 40.43,
+    "end_seconds": 40.44,
+    "text": "you are promised fixed payments in the"
+  },
+  {
+    "start": "00:00:40.440",
+    "end": "00:00:42.550",
+    "start_seconds": 40.44,
+    "end_seconds": 42.55,
+    "text": "you are promised fixed payments in the future, called coupons. At the end of"
+  },
+  {
+    "start": "00:00:42.550",
+    "end": "00:00:42.560",
+    "start_seconds": 42.55,
+    "end_seconds": 42.56,
+    "text": "future, called coupons. At the end of"
+  },
+  {
+    "start": "00:00:42.560",
+    "end": "00:00:44.350",
+    "start_seconds": 42.56,
+    "end_seconds": 44.35,
+    "text": "future, called coupons. At the end of the life of the bond, and bonds usually"
+  },
+  {
+    "start": "00:00:44.350",
+    "end": "00:00:44.360",
+    "start_seconds": 44.35,
+    "end_seconds": 44.36,
+    "text": "the life of the bond, and bonds usually"
+  },
+  {
+    "start": "00:00:44.360",
+    "end": "00:00:46.230",
+    "start_seconds": 44.36,
+    "end_seconds": 46.23,
+    "text": "the life of the bond, and bonds usually come with a finite life, you're given"
+  },
+  {
+    "start": "00:00:46.230",
+    "end": "00:00:46.240",
+    "start_seconds": 46.23,
+    "end_seconds": 46.24,
+    "text": "come with a finite life, you're given"
+  },
+  {
+    "start": "00:00:46.240",
+    "end": "00:00:47.870",
+    "start_seconds": 46.24,
+    "end_seconds": 47.87,
+    "text": "come with a finite life, you're given the face value of the bond back, the"
+  },
+  {
+    "start": "00:00:47.870",
+    "end": "00:00:47.880",
+    "start_seconds": 47.87,
+    "end_seconds": 47.88,
+    "text": "the face value of the bond back, the"
+  },
+  {
+    "start": "00:00:47.880",
+    "end": "00:00:49.750",
+    "start_seconds": 47.88,
+    "end_seconds": 49.75,
+    "text": "the face value of the bond back, the amount that was borrowed back. So, what"
+  },
+  {
+    "start": "00:00:49.750",
+    "end": "00:00:49.760",
+    "start_seconds": 49.75,
+    "end_seconds": 49.76,
+    "text": "amount that was borrowed back. So, what"
+  },
+  {
+    "start": "00:00:49.760",
+    "end": "00:00:52.110",
+    "start_seconds": 49.76,
+    "end_seconds": 52.11,
+    "text": "amount that was borrowed back. So, what can go wrong? First, even though the"
+  },
+  {
+    "start": "00:00:52.110",
+    "end": "00:00:52.120",
+    "start_seconds": 52.11,
+    "end_seconds": 52.12,
+    "text": "can go wrong? First, even though the"
+  },
+  {
+    "start": "00:00:52.120",
+    "end": "00:00:53.990",
+    "start_seconds": 52.12,
+    "end_seconds": 53.99,
+    "text": "can go wrong? First, even though the payments, the coupons are fixed and the"
+  },
+  {
+    "start": "00:00:53.990",
+    "end": "00:00:54.000",
+    "start_seconds": 53.99,
+    "end_seconds": 54.0,
+    "text": "payments, the coupons are fixed and the"
+  },
+  {
+    "start": "00:00:54.000",
+    "end": "00:00:56.750",
+    "start_seconds": 54.0,
+    "end_seconds": 56.75,
+    "text": "payments, the coupons are fixed and the face value is fixed, if interest rates"
+  },
+  {
+    "start": "00:00:56.750",
+    "end": "00:00:56.760",
+    "start_seconds": 56.75,
+    "end_seconds": 56.76,
+    "text": "face value is fixed, if interest rates"
+  },
+  {
+    "start": "00:00:56.760",
+    "end": "00:00:59.230",
+    "start_seconds": 56.76,
+    "end_seconds": 59.23,
+    "text": "face value is fixed, if interest rates change after you bought the bond, the"
+  },
+  {
+    "start": "00:00:59.230",
+    "end": "00:00:59.240",
+    "start_seconds": 59.23,
+    "end_seconds": 59.24,
+    "text": "change after you bought the bond, the"
+  },
+  {
+    "start": "00:00:59.240",
+    "end": "00:01:02.190",
+    "start_seconds": 59.24,
+    "end_seconds": 62.19,
+    "text": "change after you bought the bond, the price of your bond will change. We talk"
+  },
+  {
+    "start": "00:01:02.190",
+    "end": "00:01:02.200",
+    "start_seconds": 62.19,
+    "end_seconds": 62.2,
+    "text": "price of your bond will change. We talk"
+  },
+  {
+    "start": "00:01:02.200",
+    "end": "00:01:03.830",
+    "start_seconds": 62.2,
+    "end_seconds": 63.83,
+    "text": "price of your bond will change. We talk about that how much and which bonds are"
+  },
+  {
+    "start": "00:01:03.830",
+    "end": "00:01:03.840",
+    "start_seconds": 63.83,
+    "end_seconds": 63.84,
+    "text": "about that how much and which bonds are"
+  },
+  {
+    "start": "00:01:03.840",
+    "end": "00:01:06.310",
+    "start_seconds": 63.84,
+    "end_seconds": 66.31,
+    "text": "about that how much and which bonds are more exposed, but there's price risk"
+  },
+  {
+    "start": "00:01:06.310",
+    "end": "00:01:06.320",
+    "start_seconds": 66.31,
+    "end_seconds": 66.32,
+    "text": "more exposed, but there's price risk"
+  },
+  {
+    "start": "00:01:06.320",
+    "end": "00:01:08.190",
+    "start_seconds": 66.32,
+    "end_seconds": 68.19,
+    "text": "more exposed, but there's price risk coming from interest rate changing. So,"
+  },
+  {
+    "start": "00:01:08.190",
+    "end": "00:01:08.200",
+    "start_seconds": 68.19,
+    "end_seconds": 68.2,
+    "text": "coming from interest rate changing. So,"
+  },
+  {
+    "start": "00:01:08.200",
+    "end": "00:01:10.150",
+    "start_seconds": 68.2,
+    "end_seconds": 70.15,
+    "text": "coming from interest rate changing. So, think of that as risk in interest rates,"
+  },
+  {
+    "start": "00:01:10.150",
+    "end": "00:01:10.160",
+    "start_seconds": 70.15,
+    "end_seconds": 70.16,
+    "text": "think of that as risk in interest rates,"
+  },
+  {
+    "start": "00:01:10.160",
+    "end": "00:01:11.430",
+    "start_seconds": 70.16,
+    "end_seconds": 71.43,
+    "text": "think of that as risk in interest rates, and you're going to face that even if"
+  },
+  {
+    "start": "00:01:11.430",
+    "end": "00:01:11.440",
+    "start_seconds": 71.43,
+    "end_seconds": 71.44,
+    "text": "and you're going to face that even if"
+  },
+  {
+    "start": "00:01:11.440",
+    "end": "00:01:13.470",
+    "start_seconds": 71.44,
+    "end_seconds": 73.47,
+    "text": "and you're going to face that even if you buy a bond issued by an entity that"
+  },
+  {
+    "start": "00:01:13.470",
+    "end": "00:01:13.480",
+    "start_seconds": 73.47,
+    "end_seconds": 73.48,
+    "text": "you buy a bond issued by an entity that"
+  },
+  {
+    "start": "00:01:13.480",
+    "end": "00:01:15.550",
+    "start_seconds": 73.48,
+    "end_seconds": 75.55,
+    "text": "you buy a bond issued by an entity that has no default risk."
+  },
+  {
+    "start": "00:01:15.550",
+    "end": "00:01:15.560",
+    "start_seconds": 75.55,
+    "end_seconds": 75.56,
+    "text": "has no default risk."
+  },
+  {
+    "start": "00:01:15.560",
+    "end": "00:01:17.710",
+    "start_seconds": 75.56,
+    "end_seconds": 77.71000000000001,
+    "text": "has no default risk. Now, if you add default risk to the mix,"
+  },
+  {
+    "start": "00:01:17.710",
+    "end": "00:01:17.720",
+    "start_seconds": 77.71000000000001,
+    "end_seconds": 77.72,
+    "text": "Now, if you add default risk to the mix,"
+  },
+  {
+    "start": "00:01:17.720",
+    "end": "00:01:19.710",
+    "start_seconds": 77.72,
+    "end_seconds": 79.71000000000001,
+    "text": "Now, if you add default risk to the mix, that's a second risk you face. You"
+  },
+  {
+    "start": "00:01:19.710",
+    "end": "00:01:19.720",
+    "start_seconds": 79.71000000000001,
+    "end_seconds": 79.72,
+    "text": "that's a second risk you face. You"
+  },
+  {
+    "start": "00:01:19.720",
+    "end": "00:01:21.270",
+    "start_seconds": 79.72,
+    "end_seconds": 81.27,
+    "text": "that's a second risk you face. You promise you've been promised fixed"
+  },
+  {
+    "start": "00:01:21.270",
+    "end": "00:01:21.280",
+    "start_seconds": 81.27,
+    "end_seconds": 81.28,
+    "text": "promise you've been promised fixed"
+  },
+  {
+    "start": "00:01:21.280",
+    "end": "00:01:23.190",
+    "start_seconds": 81.28,
+    "end_seconds": 83.19,
+    "text": "promise you've been promised fixed payments, coupon payments, but those"
+  },
+  {
+    "start": "00:01:23.190",
+    "end": "00:01:23.200",
+    "start_seconds": 83.19,
+    "end_seconds": 83.2,
+    "text": "payments, coupon payments, but those"
+  },
+  {
+    "start": "00:01:23.200",
+    "end": "00:01:25.670",
+    "start_seconds": 83.2,
+    "end_seconds": 85.67,
+    "text": "payments, coupon payments, but those promises might not be delivered. The"
+  },
+  {
+    "start": "00:01:25.670",
+    "end": "00:01:25.680",
+    "start_seconds": 85.67,
+    "end_seconds": 85.68,
+    "text": "promises might not be delivered. The"
+  },
+  {
+    "start": "00:01:25.680",
+    "end": "00:01:27.590",
+    "start_seconds": 85.68,
+    "end_seconds": 87.59,
+    "text": "promises might not be delivered. The greater the risk that they will not be"
+  },
+  {
+    "start": "00:01:27.590",
+    "end": "00:01:27.600",
+    "start_seconds": 87.59,
+    "end_seconds": 87.6,
+    "text": "greater the risk that they will not be"
+  },
+  {
+    "start": "00:01:27.600",
+    "end": "00:01:29.670",
+    "start_seconds": 87.6,
+    "end_seconds": 89.67,
+    "text": "greater the risk that they will not be delivered, the greater the default risk,"
+  },
+  {
+    "start": "00:01:29.670",
+    "end": "00:01:29.680",
+    "start_seconds": 89.67,
+    "end_seconds": 89.68,
+    "text": "delivered, the greater the default risk,"
+  },
+  {
+    "start": "00:01:29.680",
+    "end": "00:01:31.470",
+    "start_seconds": 89.68,
+    "end_seconds": 91.47,
+    "text": "delivered, the greater the default risk, the greater the chance your returns will"
+  },
+  {
+    "start": "00:01:31.470",
+    "end": "00:01:31.480",
+    "start_seconds": 91.47,
+    "end_seconds": 91.48,
+    "text": "the greater the chance your returns will"
+  },
+  {
+    "start": "00:01:31.480",
+    "end": "00:01:33.790",
+    "start_seconds": 91.48,
+    "end_seconds": 93.78999999999999,
+    "text": "the greater the chance your returns will be volatile as a consequence."
+  },
+  {
+    "start": "00:01:33.790",
+    "end": "00:01:33.800",
+    "start_seconds": 93.78999999999999,
+    "end_seconds": 93.8,
+    "text": "be volatile as a consequence."
+  },
+  {
+    "start": "00:01:33.800",
+    "end": "00:01:36.550",
+    "start_seconds": 93.8,
+    "end_seconds": 96.55,
+    "text": "be volatile as a consequence. So, interest rate risk and default risk"
+  },
+  {
+    "start": "00:01:36.550",
+    "end": "00:01:36.560",
+    "start_seconds": 96.55,
+    "end_seconds": 96.56,
+    "text": "So, interest rate risk and default risk"
+  },
+  {
+    "start": "00:01:36.560",
+    "end": "00:01:39.030",
+    "start_seconds": 96.56,
+    "end_seconds": 99.03,
+    "text": "So, interest rate risk and default risk drive the risk in a bond."
+  },
+  {
+    "start": "00:01:39.030",
+    "end": "00:01:39.040",
+    "start_seconds": 99.03,
+    "end_seconds": 99.03999999999999,
+    "text": "drive the risk in a bond."
+  },
+  {
+    "start": "00:01:39.040",
+    "end": "00:01:42.190",
+    "start_seconds": 99.03999999999999,
+    "end_seconds": 102.19,
+    "text": "drive the risk in a bond. Let's start with interest rate risk."
+  },
+  {
+    "start": "00:01:42.190",
+    "end": "00:01:42.200",
+    "start_seconds": 102.19,
+    "end_seconds": 102.2,
+    "text": "Let's start with interest rate risk."
+  },
+  {
+    "start": "00:01:42.200",
+    "end": "00:01:44.070",
+    "start_seconds": 102.2,
+    "end_seconds": 104.07,
+    "text": "Let's start with interest rate risk. The coupons and the face value of a bond"
+  },
+  {
+    "start": "00:01:44.070",
+    "end": "00:01:44.080",
+    "start_seconds": 104.07,
+    "end_seconds": 104.08,
+    "text": "The coupons and the face value of a bond"
+  },
+  {
+    "start": "00:01:44.080",
+    "end": "00:01:46.470",
+    "start_seconds": 104.08,
+    "end_seconds": 106.47,
+    "text": "The coupons and the face value of a bond are set at the time of bond issuance."
+  },
+  {
+    "start": "00:01:46.470",
+    "end": "00:01:46.480",
+    "start_seconds": 106.47,
+    "end_seconds": 106.47999999999999,
+    "text": "are set at the time of bond issuance."
+  },
+  {
+    "start": "00:01:46.480",
+    "end": "00:01:47.750",
+    "start_seconds": 106.47999999999999,
+    "end_seconds": 107.75,
+    "text": "are set at the time of bond issuance. So, when you buy a bond, you know there"
+  },
+  {
+    "start": "00:01:47.750",
+    "end": "00:01:47.760",
+    "start_seconds": 107.75,
+    "end_seconds": 107.75999999999999,
+    "text": "So, when you buy a bond, you know there"
+  },
+  {
+    "start": "00:01:47.760",
+    "end": "00:01:49.830",
+    "start_seconds": 107.75999999999999,
+    "end_seconds": 109.83,
+    "text": "So, when you buy a bond, you know there are eight years of coupons, or 15 years"
+  },
+  {
+    "start": "00:01:49.830",
+    "end": "00:01:49.840",
+    "start_seconds": 109.83,
+    "end_seconds": 109.84,
+    "text": "are eight years of coupons, or 15 years"
+  },
+  {
+    "start": "00:01:49.840",
+    "end": "00:01:52.030",
+    "start_seconds": 109.84,
+    "end_seconds": 112.03,
+    "text": "are eight years of coupons, or 15 years of coupons, or 30 years of coupons. You"
+  },
+  {
+    "start": "00:01:52.030",
+    "end": "00:01:52.040",
+    "start_seconds": 112.03,
+    "end_seconds": 112.03999999999999,
+    "text": "of coupons, or 30 years of coupons. You"
+  },
+  {
+    "start": "00:01:52.040",
+    "end": "00:01:54.070",
+    "start_seconds": 112.03999999999999,
+    "end_seconds": 114.07,
+    "text": "of coupons, or 30 years of coupons. You know when the coupons will come, and you"
+  },
+  {
+    "start": "00:01:54.070",
+    "end": "00:01:54.080",
+    "start_seconds": 114.07,
+    "end_seconds": 114.08,
+    "text": "know when the coupons will come, and you"
+  },
+  {
+    "start": "00:01:54.080",
+    "end": "00:01:55.390",
+    "start_seconds": 114.08,
+    "end_seconds": 115.39,
+    "text": "know when the coupons will come, and you know the face value of the bond, usually"
+  },
+  {
+    "start": "00:01:55.390",
+    "end": "00:01:55.400",
+    "start_seconds": 115.39,
+    "end_seconds": 115.4,
+    "text": "know the face value of the bond, usually"
+  },
+  {
+    "start": "00:01:55.400",
+    "end": "00:01:58.070",
+    "start_seconds": 115.4,
+    "end_seconds": 118.07,
+    "text": "know the face value of the bond, usually $100, $1,000, whatever the set face"
+  },
+  {
+    "start": "00:01:58.070",
+    "end": "00:01:58.080",
+    "start_seconds": 118.07,
+    "end_seconds": 118.08,
+    "text": "$100, $1,000, whatever the set face"
+  },
+  {
+    "start": "00:01:58.080",
+    "end": "00:02:00.510",
+    "start_seconds": 118.08,
+    "end_seconds": 120.51,
+    "text": "$100, $1,000, whatever the set face value is. Those are the promised cash"
+  },
+  {
+    "start": "00:02:00.510",
+    "end": "00:02:00.520",
+    "start_seconds": 120.51,
+    "end_seconds": 120.52,
+    "text": "value is. Those are the promised cash"
+  },
+  {
+    "start": "00:02:00.520",
+    "end": "00:02:02.470",
+    "start_seconds": 120.52,
+    "end_seconds": 122.47,
+    "text": "value is. Those are the promised cash flows. Let's take the fortress out of"
+  },
+  {
+    "start": "00:02:02.470",
+    "end": "00:02:02.480",
+    "start_seconds": 122.47,
+    "end_seconds": 122.48,
+    "text": "flows. Let's take the fortress out of"
+  },
+  {
+    "start": "00:02:02.480",
+    "end": "00:02:05.310",
+    "start_seconds": 122.48,
+    "end_seconds": 125.31,
+    "text": "flows. Let's take the fortress out of the out of the example for the moment."
+  },
+  {
+    "start": "00:02:05.310",
+    "end": "00:02:05.320",
+    "start_seconds": 125.31,
+    "end_seconds": 125.32,
+    "text": "the out of the example for the moment."
+  },
+  {
+    "start": "00:02:05.320",
+    "end": "00:02:07.230",
+    "start_seconds": 125.32,
+    "end_seconds": 127.23,
+    "text": "the out of the example for the moment. At the time you buy the bond, let's say"
+  },
+  {
+    "start": "00:02:07.230",
+    "end": "00:02:07.240",
+    "start_seconds": 127.23,
+    "end_seconds": 127.24,
+    "text": "At the time you buy the bond, let's say"
+  },
+  {
+    "start": "00:02:07.240",
+    "end": "00:02:09.669",
+    "start_seconds": 127.24,
+    "end_seconds": 129.669,
+    "text": "At the time you buy the bond, let's say interest rates were 3%."
+  },
+  {
+    "start": "00:02:09.669",
+    "end": "00:02:09.679",
+    "start_seconds": 129.669,
+    "end_seconds": 129.679,
+    "text": "interest rates were 3%."
+  },
+  {
+    "start": "00:02:09.679",
+    "end": "00:02:12.190",
+    "start_seconds": 129.679,
+    "end_seconds": 132.19,
+    "text": "interest rates were 3%. And then a year later, or even 6 weeks"
+  },
+  {
+    "start": "00:02:12.190",
+    "end": "00:02:12.200",
+    "start_seconds": 132.19,
+    "end_seconds": 132.2,
+    "text": "And then a year later, or even 6 weeks"
+  },
+  {
+    "start": "00:02:12.200",
+    "end": "00:02:14.430",
+    "start_seconds": 132.2,
+    "end_seconds": 134.43,
+    "text": "And then a year later, or even 6 weeks later, rates have risen to 4%. Your"
+  },
+  {
+    "start": "00:02:14.430",
+    "end": "00:02:14.440",
+    "start_seconds": 134.43,
+    "end_seconds": 134.44,
+    "text": "later, rates have risen to 4%. Your"
+  },
+  {
+    "start": "00:02:14.440",
+    "end": "00:02:16.870",
+    "start_seconds": 134.44,
+    "end_seconds": 136.87,
+    "text": "later, rates have risen to 4%. Your coupons haven't changed, your face value"
+  },
+  {
+    "start": "00:02:16.870",
+    "end": "00:02:16.880",
+    "start_seconds": 136.87,
+    "end_seconds": 136.88,
+    "text": "coupons haven't changed, your face value"
+  },
+  {
+    "start": "00:02:16.880",
+    "end": "00:02:18.430",
+    "start_seconds": 136.88,
+    "end_seconds": 138.43,
+    "text": "coupons haven't changed, your face value hasn't changed, but the price of the"
+  },
+  {
+    "start": "00:02:18.430",
+    "end": "00:02:18.440",
+    "start_seconds": 138.43,
+    "end_seconds": 138.44,
+    "text": "hasn't changed, but the price of the"
+  },
+  {
+    "start": "00:02:18.440",
+    "end": "00:02:20.630",
+    "start_seconds": 138.44,
+    "end_seconds": 140.63,
+    "text": "hasn't changed, but the price of the bond is going to change because the"
+  },
+  {
+    "start": "00:02:20.630",
+    "end": "00:02:20.640",
+    "start_seconds": 140.63,
+    "end_seconds": 140.64,
+    "text": "bond is going to change because the"
+  },
+  {
+    "start": "00:02:20.640",
+    "end": "00:02:22.070",
+    "start_seconds": 140.64,
+    "end_seconds": 142.07,
+    "text": "bond is going to change because the value of the bond will reflect the"
+  },
+  {
+    "start": "00:02:22.070",
+    "end": "00:02:22.080",
+    "start_seconds": 142.07,
+    "end_seconds": 142.07999999999998,
+    "text": "value of the bond will reflect the"
+  },
+  {
+    "start": "00:02:22.080",
+    "end": "00:02:24.110",
+    "start_seconds": 142.07999999999998,
+    "end_seconds": 144.11,
+    "text": "value of the bond will reflect the present value of the coupons, the face"
+  },
+  {
+    "start": "00:02:24.110",
+    "end": "00:02:24.120",
+    "start_seconds": 144.11,
+    "end_seconds": 144.12,
+    "text": "present value of the coupons, the face"
+  },
+  {
+    "start": "00:02:24.120",
+    "end": "00:02:26.830",
+    "start_seconds": 144.12,
+    "end_seconds": 146.82999999999998,
+    "text": "present value of the coupons, the face value at whatever the interest rates are"
+  },
+  {
+    "start": "00:02:26.830",
+    "end": "00:02:26.840",
+    "start_seconds": 146.82999999999998,
+    "end_seconds": 146.84,
+    "text": "value at whatever the interest rates are"
+  },
+  {
+    "start": "00:02:26.840",
+    "end": "00:02:28.790",
+    "start_seconds": 146.84,
+    "end_seconds": 148.79,
+    "text": "value at whatever the interest rates are at the time you price the bond. So, if"
+  },
+  {
+    "start": "00:02:28.790",
+    "end": "00:02:28.800",
+    "start_seconds": 148.79,
+    "end_seconds": 148.8,
+    "text": "at the time you price the bond. So, if"
+  },
+  {
+    "start": "00:02:28.800",
+    "end": "00:02:30.430",
+    "start_seconds": 148.8,
+    "end_seconds": 150.43,
+    "text": "at the time you price the bond. So, if interest rates go up, the price of the"
+  },
+  {
+    "start": "00:02:30.430",
+    "end": "00:02:30.440",
+    "start_seconds": 150.43,
+    "end_seconds": 150.44,
+    "text": "interest rates go up, the price of the"
+  },
+  {
+    "start": "00:02:30.440",
+    "end": "00:02:32.270",
+    "start_seconds": 150.44,
+    "end_seconds": 152.27,
+    "text": "interest rates go up, the price of the bond will go down. If interest rates go"
+  },
+  {
+    "start": "00:02:32.270",
+    "end": "00:02:32.280",
+    "start_seconds": 152.27,
+    "end_seconds": 152.28,
+    "text": "bond will go down. If interest rates go"
+  },
+  {
+    "start": "00:02:32.280",
+    "end": "00:02:33.949",
+    "start_seconds": 152.28,
+    "end_seconds": 153.949,
+    "text": "bond will go down. If interest rates go down, the price of the bond will go up."
+  },
+  {
+    "start": "00:02:33.949",
+    "end": "00:02:33.959",
+    "start_seconds": 153.949,
+    "end_seconds": 153.959,
+    "text": "down, the price of the bond will go up."
+  },
+  {
+    "start": "00:02:33.959",
+    "end": "00:02:35.790",
+    "start_seconds": 153.959,
+    "end_seconds": 155.79,
+    "text": "down, the price of the bond will go up. By how much? Let's take a very simple"
+  },
+  {
+    "start": "00:02:35.790",
+    "end": "00:02:35.800",
+    "start_seconds": 155.79,
+    "end_seconds": 155.8,
+    "text": "By how much? Let's take a very simple"
+  },
+  {
+    "start": "00:02:35.800",
+    "end": "00:02:36.949",
+    "start_seconds": 155.8,
+    "end_seconds": 156.949,
+    "text": "By how much? Let's take a very simple example."
+  },
+  {
+    "start": "00:02:36.949",
+    "end": "00:02:36.959",
+    "start_seconds": 156.949,
+    "end_seconds": 156.959,
+    "text": "example."
+  },
+  {
+    "start": "00:02:36.959",
+    "end": "00:02:39.310",
+    "start_seconds": 156.959,
+    "end_seconds": 159.31,
+    "text": "example. Let's suppose you have a 4%"
+  },
+  {
+    "start": "00:02:39.310",
+    "end": "00:02:39.320",
+    "start_seconds": 159.31,
+    "end_seconds": 159.32,
+    "text": "Let's suppose you have a 4%"
+  },
+  {
+    "start": "00:02:39.320",
+    "end": "00:02:41.390",
+    "start_seconds": 159.32,
+    "end_seconds": 161.39,
+    "text": "Let's suppose you have a 4% 10-year coupon bond, and the face value"
+  },
+  {
+    "start": "00:02:41.390",
+    "end": "00:02:41.400",
+    "start_seconds": 161.39,
+    "end_seconds": 161.4,
+    "text": "10-year coupon bond, and the face value"
+  },
+  {
+    "start": "00:02:41.400",
+    "end": "00:02:42.710",
+    "start_seconds": 161.4,
+    "end_seconds": 162.71,
+    "text": "10-year coupon bond, and the face value is a thousand."
+  },
+  {
+    "start": "00:02:42.710",
+    "end": "00:02:42.720",
+    "start_seconds": 162.71,
+    "end_seconds": 162.72,
+    "text": "is a thousand."
+  },
+  {
+    "start": "00:02:42.720",
+    "end": "00:02:44.750",
+    "start_seconds": 162.72,
+    "end_seconds": 164.75,
+    "text": "is a thousand. So, you promise cash flows of 40 Let's"
+  },
+  {
+    "start": "00:02:44.750",
+    "end": "00:02:44.760",
+    "start_seconds": 164.75,
+    "end_seconds": 164.76,
+    "text": "So, you promise cash flows of 40 Let's"
+  },
+  {
+    "start": "00:02:44.760",
+    "end": "00:02:46.310",
+    "start_seconds": 164.76,
+    "end_seconds": 166.31,
+    "text": "So, you promise cash flows of 40 Let's make the coupons annual simply for the"
+  },
+  {
+    "start": "00:02:46.310",
+    "end": "00:02:46.320",
+    "start_seconds": 166.31,
+    "end_seconds": 166.32,
+    "text": "make the coupons annual simply for the"
+  },
+  {
+    "start": "00:02:46.320",
+    "end": "00:02:48.949",
+    "start_seconds": 166.32,
+    "end_seconds": 168.949,
+    "text": "make the coupons annual simply for the simple reason that, you know, it keeps"
+  },
+  {
+    "start": "00:02:48.949",
+    "end": "00:02:48.959",
+    "start_seconds": 168.949,
+    "end_seconds": 168.959,
+    "text": "simple reason that, you know, it keeps"
+  },
+  {
+    "start": "00:02:48.959",
+    "end": "00:02:50.270",
+    "start_seconds": 168.959,
+    "end_seconds": 170.27,
+    "text": "simple reason that, you know, it keeps life a little simpler. It could be"
+  },
+  {
+    "start": "00:02:50.270",
+    "end": "00:02:50.280",
+    "start_seconds": 170.27,
+    "end_seconds": 170.28,
+    "text": "life a little simpler. It could be"
+  },
+  {
+    "start": "00:02:50.280",
+    "end": "00:02:51.949",
+    "start_seconds": 170.28,
+    "end_seconds": 171.949,
+    "text": "life a little simpler. It could be semi-annual, nothing would change the"
+  },
+  {
+    "start": "00:02:51.949",
+    "end": "00:02:51.959",
+    "start_seconds": 171.949,
+    "end_seconds": 171.959,
+    "text": "semi-annual, nothing would change the"
+  },
+  {
+    "start": "00:02:51.959",
+    "end": "00:02:53.310",
+    "start_seconds": 171.959,
+    "end_seconds": 173.31,
+    "text": "semi-annual, nothing would change the example."
+  },
+  {
+    "start": "00:02:53.310",
+    "end": "00:02:53.320",
+    "start_seconds": 173.31,
+    "end_seconds": 173.32,
+    "text": "example."
+  },
+  {
+    "start": "00:02:53.320",
+    "end": "00:02:54.830",
+    "start_seconds": 173.32,
+    "end_seconds": 174.82999999999998,
+    "text": "example. It'll be a mild change in present value,"
+  },
+  {
+    "start": "00:02:54.830",
+    "end": "00:02:54.840",
+    "start_seconds": 174.82999999999998,
+    "end_seconds": 174.84,
+    "text": "It'll be a mild change in present value,"
+  },
+  {
+    "start": "00:02:54.840",
+    "end": "00:02:56.550",
+    "start_seconds": 174.84,
+    "end_seconds": 176.55,
+    "text": "It'll be a mild change in present value, but let's act as if the coupons ran"
+  },
+  {
+    "start": "00:02:56.550",
+    "end": "00:02:56.560",
+    "start_seconds": 176.55,
+    "end_seconds": 176.56,
+    "text": "but let's act as if the coupons ran"
+  },
+  {
+    "start": "00:02:56.560",
+    "end": "00:02:59.270",
+    "start_seconds": 176.56,
+    "end_seconds": 179.27,
+    "text": "but let's act as if the coupons ran them. $40 every year for the next 10"
+  },
+  {
+    "start": "00:02:59.270",
+    "end": "00:02:59.280",
+    "start_seconds": 179.27,
+    "end_seconds": 179.28,
+    "text": "them. $40 every year for the next 10"
+  },
+  {
+    "start": "00:02:59.280",
+    "end": "00:03:00.509",
+    "start_seconds": 179.28,
+    "end_seconds": 180.509,
+    "text": "them. $40 every year for the next 10 years. At the end of the 10th year, in"
+  },
+  {
+    "start": "00:03:00.509",
+    "end": "00:03:00.519",
+    "start_seconds": 180.509,
+    "end_seconds": 180.519,
+    "text": "years. At the end of the 10th year, in"
+  },
+  {
+    "start": "00:03:00.519",
+    "end": "00:03:02.670",
+    "start_seconds": 180.519,
+    "end_seconds": 182.67,
+    "text": "years. At the end of the 10th year, in addition to the 40 in coupons, you get a"
+  },
+  {
+    "start": "00:03:02.670",
+    "end": "00:03:02.680",
+    "start_seconds": 182.67,
+    "end_seconds": 182.68,
+    "text": "addition to the 40 in coupons, you get a"
+  },
+  {
+    "start": "00:03:02.680",
+    "end": "00:03:04.550",
+    "start_seconds": 182.68,
+    "end_seconds": 184.55,
+    "text": "addition to the 40 in coupons, you get a thousand in face value."
+  },
+  {
+    "start": "00:03:04.550",
+    "end": "00:03:04.560",
+    "start_seconds": 184.55,
+    "end_seconds": 184.56,
+    "text": "thousand in face value."
+  },
+  {
+    "start": "00:03:04.560",
+    "end": "00:03:06.229",
+    "start_seconds": 184.56,
+    "end_seconds": 186.229,
+    "text": "thousand in face value. I've computed what the value of this"
+  },
+  {
+    "start": "00:03:06.229",
+    "end": "00:03:06.239",
+    "start_seconds": 186.229,
+    "end_seconds": 186.239,
+    "text": "I've computed what the value of this"
+  },
+  {
+    "start": "00:03:06.239",
+    "end": "00:03:09.310",
+    "start_seconds": 186.239,
+    "end_seconds": 189.31,
+    "text": "I've computed what the value of this bond will be at rates ranging if"
+  },
+  {
+    "start": "00:03:09.310",
+    "end": "00:03:09.320",
+    "start_seconds": 189.31,
+    "end_seconds": 189.32,
+    "text": "bond will be at rates ranging if"
+  },
+  {
+    "start": "00:03:09.320",
+    "end": "00:03:11.990",
+    "start_seconds": 189.32,
+    "end_seconds": 191.99,
+    "text": "bond will be at rates ranging if interest rates range from 2% all the way"
+  },
+  {
+    "start": "00:03:11.990",
+    "end": "00:03:12.000",
+    "start_seconds": 191.99,
+    "end_seconds": 192.0,
+    "text": "interest rates range from 2% all the way"
+  },
+  {
+    "start": "00:03:12.000",
+    "end": "00:03:13.990",
+    "start_seconds": 192.0,
+    "end_seconds": 193.99,
+    "text": "interest rates range from 2% all the way up to 6%. Let's take the easiest"
+  },
+  {
+    "start": "00:03:13.990",
+    "end": "00:03:14.000",
+    "start_seconds": 193.99,
+    "end_seconds": 194.0,
+    "text": "up to 6%. Let's take the easiest"
+  },
+  {
+    "start": "00:03:14.000",
+    "end": "00:03:16.390",
+    "start_seconds": 194.0,
+    "end_seconds": 196.39,
+    "text": "up to 6%. Let's take the easiest scenario. If the interest rates are 4%"
+  },
+  {
+    "start": "00:03:16.390",
+    "end": "00:03:16.400",
+    "start_seconds": 196.39,
+    "end_seconds": 196.4,
+    "text": "scenario. If the interest rates are 4%"
+  },
+  {
+    "start": "00:03:16.400",
+    "end": "00:03:18.229",
+    "start_seconds": 196.4,
+    "end_seconds": 198.22899999999998,
+    "text": "scenario. If the interest rates are 4% and the bond is issued at the time"
+  },
+  {
+    "start": "00:03:18.229",
+    "end": "00:03:18.239",
+    "start_seconds": 198.22899999999998,
+    "end_seconds": 198.239,
+    "text": "and the bond is issued at the time"
+  },
+  {
+    "start": "00:03:18.239",
+    "end": "00:03:20.550",
+    "start_seconds": 198.239,
+    "end_seconds": 200.55,
+    "text": "and the bond is issued at the time interest rates are 4%, the price of the"
+  },
+  {
+    "start": "00:03:20.550",
+    "end": "00:03:20.560",
+    "start_seconds": 200.55,
+    "end_seconds": 200.56,
+    "text": "interest rates are 4%, the price of the"
+  },
+  {
+    "start": "00:03:20.560",
+    "end": "00:03:22.990",
+    "start_seconds": 200.56,
+    "end_seconds": 202.99,
+    "text": "interest rates are 4%, the price of the bond is going to be a thousand. It's"
+  },
+  {
+    "start": "00:03:22.990",
+    "end": "00:03:23.000",
+    "start_seconds": 202.99,
+    "end_seconds": 203.0,
+    "text": "bond is going to be a thousand. It's"
+  },
+  {
+    "start": "00:03:23.000",
+    "end": "00:03:25.070",
+    "start_seconds": 203.0,
+    "end_seconds": 205.07,
+    "text": "bond is going to be a thousand. It's It's face value. If interest rates are"
+  },
+  {
+    "start": "00:03:25.070",
+    "end": "00:03:25.080",
+    "start_seconds": 205.07,
+    "end_seconds": 205.07999999999998,
+    "text": "It's face value. If interest rates are"
+  },
+  {
+    "start": "00:03:25.080",
+    "end": "00:03:27.190",
+    "start_seconds": 205.07999999999998,
+    "end_seconds": 207.19,
+    "text": "It's face value. If interest rates are 2% though, the bond price, because the"
+  },
+  {
+    "start": "00:03:27.190",
+    "end": "00:03:27.200",
+    "start_seconds": 207.19,
+    "end_seconds": 207.2,
+    "text": "2% though, the bond price, because the"
+  },
+  {
+    "start": "00:03:27.200",
+    "end": "00:03:28.509",
+    "start_seconds": 207.2,
+    "end_seconds": 208.50900000000001,
+    "text": "2% though, the bond price, because the present value of the cash flows will be"
+  },
+  {
+    "start": "00:03:28.509",
+    "end": "00:03:28.519",
+    "start_seconds": 208.50900000000001,
+    "end_seconds": 208.519,
+    "text": "present value of the cash flows will be"
+  },
+  {
+    "start": "00:03:28.519",
+    "end": "00:03:31.350",
+    "start_seconds": 208.519,
+    "end_seconds": 211.35,
+    "text": "present value of the cash flows will be higher, increases to 1,180. That's an"
+  },
+  {
+    "start": "00:03:31.350",
+    "end": "00:03:31.360",
+    "start_seconds": 211.35,
+    "end_seconds": 211.36,
+    "text": "higher, increases to 1,180. That's an"
+  },
+  {
+    "start": "00:03:31.360",
+    "end": "00:03:34.949",
+    "start_seconds": 211.36,
+    "end_seconds": 214.949,
+    "text": "higher, increases to 1,180. That's an 18% increase in bond price because rates"
+  },
+  {
+    "start": "00:03:34.949",
+    "end": "00:03:34.959",
+    "start_seconds": 214.949,
+    "end_seconds": 214.959,
+    "text": "18% increase in bond price because rates"
+  },
+  {
+    "start": "00:03:34.959",
+    "end": "00:03:37.630",
+    "start_seconds": 214.959,
+    "end_seconds": 217.63,
+    "text": "18% increase in bond price because rates went down. Conversely, if rates rise to"
+  },
+  {
+    "start": "00:03:37.630",
+    "end": "00:03:37.640",
+    "start_seconds": 217.63,
+    "end_seconds": 217.64,
+    "text": "went down. Conversely, if rates rise to"
+  },
+  {
+    "start": "00:03:37.640",
+    "end": "00:03:39.750",
+    "start_seconds": 217.64,
+    "end_seconds": 219.75,
+    "text": "went down. Conversely, if rates rise to 6%, the price of this bond drops to"
+  },
+  {
+    "start": "00:03:39.750",
+    "end": "00:03:39.760",
+    "start_seconds": 219.75,
+    "end_seconds": 219.76,
+    "text": "6%, the price of this bond drops to"
+  },
+  {
+    "start": "00:03:39.760",
+    "end": "00:03:41.870",
+    "start_seconds": 219.76,
+    "end_seconds": 221.87,
+    "text": "6%, the price of this bond drops to $853."
+  },
+  {
+    "start": "00:03:41.870",
+    "end": "00:03:41.880",
+    "start_seconds": 221.87,
+    "end_seconds": 221.88,
+    "text": "$853."
+  },
+  {
+    "start": "00:03:41.880",
+    "end": "00:03:43.790",
+    "start_seconds": 221.88,
+    "end_seconds": 223.79,
+    "text": "$853. You can see that the price of the bond"
+  },
+  {
+    "start": "00:03:43.790",
+    "end": "00:03:43.800",
+    "start_seconds": 223.79,
+    "end_seconds": 223.8,
+    "text": "You can see that the price of the bond"
+  },
+  {
+    "start": "00:03:43.800",
+    "end": "00:03:45.790",
+    "start_seconds": 223.8,
+    "end_seconds": 225.79,
+    "text": "You can see that the price of the bond will vary depending on what interest"
+  },
+  {
+    "start": "00:03:45.790",
+    "end": "00:03:45.800",
+    "start_seconds": 225.79,
+    "end_seconds": 225.8,
+    "text": "will vary depending on what interest"
+  },
+  {
+    "start": "00:03:45.800",
+    "end": "00:03:47.190",
+    "start_seconds": 225.8,
+    "end_seconds": 227.19,
+    "text": "will vary depending on what interest rates are."
+  },
+  {
+    "start": "00:03:47.190",
+    "end": "00:03:47.200",
+    "start_seconds": 227.19,
+    "end_seconds": 227.2,
+    "text": "rates are."
+  },
+  {
+    "start": "00:03:47.200",
+    "end": "00:03:50.949",
+    "start_seconds": 227.2,
+    "end_seconds": 230.949,
+    "text": "rates are. Just as an aside, in 2022,"
+  },
+  {
+    "start": "00:03:50.949",
+    "end": "00:03:50.959",
+    "start_seconds": 230.949,
+    "end_seconds": 230.959,
+    "text": "Just as an aside, in 2022,"
+  },
+  {
+    "start": "00:03:50.959",
+    "end": "00:03:53.190",
+    "start_seconds": 230.959,
+    "end_seconds": 233.19,
+    "text": "Just as an aside, in 2022, a 10-year Treasury bond, So, no default"
+  },
+  {
+    "start": "00:03:53.190",
+    "end": "00:03:53.200",
+    "start_seconds": 233.19,
+    "end_seconds": 233.2,
+    "text": "a 10-year Treasury bond, So, no default"
+  },
+  {
+    "start": "00:03:53.200",
+    "end": "00:03:54.470",
+    "start_seconds": 233.2,
+    "end_seconds": 234.47,
+    "text": "a 10-year Treasury bond, So, no default risk,"
+  },
+  {
+    "start": "00:03:54.470",
+    "end": "00:03:54.480",
+    "start_seconds": 234.47,
+    "end_seconds": 234.48,
+    "text": "risk,"
+  },
+  {
+    "start": "00:03:54.480",
+    "end": "00:03:58.190",
+    "start_seconds": 234.48,
+    "end_seconds": 238.19,
+    "text": "risk, dropped in value by roughly 20%."
+  },
+  {
+    "start": "00:03:58.190",
+    "end": "00:03:58.200",
+    "start_seconds": 238.19,
+    "end_seconds": 238.2,
+    "text": "dropped in value by roughly 20%."
+  },
+  {
+    "start": "00:03:58.200",
+    "end": "00:03:59.950",
+    "start_seconds": 238.2,
+    "end_seconds": 239.95,
+    "text": "dropped in value by roughly 20%. You know why? Cuz interest rates that"
+  },
+  {
+    "start": "00:03:59.950",
+    "end": "00:03:59.960",
+    "start_seconds": 239.95,
+    "end_seconds": 239.96,
+    "text": "You know why? Cuz interest rates that"
+  },
+  {
+    "start": "00:03:59.960",
+    "end": "00:04:01.830",
+    "start_seconds": 239.96,
+    "end_seconds": 241.83,
+    "text": "You know why? Cuz interest rates that year went from a really low number, less"
+  },
+  {
+    "start": "00:04:01.830",
+    "end": "00:04:01.840",
+    "start_seconds": 241.83,
+    "end_seconds": 241.84,
+    "text": "year went from a really low number, less"
+  },
+  {
+    "start": "00:04:01.840",
+    "end": "00:04:04.510",
+    "start_seconds": 241.84,
+    "end_seconds": 244.51,
+    "text": "year went from a really low number, less than 2%, to close to 4%."
+  },
+  {
+    "start": "00:04:04.510",
+    "end": "00:04:04.520",
+    "start_seconds": 244.51,
+    "end_seconds": 244.52,
+    "text": "than 2%, to close to 4%."
+  },
+  {
+    "start": "00:04:04.520",
+    "end": "00:04:06.230",
+    "start_seconds": 244.52,
+    "end_seconds": 246.23,
+    "text": "than 2%, to close to 4%. When interest rates change, the price of"
+  },
+  {
+    "start": "00:04:06.230",
+    "end": "00:04:06.240",
+    "start_seconds": 246.23,
+    "end_seconds": 246.24,
+    "text": "When interest rates change, the price of"
+  },
+  {
+    "start": "00:04:06.240",
+    "end": "00:04:08.070",
+    "start_seconds": 246.24,
+    "end_seconds": 248.07,
+    "text": "When interest rates change, the price of the bond will reflect it."
+  },
+  {
+    "start": "00:04:08.070",
+    "end": "00:04:08.080",
+    "start_seconds": 248.07,
+    "end_seconds": 248.08,
+    "text": "the bond will reflect it."
+  },
+  {
+    "start": "00:04:08.080",
+    "end": "00:04:09.350",
+    "start_seconds": 248.08,
+    "end_seconds": 249.35,
+    "text": "the bond will reflect it. Now, if you look at this example, you"
+  },
+  {
+    "start": "00:04:09.350",
+    "end": "00:04:09.360",
+    "start_seconds": 249.35,
+    "end_seconds": 249.36,
+    "text": "Now, if you look at this example, you"
+  },
+  {
+    "start": "00:04:09.360",
+    "end": "00:04:11.230",
+    "start_seconds": 249.36,
+    "end_seconds": 251.23,
+    "text": "Now, if you look at this example, you can already see what would drive that"
+  },
+  {
+    "start": "00:04:11.230",
+    "end": "00:04:11.240",
+    "start_seconds": 251.23,
+    "end_seconds": 251.24,
+    "text": "can already see what would drive that"
+  },
+  {
+    "start": "00:04:11.240",
+    "end": "00:04:13.230",
+    "start_seconds": 251.24,
+    "end_seconds": 253.23,
+    "text": "can already see what would drive that percentage price change."
+  },
+  {
+    "start": "00:04:13.230",
+    "end": "00:04:13.240",
+    "start_seconds": 253.23,
+    "end_seconds": 253.24,
+    "text": "percentage price change."
+  },
+  {
+    "start": "00:04:13.240",
+    "end": "00:04:15.310",
+    "start_seconds": 253.24,
+    "end_seconds": 255.31,
+    "text": "percentage price change. The higher the coupons the bond, the"
+  },
+  {
+    "start": "00:04:15.310",
+    "end": "00:04:15.320",
+    "start_seconds": 255.31,
+    "end_seconds": 255.32,
+    "text": "The higher the coupons the bond, the"
+  },
+  {
+    "start": "00:04:15.320",
+    "end": "00:04:17.470",
+    "start_seconds": 255.32,
+    "end_seconds": 257.47,
+    "text": "The higher the coupons the bond, the less exposed it is to interest rate"
+  },
+  {
+    "start": "00:04:17.470",
+    "end": "00:04:17.480",
+    "start_seconds": 257.47,
+    "end_seconds": 257.48,
+    "text": "less exposed it is to interest rate"
+  },
+  {
+    "start": "00:04:17.480",
+    "end": "00:04:19.670",
+    "start_seconds": 257.48,
+    "end_seconds": 259.67,
+    "text": "less exposed it is to interest rate changes. Why? Cuz the higher coupons"
+  },
+  {
+    "start": "00:04:19.670",
+    "end": "00:04:19.680",
+    "start_seconds": 259.67,
+    "end_seconds": 259.68,
+    "text": "changes. Why? Cuz the higher coupons"
+  },
+  {
+    "start": "00:04:19.680",
+    "end": "00:04:22.270",
+    "start_seconds": 259.68,
+    "end_seconds": 262.27,
+    "text": "changes. Why? Cuz the higher coupons allow you to get the cash flows quicker."
+  },
+  {
+    "start": "00:04:22.270",
+    "end": "00:04:22.280",
+    "start_seconds": 262.27,
+    "end_seconds": 262.28,
+    "text": "allow you to get the cash flows quicker."
+  },
+  {
+    "start": "00:04:22.280",
+    "end": "00:04:24.470",
+    "start_seconds": 262.28,
+    "end_seconds": 264.47,
+    "text": "allow you to get the cash flows quicker. If coupon rates drop, the coupon of the"
+  },
+  {
+    "start": "00:04:24.470",
+    "end": "00:04:24.480",
+    "start_seconds": 264.47,
+    "end_seconds": 264.48,
+    "text": "If coupon rates drop, the coupon of the"
+  },
+  {
+    "start": "00:04:24.480",
+    "end": "00:04:26.990",
+    "start_seconds": 264.48,
+    "end_seconds": 266.99,
+    "text": "If coupon rates drop, the coupon of the bond becomes lower, the bond will become"
+  },
+  {
+    "start": "00:04:26.990",
+    "end": "00:04:27.000",
+    "start_seconds": 266.99,
+    "end_seconds": 267.0,
+    "text": "bond becomes lower, the bond will become"
+  },
+  {
+    "start": "00:04:27.000",
+    "end": "00:04:29.390",
+    "start_seconds": 267.0,
+    "end_seconds": 269.39,
+    "text": "bond becomes lower, the bond will become more sensitive to interest rate changes."
+  },
+  {
+    "start": "00:04:29.390",
+    "end": "00:04:29.400",
+    "start_seconds": 269.39,
+    "end_seconds": 269.4,
+    "text": "more sensitive to interest rate changes."
+  },
+  {
+    "start": "00:04:29.400",
+    "end": "00:04:31.390",
+    "start_seconds": 269.4,
+    "end_seconds": 271.39,
+    "text": "more sensitive to interest rate changes. At the limit, if you have a zero coupon"
+  },
+  {
+    "start": "00:04:31.390",
+    "end": "00:04:31.400",
+    "start_seconds": 271.39,
+    "end_seconds": 271.4,
+    "text": "At the limit, if you have a zero coupon"
+  },
+  {
+    "start": "00:04:31.400",
+    "end": "00:04:33.190",
+    "start_seconds": 271.4,
+    "end_seconds": 273.19,
+    "text": "At the limit, if you have a zero coupon bond, where you have no coupons at all"
+  },
+  {
+    "start": "00:04:33.190",
+    "end": "00:04:33.200",
+    "start_seconds": 273.19,
+    "end_seconds": 273.2,
+    "text": "bond, where you have no coupons at all"
+  },
+  {
+    "start": "00:04:33.200",
+    "end": "00:04:34.710",
+    "start_seconds": 273.2,
+    "end_seconds": 274.71,
+    "text": "bond, where you have no coupons at all and only the face value at the end of"
+  },
+  {
+    "start": "00:04:34.710",
+    "end": "00:04:34.720",
+    "start_seconds": 274.71,
+    "end_seconds": 274.72,
+    "text": "and only the face value at the end of"
+  },
+  {
+    "start": "00:04:34.720",
+    "end": "00:04:36.870",
+    "start_seconds": 274.72,
+    "end_seconds": 276.87,
+    "text": "and only the face value at the end of the 10th year, the bond will be the most"
+  },
+  {
+    "start": "00:04:36.870",
+    "end": "00:04:36.880",
+    "start_seconds": 276.87,
+    "end_seconds": 276.88,
+    "text": "the 10th year, the bond will be the most"
+  },
+  {
+    "start": "00:04:36.880",
+    "end": "00:04:39.790",
+    "start_seconds": 276.88,
+    "end_seconds": 279.79,
+    "text": "the 10th year, the bond will be the most sensitive. So, level of coupons matters."
+  },
+  {
+    "start": "00:04:39.790",
+    "end": "00:04:39.800",
+    "start_seconds": 279.79,
+    "end_seconds": 279.8,
+    "text": "sensitive. So, level of coupons matters."
+  },
+  {
+    "start": "00:04:39.800",
+    "end": "00:04:41.110",
+    "start_seconds": 279.8,
+    "end_seconds": 281.11,
+    "text": "sensitive. So, level of coupons matters. The maturity of the bond matters. A"
+  },
+  {
+    "start": "00:04:41.110",
+    "end": "00:04:41.120",
+    "start_seconds": 281.11,
+    "end_seconds": 281.12,
+    "text": "The maturity of the bond matters. A"
+  },
+  {
+    "start": "00:04:41.120",
+    "end": "00:04:43.190",
+    "start_seconds": 281.12,
+    "end_seconds": 283.19,
+    "text": "The maturity of the bond matters. A 30-year bond, holding all else constant,"
+  },
+  {
+    "start": "00:04:43.190",
+    "end": "00:04:43.200",
+    "start_seconds": 283.19,
+    "end_seconds": 283.2,
+    "text": "30-year bond, holding all else constant,"
+  },
+  {
+    "start": "00:04:43.200",
+    "end": "00:04:44.870",
+    "start_seconds": 283.2,
+    "end_seconds": 284.87,
+    "text": "30-year bond, holding all else constant, will be more sensitive to interest rate"
+  },
+  {
+    "start": "00:04:44.870",
+    "end": "00:04:44.880",
+    "start_seconds": 284.87,
+    "end_seconds": 284.88,
+    "text": "will be more sensitive to interest rate"
+  },
+  {
+    "start": "00:04:44.880",
+    "end": "00:04:47.030",
+    "start_seconds": 284.88,
+    "end_seconds": 287.03,
+    "text": "will be more sensitive to interest rate changes than a 10-year bond. And a"
+  },
+  {
+    "start": "00:04:47.030",
+    "end": "00:04:47.040",
+    "start_seconds": 287.03,
+    "end_seconds": 287.04,
+    "text": "changes than a 10-year bond. And a"
+  },
+  {
+    "start": "00:04:47.040",
+    "end": "00:04:48.630",
+    "start_seconds": 287.04,
+    "end_seconds": 288.63,
+    "text": "changes than a 10-year bond. And a 10-year bond will be more sensitive than"
+  },
+  {
+    "start": "00:04:48.630",
+    "end": "00:04:48.640",
+    "start_seconds": 288.63,
+    "end_seconds": 288.64,
+    "text": "10-year bond will be more sensitive than"
+  },
+  {
+    "start": "00:04:48.640",
+    "end": "00:04:50.070",
+    "start_seconds": 288.64,
+    "end_seconds": 290.07,
+    "text": "10-year bond will be more sensitive than a 5-year bond."
+  },
+  {
+    "start": "00:04:50.070",
+    "end": "00:04:50.080",
+    "start_seconds": 290.07,
+    "end_seconds": 290.08,
+    "text": "a 5-year bond."
+  },
+  {
+    "start": "00:04:50.080",
+    "end": "00:04:52.190",
+    "start_seconds": 290.08,
+    "end_seconds": 292.19,
+    "text": "a 5-year bond. One way to capture both the coupon level"
+  },
+  {
+    "start": "00:04:52.190",
+    "end": "00:04:52.200",
+    "start_seconds": 292.19,
+    "end_seconds": 292.2,
+    "text": "One way to capture both the coupon level"
+  },
+  {
+    "start": "00:04:52.200",
+    "end": "00:04:53.710",
+    "start_seconds": 292.2,
+    "end_seconds": 293.71,
+    "text": "One way to capture both the coupon level and the maturity is with a measure"
+  },
+  {
+    "start": "00:04:53.710",
+    "end": "00:04:53.720",
+    "start_seconds": 293.71,
+    "end_seconds": 293.72,
+    "text": "and the maturity is with a measure"
+  },
+  {
+    "start": "00:04:53.720",
+    "end": "00:04:56.030",
+    "start_seconds": 293.72,
+    "end_seconds": 296.03,
+    "text": "and the maturity is with a measure called duration. What is a duration"
+  },
+  {
+    "start": "00:04:56.030",
+    "end": "00:04:56.040",
+    "start_seconds": 296.03,
+    "end_seconds": 296.04,
+    "text": "called duration. What is a duration"
+  },
+  {
+    "start": "00:04:56.040",
+    "end": "00:04:58.510",
+    "start_seconds": 296.04,
+    "end_seconds": 298.51,
+    "text": "called duration. What is a duration measure? Duration, in many ways, is a"
+  },
+  {
+    "start": "00:04:58.510",
+    "end": "00:04:58.520",
+    "start_seconds": 298.51,
+    "end_seconds": 298.52,
+    "text": "measure? Duration, in many ways, is a"
+  },
+  {
+    "start": "00:04:58.520",
+    "end": "00:05:00.510",
+    "start_seconds": 298.52,
+    "end_seconds": 300.51,
+    "text": "measure? Duration, in many ways, is a weighted average of when you get the"
+  },
+  {
+    "start": "00:05:00.510",
+    "end": "00:05:00.520",
+    "start_seconds": 300.51,
+    "end_seconds": 300.52,
+    "text": "weighted average of when you get the"
+  },
+  {
+    "start": "00:05:00.520",
+    "end": "00:05:01.830",
+    "start_seconds": 300.52,
+    "end_seconds": 301.83,
+    "text": "weighted average of when you get the cash flows of the bond. So, as an"
+  },
+  {
+    "start": "00:05:01.830",
+    "end": "00:05:01.840",
+    "start_seconds": 301.83,
+    "end_seconds": 301.84,
+    "text": "cash flows of the bond. So, as an"
+  },
+  {
+    "start": "00:05:01.840",
+    "end": "00:05:03.550",
+    "start_seconds": 301.84,
+    "end_seconds": 303.55,
+    "text": "cash flows of the bond. So, as an example, if you have a zero coupon bond,"
+  },
+  {
+    "start": "00:05:03.550",
+    "end": "00:05:03.560",
+    "start_seconds": 303.55,
+    "end_seconds": 303.56,
+    "text": "example, if you have a zero coupon bond,"
+  },
+  {
+    "start": "00:05:03.560",
+    "end": "00:05:05.510",
+    "start_seconds": 303.56,
+    "end_seconds": 305.51,
+    "text": "example, if you have a zero coupon bond, it's a 10-year bond, the duration will"
+  },
+  {
+    "start": "00:05:05.510",
+    "end": "00:05:05.520",
+    "start_seconds": 305.51,
+    "end_seconds": 305.52,
+    "text": "it's a 10-year bond, the duration will"
+  },
+  {
+    "start": "00:05:05.520",
+    "end": "00:05:07.070",
+    "start_seconds": 305.52,
+    "end_seconds": 307.07,
+    "text": "it's a 10-year bond, the duration will be 10 years cuz you get all your cash"
+  },
+  {
+    "start": "00:05:07.070",
+    "end": "00:05:07.080",
+    "start_seconds": 307.07,
+    "end_seconds": 307.08,
+    "text": "be 10 years cuz you get all your cash"
+  },
+  {
+    "start": "00:05:07.080",
+    "end": "00:05:09.070",
+    "start_seconds": 307.08,
+    "end_seconds": 309.07,
+    "text": "be 10 years cuz you get all your cash flows at the end of 10 years. As you"
+  },
+  {
+    "start": "00:05:09.070",
+    "end": "00:05:09.080",
+    "start_seconds": 309.07,
+    "end_seconds": 309.08,
+    "text": "flows at the end of 10 years. As you"
+  },
+  {
+    "start": "00:05:09.080",
+    "end": "00:05:11.630",
+    "start_seconds": 309.08,
+    "end_seconds": 311.63,
+    "text": "flows at the end of 10 years. As you start to add coupons on, the duration"
+  },
+  {
+    "start": "00:05:11.630",
+    "end": "00:05:11.640",
+    "start_seconds": 311.63,
+    "end_seconds": 311.64,
+    "text": "start to add coupons on, the duration"
+  },
+  {
+    "start": "00:05:11.640",
+    "end": "00:05:13.590",
+    "start_seconds": 311.64,
+    "end_seconds": 313.59,
+    "text": "start to add coupons on, the duration for a 10-year bond will get less than 10"
+  },
+  {
+    "start": "00:05:13.590",
+    "end": "00:05:13.600",
+    "start_seconds": 313.59,
+    "end_seconds": 313.6,
+    "text": "for a 10-year bond will get less than 10"
+  },
+  {
+    "start": "00:05:13.600",
+    "end": "00:05:15.710",
+    "start_seconds": 313.6,
+    "end_seconds": 315.71,
+    "text": "for a 10-year bond will get less than 10 years and it'll drop the higher the"
+  },
+  {
+    "start": "00:05:15.710",
+    "end": "00:05:15.720",
+    "start_seconds": 315.71,
+    "end_seconds": 315.72,
+    "text": "years and it'll drop the higher the"
+  },
+  {
+    "start": "00:05:15.720",
+    "end": "00:05:17.909",
+    "start_seconds": 315.72,
+    "end_seconds": 317.909,
+    "text": "years and it'll drop the higher the coupon on the bond."
+  },
+  {
+    "start": "00:05:17.909",
+    "end": "00:05:17.919",
+    "start_seconds": 317.909,
+    "end_seconds": 317.919,
+    "text": "coupon on the bond."
+  },
+  {
+    "start": "00:05:17.919",
+    "end": "00:05:19.310",
+    "start_seconds": 317.919,
+    "end_seconds": 319.31,
+    "text": "coupon on the bond. You're saying, \"That sounds abstract.\""
+  },
+  {
+    "start": "00:05:19.310",
+    "end": "00:05:19.320",
+    "start_seconds": 319.31,
+    "end_seconds": 319.32,
+    "text": "You're saying, \"That sounds abstract.\""
+  },
+  {
+    "start": "00:05:19.320",
+    "end": "00:05:21.430",
+    "start_seconds": 319.32,
+    "end_seconds": 321.43,
+    "text": "You're saying, \"That sounds abstract.\" Let's take the 10-year bond, that in"
+  },
+  {
+    "start": "00:05:21.430",
+    "end": "00:05:21.440",
+    "start_seconds": 321.43,
+    "end_seconds": 321.44,
+    "text": "Let's take the 10-year bond, that in"
+  },
+  {
+    "start": "00:05:21.440",
+    "end": "00:05:24.310",
+    "start_seconds": 321.44,
+    "end_seconds": 324.31,
+    "text": "Let's take the 10-year bond, that in fact the $40 4 4% 10-year bond that we"
+  },
+  {
+    "start": "00:05:24.310",
+    "end": "00:05:24.320",
+    "start_seconds": 324.31,
+    "end_seconds": 324.32,
+    "text": "fact the $40 4 4% 10-year bond that we"
+  },
+  {
+    "start": "00:05:24.320",
+    "end": "00:05:25.990",
+    "start_seconds": 324.32,
+    "end_seconds": 325.99,
+    "text": "fact the $40 4 4% 10-year bond that we looked at earlier, and compute the"
+  },
+  {
+    "start": "00:05:25.990",
+    "end": "00:05:26.000",
+    "start_seconds": 325.99,
+    "end_seconds": 326.0,
+    "text": "looked at earlier, and compute the"
+  },
+  {
+    "start": "00:05:26.000",
+    "end": "00:05:27.830",
+    "start_seconds": 326.0,
+    "end_seconds": 327.83,
+    "text": "looked at earlier, and compute the duration of the bond. This is the"
+  },
+  {
+    "start": "00:05:27.830",
+    "end": "00:05:27.840",
+    "start_seconds": 327.83,
+    "end_seconds": 327.84,
+    "text": "duration of the bond. This is the"
+  },
+  {
+    "start": "00:05:27.840",
+    "end": "00:05:29.230",
+    "start_seconds": 327.84,
+    "end_seconds": 329.23,
+    "text": "duration of the bond. This is the simplest measure of duration. It's"
+  },
+  {
+    "start": "00:05:29.230",
+    "end": "00:05:29.240",
+    "start_seconds": 329.23,
+    "end_seconds": 329.24,
+    "text": "simplest measure of duration. It's"
+  },
+  {
+    "start": "00:05:29.240",
+    "end": "00:05:30.870",
+    "start_seconds": 329.24,
+    "end_seconds": 330.87,
+    "text": "simplest measure of duration. It's called Macaulay duration. Here's what"
+  },
+  {
+    "start": "00:05:30.870",
+    "end": "00:05:30.880",
+    "start_seconds": 330.87,
+    "end_seconds": 330.88,
+    "text": "called Macaulay duration. Here's what"
+  },
+  {
+    "start": "00:05:30.880",
+    "end": "00:05:32.870",
+    "start_seconds": 330.88,
+    "end_seconds": 332.87,
+    "text": "called Macaulay duration. Here's what I'm going to do. I'm going to first take"
+  },
+  {
+    "start": "00:05:32.870",
+    "end": "00:05:32.880",
+    "start_seconds": 332.87,
+    "end_seconds": 332.88,
+    "text": "I'm going to do. I'm going to first take"
+  },
+  {
+    "start": "00:05:32.880",
+    "end": "00:05:35.110",
+    "start_seconds": 332.88,
+    "end_seconds": 335.11,
+    "text": "I'm going to do. I'm going to first take the present value of the bond of the"
+  },
+  {
+    "start": "00:05:35.110",
+    "end": "00:05:35.120",
+    "start_seconds": 335.11,
+    "end_seconds": 335.12,
+    "text": "the present value of the bond of the"
+  },
+  {
+    "start": "00:05:35.120",
+    "end": "00:05:37.430",
+    "start_seconds": 335.12,
+    "end_seconds": 337.43,
+    "text": "the present value of the bond of the cash flow in each year. So, that's just"
+  },
+  {
+    "start": "00:05:37.430",
+    "end": "00:05:37.440",
+    "start_seconds": 337.43,
+    "end_seconds": 337.44,
+    "text": "cash flow in each year. So, that's just"
+  },
+  {
+    "start": "00:05:37.440",
+    "end": "00:05:39.950",
+    "start_seconds": 337.44,
+    "end_seconds": 339.95,
+    "text": "cash flow in each year. So, that's just the present value of the cash flows to"
+  },
+  {
+    "start": "00:05:39.950",
+    "end": "00:05:39.960",
+    "start_seconds": 339.95,
+    "end_seconds": 339.96,
+    "text": "the present value of the cash flows to"
+  },
+  {
+    "start": "00:05:39.960",
+    "end": "00:05:41.990",
+    "start_seconds": 339.96,
+    "end_seconds": 341.99,
+    "text": "the present value of the cash flows to to today. And then, I'm going to"
+  },
+  {
+    "start": "00:05:41.990",
+    "end": "00:05:42.000",
+    "start_seconds": 341.99,
+    "end_seconds": 342.0,
+    "text": "to today. And then, I'm going to"
+  },
+  {
+    "start": "00:05:42.000",
+    "end": "00:05:44.430",
+    "start_seconds": 342.0,
+    "end_seconds": 344.43,
+    "text": "to today. And then, I'm going to multiply the present value by when I get"
+  },
+  {
+    "start": "00:05:44.430",
+    "end": "00:05:44.440",
+    "start_seconds": 344.43,
+    "end_seconds": 344.44,
+    "text": "multiply the present value by when I get"
+  },
+  {
+    "start": "00:05:44.440",
+    "end": "00:05:46.030",
+    "start_seconds": 344.44,
+    "end_seconds": 346.03,
+    "text": "multiply the present value by when I get the cash flows. So, year one cash flow,"
+  },
+  {
+    "start": "00:05:46.030",
+    "end": "00:05:46.040",
+    "start_seconds": 346.03,
+    "end_seconds": 346.04,
+    "text": "the cash flows. So, year one cash flow,"
+  },
+  {
+    "start": "00:05:46.040",
+    "end": "00:05:47.710",
+    "start_seconds": 346.04,
+    "end_seconds": 347.71,
+    "text": "the cash flows. So, year one cash flow, I'm going to multiply by one. Your two"
+  },
+  {
+    "start": "00:05:47.710",
+    "end": "00:05:47.720",
+    "start_seconds": 347.71,
+    "end_seconds": 347.72,
+    "text": "I'm going to multiply by one. Your two"
+  },
+  {
+    "start": "00:05:47.720",
+    "end": "00:05:50.430",
+    "start_seconds": 347.72,
+    "end_seconds": 350.43,
+    "text": "I'm going to multiply by one. Your two cash flow, I'm going to multiply by two."
+  },
+  {
+    "start": "00:05:50.430",
+    "end": "00:05:50.440",
+    "start_seconds": 350.43,
+    "end_seconds": 350.44,
+    "text": "cash flow, I'm going to multiply by two."
+  },
+  {
+    "start": "00:05:50.440",
+    "end": "00:05:52.390",
+    "start_seconds": 350.44,
+    "end_seconds": 352.39,
+    "text": "cash flow, I'm going to multiply by two. If you add up that last column, you get"
+  },
+  {
+    "start": "00:05:52.390",
+    "end": "00:05:52.400",
+    "start_seconds": 352.39,
+    "end_seconds": 352.4,
+    "text": "If you add up that last column, you get"
+  },
+  {
+    "start": "00:05:52.400",
+    "end": "00:05:54.710",
+    "start_seconds": 352.4,
+    "end_seconds": 354.71,
+    "text": "If you add up that last column, you get 7,714."
+  },
+  {
+    "start": "00:05:54.710",
+    "end": "00:05:54.720",
+    "start_seconds": 354.71,
+    "end_seconds": 354.72,
+    "text": "7,714."
+  },
+  {
+    "start": "00:05:54.720",
+    "end": "00:05:56.110",
+    "start_seconds": 354.72,
+    "end_seconds": 356.11,
+    "text": "7,714. And you divide by the present value of"
+  },
+  {
+    "start": "00:05:56.110",
+    "end": "00:05:56.120",
+    "start_seconds": 356.11,
+    "end_seconds": 356.12,
+    "text": "And you divide by the present value of"
+  },
+  {
+    "start": "00:05:56.120",
+    "end": "00:05:58.070",
+    "start_seconds": 356.12,
+    "end_seconds": 358.07,
+    "text": "And you divide by the present value of the bond, you get a duration of the bond"
+  },
+  {
+    "start": "00:05:58.070",
+    "end": "00:05:58.080",
+    "start_seconds": 358.07,
+    "end_seconds": 358.08,
+    "text": "the bond, you get a duration of the bond"
+  },
+  {
+    "start": "00:05:58.080",
+    "end": "00:06:00.670",
+    "start_seconds": 358.08,
+    "end_seconds": 360.67,
+    "text": "the bond, you get a duration of the bond of 8.36 years. That incorporates both"
+  },
+  {
+    "start": "00:06:00.670",
+    "end": "00:06:00.680",
+    "start_seconds": 360.67,
+    "end_seconds": 360.68,
+    "text": "of 8.36 years. That incorporates both"
+  },
+  {
+    "start": "00:06:00.680",
+    "end": "00:06:03.750",
+    "start_seconds": 360.68,
+    "end_seconds": 363.75,
+    "text": "of 8.36 years. That incorporates both the coupon and the maturity."
+  },
+  {
+    "start": "00:06:03.750",
+    "end": "00:06:03.760",
+    "start_seconds": 363.75,
+    "end_seconds": 363.76,
+    "text": "the coupon and the maturity."
+  },
+  {
+    "start": "00:06:03.760",
+    "end": "00:06:05.110",
+    "start_seconds": 363.76,
+    "end_seconds": 365.11,
+    "text": "the coupon and the maturity. The higher the duration, the more"
+  },
+  {
+    "start": "00:06:05.110",
+    "end": "00:06:05.120",
+    "start_seconds": 365.11,
+    "end_seconds": 365.12,
+    "text": "The higher the duration, the more"
+  },
+  {
+    "start": "00:06:05.120",
+    "end": "00:06:07.150",
+    "start_seconds": 365.12,
+    "end_seconds": 367.15,
+    "text": "The higher the duration, the more sensitive a bond is going to be to"
+  },
+  {
+    "start": "00:06:07.150",
+    "end": "00:06:07.160",
+    "start_seconds": 367.15,
+    "end_seconds": 367.16,
+    "text": "sensitive a bond is going to be to"
+  },
+  {
+    "start": "00:06:07.160",
+    "end": "00:06:10.070",
+    "start_seconds": 367.16,
+    "end_seconds": 370.07,
+    "text": "sensitive a bond is going to be to interest rate changes."
+  },
+  {
+    "start": "00:06:10.070",
+    "end": "00:06:10.080",
+    "start_seconds": 370.07,
+    "end_seconds": 370.08,
+    "text": "interest rate changes."
+  },
+  {
+    "start": "00:06:10.080",
+    "end": "00:06:11.950",
+    "start_seconds": 370.08,
+    "end_seconds": 371.95,
+    "text": "interest rate changes. Let's bring in default risk. When you"
+  },
+  {
+    "start": "00:06:11.950",
+    "end": "00:06:11.960",
+    "start_seconds": 371.95,
+    "end_seconds": 371.96,
+    "text": "Let's bring in default risk. When you"
+  },
+  {
+    "start": "00:06:11.960",
+    "end": "00:06:14.590",
+    "start_seconds": 371.96,
+    "end_seconds": 374.59,
+    "text": "Let's bring in default risk. When you buy a bond, you're promised a coupon."
+  },
+  {
+    "start": "00:06:14.590",
+    "end": "00:06:14.600",
+    "start_seconds": 374.59,
+    "end_seconds": 374.6,
+    "text": "buy a bond, you're promised a coupon."
+  },
+  {
+    "start": "00:06:14.600",
+    "end": "00:06:17.070",
+    "start_seconds": 374.6,
+    "end_seconds": 377.07,
+    "text": "buy a bond, you're promised a coupon. But that promise might not be delivered."
+  },
+  {
+    "start": "00:06:17.070",
+    "end": "00:06:17.080",
+    "start_seconds": 377.07,
+    "end_seconds": 377.08,
+    "text": "But that promise might not be delivered."
+  },
+  {
+    "start": "00:06:17.080",
+    "end": "00:06:18.790",
+    "start_seconds": 377.08,
+    "end_seconds": 378.79,
+    "text": "But that promise might not be delivered. Your best case scenario with the bond is"
+  },
+  {
+    "start": "00:06:18.790",
+    "end": "00:06:18.800",
+    "start_seconds": 378.79,
+    "end_seconds": 378.8,
+    "text": "Your best case scenario with the bond is"
+  },
+  {
+    "start": "00:06:18.800",
+    "end": "00:06:21.110",
+    "start_seconds": 378.8,
+    "end_seconds": 381.11,
+    "text": "Your best case scenario with the bond is you get the entire coupon."
+  },
+  {
+    "start": "00:06:21.110",
+    "end": "00:06:21.120",
+    "start_seconds": 381.11,
+    "end_seconds": 381.12,
+    "text": "you get the entire coupon."
+  },
+  {
+    "start": "00:06:21.120",
+    "end": "00:06:22.990",
+    "start_seconds": 381.12,
+    "end_seconds": 382.99,
+    "text": "you get the entire coupon. You don't get You don't ever get more"
+  },
+  {
+    "start": "00:06:22.990",
+    "end": "00:06:23.000",
+    "start_seconds": 382.99,
+    "end_seconds": 383.0,
+    "text": "You don't get You don't ever get more"
+  },
+  {
+    "start": "00:06:23.000",
+    "end": "00:06:25.350",
+    "start_seconds": 383.0,
+    "end_seconds": 385.35,
+    "text": "You don't get You don't ever get more than the coupon, no matter how well the"
+  },
+  {
+    "start": "00:06:25.350",
+    "end": "00:06:25.360",
+    "start_seconds": 385.35,
+    "end_seconds": 385.36,
+    "text": "than the coupon, no matter how well the"
+  },
+  {
+    "start": "00:06:25.360",
+    "end": "00:06:26.909",
+    "start_seconds": 385.36,
+    "end_seconds": 386.909,
+    "text": "than the coupon, no matter how well the borrower is doing."
+  },
+  {
+    "start": "00:06:26.909",
+    "end": "00:06:26.919",
+    "start_seconds": 386.909,
+    "end_seconds": 386.919,
+    "text": "borrower is doing."
+  },
+  {
+    "start": "00:06:26.919",
+    "end": "00:06:29.070",
+    "start_seconds": 386.919,
+    "end_seconds": 389.07,
+    "text": "borrower is doing. Your worst case scenarios, though, raise"
+  },
+  {
+    "start": "00:06:29.070",
+    "end": "00:06:29.080",
+    "start_seconds": 389.07,
+    "end_seconds": 389.08,
+    "text": "Your worst case scenarios, though, raise"
+  },
+  {
+    "start": "00:06:29.080",
+    "end": "00:06:30.510",
+    "start_seconds": 389.08,
+    "end_seconds": 390.51,
+    "text": "Your worst case scenarios, though, raise the spectrum."
+  },
+  {
+    "start": "00:06:30.510",
+    "end": "00:06:30.520",
+    "start_seconds": 390.51,
+    "end_seconds": 390.52,
+    "text": "the spectrum."
+  },
+  {
+    "start": "00:06:30.520",
+    "end": "00:06:32.110",
+    "start_seconds": 390.52,
+    "end_seconds": 392.11,
+    "text": "the spectrum. Your worst case scenario of all is you"
+  },
+  {
+    "start": "00:06:32.110",
+    "end": "00:06:32.120",
+    "start_seconds": 392.11,
+    "end_seconds": 392.12,
+    "text": "Your worst case scenario of all is you"
+  },
+  {
+    "start": "00:06:32.120",
+    "end": "00:06:35.510",
+    "start_seconds": 392.12,
+    "end_seconds": 395.51,
+    "text": "Your worst case scenario of all is you receive none of the promised cash flows."
+  },
+  {
+    "start": "00:06:35.510",
+    "end": "00:06:35.520",
+    "start_seconds": 395.51,
+    "end_seconds": 395.52,
+    "text": "receive none of the promised cash flows."
+  },
+  {
+    "start": "00:06:35.520",
+    "end": "00:06:37.310",
+    "start_seconds": 395.52,
+    "end_seconds": 397.31,
+    "text": "receive none of the promised cash flows. The potential or upside is limited. The"
+  },
+  {
+    "start": "00:06:37.310",
+    "end": "00:06:37.320",
+    "start_seconds": 397.31,
+    "end_seconds": 397.32,
+    "text": "The potential or upside is limited. The"
+  },
+  {
+    "start": "00:06:37.320",
+    "end": "00:06:39.909",
+    "start_seconds": 397.32,
+    "end_seconds": 399.909,
+    "text": "The potential or upside is limited. The potential for downside is very large."
+  },
+  {
+    "start": "00:06:39.909",
+    "end": "00:06:39.919",
+    "start_seconds": 399.909,
+    "end_seconds": 399.919,
+    "text": "potential for downside is very large."
+  },
+  {
+    "start": "00:06:39.919",
+    "end": "00:06:42.110",
+    "start_seconds": 399.919,
+    "end_seconds": 402.11,
+    "text": "potential for downside is very large. And I'm going to draw a proposition that"
+  },
+  {
+    "start": "00:06:42.110",
+    "end": "00:06:42.120",
+    "start_seconds": 402.11,
+    "end_seconds": 402.12,
+    "text": "And I'm going to draw a proposition that"
+  },
+  {
+    "start": "00:06:42.120",
+    "end": "00:06:45.630",
+    "start_seconds": 402.12,
+    "end_seconds": 405.63,
+    "text": "And I'm going to draw a proposition that comes from that characteristic of bonds."
+  },
+  {
+    "start": "00:06:45.630",
+    "end": "00:06:45.640",
+    "start_seconds": 405.63,
+    "end_seconds": 405.64,
+    "text": "comes from that characteristic of bonds."
+  },
+  {
+    "start": "00:06:45.640",
+    "end": "00:06:47.950",
+    "start_seconds": 405.64,
+    "end_seconds": 407.95,
+    "text": "comes from that characteristic of bonds. Because of the asymmetric risk that you"
+  },
+  {
+    "start": "00:06:47.950",
+    "end": "00:06:47.960",
+    "start_seconds": 407.95,
+    "end_seconds": 407.96,
+    "text": "Because of the asymmetric risk that you"
+  },
+  {
+    "start": "00:06:47.960",
+    "end": "00:06:50.310",
+    "start_seconds": 407.96,
+    "end_seconds": 410.31,
+    "text": "Because of the asymmetric risk that you get lots more downside than upside risk"
+  },
+  {
+    "start": "00:06:50.310",
+    "end": "00:06:50.320",
+    "start_seconds": 410.31,
+    "end_seconds": 410.32,
+    "text": "get lots more downside than upside risk"
+  },
+  {
+    "start": "00:06:50.320",
+    "end": "00:06:51.550",
+    "start_seconds": 410.32,
+    "end_seconds": 411.55,
+    "text": "get lots more downside than upside risk in a bond,"
+  },
+  {
+    "start": "00:06:51.550",
+    "end": "00:06:51.560",
+    "start_seconds": 411.55,
+    "end_seconds": 411.56,
+    "text": "in a bond,"
+  },
+  {
+    "start": "00:06:51.560",
+    "end": "00:06:53.310",
+    "start_seconds": 411.56,
+    "end_seconds": 413.31,
+    "text": "in a bond, with bonds, we measure risk by looking"
+  },
+  {
+    "start": "00:06:53.310",
+    "end": "00:06:53.320",
+    "start_seconds": 413.31,
+    "end_seconds": 413.32,
+    "text": "with bonds, we measure risk by looking"
+  },
+  {
+    "start": "00:06:53.320",
+    "end": "00:06:55.470",
+    "start_seconds": 413.32,
+    "end_seconds": 415.47,
+    "text": "with bonds, we measure risk by looking at only the downside risk or default"
+  },
+  {
+    "start": "00:06:55.470",
+    "end": "00:06:55.480",
+    "start_seconds": 415.47,
+    "end_seconds": 415.48,
+    "text": "at only the downside risk or default"
+  },
+  {
+    "start": "00:06:55.480",
+    "end": "00:06:57.110",
+    "start_seconds": 415.48,
+    "end_seconds": 417.11,
+    "text": "at only the downside risk or default risk."
+  },
+  {
+    "start": "00:06:57.110",
+    "end": "00:06:57.120",
+    "start_seconds": 417.11,
+    "end_seconds": 417.12,
+    "text": "risk."
+  },
+  {
+    "start": "00:06:57.120",
+    "end": "00:06:58.790",
+    "start_seconds": 417.12,
+    "end_seconds": 418.79,
+    "text": "risk. With equities, you see why we bring in"
+  },
+  {
+    "start": "00:06:58.790",
+    "end": "00:06:58.800",
+    "start_seconds": 418.79,
+    "end_seconds": 418.8,
+    "text": "With equities, you see why we bring in"
+  },
+  {
+    "start": "00:06:58.800",
+    "end": "00:07:00.750",
+    "start_seconds": 418.8,
+    "end_seconds": 420.75,
+    "text": "With equities, you see why we bring in the upside. With bonds, it's mostly"
+  },
+  {
+    "start": "00:07:00.750",
+    "end": "00:07:00.760",
+    "start_seconds": 420.75,
+    "end_seconds": 420.76,
+    "text": "the upside. With bonds, it's mostly"
+  },
+  {
+    "start": "00:07:00.760",
+    "end": "00:07:02.070",
+    "start_seconds": 420.76,
+    "end_seconds": 422.07,
+    "text": "the upside. With bonds, it's mostly downside risk."
+  },
+  {
+    "start": "00:07:02.070",
+    "end": "00:07:02.080",
+    "start_seconds": 422.07,
+    "end_seconds": 422.08,
+    "text": "downside risk."
+  },
+  {
+    "start": "00:07:02.080",
+    "end": "00:07:03.990",
+    "start_seconds": 422.08,
+    "end_seconds": 423.99,
+    "text": "downside risk. So, what is it that drives default risk?"
+  },
+  {
+    "start": "00:07:03.990",
+    "end": "00:07:04.000",
+    "start_seconds": 423.99,
+    "end_seconds": 424.0,
+    "text": "So, what is it that drives default risk?"
+  },
+  {
+    "start": "00:07:04.000",
+    "end": "00:07:05.630",
+    "start_seconds": 424.0,
+    "end_seconds": 425.63,
+    "text": "So, what is it that drives default risk? Three things."
+  },
+  {
+    "start": "00:07:05.630",
+    "end": "00:07:05.640",
+    "start_seconds": 425.63,
+    "end_seconds": 425.64,
+    "text": "Three things."
+  },
+  {
+    "start": "00:07:05.640",
+    "end": "00:07:08.110",
+    "start_seconds": 425.64,
+    "end_seconds": 428.11,
+    "text": "Three things. First is the capacity to generate cash"
+  },
+  {
+    "start": "00:07:08.110",
+    "end": "00:07:08.120",
+    "start_seconds": 428.11,
+    "end_seconds": 428.12,
+    "text": "First is the capacity to generate cash"
+  },
+  {
+    "start": "00:07:08.120",
+    "end": "00:07:09.870",
+    "start_seconds": 428.12,
+    "end_seconds": 429.87,
+    "text": "First is the capacity to generate cash flows from operations. A business that's"
+  },
+  {
+    "start": "00:07:09.870",
+    "end": "00:07:09.880",
+    "start_seconds": 429.87,
+    "end_seconds": 429.88,
+    "text": "flows from operations. A business that's"
+  },
+  {
+    "start": "00:07:09.880",
+    "end": "00:07:11.990",
+    "start_seconds": 429.88,
+    "end_seconds": 431.99,
+    "text": "flows from operations. A business that's able to generate more cash flows from"
+  },
+  {
+    "start": "00:07:11.990",
+    "end": "00:07:12.000",
+    "start_seconds": 431.99,
+    "end_seconds": 432.0,
+    "text": "able to generate more cash flows from"
+  },
+  {
+    "start": "00:07:12.000",
+    "end": "00:07:14.350",
+    "start_seconds": 432.0,
+    "end_seconds": 434.35,
+    "text": "able to generate more cash flows from operations will have less default risk"
+  },
+  {
+    "start": "00:07:14.350",
+    "end": "00:07:14.360",
+    "start_seconds": 434.35,
+    "end_seconds": 434.36,
+    "text": "operations will have less default risk"
+  },
+  {
+    "start": "00:07:14.360",
+    "end": "00:07:16.750",
+    "start_seconds": 434.36,
+    "end_seconds": 436.75,
+    "text": "operations will have less default risk than one that generates less cash flows."
+  },
+  {
+    "start": "00:07:16.750",
+    "end": "00:07:16.760",
+    "start_seconds": 436.75,
+    "end_seconds": 436.76,
+    "text": "than one that generates less cash flows."
+  },
+  {
+    "start": "00:07:16.760",
+    "end": "00:07:18.390",
+    "start_seconds": 436.76,
+    "end_seconds": 438.39,
+    "text": "than one that generates less cash flows. And the one that generates less cash"
+  },
+  {
+    "start": "00:07:18.390",
+    "end": "00:07:18.400",
+    "start_seconds": 438.39,
+    "end_seconds": 438.4,
+    "text": "And the one that generates less cash"
+  },
+  {
+    "start": "00:07:18.400",
+    "end": "00:07:20.750",
+    "start_seconds": 438.4,
+    "end_seconds": 440.75,
+    "text": "And the one that generates less cash flows will have less default risk than"
+  },
+  {
+    "start": "00:07:20.750",
+    "end": "00:07:20.760",
+    "start_seconds": 440.75,
+    "end_seconds": 440.76,
+    "text": "flows will have less default risk than"
+  },
+  {
+    "start": "00:07:20.760",
+    "end": "00:07:23.550",
+    "start_seconds": 440.76,
+    "end_seconds": 443.55,
+    "text": "flows will have less default risk than one that creates negative cash flows."
+  },
+  {
+    "start": "00:07:23.550",
+    "end": "00:07:23.560",
+    "start_seconds": 443.55,
+    "end_seconds": 443.56,
+    "text": "one that creates negative cash flows."
+  },
+  {
+    "start": "00:07:23.560",
+    "end": "00:07:25.190",
+    "start_seconds": 443.56,
+    "end_seconds": 445.19,
+    "text": "one that creates negative cash flows. That's the first. The second is the"
+  },
+  {
+    "start": "00:07:25.190",
+    "end": "00:07:25.200",
+    "start_seconds": 445.19,
+    "end_seconds": 445.2,
+    "text": "That's the first. The second is the"
+  },
+  {
+    "start": "00:07:25.200",
+    "end": "00:07:27.030",
+    "start_seconds": 445.2,
+    "end_seconds": 447.03,
+    "text": "That's the first. The second is the volatility in those cash flows. You take"
+  },
+  {
+    "start": "00:07:27.030",
+    "end": "00:07:27.040",
+    "start_seconds": 447.03,
+    "end_seconds": 447.04,
+    "text": "volatility in those cash flows. You take"
+  },
+  {
+    "start": "00:07:27.040",
+    "end": "00:07:28.870",
+    "start_seconds": 447.04,
+    "end_seconds": 448.87,
+    "text": "volatility in those cash flows. You take two companies with exactly the same cash"
+  },
+  {
+    "start": "00:07:28.870",
+    "end": "00:07:28.880",
+    "start_seconds": 448.87,
+    "end_seconds": 448.88,
+    "text": "two companies with exactly the same cash"
+  },
+  {
+    "start": "00:07:28.880",
+    "end": "00:07:31.710",
+    "start_seconds": 448.88,
+    "end_seconds": 451.71,
+    "text": "two companies with exactly the same cash flows. A company with stable cash flows"
+  },
+  {
+    "start": "00:07:31.710",
+    "end": "00:07:31.720",
+    "start_seconds": 451.71,
+    "end_seconds": 451.72,
+    "text": "flows. A company with stable cash flows"
+  },
+  {
+    "start": "00:07:31.720",
+    "end": "00:07:33.630",
+    "start_seconds": 451.72,
+    "end_seconds": 453.63,
+    "text": "flows. A company with stable cash flows will have less default risk than one"
+  },
+  {
+    "start": "00:07:33.630",
+    "end": "00:07:33.640",
+    "start_seconds": 453.63,
+    "end_seconds": 453.64,
+    "text": "will have less default risk than one"
+  },
+  {
+    "start": "00:07:33.640",
+    "end": "00:07:36.110",
+    "start_seconds": 453.64,
+    "end_seconds": 456.11,
+    "text": "will have less default risk than one with more unstable cash flows."
+  },
+  {
+    "start": "00:07:36.110",
+    "end": "00:07:36.120",
+    "start_seconds": 456.11,
+    "end_seconds": 456.12,
+    "text": "with more unstable cash flows."
+  },
+  {
+    "start": "00:07:36.120",
+    "end": "00:07:37.470",
+    "start_seconds": 456.12,
+    "end_seconds": 457.47,
+    "text": "with more unstable cash flows. And to the extent that you have other"
+  },
+  {
+    "start": "00:07:37.470",
+    "end": "00:07:37.480",
+    "start_seconds": 457.47,
+    "end_seconds": 457.48,
+    "text": "And to the extent that you have other"
+  },
+  {
+    "start": "00:07:37.480",
+    "end": "00:07:39.190",
+    "start_seconds": 457.48,
+    "end_seconds": 459.19,
+    "text": "And to the extent that you have other fixed commitments you have as a company,"
+  },
+  {
+    "start": "00:07:39.190",
+    "end": "00:07:39.200",
+    "start_seconds": 459.19,
+    "end_seconds": 459.2,
+    "text": "fixed commitments you have as a company,"
+  },
+  {
+    "start": "00:07:39.200",
+    "end": "00:07:40.670",
+    "start_seconds": 459.2,
+    "end_seconds": 460.67,
+    "text": "fixed commitments you have as a company, lease commitments, contractual"
+  },
+  {
+    "start": "00:07:40.670",
+    "end": "00:07:40.680",
+    "start_seconds": 460.67,
+    "end_seconds": 460.68,
+    "text": "lease commitments, contractual"
+  },
+  {
+    "start": "00:07:40.680",
+    "end": "00:07:42.430",
+    "start_seconds": 460.68,
+    "end_seconds": 462.43,
+    "text": "lease commitments, contractual commitments, that adds to your default"
+  },
+  {
+    "start": "00:07:42.430",
+    "end": "00:07:42.440",
+    "start_seconds": 462.43,
+    "end_seconds": 462.44,
+    "text": "commitments, that adds to your default"
+  },
+  {
+    "start": "00:07:42.440",
+    "end": "00:07:44.230",
+    "start_seconds": 462.44,
+    "end_seconds": 464.23,
+    "text": "commitments, that adds to your default risk."
+  },
+  {
+    "start": "00:07:44.230",
+    "end": "00:07:44.240",
+    "start_seconds": 464.23,
+    "end_seconds": 464.24,
+    "text": "risk."
+  },
+  {
+    "start": "00:07:44.240",
+    "end": "00:07:46.630",
+    "start_seconds": 464.24,
+    "end_seconds": 466.63,
+    "text": "risk. For as long as people have been trying"
+  },
+  {
+    "start": "00:07:46.630",
+    "end": "00:07:46.640",
+    "start_seconds": 466.63,
+    "end_seconds": 466.64,
+    "text": "For as long as people have been trying"
+  },
+  {
+    "start": "00:07:46.640",
+    "end": "00:07:48.350",
+    "start_seconds": 466.64,
+    "end_seconds": 468.35,
+    "text": "For as long as people have been trying to lend money,"
+  },
+  {
+    "start": "00:07:48.350",
+    "end": "00:07:48.360",
+    "start_seconds": 468.35,
+    "end_seconds": 468.36,
+    "text": "to lend money,"
+  },
+  {
+    "start": "00:07:48.360",
+    "end": "00:07:49.670",
+    "start_seconds": 468.36,
+    "end_seconds": 469.67,
+    "text": "to lend money, they've been trying to measure default"
+  },
+  {
+    "start": "00:07:49.670",
+    "end": "00:07:49.680",
+    "start_seconds": 469.67,
+    "end_seconds": 469.68,
+    "text": "they've been trying to measure default"
+  },
+  {
+    "start": "00:07:49.680",
+    "end": "00:07:52.150",
+    "start_seconds": 469.68,
+    "end_seconds": 472.15,
+    "text": "they've been trying to measure default risk. And there are three broad measures"
+  },
+  {
+    "start": "00:07:52.150",
+    "end": "00:07:52.160",
+    "start_seconds": 472.15,
+    "end_seconds": 472.15999999999997,
+    "text": "risk. And there are three broad measures"
+  },
+  {
+    "start": "00:07:52.160",
+    "end": "00:07:54.150",
+    "start_seconds": 472.15999999999997,
+    "end_seconds": 474.15,
+    "text": "risk. And there are three broad measures of default risk you will find. The first"
+  },
+  {
+    "start": "00:07:54.150",
+    "end": "00:07:54.160",
+    "start_seconds": 474.15,
+    "end_seconds": 474.15999999999997,
+    "text": "of default risk you will find. The first"
+  },
+  {
+    "start": "00:07:54.160",
+    "end": "00:07:55.030",
+    "start_seconds": 474.15999999999997,
+    "end_seconds": 475.03,
+    "text": "of default risk you will find. The first is"
+  },
+  {
+    "start": "00:07:55.030",
+    "end": "00:07:55.040",
+    "start_seconds": 475.03,
+    "end_seconds": 475.04,
+    "text": "is"
+  },
+  {
+    "start": "00:07:55.040",
+    "end": "00:07:57.110",
+    "start_seconds": 475.04,
+    "end_seconds": 477.11,
+    "text": "is a measure we run into as individuals or"
+  },
+  {
+    "start": "00:07:57.110",
+    "end": "00:07:57.120",
+    "start_seconds": 477.11,
+    "end_seconds": 477.12,
+    "text": "a measure we run into as individuals or"
+  },
+  {
+    "start": "00:07:57.120",
+    "end": "00:07:58.830",
+    "start_seconds": 477.12,
+    "end_seconds": 478.83,
+    "text": "a measure we run into as individuals or as business, which is a credit risk"
+  },
+  {
+    "start": "00:07:58.830",
+    "end": "00:07:58.840",
+    "start_seconds": 478.83,
+    "end_seconds": 478.84000000000003,
+    "text": "as business, which is a credit risk"
+  },
+  {
+    "start": "00:07:58.840",
+    "end": "00:08:00.110",
+    "start_seconds": 478.84000000000003,
+    "end_seconds": 480.11,
+    "text": "as business, which is a credit risk score."
+  },
+  {
+    "start": "00:08:00.110",
+    "end": "00:08:00.120",
+    "start_seconds": 480.11,
+    "end_seconds": 480.12,
+    "text": "score."
+  },
+  {
+    "start": "00:08:00.120",
+    "end": "00:08:01.550",
+    "start_seconds": 480.12,
+    "end_seconds": 481.55,
+    "text": "score. Where people look at your age, your"
+  },
+  {
+    "start": "00:08:01.550",
+    "end": "00:08:01.560",
+    "start_seconds": 481.55,
+    "end_seconds": 481.56,
+    "text": "Where people look at your age, your"
+  },
+  {
+    "start": "00:08:01.560",
+    "end": "00:08:03.590",
+    "start_seconds": 481.56,
+    "end_seconds": 483.59,
+    "text": "Where people look at your age, your income, your wealth,"
+  },
+  {
+    "start": "00:08:03.590",
+    "end": "00:08:03.600",
+    "start_seconds": 483.59,
+    "end_seconds": 483.6,
+    "text": "income, your wealth,"
+  },
+  {
+    "start": "00:08:03.600",
+    "end": "00:08:05.150",
+    "start_seconds": 483.6,
+    "end_seconds": 485.15,
+    "text": "income, your wealth, and they assess a credit risk score."
+  },
+  {
+    "start": "00:08:05.150",
+    "end": "00:08:05.160",
+    "start_seconds": 485.15,
+    "end_seconds": 485.16,
+    "text": "and they assess a credit risk score."
+  },
+  {
+    "start": "00:08:05.160",
+    "end": "00:08:07.390",
+    "start_seconds": 485.16,
+    "end_seconds": 487.39,
+    "text": "and they assess a credit risk score. Sometimes we think it's unfair, but as"
+  },
+  {
+    "start": "00:08:07.390",
+    "end": "00:08:07.400",
+    "start_seconds": 487.39,
+    "end_seconds": 487.4,
+    "text": "Sometimes we think it's unfair, but as"
+  },
+  {
+    "start": "00:08:07.400",
+    "end": "00:08:09.030",
+    "start_seconds": 487.4,
+    "end_seconds": 489.03,
+    "text": "Sometimes we think it's unfair, but as lenders, you can see why a credit risk"
+  },
+  {
+    "start": "00:08:09.030",
+    "end": "00:08:09.040",
+    "start_seconds": 489.03,
+    "end_seconds": 489.04,
+    "text": "lenders, you can see why a credit risk"
+  },
+  {
+    "start": "00:08:09.040",
+    "end": "00:08:10.950",
+    "start_seconds": 489.04,
+    "end_seconds": 490.95,
+    "text": "lenders, you can see why a credit risk score helps you determine what interest"
+  },
+  {
+    "start": "00:08:10.950",
+    "end": "00:08:10.960",
+    "start_seconds": 490.95,
+    "end_seconds": 490.96,
+    "text": "score helps you determine what interest"
+  },
+  {
+    "start": "00:08:10.960",
+    "end": "00:08:12.710",
+    "start_seconds": 490.96,
+    "end_seconds": 492.71,
+    "text": "score helps you determine what interest rate to charge a borrower or whether to"
+  },
+  {
+    "start": "00:08:12.710",
+    "end": "00:08:12.720",
+    "start_seconds": 492.71,
+    "end_seconds": 492.72,
+    "text": "rate to charge a borrower or whether to"
+  },
+  {
+    "start": "00:08:12.720",
+    "end": "00:08:15.070",
+    "start_seconds": 492.72,
+    "end_seconds": 495.07,
+    "text": "rate to charge a borrower or whether to lend them in the first place."
+  },
+  {
+    "start": "00:08:15.070",
+    "end": "00:08:15.080",
+    "start_seconds": 495.07,
+    "end_seconds": 495.08,
+    "text": "lend them in the first place."
+  },
+  {
+    "start": "00:08:15.080",
+    "end": "00:08:16.470",
+    "start_seconds": 495.08,
+    "end_seconds": 496.47,
+    "text": "lend them in the first place. The second, and this is true for"
+  },
+  {
+    "start": "00:08:16.470",
+    "end": "00:08:16.480",
+    "start_seconds": 496.47,
+    "end_seconds": 496.48,
+    "text": "The second, and this is true for"
+  },
+  {
+    "start": "00:08:16.480",
+    "end": "00:08:18.110",
+    "start_seconds": 496.48,
+    "end_seconds": 498.11,
+    "text": "The second, and this is true for corporations or publicly traded"
+  },
+  {
+    "start": "00:08:18.110",
+    "end": "00:08:18.120",
+    "start_seconds": 498.11,
+    "end_seconds": 498.12,
+    "text": "corporations or publicly traded"
+  },
+  {
+    "start": "00:08:18.120",
+    "end": "00:08:19.950",
+    "start_seconds": 498.12,
+    "end_seconds": 499.95,
+    "text": "corporations or publicly traded companies, used to be primarily in the"
+  },
+  {
+    "start": "00:08:19.950",
+    "end": "00:08:19.960",
+    "start_seconds": 499.95,
+    "end_seconds": 499.96,
+    "text": "companies, used to be primarily in the"
+  },
+  {
+    "start": "00:08:19.960",
+    "end": "00:08:22.150",
+    "start_seconds": 499.96,
+    "end_seconds": 502.15,
+    "text": "companies, used to be primarily in the US but now across the world, is a"
+  },
+  {
+    "start": "00:08:22.150",
+    "end": "00:08:22.160",
+    "start_seconds": 502.15,
+    "end_seconds": 502.16,
+    "text": "US but now across the world, is a"
+  },
+  {
+    "start": "00:08:22.160",
+    "end": "00:08:24.470",
+    "start_seconds": 502.16,
+    "end_seconds": 504.47,
+    "text": "US but now across the world, is a rating. There are ratings agencies out"
+  },
+  {
+    "start": "00:08:24.470",
+    "end": "00:08:24.480",
+    "start_seconds": 504.47,
+    "end_seconds": 504.48,
+    "text": "rating. There are ratings agencies out"
+  },
+  {
+    "start": "00:08:24.480",
+    "end": "00:08:26.030",
+    "start_seconds": 504.48,
+    "end_seconds": 506.03,
+    "text": "rating. There are ratings agencies out there, and we can debate how good or bad"
+  },
+  {
+    "start": "00:08:26.030",
+    "end": "00:08:26.040",
+    "start_seconds": 506.03,
+    "end_seconds": 506.04,
+    "text": "there, and we can debate how good or bad"
+  },
+  {
+    "start": "00:08:26.040",
+    "end": "00:08:27.950",
+    "start_seconds": 506.04,
+    "end_seconds": 507.95,
+    "text": "there, and we can debate how good or bad they are, whether they're biased,"
+  },
+  {
+    "start": "00:08:27.950",
+    "end": "00:08:27.960",
+    "start_seconds": 507.95,
+    "end_seconds": 507.96,
+    "text": "they are, whether they're biased,"
+  },
+  {
+    "start": "00:08:27.960",
+    "end": "00:08:31.590",
+    "start_seconds": 507.96,
+    "end_seconds": 511.59,
+    "text": "they are, whether they're biased, S&P, Moody's, Fitch, etc. And what these"
+  },
+  {
+    "start": "00:08:31.590",
+    "end": "00:08:31.600",
+    "start_seconds": 511.59,
+    "end_seconds": 511.6,
+    "text": "S&P, Moody's, Fitch, etc. And what these"
+  },
+  {
+    "start": "00:08:31.600",
+    "end": "00:08:33.310",
+    "start_seconds": 511.6,
+    "end_seconds": 513.31,
+    "text": "S&P, Moody's, Fitch, etc. And what these ratings agencies do is they look at"
+  },
+  {
+    "start": "00:08:33.310",
+    "end": "00:08:33.320",
+    "start_seconds": 513.31,
+    "end_seconds": 513.32,
+    "text": "ratings agencies do is they look at"
+  },
+  {
+    "start": "00:08:33.320",
+    "end": "00:08:35.350",
+    "start_seconds": 513.32,
+    "end_seconds": 515.35,
+    "text": "ratings agencies do is they look at publicly traded companies, they collect"
+  },
+  {
+    "start": "00:08:35.350",
+    "end": "00:08:35.360",
+    "start_seconds": 515.35,
+    "end_seconds": 515.36,
+    "text": "publicly traded companies, they collect"
+  },
+  {
+    "start": "00:08:35.360",
+    "end": "00:08:37.510",
+    "start_seconds": 515.36,
+    "end_seconds": 517.51,
+    "text": "publicly traded companies, they collect information for these companies, mostly"
+  },
+  {
+    "start": "00:08:37.510",
+    "end": "00:08:37.520",
+    "start_seconds": 517.51,
+    "end_seconds": 517.52,
+    "text": "information for these companies, mostly"
+  },
+  {
+    "start": "00:08:37.520",
+    "end": "00:08:39.589",
+    "start_seconds": 517.52,
+    "end_seconds": 519.5889999999999,
+    "text": "information for these companies, mostly public information, but sometimes"
+  },
+  {
+    "start": "00:08:39.589",
+    "end": "00:08:39.599",
+    "start_seconds": 519.5889999999999,
+    "end_seconds": 519.599,
+    "text": "public information, but sometimes"
+  },
+  {
+    "start": "00:08:39.599",
+    "end": "00:08:41.230",
+    "start_seconds": 519.599,
+    "end_seconds": 521.23,
+    "text": "public information, but sometimes information that they get from the"
+  },
+  {
+    "start": "00:08:41.230",
+    "end": "00:08:41.240",
+    "start_seconds": 521.23,
+    "end_seconds": 521.24,
+    "text": "information that they get from the"
+  },
+  {
+    "start": "00:08:41.240",
+    "end": "00:08:42.550",
+    "start_seconds": 521.24,
+    "end_seconds": 522.55,
+    "text": "information that they get from the managers,"
+  },
+  {
+    "start": "00:08:42.550",
+    "end": "00:08:42.560",
+    "start_seconds": 522.55,
+    "end_seconds": 522.56,
+    "text": "managers,"
+  },
+  {
+    "start": "00:08:42.560",
+    "end": "00:08:45.150",
+    "start_seconds": 522.56,
+    "end_seconds": 525.15,
+    "text": "managers, and they assess a default risk for that"
+  },
+  {
+    "start": "00:08:45.150",
+    "end": "00:08:45.160",
+    "start_seconds": 525.15,
+    "end_seconds": 525.16,
+    "text": "and they assess a default risk for that"
+  },
+  {
+    "start": "00:08:45.160",
+    "end": "00:08:47.870",
+    "start_seconds": 525.16,
+    "end_seconds": 527.87,
+    "text": "and they assess a default risk for that company with a rating. The ratings are,"
+  },
+  {
+    "start": "00:08:47.870",
+    "end": "00:08:47.880",
+    "start_seconds": 527.87,
+    "end_seconds": 527.88,
+    "text": "company with a rating. The ratings are,"
+  },
+  {
+    "start": "00:08:47.880",
+    "end": "00:08:50.750",
+    "start_seconds": 527.88,
+    "end_seconds": 530.75,
+    "text": "company with a rating. The ratings are, you know, are not num- are are letters,"
+  },
+  {
+    "start": "00:08:50.750",
+    "end": "00:08:50.760",
+    "start_seconds": 530.75,
+    "end_seconds": 530.76,
+    "text": "you know, are not num- are are letters,"
+  },
+  {
+    "start": "00:08:50.760",
+    "end": "00:08:53.270",
+    "start_seconds": 530.76,
+    "end_seconds": 533.27,
+    "text": "you know, are not num- are are letters, not numbers, and they range usually from"
+  },
+  {
+    "start": "00:08:53.270",
+    "end": "00:08:53.280",
+    "start_seconds": 533.27,
+    "end_seconds": 533.28,
+    "text": "not numbers, and they range usually from"
+  },
+  {
+    "start": "00:08:53.280",
+    "end": "00:08:55.350",
+    "start_seconds": 533.28,
+    "end_seconds": 535.35,
+    "text": "not numbers, and they range usually from triple A, which is the safest you can be"
+  },
+  {
+    "start": "00:08:55.350",
+    "end": "00:08:55.360",
+    "start_seconds": 535.35,
+    "end_seconds": 535.36,
+    "text": "triple A, which is the safest you can be"
+  },
+  {
+    "start": "00:08:55.360",
+    "end": "00:08:57.190",
+    "start_seconds": 535.36,
+    "end_seconds": 537.19,
+    "text": "triple A, which is the safest you can be as a company, down to D, where you're in"
+  },
+  {
+    "start": "00:08:57.190",
+    "end": "00:08:57.200",
+    "start_seconds": 537.19,
+    "end_seconds": 537.2,
+    "text": "as a company, down to D, where you're in"
+  },
+  {
+    "start": "00:08:57.200",
+    "end": "00:08:58.950",
+    "start_seconds": 537.2,
+    "end_seconds": 538.95,
+    "text": "as a company, down to D, where you're in default."
+  },
+  {
+    "start": "00:08:58.950",
+    "end": "00:08:58.960",
+    "start_seconds": 538.95,
+    "end_seconds": 538.96,
+    "text": "default."
+  },
+  {
+    "start": "00:08:58.960",
+    "end": "00:09:00.350",
+    "start_seconds": 538.96,
+    "end_seconds": 540.35,
+    "text": "default. There's a third way in which you measure"
+  },
+  {
+    "start": "00:09:00.350",
+    "end": "00:09:00.360",
+    "start_seconds": 540.35,
+    "end_seconds": 540.36,
+    "text": "There's a third way in which you measure"
+  },
+  {
+    "start": "00:09:00.360",
+    "end": "00:09:02.030",
+    "start_seconds": 540.36,
+    "end_seconds": 542.03,
+    "text": "There's a third way in which you measure default, which is relatively recent."
+  },
+  {
+    "start": "00:09:02.030",
+    "end": "00:09:02.040",
+    "start_seconds": 542.03,
+    "end_seconds": 542.04,
+    "text": "default, which is relatively recent."
+  },
+  {
+    "start": "00:09:02.040",
+    "end": "00:09:03.750",
+    "start_seconds": 542.04,
+    "end_seconds": 543.75,
+    "text": "default, which is relatively recent. Over the last 20 years, there's a market"
+  },
+  {
+    "start": "00:09:03.750",
+    "end": "00:09:03.760",
+    "start_seconds": 543.75,
+    "end_seconds": 543.76,
+    "text": "Over the last 20 years, there's a market"
+  },
+  {
+    "start": "00:09:03.760",
+    "end": "00:09:05.150",
+    "start_seconds": 543.76,
+    "end_seconds": 545.15,
+    "text": "Over the last 20 years, there's a market that's developed called the credit"
+  },
+  {
+    "start": "00:09:05.150",
+    "end": "00:09:05.160",
+    "start_seconds": 545.15,
+    "end_seconds": 545.16,
+    "text": "that's developed called the credit"
+  },
+  {
+    "start": "00:09:05.160",
+    "end": "00:09:07.110",
+    "start_seconds": 545.16,
+    "end_seconds": 547.11,
+    "text": "that's developed called the credit default swap market. What does it allow"
+  },
+  {
+    "start": "00:09:07.110",
+    "end": "00:09:07.120",
+    "start_seconds": 547.11,
+    "end_seconds": 547.12,
+    "text": "default swap market. What does it allow"
+  },
+  {
+    "start": "00:09:07.120",
+    "end": "00:09:08.270",
+    "start_seconds": 547.12,
+    "end_seconds": 548.27,
+    "text": "default swap market. What does it allow you to do?"
+  },
+  {
+    "start": "00:09:08.270",
+    "end": "00:09:08.280",
+    "start_seconds": 548.27,
+    "end_seconds": 548.28,
+    "text": "you to do?"
+  },
+  {
+    "start": "00:09:08.280",
+    "end": "00:09:09.870",
+    "start_seconds": 548.28,
+    "end_seconds": 549.87,
+    "text": "you to do? If you're somebody who's bought a bond"
+  },
+  {
+    "start": "00:09:09.870",
+    "end": "00:09:09.880",
+    "start_seconds": 549.87,
+    "end_seconds": 549.88,
+    "text": "If you're somebody who's bought a bond"
+  },
+  {
+    "start": "00:09:09.880",
+    "end": "00:09:11.270",
+    "start_seconds": 549.88,
+    "end_seconds": 551.27,
+    "text": "If you're somebody who's bought a bond and you're worried about default risk,"
+  },
+  {
+    "start": "00:09:11.270",
+    "end": "00:09:11.280",
+    "start_seconds": 551.27,
+    "end_seconds": 551.28,
+    "text": "and you're worried about default risk,"
+  },
+  {
+    "start": "00:09:11.280",
+    "end": "00:09:13.310",
+    "start_seconds": 551.28,
+    "end_seconds": 553.31,
+    "text": "and you're worried about default risk, it allows you to buy insurance against"
+  },
+  {
+    "start": "00:09:13.310",
+    "end": "00:09:13.320",
+    "start_seconds": 553.31,
+    "end_seconds": 553.32,
+    "text": "it allows you to buy insurance against"
+  },
+  {
+    "start": "00:09:13.320",
+    "end": "00:09:16.990",
+    "start_seconds": 553.32,
+    "end_seconds": 556.99,
+    "text": "it allows you to buy insurance against default risk in the form of a CDS"
+  },
+  {
+    "start": "00:09:16.990",
+    "end": "00:09:17.000",
+    "start_seconds": 556.99,
+    "end_seconds": 557.0,
+    "text": "default risk in the form of a CDS"
+  },
+  {
+    "start": "00:09:17.000",
+    "end": "00:09:18.430",
+    "start_seconds": 557.0,
+    "end_seconds": 558.43,
+    "text": "default risk in the form of a CDS spread."
+  },
+  {
+    "start": "00:09:18.430",
+    "end": "00:09:18.440",
+    "start_seconds": 558.43,
+    "end_seconds": 558.44,
+    "text": "spread."
+  },
+  {
+    "start": "00:09:18.440",
+    "end": "00:09:19.990",
+    "start_seconds": 558.44,
+    "end_seconds": 559.99,
+    "text": "spread. What is that spread? If that spread is 1"
+  },
+  {
+    "start": "00:09:19.990",
+    "end": "00:09:20.000",
+    "start_seconds": 559.99,
+    "end_seconds": 560.0,
+    "text": "What is that spread? If that spread is 1"
+  },
+  {
+    "start": "00:09:20.000",
+    "end": "00:09:22.550",
+    "start_seconds": 560.0,
+    "end_seconds": 562.55,
+    "text": "What is that spread? If that spread is 1 and 1/2% and you bought this on a bond"
+  },
+  {
+    "start": "00:09:22.550",
+    "end": "00:09:22.560",
+    "start_seconds": 562.55,
+    "end_seconds": 562.56,
+    "text": "and 1/2% and you bought this on a bond"
+  },
+  {
+    "start": "00:09:22.560",
+    "end": "00:09:24.829",
+    "start_seconds": 562.56,
+    "end_seconds": 564.829,
+    "text": "and 1/2% and you bought this on a bond where you collected 6% coupon or an"
+  },
+  {
+    "start": "00:09:24.829",
+    "end": "00:09:24.839",
+    "start_seconds": 564.829,
+    "end_seconds": 564.8389999999999,
+    "text": "where you collected 6% coupon or an"
+  },
+  {
+    "start": "00:09:24.839",
+    "end": "00:09:26.550",
+    "start_seconds": 564.8389999999999,
+    "end_seconds": 566.55,
+    "text": "where you collected 6% coupon or an interest rate,"
+  },
+  {
+    "start": "00:09:26.550",
+    "end": "00:09:26.560",
+    "start_seconds": 566.55,
+    "end_seconds": 566.56,
+    "text": "interest rate,"
+  },
+  {
+    "start": "00:09:26.560",
+    "end": "00:09:29.070",
+    "start_seconds": 566.56,
+    "end_seconds": 569.07,
+    "text": "interest rate, you pay 1 and 1/2% every year to"
+  },
+  {
+    "start": "00:09:29.070",
+    "end": "00:09:29.080",
+    "start_seconds": 569.07,
+    "end_seconds": 569.08,
+    "text": "you pay 1 and 1/2% every year to"
+  },
+  {
+    "start": "00:09:29.080",
+    "end": "00:09:32.230",
+    "start_seconds": 569.08,
+    "end_seconds": 572.23,
+    "text": "you pay 1 and 1/2% every year to insurance yourself against default."
+  },
+  {
+    "start": "00:09:32.230",
+    "end": "00:09:32.240",
+    "start_seconds": 572.23,
+    "end_seconds": 572.24,
+    "text": "insurance yourself against default."
+  },
+  {
+    "start": "00:09:32.240",
+    "end": "00:09:33.310",
+    "start_seconds": 572.24,
+    "end_seconds": 573.31,
+    "text": "insurance yourself against default. You can see what this gives you, right?"
+  },
+  {
+    "start": "00:09:33.310",
+    "end": "00:09:33.320",
+    "start_seconds": 573.31,
+    "end_seconds": 573.32,
+    "text": "You can see what this gives you, right?"
+  },
+  {
+    "start": "00:09:33.320",
+    "end": "00:09:35.790",
+    "start_seconds": 573.32,
+    "end_seconds": 575.79,
+    "text": "You can see what this gives you, right? It gives you a market set number for"
+  },
+  {
+    "start": "00:09:35.790",
+    "end": "00:09:35.800",
+    "start_seconds": 575.79,
+    "end_seconds": 575.8,
+    "text": "It gives you a market set number for"
+  },
+  {
+    "start": "00:09:35.800",
+    "end": "00:09:38.590",
+    "start_seconds": 575.8,
+    "end_seconds": 578.59,
+    "text": "It gives you a market set number for that default spread given your default"
+  },
+  {
+    "start": "00:09:38.590",
+    "end": "00:09:38.600",
+    "start_seconds": 578.59,
+    "end_seconds": 578.6,
+    "text": "that default spread given your default"
+  },
+  {
+    "start": "00:09:38.600",
+    "end": "00:09:41.070",
+    "start_seconds": 578.6,
+    "end_seconds": 581.07,
+    "text": "that default spread given your default risk. Credit risk scores, bond ratings,"
+  },
+  {
+    "start": "00:09:41.070",
+    "end": "00:09:41.080",
+    "start_seconds": 581.07,
+    "end_seconds": 581.08,
+    "text": "risk. Credit risk scores, bond ratings,"
+  },
+  {
+    "start": "00:09:41.080",
+    "end": "00:09:43.190",
+    "start_seconds": 581.08,
+    "end_seconds": 583.19,
+    "text": "risk. Credit risk scores, bond ratings, default swaps."
+  },
+  {
+    "start": "00:09:43.190",
+    "end": "00:09:43.200",
+    "start_seconds": 583.19,
+    "end_seconds": 583.2,
+    "text": "default swaps."
+  },
+  {
+    "start": "00:09:43.200",
+    "end": "00:09:45.190",
+    "start_seconds": 583.2,
+    "end_seconds": 585.19,
+    "text": "default swaps. Now, in this graph, there are two things"
+  },
+  {
+    "start": "00:09:45.190",
+    "end": "00:09:45.200",
+    "start_seconds": 585.19,
+    "end_seconds": 585.2,
+    "text": "Now, in this graph, there are two things"
+  },
+  {
+    "start": "00:09:45.200",
+    "end": "00:09:47.510",
+    "start_seconds": 585.2,
+    "end_seconds": 587.51,
+    "text": "Now, in this graph, there are two things I try to illustrate. First is that the"
+  },
+  {
+    "start": "00:09:47.510",
+    "end": "00:09:47.520",
+    "start_seconds": 587.51,
+    "end_seconds": 587.52,
+    "text": "I try to illustrate. First is that the"
+  },
+  {
+    "start": "00:09:47.520",
+    "end": "00:09:49.350",
+    "start_seconds": 587.52,
+    "end_seconds": 589.35,
+    "text": "I try to illustrate. First is that the ratings agencies for the most part get"
+  },
+  {
+    "start": "00:09:49.350",
+    "end": "00:09:49.360",
+    "start_seconds": 589.35,
+    "end_seconds": 589.36,
+    "text": "ratings agencies for the most part get"
+  },
+  {
+    "start": "00:09:49.360",
+    "end": "00:09:51.590",
+    "start_seconds": 589.36,
+    "end_seconds": 591.59,
+    "text": "ratings agencies for the most part get it right, right? So, if you go from AAA"
+  },
+  {
+    "start": "00:09:51.590",
+    "end": "00:09:51.600",
+    "start_seconds": 591.59,
+    "end_seconds": 591.6,
+    "text": "it right, right? So, if you go from AAA"
+  },
+  {
+    "start": "00:09:51.600",
+    "end": "00:09:53.510",
+    "start_seconds": 591.6,
+    "end_seconds": 593.51,
+    "text": "it right, right? So, if you go from AAA down to D, and these are both Moody's"
+  },
+  {
+    "start": "00:09:53.510",
+    "end": "00:09:53.520",
+    "start_seconds": 593.51,
+    "end_seconds": 593.52,
+    "text": "down to D, and these are both Moody's"
+  },
+  {
+    "start": "00:09:53.520",
+    "end": "00:09:55.870",
+    "start_seconds": 593.52,
+    "end_seconds": 595.87,
+    "text": "down to D, and these are both Moody's and S&P's, you can see that the default"
+  },
+  {
+    "start": "00:09:55.870",
+    "end": "00:09:55.880",
+    "start_seconds": 595.87,
+    "end_seconds": 595.88,
+    "text": "and S&P's, you can see that the default"
+  },
+  {
+    "start": "00:09:55.880",
+    "end": "00:09:57.710",
+    "start_seconds": 595.88,
+    "end_seconds": 597.71,
+    "text": "and S&P's, you can see that the default spread widens. So, for the most part,"
+  },
+  {
+    "start": "00:09:57.710",
+    "end": "00:09:57.720",
+    "start_seconds": 597.71,
+    "end_seconds": 597.72,
+    "text": "spread widens. So, for the most part,"
+  },
+  {
+    "start": "00:09:57.720",
+    "end": "00:10:00.430",
+    "start_seconds": 597.72,
+    "end_seconds": 600.43,
+    "text": "spread widens. So, for the most part, much as we abuse ratings agencies, they"
+  },
+  {
+    "start": "00:10:00.430",
+    "end": "00:10:00.440",
+    "start_seconds": 600.43,
+    "end_seconds": 600.44,
+    "text": "much as we abuse ratings agencies, they"
+  },
+  {
+    "start": "00:10:00.440",
+    "end": "00:10:03.390",
+    "start_seconds": 600.44,
+    "end_seconds": 603.39,
+    "text": "much as we abuse ratings agencies, they get the rating right."
+  },
+  {
+    "start": "00:10:03.390",
+    "end": "00:10:03.400",
+    "start_seconds": 603.39,
+    "end_seconds": 603.4,
+    "text": "get the rating right."
+  },
+  {
+    "start": "00:10:03.400",
+    "end": "00:10:05.470",
+    "start_seconds": 603.4,
+    "end_seconds": 605.47,
+    "text": "get the rating right. The other thing to note in this graph is"
+  },
+  {
+    "start": "00:10:05.470",
+    "end": "00:10:05.480",
+    "start_seconds": 605.47,
+    "end_seconds": 605.48,
+    "text": "The other thing to note in this graph is"
+  },
+  {
+    "start": "00:10:05.480",
+    "end": "00:10:07.510",
+    "start_seconds": 605.48,
+    "end_seconds": 607.51,
+    "text": "The other thing to note in this graph is how default spreads vary over time."
+  },
+  {
+    "start": "00:10:07.510",
+    "end": "00:10:07.520",
+    "start_seconds": 607.51,
+    "end_seconds": 607.52,
+    "text": "how default spreads vary over time."
+  },
+  {
+    "start": "00:10:07.520",
+    "end": "00:10:09.830",
+    "start_seconds": 607.52,
+    "end_seconds": 609.83,
+    "text": "how default spreads vary over time. Let's take a triple B rated company that"
+  },
+  {
+    "start": "00:10:09.830",
+    "end": "00:10:09.840",
+    "start_seconds": 609.83,
+    "end_seconds": 609.84,
+    "text": "Let's take a triple B rated company that"
+  },
+  {
+    "start": "00:10:09.840",
+    "end": "00:10:13.870",
+    "start_seconds": 609.84,
+    "end_seconds": 613.87,
+    "text": "Let's take a triple B rated company that remained triple B between 2021 and 2025."
+  },
+  {
+    "start": "00:10:13.870",
+    "end": "00:10:13.880",
+    "start_seconds": 613.87,
+    "end_seconds": 613.88,
+    "text": "remained triple B between 2021 and 2025."
+  },
+  {
+    "start": "00:10:13.880",
+    "end": "00:10:16.190",
+    "start_seconds": 613.88,
+    "end_seconds": 616.19,
+    "text": "remained triple B between 2021 and 2025. In 2021, the default spread for that"
+  },
+  {
+    "start": "00:10:16.190",
+    "end": "00:10:16.200",
+    "start_seconds": 616.19,
+    "end_seconds": 616.2,
+    "text": "In 2021, the default spread for that"
+  },
+  {
+    "start": "00:10:16.200",
+    "end": "00:10:18.990",
+    "start_seconds": 616.2,
+    "end_seconds": 618.99,
+    "text": "In 2021, the default spread for that company was 1.71%."
+  },
+  {
+    "start": "00:10:18.990",
+    "end": "00:10:19.000",
+    "start_seconds": 618.99,
+    "end_seconds": 619.0,
+    "text": "company was 1.71%."
+  },
+  {
+    "start": "00:10:19.000",
+    "end": "00:10:21.350",
+    "start_seconds": 619.0,
+    "end_seconds": 621.35,
+    "text": "company was 1.71%. In 2023, the default spread had jumped"
+  },
+  {
+    "start": "00:10:21.350",
+    "end": "00:10:21.360",
+    "start_seconds": 621.35,
+    "end_seconds": 621.36,
+    "text": "In 2023, the default spread had jumped"
+  },
+  {
+    "start": "00:10:21.360",
+    "end": "00:10:25.110",
+    "start_seconds": 621.36,
+    "end_seconds": 625.11,
+    "text": "In 2023, the default spread had jumped to 20 at 2%. And in 2025, the start, it"
+  },
+  {
+    "start": "00:10:25.110",
+    "end": "00:10:25.120",
+    "start_seconds": 625.11,
+    "end_seconds": 625.12,
+    "text": "to 20 at 2%. And in 2025, the start, it"
+  },
+  {
+    "start": "00:10:25.120",
+    "end": "00:10:27.790",
+    "start_seconds": 625.12,
+    "end_seconds": 627.79,
+    "text": "to 20 at 2%. And in 2025, the start, it had dropped back to 1.2%. At the risk of"
+  },
+  {
+    "start": "00:10:27.790",
+    "end": "00:10:27.800",
+    "start_seconds": 627.79,
+    "end_seconds": 627.8,
+    "text": "had dropped back to 1.2%. At the risk of"
+  },
+  {
+    "start": "00:10:27.800",
+    "end": "00:10:30.270",
+    "start_seconds": 627.8,
+    "end_seconds": 630.27,
+    "text": "had dropped back to 1.2%. At the risk of stating the obvious, default spreads can"
+  },
+  {
+    "start": "00:10:30.270",
+    "end": "00:10:30.280",
+    "start_seconds": 630.27,
+    "end_seconds": 630.28,
+    "text": "stating the obvious, default spreads can"
+  },
+  {
+    "start": "00:10:30.280",
+    "end": "00:10:33.150",
+    "start_seconds": 630.28,
+    "end_seconds": 633.15,
+    "text": "stating the obvious, default spreads can vary across time as the economy shifts"
+  },
+  {
+    "start": "00:10:33.150",
+    "end": "00:10:33.160",
+    "start_seconds": 633.15,
+    "end_seconds": 633.16,
+    "text": "vary across time as the economy shifts"
+  },
+  {
+    "start": "00:10:33.160",
+    "end": "00:10:35.590",
+    "start_seconds": 633.16,
+    "end_seconds": 635.59,
+    "text": "vary across time as the economy shifts as you go from more scary times to"
+  },
+  {
+    "start": "00:10:35.590",
+    "end": "00:10:35.600",
+    "start_seconds": 635.59,
+    "end_seconds": 635.6,
+    "text": "as you go from more scary times to"
+  },
+  {
+    "start": "00:10:35.600",
+    "end": "00:10:38.310",
+    "start_seconds": 635.6,
+    "end_seconds": 638.31,
+    "text": "as you go from more scary times to better times in the economy."
+  },
+  {
+    "start": "00:10:38.310",
+    "end": "00:10:38.320",
+    "start_seconds": 638.31,
+    "end_seconds": 638.32,
+    "text": "better times in the economy."
+  },
+  {
+    "start": "00:10:38.320",
+    "end": "00:10:40.470",
+    "start_seconds": 638.32,
+    "end_seconds": 640.47,
+    "text": "better times in the economy. Now, what do ratings agencies look at to"
+  },
+  {
+    "start": "00:10:40.470",
+    "end": "00:10:40.480",
+    "start_seconds": 640.47,
+    "end_seconds": 640.48,
+    "text": "Now, what do ratings agencies look at to"
+  },
+  {
+    "start": "00:10:40.480",
+    "end": "00:10:42.110",
+    "start_seconds": 640.48,
+    "end_seconds": 642.11,
+    "text": "Now, what do ratings agencies look at to come up with their assessments of"
+  },
+  {
+    "start": "00:10:42.110",
+    "end": "00:10:42.120",
+    "start_seconds": 642.11,
+    "end_seconds": 642.12,
+    "text": "come up with their assessments of"
+  },
+  {
+    "start": "00:10:42.120",
+    "end": "00:10:44.710",
+    "start_seconds": 642.12,
+    "end_seconds": 644.71,
+    "text": "come up with their assessments of ratings? Much as we like to attribute"
+  },
+  {
+    "start": "00:10:44.710",
+    "end": "00:10:44.720",
+    "start_seconds": 644.71,
+    "end_seconds": 644.72,
+    "text": "ratings? Much as we like to attribute"
+  },
+  {
+    "start": "00:10:44.720",
+    "end": "00:10:46.350",
+    "start_seconds": 644.72,
+    "end_seconds": 646.35,
+    "text": "ratings? Much as we like to attribute all the special information they have,"
+  },
+  {
+    "start": "00:10:46.350",
+    "end": "00:10:46.360",
+    "start_seconds": 646.35,
+    "end_seconds": 646.36,
+    "text": "all the special information they have,"
+  },
+  {
+    "start": "00:10:46.360",
+    "end": "00:10:49.030",
+    "start_seconds": 646.36,
+    "end_seconds": 649.03,
+    "text": "all the special information they have, for the most part, ratings are based on"
+  },
+  {
+    "start": "00:10:49.030",
+    "end": "00:10:49.040",
+    "start_seconds": 649.03,
+    "end_seconds": 649.04,
+    "text": "for the most part, ratings are based on"
+  },
+  {
+    "start": "00:10:49.040",
+    "end": "00:10:51.190",
+    "start_seconds": 649.04,
+    "end_seconds": 651.19,
+    "text": "for the most part, ratings are based on information that's publicly available."
+  },
+  {
+    "start": "00:10:51.190",
+    "end": "00:10:51.200",
+    "start_seconds": 651.19,
+    "end_seconds": 651.2,
+    "text": "information that's publicly available."
+  },
+  {
+    "start": "00:10:51.200",
+    "end": "00:10:53.030",
+    "start_seconds": 651.2,
+    "end_seconds": 653.03,
+    "text": "information that's publicly available. In fact, they're based primarily on"
+  },
+  {
+    "start": "00:10:53.030",
+    "end": "00:10:53.040",
+    "start_seconds": 653.03,
+    "end_seconds": 653.04,
+    "text": "In fact, they're based primarily on"
+  },
+  {
+    "start": "00:10:53.040",
+    "end": "00:10:55.670",
+    "start_seconds": 653.04,
+    "end_seconds": 655.67,
+    "text": "In fact, they're based primarily on ratios you can compute for companies."
+  },
+  {
+    "start": "00:10:55.670",
+    "end": "00:10:55.680",
+    "start_seconds": 655.67,
+    "end_seconds": 655.68,
+    "text": "ratios you can compute for companies."
+  },
+  {
+    "start": "00:10:55.680",
+    "end": "00:10:58.190",
+    "start_seconds": 655.68,
+    "end_seconds": 658.19,
+    "text": "ratios you can compute for companies. The The ratio that I find most useful in"
+  },
+  {
+    "start": "00:10:58.190",
+    "end": "00:10:58.200",
+    "start_seconds": 658.19,
+    "end_seconds": 658.2,
+    "text": "The The ratio that I find most useful in"
+  },
+  {
+    "start": "00:10:58.200",
+    "end": "00:10:59.870",
+    "start_seconds": 658.2,
+    "end_seconds": 659.87,
+    "text": "The The ratio that I find most useful in explaining difference across ratings is"
+  },
+  {
+    "start": "00:10:59.870",
+    "end": "00:10:59.880",
+    "start_seconds": 659.87,
+    "end_seconds": 659.88,
+    "text": "explaining difference across ratings is"
+  },
+  {
+    "start": "00:10:59.880",
+    "end": "00:11:02.070",
+    "start_seconds": 659.88,
+    "end_seconds": 662.07,
+    "text": "explaining difference across ratings is called the interest coverage ratio. You"
+  },
+  {
+    "start": "00:11:02.070",
+    "end": "00:11:02.080",
+    "start_seconds": 662.07,
+    "end_seconds": 662.08,
+    "text": "called the interest coverage ratio. You"
+  },
+  {
+    "start": "00:11:02.080",
+    "end": "00:11:03.750",
+    "start_seconds": 662.08,
+    "end_seconds": 663.75,
+    "text": "called the interest coverage ratio. You take the operating income and divide by"
+  },
+  {
+    "start": "00:11:03.750",
+    "end": "00:11:03.760",
+    "start_seconds": 663.75,
+    "end_seconds": 663.76,
+    "text": "take the operating income and divide by"
+  },
+  {
+    "start": "00:11:03.760",
+    "end": "00:11:05.670",
+    "start_seconds": 663.76,
+    "end_seconds": 665.67,
+    "text": "take the operating income and divide by interest expense. The higher that"
+  },
+  {
+    "start": "00:11:05.670",
+    "end": "00:11:05.680",
+    "start_seconds": 665.67,
+    "end_seconds": 665.68,
+    "text": "interest expense. The higher that"
+  },
+  {
+    "start": "00:11:05.680",
+    "end": "00:11:08.070",
+    "start_seconds": 665.68,
+    "end_seconds": 668.07,
+    "text": "interest expense. The higher that number, notice, as you look across the"
+  },
+  {
+    "start": "00:11:08.070",
+    "end": "00:11:08.080",
+    "start_seconds": 668.07,
+    "end_seconds": 668.08,
+    "text": "number, notice, as you look across the"
+  },
+  {
+    "start": "00:11:08.080",
+    "end": "00:11:10.070",
+    "start_seconds": 668.08,
+    "end_seconds": 670.07,
+    "text": "number, notice, as you look across the top line, the higher the rating of the"
+  },
+  {
+    "start": "00:11:10.070",
+    "end": "00:11:10.080",
+    "start_seconds": 670.07,
+    "end_seconds": 670.08,
+    "text": "top line, the higher the rating of the"
+  },
+  {
+    "start": "00:11:10.080",
+    "end": "00:11:11.390",
+    "start_seconds": 670.08,
+    "end_seconds": 671.39,
+    "text": "top line, the higher the rating of the company."
+  },
+  {
+    "start": "00:11:11.390",
+    "end": "00:11:11.400",
+    "start_seconds": 671.39,
+    "end_seconds": 671.4,
+    "text": "company."
+  },
+  {
+    "start": "00:11:11.400",
+    "end": "00:11:12.750",
+    "start_seconds": 671.4,
+    "end_seconds": 672.75,
+    "text": "company. So, rated companies, if you're trying to"
+  },
+  {
+    "start": "00:11:12.750",
+    "end": "00:11:12.760",
+    "start_seconds": 672.75,
+    "end_seconds": 672.76,
+    "text": "So, rated companies, if you're trying to"
+  },
+  {
+    "start": "00:11:12.760",
+    "end": "00:11:14.390",
+    "start_seconds": 672.76,
+    "end_seconds": 674.39,
+    "text": "So, rated companies, if you're trying to explain ratings, look at the numbers"
+  },
+  {
+    "start": "00:11:14.390",
+    "end": "00:11:14.400",
+    "start_seconds": 674.39,
+    "end_seconds": 674.4,
+    "text": "explain ratings, look at the numbers"
+  },
+  {
+    "start": "00:11:14.400",
+    "end": "00:11:17.590",
+    "start_seconds": 674.4,
+    "end_seconds": 677.59,
+    "text": "explain ratings, look at the numbers first. The answer usually lies there."
+  },
+  {
+    "start": "00:11:17.590",
+    "end": "00:11:17.600",
+    "start_seconds": 677.59,
+    "end_seconds": 677.6,
+    "text": "first. The answer usually lies there."
+  },
+  {
+    "start": "00:11:17.600",
+    "end": "00:11:19.230",
+    "start_seconds": 677.6,
+    "end_seconds": 679.23,
+    "text": "first. The answer usually lies there. Now, there are companies out there that"
+  },
+  {
+    "start": "00:11:19.230",
+    "end": "00:11:19.240",
+    "start_seconds": 679.23,
+    "end_seconds": 679.24,
+    "text": "Now, there are companies out there that"
+  },
+  {
+    "start": "00:11:19.240",
+    "end": "00:11:21.270",
+    "start_seconds": 679.24,
+    "end_seconds": 681.27,
+    "text": "Now, there are companies out there that are not rated, smaller companies in the"
+  },
+  {
+    "start": "00:11:21.270",
+    "end": "00:11:21.280",
+    "start_seconds": 681.27,
+    "end_seconds": 681.28,
+    "text": "are not rated, smaller companies in the"
+  },
+  {
+    "start": "00:11:21.280",
+    "end": "00:11:24.190",
+    "start_seconds": 681.28,
+    "end_seconds": 684.19,
+    "text": "are not rated, smaller companies in the US, a lot of non-US companies."
+  },
+  {
+    "start": "00:11:24.190",
+    "end": "00:11:24.200",
+    "start_seconds": 684.19,
+    "end_seconds": 684.2,
+    "text": "US, a lot of non-US companies."
+  },
+  {
+    "start": "00:11:24.200",
+    "end": "00:11:25.870",
+    "start_seconds": 684.2,
+    "end_seconds": 685.87,
+    "text": "US, a lot of non-US companies. And for those companies, you can assess"
+  },
+  {
+    "start": "00:11:25.870",
+    "end": "00:11:25.880",
+    "start_seconds": 685.87,
+    "end_seconds": 685.88,
+    "text": "And for those companies, you can assess"
+  },
+  {
+    "start": "00:11:25.880",
+    "end": "00:11:28.270",
+    "start_seconds": 685.88,
+    "end_seconds": 688.27,
+    "text": "And for those companies, you can assess default risk by coming up with your own"
+  },
+  {
+    "start": "00:11:28.270",
+    "end": "00:11:28.280",
+    "start_seconds": 688.27,
+    "end_seconds": 688.28,
+    "text": "default risk by coming up with your own"
+  },
+  {
+    "start": "00:11:28.280",
+    "end": "00:11:30.230",
+    "start_seconds": 688.28,
+    "end_seconds": 690.23,
+    "text": "default risk by coming up with your own version of rating, acting like a ratings"
+  },
+  {
+    "start": "00:11:30.230",
+    "end": "00:11:30.240",
+    "start_seconds": 690.23,
+    "end_seconds": 690.24,
+    "text": "version of rating, acting like a ratings"
+  },
+  {
+    "start": "00:11:30.240",
+    "end": "00:11:32.590",
+    "start_seconds": 690.24,
+    "end_seconds": 692.59,
+    "text": "version of rating, acting like a ratings agency. Like, let's take a simplistic"
+  },
+  {
+    "start": "00:11:32.590",
+    "end": "00:11:32.600",
+    "start_seconds": 692.59,
+    "end_seconds": 692.6,
+    "text": "agency. Like, let's take a simplistic"
+  },
+  {
+    "start": "00:11:32.600",
+    "end": "00:11:33.790",
+    "start_seconds": 692.6,
+    "end_seconds": 693.79,
+    "text": "agency. Like, let's take a simplistic version"
+  },
+  {
+    "start": "00:11:33.790",
+    "end": "00:11:33.800",
+    "start_seconds": 693.79,
+    "end_seconds": 693.8,
+    "text": "version"
+  },
+  {
+    "start": "00:11:33.800",
+    "end": "00:11:35.590",
+    "start_seconds": 693.8,
+    "end_seconds": 695.59,
+    "text": "version of how the ratings agency attaches a"
+  },
+  {
+    "start": "00:11:35.590",
+    "end": "00:11:35.600",
+    "start_seconds": 695.59,
+    "end_seconds": 695.6,
+    "text": "of how the ratings agency attaches a"
+  },
+  {
+    "start": "00:11:35.600",
+    "end": "00:11:37.270",
+    "start_seconds": 695.6,
+    "end_seconds": 697.27,
+    "text": "of how the ratings agency attaches a rating. Say you compute an interest"
+  },
+  {
+    "start": "00:11:37.270",
+    "end": "00:11:37.280",
+    "start_seconds": 697.27,
+    "end_seconds": 697.28,
+    "text": "rating. Say you compute an interest"
+  },
+  {
+    "start": "00:11:37.280",
+    "end": "00:11:38.790",
+    "start_seconds": 697.28,
+    "end_seconds": 698.79,
+    "text": "rating. Say you compute an interest coverage ratio. You should be able to do"
+  },
+  {
+    "start": "00:11:38.790",
+    "end": "00:11:38.800",
+    "start_seconds": 698.79,
+    "end_seconds": 698.8,
+    "text": "coverage ratio. You should be able to do"
+  },
+  {
+    "start": "00:11:38.800",
+    "end": "00:11:40.790",
+    "start_seconds": 698.8,
+    "end_seconds": 700.79,
+    "text": "coverage ratio. You should be able to do that for any company anywhere in the"
+  },
+  {
+    "start": "00:11:40.790",
+    "end": "00:11:40.800",
+    "start_seconds": 700.79,
+    "end_seconds": 700.8,
+    "text": "that for any company anywhere in the"
+  },
+  {
+    "start": "00:11:40.800",
+    "end": "00:11:42.670",
+    "start_seconds": 700.8,
+    "end_seconds": 702.67,
+    "text": "that for any company anywhere in the world. You take operating income"
+  },
+  {
+    "start": "00:11:42.670",
+    "end": "00:11:42.680",
+    "start_seconds": 702.67,
+    "end_seconds": 702.68,
+    "text": "world. You take operating income"
+  },
+  {
+    "start": "00:11:42.680",
+    "end": "00:11:44.430",
+    "start_seconds": 702.68,
+    "end_seconds": 704.43,
+    "text": "world. You take operating income earnings before interest and taxes and"
+  },
+  {
+    "start": "00:11:44.430",
+    "end": "00:11:44.440",
+    "start_seconds": 704.43,
+    "end_seconds": 704.44,
+    "text": "earnings before interest and taxes and"
+  },
+  {
+    "start": "00:11:44.440",
+    "end": "00:11:46.990",
+    "start_seconds": 704.44,
+    "end_seconds": 706.99,
+    "text": "earnings before interest and taxes and divide by interest expense."
+  },
+  {
+    "start": "00:11:46.990",
+    "end": "00:11:47.000",
+    "start_seconds": 706.99,
+    "end_seconds": 707.0,
+    "text": "divide by interest expense."
+  },
+  {
+    "start": "00:11:47.000",
+    "end": "00:11:48.990",
+    "start_seconds": 707.0,
+    "end_seconds": 708.99,
+    "text": "divide by interest expense. If you have a company with 3.5 billion"
+  },
+  {
+    "start": "00:11:48.990",
+    "end": "00:11:49.000",
+    "start_seconds": 708.99,
+    "end_seconds": 709.0,
+    "text": "If you have a company with 3.5 billion"
+  },
+  {
+    "start": "00:11:49.000",
+    "end": "00:11:50.950",
+    "start_seconds": 709.0,
+    "end_seconds": 710.95,
+    "text": "If you have a company with 3.5 billion in operating in earnings before interest"
+  },
+  {
+    "start": "00:11:50.950",
+    "end": "00:11:50.960",
+    "start_seconds": 710.95,
+    "end_seconds": 710.96,
+    "text": "in operating in earnings before interest"
+  },
+  {
+    "start": "00:11:50.960",
+    "end": "00:11:53.070",
+    "start_seconds": 710.96,
+    "end_seconds": 713.07,
+    "text": "in operating in earnings before interest and taxes and interest expense of 700"
+  },
+  {
+    "start": "00:11:53.070",
+    "end": "00:11:53.080",
+    "start_seconds": 713.07,
+    "end_seconds": 713.08,
+    "text": "and taxes and interest expense of 700"
+  },
+  {
+    "start": "00:11:53.080",
+    "end": "00:11:55.550",
+    "start_seconds": 713.08,
+    "end_seconds": 715.55,
+    "text": "and taxes and interest expense of 700 million, your interest coverage ratio is"
+  },
+  {
+    "start": "00:11:55.550",
+    "end": "00:11:55.560",
+    "start_seconds": 715.55,
+    "end_seconds": 715.56,
+    "text": "million, your interest coverage ratio is"
+  },
+  {
+    "start": "00:11:55.560",
+    "end": "00:11:58.070",
+    "start_seconds": 715.56,
+    "end_seconds": 718.07,
+    "text": "million, your interest coverage ratio is five. So, what do I do with that?"
+  },
+  {
+    "start": "00:11:58.070",
+    "end": "00:11:58.080",
+    "start_seconds": 718.07,
+    "end_seconds": 718.08,
+    "text": "five. So, what do I do with that?"
+  },
+  {
+    "start": "00:11:58.080",
+    "end": "00:11:59.950",
+    "start_seconds": 718.08,
+    "end_seconds": 719.95,
+    "text": "five. So, what do I do with that? I will look up table where based on"
+  },
+  {
+    "start": "00:11:59.950",
+    "end": "00:11:59.960",
+    "start_seconds": 719.95,
+    "end_seconds": 719.96,
+    "text": "I will look up table where based on"
+  },
+  {
+    "start": "00:11:59.960",
+    "end": "00:12:01.910",
+    "start_seconds": 719.96,
+    "end_seconds": 721.91,
+    "text": "I will look up table where based on rated companies will tell me what your"
+  },
+  {
+    "start": "00:12:01.910",
+    "end": "00:12:01.920",
+    "start_seconds": 721.91,
+    "end_seconds": 721.92,
+    "text": "rated companies will tell me what your"
+  },
+  {
+    "start": "00:12:01.920",
+    "end": "00:12:04.270",
+    "start_seconds": 721.92,
+    "end_seconds": 724.27,
+    "text": "rated companies will tell me what your interest coverage ratio is, I can tell"
+  },
+  {
+    "start": "00:12:04.270",
+    "end": "00:12:04.280",
+    "start_seconds": 724.27,
+    "end_seconds": 724.28,
+    "text": "interest coverage ratio is, I can tell"
+  },
+  {
+    "start": "00:12:04.280",
+    "end": "00:12:06.190",
+    "start_seconds": 724.28,
+    "end_seconds": 726.19,
+    "text": "interest coverage ratio is, I can tell you what kind of rating you should have."
+  },
+  {
+    "start": "00:12:06.190",
+    "end": "00:12:06.200",
+    "start_seconds": 726.19,
+    "end_seconds": 726.2,
+    "text": "you what kind of rating you should have."
+  },
+  {
+    "start": "00:12:06.200",
+    "end": "00:12:07.470",
+    "start_seconds": 726.2,
+    "end_seconds": 727.47,
+    "text": "you what kind of rating you should have. So, the company you're looking at is a"
+  },
+  {
+    "start": "00:12:07.470",
+    "end": "00:12:07.480",
+    "start_seconds": 727.47,
+    "end_seconds": 727.48,
+    "text": "So, the company you're looking at is a"
+  },
+  {
+    "start": "00:12:07.480",
+    "end": "00:12:08.790",
+    "start_seconds": 727.48,
+    "end_seconds": 728.79,
+    "text": "So, the company you're looking at is a smaller company with an interest"
+  },
+  {
+    "start": "00:12:08.790",
+    "end": "00:12:08.800",
+    "start_seconds": 728.79,
+    "end_seconds": 728.8,
+    "text": "smaller company with an interest"
+  },
+  {
+    "start": "00:12:08.800",
+    "end": "00:12:10.430",
+    "start_seconds": 728.8,
+    "end_seconds": 730.43,
+    "text": "smaller company with an interest coverage ratio of five, their rating"
+  },
+  {
+    "start": "00:12:10.430",
+    "end": "00:12:10.440",
+    "start_seconds": 730.43,
+    "end_seconds": 730.44,
+    "text": "coverage ratio of five, their rating"
+  },
+  {
+    "start": "00:12:10.440",
+    "end": "00:12:12.310",
+    "start_seconds": 730.44,
+    "end_seconds": 732.31,
+    "text": "coverage ratio of five, their rating should be single A at least the time"
+  },
+  {
+    "start": "00:12:12.310",
+    "end": "00:12:12.320",
+    "start_seconds": 732.31,
+    "end_seconds": 732.32,
+    "text": "should be single A at least the time"
+  },
+  {
+    "start": "00:12:12.320",
+    "end": "00:12:14.070",
+    "start_seconds": 732.32,
+    "end_seconds": 734.07,
+    "text": "should be single A at least the time this table was put together. The default"
+  },
+  {
+    "start": "00:12:14.070",
+    "end": "00:12:14.080",
+    "start_seconds": 734.07,
+    "end_seconds": 734.08,
+    "text": "this table was put together. The default"
+  },
+  {
+    "start": "00:12:14.080",
+    "end": "00:12:16.710",
+    "start_seconds": 734.08,
+    "end_seconds": 736.71,
+    "text": "this table was put together. The default spread should be roughly 1%."
+  },
+  {
+    "start": "00:12:16.710",
+    "end": "00:12:16.720",
+    "start_seconds": 736.71,
+    "end_seconds": 736.72,
+    "text": "spread should be roughly 1%."
+  },
+  {
+    "start": "00:12:16.720",
+    "end": "00:12:18.750",
+    "start_seconds": 736.72,
+    "end_seconds": 738.75,
+    "text": "spread should be roughly 1%. So, whether it's with actual ratings,"
+  },
+  {
+    "start": "00:12:18.750",
+    "end": "00:12:18.760",
+    "start_seconds": 738.75,
+    "end_seconds": 738.76,
+    "text": "So, whether it's with actual ratings,"
+  },
+  {
+    "start": "00:12:18.760",
+    "end": "00:12:21.030",
+    "start_seconds": 738.76,
+    "end_seconds": 741.03,
+    "text": "So, whether it's with actual ratings, synthetic ratings, credit driven default"
+  },
+  {
+    "start": "00:12:21.030",
+    "end": "00:12:21.040",
+    "start_seconds": 741.03,
+    "end_seconds": 741.04,
+    "text": "synthetic ratings, credit driven default"
+  },
+  {
+    "start": "00:12:21.040",
+    "end": "00:12:23.070",
+    "start_seconds": 741.04,
+    "end_seconds": 743.07,
+    "text": "synthetic ratings, credit driven default spreads, or credit scores,"
+  },
+  {
+    "start": "00:12:23.070",
+    "end": "00:12:23.080",
+    "start_seconds": 743.07,
+    "end_seconds": 743.08,
+    "text": "spreads, or credit scores,"
+  },
+  {
+    "start": "00:12:23.080",
+    "end": "00:12:24.910",
+    "start_seconds": 743.08,
+    "end_seconds": 744.91,
+    "text": "spreads, or credit scores, you should be able to assess the default"
+  },
+  {
+    "start": "00:12:24.910",
+    "end": "00:12:24.920",
+    "start_seconds": 744.91,
+    "end_seconds": 744.92,
+    "text": "you should be able to assess the default"
+  },
+  {
+    "start": "00:12:24.920",
+    "end": "00:12:27.670",
+    "start_seconds": 744.92,
+    "end_seconds": 747.67,
+    "text": "you should be able to assess the default risk in a borrower and from that come up"
+  },
+  {
+    "start": "00:12:27.670",
+    "end": "00:12:27.680",
+    "start_seconds": 747.67,
+    "end_seconds": 747.68,
+    "text": "risk in a borrower and from that come up"
+  },
+  {
+    "start": "00:12:27.680",
+    "end": "00:12:29.830",
+    "start_seconds": 747.68,
+    "end_seconds": 749.83,
+    "text": "risk in a borrower and from that come up with a spread that goes with it."
+  },
+  {
+    "start": "00:12:29.830",
+    "end": "00:12:29.840",
+    "start_seconds": 749.83,
+    "end_seconds": 749.84,
+    "text": "with a spread that goes with it."
+  },
+  {
+    "start": "00:12:29.840",
+    "end": "00:12:31.110",
+    "start_seconds": 749.84,
+    "end_seconds": 751.11,
+    "text": "with a spread that goes with it. So, here are the here's the bottom line"
+  },
+  {
+    "start": "00:12:31.110",
+    "end": "00:12:31.120",
+    "start_seconds": 751.11,
+    "end_seconds": 751.12,
+    "text": "So, here are the here's the bottom line"
+  },
+  {
+    "start": "00:12:31.120",
+    "end": "00:12:33.590",
+    "start_seconds": 751.12,
+    "end_seconds": 753.59,
+    "text": "So, here are the here's the bottom line with when it comes to risk in bonds."
+  },
+  {
+    "start": "00:12:33.590",
+    "end": "00:12:33.600",
+    "start_seconds": 753.59,
+    "end_seconds": 753.6,
+    "text": "with when it comes to risk in bonds."
+  },
+  {
+    "start": "00:12:33.600",
+    "end": "00:12:35.270",
+    "start_seconds": 753.6,
+    "end_seconds": 755.27,
+    "text": "with when it comes to risk in bonds. While we generally describe bonds as"
+  },
+  {
+    "start": "00:12:35.270",
+    "end": "00:12:35.280",
+    "start_seconds": 755.27,
+    "end_seconds": 755.28,
+    "text": "While we generally describe bonds as"
+  },
+  {
+    "start": "00:12:35.280",
+    "end": "00:12:37.750",
+    "start_seconds": 755.28,
+    "end_seconds": 757.75,
+    "text": "While we generally describe bonds as safe, there's a huge continuum of risk"
+  },
+  {
+    "start": "00:12:37.750",
+    "end": "00:12:37.760",
+    "start_seconds": 757.75,
+    "end_seconds": 757.76,
+    "text": "safe, there's a huge continuum of risk"
+  },
+  {
+    "start": "00:12:37.760",
+    "end": "00:12:39.710",
+    "start_seconds": 757.76,
+    "end_seconds": 759.71,
+    "text": "safe, there's a huge continuum of risk in bonds and they can be"
+  },
+  {
+    "start": "00:12:39.710",
+    "end": "00:12:39.720",
+    "start_seconds": 759.71,
+    "end_seconds": 759.72,
+    "text": "in bonds and they can be"
+  },
+  {
+    "start": "00:12:39.720",
+    "end": "00:12:42.030",
+    "start_seconds": 759.72,
+    "end_seconds": 762.03,
+    "text": "in bonds and they can be they can vary based on both the maturity"
+  },
+  {
+    "start": "00:12:42.030",
+    "end": "00:12:42.040",
+    "start_seconds": 762.03,
+    "end_seconds": 762.04,
+    "text": "they can vary based on both the maturity"
+  },
+  {
+    "start": "00:12:42.040",
+    "end": "00:12:43.550",
+    "start_seconds": 762.04,
+    "end_seconds": 763.55,
+    "text": "they can vary based on both the maturity and the coupon of the bond as well as"
+  },
+  {
+    "start": "00:12:43.550",
+    "end": "00:12:43.560",
+    "start_seconds": 763.55,
+    "end_seconds": 763.56,
+    "text": "and the coupon of the bond as well as"
+  },
+  {
+    "start": "00:12:43.560",
+    "end": "00:12:46.110",
+    "start_seconds": 763.56,
+    "end_seconds": 766.11,
+    "text": "and the coupon of the bond as well as the default risk in the bond."
+  },
+  {
+    "start": "00:12:46.110",
+    "end": "00:12:46.120",
+    "start_seconds": 766.11,
+    "end_seconds": 766.12,
+    "text": "the default risk in the bond."
+  },
+  {
+    "start": "00:12:46.120",
+    "end": "00:12:48.110",
+    "start_seconds": 766.12,
+    "end_seconds": 768.11,
+    "text": "the default risk in the bond. So, if you have a bond with no default"
+  },
+  {
+    "start": "00:12:48.110",
+    "end": "00:12:48.120",
+    "start_seconds": 768.11,
+    "end_seconds": 768.12,
+    "text": "So, if you have a bond with no default"
+  },
+  {
+    "start": "00:12:48.120",
+    "end": "00:12:49.710",
+    "start_seconds": 768.12,
+    "end_seconds": 769.71,
+    "text": "So, if you have a bond with no default risk,"
+  },
+  {
+    "start": "00:12:49.710",
+    "end": "00:12:49.720",
+    "start_seconds": 769.71,
+    "end_seconds": 769.72,
+    "text": "risk,"
+  },
+  {
+    "start": "00:12:49.720",
+    "end": "00:12:52.430",
+    "start_seconds": 769.72,
+    "end_seconds": 772.43,
+    "text": "risk, that the bond can still be risky to a"
+  },
+  {
+    "start": "00:12:52.430",
+    "end": "00:12:52.440",
+    "start_seconds": 772.43,
+    "end_seconds": 772.44,
+    "text": "that the bond can still be risky to a"
+  },
+  {
+    "start": "00:12:52.440",
+    "end": "00:12:54.110",
+    "start_seconds": 772.44,
+    "end_seconds": 774.11,
+    "text": "that the bond can still be risky to a short-term investor because the price of"
+  },
+  {
+    "start": "00:12:54.110",
+    "end": "00:12:54.120",
+    "start_seconds": 774.11,
+    "end_seconds": 774.12,
+    "text": "short-term investor because the price of"
+  },
+  {
+    "start": "00:12:54.120",
+    "end": "00:12:55.870",
+    "start_seconds": 774.12,
+    "end_seconds": 775.87,
+    "text": "short-term investor because the price of the bond can change as interest rates"
+  },
+  {
+    "start": "00:12:55.870",
+    "end": "00:12:55.880",
+    "start_seconds": 775.87,
+    "end_seconds": 775.88,
+    "text": "the bond can change as interest rates"
+  },
+  {
+    "start": "00:12:55.880",
+    "end": "00:12:57.270",
+    "start_seconds": 775.88,
+    "end_seconds": 777.27,
+    "text": "the bond can change as interest rates change as well."
+  },
+  {
+    "start": "00:12:57.270",
+    "end": "00:12:57.280",
+    "start_seconds": 777.27,
+    "end_seconds": 777.28,
+    "text": "change as well."
+  },
+  {
+    "start": "00:12:57.280",
+    "end": "00:12:58.910",
+    "start_seconds": 777.28,
+    "end_seconds": 778.91,
+    "text": "change as well. So, when you walk into a bond"
+  },
+  {
+    "start": "00:12:58.910",
+    "end": "00:12:58.920",
+    "start_seconds": 778.91,
+    "end_seconds": 778.92,
+    "text": "So, when you walk into a bond"
+  },
+  {
+    "start": "00:12:58.920",
+    "end": "00:13:00.310",
+    "start_seconds": 778.92,
+    "end_seconds": 780.31,
+    "text": "So, when you walk into a bond investment, it's good to be aware of"
+  },
+  {
+    "start": "00:13:00.310",
+    "end": "00:13:00.320",
+    "start_seconds": 780.31,
+    "end_seconds": 780.32,
+    "text": "investment, it's good to be aware of"
+  },
+  {
+    "start": "00:13:00.320",
+    "end": "00:13:02.430",
+    "start_seconds": 780.32,
+    "end_seconds": 782.43,
+    "text": "investment, it's good to be aware of both interest rate risk"
+  },
+  {
+    "start": "00:13:02.430",
+    "end": "00:13:02.440",
+    "start_seconds": 782.43,
+    "end_seconds": 782.44,
+    "text": "both interest rate risk"
+  },
+  {
+    "start": "00:13:02.440",
+    "end": "00:13:04.430",
+    "start_seconds": 782.44,
+    "end_seconds": 784.43,
+    "text": "both interest rate risk and default risk and factor them into"
+  },
+  {
+    "start": "00:13:04.430",
+    "end": "00:13:04.440",
+    "start_seconds": 784.43,
+    "end_seconds": 784.44,
+    "text": "and default risk and factor them into"
+  },
+  {
+    "start": "00:13:04.440",
+    "end": "00:13:06.510",
+    "start_seconds": 784.44,
+    "end_seconds": 786.51,
+    "text": "and default risk and factor them into your decision making."
+  },
+  {
+    "start": "00:13:06.510",
+    "end": "00:13:06.520",
+    "start_seconds": 786.51,
+    "end_seconds": 786.52,
+    "text": "your decision making."
+  },
+  {
+    "start": "00:13:06.520",
+    "end": "00:13:08.790",
+    "start_seconds": 786.52,
+    "end_seconds": 788.79,
+    "text": "your decision making. I hope you found the session useful."
+  },
+  {
+    "start": "00:13:08.790",
+    "end": "00:13:08.800",
+    "start_seconds": 788.79,
+    "end_seconds": 788.8,
+    "text": "I hope you found the session useful."
+  },
+  {
+    "start": "00:13:08.800",
+    "end": "00:13:10.630",
+    "start_seconds": 788.8,
+    "end_seconds": 790.63,
+    "text": "I hope you found the session useful. And in the next session, we'll move on"
+  },
+  {
+    "start": "00:13:10.630",
+    "end": "00:13:10.640",
+    "start_seconds": 790.63,
+    "end_seconds": 790.64,
+    "text": "And in the next session, we'll move on"
+  },
+  {
+    "start": "00:13:10.640",
+    "end": "00:13:12.710",
+    "start_seconds": 790.64,
+    "end_seconds": 792.71,
+    "text": "And in the next session, we'll move on to looking at risk from an equity"
+  },
+  {
+    "start": "00:13:12.710",
+    "end": "00:13:12.720",
+    "start_seconds": 792.71,
+    "end_seconds": 792.72,
+    "text": "to looking at risk from an equity"
+  },
+  {
+    "start": "00:13:12.720",
+    "end": "00:13:15.920",
+    "start_seconds": 792.72,
+    "end_seconds": 795.92,
+    "text": "to looking at risk from an equity investor's perspective."
+  }
+]

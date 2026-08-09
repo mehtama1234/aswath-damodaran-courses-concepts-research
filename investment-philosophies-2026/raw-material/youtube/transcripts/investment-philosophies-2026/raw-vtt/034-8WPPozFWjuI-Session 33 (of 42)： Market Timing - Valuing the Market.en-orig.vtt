@@ -1,0 +1,3568 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.400 --> 00:00:03.669 align:start position:0%
+ 
+Hi,<00:00:00.960><c> welcome</c><00:00:01.280><c> back.</c><00:00:02.560><c> In</c><00:00:02.800><c> this</c><00:00:03.040><c> session,</c><00:00:03.439><c> I'd</c>
+
+00:00:03.669 --> 00:00:03.679 align:start position:0%
+Hi, welcome back. In this session, I'd
+ 
+
+00:00:03.679 --> 00:00:05.829 align:start position:0%
+Hi, welcome back. In this session, I'd
+like<00:00:03.840><c> to</c><00:00:04.000><c> talk</c><00:00:04.240><c> about</c><00:00:04.560><c> extending</c><00:00:05.200><c> approaches</c>
+
+00:00:05.829 --> 00:00:05.839 align:start position:0%
+like to talk about extending approaches
+ 
+
+00:00:05.839 --> 00:00:07.990 align:start position:0%
+like to talk about extending approaches
+we've<00:00:06.160><c> used</c><00:00:06.400><c> to</c><00:00:06.560><c> value</c><00:00:06.799><c> individual</c><00:00:07.440><c> stocks,</c>
+
+00:00:07.990 --> 00:00:08.000 align:start position:0%
+we've used to value individual stocks,
+ 
+
+00:00:08.000 --> 00:00:09.990 align:start position:0%
+we've used to value individual stocks,
+intrinsic<00:00:08.639><c> valuation</c><00:00:09.120><c> or</c><00:00:09.360><c> discounted</c><00:00:09.840><c> cash</c>
+
+00:00:09.990 --> 00:00:10.000 align:start position:0%
+intrinsic valuation or discounted cash
+ 
+
+00:00:10.000 --> 00:00:12.950 align:start position:0%
+intrinsic valuation or discounted cash
+flow<00:00:10.320><c> valuation</c><00:00:11.360><c> or</c><00:00:11.599><c> pricing</c><00:00:12.160><c> and</c><00:00:12.400><c> see</c><00:00:12.559><c> if</c><00:00:12.719><c> we</c>
+
+00:00:12.950 --> 00:00:12.960 align:start position:0%
+flow valuation or pricing and see if we
+ 
+
+00:00:12.960 --> 00:00:15.190 align:start position:0%
+flow valuation or pricing and see if we
+can<00:00:13.120><c> use</c><00:00:13.360><c> that</c><00:00:13.920><c> to</c><00:00:14.160><c> value</c><00:00:14.480><c> and</c><00:00:14.719><c> price</c><00:00:14.960><c> the</c>
+
+00:00:15.190 --> 00:00:15.200 align:start position:0%
+can use that to value and price the
+ 
+
+00:00:15.200 --> 00:00:17.830 align:start position:0%
+can use that to value and price the
+market.<00:00:16.480><c> Specifically,</c><00:00:17.199><c> if</c><00:00:17.359><c> you</c><00:00:17.600><c> remember,</c>
+
+00:00:17.830 --> 00:00:17.840 align:start position:0%
+market. Specifically, if you remember,
+ 
+
+00:00:17.840 --> 00:00:19.990 align:start position:0%
+market. Specifically, if you remember,
+we<00:00:18.080><c> said</c><00:00:18.320><c> the</c><00:00:18.640><c> value</c><00:00:18.880><c> of</c><00:00:19.039><c> an</c><00:00:19.199><c> individual</c><00:00:19.680><c> stock</c>
+
+00:00:19.990 --> 00:00:20.000 align:start position:0%
+we said the value of an individual stock
+ 
+
+00:00:20.000 --> 00:00:21.830 align:start position:0%
+we said the value of an individual stock
+in<00:00:20.240><c> an</c><00:00:20.400><c> intrinsic</c><00:00:20.880><c> value</c><00:00:21.199><c> world</c><00:00:21.439><c> comes</c><00:00:21.680><c> from</c>
+
+00:00:21.830 --> 00:00:21.840 align:start position:0%
+in an intrinsic value world comes from
+ 
+
+00:00:21.840 --> 00:00:23.750 align:start position:0%
+in an intrinsic value world comes from
+its<00:00:22.160><c> cash</c><00:00:22.400><c> flows,</c><00:00:22.880><c> its</c><00:00:23.119><c> growth,</c><00:00:23.359><c> and</c><00:00:23.519><c> its</c>
+
+00:00:23.750 --> 00:00:23.760 align:start position:0%
+its cash flows, its growth, and its
+ 
+
+00:00:23.760 --> 00:00:25.590 align:start position:0%
+its cash flows, its growth, and its
+risk.<00:00:24.560><c> Now,</c><00:00:24.720><c> that</c><00:00:24.880><c> should</c><00:00:25.039><c> apply</c><00:00:25.199><c> for</c><00:00:25.359><c> an</c>
+
+00:00:25.590 --> 00:00:25.600 align:start position:0%
+risk. Now, that should apply for an
+ 
+
+00:00:25.600 --> 00:00:27.349 align:start position:0%
+risk. Now, that should apply for an
+entire<00:00:25.920><c> market</c><00:00:26.240><c> as</c><00:00:26.480><c> well,</c><00:00:26.720><c> right?</c><00:00:27.039><c> You</c><00:00:27.199><c> could</c>
+
+00:00:27.349 --> 00:00:27.359 align:start position:0%
+entire market as well, right? You could
+ 
+
+00:00:27.359 --> 00:00:30.310 align:start position:0%
+entire market as well, right? You could
+value<00:00:27.599><c> the</c><00:00:27.840><c> market.</c><00:00:29.119><c> Conversely,</c><00:00:29.920><c> when</c><00:00:30.160><c> we</c>
+
+00:00:30.310 --> 00:00:30.320 align:start position:0%
+value the market. Conversely, when we
+ 
+
+00:00:30.320 --> 00:00:31.910 align:start position:0%
+value the market. Conversely, when we
+looked<00:00:30.480><c> at</c><00:00:30.640><c> individual</c><00:00:31.119><c> stocks,</c><00:00:31.519><c> we</c><00:00:31.679><c> talked</c>
+
+00:00:31.910 --> 00:00:31.920 align:start position:0%
+looked at individual stocks, we talked
+ 
+
+00:00:31.920 --> 00:00:34.870 align:start position:0%
+looked at individual stocks, we talked
+about<00:00:32.320><c> comparing</c><00:00:32.960><c> P</c><00:00:33.440><c> ratios</c><00:00:33.920><c> across</c><00:00:34.480><c> stocks</c>
+
+00:00:34.870 --> 00:00:34.880 align:start position:0%
+about comparing P ratios across stocks
+ 
+
+00:00:34.880 --> 00:00:37.030 align:start position:0%
+about comparing P ratios across stocks
+and<00:00:35.200><c> controlling</c><00:00:35.680><c> for</c><00:00:35.920><c> differences.</c><00:00:36.719><c> What</c><00:00:36.880><c> if</c>
+
+00:00:37.030 --> 00:00:37.040 align:start position:0%
+and controlling for differences. What if
+ 
+
+00:00:37.040 --> 00:00:39.270 align:start position:0%
+and controlling for differences. What if
+we<00:00:37.200><c> can</c><00:00:37.280><c> do</c><00:00:37.360><c> that</c><00:00:37.520><c> at</c><00:00:37.680><c> the</c><00:00:37.840><c> market</c><00:00:38.160><c> level?</c><00:00:39.040><c> You</c>
+
+00:00:39.270 --> 00:00:39.280 align:start position:0%
+we can do that at the market level? You
+ 
+
+00:00:39.280 --> 00:00:41.430 align:start position:0%
+we can do that at the market level? You
+could<00:00:39.440><c> compare</c><00:00:39.760><c> the</c><00:00:40.000><c> market</c><00:00:40.399><c> P</c><00:00:40.800><c> today</c><00:00:41.120><c> to</c>
+
+00:00:41.430 --> 00:00:41.440 align:start position:0%
+could compare the market P today to
+ 
+
+00:00:41.440 --> 00:00:43.910 align:start position:0%
+could compare the market P today to
+market<00:00:41.840><c> P</c><00:00:42.320><c> historically</c><00:00:43.040><c> and</c><00:00:43.360><c> not</c><00:00:43.520><c> just</c><00:00:43.680><c> stop</c>
+
+00:00:43.910 --> 00:00:43.920 align:start position:0%
+market P historically and not just stop
+ 
+
+00:00:43.920 --> 00:00:45.990 align:start position:0%
+market P historically and not just stop
+that.<00:00:44.239><c> Control</c><00:00:44.559><c> for</c><00:00:44.800><c> differences</c><00:00:45.280><c> in</c><00:00:45.600><c> rates</c>
+
+00:00:45.990 --> 00:00:46.000 align:start position:0%
+that. Control for differences in rates
+ 
+
+00:00:46.000 --> 00:00:48.950 align:start position:0%
+that. Control for differences in rates
+and<00:00:46.239><c> growth.</c><00:00:47.360><c> Compare</c><00:00:47.760><c> P</c><00:00:48.079><c> ratios</c><00:00:48.480><c> across</c>
+
+00:00:48.950 --> 00:00:48.960 align:start position:0%
+and growth. Compare P ratios across
+ 
+
+00:00:48.960 --> 00:00:51.029 align:start position:0%
+and growth. Compare P ratios across
+countries<00:00:49.520><c> and</c><00:00:49.920><c> look</c><00:00:50.079><c> at</c><00:00:50.239><c> not</c><00:00:50.480><c> just</c><00:00:50.719><c> countries</c>
+
+00:00:51.029 --> 00:00:51.039 align:start position:0%
+countries and look at not just countries
+ 
+
+00:00:51.039 --> 00:00:52.950 align:start position:0%
+countries and look at not just countries
+with<00:00:51.200><c> low</c><00:00:51.440><c> P</c><00:00:51.760><c> ratios,</c><00:00:52.079><c> but</c><00:00:52.399><c> control</c><00:00:52.719><c> for</c>
+
+00:00:52.950 --> 00:00:52.960 align:start position:0%
+with low P ratios, but control for
+ 
+
+00:00:52.960 --> 00:00:55.750 align:start position:0%
+with low P ratios, but control for
+differences<00:00:53.520><c> across</c><00:00:54.000><c> markets.</c><00:00:55.120><c> in</c><00:00:55.440><c> effect</c>
+
+00:00:55.750 --> 00:00:55.760 align:start position:0%
+differences across markets. in effect
+ 
+
+00:00:55.760 --> 00:00:57.990 align:start position:0%
+differences across markets. in effect
+were<00:00:56.079><c> bringing</c><00:00:56.480><c> to</c><00:00:56.719><c> the</c><00:00:56.960><c> entire</c><00:00:57.360><c> market</c><00:00:57.760><c> the</c>
+
+00:00:57.990 --> 00:00:58.000 align:start position:0%
+were bringing to the entire market the
+ 
+
+00:00:58.000 --> 00:00:59.750 align:start position:0%
+were bringing to the entire market the
+tools<00:00:58.320><c> we</c><00:00:58.559><c> used</c><00:00:58.719><c> to</c><00:00:58.960><c> decide</c><00:00:59.280><c> whether</c>
+
+00:00:59.750 --> 00:00:59.760 align:start position:0%
+tools we used to decide whether
+ 
+
+00:00:59.760 --> 00:01:01.910 align:start position:0%
+tools we used to decide whether
+individual<00:01:00.399><c> stocks</c><00:01:01.199><c> were</c><00:01:01.440><c> cheap</c><00:01:01.680><c> or</c>
+
+00:01:01.910 --> 00:01:01.920 align:start position:0%
+individual stocks were cheap or
+ 
+
+00:01:01.920 --> 00:01:04.549 align:start position:0%
+individual stocks were cheap or
+expensive.<00:01:03.039><c> So</c><00:01:03.280><c> let's</c><00:01:03.600><c> start</c><00:01:03.760><c> with</c><00:01:04.000><c> intrinsic</c>
+
+00:01:04.549 --> 00:01:04.559 align:start position:0%
+expensive. So let's start with intrinsic
+ 
+
+00:01:04.559 --> 00:01:06.789 align:start position:0%
+expensive. So let's start with intrinsic
+valuation.<00:01:05.840><c> We'll</c><00:01:06.159><c> start</c><00:01:06.320><c> with</c><00:01:06.479><c> the</c><00:01:06.640><c> same</c>
+
+00:01:06.789 --> 00:01:06.799 align:start position:0%
+valuation. We'll start with the same
+ 
+
+00:01:06.799 --> 00:01:09.109 align:start position:0%
+valuation. We'll start with the same
+thesis.<00:01:07.680><c> The</c><00:01:07.920><c> value</c><00:01:08.159><c> of</c><00:01:08.240><c> an</c><00:01:08.479><c> asset</c><00:01:08.799><c> is</c><00:01:08.960><c> the</c>
+
+00:01:09.109 --> 00:01:09.119 align:start position:0%
+thesis. The value of an asset is the
+ 
+
+00:01:09.119 --> 00:01:11.429 align:start position:0%
+thesis. The value of an asset is the
+present<00:01:09.439><c> value</c><00:01:09.680><c> of</c><00:01:09.840><c> the</c><00:01:10.080><c> expected</c><00:01:10.799><c> cash</c><00:01:11.119><c> flows</c>
+
+00:01:11.429 --> 00:01:11.439 align:start position:0%
+present value of the expected cash flows
+ 
+
+00:01:11.439 --> 00:01:13.429 align:start position:0%
+present value of the expected cash flows
+on<00:01:11.600><c> the</c><00:01:11.840><c> asset.</c><00:01:12.479><c> But</c><00:01:12.640><c> let's</c><00:01:12.880><c> say</c><00:01:12.960><c> the</c><00:01:13.200><c> asset</c>
+
+00:01:13.429 --> 00:01:13.439 align:start position:0%
+on the asset. But let's say the asset
+ 
+
+00:01:13.439 --> 00:01:14.950 align:start position:0%
+on the asset. But let's say the asset
+we're<00:01:13.680><c> talking</c><00:01:13.920><c> about</c><00:01:14.159><c> now</c><00:01:14.320><c> is</c><00:01:14.560><c> not</c><00:01:14.720><c> an</c>
+
+00:01:14.950 --> 00:01:14.960 align:start position:0%
+we're talking about now is not an
+ 
+
+00:01:14.960 --> 00:01:16.789 align:start position:0%
+we're talking about now is not an
+individual<00:01:15.439><c> company</c><00:01:16.000><c> but</c><00:01:16.240><c> the</c><00:01:16.400><c> entire</c>
+
+00:01:16.789 --> 00:01:16.799 align:start position:0%
+individual company but the entire
+ 
+
+00:01:16.799 --> 00:01:19.350 align:start position:0%
+individual company but the entire
+market.<00:01:17.680><c> To</c><00:01:17.920><c> value</c><00:01:18.159><c> the</c><00:01:18.400><c> market,</c><00:01:18.799><c> I</c><00:01:19.040><c> need</c><00:01:19.200><c> to</c>
+
+00:01:19.350 --> 00:01:19.360 align:start position:0%
+market. To value the market, I need to
+ 
+
+00:01:19.360 --> 00:01:21.830 align:start position:0%
+market. To value the market, I need to
+project<00:01:19.680><c> out</c><00:01:19.920><c> the</c><00:01:20.240><c> expected</c><00:01:20.880><c> cash</c><00:01:21.200><c> flows</c><00:01:21.600><c> I</c>
+
+00:01:21.830 --> 00:01:21.840 align:start position:0%
+project out the expected cash flows I
+ 
+
+00:01:21.840 --> 00:01:24.469 align:start position:0%
+project out the expected cash flows I
+will<00:01:22.000><c> get</c><00:01:22.240><c> from</c><00:01:22.479><c> owning</c><00:01:22.880><c> the</c><00:01:23.119><c> entire</c><00:01:23.520><c> market.</c>
+
+00:01:24.469 --> 00:01:24.479 align:start position:0%
+will get from owning the entire market.
+ 
+
+00:01:24.479 --> 00:01:26.630 align:start position:0%
+will get from owning the entire market.
+And<00:01:24.640><c> to</c><00:01:24.880><c> discount</c><00:01:25.280><c> those</c><00:01:25.600><c> cash</c><00:01:25.840><c> flows,</c><00:01:26.320><c> I</c><00:01:26.560><c> need</c>
+
+00:01:26.630 --> 00:01:26.640 align:start position:0%
+And to discount those cash flows, I need
+ 
+
+00:01:26.640 --> 00:01:28.789 align:start position:0%
+And to discount those cash flows, I need
+a<00:01:26.880><c> rate</c><00:01:27.119><c> of</c><00:01:27.280><c> return</c><00:01:27.600><c> that</c><00:01:27.840><c> I</c><00:01:28.000><c> would</c><00:01:28.159><c> demand</c><00:01:28.560><c> for</c>
+
+00:01:28.789 --> 00:01:28.799 align:start position:0%
+a rate of return that I would demand for
+ 
+
+00:01:28.799 --> 00:01:31.190 align:start position:0%
+a rate of return that I would demand for
+investing<00:01:29.360><c> in</c><00:01:29.680><c> equities</c><00:01:30.320><c> as</c><00:01:30.560><c> a</c><00:01:30.799><c> class</c>
+
+00:01:31.190 --> 00:01:31.200 align:start position:0%
+investing in equities as a class
+ 
+
+00:01:31.200 --> 00:01:33.590 align:start position:0%
+investing in equities as a class
+collectively.<00:01:32.400><c> Expected</c><00:01:32.880><c> cash</c><00:01:33.200><c> flows</c>
+
+00:01:33.590 --> 00:01:33.600 align:start position:0%
+collectively. Expected cash flows
+ 
+
+00:01:33.600 --> 00:01:35.830 align:start position:0%
+collectively. Expected cash flows
+discounted<00:01:34.159><c> back</c><00:01:34.320><c> at</c><00:01:34.560><c> that</c><00:01:34.799><c> discount</c><00:01:35.200><c> rate</c>
+
+00:01:35.830 --> 00:01:35.840 align:start position:0%
+discounted back at that discount rate
+ 
+
+00:01:35.840 --> 00:01:37.670 align:start position:0%
+discounted back at that discount rate
+should<00:01:36.079><c> give</c><00:01:36.159><c> me</c><00:01:36.320><c> an</c><00:01:36.479><c> intrinsic</c><00:01:37.040><c> valuation</c>
+
+00:01:37.670 --> 00:01:37.680 align:start position:0%
+should give me an intrinsic valuation
+ 
+
+00:01:37.680 --> 00:01:39.510 align:start position:0%
+should give me an intrinsic valuation
+the<00:01:37.840><c> market.</c><00:01:38.400><c> You</c><00:01:38.560><c> ready?</c><00:01:38.880><c> Let's</c><00:01:39.119><c> try</c><00:01:39.280><c> this</c>
+
+00:01:39.510 --> 00:01:39.520 align:start position:0%
+the market. You ready? Let's try this
+ 
+
+00:01:39.520 --> 00:01:43.749 align:start position:0%
+the market. You ready? Let's try this
+out.<00:01:40.640><c> On</c><00:01:40.960><c> January</c><00:01:41.360><c> 1st,</c><00:01:41.680><c> 2025,</c><00:01:42.479><c> the</c><00:01:42.720><c> S&amp;P</c><00:01:43.200><c> 500</c>
+
+00:01:43.749 --> 00:01:43.759 align:start position:0%
+out. On January 1st, 2025, the S&amp;P 500
+ 
+
+00:01:43.759 --> 00:01:46.950 align:start position:0%
+out. On January 1st, 2025, the S&amp;P 500
+was<00:01:44.000><c> trading</c><00:01:44.400><c> at</c><00:01:44.799><c> 58.881.63.</c>
+
+00:01:46.950 --> 00:01:46.960 align:start position:0%
+was trading at 58.881.63.
+ 
+
+00:01:46.960 --> 00:01:49.350 align:start position:0%
+was trading at 58.881.63.
+Now,<00:01:47.119><c> the</c><00:01:47.439><c> that</c><00:01:47.520><c> that</c><00:01:48.240><c> index</c><00:01:48.560><c> is</c><00:01:48.799><c> composed</c><00:01:49.200><c> of</c>
+
+00:01:49.350 --> 00:01:49.360 align:start position:0%
+Now, the that that index is composed of
+ 
+
+00:01:49.360 --> 00:01:51.990 align:start position:0%
+Now, the that that index is composed of
+the<00:01:49.600><c> 500</c><00:01:50.240><c> largest</c><00:01:50.720><c> market</c><00:01:51.040><c> cap</c><00:01:51.360><c> stocks</c><00:01:51.680><c> in</c><00:01:51.840><c> the</c>
+
+00:01:51.990 --> 00:01:52.000 align:start position:0%
+the 500 largest market cap stocks in the
+ 
+
+00:01:52.000 --> 00:01:55.030 align:start position:0%
+the 500 largest market cap stocks in the
+US.<00:01:52.799><c> If</c><00:01:53.040><c> you'd</c><00:01:53.280><c> bought</c><00:01:53.520><c> all</c><00:01:53.759><c> 500</c><00:01:54.320><c> companies</c><00:01:54.799><c> in</c>
+
+00:01:55.030 --> 00:01:55.040 align:start position:0%
+US. If you'd bought all 500 companies in
+ 
+
+00:01:55.040 --> 00:01:57.030 align:start position:0%
+US. If you'd bought all 500 companies in
+the<00:01:55.280><c> year</c><00:01:55.520><c> leading</c><00:01:55.920><c> up</c><00:01:56.240><c> to</c><00:01:56.399><c> the</c><00:01:56.640><c> start</c><00:01:56.799><c> of</c>
+
+00:01:57.030 --> 00:01:57.040 align:start position:0%
+the year leading up to the start of
+ 
+
+00:01:57.040 --> 00:02:00.469 align:start position:0%
+the year leading up to the start of
+2025,<00:01:58.399><c> the</c><00:01:58.719><c> dividends</c><00:01:59.280><c> on</c><00:01:59.520><c> that</c><00:01:59.759><c> index</c><00:02:00.320><c> would</c>
+
+00:02:00.469 --> 00:02:00.479 align:start position:0%
+2025, the dividends on that index would
+ 
+
+00:02:00.479 --> 00:02:03.510 align:start position:0%
+2025, the dividends on that index would
+have<00:02:00.640><c> been</c><00:02:00.960><c> 73.40</c><00:02:02.320><c> in</c><00:02:02.560><c> index</c><00:02:02.960><c> units.</c><00:02:03.360><c> What</c>
+
+00:02:03.510 --> 00:02:03.520 align:start position:0%
+have been 73.40 in index units. What
+ 
+
+00:02:03.520 --> 00:02:05.510 align:start position:0%
+have been 73.40 in index units. What
+does<00:02:03.680><c> that</c><00:02:03.840><c> mean?</c><00:02:04.399><c> Well,</c><00:02:04.640><c> the</c><00:02:04.880><c> index</c><00:02:05.200><c> is</c><00:02:05.360><c> not</c>
+
+00:02:05.510 --> 00:02:05.520 align:start position:0%
+does that mean? Well, the index is not
+ 
+
+00:02:05.520 --> 00:02:07.749 align:start position:0%
+does that mean? Well, the index is not
+in<00:02:05.759><c> billions</c><00:02:06.159><c> or</c><00:02:06.399><c> millions.</c><00:02:06.880><c> It's</c><00:02:07.119><c> scaled</c><00:02:07.520><c> to</c>
+
+00:02:07.749 --> 00:02:07.759 align:start position:0%
+in billions or millions. It's scaled to
+ 
+
+00:02:07.759 --> 00:02:09.430 align:start position:0%
+in billions or millions. It's scaled to
+index<00:02:08.160><c> units.</c><00:02:08.560><c> So,</c><00:02:08.720><c> I've</c><00:02:08.879><c> taken</c><00:02:09.200><c> the</c>
+
+00:02:09.430 --> 00:02:09.440 align:start position:0%
+index units. So, I've taken the
+ 
+
+00:02:09.440 --> 00:02:11.350 align:start position:0%
+index units. So, I've taken the
+dividends<00:02:09.920><c> in</c><00:02:10.160><c> billions</c><00:02:10.560><c> or</c><00:02:10.720><c> millions</c><00:02:11.120><c> and</c>
+
+00:02:11.350 --> 00:02:11.360 align:start position:0%
+dividends in billions or millions and
+ 
+
+00:02:11.360 --> 00:02:14.229 align:start position:0%
+dividends in billions or millions and
+converted<00:02:11.840><c> them</c><00:02:12.000><c> into</c><00:02:12.239><c> index</c><00:02:12.640><c> units.</c>
+
+00:02:14.229 --> 00:02:14.239 align:start position:0%
+converted them into index units.
+ 
+
+00:02:14.239 --> 00:02:17.430 align:start position:0%
+converted them into index units.
+Now,<00:02:14.560><c> that</c><00:02:14.879><c> 73.4</c><00:02:15.920><c> is</c><00:02:16.160><c> about</c><00:02:16.319><c> a</c><00:02:16.480><c> third</c><00:02:16.959><c> was</c><00:02:17.200><c> less</c>
+
+00:02:17.430 --> 00:02:17.440 align:start position:0%
+Now, that 73.4 is about a third was less
+ 
+
+00:02:17.440 --> 00:02:19.110 align:start position:0%
+Now, that 73.4 is about a third was less
+than<00:02:17.599><c> a</c><00:02:17.760><c> third</c><00:02:17.920><c> of</c><00:02:18.080><c> the</c><00:02:18.239><c> earnings</c><00:02:18.560><c> that</c><00:02:18.800><c> year.</c>
+
+00:02:19.110 --> 00:02:19.120 align:start position:0%
+than a third of the earnings that year.
+ 
+
+00:02:19.120 --> 00:02:20.790 align:start position:0%
+than a third of the earnings that year.
+So,<00:02:19.280><c> here's</c><00:02:19.599><c> where</c><00:02:19.760><c> we</c><00:02:19.920><c> are.</c><00:02:20.239><c> We</c><00:02:20.480><c> know</c><00:02:20.560><c> the</c>
+
+00:02:20.790 --> 00:02:20.800 align:start position:0%
+So, here's where we are. We know the
+ 
+
+00:02:20.800 --> 00:02:22.229 align:start position:0%
+So, here's where we are. We know the
+level<00:02:21.040><c> of</c><00:02:21.120><c> the</c><00:02:21.280><c> index.</c><00:02:21.680><c> We</c><00:02:21.840><c> know</c><00:02:22.000><c> the</c>
+
+00:02:22.229 --> 00:02:22.239 align:start position:0%
+level of the index. We know the
+ 
+
+00:02:22.239 --> 00:02:23.750 align:start position:0%
+level of the index. We know the
+dividends<00:02:22.640><c> you'd</c><00:02:22.879><c> have</c><00:02:22.959><c> received</c><00:02:23.280><c> by</c><00:02:23.440><c> owning</c>
+
+00:02:23.750 --> 00:02:23.760 align:start position:0%
+dividends you'd have received by owning
+ 
+
+00:02:23.760 --> 00:02:27.030 align:start position:0%
+dividends you'd have received by owning
+all<00:02:24.080><c> 500</c><00:02:24.640><c> stocks.</c><00:02:26.000><c> Let's</c><00:02:26.239><c> assume</c><00:02:26.560><c> you</c><00:02:26.720><c> go</c><00:02:26.879><c> with</c>
+
+00:02:27.030 --> 00:02:27.040 align:start position:0%
+all 500 stocks. Let's assume you go with
+ 
+
+00:02:27.040 --> 00:02:29.510 align:start position:0%
+all 500 stocks. Let's assume you go with
+the<00:02:27.280><c> simplest</c><00:02:27.840><c> intrinsic</c><00:02:28.480><c> valuation</c><00:02:29.040><c> model</c>
+
+00:02:29.510 --> 00:02:29.520 align:start position:0%
+the simplest intrinsic valuation model
+ 
+
+00:02:29.520 --> 00:02:31.270 align:start position:0%
+the simplest intrinsic valuation model
+you<00:02:29.760><c> can</c><00:02:29.920><c> have</c><00:02:30.080><c> for</c><00:02:30.239><c> valing</c><00:02:30.560><c> equity.</c><00:02:31.040><c> The</c>
+
+00:02:31.270 --> 00:02:31.280 align:start position:0%
+you can have for valing equity. The
+ 
+
+00:02:31.280 --> 00:02:33.430 align:start position:0%
+you can have for valing equity. The
+dividend<00:02:31.599><c> discount</c><00:02:32.080><c> model.</c><00:02:33.040><c> You</c><00:02:33.280><c> could</c>
+
+00:02:33.430 --> 00:02:33.440 align:start position:0%
+dividend discount model. You could
+ 
+
+00:02:33.440 --> 00:02:35.589 align:start position:0%
+dividend discount model. You could
+project<00:02:33.920><c> out</c><00:02:34.160><c> the</c><00:02:34.400><c> expected</c><00:02:34.879><c> dividends</c><00:02:35.360><c> from</c>
+
+00:02:35.589 --> 00:02:35.599 align:start position:0%
+project out the expected dividends from
+ 
+
+00:02:35.599 --> 00:02:38.550 align:start position:0%
+project out the expected dividends from
+buying<00:02:35.840><c> the</c><00:02:36.000><c> S&amp;P</c><00:02:36.560><c> 500.</c><00:02:37.599><c> You'd</c><00:02:37.920><c> start</c><00:02:38.160><c> with</c><00:02:38.319><c> the</c>
+
+00:02:38.550 --> 00:02:38.560 align:start position:0%
+buying the S&amp;P 500. You'd start with the
+ 
+
+00:02:38.560 --> 00:02:41.190 align:start position:0%
+buying the S&amp;P 500. You'd start with the
+73.40<00:02:39.760><c> that</c><00:02:39.920><c> you</c><00:02:40.000><c> had</c><00:02:40.160><c> dividend</c><00:02:40.560><c> as</c><00:02:40.800><c> dividends</c>
+
+00:02:41.190 --> 00:02:41.200 align:start position:0%
+73.40 that you had dividend as dividends
+ 
+
+00:02:41.200 --> 00:02:43.270 align:start position:0%
+73.40 that you had dividend as dividends
+last<00:02:41.519><c> year.</c><00:02:41.840><c> And</c><00:02:42.000><c> if</c><00:02:42.160><c> you</c><00:02:42.319><c> assume</c><00:02:42.959><c> that</c>
+
+00:02:43.270 --> 00:02:43.280 align:start position:0%
+last year. And if you assume that
+ 
+
+00:02:43.280 --> 00:02:45.190 align:start position:0%
+last year. And if you assume that
+dividends<00:02:43.760><c> grow</c><00:02:44.000><c> with</c><00:02:44.160><c> earnings</c><00:02:44.959><c> and</c>
+
+00:02:45.190 --> 00:02:45.200 align:start position:0%
+dividends grow with earnings and
+ 
+
+00:02:45.200 --> 00:02:47.110 align:start position:0%
+dividends grow with earnings and
+analysts<00:02:45.599><c> are</c><00:02:45.760><c> expecting</c><00:02:46.080><c> a</c><00:02:46.319><c> growth</c><00:02:46.640><c> rate</c><00:02:46.879><c> of</c>
+
+00:02:47.110 --> 00:02:47.120 align:start position:0%
+analysts are expecting a growth rate of
+ 
+
+00:02:47.120 --> 00:02:48.710 align:start position:0%
+analysts are expecting a growth rate of
+9.57%
+
+00:02:48.710 --> 00:02:48.720 align:start position:0%
+9.57%
+ 
+
+00:02:48.720 --> 00:02:51.350 align:start position:0%
+9.57%
+a<00:02:48.879><c> year</c><00:02:49.360><c> for</c><00:02:49.599><c> the</c><00:02:49.760><c> next</c><00:02:50.000><c> 5</c><00:02:50.239><c> years,</c><00:02:50.879><c> you</c><00:02:51.120><c> can</c><00:02:51.200><c> get</c>
+
+00:02:51.350 --> 00:02:51.360 align:start position:0%
+a year for the next 5 years, you can get
+ 
+
+00:02:51.360 --> 00:02:53.589 align:start position:0%
+a year for the next 5 years, you can get
+the<00:02:51.599><c> projected</c><00:02:52.239><c> dividends</c><00:02:52.720><c> for</c><00:02:52.959><c> the</c><00:02:53.120><c> next</c><00:02:53.360><c> 5</c>
+
+00:02:53.589 --> 00:02:53.599 align:start position:0%
+the projected dividends for the next 5
+ 
+
+00:02:53.599 --> 00:02:56.470 align:start position:0%
+the projected dividends for the next 5
+years.<00:02:55.040><c> That</c><00:02:55.200><c> gives</c><00:02:55.440><c> me</c><00:02:55.680><c> my</c><00:02:55.920><c> expected</c>
+
+00:02:56.470 --> 00:02:56.480 align:start position:0%
+years. That gives me my expected
+ 
+
+00:02:56.480 --> 00:02:58.390 align:start position:0%
+years. That gives me my expected
+dividends<00:02:57.120><c> from</c><00:02:57.360><c> owning</c><00:02:57.680><c> the</c><00:02:57.840><c> stock</c><00:02:58.080><c> for</c><00:02:58.239><c> the</c>
+
+00:02:58.390 --> 00:02:58.400 align:start position:0%
+dividends from owning the stock for the
+ 
+
+00:02:58.400 --> 00:02:59.990 align:start position:0%
+dividends from owning the stock for the
+next<00:02:58.640><c> 5</c><00:02:58.879><c> years.</c><00:02:59.440><c> You're</c><00:02:59.599><c> saying</c><00:02:59.840><c> what</c>
+
+00:02:59.990 --> 00:03:00.000 align:start position:0%
+next 5 years. You're saying what
+ 
+
+00:03:00.000 --> 00:03:01.830 align:start position:0%
+next 5 years. You're saying what
+happened<00:03:00.239><c> the</c><00:03:00.400><c> end</c><00:03:00.480><c> of</c><00:03:00.560><c> the</c><00:03:00.720><c> fifth</c><00:03:00.959><c> year?</c><00:03:01.599><c> The</c>
+
+00:03:01.830 --> 00:03:01.840 align:start position:0%
+happened the end of the fifth year? The
+ 
+
+00:03:01.840 --> 00:03:04.309 align:start position:0%
+happened the end of the fifth year? The
+dividends<00:03:02.400><c> continue</c><00:03:02.800><c> to</c><00:03:02.959><c> grow</c><00:03:03.280><c> but</c><00:03:03.599><c> now</c><00:03:03.840><c> at</c><00:03:04.080><c> a</c>
+
+00:03:04.309 --> 00:03:04.319 align:start position:0%
+dividends continue to grow but now at a
+ 
+
+00:03:04.319 --> 00:03:06.470 align:start position:0%
+dividends continue to grow but now at a
+much<00:03:04.480><c> lower</c><00:03:04.879><c> rate</c><00:03:05.200><c> at</c><00:03:05.440><c> a</c><00:03:05.599><c> rate</c><00:03:05.920><c> let's</c><00:03:06.159><c> say</c>
+
+00:03:06.470 --> 00:03:06.480 align:start position:0%
+much lower rate at a rate let's say
+ 
+
+00:03:06.480 --> 00:03:07.910 align:start position:0%
+much lower rate at a rate let's say
+equal<00:03:06.879><c> to</c><00:03:07.040><c> the</c><00:03:07.200><c> risk-free</c><00:03:07.599><c> rate.</c><00:03:07.760><c> The</c>
+
+00:03:07.910 --> 00:03:07.920 align:start position:0%
+equal to the risk-free rate. The
+ 
+
+00:03:07.920 --> 00:03:10.869 align:start position:0%
+equal to the risk-free rate. The
+risk-free<00:03:08.319><c> rate</c><00:03:08.480><c> is</c><00:03:08.720><c> 4.58%.</c>
+
+00:03:10.869 --> 00:03:10.879 align:start position:0%
+risk-free rate is 4.58%.
+ 
+
+00:03:10.879 --> 00:03:13.670 align:start position:0%
+risk-free rate is 4.58%.
+So<00:03:11.040><c> you</c><00:03:11.200><c> have</c><00:03:11.360><c> 9.57%</c><00:03:12.640><c> growth</c><00:03:12.959><c> for</c><00:03:13.120><c> the</c><00:03:13.280><c> next</c><00:03:13.440><c> 5</c>
+
+00:03:13.670 --> 00:03:13.680 align:start position:0%
+So you have 9.57% growth for the next 5
+ 
+
+00:03:13.680 --> 00:03:17.270 align:start position:0%
+So you have 9.57% growth for the next 5
+years,<00:03:14.000><c> 4.58%</c><00:03:15.280><c> thereafter.</c><00:03:16.239><c> I</c><00:03:16.480><c> get</c><00:03:16.720><c> expected</c>
+
+00:03:17.270 --> 00:03:17.280 align:start position:0%
+years, 4.58% thereafter. I get expected
+ 
+
+00:03:17.280 --> 00:03:19.030 align:start position:0%
+years, 4.58% thereafter. I get expected
+dividends<00:03:17.680><c> for</c><00:03:17.840><c> the</c><00:03:18.080><c> next</c><00:03:18.239><c> 5</c><00:03:18.480><c> years</c><00:03:18.800><c> and</c>
+
+00:03:19.030 --> 00:03:19.040 align:start position:0%
+dividends for the next 5 years and
+ 
+
+00:03:19.040 --> 00:03:21.990 align:start position:0%
+dividends for the next 5 years and
+beyond.<00:03:20.080><c> Now</c><00:03:20.319><c> to</c><00:03:20.640><c> discount</c><00:03:21.120><c> those</c><00:03:21.440><c> dividends,</c>
+
+00:03:21.990 --> 00:03:22.000 align:start position:0%
+beyond. Now to discount those dividends,
+ 
+
+00:03:22.000 --> 00:03:24.550 align:start position:0%
+beyond. Now to discount those dividends,
+I<00:03:22.239><c> need</c><00:03:22.720><c> a</c><00:03:23.040><c> cost</c><00:03:23.280><c> of</c><00:03:23.440><c> equity</c><00:03:23.840><c> for</c><00:03:24.000><c> the</c><00:03:24.239><c> entire</c>
+
+00:03:24.550 --> 00:03:24.560 align:start position:0%
+I need a cost of equity for the entire
+ 
+
+00:03:24.560 --> 00:03:27.030 align:start position:0%
+I need a cost of equity for the entire
+market.<00:03:25.280><c> And</c><00:03:25.440><c> in</c><00:03:25.680><c> many</c><00:03:25.920><c> ways,</c><00:03:26.239><c> estimating</c><00:03:26.800><c> an</c>
+
+00:03:27.030 --> 00:03:27.040 align:start position:0%
+market. And in many ways, estimating an
+ 
+
+00:03:27.040 --> 00:03:29.030 align:start position:0%
+market. And in many ways, estimating an
+expected<00:03:27.519><c> return</c><00:03:27.760><c> for</c><00:03:28.000><c> the</c><00:03:28.159><c> entire</c><00:03:28.480><c> market</c><00:03:28.720><c> is</c>
+
+00:03:29.030 --> 00:03:29.040 align:start position:0%
+expected return for the entire market is
+ 
+
+00:03:29.040 --> 00:03:31.270 align:start position:0%
+expected return for the entire market is
+easier<00:03:29.440><c> than</c><00:03:29.680><c> estimating</c><00:03:30.239><c> the</c><00:03:30.560><c> expected</c>
+
+00:03:31.270 --> 00:03:31.280 align:start position:0%
+easier than estimating the expected
+ 
+
+00:03:31.280 --> 00:03:33.430 align:start position:0%
+easier than estimating the expected
+return<00:03:31.599><c> for</c><00:03:31.760><c> an</c><00:03:31.920><c> individual</c><00:03:32.480><c> stock.</c><00:03:33.200><c> You</c>
+
+00:03:33.430 --> 00:03:33.440 align:start position:0%
+return for an individual stock. You
+ 
+
+00:03:33.440 --> 00:03:35.350 align:start position:0%
+return for an individual stock. You
+start<00:03:33.599><c> with</c><00:03:33.760><c> a</c><00:03:33.920><c> risk-free</c><00:03:34.400><c> rate.</c><00:03:34.959><c> In</c><00:03:35.120><c> this</c>
+
+00:03:35.350 --> 00:03:35.360 align:start position:0%
+start with a risk-free rate. In this
+ 
+
+00:03:35.360 --> 00:03:37.670 align:start position:0%
+start with a risk-free rate. In this
+case,<00:03:35.599><c> let's</c><00:03:35.840><c> assume</c><00:03:36.080><c> the</c><00:03:36.239><c> T-bond</c><00:03:36.799><c> rate</c><00:03:37.440><c> is</c>
+
+00:03:37.670 --> 00:03:37.680 align:start position:0%
+case, let's assume the T-bond rate is
+ 
+
+00:03:37.680 --> 00:03:39.270 align:start position:0%
+case, let's assume the T-bond rate is
+risk-free.<00:03:38.239><c> And</c><00:03:38.400><c> there</c><00:03:38.640><c> can</c><00:03:38.799><c> be</c><00:03:38.959><c> questions</c>
+
+00:03:39.270 --> 00:03:39.280 align:start position:0%
+risk-free. And there can be questions
+ 
+
+00:03:39.280 --> 00:03:41.750 align:start position:0%
+risk-free. And there can be questions
+about<00:03:39.519><c> that.</c><00:03:39.840><c> 4.58%.</c>
+
+00:03:41.750 --> 00:03:41.760 align:start position:0%
+about that. 4.58%.
+ 
+
+00:03:41.760 --> 00:03:43.589 align:start position:0%
+about that. 4.58%.
+And<00:03:41.920><c> to</c><00:03:42.159><c> that,</c><00:03:42.400><c> let's</c><00:03:42.640><c> add</c><00:03:42.799><c> an</c><00:03:43.040><c> equity</c><00:03:43.360><c> risk</c>
+
+00:03:43.589 --> 00:03:43.599 align:start position:0%
+And to that, let's add an equity risk
+ 
+
+00:03:43.599 --> 00:03:45.830 align:start position:0%
+And to that, let's add an equity risk
+premium<00:03:44.000><c> 4</c><00:03:44.239><c> a.5%.</c><00:03:44.959><c> You</c><00:03:45.120><c> say,</c><00:03:45.280><c> where</c><00:03:45.519><c> did</c><00:03:45.599><c> that</c>
+
+00:03:45.830 --> 00:03:45.840 align:start position:0%
+premium 4 a.5%. You say, where did that
+ 
+
+00:03:45.840 --> 00:03:47.509 align:start position:0%
+premium 4 a.5%. You say, where did that
+come<00:03:46.000><c> from?</c><00:03:46.720><c> Well,</c><00:03:46.959><c> you</c><00:03:47.120><c> can</c><00:03:47.280><c> look</c><00:03:47.360><c> at</c>
+
+00:03:47.509 --> 00:03:47.519 align:start position:0%
+come from? Well, you can look at
+ 
+
+00:03:47.519 --> 00:03:49.350 align:start position:0%
+come from? Well, you can look at
+history,<00:03:48.000><c> you</c><00:03:48.080><c> can</c><00:03:48.239><c> look</c><00:03:48.319><c> at</c><00:03:48.480><c> your</c><00:03:48.640><c> own</c><00:03:48.959><c> gut</c>
+
+00:03:49.350 --> 00:03:49.360 align:start position:0%
+history, you can look at your own gut
+ 
+
+00:03:49.360 --> 00:03:51.589 align:start position:0%
+history, you can look at your own gut
+and<00:03:49.599><c> say,</c><00:03:49.920><c> this</c><00:03:50.159><c> is</c><00:03:50.319><c> what</c><00:03:50.480><c> I</c><00:03:50.720><c> can</c><00:03:50.879><c> settle</c><00:03:51.280><c> for</c>
+
+00:03:51.589 --> 00:03:51.599 align:start position:0%
+and say, this is what I can settle for
+ 
+
+00:03:51.599 --> 00:03:54.309 align:start position:0%
+and say, this is what I can settle for
+as<00:03:51.840><c> an</c><00:03:52.080><c> acceptable</c><00:03:52.640><c> premium.</c><00:03:53.599><c> That's</c><00:03:53.920><c> my</c><00:03:54.080><c> cost</c>
+
+00:03:54.309 --> 00:03:54.319 align:start position:0%
+as an acceptable premium. That's my cost
+ 
+
+00:03:54.319 --> 00:03:57.030 align:start position:0%
+as an acceptable premium. That's my cost
+of<00:03:54.480><c> equity,</c><00:03:55.040><c> 9.08%.</c>
+
+00:03:57.030 --> 00:03:57.040 align:start position:0%
+of equity, 9.08%.
+ 
+
+00:03:57.040 --> 00:03:59.670 align:start position:0%
+of equity, 9.08%.
+I<00:03:57.439><c> discount</c><00:03:58.080><c> my</c><00:03:58.400><c> expected</c><00:03:58.879><c> dividends</c><00:03:59.280><c> for</c><00:03:59.439><c> the</c>
+
+00:03:59.670 --> 00:03:59.680 align:start position:0%
+I discount my expected dividends for the
+ 
+
+00:03:59.680 --> 00:04:03.190 align:start position:0%
+I discount my expected dividends for the
+next<00:03:59.840><c> 5</c><00:04:00.159><c> years</c><00:04:00.720><c> at</c><00:04:01.040><c> that</c><00:04:01.439><c> 9.08%.</c>
+
+00:04:03.190 --> 00:04:03.200 align:start position:0%
+next 5 years at that 9.08%.
+ 
+
+00:04:03.200 --> 00:04:04.949 align:start position:0%
+next 5 years at that 9.08%.
+At<00:04:03.439><c> the</c><00:04:03.599><c> end</c><00:04:03.680><c> of</c><00:04:03.840><c> the</c><00:04:04.159><c> fifth</c><00:04:04.480><c> year</c><00:04:04.720><c> though,</c>
+
+00:04:04.949 --> 00:04:04.959 align:start position:0%
+At the end of the fifth year though,
+ 
+
+00:04:04.959 --> 00:04:07.910 align:start position:0%
+At the end of the fifth year though,
+since<00:04:05.280><c> stocks</c><00:04:05.760><c> continue</c><00:04:06.239><c> in</c><00:04:06.480><c> perpetuity,</c><00:04:07.680><c> I</c>
+
+00:04:07.910 --> 00:04:07.920 align:start position:0%
+since stocks continue in perpetuity, I
+ 
+
+00:04:07.920 --> 00:04:10.149 align:start position:0%
+since stocks continue in perpetuity, I
+let<00:04:08.159><c> the</c><00:04:08.400><c> dividends</c><00:04:08.879><c> grow</c><00:04:09.280><c> at</c><00:04:09.519><c> the</c><00:04:09.680><c> risk-free</c>
+
+00:04:10.149 --> 00:04:10.159 align:start position:0%
+let the dividends grow at the risk-free
+ 
+
+00:04:10.159 --> 00:04:12.949 align:start position:0%
+let the dividends grow at the risk-free
+rate<00:04:10.720><c> 4.58%.</c>
+
+00:04:12.949 --> 00:04:12.959 align:start position:0%
+rate 4.58%.
+ 
+
+00:04:12.959 --> 00:04:16.150 align:start position:0%
+rate 4.58%.
+And<00:04:13.200><c> treat</c><00:04:13.439><c> it</c><00:04:13.760><c> as</c><00:04:14.720><c> a</c><00:04:14.959><c> perpetuity,</c><00:04:15.599><c> a</c><00:04:15.760><c> growing</c>
+
+00:04:16.150 --> 00:04:16.160 align:start position:0%
+And treat it as a perpetuity, a growing
+ 
+
+00:04:16.160 --> 00:04:18.550 align:start position:0%
+And treat it as a perpetuity, a growing
+perpetuity.<00:04:17.440><c> If</c><00:04:17.600><c> you</c><00:04:17.840><c> don't</c><00:04:18.000><c> remember</c><00:04:18.320><c> the</c>
+
+00:04:18.550 --> 00:04:18.560 align:start position:0%
+perpetuity. If you don't remember the
+ 
+
+00:04:18.560 --> 00:04:20.150 align:start position:0%
+perpetuity. If you don't remember the
+equation<00:04:18.880><c> for</c><00:04:19.040><c> a</c><00:04:19.280><c> growing</c><00:04:19.519><c> perpetuity,</c>
+
+00:04:20.150 --> 00:04:20.160 align:start position:0%
+equation for a growing perpetuity,
+ 
+
+00:04:20.160 --> 00:04:22.550 align:start position:0%
+equation for a growing perpetuity,
+review<00:04:20.400><c> the</c><00:04:20.639><c> session</c><00:04:20.880><c> on</c><00:04:21.120><c> valuation.</c><00:04:22.240><c> That</c>
+
+00:04:22.550 --> 00:04:22.560 align:start position:0%
+review the session on valuation. That
+ 
+
+00:04:22.560 --> 00:04:25.350 align:start position:0%
+review the session on valuation. That
+last<00:04:22.960><c> term</c><00:04:23.360><c> is</c><00:04:23.600><c> my</c><00:04:23.919><c> terminal</c><00:04:24.560><c> value</c><00:04:24.960><c> for</c><00:04:25.199><c> the</c>
+
+00:04:25.350 --> 00:04:25.360 align:start position:0%
+last term is my terminal value for the
+ 
+
+00:04:25.360 --> 00:04:28.790 align:start position:0%
+last term is my terminal value for the
+index.<00:04:26.240><c> I</c><00:04:26.560><c> discount</c><00:04:26.880><c> it</c><00:04:27.040><c> back</c><00:04:27.199><c> to</c><00:04:27.440><c> today.</c><00:04:28.560><c> The</c>
+
+00:04:28.790 --> 00:04:28.800 align:start position:0%
+index. I discount it back to today. The
+ 
+
+00:04:28.800 --> 00:04:30.950 align:start position:0%
+index. I discount it back to today. The
+present<00:04:29.199><c> value</c><00:04:29.360><c> that</c><00:04:29.600><c> I</c><00:04:29.840><c> get</c><00:04:30.080><c> for</c><00:04:30.639><c> just</c>
+
+00:04:30.950 --> 00:04:30.960 align:start position:0%
+present value that I get for just
+ 
+
+00:04:30.960 --> 00:04:34.469 align:start position:0%
+present value that I get for just
+dividends<00:04:31.840><c> is</c><00:04:32.320><c> 279.</c>
+
+00:04:34.469 --> 00:04:34.479 align:start position:0%
+dividends is 279.
+ 
+
+00:04:34.479 --> 00:04:36.469 align:start position:0%
+dividends is 279.
+If<00:04:34.639><c> you</c><00:04:34.800><c> remember,</c><00:04:35.440><c> stocks</c><00:04:35.759><c> were</c><00:04:36.000><c> priced</c><00:04:36.240><c> at</c>
+
+00:04:36.469 --> 00:04:36.479 align:start position:0%
+If you remember, stocks were priced at
+ 
+
+00:04:36.479 --> 00:04:39.990 align:start position:0%
+If you remember, stocks were priced at
+5850.<00:04:37.759><c> This</c><00:04:38.080><c> would</c><00:04:38.320><c> suggest</c><00:04:38.880><c> that</c><00:04:39.280><c> stocks</c><00:04:39.680><c> are</c>
+
+00:04:39.990 --> 00:04:40.000 align:start position:0%
+5850. This would suggest that stocks are
+ 
+
+00:04:40.000 --> 00:04:44.310 align:start position:0%
+5850. This would suggest that stocks are
+massively<00:04:40.800><c> overvalued</c><00:04:41.520><c> by</c><00:04:41.759><c> more</c><00:04:41.919><c> than</c><00:04:42.240><c> 70%.</c>
+
+00:04:44.310 --> 00:04:44.320 align:start position:0%
+massively overvalued by more than 70%.
+ 
+
+00:04:44.320 --> 00:04:46.550 align:start position:0%
+massively overvalued by more than 70%.
+Now,<00:04:44.560><c> before</c><00:04:44.880><c> you</c><00:04:45.120><c> get</c><00:04:45.280><c> too</c><00:04:45.600><c> upset</c><00:04:46.240><c> or</c>
+
+00:04:46.550 --> 00:04:46.560 align:start position:0%
+Now, before you get too upset or
+ 
+
+00:04:46.560 --> 00:04:49.670 align:start position:0%
+Now, before you get too upset or
+anxious,<00:04:47.840><c> this</c><00:04:48.080><c> is</c><00:04:48.320><c> focusing</c><00:04:49.040><c> just</c><00:04:49.360><c> on</c>
+
+00:04:49.670 --> 00:04:49.680 align:start position:0%
+anxious, this is focusing just on
+ 
+
+00:04:49.680 --> 00:04:52.150 align:start position:0%
+anxious, this is focusing just on
+dividends.<00:04:50.960><c> If</c><00:04:51.120><c> you</c><00:04:51.280><c> remember</c><00:04:51.440><c> in</c><00:04:51.680><c> an</c><00:04:51.840><c> earlier</c>
+
+00:04:52.150 --> 00:04:52.160 align:start position:0%
+dividends. If you remember in an earlier
+ 
+
+00:04:52.160 --> 00:04:54.310 align:start position:0%
+dividends. If you remember in an earlier
+session,<00:04:52.479><c> we</c><00:04:52.720><c> talked</c><00:04:52.960><c> about</c><00:04:53.120><c> dividends.</c><00:04:54.080><c> We</c>
+
+00:04:54.310 --> 00:04:54.320 align:start position:0%
+session, we talked about dividends. We
+ 
+
+00:04:54.320 --> 00:04:56.469 align:start position:0%
+session, we talked about dividends. We
+also<00:04:54.639><c> talked</c><00:04:54.880><c> about</c><00:04:55.120><c> how</c><00:04:55.440><c> US</c><00:04:55.840><c> stocks</c><00:04:56.240><c> in</c>
+
+00:04:56.469 --> 00:04:56.479 align:start position:0%
+also talked about how US stocks in
+ 
+
+00:04:56.479 --> 00:04:59.110 align:start position:0%
+also talked about how US stocks in
+particular<00:04:57.600><c> have</c><00:04:57.919><c> increasingly</c><00:04:58.639><c> shifted</c>
+
+00:04:59.110 --> 00:04:59.120 align:start position:0%
+particular have increasingly shifted
+ 
+
+00:04:59.120 --> 00:05:00.790 align:start position:0%
+particular have increasingly shifted
+away<00:04:59.360><c> from</c><00:04:59.600><c> dividends</c><00:05:00.000><c> to</c><00:05:00.240><c> buying</c><00:05:00.479><c> back</c>
+
+00:05:00.790 --> 00:05:00.800 align:start position:0%
+away from dividends to buying back
+ 
+
+00:05:00.800 --> 00:05:03.430 align:start position:0%
+away from dividends to buying back
+stock.<00:05:02.000><c> Your</c><00:05:02.240><c> cash</c><00:05:02.479><c> flows</c><00:05:02.800><c> are</c><00:05:03.040><c> now</c><00:05:03.199><c> taking</c>
+
+00:05:03.430 --> 00:05:03.440 align:start position:0%
+stock. Your cash flows are now taking
+ 
+
+00:05:03.440 --> 00:05:05.830 align:start position:0%
+stock. Your cash flows are now taking
+the<00:05:03.600><c> form</c><00:05:03.840><c> if</c><00:05:04.000><c> you</c><00:05:04.160><c> own</c><00:05:04.320><c> the</c><00:05:04.560><c> entire</c><00:05:04.880><c> index</c><00:05:05.600><c> not</c>
+
+00:05:05.830 --> 00:05:05.840 align:start position:0%
+the form if you own the entire index not
+ 
+
+00:05:05.840 --> 00:05:09.110 align:start position:0%
+the form if you own the entire index not
+just<00:05:06.000><c> in</c><00:05:06.240><c> dividends</c><00:05:06.560><c> but</c><00:05:06.720><c> in</c><00:05:06.960><c> stock</c><00:05:07.199><c> buybacks.</c>
+
+00:05:09.110 --> 00:05:09.120 align:start position:0%
+just in dividends but in stock buybacks.
+ 
+
+00:05:09.120 --> 00:05:11.189 align:start position:0%
+just in dividends but in stock buybacks.
+That<00:05:09.360><c> cash</c><00:05:09.919><c> cash</c><00:05:10.240><c> flow</c><00:05:10.400><c> if</c><00:05:10.560><c> you</c><00:05:10.639><c> add</c><00:05:10.880><c> back</c><00:05:11.039><c> the</c>
+
+00:05:11.189 --> 00:05:11.199 align:start position:0%
+That cash cash flow if you add back the
+ 
+
+00:05:11.199 --> 00:05:13.270 align:start position:0%
+That cash cash flow if you add back the
+buybacks<00:05:11.680><c> is</c><00:05:11.919><c> much</c><00:05:12.240><c> higher</c><00:05:12.560><c> than</c><00:05:12.720><c> the</c><00:05:12.960><c> base</c>
+
+00:05:13.270 --> 00:05:13.280 align:start position:0%
+buybacks is much higher than the base
+ 
+
+00:05:13.280 --> 00:05:16.390 align:start position:0%
+buybacks is much higher than the base
+dividends<00:05:13.680><c> you</c><00:05:13.840><c> received</c><00:05:14.720><c> 182.79</c><00:05:16.080><c> in</c><00:05:16.240><c> the</c>
+
+00:05:16.390 --> 00:05:16.400 align:start position:0%
+dividends you received 182.79 in the
+ 
+
+00:05:16.400 --> 00:05:18.870 align:start position:0%
+dividends you received 182.79 in the
+trailing<00:05:16.720><c> 12</c><00:05:16.960><c> months.</c><00:05:17.600><c> And</c><00:05:17.840><c> if</c><00:05:18.000><c> you</c><00:05:18.080><c> let</c><00:05:18.320><c> that</c>
+
+00:05:18.870 --> 00:05:18.880 align:start position:0%
+trailing 12 months. And if you let that
+ 
+
+00:05:18.880 --> 00:05:20.629 align:start position:0%
+trailing 12 months. And if you let that
+collective<00:05:19.440><c> cash</c><00:05:19.680><c> flow</c><00:05:19.919><c> that</c><00:05:20.160><c> includes</c>
+
+00:05:20.629 --> 00:05:20.639 align:start position:0%
+collective cash flow that includes
+ 
+
+00:05:20.639 --> 00:05:23.749 align:start position:0%
+collective cash flow that includes
+buybacks<00:05:21.280><c> grow</c><00:05:22.320><c> at</c><00:05:22.720><c> the</c><00:05:23.039><c> growth</c><00:05:23.360><c> rate</c><00:05:23.520><c> that</c>
+
+00:05:23.749 --> 00:05:23.759 align:start position:0%
+buybacks grow at the growth rate that
+ 
+
+00:05:23.759 --> 00:05:25.590 align:start position:0%
+buybacks grow at the growth rate that
+analysts<00:05:24.080><c> are</c><00:05:24.240><c> projecting,</c><00:05:24.880><c> you</c><00:05:25.120><c> get</c><00:05:25.280><c> much</c>
+
+00:05:25.590 --> 00:05:25.600 align:start position:0%
+analysts are projecting, you get much
+ 
+
+00:05:25.600 --> 00:05:28.070 align:start position:0%
+analysts are projecting, you get much
+higher<00:05:25.919><c> cash</c><00:05:26.160><c> flows</c><00:05:26.479><c> for</c><00:05:26.639><c> the</c><00:05:26.800><c> next</c><00:05:26.960><c> 5</c><00:05:27.199><c> years.</c>
+
+00:05:28.070 --> 00:05:28.080 align:start position:0%
+higher cash flows for the next 5 years.
+ 
+
+00:05:28.080 --> 00:05:29.909 align:start position:0%
+higher cash flows for the next 5 years.
+And<00:05:28.320><c> using</c><00:05:28.639><c> the</c><00:05:28.880><c> same</c><00:05:29.120><c> approach</c><00:05:29.440><c> we</c><00:05:29.680><c> used</c><00:05:29.759><c> in</c>
+
+00:05:29.909 --> 00:05:29.919 align:start position:0%
+And using the same approach we used in
+ 
+
+00:05:29.919 --> 00:05:31.430 align:start position:0%
+And using the same approach we used in
+the<00:05:30.080><c> dividend</c><00:05:30.400><c> discount</c><00:05:30.800><c> model,</c><00:05:31.120><c> if</c><00:05:31.280><c> you</c>
+
+00:05:31.430 --> 00:05:31.440 align:start position:0%
+the dividend discount model, if you
+ 
+
+00:05:31.440 --> 00:05:33.909 align:start position:0%
+the dividend discount model, if you
+assume<00:05:31.759><c> a</c><00:05:32.080><c> perpetuity</c><00:05:32.720><c> after</c><00:05:33.039><c> year</c><00:05:33.360><c> five</c>
+
+00:05:33.909 --> 00:05:33.919 align:start position:0%
+assume a perpetuity after year five
+ 
+
+00:05:33.919 --> 00:05:37.590 align:start position:0%
+assume a perpetuity after year five
+growing<00:05:34.240><c> at</c><00:05:34.479><c> 4.58%</c><00:05:35.680><c> a</c><00:05:35.840><c> year,</c><00:05:37.039><c> the</c><00:05:37.280><c> present</c>
+
+00:05:37.590 --> 00:05:37.600 align:start position:0%
+growing at 4.58% a year, the present
+ 
+
+00:05:37.600 --> 00:05:41.350 align:start position:0%
+growing at 4.58% a year, the present
+value<00:05:37.919><c> of</c><00:05:38.160><c> this</c><00:05:38.800><c> this</c><00:05:39.360><c> aggregated</c><00:05:40.160><c> or</c><00:05:40.960><c> summed</c>
+
+00:05:41.350 --> 00:05:41.360 align:start position:0%
+value of this this aggregated or summed
+ 
+
+00:05:41.360 --> 00:05:44.950 align:start position:0%
+value of this this aggregated or summed
+up<00:05:41.600><c> cash</c><00:05:41.840><c> flow</c><00:05:42.080><c> is</c><00:05:42.479><c> 5,098.</c>
+
+00:05:44.950 --> 00:05:44.960 align:start position:0%
+up cash flow is 5,098.
+ 
+
+00:05:44.960 --> 00:05:46.790 align:start position:0%
+up cash flow is 5,098.
+Markets<00:05:45.600><c> are</c><00:05:45.919><c> still</c><00:05:46.160><c> coming</c><00:05:46.400><c> out</c><00:05:46.560><c> as</c>
+
+00:05:46.790 --> 00:05:46.800 align:start position:0%
+Markets are still coming out as
+ 
+
+00:05:46.800 --> 00:05:49.189 align:start position:0%
+Markets are still coming out as
+overvalued,<00:05:47.520><c> but</c><00:05:47.840><c> by</c><00:05:48.160><c> a</c><00:05:48.400><c> more</c><00:05:48.639><c> reasonable</c>
+
+00:05:49.189 --> 00:05:49.199 align:start position:0%
+overvalued, but by a more reasonable
+ 
+
+00:05:49.199 --> 00:05:51.510 align:start position:0%
+overvalued, but by a more reasonable
+amount,<00:05:49.680><c> 15%.</c>
+
+00:05:51.510 --> 00:05:51.520 align:start position:0%
+amount, 15%.
+ 
+
+00:05:51.520 --> 00:05:53.749 align:start position:0%
+amount, 15%.
+On<00:05:51.759><c> an</c><00:05:51.919><c> intrinsic</c><00:05:52.560><c> value</c><00:05:52.880><c> basis,</c><00:05:53.360><c> you</c><00:05:53.600><c> would</c>
+
+00:05:53.749 --> 00:05:53.759 align:start position:0%
+On an intrinsic value basis, you would
+ 
+
+00:05:53.759 --> 00:05:57.270 align:start position:0%
+On an intrinsic value basis, you would
+conclude<00:05:54.320><c> stocks</c><00:05:54.720><c> are</c><00:05:54.880><c> overvalued</c><00:05:55.840><c> by</c><00:05:56.240><c> 15%</c><00:05:57.039><c> at</c>
+
+00:05:57.270 --> 00:05:57.280 align:start position:0%
+conclude stocks are overvalued by 15% at
+ 
+
+00:05:57.280 --> 00:05:59.990 align:start position:0%
+conclude stocks are overvalued by 15% at
+the<00:05:57.440><c> start</c><00:05:57.600><c> of</c><00:05:57.840><c> 2025.</c><00:05:59.280><c> You</c><00:05:59.440><c> think</c><00:05:59.680><c> this</c><00:05:59.840><c> is</c>
+
+00:05:59.990 --> 00:06:00.000 align:start position:0%
+the start of 2025. You think this is
+ 
+
+00:06:00.000 --> 00:06:02.550 align:start position:0%
+the start of 2025. You think this is
+neat?<00:06:00.720><c> Why</c><00:06:00.960><c> don't</c><00:06:01.120><c> we</c><00:06:01.280><c> do</c><00:06:01.440><c> this</c><00:06:01.680><c> to</c><00:06:02.000><c> decide</c>
+
+00:06:02.550 --> 00:06:02.560 align:start position:0%
+neat? Why don't we do this to decide
+ 
+
+00:06:02.560 --> 00:06:05.510 align:start position:0%
+neat? Why don't we do this to decide
+whether<00:06:02.880><c> to</c><00:06:03.120><c> be</c><00:06:03.280><c> in</c><00:06:03.440><c> markets</c><00:06:03.840><c> or</c><00:06:04.080><c> not?</c><00:06:04.960><c> Well,</c>
+
+00:06:05.510 --> 00:06:05.520 align:start position:0%
+whether to be in markets or not? Well,
+ 
+
+00:06:05.520 --> 00:06:07.350 align:start position:0%
+whether to be in markets or not? Well,
+when<00:06:05.759><c> you</c><00:06:05.919><c> look</c><00:06:06.000><c> at</c><00:06:06.160><c> intrinsic</c><00:06:06.720><c> valuation</c>
+
+00:06:07.350 --> 00:06:07.360 align:start position:0%
+when you look at intrinsic valuation
+ 
+
+00:06:07.360 --> 00:06:09.430 align:start position:0%
+when you look at intrinsic valuation
+models,<00:06:07.919><c> they</c><00:06:08.160><c> tend</c><00:06:08.400><c> to</c><00:06:08.560><c> work,</c><00:06:08.800><c> but</c><00:06:09.039><c> they</c><00:06:09.199><c> tend</c>
+
+00:06:09.430 --> 00:06:09.440 align:start position:0%
+models, they tend to work, but they tend
+ 
+
+00:06:09.440 --> 00:06:12.309 align:start position:0%
+models, they tend to work, but they tend
+to<00:06:09.600><c> work</c><00:06:10.080><c> over</c><00:06:10.319><c> the</c><00:06:10.639><c> long</c><00:06:10.880><c> term.</c><00:06:12.000><c> In</c><00:06:12.160><c> other</c>
+
+00:06:12.309 --> 00:06:12.319 align:start position:0%
+to work over the long term. In other
+ 
+
+00:06:12.319 --> 00:06:13.749 align:start position:0%
+to work over the long term. In other
+words,<00:06:12.560><c> if</c><00:06:12.720><c> you</c><00:06:12.880><c> find</c><00:06:13.120><c> stocks</c><00:06:13.440><c> to</c><00:06:13.600><c> be</c>
+
+00:06:13.749 --> 00:06:13.759 align:start position:0%
+words, if you find stocks to be
+ 
+
+00:06:13.759 --> 00:06:15.749 align:start position:0%
+words, if you find stocks to be
+undervalued<00:06:14.639><c> using</c><00:06:14.880><c> an</c><00:06:15.039><c> intrinsic</c><00:06:15.520><c> value</c>
+
+00:06:15.749 --> 00:06:15.759 align:start position:0%
+undervalued using an intrinsic value
+ 
+
+00:06:15.759 --> 00:06:17.270 align:start position:0%
+undervalued using an intrinsic value
+model,<00:06:16.160><c> there's</c><00:06:16.319><c> no</c><00:06:16.479><c> guarantee</c><00:06:16.960><c> it'll</c>
+
+00:06:17.270 --> 00:06:17.280 align:start position:0%
+model, there's no guarantee it'll
+ 
+
+00:06:17.280 --> 00:06:18.790 align:start position:0%
+model, there's no guarantee it'll
+correct<00:06:17.600><c> the</c><00:06:17.759><c> next</c><00:06:17.919><c> year.</c><00:06:18.160><c> It</c><00:06:18.319><c> might</c><00:06:18.479><c> not</c><00:06:18.639><c> even</c>
+
+00:06:18.790 --> 00:06:18.800 align:start position:0%
+correct the next year. It might not even
+ 
+
+00:06:18.800 --> 00:06:20.469 align:start position:0%
+correct the next year. It might not even
+correct<00:06:19.120><c> over</c><00:06:19.360><c> the</c><00:06:19.520><c> next</c><00:06:19.680><c> 5</c><00:06:19.840><c> years.</c><00:06:20.160><c> It</c><00:06:20.319><c> might</c>
+
+00:06:20.469 --> 00:06:20.479 align:start position:0%
+correct over the next 5 years. It might
+ 
+
+00:06:20.479 --> 00:06:23.029 align:start position:0%
+correct over the next 5 years. It might
+do<00:06:20.560><c> it</c><00:06:20.720><c> over</c><00:06:20.960><c> the</c><00:06:21.120><c> next</c><00:06:21.280><c> 10</c><00:06:21.520><c> years.</c><00:06:22.880><c> And</c>
+
+00:06:23.029 --> 00:06:23.039 align:start position:0%
+do it over the next 10 years. And
+ 
+
+00:06:23.039 --> 00:06:25.990 align:start position:0%
+do it over the next 10 years. And
+there's<00:06:23.280><c> a</c><00:06:24.000><c> there's</c><00:06:24.319><c> a</c><00:06:24.720><c> cost</c><00:06:25.120><c> you</c><00:06:25.440><c> face</c>
+
+00:06:25.990 --> 00:06:26.000 align:start position:0%
+there's a there's a cost you face
+ 
+
+00:06:26.000 --> 00:06:27.670 align:start position:0%
+there's a there's a cost you face
+because<00:06:26.560><c> you're</c><00:06:26.880><c> not</c><00:06:27.039><c> sure</c><00:06:27.280><c> about</c><00:06:27.520><c> the</c>
+
+00:06:27.670 --> 00:06:27.680 align:start position:0%
+because you're not sure about the
+ 
+
+00:06:27.680 --> 00:06:30.550 align:start position:0%
+because you're not sure about the
+timing.<00:06:28.800><c> Let's</c><00:06:29.039><c> say</c><00:06:29.440><c> you</c><00:06:29.680><c> did</c><00:06:29.840><c> an</c><00:06:30.000><c> intrinsic</c>
+
+00:06:30.550 --> 00:06:30.560 align:start position:0%
+timing. Let's say you did an intrinsic
+ 
+
+00:06:30.560 --> 00:06:35.670 align:start position:0%
+timing. Let's say you did an intrinsic
+valuation<00:06:31.520><c> of</c><00:06:31.759><c> the</c><00:06:31.919><c> S&amp;P</c><00:06:32.479><c> 500</c><00:06:32.880><c> in</c><00:06:33.440><c> 2014</c>
+
+00:06:35.670 --> 00:06:35.680 align:start position:0%
+valuation of the S&amp;P 500 in 2014
+ 
+
+00:06:35.680 --> 00:06:38.469 align:start position:0%
+valuation of the S&amp;P 500 in 2014
+and<00:06:35.919><c> you</c><00:06:36.080><c> concluded</c><00:06:36.720><c> stocks</c><00:06:37.199><c> are</c><00:06:37.440><c> overvalued.</c>
+
+00:06:38.469 --> 00:06:38.479 align:start position:0%
+and you concluded stocks are overvalued.
+ 
+
+00:06:38.479 --> 00:06:40.870 align:start position:0%
+and you concluded stocks are overvalued.
+So<00:06:38.720><c> what</c><00:06:38.800><c> do</c><00:06:38.960><c> you</c><00:06:39.039><c> do?</c><00:06:39.280><c> you</c><00:06:39.520><c> sell</c><00:06:39.759><c> all</c><00:06:40.080><c> stocks</c>
+
+00:06:40.870 --> 00:06:40.880 align:start position:0%
+So what do you do? you sell all stocks
+ 
+
+00:06:40.880 --> 00:06:44.070 align:start position:0%
+So what do you do? you sell all stocks
+because<00:06:41.199><c> you</c><00:06:41.440><c> don't</c><00:06:41.680><c> own</c><00:06:42.080><c> overvalued</c><00:06:42.800><c> stuff.</c>
+
+00:06:44.070 --> 00:06:44.080 align:start position:0%
+because you don't own overvalued stuff.
+ 
+
+00:06:44.080 --> 00:06:45.270 align:start position:0%
+because you don't own overvalued stuff.
+You<00:06:44.240><c> know</c><00:06:44.319><c> what?</c><00:06:44.479><c> You'd</c><00:06:44.720><c> have</c><00:06:44.800><c> been</c><00:06:44.960><c> out</c><00:06:45.120><c> of</c>
+
+00:06:45.270 --> 00:06:45.280 align:start position:0%
+You know what? You'd have been out of
+ 
+
+00:06:45.280 --> 00:06:47.430 align:start position:0%
+You know what? You'd have been out of
+stocks<00:06:45.680><c> probably</c><00:06:45.919><c> for</c><00:06:46.160><c> the</c><00:06:46.400><c> next</c><00:06:46.720><c> 8</c><00:06:46.960><c> years.</c>
+
+00:06:47.430 --> 00:06:47.440 align:start position:0%
+stocks probably for the next 8 years.
+ 
+
+00:06:47.440 --> 00:06:49.029 align:start position:0%
+stocks probably for the next 8 years.
+You're<00:06:47.759><c> going</c><00:06:47.919><c> to</c><00:06:48.080><c> be</c><00:06:48.240><c> out</c><00:06:48.400><c> of</c><00:06:48.560><c> the</c><00:06:48.800><c> market</c>
+
+00:06:49.029 --> 00:06:49.039 align:start position:0%
+You're going to be out of the market
+ 
+
+00:06:49.039 --> 00:06:50.550 align:start position:0%
+You're going to be out of the market
+while<00:06:49.280><c> you're</c><00:06:49.520><c> waiting</c><00:06:49.759><c> for</c><00:06:49.919><c> the</c><00:06:50.160><c> market</c><00:06:50.319><c> to</c>
+
+00:06:50.550 --> 00:06:50.560 align:start position:0%
+while you're waiting for the market to
+ 
+
+00:06:50.560 --> 00:06:53.590 align:start position:0%
+while you're waiting for the market to
+correct.<00:06:51.520><c> And</c><00:06:51.759><c> this</c><00:06:52.000><c> becomes</c><00:06:52.400><c> the</c><00:06:52.639><c> question</c>
+
+00:06:53.590 --> 00:06:53.600 align:start position:0%
+correct. And this becomes the question
+ 
+
+00:06:53.600 --> 00:06:57.350 align:start position:0%
+correct. And this becomes the question
+is<00:06:53.919><c> the</c><00:06:54.160><c> benefit</c><00:06:54.960><c> of</c><00:06:55.919><c> getting</c><00:06:56.240><c> it</c><00:06:56.560><c> right</c>
+
+00:06:57.350 --> 00:06:57.360 align:start position:0%
+is the benefit of getting it right
+ 
+
+00:06:57.360 --> 00:06:59.350 align:start position:0%
+is the benefit of getting it right
+enough<00:06:57.759><c> to</c><00:06:58.000><c> cover</c><00:06:58.240><c> the</c><00:06:58.479><c> cost</c><00:06:58.720><c> of</c><00:06:58.880><c> being</c><00:06:59.039><c> out</c><00:06:59.280><c> of</c>
+
+00:06:59.350 --> 00:06:59.360 align:start position:0%
+enough to cover the cost of being out of
+ 
+
+00:06:59.360 --> 00:07:01.990 align:start position:0%
+enough to cover the cost of being out of
+the<00:06:59.520><c> market</c><00:06:59.759><c> for</c><00:07:00.000><c> extended</c><00:07:00.560><c> periods.</c><00:07:01.680><c> There's</c>
+
+00:07:01.990 --> 00:07:02.000 align:start position:0%
+the market for extended periods. There's
+ 
+
+00:07:02.000 --> 00:07:03.749 align:start position:0%
+the market for extended periods. There's
+also<00:07:02.560><c> the</c><00:07:02.800><c> problem</c><00:07:03.039><c> with</c><00:07:03.280><c> intrinsic</c>
+
+00:07:03.749 --> 00:07:03.759 align:start position:0%
+also the problem with intrinsic
+ 
+
+00:07:03.759 --> 00:07:05.670 align:start position:0%
+also the problem with intrinsic
+valuation<00:07:04.319><c> models</c><00:07:04.720><c> that</c><00:07:04.960><c> there</c><00:07:05.120><c> might</c><00:07:05.360><c> be</c><00:07:05.440><c> a</c>
+
+00:07:05.670 --> 00:07:05.680 align:start position:0%
+valuation models that there might be a
+ 
+
+00:07:05.680 --> 00:07:07.670 align:start position:0%
+valuation models that there might be a
+structural<00:07:06.240><c> shift</c><00:07:06.560><c> going</c><00:07:06.800><c> on</c><00:07:07.039><c> where</c><00:07:07.360><c> people's</c>
+
+00:07:07.670 --> 00:07:07.680 align:start position:0%
+structural shift going on where people's
+ 
+
+00:07:07.680 --> 00:07:09.909 align:start position:0%
+structural shift going on where people's
+risk<00:07:08.000><c> premiums</c><00:07:08.479><c> are</c><00:07:08.720><c> coming</c><00:07:08.960><c> down</c><00:07:09.599><c> where</c>
+
+00:07:09.909 --> 00:07:09.919 align:start position:0%
+risk premiums are coming down where
+ 
+
+00:07:09.919 --> 00:07:11.670 align:start position:0%
+risk premiums are coming down where
+growth<00:07:10.160><c> is</c><00:07:10.400><c> going</c><00:07:10.639><c> up</c><00:07:10.960><c> or</c><00:07:11.199><c> companies</c><00:07:11.520><c> are</c>
+
+00:07:11.670 --> 00:07:11.680 align:start position:0%
+growth is going up or companies are
+ 
+
+00:07:11.680 --> 00:07:13.270 align:start position:0%
+growth is going up or companies are
+becoming<00:07:12.080><c> more</c><00:07:12.319><c> efficient,</c><00:07:12.639><c> you</c><00:07:12.960><c> haven't</c>
+
+00:07:13.270 --> 00:07:13.280 align:start position:0%
+becoming more efficient, you haven't
+ 
+
+00:07:13.280 --> 00:07:15.909 align:start position:0%
+becoming more efficient, you haven't
+captured<00:07:13.680><c> it</c><00:07:14.080><c> in</c><00:07:14.319><c> your</c><00:07:14.560><c> numbers.</c><00:07:15.599><c> So</c>
+
+00:07:15.909 --> 00:07:15.919 align:start position:0%
+captured it in your numbers. So
+ 
+
+00:07:15.919 --> 00:07:18.629 align:start position:0%
+captured it in your numbers. So
+intrinsic<00:07:16.479><c> valuation</c><00:07:17.120><c> models</c><00:07:17.599><c> are</c><00:07:17.919><c> tricky</c><00:07:18.400><c> to</c>
+
+00:07:18.629 --> 00:07:18.639 align:start position:0%
+intrinsic valuation models are tricky to
+ 
+
+00:07:18.639 --> 00:07:21.510 align:start position:0%
+intrinsic valuation models are tricky to
+use<00:07:18.880><c> in</c><00:07:19.120><c> timing</c><00:07:19.599><c> markets</c><00:07:20.160><c> because</c><00:07:21.120><c> even</c>
+
+00:07:21.510 --> 00:07:21.520 align:start position:0%
+use in timing markets because even
+ 
+
+00:07:21.520 --> 00:07:23.189 align:start position:0%
+use in timing markets because even
+though<00:07:21.680><c> they</c><00:07:22.000><c> might</c><00:07:22.160><c> be</c><00:07:22.319><c> right</c><00:07:22.560><c> in</c><00:07:22.800><c> the</c><00:07:22.960><c> long</c>
+
+00:07:23.189 --> 00:07:23.199 align:start position:0%
+though they might be right in the long
+ 
+
+00:07:23.199 --> 00:07:25.830 align:start position:0%
+though they might be right in the long
+term,<00:07:23.840><c> a</c><00:07:24.080><c> long-term</c><00:07:24.639><c> might</c><00:07:24.880><c> be</c><00:07:25.039><c> a</c><00:07:25.199><c> long</c><00:07:25.599><c> it</c>
+
+00:07:25.830 --> 00:07:25.840 align:start position:0%
+term, a long-term might be a long it
+ 
+
+00:07:25.840 --> 00:07:29.029 align:start position:0%
+term, a long-term might be a long it
+might<00:07:26.080><c> take</c><00:07:26.720><c> enough</c><00:07:27.680><c> of</c><00:07:28.000><c> your</c><00:07:28.240><c> portfolio</c><00:07:28.800><c> that</c>
+
+00:07:29.029 --> 00:07:29.039 align:start position:0%
+might take enough of your portfolio that
+ 
+
+00:07:29.039 --> 00:07:31.350 align:start position:0%
+might take enough of your portfolio that
+you're<00:07:29.280><c> you</c><00:07:29.599><c> you're</c><00:07:30.000><c> trapped</c><00:07:30.400><c> in</c><00:07:30.639><c> cash</c><00:07:31.120><c> while</c>
+
+00:07:31.350 --> 00:07:31.360 align:start position:0%
+you're you you're trapped in cash while
+ 
+
+00:07:31.360 --> 00:07:34.070 align:start position:0%
+you're you you're trapped in cash while
+you<00:07:31.599><c> wait</c><00:07:31.759><c> for</c><00:07:31.919><c> that</c><00:07:32.160><c> correction</c><00:07:32.560><c> to</c><00:07:32.800><c> happen.</c>
+
+00:07:34.070 --> 00:07:34.080 align:start position:0%
+you wait for that correction to happen.
+ 
+
+00:07:34.080 --> 00:07:36.309 align:start position:0%
+you wait for that correction to happen.
+So<00:07:34.319><c> intrinsic</c><00:07:34.880><c> valuation,</c><00:07:35.520><c> let's</c><00:07:35.759><c> move</c><00:07:35.919><c> on</c><00:07:36.080><c> to</c>
+
+00:07:36.309 --> 00:07:36.319 align:start position:0%
+So intrinsic valuation, let's move on to
+ 
+
+00:07:36.319 --> 00:07:39.189 align:start position:0%
+So intrinsic valuation, let's move on to
+pricing.<00:07:37.120><c> In</c><00:07:37.360><c> pricing,</c><00:07:37.840><c> you</c><00:07:38.080><c> look</c><00:07:38.240><c> at</c><00:07:38.880><c> what</c>
+
+00:07:39.189 --> 00:07:39.199 align:start position:0%
+pricing. In pricing, you look at what
+ 
+
+00:07:39.199 --> 00:07:40.790 align:start position:0%
+pricing. In pricing, you look at what
+stocks<00:07:39.599><c> are</c><00:07:39.759><c> priced</c><00:07:40.000><c> at</c><00:07:40.160><c> and</c><00:07:40.319><c> you</c><00:07:40.479><c> compare</c>
+
+00:07:40.790 --> 00:07:40.800 align:start position:0%
+stocks are priced at and you compare
+ 
+
+00:07:40.800 --> 00:07:42.469 align:start position:0%
+stocks are priced at and you compare
+them<00:07:40.960><c> either</c><00:07:41.280><c> to</c><00:07:41.440><c> their</c><00:07:41.680><c> own</c><00:07:41.840><c> history</c><00:07:42.080><c> or</c><00:07:42.319><c> to</c>
+
+00:07:42.469 --> 00:07:42.479 align:start position:0%
+them either to their own history or to
+ 
+
+00:07:42.479 --> 00:07:44.629 align:start position:0%
+them either to their own history or to
+other<00:07:42.720><c> markets.</c><00:07:43.840><c> You</c><00:07:44.000><c> could</c><00:07:44.160><c> argue</c><00:07:44.400><c> that</c>
+
+00:07:44.629 --> 00:07:44.639 align:start position:0%
+other markets. You could argue that
+ 
+
+00:07:44.639 --> 00:07:47.510 align:start position:0%
+other markets. You could argue that
+pricing<00:07:44.960><c> is</c><00:07:45.199><c> is</c><00:07:45.520><c> a</c><00:07:45.759><c> le</c><00:07:46.240><c> a</c><00:07:46.400><c> lot</c><00:07:46.639><c> more</c><00:07:46.880><c> flexible</c>
+
+00:07:47.510 --> 00:07:47.520 align:start position:0%
+pricing is is a le a lot more flexible
+ 
+
+00:07:47.520 --> 00:07:49.110 align:start position:0%
+pricing is is a le a lot more flexible
+than<00:07:47.759><c> intrinsic</c><00:07:48.240><c> valuation</c><00:07:48.720><c> because</c><00:07:48.960><c> you</c>
+
+00:07:49.110 --> 00:07:49.120 align:start position:0%
+than intrinsic valuation because you
+ 
+
+00:07:49.120 --> 00:07:50.469 align:start position:0%
+than intrinsic valuation because you
+don't<00:07:49.199><c> have</c><00:07:49.360><c> the</c><00:07:49.520><c> assumptions</c><00:07:49.919><c> about</c><00:07:50.240><c> cash</c>
+
+00:07:50.469 --> 00:07:50.479 align:start position:0%
+don't have the assumptions about cash
+ 
+
+00:07:50.479 --> 00:07:53.189 align:start position:0%
+don't have the assumptions about cash
+flows<00:07:50.800><c> and</c><00:07:50.960><c> discount</c><00:07:51.360><c> rates</c><00:07:51.680><c> you</c><00:07:51.840><c> need</c><00:07:52.880><c> in</c><00:07:53.039><c> the</c>
+
+00:07:53.189 --> 00:07:53.199 align:start position:0%
+flows and discount rates you need in the
+ 
+
+00:07:53.199 --> 00:07:54.469 align:start position:0%
+flows and discount rates you need in the
+context<00:07:53.520><c> of</c><00:07:53.680><c> pricing.</c><00:07:54.000><c> There</c><00:07:54.080><c> are</c><00:07:54.240><c> two</c><00:07:54.319><c> ways</c>
+
+00:07:54.469 --> 00:07:54.479 align:start position:0%
+context of pricing. There are two ways
+ 
+
+00:07:54.479 --> 00:07:56.230 align:start position:0%
+context of pricing. There are two ways
+you<00:07:54.720><c> will</c><00:07:54.879><c> see</c><00:07:55.039><c> pricing</c><00:07:55.440><c> used</c><00:07:55.680><c> in</c><00:07:55.919><c> market</c>
+
+00:07:56.230 --> 00:07:56.240 align:start position:0%
+you will see pricing used in market
+ 
+
+00:07:56.240 --> 00:07:58.629 align:start position:0%
+you will see pricing used in market
+timing.<00:07:56.720><c> One</c><00:07:56.879><c> is</c><00:07:57.039><c> to</c><00:07:57.280><c> compare</c><00:07:57.599><c> the</c><00:07:57.840><c> pricing</c><00:07:58.319><c> of</c>
+
+00:07:58.629 --> 00:07:58.639 align:start position:0%
+timing. One is to compare the pricing of
+ 
+
+00:07:58.639 --> 00:08:00.150 align:start position:0%
+timing. One is to compare the pricing of
+stocks<00:07:59.039><c> today</c><00:07:59.280><c> to</c><00:07:59.520><c> the</c><00:07:59.680><c> pricing</c>
+
+00:08:00.150 --> 00:08:00.160 align:start position:0%
+stocks today to the pricing
+ 
+
+00:08:00.160 --> 00:08:02.629 align:start position:0%
+stocks today to the pricing
+historically.<00:08:01.199><c> We</c><00:08:01.520><c> started</c><00:08:01.840><c> on</c><00:08:02.000><c> this</c><00:08:02.240><c> in</c><00:08:02.479><c> the</c>
+
+00:08:02.629 --> 00:08:02.639 align:start position:0%
+historically. We started on this in the
+ 
+
+00:08:02.639 --> 00:08:04.230 align:start position:0%
+historically. We started on this in the
+mean<00:08:02.879><c> reversion</c><00:08:03.360><c> discussion</c><00:08:03.840><c> the</c><00:08:04.080><c> last</c>
+
+00:08:04.230 --> 00:08:04.240 align:start position:0%
+mean reversion discussion the last
+ 
+
+00:08:04.240 --> 00:08:06.230 align:start position:0%
+mean reversion discussion the last
+session<00:08:04.879><c> but</c><00:08:05.039><c> here</c><00:08:05.280><c> we're</c><00:08:05.440><c> going</c><00:08:05.520><c> to</c><00:08:05.759><c> dig</c><00:08:06.000><c> a</c>
+
+00:08:06.230 --> 00:08:06.240 align:start position:0%
+session but here we're going to dig a
+ 
+
+00:08:06.240 --> 00:08:09.270 align:start position:0%
+session but here we're going to dig a
+little<00:08:06.400><c> deeper</c><00:08:07.440><c> or</c><00:08:07.759><c> comparing</c><00:08:08.160><c> the</c><00:08:08.400><c> PE</c><00:08:08.800><c> ratios</c>
+
+00:08:09.270 --> 00:08:09.280 align:start position:0%
+little deeper or comparing the PE ratios
+ 
+
+00:08:09.280 --> 00:08:11.189 align:start position:0%
+little deeper or comparing the PE ratios
+across<00:08:09.759><c> different</c><00:08:10.160><c> markets.</c><00:08:10.639><c> But</c><00:08:10.800><c> the</c><00:08:11.039><c> key</c>
+
+00:08:11.189 --> 00:08:11.199 align:start position:0%
+across different markets. But the key
+ 
+
+00:08:11.199 --> 00:08:13.270 align:start position:0%
+across different markets. But the key
+when<00:08:11.440><c> you're</c><00:08:11.599><c> pricing</c><00:08:12.160><c> is</c><00:08:12.479><c> you</c><00:08:12.720><c> control</c><00:08:13.039><c> for</c>
+
+00:08:13.270 --> 00:08:13.280 align:start position:0%
+when you're pricing is you control for
+ 
+
+00:08:13.280 --> 00:08:15.830 align:start position:0%
+when you're pricing is you control for
+changes<00:08:13.680><c> over</c><00:08:14.000><c> time.</c><00:08:15.120><c> So</c><00:08:15.280><c> here's</c><00:08:15.520><c> what</c><00:08:15.599><c> I'd</c>
+
+00:08:15.830 --> 00:08:15.840 align:start position:0%
+changes over time. So here's what I'd
+ 
+
+00:08:15.840 --> 00:08:17.670 align:start position:0%
+changes over time. So here's what I'd
+like<00:08:15.919><c> to</c><00:08:16.000><c> do.</c><00:08:16.240><c> I'd</c><00:08:16.479><c> like</c><00:08:16.639><c> to</c><00:08:16.800><c> go</c><00:08:16.960><c> back</c><00:08:17.360><c> to</c><00:08:17.520><c> a</c>
+
+00:08:17.670 --> 00:08:17.680 align:start position:0%
+like to do. I'd like to go back to a
+ 
+
+00:08:17.680 --> 00:08:20.070 align:start position:0%
+like to do. I'd like to go back to a
+chart<00:08:18.000><c> we've</c><00:08:18.319><c> looked</c><00:08:18.560><c> at</c><00:08:18.720><c> already</c><00:08:19.680><c> where</c><00:08:19.919><c> we</c>
+
+00:08:20.070 --> 00:08:20.080 align:start position:0%
+chart we've looked at already where we
+ 
+
+00:08:20.080 --> 00:08:22.550 align:start position:0%
+chart we've looked at already where we
+looked<00:08:20.240><c> at</c><00:08:20.400><c> PE</c><00:08:20.800><c> ratios</c><00:08:21.199><c> across</c><00:08:21.599><c> time</c><00:08:22.080><c> in</c><00:08:22.400><c> the</c>
+
+00:08:22.550 --> 00:08:22.560 align:start position:0%
+looked at PE ratios across time in the
+ 
+
+00:08:22.560 --> 00:08:24.390 align:start position:0%
+looked at PE ratios across time in the
+last<00:08:22.800><c> session,</c><00:08:23.199><c> but</c><00:08:23.599><c> there</c><00:08:23.759><c> we</c><00:08:24.000><c> talked</c><00:08:24.160><c> in</c><00:08:24.319><c> the</c>
+
+00:08:24.390 --> 00:08:24.400 align:start position:0%
+last session, but there we talked in the
+ 
+
+00:08:24.400 --> 00:08:26.550 align:start position:0%
+last session, but there we talked in the
+context<00:08:24.639><c> of</c><00:08:24.800><c> mean</c><00:08:25.039><c> reversion.</c><00:08:25.919><c> Here</c><00:08:26.240><c> I've</c>
+
+00:08:26.550 --> 00:08:26.560 align:start position:0%
+context of mean reversion. Here I've
+ 
+
+00:08:26.560 --> 00:08:30.469 align:start position:0%
+context of mean reversion. Here I've
+inverted<00:08:26.960><c> the</c><00:08:27.199><c> PE</c><00:08:27.520><c> ratio</c><00:08:28.960><c> and</c><00:08:29.520><c> pre</c><00:08:29.919><c> presented</c>
+
+00:08:30.469 --> 00:08:30.479 align:start position:0%
+inverted the PE ratio and pre presented
+ 
+
+00:08:30.479 --> 00:08:32.550 align:start position:0%
+inverted the PE ratio and pre presented
+as<00:08:30.639><c> an</c><00:08:30.800><c> earnings</c><00:08:31.199><c> to</c><00:08:31.360><c> price</c><00:08:31.599><c> ratio.</c><00:08:32.080><c> That's</c>
+
+00:08:32.550 --> 00:08:32.560 align:start position:0%
+as an earnings to price ratio. That's
+ 
+
+00:08:32.560 --> 00:08:35.029 align:start position:0%
+as an earnings to price ratio. That's
+that's<00:08:32.959><c> the</c><00:08:33.519><c> that's</c><00:08:33.839><c> the</c><00:08:34.159><c> blue</c><00:08:34.399><c> line</c><00:08:34.640><c> you</c><00:08:34.880><c> see</c>
+
+00:08:35.029 --> 00:08:35.039 align:start position:0%
+that's the that's the blue line you see
+ 
+
+00:08:35.039 --> 00:08:37.190 align:start position:0%
+that's the that's the blue line you see
+there,<00:08:35.279><c> the</c><00:08:35.519><c> earnings</c><00:08:35.919><c> yield.</c><00:08:36.800><c> I've</c>
+
+00:08:37.190 --> 00:08:37.200 align:start position:0%
+there, the earnings yield. I've
+ 
+
+00:08:37.200 --> 00:08:41.269 align:start position:0%
+there, the earnings yield. I've
+superimposed<00:08:37.919><c> the</c><00:08:38.080><c> T-bond</c><00:08:38.640><c> rate</c><00:08:40.080><c> each</c><00:08:40.399><c> year.</c>
+
+00:08:41.269 --> 00:08:41.279 align:start position:0%
+superimposed the T-bond rate each year.
+ 
+
+00:08:41.279 --> 00:08:43.110 align:start position:0%
+superimposed the T-bond rate each year.
+And<00:08:41.440><c> if</c><00:08:41.680><c> I</c><00:08:41.839><c> just</c><00:08:42.000><c> stopped</c><00:08:42.320><c> there</c><00:08:42.479><c> and</c><00:08:42.719><c> I</c><00:08:42.880><c> showed</c>
+
+00:08:43.110 --> 00:08:43.120 align:start position:0%
+And if I just stopped there and I showed
+ 
+
+00:08:43.120 --> 00:08:45.670 align:start position:0%
+And if I just stopped there and I showed
+you<00:08:43.279><c> those</c><00:08:43.599><c> two</c><00:08:43.839><c> lines</c><00:08:44.240><c> and</c><00:08:44.480><c> I</c><00:08:44.640><c> asked</c><00:08:44.880><c> you,</c><00:08:45.440><c> do</c>
+
+00:08:45.670 --> 00:08:45.680 align:start position:0%
+you those two lines and I asked you, do
+ 
+
+00:08:45.680 --> 00:08:47.269 align:start position:0%
+you those two lines and I asked you, do
+the<00:08:45.839><c> two</c><00:08:46.080><c> move</c><00:08:46.320><c> together?</c><00:08:46.720><c> Your</c><00:08:46.880><c> answer</c><00:08:47.040><c> is,</c>
+
+00:08:47.269 --> 00:08:47.279 align:start position:0%
+the two move together? Your answer is,
+ 
+
+00:08:47.279 --> 00:08:49.269 align:start position:0%
+the two move together? Your answer is,
+of<00:08:47.440><c> course,</c><00:08:47.680><c> they</c><00:08:47.920><c> do.</c><00:08:48.560><c> And</c><00:08:48.800><c> that</c><00:08:48.959><c> should</c><00:08:49.120><c> come</c>
+
+00:08:49.269 --> 00:08:49.279 align:start position:0%
+of course, they do. And that should come
+ 
+
+00:08:49.279 --> 00:08:52.150 align:start position:0%
+of course, they do. And that should come
+as<00:08:49.519><c> no</c><00:08:49.680><c> surprise.</c><00:08:50.640><c> When</c><00:08:50.959><c> rates</c><00:08:51.360><c> are</c><00:08:51.600><c> high,</c>
+
+00:08:52.150 --> 00:08:52.160 align:start position:0%
+as no surprise. When rates are high,
+ 
+
+00:08:52.160 --> 00:08:53.990 align:start position:0%
+as no surprise. When rates are high,
+stocks<00:08:52.480><c> are</c><00:08:52.720><c> priced</c><00:08:52.959><c> lower.</c><00:08:53.360><c> When</c><00:08:53.519><c> stocks</c><00:08:53.839><c> are</c>
+
+00:08:53.990 --> 00:08:54.000 align:start position:0%
+stocks are priced lower. When stocks are
+ 
+
+00:08:54.000 --> 00:08:55.350 align:start position:0%
+stocks are priced lower. When stocks are
+priced<00:08:54.160><c> lower,</c><00:08:54.480><c> the</c><00:08:54.640><c> earnings</c><00:08:54.959><c> to</c><00:08:55.120><c> price</c>
+
+00:08:55.350 --> 00:08:55.360 align:start position:0%
+priced lower, the earnings to price
+ 
+
+00:08:55.360 --> 00:08:58.710 align:start position:0%
+priced lower, the earnings to price
+ratio<00:08:55.680><c> is</c><00:08:55.839><c> higher.</c><00:08:57.279><c> And</c><00:08:57.440><c> when</c><00:08:57.760><c> rates</c><00:08:58.080><c> are</c><00:08:58.240><c> low,</c>
+
+00:08:58.710 --> 00:08:58.720 align:start position:0%
+ratio is higher. And when rates are low,
+ 
+
+00:08:58.720 --> 00:09:00.230 align:start position:0%
+ratio is higher. And when rates are low,
+stocks<00:08:59.040><c> are</c><00:08:59.200><c> priced</c><00:08:59.600><c> higher</c><00:08:59.920><c> and</c><00:09:00.080><c> the</c>
+
+00:09:00.230 --> 00:09:00.240 align:start position:0%
+stocks are priced higher and the
+ 
+
+00:09:00.240 --> 00:09:02.070 align:start position:0%
+stocks are priced higher and the
+earnings<00:09:00.640><c> to</c><00:09:00.800><c> price</c><00:09:00.959><c> ratio</c><00:09:01.360><c> decreases.</c>
+
+00:09:02.070 --> 00:09:02.080 align:start position:0%
+earnings to price ratio decreases.
+ 
+
+00:09:02.080 --> 00:09:05.509 align:start position:0%
+earnings to price ratio decreases.
+You're<00:09:02.320><c> saying,</c><00:09:02.800><c> "So</c><00:09:03.120><c> what?"</c><00:09:04.560><c> Now,</c><00:09:05.040><c> if</c><00:09:05.200><c> I</c><00:09:05.360><c> if</c>
+
+00:09:05.509 --> 00:09:05.519 align:start position:0%
+You're saying, "So what?" Now, if I if
+ 
+
+00:09:05.519 --> 00:09:06.870 align:start position:0%
+You're saying, "So what?" Now, if I if
+you're<00:09:05.600><c> a</c><00:09:05.839><c> believer</c><00:09:06.000><c> in</c><00:09:06.160><c> mean</c><00:09:06.480><c> reversion,</c>
+
+00:09:06.870 --> 00:09:06.880 align:start position:0%
+you're a believer in mean reversion,
+ 
+
+00:09:06.880 --> 00:09:08.949 align:start position:0%
+you're a believer in mean reversion,
+you'd<00:09:07.120><c> stop</c><00:09:07.440><c> here.</c><00:09:07.839><c> And</c><00:09:08.000><c> in</c><00:09:08.240><c> fact,</c><00:09:08.399><c> we</c><00:09:08.640><c> saw</c>
+
+00:09:08.949 --> 00:09:08.959 align:start position:0%
+you'd stop here. And in fact, we saw
+ 
+
+00:09:08.959 --> 00:09:10.470 align:start position:0%
+you'd stop here. And in fact, we saw
+people<00:09:09.200><c> use</c><00:09:09.440><c> the</c><00:09:09.600><c> Fed</c><00:09:09.920><c> model</c><00:09:10.160><c> where</c><00:09:10.320><c> they</c>
+
+00:09:10.470 --> 00:09:10.480 align:start position:0%
+people use the Fed model where they
+ 
+
+00:09:10.480 --> 00:09:11.990 align:start position:0%
+people use the Fed model where they
+compare<00:09:10.720><c> the</c><00:09:10.959><c> earnings</c><00:09:11.279><c> to</c><00:09:11.440><c> price</c><00:09:11.600><c> ratio</c><00:09:11.920><c> to</c>
+
+00:09:11.990 --> 00:09:12.000 align:start position:0%
+compare the earnings to price ratio to
+ 
+
+00:09:12.000 --> 00:09:14.230 align:start position:0%
+compare the earnings to price ratio to
+the<00:09:12.080><c> T-</c><00:09:12.320><c> bond</c><00:09:12.560><c> rate.</c><00:09:13.360><c> I'm</c><00:09:13.680><c> going</c><00:09:13.760><c> to</c><00:09:13.839><c> dig</c><00:09:14.000><c> a</c>
+
+00:09:14.230 --> 00:09:14.240 align:start position:0%
+the T- bond rate. I'm going to dig a
+ 
+
+00:09:14.240 --> 00:09:16.389 align:start position:0%
+the T- bond rate. I'm going to dig a
+little<00:09:14.399><c> deeper</c><00:09:14.640><c> here.</c><00:09:15.600><c> I'm</c><00:09:15.839><c> going</c><00:09:15.920><c> to</c><00:09:16.080><c> also</c>
+
+00:09:16.389 --> 00:09:16.399 align:start position:0%
+little deeper here. I'm going to also
+ 
+
+00:09:16.399 --> 00:09:17.990 align:start position:0%
+little deeper here. I'm going to also
+bring<00:09:16.560><c> in</c><00:09:16.880><c> the</c><00:09:17.120><c> difference</c><00:09:17.440><c> between</c><00:09:17.600><c> the</c><00:09:17.760><c> T-</c>
+
+00:09:17.990 --> 00:09:18.000 align:start position:0%
+bring in the difference between the T-
+ 
+
+00:09:18.000 --> 00:09:20.230 align:start position:0%
+bring in the difference between the T-
+bond<00:09:18.240><c> rate</c><00:09:18.399><c> and</c><00:09:18.560><c> the</c><00:09:18.720><c> table</c><00:09:19.120><c> rate</c><00:09:19.519><c> into</c><00:09:19.920><c> this</c>
+
+00:09:20.230 --> 00:09:20.240 align:start position:0%
+bond rate and the table rate into this
+ 
+
+00:09:20.240 --> 00:09:23.190 align:start position:0%
+bond rate and the table rate into this
+as<00:09:21.200><c> in</c><00:09:21.440><c> that</c><00:09:21.760><c> in</c><00:09:21.920><c> the</c><00:09:22.160><c> columns.</c><00:09:22.880><c> What</c><00:09:23.040><c> does</c>
+
+00:09:23.190 --> 00:09:23.200 align:start position:0%
+as in that in the columns. What does
+ 
+
+00:09:23.200 --> 00:09:24.630 align:start position:0%
+as in that in the columns. What does
+this<00:09:23.360><c> capture</c><00:09:23.760><c> the</c><00:09:23.920><c> slope</c><00:09:24.160><c> of</c><00:09:24.240><c> the</c><00:09:24.399><c> yield</c>
+
+00:09:24.630 --> 00:09:24.640 align:start position:0%
+this capture the slope of the yield
+ 
+
+00:09:24.640 --> 00:09:27.190 align:start position:0%
+this capture the slope of the yield
+curve?<00:09:25.680><c> Now,</c><00:09:25.920><c> let's</c><00:09:26.160><c> bring</c><00:09:26.320><c> some</c><00:09:26.640><c> statistics</c>
+
+00:09:27.190 --> 00:09:27.200 align:start position:0%
+curve? Now, let's bring some statistics
+ 
+
+00:09:27.200 --> 00:09:29.030 align:start position:0%
+curve? Now, let's bring some statistics
+into<00:09:27.519><c> play.</c><00:09:28.000><c> What</c><00:09:28.160><c> am</c><00:09:28.320><c> I</c><00:09:28.480><c> trying</c><00:09:28.640><c> to</c><00:09:28.800><c> do?</c><00:09:28.880><c> So</c>
+
+00:09:29.030 --> 00:09:29.040 align:start position:0%
+into play. What am I trying to do? So
+ 
+
+00:09:29.040 --> 00:09:30.870 align:start position:0%
+into play. What am I trying to do? So
+I'm<00:09:29.200><c> trying</c><00:09:29.440><c> to</c><00:09:29.600><c> explain</c><00:09:29.920><c> the</c><00:09:30.240><c> changes</c><00:09:30.720><c> in</c>
+
+00:09:30.870 --> 00:09:30.880 align:start position:0%
+I'm trying to explain the changes in
+ 
+
+00:09:30.880 --> 00:09:33.190 align:start position:0%
+I'm trying to explain the changes in
+earnings<00:09:31.279><c> to</c><00:09:31.440><c> price</c><00:09:31.680><c> ratios</c><00:09:32.080><c> across</c><00:09:32.480><c> time</c>
+
+00:09:33.190 --> 00:09:33.200 align:start position:0%
+earnings to price ratios across time
+ 
+
+00:09:33.200 --> 00:09:35.190 align:start position:0%
+earnings to price ratios across time
+using<00:09:33.519><c> the</c><00:09:33.839><c> level</c><00:09:34.080><c> of</c><00:09:34.240><c> rates</c><00:09:34.560><c> and</c><00:09:34.800><c> the</c><00:09:34.959><c> slope</c>
+
+00:09:35.190 --> 00:09:35.200 align:start position:0%
+using the level of rates and the slope
+ 
+
+00:09:35.200 --> 00:09:37.990 align:start position:0%
+using the level of rates and the slope
+of<00:09:35.360><c> the</c><00:09:35.519><c> yield</c><00:09:35.760><c> curve.</c><00:09:37.040><c> And</c><00:09:37.200><c> the</c><00:09:37.440><c> first</c><00:09:37.600><c> step</c><00:09:37.760><c> I</c>
+
+00:09:37.990 --> 00:09:38.000 align:start position:0%
+of the yield curve. And the first step I
+ 
+
+00:09:38.000 --> 00:09:40.070 align:start position:0%
+of the yield curve. And the first step I
+do<00:09:38.080><c> is</c><00:09:38.240><c> I</c><00:09:38.480><c> do</c><00:09:38.560><c> a</c><00:09:38.720><c> correlation</c><00:09:39.440><c> between</c><00:09:39.760><c> the</c>
+
+00:09:40.070 --> 00:09:40.080 align:start position:0%
+do is I do a correlation between the
+ 
+
+00:09:40.080 --> 00:09:41.990 align:start position:0%
+do is I do a correlation between the
+earnings<00:09:40.480><c> yield</c><00:09:40.880><c> and</c><00:09:41.120><c> the</c><00:09:41.279><c> T-</c><00:09:41.519><c> bond</c><00:09:41.680><c> rate.</c>
+
+00:09:41.990 --> 00:09:42.000 align:start position:0%
+earnings yield and the T- bond rate.
+ 
+
+00:09:42.000 --> 00:09:43.350 align:start position:0%
+earnings yield and the T- bond rate.
+What<00:09:42.080><c> do</c><00:09:42.240><c> I</c><00:09:42.320><c> discover?</c><00:09:42.720><c> The</c><00:09:42.959><c> two</c><00:09:43.120><c> move</c>
+
+00:09:43.350 --> 00:09:43.360 align:start position:0%
+What do I discover? The two move
+ 
+
+00:09:43.360 --> 00:09:45.110 align:start position:0%
+What do I discover? The two move
+together.<00:09:43.920><c> No</c><00:09:44.240><c> surprise,</c><00:09:44.640><c> right?</c><00:09:44.800><c> You</c><00:09:44.959><c> saw</c>
+
+00:09:45.110 --> 00:09:45.120 align:start position:0%
+together. No surprise, right? You saw
+ 
+
+00:09:45.120 --> 00:09:48.230 align:start position:0%
+together. No surprise, right? You saw
+the<00:09:45.360><c> graph.</c><00:09:46.160><c> And</c><00:09:46.480><c> historically</c><00:09:47.519><c> when</c><00:09:47.760><c> the</c><00:09:47.920><c> T-</c>
+
+00:09:48.230 --> 00:09:48.240 align:start position:0%
+the graph. And historically when the T-
+ 
+
+00:09:48.240 --> 00:09:50.070 align:start position:0%
+the graph. And historically when the T-
+bond<00:09:48.560><c> rate</c><00:09:48.880><c> is</c><00:09:49.120><c> much</c><00:09:49.360><c> higher</c><00:09:49.519><c> than</c><00:09:49.600><c> the</c><00:09:49.760><c> table</c>
+
+00:09:50.070 --> 00:09:50.080 align:start position:0%
+bond rate is much higher than the table
+ 
+
+00:09:50.080 --> 00:09:51.509 align:start position:0%
+bond rate is much higher than the table
+rate,<00:09:50.320><c> the</c><00:09:50.480><c> slope</c><00:09:50.640><c> of</c><00:09:50.720><c> the</c><00:09:50.880><c> yield</c><00:09:51.120><c> curve</c><00:09:51.360><c> has</c>
+
+00:09:51.509 --> 00:09:51.519 align:start position:0%
+rate, the slope of the yield curve has
+ 
+
+00:09:51.519 --> 00:09:54.310 align:start position:0%
+rate, the slope of the yield curve has
+mattered.<00:09:52.959><c> And</c><00:09:53.120><c> there</c><00:09:53.360><c> the</c><00:09:53.680><c> relationship</c><00:09:54.080><c> is</c>
+
+00:09:54.310 --> 00:09:54.320 align:start position:0%
+mattered. And there the relationship is
+ 
+
+00:09:54.320 --> 00:09:57.910 align:start position:0%
+mattered. And there the relationship is
+negative.<00:09:55.279><c> The</c><00:09:55.600><c> more</c><00:09:56.160><c> downward</c><00:09:56.720><c> sloping</c><00:09:57.600><c> or</c>
+
+00:09:57.910 --> 00:09:57.920 align:start position:0%
+negative. The more downward sloping or
+ 
+
+00:09:57.920 --> 00:09:59.509 align:start position:0%
+negative. The more downward sloping or
+flat<00:09:58.240><c> or</c><00:09:58.480><c> downward</c><00:09:58.880><c> sloping</c><00:09:59.200><c> the</c><00:09:59.279><c> yield</c>
+
+00:09:59.509 --> 00:09:59.519 align:start position:0%
+flat or downward sloping the yield
+ 
+
+00:09:59.519 --> 00:10:03.269 align:start position:0%
+flat or downward sloping the yield
+curve,<00:09:59.839><c> the</c><00:10:00.000><c> worse</c><00:10:00.240><c> it</c><00:10:00.480><c> is</c><00:10:00.640><c> for</c><00:10:00.959><c> stocks.</c>
+
+00:10:03.269 --> 00:10:03.279 align:start position:0%
+curve, the worse it is for stocks.
+ 
+
+00:10:03.279 --> 00:10:05.509 align:start position:0%
+curve, the worse it is for stocks.
+Now,<00:10:04.080><c> that's</c><00:10:04.320><c> a</c><00:10:04.480><c> correlation</c><00:10:04.959><c> by</c><00:10:05.200><c> itself.</c>
+
+00:10:05.509 --> 00:10:05.519 align:start position:0%
+Now, that's a correlation by itself.
+ 
+
+00:10:05.519 --> 00:10:07.350 align:start position:0%
+Now, that's a correlation by itself.
+Correlations<00:10:06.000><c> are</c><00:10:06.320><c> tough</c><00:10:06.480><c> to</c><00:10:06.640><c> trade</c><00:10:06.880><c> on.</c><00:10:07.200><c> So,</c>
+
+00:10:07.350 --> 00:10:07.360 align:start position:0%
+Correlations are tough to trade on. So,
+ 
+
+00:10:07.360 --> 00:10:09.430 align:start position:0%
+Correlations are tough to trade on. So,
+I've<00:10:07.519><c> taken</c><00:10:07.760><c> that</c><00:10:08.000><c> correlation</c><00:10:08.720><c> and</c><00:10:09.040><c> run</c><00:10:09.200><c> a</c>
+
+00:10:09.430 --> 00:10:09.440 align:start position:0%
+I've taken that correlation and run a
+ 
+
+00:10:09.440 --> 00:10:10.870 align:start position:0%
+I've taken that correlation and run a
+regression<00:10:09.760><c> of</c><00:10:10.000><c> the</c><00:10:10.080><c> earnings</c><00:10:10.480><c> to</c><00:10:10.640><c> price</c>
+
+00:10:10.870 --> 00:10:10.880 align:start position:0%
+regression of the earnings to price
+ 
+
+00:10:10.880 --> 00:10:14.150 align:start position:0%
+regression of the earnings to price
+ratio<00:10:11.360><c> against</c><00:10:11.680><c> the</c><00:10:11.839><c> T-</c><00:10:12.080><c> bond</c><00:10:12.399><c> rate</c><00:10:13.680><c> and</c><00:10:13.920><c> the</c>
+
+00:10:14.150 --> 00:10:14.160 align:start position:0%
+ratio against the T- bond rate and the
+ 
+
+00:10:14.160 --> 00:10:15.509 align:start position:0%
+ratio against the T- bond rate and the
+difference<00:10:14.399><c> in</c><00:10:14.560><c> the</c><00:10:14.720><c> T-</c><00:10:14.880><c> bond</c><00:10:15.120><c> rate</c><00:10:15.279><c> and</c><00:10:15.360><c> the</c>
+
+00:10:15.509 --> 00:10:15.519 align:start position:0%
+difference in the T- bond rate and the
+ 
+
+00:10:15.519 --> 00:10:18.949 align:start position:0%
+difference in the T- bond rate and the
+table<00:10:15.839><c> rate</c><00:10:16.399><c> using</c><00:10:16.880><c> 1960</c><00:10:17.680><c> to</c><00:10:17.920><c> 2024</c><00:10:18.640><c> data.</c>
+
+00:10:18.949 --> 00:10:18.959 align:start position:0%
+table rate using 1960 to 2024 data.
+ 
+
+00:10:18.959 --> 00:10:21.910 align:start position:0%
+table rate using 1960 to 2024 data.
+Here's<00:10:19.200><c> what</c><00:10:19.360><c> I</c><00:10:19.519><c> find.</c><00:10:20.399><c> Every</c><00:10:20.800><c> 1%</c><00:10:21.519><c> increase</c><00:10:21.760><c> in</c>
+
+00:10:21.910 --> 00:10:21.920 align:start position:0%
+Here's what I find. Every 1% increase in
+ 
+
+00:10:21.920 --> 00:10:24.310 align:start position:0%
+Here's what I find. Every 1% increase in
+the<00:10:22.000><c> T-</c><00:10:22.240><c> bond</c><00:10:22.480><c> rate</c><00:10:22.959><c> increases</c><00:10:23.600><c> the</c><00:10:23.920><c> earnings</c>
+
+00:10:24.310 --> 00:10:24.320 align:start position:0%
+the T- bond rate increases the earnings
+ 
+
+00:10:24.320 --> 00:10:27.350 align:start position:0%
+the T- bond rate increases the earnings
+to<00:10:24.480><c> price</c><00:10:24.800><c> ratio</c><00:10:25.440><c> by</c><00:10:25.760><c> 0.56%.</c>
+
+00:10:27.350 --> 00:10:27.360 align:start position:0%
+to price ratio by 0.56%.
+ 
+
+00:10:27.360 --> 00:10:29.110 align:start position:0%
+to price ratio by 0.56%.
+It's<00:10:27.600><c> kind</c><00:10:27.760><c> of</c><00:10:27.839><c> messy</c><00:10:28.240><c> because</c><00:10:28.560><c> earnings</c><00:10:28.959><c> to</c>
+
+00:10:29.110 --> 00:10:29.120 align:start position:0%
+It's kind of messy because earnings to
+ 
+
+00:10:29.120 --> 00:10:32.790 align:start position:0%
+It's kind of messy because earnings to
+price<00:10:29.360><c> ratios</c><00:10:30.000><c> are</c><00:10:30.320><c> inverted</c><00:10:31.040><c> P</c><00:10:31.360><c> ratio.</c><00:10:31.920><c> So</c>
+
+00:10:32.790 --> 00:10:32.800 align:start position:0%
+price ratios are inverted P ratio. So
+ 
+
+00:10:32.800 --> 00:10:35.190 align:start position:0%
+price ratios are inverted P ratio. So
+when<00:10:33.120><c> earnings</c><00:10:33.600><c> to</c><00:10:33.760><c> price</c><00:10:34.000><c> ratios</c><00:10:34.480><c> go</c><00:10:34.640><c> up,</c><00:10:34.959><c> P</c>
+
+00:10:35.190 --> 00:10:35.200 align:start position:0%
+when earnings to price ratios go up, P
+ 
+
+00:10:35.200 --> 00:10:37.350 align:start position:0%
+when earnings to price ratios go up, P
+ratios<00:10:35.680><c> go</c><00:10:35.839><c> down.</c><00:10:36.000><c> So</c><00:10:36.160><c> as</c><00:10:36.320><c> T-</c><00:10:36.640><c> bond</c><00:10:36.880><c> rates</c><00:10:37.200><c> go</c>
+
+00:10:37.350 --> 00:10:37.360 align:start position:0%
+ratios go down. So as T- bond rates go
+ 
+
+00:10:37.360 --> 00:10:40.550 align:start position:0%
+ratios go down. So as T- bond rates go
+up,<00:10:37.680><c> price</c><00:10:38.000><c> earnings</c><00:10:38.399><c> ratios</c><00:10:38.880><c> decrease.</c>
+
+00:10:40.550 --> 00:10:40.560 align:start position:0%
+up, price earnings ratios decrease.
+ 
+
+00:10:40.560 --> 00:10:42.069 align:start position:0%
+up, price earnings ratios decrease.
+I<00:10:40.800><c> threw</c><00:10:41.040><c> in</c><00:10:41.120><c> the</c><00:10:41.279><c> T-</c><00:10:41.440><c> bond</c><00:10:41.680><c> rate</c><00:10:41.920><c> and</c><00:10:42.000><c> the</c>
+
+00:10:42.069 --> 00:10:42.079 align:start position:0%
+I threw in the T- bond rate and the
+ 
+
+00:10:42.079 --> 00:10:44.069 align:start position:0%
+I threw in the T- bond rate and the
+T-OLE<00:10:42.480><c> rate</c><00:10:42.800><c> and</c><00:10:43.040><c> the</c><00:10:43.279><c> relationship</c><00:10:43.839><c> is</c>
+
+00:10:44.069 --> 00:10:44.079 align:start position:0%
+T-OLE rate and the relationship is
+ 
+
+00:10:44.079 --> 00:10:45.990 align:start position:0%
+T-OLE rate and the relationship is
+negative.<00:10:44.480><c> As</c><00:10:44.640><c> the</c><00:10:44.800><c> T-</c><00:10:44.959><c> bond</c><00:10:45.279><c> rate</c><00:10:45.519><c> becomes</c>
+
+00:10:45.990 --> 00:10:46.000 align:start position:0%
+negative. As the T- bond rate becomes
+ 
+
+00:10:46.000 --> 00:10:48.630 align:start position:0%
+negative. As the T- bond rate becomes
+higher<00:10:46.399><c> relative</c><00:10:46.720><c> to</c><00:10:46.880><c> the</c><00:10:47.040><c> T-</c><00:10:47.279><c> bond</c><00:10:47.519><c> rate,</c><00:10:48.399><c> my</c>
+
+00:10:48.630 --> 00:10:48.640 align:start position:0%
+higher relative to the T- bond rate, my
+ 
+
+00:10:48.640 --> 00:10:51.110 align:start position:0%
+higher relative to the T- bond rate, my
+earnings<00:10:49.040><c> to</c><00:10:49.200><c> price</c><00:10:49.440><c> ratio</c><00:10:49.839><c> decreases.</c><00:10:50.959><c> In</c>
+
+00:10:51.110 --> 00:10:51.120 align:start position:0%
+earnings to price ratio decreases. In
+ 
+
+00:10:51.120 --> 00:10:53.110 align:start position:0%
+earnings to price ratio decreases. In
+other<00:10:51.279><c> words,</c><00:10:51.519><c> PE</c><00:10:51.839><c> ratios</c><00:10:52.240><c> tend</c><00:10:52.480><c> to</c><00:10:52.560><c> be</c><00:10:52.720><c> lower</c>
+
+00:10:53.110 --> 00:10:53.120 align:start position:0%
+other words, PE ratios tend to be lower
+ 
+
+00:10:53.120 --> 00:10:55.269 align:start position:0%
+other words, PE ratios tend to be lower
+with<00:10:53.440><c> flat</c><00:10:53.760><c> or</c><00:10:53.920><c> negative</c><00:10:54.240><c> yield</c><00:10:54.480><c> curves.</c><00:10:55.120><c> But</c>
+
+00:10:55.269 --> 00:10:55.279 align:start position:0%
+with flat or negative yield curves. But
+ 
+
+00:10:55.279 --> 00:10:57.110 align:start position:0%
+with flat or negative yield curves. But
+before<00:10:55.519><c> you</c><00:10:55.680><c> get</c><00:10:55.839><c> too</c><00:10:56.000><c> excited,</c><00:10:56.560><c> notice</c><00:10:56.880><c> that</c>
+
+00:10:57.110 --> 00:10:57.120 align:start position:0%
+before you get too excited, notice that
+ 
+
+00:10:57.120 --> 00:10:59.350 align:start position:0%
+before you get too excited, notice that
+the<00:10:57.279><c> t</c><00:10:57.600><c> statistics</c><00:10:58.240><c> measuring</c><00:10:58.720><c> significance</c>
+
+00:10:59.350 --> 00:10:59.360 align:start position:0%
+the t statistics measuring significance
+ 
+
+00:10:59.360 --> 00:11:01.990 align:start position:0%
+the t statistics measuring significance
+is<00:10:59.519><c> close</c><00:10:59.760><c> to</c><00:10:59.920><c> zero.</c><00:11:00.720><c> The</c><00:11:01.040><c> yield</c><00:11:01.360><c> curve</c><00:11:01.760><c> no</c>
+
+00:11:01.990 --> 00:11:02.000 align:start position:0%
+is close to zero. The yield curve no
+ 
+
+00:11:02.000 --> 00:11:04.389 align:start position:0%
+is close to zero. The yield curve no
+longer<00:11:02.399><c> seems</c><00:11:02.720><c> to</c><00:11:02.880><c> have</c><00:11:03.040><c> any</c><00:11:03.440><c> explanatory</c>
+
+00:11:04.389 --> 00:11:04.399 align:start position:0%
+longer seems to have any explanatory
+ 
+
+00:11:04.399 --> 00:11:07.750 align:start position:0%
+longer seems to have any explanatory
+power<00:11:05.200><c> in</c><00:11:05.440><c> explaining</c><00:11:06.000><c> PE</c><00:11:06.399><c> ratios.</c><00:11:07.519><c> You're</c>
+
+00:11:07.750 --> 00:11:07.760 align:start position:0%
+power in explaining PE ratios. You're
+ 
+
+00:11:07.760 --> 00:11:11.110 align:start position:0%
+power in explaining PE ratios. You're
+saying<00:11:08.880><c> no</c><00:11:09.200><c> longer</c><00:11:09.839><c> or</c><00:11:10.240><c> what</c><00:11:10.480><c> are</c><00:11:10.640><c> we</c><00:11:10.880><c> talking</c>
+
+00:11:11.110 --> 00:11:11.120 align:start position:0%
+saying no longer or what are we talking
+ 
+
+00:11:11.120 --> 00:11:13.590 align:start position:0%
+saying no longer or what are we talking
+about?<00:11:11.760><c> If</c><00:11:12.000><c> you</c><00:11:12.079><c> go</c><00:11:12.240><c> back</c><00:11:12.399><c> to</c><00:11:12.640><c> 2008,</c><00:11:13.200><c> you</c><00:11:13.440><c> ran</c>
+
+00:11:13.590 --> 00:11:13.600 align:start position:0%
+about? If you go back to 2008, you ran
+ 
+
+00:11:13.600 --> 00:11:16.069 align:start position:0%
+about? If you go back to 2008, you ran
+the<00:11:13.839><c> same</c><00:11:14.000><c> regression.</c><00:11:15.120><c> Then</c><00:11:15.279><c> the</c><00:11:15.519><c> T-bond</c>
+
+00:11:16.069 --> 00:11:16.079 align:start position:0%
+the same regression. Then the T-bond
+ 
+
+00:11:16.079 --> 00:11:18.310 align:start position:0%
+the same regression. Then the T-bond
+rate<00:11:16.480><c> minus</c><00:11:16.720><c> the</c><00:11:16.880><c> Tel</c><00:11:17.279><c> rate</c><00:11:17.519><c> yield</c><00:11:17.839><c> curves</c><00:11:18.160><c> had</c>
+
+00:11:18.310 --> 00:11:18.320 align:start position:0%
+rate minus the Tel rate yield curves had
+ 
+
+00:11:18.320 --> 00:11:20.870 align:start position:0%
+rate minus the Tel rate yield curves had
+a<00:11:18.560><c> much</c><00:11:18.800><c> stronger</c><00:11:19.279><c> explanatory</c><00:11:20.079><c> power</c><00:11:20.399><c> before</c>
+
+00:11:20.870 --> 00:11:20.880 align:start position:0%
+a much stronger explanatory power before
+ 
+
+00:11:20.880 --> 00:11:22.389 align:start position:0%
+a much stronger explanatory power before
+2008.
+
+00:11:22.389 --> 00:11:22.399 align:start position:0%
+2008.
+ 
+
+00:11:22.399 --> 00:11:25.110 align:start position:0%
+2008.
+Something<00:11:22.800><c> has</c><00:11:23.040><c> happened</c><00:11:23.519><c> in</c><00:11:23.760><c> the</c><00:11:24.000><c> last</c><00:11:24.399><c> 15</c><00:11:24.800><c> to</c>
+
+00:11:25.110 --> 00:11:25.120 align:start position:0%
+Something has happened in the last 15 to
+ 
+
+00:11:25.120 --> 00:11:27.750 align:start position:0%
+Something has happened in the last 15 to
+20<00:11:25.360><c> years</c><00:11:26.160><c> where</c><00:11:26.480><c> the</c><00:11:26.720><c> link</c><00:11:27.040><c> between</c><00:11:27.519><c> the</c>
+
+00:11:27.750 --> 00:11:27.760 align:start position:0%
+20 years where the link between the
+ 
+
+00:11:27.760 --> 00:11:30.630 align:start position:0%
+20 years where the link between the
+yield<00:11:28.160><c> curve</c><00:11:28.640><c> and</c><00:11:29.040><c> stock</c><00:11:29.360><c> prices</c><00:11:30.079><c> seems</c><00:11:30.480><c> to</c>
+
+00:11:30.630 --> 00:11:30.640 align:start position:0%
+yield curve and stock prices seems to
+ 
+
+00:11:30.640 --> 00:11:33.030 align:start position:0%
+yield curve and stock prices seems to
+have<00:11:30.800><c> broken</c><00:11:31.200><c> down.</c><00:11:32.160><c> There</c><00:11:32.320><c> is</c><00:11:32.480><c> actually</c><00:11:32.800><c> this</c>
+
+00:11:33.030 --> 00:11:33.040 align:start position:0%
+have broken down. There is actually this
+ 
+
+00:11:33.040 --> 00:11:34.790 align:start position:0%
+have broken down. There is actually this
+rule<00:11:33.200><c> of</c><00:11:33.360><c> thumb</c><00:11:33.600><c> that</c><00:11:33.839><c> people</c><00:11:34.079><c> use</c><00:11:34.320><c> on</c><00:11:34.560><c> Wall</c>
+
+00:11:34.790 --> 00:11:34.800 align:start position:0%
+rule of thumb that people use on Wall
+ 
+
+00:11:34.800 --> 00:11:36.310 align:start position:0%
+rule of thumb that people use on Wall
+Street.<00:11:35.120><c> When</c><00:11:35.279><c> the</c><00:11:35.440><c> yield</c><00:11:35.680><c> curve</c><00:11:35.920><c> becomes</c>
+
+00:11:36.310 --> 00:11:36.320 align:start position:0%
+Street. When the yield curve becomes
+ 
+
+00:11:36.320 --> 00:11:38.710 align:start position:0%
+Street. When the yield curve becomes
+downward<00:11:36.720><c> sloping,</c><00:11:37.200><c> it's</c><00:11:37.360><c> bad</c><00:11:37.600><c> for</c><00:11:37.839><c> stocks.</c>
+
+00:11:38.710 --> 00:11:38.720 align:start position:0%
+downward sloping, it's bad for stocks.
+ 
+
+00:11:38.720 --> 00:11:41.190 align:start position:0%
+downward sloping, it's bad for stocks.
+That<00:11:39.040><c> might</c><00:11:39.279><c> have</c><00:11:39.440><c> been</c><00:11:39.600><c> true</c><00:11:39.839><c> in</c><00:11:40.320><c> 2000</c><00:11:40.880><c> and</c>
+
+00:11:41.190 --> 00:11:41.200 align:start position:0%
+That might have been true in 2000 and
+ 
+
+00:11:41.200 --> 00:11:44.550 align:start position:0%
+That might have been true in 2000 and
+1999<00:11:41.920><c> or</c><00:11:42.240><c> 1985.</c><00:11:43.440><c> It</c><00:11:43.600><c> is</c><00:11:43.839><c> no</c><00:11:44.000><c> longer</c><00:11:44.320><c> true</c>
+
+00:11:44.550 --> 00:11:44.560 align:start position:0%
+1999 or 1985. It is no longer true
+ 
+
+00:11:44.560 --> 00:11:46.790 align:start position:0%
+1999 or 1985. It is no longer true
+today.<00:11:45.519><c> You're</c><00:11:45.760><c> saying</c><00:11:46.079><c> how</c><00:11:46.320><c> does</c><00:11:46.480><c> this</c><00:11:46.640><c> help</c>
+
+00:11:46.790 --> 00:11:46.800 align:start position:0%
+today. You're saying how does this help
+ 
+
+00:11:46.800 --> 00:11:49.350 align:start position:0%
+today. You're saying how does this help
+me<00:11:47.040><c> time</c><00:11:47.360><c> markets?</c><00:11:48.079><c> If</c><00:11:48.320><c> you</c><00:11:48.480><c> plug</c><00:11:48.720><c> in</c><00:11:48.959><c> today's</c>
+
+00:11:49.350 --> 00:11:49.360 align:start position:0%
+me time markets? If you plug in today's
+ 
+
+00:11:49.360 --> 00:11:51.590 align:start position:0%
+me time markets? If you plug in today's
+T-<00:11:49.600><c> bond</c><00:11:49.920><c> rate</c><00:11:50.079><c> and</c><00:11:50.399><c> today's</c><00:11:50.720><c> table</c><00:11:51.120><c> rate</c><00:11:51.360><c> into</c>
+
+00:11:51.590 --> 00:11:51.600 align:start position:0%
+T- bond rate and today's table rate into
+ 
+
+00:11:51.600 --> 00:11:53.350 align:start position:0%
+T- bond rate and today's table rate into
+this<00:11:51.760><c> regression,</c><00:11:52.320><c> you</c><00:11:52.480><c> get</c><00:11:52.560><c> a</c><00:11:52.800><c> predicted</c>
+
+00:11:53.350 --> 00:11:53.360 align:start position:0%
+this regression, you get a predicted
+ 
+
+00:11:53.360 --> 00:11:55.509 align:start position:0%
+this regression, you get a predicted
+earnings<00:11:53.760><c> to</c><00:11:53.920><c> price</c><00:11:54.160><c> ratio</c><00:11:54.480><c> today.</c><00:11:55.120><c> I'll</c><00:11:55.360><c> tell</c>
+
+00:11:55.509 --> 00:11:55.519 align:start position:0%
+earnings to price ratio today. I'll tell
+ 
+
+00:11:55.519 --> 00:11:57.430 align:start position:0%
+earnings to price ratio today. I'll tell
+you<00:11:55.600><c> what</c><00:11:55.839><c> it</c><00:11:56.000><c> worked</c><00:11:56.240><c> out</c><00:11:56.640><c> for</c><00:11:56.800><c> me.</c><00:11:57.040><c> It</c><00:11:57.200><c> worked</c>
+
+00:11:57.430 --> 00:11:57.440 align:start position:0%
+you what it worked out for me. It worked
+ 
+
+00:11:57.440 --> 00:11:59.509 align:start position:0%
+you what it worked out for me. It worked
+out<00:11:57.519><c> to</c><00:11:57.680><c> be</c><00:11:57.839><c> about</c><00:11:58.160><c> 5%.</c><00:11:58.880><c> What</c><00:11:59.040><c> does</c><00:11:59.120><c> that</c><00:11:59.360><c> tell</c>
+
+00:11:59.509 --> 00:11:59.519 align:start position:0%
+out to be about 5%. What does that tell
+ 
+
+00:11:59.519 --> 00:12:02.630 align:start position:0%
+out to be about 5%. What does that tell
+me?<00:12:00.320><c> Given</c><00:12:00.720><c> the</c><00:12:00.959><c> level</c><00:12:01.200><c> of</c><00:12:01.440><c> rates</c><00:12:01.839><c> and</c><00:12:02.079><c> the</c><00:12:02.399><c> and</c>
+
+00:12:02.630 --> 00:12:02.640 align:start position:0%
+me? Given the level of rates and the and
+ 
+
+00:12:02.640 --> 00:12:05.110 align:start position:0%
+me? Given the level of rates and the and
+the<00:12:02.800><c> tel</c><00:12:03.200><c> rate</c><00:12:03.760><c> but</c><00:12:03.839><c> t-bond</c><00:12:04.240><c> and</c><00:12:04.399><c> t-old</c><00:12:04.800><c> rates</c>
+
+00:12:05.110 --> 00:12:05.120 align:start position:0%
+the tel rate but t-bond and t-old rates
+ 
+
+00:12:05.120 --> 00:12:06.870 align:start position:0%
+the tel rate but t-bond and t-old rates
+today
+
+00:12:06.870 --> 00:12:06.880 align:start position:0%
+today
+ 
+
+00:12:06.880 --> 00:12:09.030 align:start position:0%
+today
+the<00:12:07.040><c> earnings</c><00:12:07.440><c> to</c><00:12:07.519><c> price</c><00:12:07.760><c> ratio</c><00:12:08.160><c> should</c><00:12:08.320><c> be</c><00:12:08.480><c> 5%</c>
+
+00:12:09.030 --> 00:12:09.040 align:start position:0%
+the earnings to price ratio should be 5%
+ 
+
+00:12:09.040 --> 00:12:11.269 align:start position:0%
+the earnings to price ratio should be 5%
+which<00:12:09.360><c> translates</c><00:12:09.839><c> into</c><00:12:10.000><c> a</c><00:12:10.160><c> PE</c><00:12:10.480><c> ratio</c><00:12:10.720><c> of</c><00:12:10.959><c> 20.</c>
+
+00:12:11.269 --> 00:12:11.279 align:start position:0%
+which translates into a PE ratio of 20.
+ 
+
+00:12:11.279 --> 00:12:14.069 align:start position:0%
+which translates into a PE ratio of 20.
+If<00:12:11.440><c> you</c><00:12:11.680><c> remember</c><00:12:12.000><c> the</c><00:12:12.240><c> PE</c><00:12:12.560><c> ratio</c><00:12:12.959><c> today</c><00:12:13.760><c> is</c>
+
+00:12:14.069 --> 00:12:14.079 align:start position:0%
+If you remember the PE ratio today is
+ 
+
+00:12:14.079 --> 00:12:18.069 align:start position:0%
+If you remember the PE ratio today is
+about<00:12:14.320><c> 23</c><00:12:14.800><c> to</c><00:12:15.120><c> 24</c><00:12:15.839><c> on</c><00:12:16.000><c> a</c><00:12:16.320><c> pricing</c><00:12:16.800><c> basis</c><00:12:17.600><c> after</c>
+
+00:12:18.069 --> 00:12:18.079 align:start position:0%
+about 23 to 24 on a pricing basis after
+ 
+
+00:12:18.079 --> 00:12:21.509 align:start position:0%
+about 23 to 24 on a pricing basis after
+controlling<00:12:18.639><c> for</c><00:12:18.800><c> the</c><00:12:19.040><c> level</c><00:12:19.200><c> of</c><00:12:19.360><c> rates</c>
+
+00:12:21.509 --> 00:12:21.519 align:start position:0%
+controlling for the level of rates
+ 
+
+00:12:21.519 --> 00:12:24.470 align:start position:0%
+controlling for the level of rates
+stocks<00:12:21.839><c> are</c><00:12:22.000><c> still</c><00:12:22.240><c> overpriced.</c><00:12:23.519><c> So</c><00:12:24.079><c> that's</c>
+
+00:12:24.470 --> 00:12:24.480 align:start position:0%
+stocks are still overpriced. So that's
+ 
+
+00:12:24.480 --> 00:12:27.030 align:start position:0%
+stocks are still overpriced. So that's
+pricing<00:12:25.120><c> playing</c><00:12:25.440><c> out</c><00:12:25.839><c> by</c><00:12:26.079><c> comparing</c><00:12:26.560><c> across</c>
+
+00:12:27.030 --> 00:12:27.040 align:start position:0%
+pricing playing out by comparing across
+ 
+
+00:12:27.040 --> 00:12:28.389 align:start position:0%
+pricing playing out by comparing across
+time.
+
+00:12:28.389 --> 00:12:28.399 align:start position:0%
+time.
+ 
+
+00:12:28.399 --> 00:12:30.710 align:start position:0%
+time.
+You<00:12:28.639><c> can</c><00:12:28.800><c> also</c><00:12:29.200><c> compare</c><00:12:30.079><c> markets</c>
+
+00:12:30.710 --> 00:12:30.720 align:start position:0%
+You can also compare markets
+ 
+
+00:12:30.720 --> 00:12:33.430 align:start position:0%
+You can also compare markets
+geographically,<00:12:31.600><c> right?</c><00:12:32.480><c> This</c><00:12:32.720><c> is</c><00:12:33.279><c> for</c>
+
+00:12:33.430 --> 00:12:33.440 align:start position:0%
+geographically, right? This is for
+ 
+
+00:12:33.440 --> 00:12:36.310 align:start position:0%
+geographically, right? This is for
+instance<00:12:34.320><c> P</c><00:12:34.639><c> ratio</c><00:12:35.040><c> the</c><00:12:35.279><c> the</c><00:12:35.760><c> countries</c><00:12:36.079><c> with</c>
+
+00:12:36.310 --> 00:12:36.320 align:start position:0%
+instance P ratio the the countries with
+ 
+
+00:12:36.320 --> 00:12:40.150 align:start position:0%
+instance P ratio the the countries with
+the<00:12:36.560><c> lowest</c><00:12:37.040><c> PE</c><00:12:37.440><c> ratios</c><00:12:37.920><c> the</c><00:12:38.079><c> start</c><00:12:38.240><c> of</c><00:12:38.480><c> 2025.</c>
+
+00:12:40.150 --> 00:12:40.160 align:start position:0%
+the lowest PE ratios the start of 2025.
+ 
+
+00:12:40.160 --> 00:12:41.990 align:start position:0%
+the lowest PE ratios the start of 2025.
+Now<00:12:40.399><c> if</c><00:12:40.560><c> you</c><00:12:40.639><c> are</c><00:12:40.720><c> a</c><00:12:40.959><c> naive</c><00:12:41.279><c> investor</c><00:12:41.680><c> and</c><00:12:41.839><c> you</c>
+
+00:12:41.990 --> 00:12:42.000 align:start position:0%
+Now if you are a naive investor and you
+ 
+
+00:12:42.000 --> 00:12:44.069 align:start position:0%
+Now if you are a naive investor and you
+said<00:12:42.240><c> lower</c><00:12:42.560><c> P</c><00:12:42.880><c> ratios</c><00:12:43.360><c> mean</c><00:12:43.600><c> stocks</c><00:12:43.920><c> are</c>
+
+00:12:44.069 --> 00:12:44.079 align:start position:0%
+said lower P ratios mean stocks are
+ 
+
+00:12:44.079 --> 00:12:45.590 align:start position:0%
+said lower P ratios mean stocks are
+cheaper.<00:12:44.480><c> I'm</c><00:12:44.639><c> going</c><00:12:44.720><c> to</c><00:12:44.800><c> put</c><00:12:44.959><c> my</c><00:12:45.200><c> money</c><00:12:45.360><c> in</c>
+
+00:12:45.590 --> 00:12:45.600 align:start position:0%
+cheaper. I'm going to put my money in
+ 
+
+00:12:45.600 --> 00:12:48.550 align:start position:0%
+cheaper. I'm going to put my money in
+these<00:12:45.920><c> countries.</c><00:12:46.399><c> Take</c><00:12:46.560><c> a</c><00:12:46.800><c> look</c><00:12:48.079><c> at</c><00:12:48.320><c> this</c>
+
+00:12:48.550 --> 00:12:48.560 align:start position:0%
+these countries. Take a look at this
+ 
+
+00:12:48.560 --> 00:12:50.069 align:start position:0%
+these countries. Take a look at this
+list<00:12:48.720><c> of</c><00:12:48.880><c> countries</c><00:12:49.120><c> and</c><00:12:49.440><c> ask</c><00:12:49.600><c> yourself</c>
+
+00:12:50.069 --> 00:12:50.079 align:start position:0%
+list of countries and ask yourself
+ 
+
+00:12:50.079 --> 00:12:52.870 align:start position:0%
+list of countries and ask yourself
+whether<00:12:50.480><c> you</c><00:12:50.720><c> want</c><00:12:50.880><c> your</c><00:12:51.279><c> portfolio</c><00:12:52.480><c> in</c><00:12:52.720><c> a</c>
+
+00:12:52.870 --> 00:12:52.880 align:start position:0%
+whether you want your portfolio in a
+ 
+
+00:12:52.880 --> 00:12:55.910 align:start position:0%
+whether you want your portfolio in a
+sense<00:12:53.360><c> invested</c><00:12:54.720><c> almost</c><00:12:55.120><c> entirely</c><00:12:55.519><c> in</c><00:12:55.680><c> these</c>
+
+00:12:55.910 --> 00:12:55.920 align:start position:0%
+sense invested almost entirely in these
+ 
+
+00:12:55.920 --> 00:12:57.750 align:start position:0%
+sense invested almost entirely in these
+countries.<00:12:56.800><c> Notice</c><00:12:57.120><c> what</c><00:12:57.279><c> they</c><00:12:57.440><c> have</c><00:12:57.519><c> in</c>
+
+00:12:57.750 --> 00:12:57.760 align:start position:0%
+countries. Notice what they have in
+ 
+
+00:12:57.760 --> 00:12:59.430 align:start position:0%
+countries. Notice what they have in
+common.
+
+00:12:59.430 --> 00:12:59.440 align:start position:0%
+common.
+ 
+
+00:12:59.440 --> 00:13:02.389 align:start position:0%
+common.
+Most<00:12:59.760><c> of</c><00:13:00.000><c> them</c><00:13:00.160><c> are</c><00:13:00.480><c> incredibly</c><00:13:01.360><c> risky,</c>
+
+00:13:02.389 --> 00:13:02.399 align:start position:0%
+Most of them are incredibly risky,
+ 
+
+00:13:02.399 --> 00:13:05.430 align:start position:0%
+Most of them are incredibly risky,
+illlquid<00:13:02.959><c> markets.</c><00:13:04.240><c> Already</c><00:13:04.720><c> you</c><00:13:04.880><c> can</c><00:13:05.040><c> see</c>
+
+00:13:05.430 --> 00:13:05.440 align:start position:0%
+illlquid markets. Already you can see
+ 
+
+00:13:05.440 --> 00:13:07.350 align:start position:0%
+illlquid markets. Already you can see
+why<00:13:05.760><c> PE</c><00:13:06.160><c> ratios</c><00:13:06.480><c> will</c><00:13:06.720><c> vary</c><00:13:06.959><c> across</c>
+
+00:13:07.350 --> 00:13:07.360 align:start position:0%
+why PE ratios will vary across
+ 
+
+00:13:07.360 --> 00:13:10.710 align:start position:0%
+why PE ratios will vary across
+countries.<00:13:08.480><c> Riskier</c><00:13:09.120><c> countries,</c><00:13:10.000><c> PE</c><00:13:10.399><c> ratios</c>
+
+00:13:10.710 --> 00:13:10.720 align:start position:0%
+countries. Riskier countries, PE ratios
+ 
+
+00:13:10.720 --> 00:13:13.269 align:start position:0%
+countries. Riskier countries, PE ratios
+will<00:13:10.880><c> be</c><00:13:10.959><c> lower</c><00:13:11.200><c> than</c><00:13:11.440><c> safer</c><00:13:11.920><c> countries.</c>
+
+00:13:13.269 --> 00:13:13.279 align:start position:0%
+will be lower than safer countries.
+ 
+
+00:13:13.279 --> 00:13:14.629 align:start position:0%
+will be lower than safer countries.
+Unless<00:13:13.600><c> you</c><00:13:13.839><c> control</c><00:13:14.160><c> for</c><00:13:14.399><c> those</c>
+
+00:13:14.629 --> 00:13:14.639 align:start position:0%
+Unless you control for those
+ 
+
+00:13:14.639 --> 00:13:16.790 align:start position:0%
+Unless you control for those
+differences,<00:13:15.279><c> you're</c><00:13:15.519><c> going</c><00:13:15.600><c> to</c><00:13:15.680><c> end</c><00:13:15.839><c> up</c>
+
+00:13:16.790 --> 00:13:16.800 align:start position:0%
+differences, you're going to end up
+ 
+
+00:13:16.800 --> 00:13:18.230 align:start position:0%
+differences, you're going to end up
+putting<00:13:17.120><c> your</c><00:13:17.279><c> money</c><00:13:17.440><c> into</c><00:13:17.760><c> countries</c><00:13:18.000><c> that</c>
+
+00:13:18.230 --> 00:13:18.240 align:start position:0%
+putting your money into countries that
+ 
+
+00:13:18.240 --> 00:13:20.310 align:start position:0%
+putting your money into countries that
+you<00:13:18.399><c> think</c><00:13:18.560><c> are</c><00:13:18.800><c> cheap</c><00:13:19.279><c> but</c><00:13:19.600><c> deserve</c><00:13:19.920><c> to</c><00:13:20.160><c> be</c>
+
+00:13:20.310 --> 00:13:20.320 align:start position:0%
+you think are cheap but deserve to be
+ 
+
+00:13:20.320 --> 00:13:22.790 align:start position:0%
+you think are cheap but deserve to be
+cheap.<00:13:21.120><c> So,</c><00:13:21.279><c> how</c><00:13:21.519><c> can</c><00:13:21.600><c> we</c><00:13:21.839><c> control</c><00:13:22.160><c> for</c><00:13:22.320><c> them?</c>
+
+00:13:22.790 --> 00:13:22.800 align:start position:0%
+cheap. So, how can we control for them?
+ 
+
+00:13:22.800 --> 00:13:24.550 align:start position:0%
+cheap. So, how can we control for them?
+I'm<00:13:23.040><c> going</c><00:13:23.120><c> to</c><00:13:23.200><c> go</c><00:13:23.360><c> back</c><00:13:23.519><c> to</c><00:13:23.680><c> a</c><00:13:23.920><c> very</c><00:13:24.160><c> old</c>
+
+00:13:24.550 --> 00:13:24.560 align:start position:0%
+I'm going to go back to a very old
+ 
+
+00:13:24.560 --> 00:13:26.790 align:start position:0%
+I'm going to go back to a very old
+example<00:13:25.440><c> because</c><00:13:25.680><c> it</c><00:13:25.920><c> kind</c><00:13:26.079><c> of</c><00:13:26.399><c> illustrates</c>
+
+00:13:26.790 --> 00:13:26.800 align:start position:0%
+example because it kind of illustrates
+ 
+
+00:13:26.800 --> 00:13:29.430 align:start position:0%
+example because it kind of illustrates
+the<00:13:27.120><c> process</c><00:13:27.600><c> really</c><00:13:27.920><c> well.</c><00:13:28.720><c> In</c><00:13:28.959><c> June</c><00:13:29.200><c> of</c>
+
+00:13:29.430 --> 00:13:29.440 align:start position:0%
+the process really well. In June of
+ 
+
+00:13:29.440 --> 00:13:32.230 align:start position:0%
+the process really well. In June of
+2000,<00:13:30.000><c> I</c><00:13:30.240><c> collected</c><00:13:30.880><c> the</c><00:13:31.120><c> PE</c><00:13:31.440><c> ratios</c><00:13:31.839><c> for</c><00:13:32.079><c> a</c>
+
+00:13:32.230 --> 00:13:32.240 align:start position:0%
+2000, I collected the PE ratios for a
+ 
+
+00:13:32.240 --> 00:13:33.990 align:start position:0%
+2000, I collected the PE ratios for a
+bunch<00:13:32.480><c> of</c><00:13:32.639><c> markets</c><00:13:33.040><c> which</c><00:13:33.279><c> at</c><00:13:33.440><c> that</c><00:13:33.600><c> time</c><00:13:33.760><c> are</c>
+
+00:13:33.990 --> 00:13:34.000 align:start position:0%
+bunch of markets which at that time are
+ 
+
+00:13:34.000 --> 00:13:36.710 align:start position:0%
+bunch of markets which at that time are
+classified<00:13:34.480><c> as</c><00:13:34.720><c> emerging</c><00:13:35.200><c> markets.</c>
+
+00:13:36.710 --> 00:13:36.720 align:start position:0%
+classified as emerging markets.
+ 
+
+00:13:36.720 --> 00:13:39.030 align:start position:0%
+classified as emerging markets.
+So<00:13:36.880><c> you</c><00:13:37.040><c> have</c><00:13:37.120><c> the</c><00:13:37.200><c> PE</c><00:13:37.519><c> ratio</c><00:13:38.160><c> in</c><00:13:38.399><c> the</c><00:13:38.639><c> in</c><00:13:38.880><c> the</c>
+
+00:13:39.030 --> 00:13:39.040 align:start position:0%
+So you have the PE ratio in the in the
+ 
+
+00:13:39.040 --> 00:13:41.190 align:start position:0%
+So you have the PE ratio in the in the
+second<00:13:39.360><c> column.</c><00:13:40.079><c> You</c><00:13:40.240><c> look</c><00:13:40.480><c> just</c><00:13:40.639><c> at</c><00:13:40.880><c> PE</c>
+
+00:13:41.190 --> 00:13:41.200 align:start position:0%
+second column. You look just at PE
+ 
+
+00:13:41.200 --> 00:13:43.030 align:start position:0%
+second column. You look just at PE
+ratio.<00:13:41.600><c> It's</c><00:13:41.760><c> a</c><00:13:41.839><c> no-brainer,</c><00:13:42.480><c> right?</c><00:13:42.720><c> Turkey</c>
+
+00:13:43.030 --> 00:13:43.040 align:start position:0%
+ratio. It's a no-brainer, right? Turkey
+ 
+
+00:13:43.040 --> 00:13:44.870 align:start position:0%
+ratio. It's a no-brainer, right? Turkey
+is<00:13:43.279><c> the</c><00:13:43.440><c> cheapest</c><00:13:43.920><c> market</c><00:13:44.399><c> followed</c><00:13:44.720><c> by</c>
+
+00:13:44.870 --> 00:13:44.880 align:start position:0%
+is the cheapest market followed by
+ 
+
+00:13:44.880 --> 00:13:47.350 align:start position:0%
+is the cheapest market followed by
+Argentina.<00:13:45.839><c> But</c><00:13:46.000><c> I</c><00:13:46.240><c> collected</c><00:13:46.720><c> three</c><00:13:47.040><c> pieces</c>
+
+00:13:47.350 --> 00:13:47.360 align:start position:0%
+Argentina. But I collected three pieces
+ 
+
+00:13:47.360 --> 00:13:49.190 align:start position:0%
+Argentina. But I collected three pieces
+of<00:13:47.600><c> data</c><00:13:47.839><c> on</c><00:13:48.079><c> each</c><00:13:48.240><c> country.</c><00:13:48.639><c> the</c><00:13:48.880><c> level</c><00:13:49.040><c> of</c>
+
+00:13:49.190 --> 00:13:49.200 align:start position:0%
+of data on each country. the level of
+ 
+
+00:13:49.200 --> 00:13:51.750 align:start position:0%
+of data on each country. the level of
+interest<00:13:49.519><c> rates</c><00:13:49.760><c> in</c><00:13:50.000><c> that</c><00:13:50.240><c> country,</c><00:13:51.120><c> the</c><00:13:51.360><c> real</c>
+
+00:13:51.750 --> 00:13:51.760 align:start position:0%
+interest rates in that country, the real
+ 
+
+00:13:51.760 --> 00:13:53.670 align:start position:0%
+interest rates in that country, the real
+GDP<00:13:52.399><c> growth</c><00:13:52.639><c> of</c><00:13:52.800><c> that</c><00:13:52.959><c> country,</c><00:13:53.279><c> capturing</c>
+
+00:13:53.670 --> 00:13:53.680 align:start position:0%
+GDP growth of that country, capturing
+ 
+
+00:13:53.680 --> 00:13:55.509 align:start position:0%
+GDP growth of that country, capturing
+high<00:13:53.920><c> growth</c><00:13:54.240><c> versus</c><00:13:54.560><c> low</c><00:13:54.800><c> growth,</c><00:13:55.200><c> and</c><00:13:55.360><c> a</c>
+
+00:13:55.509 --> 00:13:55.519 align:start position:0%
+high growth versus low growth, and a
+ 
+
+00:13:55.519 --> 00:13:57.030 align:start position:0%
+high growth versus low growth, and a
+measure<00:13:55.760><c> of</c><00:13:55.920><c> country</c><00:13:56.160><c> risk,</c><00:13:56.480><c> but</c><00:13:56.639><c> the</c><00:13:56.800><c> higher</c>
+
+00:13:57.030 --> 00:13:57.040 align:start position:0%
+measure of country risk, but the higher
+ 
+
+00:13:57.040 --> 00:13:59.110 align:start position:0%
+measure of country risk, but the higher
+this<00:13:57.279><c> number,</c><00:13:57.519><c> the</c><00:13:57.760><c> riskier</c><00:13:58.160><c> the</c><00:13:58.399><c> country.</c>
+
+00:13:59.110 --> 00:13:59.120 align:start position:0%
+this number, the riskier the country.
+ 
+
+00:13:59.120 --> 00:14:01.910 align:start position:0%
+this number, the riskier the country.
+And<00:13:59.360><c> here's</c><00:13:59.680><c> my</c><00:13:59.920><c> prior.</c><00:14:01.040><c> Riskier</c><00:14:01.600><c> countries</c>
+
+00:14:01.910 --> 00:14:01.920 align:start position:0%
+And here's my prior. Riskier countries
+ 
+
+00:14:01.920 --> 00:14:04.069 align:start position:0%
+And here's my prior. Riskier countries
+should<00:14:02.079><c> trade</c><00:14:02.399><c> lower</c><00:14:02.800><c> P</c><00:14:03.120><c> ratios</c><00:14:03.440><c> in</c><00:14:03.680><c> safer</c>
+
+00:14:04.069 --> 00:14:04.079 align:start position:0%
+should trade lower P ratios in safer
+ 
+
+00:14:04.079 --> 00:14:07.030 align:start position:0%
+should trade lower P ratios in safer
+countries.<00:14:05.199><c> Countries</c><00:14:05.839><c> with</c><00:14:06.240><c> higher</c><00:14:06.720><c> growth</c>
+
+00:14:07.030 --> 00:14:07.040 align:start position:0%
+countries. Countries with higher growth
+ 
+
+00:14:07.040 --> 00:14:09.829 align:start position:0%
+countries. Countries with higher growth
+should<00:14:07.279><c> trade</c><00:14:07.440><c> at</c><00:14:07.680><c> higher</c><00:14:08.000><c> P</c><00:14:08.320><c> ratios</c><00:14:09.519><c> than</c>
+
+00:14:09.829 --> 00:14:09.839 align:start position:0%
+should trade at higher P ratios than
+ 
+
+00:14:09.839 --> 00:14:11.430 align:start position:0%
+should trade at higher P ratios than
+countries<00:14:10.240><c> with</c><00:14:10.399><c> low</c><00:14:10.639><c> growth.</c><00:14:10.959><c> And</c><00:14:11.120><c> countries</c>
+
+00:14:11.430 --> 00:14:11.440 align:start position:0%
+countries with low growth. And countries
+ 
+
+00:14:11.440 --> 00:14:13.670 align:start position:0%
+countries with low growth. And countries
+with<00:14:11.680><c> high</c><00:14:11.920><c> interest</c><00:14:12.240><c> rates</c><00:14:13.040><c> should</c><00:14:13.279><c> trade</c><00:14:13.519><c> at</c>
+
+00:14:13.670 --> 00:14:13.680 align:start position:0%
+with high interest rates should trade at
+ 
+
+00:14:13.680 --> 00:14:16.230 align:start position:0%
+with high interest rates should trade at
+lower<00:14:14.000><c> P</c><00:14:14.240><c> ratios.</c><00:14:15.199><c> Intuitively,</c><00:14:15.839><c> you</c><00:14:16.000><c> can</c><00:14:16.160><c> see</c>
+
+00:14:16.230 --> 00:14:16.240 align:start position:0%
+lower P ratios. Intuitively, you can see
+ 
+
+00:14:16.240 --> 00:14:18.470 align:start position:0%
+lower P ratios. Intuitively, you can see
+why.<00:14:16.720><c> saying,</c><00:14:16.959><c> "How</c><00:14:17.279><c> does</c><00:14:17.440><c> it</c><00:14:17.680><c> help</c><00:14:17.839><c> me</c><00:14:18.079><c> decide</c>
+
+00:14:18.470 --> 00:14:18.480 align:start position:0%
+why. saying, "How does it help me decide
+ 
+
+00:14:18.480 --> 00:14:21.030 align:start position:0%
+why. saying, "How does it help me decide
+where<00:14:18.720><c> to</c><00:14:18.880><c> put</c><00:14:19.040><c> my</c><00:14:19.199><c> money?"</c><00:14:20.240><c> Again,</c><00:14:20.560><c> I</c><00:14:20.800><c> went</c>
+
+00:14:21.030 --> 00:14:21.040 align:start position:0%
+where to put my money?" Again, I went
+ 
+
+00:14:21.040 --> 00:14:24.470 align:start position:0%
+where to put my money?" Again, I went
+back<00:14:21.199><c> to</c><00:14:21.360><c> my</c><00:14:21.600><c> statistics</c><00:14:22.880><c> class</c><00:14:23.519><c> and</c><00:14:24.000><c> I</c><00:14:24.240><c> looked</c>
+
+00:14:24.470 --> 00:14:24.480 align:start position:0%
+back to my statistics class and I looked
+ 
+
+00:14:24.480 --> 00:14:27.189 align:start position:0%
+back to my statistics class and I looked
+up<00:14:24.560><c> the</c><00:14:24.800><c> chapter</c><00:14:25.040><c> in</c><00:14:25.279><c> multiple</c><00:14:25.680><c> regressions.</c>
+
+00:14:27.189 --> 00:14:27.199 align:start position:0%
+up the chapter in multiple regressions.
+ 
+
+00:14:27.199 --> 00:14:28.870 align:start position:0%
+up the chapter in multiple regressions.
+What<00:14:27.360><c> am</c><00:14:27.519><c> I</c><00:14:27.680><c> trying</c><00:14:27.760><c> to</c><00:14:27.920><c> explain?</c><00:14:28.399><c> Differences</c>
+
+00:14:28.870 --> 00:14:28.880 align:start position:0%
+What am I trying to explain? Differences
+ 
+
+00:14:28.880 --> 00:14:30.790 align:start position:0%
+What am I trying to explain? Differences
+in<00:14:29.040><c> PE</c><00:14:29.360><c> ratios</c><00:14:29.760><c> across</c><00:14:30.079><c> countries.</c><00:14:30.480><c> That's</c><00:14:30.639><c> my</c>
+
+00:14:30.790 --> 00:14:30.800 align:start position:0%
+in PE ratios across countries. That's my
+ 
+
+00:14:30.800 --> 00:14:32.470 align:start position:0%
+in PE ratios across countries. That's my
+dependent<00:14:31.199><c> variable.</c><00:14:31.760><c> What</c><00:14:31.920><c> are</c><00:14:32.000><c> the</c><00:14:32.160><c> three</c>
+
+00:14:32.470 --> 00:14:32.480 align:start position:0%
+dependent variable. What are the three
+ 
+
+00:14:32.480 --> 00:14:34.949 align:start position:0%
+dependent variable. What are the three
+variables<00:14:32.959><c> that</c><00:14:33.199><c> I</c><00:14:33.360><c> think</c><00:14:33.519><c> affect</c><00:14:33.839><c> PE</c><00:14:34.160><c> ratios?</c>
+
+00:14:34.949 --> 00:14:34.959 align:start position:0%
+variables that I think affect PE ratios?
+ 
+
+00:14:34.959 --> 00:14:37.430 align:start position:0%
+variables that I think affect PE ratios?
+The<00:14:35.199><c> level</c><00:14:35.360><c> of</c><00:14:35.600><c> rates,</c><00:14:36.240><c> the</c><00:14:36.480><c> growth</c><00:14:36.720><c> in</c><00:14:36.959><c> GDP,</c>
+
+00:14:37.430 --> 00:14:37.440 align:start position:0%
+The level of rates, the growth in GDP,
+ 
+
+00:14:37.440 --> 00:14:39.750 align:start position:0%
+The level of rates, the growth in GDP,
+and<00:14:37.680><c> country</c><00:14:37.920><c> risk.</c><00:14:38.800><c> First,</c><00:14:39.120><c> notice</c><00:14:39.519><c> the</c>
+
+00:14:39.750 --> 00:14:39.760 align:start position:0%
+and country risk. First, notice the
+ 
+
+00:14:39.760 --> 00:14:41.509 align:start position:0%
+and country risk. First, notice the
+signs<00:14:40.079><c> are</c><00:14:40.320><c> consistent.</c><00:14:40.880><c> Higher</c><00:14:41.279><c> interest</c>
+
+00:14:41.509 --> 00:14:41.519 align:start position:0%
+signs are consistent. Higher interest
+ 
+
+00:14:41.519 --> 00:14:44.710 align:start position:0%
+signs are consistent. Higher interest
+rates,<00:14:42.079><c> lower</c><00:14:42.399><c> PE.</c><00:14:43.199><c> Higher</c><00:14:43.600><c> growth,</c><00:14:44.320><c> higher</c>
+
+00:14:44.710 --> 00:14:44.720 align:start position:0%
+rates, lower PE. Higher growth, higher
+ 
+
+00:14:44.720 --> 00:14:48.550 align:start position:0%
+rates, lower PE. Higher growth, higher
+P.<00:14:45.519><c> Higher</c><00:14:45.920><c> country</c><00:14:46.240><c> risk,</c><00:14:46.720><c> lower</c><00:14:47.040><c> P.</c><00:14:48.079><c> I</c><00:14:48.320><c> got</c>
+
+00:14:48.550 --> 00:14:48.560 align:start position:0%
+P. Higher country risk, lower P. I got
+ 
+
+00:14:48.560 --> 00:14:50.389 align:start position:0%
+P. Higher country risk, lower P. I got
+lucky.<00:14:48.880><c> That</c><00:14:49.120><c> doesn't</c><00:14:49.440><c> always</c><00:14:49.760><c> work</c><00:14:50.000><c> out</c><00:14:50.160><c> with</c>
+
+00:14:50.389 --> 00:14:50.399 align:start position:0%
+lucky. That doesn't always work out with
+ 
+
+00:14:50.399 --> 00:14:52.470 align:start position:0%
+lucky. That doesn't always work out with
+the<00:14:50.560><c> data.</c><00:14:51.279><c> I'm</c><00:14:51.600><c> getting</c><00:14:51.920><c> consistent</c>
+
+00:14:52.470 --> 00:14:52.480 align:start position:0%
+the data. I'm getting consistent
+ 
+
+00:14:52.480 --> 00:14:54.949 align:start position:0%
+the data. I'm getting consistent
+relationships.<00:14:53.440><c> The</c><00:14:53.680><c> R</c><00:14:53.920><c> squ</c><00:14:54.240><c> is</c><00:14:54.399><c> not</c><00:14:54.639><c> bad.</c>
+
+00:14:54.949 --> 00:14:54.959 align:start position:0%
+relationships. The R squ is not bad.
+ 
+
+00:14:54.959 --> 00:14:56.550 align:start position:0%
+relationships. The R squ is not bad.
+It's<00:14:55.120><c> a</c><00:14:55.360><c> small</c><00:14:55.680><c> samples.</c><00:14:56.160><c> I'm</c><00:14:56.320><c> going</c><00:14:56.320><c> to</c><00:14:56.399><c> take</c>
+
+00:14:56.550 --> 00:14:56.560 align:start position:0%
+It's a small samples. I'm going to take
+ 
+
+00:14:56.560 --> 00:14:59.670 align:start position:0%
+It's a small samples. I'm going to take
+it<00:14:56.720><c> with</c><00:14:56.880><c> a</c><00:14:57.040><c> grain</c><00:14:57.199><c> of</c><00:14:57.360><c> salt.</c><00:14:58.639><c> But</c><00:14:58.880><c> I</c><00:14:59.199><c> can</c><00:14:59.440><c> use</c>
+
+00:14:59.670 --> 00:14:59.680 align:start position:0%
+it with a grain of salt. But I can use
+ 
+
+00:14:59.680 --> 00:15:02.389 align:start position:0%
+it with a grain of salt. But I can use
+this<00:15:00.000><c> regression</c><00:15:00.399><c> to</c><00:15:00.639><c> get</c><00:15:00.959><c> predicted</c><00:15:01.760><c> PS</c><00:15:02.160><c> for</c>
+
+00:15:02.389 --> 00:15:02.399 align:start position:0%
+this regression to get predicted PS for
+ 
+
+00:15:02.399 --> 00:15:03.910 align:start position:0%
+this regression to get predicted PS for
+each<00:15:02.560><c> country.</c><00:15:02.959><c> You're</c><00:15:03.120><c> saying,</c><00:15:03.600><c> what</c><00:15:03.760><c> are</c>
+
+00:15:03.910 --> 00:15:03.920 align:start position:0%
+each country. You're saying, what are
+ 
+
+00:15:03.920 --> 00:15:05.990 align:start position:0%
+each country. You're saying, what are
+you<00:15:04.079><c> talking</c><00:15:04.320><c> about?</c><00:15:05.040><c> Let's</c><00:15:05.279><c> take</c><00:15:05.519><c> Turkey,</c>
+
+00:15:05.990 --> 00:15:06.000 align:start position:0%
+you talking about? Let's take Turkey,
+ 
+
+00:15:06.000 --> 00:15:07.670 align:start position:0%
+you talking about? Let's take Turkey,
+right?<00:15:06.240><c> I</c><00:15:06.399><c> could</c><00:15:06.560><c> take</c><00:15:06.720><c> the</c><00:15:06.880><c> level</c><00:15:07.120><c> of</c><00:15:07.279><c> rates,</c>
+
+00:15:07.670 --> 00:15:07.680 align:start position:0%
+right? I could take the level of rates,
+ 
+
+00:15:07.680 --> 00:15:10.310 align:start position:0%
+right? I could take the level of rates,
+the<00:15:07.839><c> GDP,</c><00:15:08.399><c> real</c><00:15:08.720><c> growth,</c><00:15:08.959><c> and</c><00:15:09.199><c> country</c><00:15:09.519><c> risk.</c>
+
+00:15:10.310 --> 00:15:10.320 align:start position:0%
+the GDP, real growth, and country risk.
+ 
+
+00:15:10.320 --> 00:15:12.389 align:start position:0%
+the GDP, real growth, and country risk.
+Go<00:15:10.560><c> back</c><00:15:10.720><c> to</c><00:15:10.880><c> the</c><00:15:11.040><c> regression,</c><00:15:11.680><c> plug</c><00:15:12.000><c> in</c>
+
+00:15:12.389 --> 00:15:12.399 align:start position:0%
+Go back to the regression, plug in
+ 
+
+00:15:12.399 --> 00:15:14.629 align:start position:0%
+Go back to the regression, plug in
+Turkeykey's<00:15:12.959><c> numbers</c><00:15:13.360><c> in,</c><00:15:13.839><c> get</c><00:15:14.000><c> a</c><00:15:14.160><c> predicted</c>
+
+00:15:14.629 --> 00:15:14.639 align:start position:0%
+Turkeykey's numbers in, get a predicted
+ 
+
+00:15:14.639 --> 00:15:19.030 align:start position:0%
+Turkeykey's numbers in, get a predicted
+P.<00:15:15.199><c> I</c><00:15:15.440><c> get</c><00:15:15.519><c> a</c><00:15:15.760><c> predicted</c><00:15:16.240><c> P</c><00:15:16.480><c> of</c><00:15:16.800><c> 13.35.</c>
+
+00:15:19.030 --> 00:15:19.040 align:start position:0%
+P. I get a predicted P of 13.35.
+ 
+
+00:15:19.040 --> 00:15:21.910 align:start position:0%
+P. I get a predicted P of 13.35.
+Much<00:15:19.360><c> lower</c><00:15:19.680><c> than</c><00:15:19.839><c> my</c><00:15:20.079><c> predicted</c><00:15:20.560><c> P</c><00:15:20.959><c> for</c><00:15:21.600><c> Hong</c>
+
+00:15:21.910 --> 00:15:21.920 align:start position:0%
+Much lower than my predicted P for Hong
+ 
+
+00:15:21.920 --> 00:15:26.949 align:start position:0%
+Much lower than my predicted P for Hong
+Kong<00:15:22.800><c> or</c><00:15:23.120><c> for</c><00:15:23.920><c> uh</c><00:15:24.160><c> or</c><00:15:24.480><c> for</c><00:15:24.959><c> Mexico,</c><00:15:26.240><c> but</c><00:15:26.560><c> still</c>
+
+00:15:26.949 --> 00:15:26.959 align:start position:0%
+Kong or for uh or for Mexico, but still
+ 
+
+00:15:26.959 --> 00:15:28.949 align:start position:0%
+Kong or for uh or for Mexico, but still
+higher<00:15:27.279><c> than</c><00:15:27.440><c> the</c><00:15:27.600><c> P</c><00:15:28.000><c> that</c><00:15:28.160><c> Turkey</c><00:15:28.480><c> is</c><00:15:28.639><c> trading</c>
+
+00:15:28.949 --> 00:15:28.959 align:start position:0%
+higher than the P that Turkey is trading
+ 
+
+00:15:28.959 --> 00:15:32.790 align:start position:0%
+higher than the P that Turkey is trading
+at.<00:15:30.320><c> Turkey</c><00:15:30.880><c> looks</c><00:15:31.279><c> cheap</c><00:15:31.920><c> even</c><00:15:32.240><c> after</c><00:15:32.560><c> I</c>
+
+00:15:32.790 --> 00:15:32.800 align:start position:0%
+at. Turkey looks cheap even after I
+ 
+
+00:15:32.800 --> 00:15:34.629 align:start position:0%
+at. Turkey looks cheap even after I
+control<00:15:33.199><c> for</c><00:15:33.360><c> the</c><00:15:33.519><c> high</c><00:15:33.760><c> interest</c><00:15:34.079><c> rates,</c><00:15:34.480><c> the</c>
+
+00:15:34.629 --> 00:15:34.639 align:start position:0%
+control for the high interest rates, the
+ 
+
+00:15:34.639 --> 00:15:37.030 align:start position:0%
+control for the high interest rates, the
+low<00:15:34.880><c> growth,</c><00:15:35.199><c> and</c><00:15:35.360><c> the</c><00:15:35.519><c> high</c><00:15:35.760><c> country</c><00:15:36.079><c> risk.</c>
+
+00:15:37.030 --> 00:15:37.040 align:start position:0%
+low growth, and the high country risk.
+ 
+
+00:15:37.040 --> 00:15:38.949 align:start position:0%
+low growth, and the high country risk.
+And<00:15:37.279><c> that's</c><00:15:37.519><c> the</c><00:15:37.760><c> advantage</c><00:15:38.240><c> of</c><00:15:38.480><c> being</c><00:15:38.720><c> able</c>
+
+00:15:38.949 --> 00:15:38.959 align:start position:0%
+And that's the advantage of being able
+ 
+
+00:15:38.959 --> 00:15:41.430 align:start position:0%
+And that's the advantage of being able
+to<00:15:39.120><c> control</c><00:15:39.440><c> for</c><00:15:39.760><c> differences.</c><00:15:41.040><c> Now,</c><00:15:41.279><c> you</c>
+
+00:15:41.430 --> 00:15:41.440 align:start position:0%
+to control for differences. Now, you
+ 
+
+00:15:41.440 --> 00:15:42.550 align:start position:0%
+to control for differences. Now, you
+might<00:15:41.600><c> not</c><00:15:41.760><c> be</c><00:15:41.920><c> comfortable</c><00:15:42.320><c> with</c>
+
+00:15:42.550 --> 00:15:42.560 align:start position:0%
+might not be comfortable with
+ 
+
+00:15:42.560 --> 00:15:44.389 align:start position:0%
+might not be comfortable with
+statistics.<00:15:43.279><c> You</c><00:15:43.440><c> might</c><00:15:43.600><c> not</c><00:15:43.839><c> like</c><00:15:44.079><c> running</c>
+
+00:15:44.389 --> 00:15:44.399 align:start position:0%
+statistics. You might not like running
+ 
+
+00:15:44.399 --> 00:15:46.870 align:start position:0%
+statistics. You might not like running
+regression.<00:15:44.959><c> That's</c><00:15:45.279><c> perfectly</c><00:15:45.760><c> okay.</c><00:15:46.639><c> You</c>
+
+00:15:46.870 --> 00:15:46.880 align:start position:0%
+regression. That's perfectly okay. You
+ 
+
+00:15:46.880 --> 00:15:48.710 align:start position:0%
+regression. That's perfectly okay. You
+can<00:15:47.120><c> still</c><00:15:47.360><c> ask</c><00:15:47.600><c> those</c><00:15:47.920><c> questions,</c><00:15:48.480><c> right?</c>
+
+00:15:48.710 --> 00:15:48.720 align:start position:0%
+can still ask those questions, right?
+ 
+
+00:15:48.720 --> 00:15:50.310 align:start position:0%
+can still ask those questions, right?
+Because<00:15:48.959><c> when</c><00:15:49.120><c> you</c><00:15:49.279><c> compare</c><00:15:49.600><c> PE</c><00:15:49.920><c> ratios</c>
+
+00:15:50.310 --> 00:15:50.320 align:start position:0%
+Because when you compare PE ratios
+ 
+
+00:15:50.320 --> 00:15:52.389 align:start position:0%
+Because when you compare PE ratios
+across<00:15:50.720><c> countries</c><00:15:51.519><c> and</c><00:15:51.759><c> you</c><00:15:51.920><c> see</c><00:15:52.079><c> a</c><00:15:52.240><c> country</c>
+
+00:15:52.389 --> 00:15:52.399 align:start position:0%
+across countries and you see a country
+ 
+
+00:15:52.399 --> 00:15:55.269 align:start position:0%
+across countries and you see a country
+with<00:15:52.560><c> a</c><00:15:52.720><c> low</c><00:15:52.959><c> PE</c><00:15:53.279><c> ratio</c><00:15:53.680><c> before</c><00:15:54.000><c> you</c><00:15:54.240><c> jump</c><00:15:54.480><c> in,</c>
+
+00:15:55.269 --> 00:15:55.279 align:start position:0%
+with a low PE ratio before you jump in,
+ 
+
+00:15:55.279 --> 00:15:56.790 align:start position:0%
+with a low PE ratio before you jump in,
+you<00:15:55.440><c> might</c><00:15:55.600><c> want</c><00:15:55.759><c> to</c><00:15:55.839><c> at</c><00:15:55.839><c> least</c><00:15:56.240><c> check</c><00:15:56.560><c> for</c>
+
+00:15:56.790 --> 00:15:56.800 align:start position:0%
+you might want to at least check for
+ 
+
+00:15:56.800 --> 00:15:58.790 align:start position:0%
+you might want to at least check for
+high<00:15:57.040><c> interest</c><00:15:57.360><c> rates</c><00:15:57.600><c> and</c><00:15:57.920><c> low</c><00:15:58.240><c> growth</c><00:15:58.560><c> and</c>
+
+00:15:58.790 --> 00:15:58.800 align:start position:0%
+high interest rates and low growth and
+ 
+
+00:15:58.800 --> 00:16:00.790 align:start position:0%
+high interest rates and low growth and
+high<00:15:59.040><c> risk</c><00:15:59.600><c> because</c><00:15:59.839><c> that</c><00:16:00.079><c> might</c><00:16:00.320><c> explain</c>
+
+00:16:00.790 --> 00:16:00.800 align:start position:0%
+high risk because that might explain
+ 
+
+00:16:00.800 --> 00:16:03.430 align:start position:0%
+high risk because that might explain
+that<00:16:01.040><c> PE</c><00:16:01.440><c> ratio.</c>
+
+00:16:03.430 --> 00:16:03.440 align:start position:0%
+that PE ratio.
+ 
+
+00:16:03.440 --> 00:16:05.350 align:start position:0%
+that PE ratio.
+So<00:16:03.680><c> if</c><00:16:03.839><c> you</c><00:16:04.000><c> think</c><00:16:04.079><c> about</c><00:16:04.320><c> using</c><00:16:04.720><c> fundamentals</c>
+
+00:16:05.350 --> 00:16:05.360 align:start position:0%
+So if you think about using fundamentals
+ 
+
+00:16:05.360 --> 00:16:07.350 align:start position:0%
+So if you think about using fundamentals
+either<00:16:05.600><c> in</c><00:16:05.759><c> their</c><00:16:05.920><c> intrinsic</c><00:16:06.560><c> value</c><00:16:06.800><c> form</c><00:16:07.120><c> or</c>
+
+00:16:07.350 --> 00:16:07.360 align:start position:0%
+either in their intrinsic value form or
+ 
+
+00:16:07.360 --> 00:16:09.910 align:start position:0%
+either in their intrinsic value form or
+in<00:16:07.600><c> their</c><00:16:07.759><c> pricing</c><00:16:08.240><c> form,</c>
+
+00:16:09.910 --> 00:16:09.920 align:start position:0%
+in their pricing form,
+ 
+
+00:16:09.920 --> 00:16:11.670 align:start position:0%
+in their pricing form,
+remember<00:16:10.320><c> that</c><00:16:10.959><c> there</c><00:16:11.199><c> there</c><00:16:11.519><c> are</c>
+
+00:16:11.670 --> 00:16:11.680 align:start position:0%
+remember that there there are
+ 
+
+00:16:11.680 --> 00:16:13.990 align:start position:0%
+remember that there there are
+limitations.<00:16:12.320><c> One</c><00:16:12.560><c> is</c><00:16:13.360><c> you're</c><00:16:13.600><c> looking</c><00:16:13.759><c> at</c>
+
+00:16:13.990 --> 00:16:14.000 align:start position:0%
+limitations. One is you're looking at
+ 
+
+00:16:14.000 --> 00:16:15.670 align:start position:0%
+limitations. One is you're looking at
+the<00:16:14.160><c> past</c><00:16:14.399><c> to</c><00:16:14.639><c> make</c><00:16:14.800><c> a</c><00:16:14.959><c> judgment</c><00:16:15.279><c> about</c><00:16:15.519><c> the</c>
+
+00:16:15.670 --> 00:16:15.680 align:start position:0%
+the past to make a judgment about the
+ 
+
+00:16:15.680 --> 00:16:17.189 align:start position:0%
+the past to make a judgment about the
+future.<00:16:16.000><c> And</c><00:16:16.079><c> to</c><00:16:16.240><c> the</c><00:16:16.480><c> extent</c><00:16:16.639><c> that</c><00:16:16.880><c> there's</c>
+
+00:16:17.189 --> 00:16:17.199 align:start position:0%
+future. And to the extent that there's
+ 
+
+00:16:17.199 --> 00:16:19.590 align:start position:0%
+future. And to the extent that there's
+been<00:16:17.360><c> a</c><00:16:17.600><c> shift</c><00:16:17.920><c> in</c><00:16:18.160><c> that</c><00:16:18.480><c> relationship,</c>
+
+00:16:19.590 --> 00:16:19.600 align:start position:0%
+been a shift in that relationship,
+ 
+
+00:16:19.600 --> 00:16:22.310 align:start position:0%
+been a shift in that relationship,
+you're<00:16:19.839><c> not</c><00:16:20.000><c> going</c><00:16:20.079><c> to</c><00:16:20.240><c> catch</c><00:16:20.480><c> it.</c><00:16:21.839><c> And</c><00:16:22.079><c> if</c><00:16:22.240><c> you</c>
+
+00:16:22.310 --> 00:16:22.320 align:start position:0%
+you're not going to catch it. And if you
+ 
+
+00:16:22.320 --> 00:16:23.990 align:start position:0%
+you're not going to catch it. And if you
+want<00:16:22.480><c> to</c><00:16:22.560><c> improve</c><00:16:22.880><c> your</c><00:16:23.040><c> odds</c><00:16:23.279><c> of</c><00:16:23.519><c> success,</c>
+
+00:16:23.990 --> 00:16:24.000 align:start position:0%
+want to improve your odds of success,
+ 
+
+00:16:24.000 --> 00:16:26.230 align:start position:0%
+want to improve your odds of success,
+you<00:16:24.240><c> want</c><00:16:24.399><c> to</c><00:16:24.560><c> get</c><00:16:24.800><c> creative</c><00:16:25.279><c> about</c><00:16:25.680><c> capturing</c>
+
+00:16:26.230 --> 00:16:26.240 align:start position:0%
+you want to get creative about capturing
+ 
+
+00:16:26.240 --> 00:16:27.990 align:start position:0%
+you want to get creative about capturing
+those<00:16:26.560><c> variables</c><00:16:27.040><c> that</c><00:16:27.199><c> might</c><00:16:27.440><c> explain</c><00:16:27.759><c> the</c>
+
+00:16:27.990 --> 00:16:28.000 align:start position:0%
+those variables that might explain the
+ 
+
+00:16:28.000 --> 00:16:30.470 align:start position:0%
+those variables that might explain the
+ship.<00:16:28.480><c> So</c><00:16:28.639><c> I'll</c><00:16:28.800><c> give</c><00:16:28.959><c> you</c><00:16:29.040><c> an</c><00:16:29.199><c> example.</c><00:16:30.160><c> Let's</c>
+
+00:16:30.470 --> 00:16:30.480 align:start position:0%
+ship. So I'll give you an example. Let's
+ 
+
+00:16:30.480 --> 00:16:32.629 align:start position:0%
+ship. So I'll give you an example. Let's
+assume<00:16:30.880><c> the</c><00:16:31.199><c> reason</c><00:16:31.519><c> you</c><00:16:31.839><c> think</c><00:16:32.079><c> the</c><00:16:32.399><c> link</c>
+
+00:16:32.629 --> 00:16:32.639 align:start position:0%
+assume the reason you think the link
+ 
+
+00:16:32.639 --> 00:16:35.590 align:start position:0%
+assume the reason you think the link
+between<00:16:33.680><c> yield</c><00:16:34.079><c> curves</c>
+
+00:16:35.590 --> 00:16:35.600 align:start position:0%
+between yield curves
+ 
+
+00:16:35.600 --> 00:16:39.189 align:start position:0%
+between yield curves
+and<00:16:36.240><c> stock</c><00:16:36.560><c> prices</c><00:16:37.120><c> has</c><00:16:37.759><c> has</c><00:16:38.079><c> dro</c><00:16:38.720><c> that</c><00:16:38.959><c> link</c>
+
+00:16:39.189 --> 00:16:39.199 align:start position:0%
+and stock prices has has dro that link
+ 
+
+00:16:39.199 --> 00:16:41.749 align:start position:0%
+and stock prices has has dro that link
+has<00:16:39.440><c> become</c><00:16:39.680><c> much</c><00:16:40.000><c> weaker</c><00:16:40.720><c> after</c><00:16:41.120><c> 2008</c><00:16:41.600><c> and</c>
+
+00:16:41.749 --> 00:16:41.759 align:start position:0%
+has become much weaker after 2008 and
+ 
+
+00:16:41.759 --> 00:16:43.430 align:start position:0%
+has become much weaker after 2008 and
+you<00:16:41.920><c> think</c><00:16:42.000><c> the</c><00:16:42.320><c> reason</c><00:16:42.560><c> is</c><00:16:42.959><c> because</c><00:16:43.279><c> of</c>
+
+00:16:43.430 --> 00:16:43.440 align:start position:0%
+you think the reason is because of
+ 
+
+00:16:43.440 --> 00:16:45.590 align:start position:0%
+you think the reason is because of
+passive<00:16:43.920><c> investing.</c><00:16:44.880><c> I</c><00:16:45.120><c> don't</c><00:16:45.199><c> think</c><00:16:45.279><c> it</c><00:16:45.440><c> is,</c>
+
+00:16:45.590 --> 00:16:45.600 align:start position:0%
+passive investing. I don't think it is,
+ 
+
+00:16:45.600 --> 00:16:47.590 align:start position:0%
+passive investing. I don't think it is,
+but<00:16:45.759><c> let's</c><00:16:46.000><c> say</c><00:16:46.079><c> you</c><00:16:46.240><c> do</c><00:16:46.800><c> that</c><00:16:47.040><c> the</c><00:16:47.279><c> amount</c><00:16:47.440><c> of</c>
+
+00:16:47.590 --> 00:16:47.600 align:start position:0%
+but let's say you do that the amount of
+ 
+
+00:16:47.600 --> 00:16:50.069 align:start position:0%
+but let's say you do that the amount of
+money<00:16:47.839><c> going</c><00:16:48.079><c> to</c><00:16:48.320><c> index</c><00:16:48.720><c> funds</c><00:16:49.040><c> is</c><00:16:49.199><c> what</c><00:16:49.839><c> you</c>
+
+00:16:50.069 --> 00:16:50.079 align:start position:0%
+money going to index funds is what you
+ 
+
+00:16:50.079 --> 00:16:51.749 align:start position:0%
+money going to index funds is what you
+can<00:16:50.240><c> actually</c><00:16:50.480><c> look</c><00:16:50.639><c> at</c><00:16:50.800><c> the</c><00:16:51.040><c> percentage</c><00:16:51.519><c> of</c>
+
+00:16:51.749 --> 00:16:51.759 align:start position:0%
+can actually look at the percentage of
+ 
+
+00:16:51.759 --> 00:16:53.350 align:start position:0%
+can actually look at the percentage of
+money<00:16:51.920><c> in</c><00:16:52.079><c> the</c><00:16:52.320><c> market</c><00:16:52.480><c> that</c><00:16:52.720><c> is</c><00:16:52.800><c> in</c><00:16:53.040><c> index</c>
+
+00:16:53.350 --> 00:16:53.360 align:start position:0%
+money in the market that is in index
+ 
+
+00:16:53.360 --> 00:16:55.749 align:start position:0%
+money in the market that is in index
+funds.<00:16:53.839><c> Throw</c><00:16:54.160><c> that</c><00:16:54.399><c> into</c><00:16:54.800><c> your</c><00:16:55.040><c> regression</c>
+
+00:16:55.749 --> 00:16:55.759 align:start position:0%
+funds. Throw that into your regression
+ 
+
+00:16:55.759 --> 00:16:59.509 align:start position:0%
+funds. Throw that into your regression
+as<00:16:56.240><c> a</c><00:16:56.480><c> variable</c><00:16:57.680><c> and</c><00:16:57.920><c> that</c><00:16:58.160><c> might</c><00:16:58.399><c> explain</c><00:16:59.199><c> the</c>
+
+00:16:59.509 --> 00:16:59.519 align:start position:0%
+as a variable and that might explain the
+ 
+
+00:16:59.519 --> 00:17:01.910 align:start position:0%
+as a variable and that might explain the
+the<00:16:59.839><c> shift</c><00:17:00.639><c> and</c><00:17:00.959><c> that</c><00:17:01.279><c> means</c><00:17:01.519><c> you're</c><00:17:01.759><c> no</c>
+
+00:17:01.910 --> 00:17:01.920 align:start position:0%
+the shift and that means you're no
+ 
+
+00:17:01.920 --> 00:17:03.749 align:start position:0%
+the shift and that means you're no
+longer<00:17:02.320><c> talking</c><00:17:02.639><c> about</c><00:17:02.880><c> something</c><00:17:03.279><c> after</c><00:17:03.519><c> the</c>
+
+00:17:03.749 --> 00:17:03.759 align:start position:0%
+longer talking about something after the
+ 
+
+00:17:03.759 --> 00:17:04.870 align:start position:0%
+longer talking about something after the
+fact.<00:17:04.000><c> You're</c><00:17:04.240><c> bringing</c><00:17:04.559><c> it</c><00:17:04.640><c> to</c><00:17:04.720><c> the</c>
+
+00:17:04.870 --> 00:17:04.880 align:start position:0%
+fact. You're bringing it to the
+ 
+
+00:17:04.880 --> 00:17:07.350 align:start position:0%
+fact. You're bringing it to the
+analysis.<00:17:06.160><c> And</c><00:17:06.319><c> with</c><00:17:06.559><c> both</c><00:17:06.799><c> intrinsic</c>
+
+00:17:07.350 --> 00:17:07.360 align:start position:0%
+analysis. And with both intrinsic
+ 
+
+00:17:07.360 --> 00:17:09.909 align:start position:0%
+analysis. And with both intrinsic
+valuation<00:17:07.760><c> and</c><00:17:08.000><c> pricing,</c><00:17:08.480><c> assuming</c><00:17:09.439><c> you</c><00:17:09.760><c> make</c>
+
+00:17:09.909 --> 00:17:09.919 align:start position:0%
+valuation and pricing, assuming you make
+ 
+
+00:17:09.919 --> 00:17:11.510 align:start position:0%
+valuation and pricing, assuming you make
+a<00:17:10.079><c> judgment,</c><00:17:10.559><c> you</c><00:17:10.720><c> have</c><00:17:10.880><c> trust</c><00:17:11.120><c> in</c><00:17:11.280><c> that</c>
+
+00:17:11.510 --> 00:17:11.520 align:start position:0%
+a judgment, you have trust in that
+ 
+
+00:17:11.520 --> 00:17:13.909 align:start position:0%
+a judgment, you have trust in that
+judgment.<00:17:12.000><c> you</c><00:17:12.240><c> want</c><00:17:12.400><c> to</c><00:17:12.640><c> buy</c><00:17:12.880><c> or</c><00:17:13.120><c> sell</c><00:17:13.679><c> based</c>
+
+00:17:13.909 --> 00:17:13.919 align:start position:0%
+judgment. you want to buy or sell based
+ 
+
+00:17:13.919 --> 00:17:16.949 align:start position:0%
+judgment. you want to buy or sell based
+on<00:17:14.079><c> that.</c><00:17:14.799><c> The</c><00:17:15.120><c> longer</c><00:17:15.439><c> your</c><00:17:15.679><c> time</c><00:17:15.919><c> horizon,</c>
+
+00:17:16.949 --> 00:17:16.959 align:start position:0%
+on that. The longer your time horizon,
+ 
+
+00:17:16.959 --> 00:17:19.909 align:start position:0%
+on that. The longer your time horizon,
+the<00:17:17.199><c> greater</c><00:17:17.520><c> your</c><00:17:17.760><c> chance</c><00:17:18.000><c> of</c><00:17:18.160><c> success.</c>
+
+00:17:19.909 --> 00:17:19.919 align:start position:0%
+the greater your chance of success.
+ 
+
+00:17:19.919 --> 00:17:22.309 align:start position:0%
+the greater your chance of success.
+I<00:17:20.160><c> hope</c><00:17:20.240><c> you</c><00:17:20.480><c> found</c><00:17:20.640><c> the</c><00:17:20.880><c> session</c><00:17:21.199><c> useful</c><00:17:22.079><c> and</c>
+
+00:17:22.309 --> 00:17:22.319 align:start position:0%
+I hope you found the session useful and
+ 
+
+00:17:22.319 --> 00:17:26.839 align:start position:0%
+I hope you found the session useful and
+I<00:17:22.559><c> thank</c><00:17:22.720><c> you</c><00:17:22.880><c> very</c><00:17:23.199><c> much</c><00:17:23.520><c> for</c><00:17:23.839><c> listening.</c>
+

@@ -1,0 +1,202 @@
+{
+  "workspace": "Aswath Damodaran Courses Concepts Research",
+  "updated_on": "2026-08-09",
+  "comparison_title": "Valuation Undergraduate vs MBA",
+  "courses": [
+    {
+      "slug": "valuation-undergraduate-spring-2025",
+      "course_title": "Valuation Undergraduate Spring 2025",
+      "href": "../valuation-undergraduate-spring-2025/site/index.html",
+      "transcripts": 28,
+      "words": 359388,
+      "strength": "Valuation is made executable through teaching order, project pressure, and explicit conceptual scaffolding."
+    },
+    {
+      "slug": "valuation-mba-spring-2025",
+      "course_title": "Valuation MBA Spring 2025",
+      "href": "../valuation-mba-spring-2025/site/index.html",
+      "transcripts": 27,
+      "words": 360131,
+      "strength": "Valuation is framed as a professional discipline of translated judgment, consistency, pricing, optionality, and control."
+    }
+  ],
+  "comparison_axes": [
+    {
+      "id": "same-valuation-core-different-teaching-posture",
+      "name": "Same Valuation Core, Different Teaching Posture",
+      "summary": "Both courses teach the same deep valuation logic: separate intrinsic value from pricing, build discount rates coherently, translate accounting into cash flows, connect growth to reinvestment, and extend the framework into special cases. The difference is not intellectual substance but teaching stance.",
+      "undergraduate": {
+        "focus": "Teach valuation as a buildable sequence",
+        "emphasis": "The undergraduate course repeatedly decomposes valuation into steps students can follow in order, with less assumption that the audience already thinks in professional valuation language.",
+        "evidence": [
+          "site/course-thesis.html",
+          "analysis/themes-and-subthemes.json: valuation-is-taught-as-a-sequenced-craft-not-a-mystery",
+          "analysis/concepts.json: valuation-as-sequenced-craft"
+        ]
+      },
+      "mba": {
+        "focus": "Teach valuation as translated judgment",
+        "emphasis": "The MBA course leans harder on valuation as a sustained interpretive discipline in which stories, numbers, consistency, and market language have to be held together consciously.",
+        "evidence": [
+          "site/course-thesis.html",
+          "analysis/themes-and-subthemes.json: valuation-discipline",
+          "analysis/concepts.json: valuation-as-translated-judgment"
+        ]
+      },
+      "takeaway": "The intellectual engine is the same, but the undergraduate course emphasizes learnability while the MBA course emphasizes judgment quality."
+    },
+    {
+      "id": "sequencing-and-scaffolding",
+      "name": "Sequencing And Scaffolding",
+      "summary": "The undergraduate course is more visibly scaffolded. It spends more energy making the order of operations legible before it asks students to work across edge cases, narrative, and market complexity.",
+      "undergraduate": {
+        "focus": "Visible instructional sequencing",
+        "emphasis": "The course opens with logistics, valuation framing, the Bermuda Triangle, and the DCF big picture before building rates, cash flows, growth, storytelling, pricing, and options in a strongly ordered march.",
+        "evidence": [
+          "analysis/session-inventory.md: sessions 1-14",
+          "analysis/themes-and-subthemes.json: evidence_sessions 1-18",
+          "site/sessions.html"
+        ]
+      },
+      "mba": {
+        "focus": "Compressed professional progression",
+        "emphasis": "The MBA version still sequences carefully, but it more quickly assumes students can move from framing into consistency, pricing, optionality, and control without the same level of pedagogical hand-holding.",
+        "evidence": [
+          "site/index.html",
+          "analysis/session-briefs.md",
+          "analysis/themes-and-subthemes.json"
+        ]
+      },
+      "takeaway": "The undergraduate course is better for mapping the order of valuation work; the MBA course is better for seeing the compact professional form of the same architecture."
+    },
+    {
+      "id": "narrative-and-story-discipline",
+      "name": "Narrative And Story Discipline",
+      "summary": "Both courses insist that narrative must change the numbers, but the undergraduate course stages that lesson later and more explicitly as a teaching transition, whereas the MBA course treats it as a pervasive professional habit.",
+      "undergraduate": {
+        "focus": "Narrative introduced as a new module",
+        "emphasis": "Storytelling appears after the class has already built the mechanics, which makes the transition from qualitative talk to model inputs especially visible.",
+        "evidence": [
+          "analysis/themes-and-subthemes.json: storytelling-is-allowed-but-it-must-change-the-numbers",
+          "analysis/concepts.json: storytelling-into-inputs",
+          "site/themes.html"
+        ]
+      },
+      "mba": {
+        "focus": "Narrative embedded in valuation discipline",
+        "emphasis": "The MBA course treats the translation from story to inputs as central to valuation from the outset, rather than as a later pedagogical bridge.",
+        "evidence": [
+          "analysis/concepts.json: stories-into-inputs",
+          "analysis/concepts.json: valuation-as-translated-judgment",
+          "site/course-thesis.html"
+        ]
+      },
+      "takeaway": "Undergraduate valuation makes the story-to-number transition easier to see; MBA valuation makes it feel like the core habit of the whole craft."
+    },
+    {
+      "id": "pricing-as-social-market-language",
+      "name": "Pricing As Social Market Language",
+      "summary": "Both courses separate intrinsic value from pricing and treat comparables as a distinct market language. The undergraduate course explains the distinction more slowly and with stronger pedagogical contrast, while the MBA course integrates pricing into a broader professional discussion of market mood, peer groups, and hidden assumptions.",
+      "undergraduate": {
+        "focus": "Pricing as a distinct late-course pivot",
+        "emphasis": "Pricing arrives after intrinsic value is largely assembled, making the shift in language and method especially legible for learners.",
+        "evidence": [
+          "analysis/themes-and-subthemes.json: pricing-is-a-different-language-from-intrinsic-value",
+          "analysis/concepts.json: intrinsic-value-versus-pricing",
+          "analysis/concepts.json: peer-groups-and-comparables"
+        ]
+      },
+      "mba": {
+        "focus": "Pricing as a professional complement to valuation",
+        "emphasis": "The MBA course highlights multiples, comparables, peer groups, and pricing analytics as part of the full valuation toolkit while keeping their limits in view.",
+        "evidence": [
+          "analysis/themes-and-subthemes.json: pricing-language",
+          "analysis/concepts.json: pricing-101",
+          "analysis/concepts.json: pricing-analytics"
+        ]
+      },
+      "takeaway": "Undergraduate valuation is stronger for understanding the contrast between value and price; MBA valuation is stronger for understanding how professionals live with both at once."
+    },
+    {
+      "id": "special-cases-and-ownership-frictions",
+      "name": "Special Cases And Ownership Frictions",
+      "summary": "Private companies, IPOs, distressed equity, options, acquisitions, and value enhancement appear in both courses, but the undergraduate sequence uses them partly as capstone demonstrations of where default models fail, while the MBA sequence treats them more directly as extensions of professional valuation judgment.",
+      "undergraduate": {
+        "focus": "Special cases as stress tests on the core model",
+        "emphasis": "Late-course cases show students where public-company DCF habits stop working and how ownership, liquidity, issuance context, and decision rights change the answer.",
+        "evidence": [
+          "analysis/themes-and-subthemes.json: special-cases-show-where-default-models-stop-working",
+          "analysis/themes-and-subthemes.json: uncertainty-can-create-optionality-not-just-a-higher-discount-rate",
+          "analysis/concepts.json: private-company-valuation"
+        ]
+      },
+      "mba": {
+        "focus": "Special cases as part of the full valuation perimeter",
+        "emphasis": "The MBA course treats private-company issues, optionality, distress, acquisitions, and control as standard parts of what serious valuation work has to cover.",
+        "evidence": [
+          "analysis/themes-and-subthemes.json: special-situations",
+          "analysis/themes-and-subthemes.json: optionality-control",
+          "analysis/concepts.json: control-value"
+        ]
+      },
+      "takeaway": "The undergraduate course shows where the model breaks; the MBA course shows what a mature valuation toolkit does next."
+    },
+    {
+      "id": "project-execution-versus-professional-compression",
+      "name": "Project Execution Versus Professional Compression",
+      "summary": "The undergraduate course is much more explicit about deadlines, company choice, feedback, recommendation-making, and actually finishing the valuation project. The MBA course is more compressed and conceptually dense, with less need to narrate the execution scaffolding itself.",
+      "undergraduate": {
+        "focus": "Valuation as a student project that must be completed",
+        "emphasis": "The course keeps forcing commitment, iteration, and recommendation-making so valuation becomes something students do rather than only something they hear about.",
+        "evidence": [
+          "analysis/themes-and-subthemes.json: the-undergraduate-course-treats-valuation-as-a-doable-project",
+          "analysis/concepts.json: valuation-as-a-doable-project",
+          "site/sessions.html"
+        ]
+      },
+      "mba": {
+        "focus": "Valuation as already-internalized professional work",
+        "emphasis": "The MBA course still expects disciplined execution, but it spends less visible time justifying the need to start, choose, submit, and finish.",
+        "evidence": [
+          "site/course-thesis.html",
+          "analysis/session-briefs.md",
+          "site/sessions.html"
+        ]
+      },
+      "takeaway": "Undergraduate valuation is better for teaching people how to start and complete the work; MBA valuation is better for tightening the quality of judgment once the workflow is already assumed."
+    }
+  ],
+  "concept_correspondences": [
+    {
+      "shared_idea": "valuation discipline",
+      "undergraduate_concept": "valuation-as-sequenced-craft",
+      "mba_concept": "valuation-as-translated-judgment",
+      "difference": "The undergraduate course foregrounds stepwise learnability; the MBA course foregrounds judgment quality and interpretive discipline."
+    },
+    {
+      "shared_idea": "story and numbers",
+      "undergraduate_concept": "storytelling-into-inputs",
+      "mba_concept": "stories-into-inputs",
+      "difference": "The undergraduate course stages storytelling as a teaching transition; the MBA course treats it as the operating center of valuation."
+    },
+    {
+      "shared_idea": "value versus price",
+      "undergraduate_concept": "intrinsic-value-versus-pricing",
+      "mba_concept": "intrinsic-value-vs-pricing",
+      "difference": "The undergraduate version emphasizes conceptual separation for learners; the MBA version emphasizes living with both tools in practice."
+    },
+    {
+      "shared_idea": "special-case valuation",
+      "undergraduate_concept": "private-company-valuation",
+      "mba_concept": "private-company-valuation",
+      "difference": "The undergraduate course uses private-company cases as a late stress test; the MBA course places them inside the normal perimeter of full valuation work."
+    },
+    {
+      "shared_idea": "uncertainty and optionality",
+      "undergraduate_concept": "real-options",
+      "mba_concept": "real-options",
+      "difference": "The undergraduate sequence makes optionality legible through teaching examples; the MBA sequence integrates optionality more directly into advanced valuation judgment."
+    }
+  ],
+  "big_takeaway": "The two valuation courses are not opposites. They are the same intellectual machine presented at two audience levels. The undergraduate course is better for seeing the scaffolding, sequence, and execution discipline. The MBA course is better for seeing the compressed professional form, where translation, consistency, pricing, optionality, and control are treated as one continuous valuation language."
+}

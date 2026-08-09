@@ -1,0 +1,9 @@
+{
+  "slug": "example-course-slug",
+  "title": "Example Course Title",
+  "instructor": "Instructor Name",
+  "playlist_url": "https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID",
+  "channel_url": "https://www.youtube.com/@your-channel",
+  "source_note": "Where this playlist came from and any assumptions about ordering.",
+  "videos": []
+}

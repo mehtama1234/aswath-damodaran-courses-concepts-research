@@ -1,0 +1,4531 @@
+[
+  {
+    "start": "00:00:00.320",
+    "end": "00:00:02.950",
+    "start_seconds": 0.32,
+    "end_seconds": 2.95,
+    "text": "Hi, welcome back. In this session, I"
+  },
+  {
+    "start": "00:00:02.950",
+    "end": "00:00:02.960",
+    "start_seconds": 2.95,
+    "end_seconds": 2.96,
+    "text": "Hi, welcome back. In this session, I"
+  },
+  {
+    "start": "00:00:02.960",
+    "end": "00:00:04.470",
+    "start_seconds": 2.96,
+    "end_seconds": 4.47,
+    "text": "Hi, welcome back. In this session, I want to continue our discussion of"
+  },
+  {
+    "start": "00:00:04.470",
+    "end": "00:00:04.480",
+    "start_seconds": 4.47,
+    "end_seconds": 4.48,
+    "text": "want to continue our discussion of"
+  },
+  {
+    "start": "00:00:04.480",
+    "end": "00:00:06.869",
+    "start_seconds": 4.48,
+    "end_seconds": 6.869,
+    "text": "want to continue our discussion of trading on information by focusing on"
+  },
+  {
+    "start": "00:00:06.869",
+    "end": "00:00:06.879",
+    "start_seconds": 6.869,
+    "end_seconds": 6.879,
+    "text": "trading on information by focusing on"
+  },
+  {
+    "start": "00:00:06.879",
+    "end": "00:00:10.950",
+    "start_seconds": 6.879,
+    "end_seconds": 10.95,
+    "text": "trading on information by focusing on insiders and companies. The conventional"
+  },
+  {
+    "start": "00:00:10.950",
+    "end": "00:00:10.960",
+    "start_seconds": 10.95,
+    "end_seconds": 10.96,
+    "text": "insiders and companies. The conventional"
+  },
+  {
+    "start": "00:00:10.960",
+    "end": "00:00:13.589",
+    "start_seconds": 10.96,
+    "end_seconds": 13.589,
+    "text": "insiders and companies. The conventional complaint you get from investors often"
+  },
+  {
+    "start": "00:00:13.589",
+    "end": "00:00:13.599",
+    "start_seconds": 13.589,
+    "end_seconds": 13.599,
+    "text": "complaint you get from investors often"
+  },
+  {
+    "start": "00:00:13.599",
+    "end": "00:00:16.230",
+    "start_seconds": 13.599,
+    "end_seconds": 16.23,
+    "text": "complaint you get from investors often is we're on the outside looking in, but"
+  },
+  {
+    "start": "00:00:16.230",
+    "end": "00:00:16.240",
+    "start_seconds": 16.23,
+    "end_seconds": 16.24,
+    "text": "is we're on the outside looking in, but"
+  },
+  {
+    "start": "00:00:16.240",
+    "end": "00:00:18.470",
+    "start_seconds": 16.24,
+    "end_seconds": 18.47,
+    "text": "is we're on the outside looking in, but there are people inside the firm, close"
+  },
+  {
+    "start": "00:00:18.470",
+    "end": "00:00:18.480",
+    "start_seconds": 18.47,
+    "end_seconds": 18.48,
+    "text": "there are people inside the firm, close"
+  },
+  {
+    "start": "00:00:18.480",
+    "end": "00:00:20.550",
+    "start_seconds": 18.48,
+    "end_seconds": 20.55,
+    "text": "there are people inside the firm, close to the firm, have access to information"
+  },
+  {
+    "start": "00:00:20.550",
+    "end": "00:00:20.560",
+    "start_seconds": 20.55,
+    "end_seconds": 20.56,
+    "text": "to the firm, have access to information"
+  },
+  {
+    "start": "00:00:20.560",
+    "end": "00:00:23.029",
+    "start_seconds": 20.56,
+    "end_seconds": 23.029,
+    "text": "to the firm, have access to information than you and I don't. Now, that's true,"
+  },
+  {
+    "start": "00:00:23.029",
+    "end": "00:00:23.039",
+    "start_seconds": 23.029,
+    "end_seconds": 23.039,
+    "text": "than you and I don't. Now, that's true,"
+  },
+  {
+    "start": "00:00:23.039",
+    "end": "00:00:24.790",
+    "start_seconds": 23.039,
+    "end_seconds": 24.79,
+    "text": "than you and I don't. Now, that's true, right? And in this session, I'd like to"
+  },
+  {
+    "start": "00:00:24.790",
+    "end": "00:00:24.800",
+    "start_seconds": 24.79,
+    "end_seconds": 24.8,
+    "text": "right? And in this session, I'd like to"
+  },
+  {
+    "start": "00:00:24.800",
+    "end": "00:00:27.830",
+    "start_seconds": 24.8,
+    "end_seconds": 27.83,
+    "text": "right? And in this session, I'd like to focus on is information on what those"
+  },
+  {
+    "start": "00:00:27.830",
+    "end": "00:00:27.840",
+    "start_seconds": 27.83,
+    "end_seconds": 27.84,
+    "text": "focus on is information on what those"
+  },
+  {
+    "start": "00:00:27.840",
+    "end": "00:00:29.830",
+    "start_seconds": 27.84,
+    "end_seconds": 29.83,
+    "text": "focus on is information on what those people are doing useful to you as an"
+  },
+  {
+    "start": "00:00:29.830",
+    "end": "00:00:29.840",
+    "start_seconds": 29.83,
+    "end_seconds": 29.84,
+    "text": "people are doing useful to you as an"
+  },
+  {
+    "start": "00:00:29.840",
+    "end": "00:00:31.910",
+    "start_seconds": 29.84,
+    "end_seconds": 31.91,
+    "text": "people are doing useful to you as an outside investor. I'm going to start"
+  },
+  {
+    "start": "00:00:31.910",
+    "end": "00:00:31.920",
+    "start_seconds": 31.91,
+    "end_seconds": 31.92,
+    "text": "outside investor. I'm going to start"
+  },
+  {
+    "start": "00:00:31.920",
+    "end": "00:00:34.069",
+    "start_seconds": 31.92,
+    "end_seconds": 34.069,
+    "text": "outside investor. I'm going to start with insiders as defined by the law."
+  },
+  {
+    "start": "00:00:34.069",
+    "end": "00:00:34.079",
+    "start_seconds": 34.069,
+    "end_seconds": 34.079,
+    "text": "with insiders as defined by the law."
+  },
+  {
+    "start": "00:00:34.079",
+    "end": "00:00:36.549",
+    "start_seconds": 34.079,
+    "end_seconds": 36.549,
+    "text": "with insiders as defined by the law. Those include managers, directors, major"
+  },
+  {
+    "start": "00:00:36.549",
+    "end": "00:00:36.559",
+    "start_seconds": 36.549,
+    "end_seconds": 36.559,
+    "text": "Those include managers, directors, major"
+  },
+  {
+    "start": "00:00:36.559",
+    "end": "00:00:38.549",
+    "start_seconds": 36.559,
+    "end_seconds": 38.549,
+    "text": "Those include managers, directors, major stockholders, people own more than 5% of"
+  },
+  {
+    "start": "00:00:38.549",
+    "end": "00:00:38.559",
+    "start_seconds": 38.549,
+    "end_seconds": 38.559,
+    "text": "stockholders, people own more than 5% of"
+  },
+  {
+    "start": "00:00:38.559",
+    "end": "00:00:41.510",
+    "start_seconds": 38.559,
+    "end_seconds": 41.51,
+    "text": "stockholders, people own more than 5% of shares of a company. Legally, these"
+  },
+  {
+    "start": "00:00:41.510",
+    "end": "00:00:41.520",
+    "start_seconds": 41.51,
+    "end_seconds": 41.52,
+    "text": "shares of a company. Legally, these"
+  },
+  {
+    "start": "00:00:41.520",
+    "end": "00:00:43.590",
+    "start_seconds": 41.52,
+    "end_seconds": 43.59,
+    "text": "shares of a company. Legally, these people are constrained from trading"
+  },
+  {
+    "start": "00:00:43.590",
+    "end": "00:00:43.600",
+    "start_seconds": 43.59,
+    "end_seconds": 43.6,
+    "text": "people are constrained from trading"
+  },
+  {
+    "start": "00:00:43.600",
+    "end": "00:00:45.830",
+    "start_seconds": 43.6,
+    "end_seconds": 45.83,
+    "text": "people are constrained from trading ahead of information, right? Ahead of"
+  },
+  {
+    "start": "00:00:45.830",
+    "end": "00:00:45.840",
+    "start_seconds": 45.83,
+    "end_seconds": 45.84,
+    "text": "ahead of information, right? Ahead of"
+  },
+  {
+    "start": "00:00:45.840",
+    "end": "00:00:48.549",
+    "start_seconds": 45.84,
+    "end_seconds": 48.549,
+    "text": "ahead of information, right? Ahead of earnings reports, ahead of acquisition"
+  },
+  {
+    "start": "00:00:48.549",
+    "end": "00:00:48.559",
+    "start_seconds": 48.549,
+    "end_seconds": 48.559,
+    "text": "earnings reports, ahead of acquisition"
+  },
+  {
+    "start": "00:00:48.559",
+    "end": "00:00:50.389",
+    "start_seconds": 48.559,
+    "end_seconds": 50.389,
+    "text": "earnings reports, ahead of acquisition announcements, but they're still allowed"
+  },
+  {
+    "start": "00:00:50.389",
+    "end": "00:00:50.399",
+    "start_seconds": 50.389,
+    "end_seconds": 50.399,
+    "text": "announcements, but they're still allowed"
+  },
+  {
+    "start": "00:00:50.399",
+    "end": "00:00:53.189",
+    "start_seconds": 50.399,
+    "end_seconds": 53.189,
+    "text": "announcements, but they're still allowed to buy and sell shares. And to the"
+  },
+  {
+    "start": "00:00:53.189",
+    "end": "00:00:53.199",
+    "start_seconds": 53.189,
+    "end_seconds": 53.199,
+    "text": "to buy and sell shares. And to the"
+  },
+  {
+    "start": "00:00:53.199",
+    "end": "00:00:55.270",
+    "start_seconds": 53.199,
+    "end_seconds": 55.27,
+    "text": "to buy and sell shares. And to the extent that we can observe what when"
+  },
+  {
+    "start": "00:00:55.270",
+    "end": "00:00:55.280",
+    "start_seconds": 55.27,
+    "end_seconds": 55.28,
+    "text": "extent that we can observe what when"
+  },
+  {
+    "start": "00:00:55.280",
+    "end": "00:00:56.869",
+    "start_seconds": 55.28,
+    "end_seconds": 56.869,
+    "text": "extent that we can observe what when they're buying and when they're selling,"
+  },
+  {
+    "start": "00:00:56.869",
+    "end": "00:00:56.879",
+    "start_seconds": 56.869,
+    "end_seconds": 56.879,
+    "text": "they're buying and when they're selling,"
+  },
+  {
+    "start": "00:00:56.879",
+    "end": "00:00:58.869",
+    "start_seconds": 56.879,
+    "end_seconds": 58.869,
+    "text": "they're buying and when they're selling, is that information that's useful to us"
+  },
+  {
+    "start": "00:00:58.869",
+    "end": "00:00:58.879",
+    "start_seconds": 58.869,
+    "end_seconds": 58.879,
+    "text": "is that information that's useful to us"
+  },
+  {
+    "start": "00:00:58.879",
+    "end": "00:01:01.029",
+    "start_seconds": 58.879,
+    "end_seconds": 61.028999999999996,
+    "text": "is that information that's useful to us as outsiders."
+  },
+  {
+    "start": "00:01:01.029",
+    "end": "00:01:01.039",
+    "start_seconds": 61.028999999999996,
+    "end_seconds": 61.039,
+    "text": "as outsiders."
+  },
+  {
+    "start": "00:01:01.039",
+    "end": "00:01:03.189",
+    "start_seconds": 61.039,
+    "end_seconds": 63.189,
+    "text": "as outsiders. I would also argue that there are equity"
+  },
+  {
+    "start": "00:01:03.189",
+    "end": "00:01:03.199",
+    "start_seconds": 63.189,
+    "end_seconds": 63.199,
+    "text": "I would also argue that there are equity"
+  },
+  {
+    "start": "00:01:03.199",
+    "end": "00:01:04.630",
+    "start_seconds": 63.199,
+    "end_seconds": 64.63,
+    "text": "I would also argue that there are equity research analysts tracking the company"
+  },
+  {
+    "start": "00:01:04.630",
+    "end": "00:01:04.640",
+    "start_seconds": 64.63,
+    "end_seconds": 64.64,
+    "text": "research analysts tracking the company"
+  },
+  {
+    "start": "00:01:04.640",
+    "end": "00:01:06.870",
+    "start_seconds": 64.64,
+    "end_seconds": 66.87,
+    "text": "research analysts tracking the company and while they legally might not be able"
+  },
+  {
+    "start": "00:01:06.870",
+    "end": "00:01:06.880",
+    "start_seconds": 66.87,
+    "end_seconds": 66.88,
+    "text": "and while they legally might not be able"
+  },
+  {
+    "start": "00:01:06.880",
+    "end": "00:01:08.950",
+    "start_seconds": 66.88,
+    "end_seconds": 68.95,
+    "text": "and while they legally might not be able to access public information, they might"
+  },
+  {
+    "start": "00:01:08.950",
+    "end": "00:01:08.960",
+    "start_seconds": 68.95,
+    "end_seconds": 68.96000000000001,
+    "text": "to access public information, they might"
+  },
+  {
+    "start": "00:01:08.960",
+    "end": "00:01:10.630",
+    "start_seconds": 68.96000000000001,
+    "end_seconds": 70.63,
+    "text": "to access public information, they might have access to information about a"
+  },
+  {
+    "start": "00:01:10.630",
+    "end": "00:01:10.640",
+    "start_seconds": 70.63,
+    "end_seconds": 70.64,
+    "text": "have access to information about a"
+  },
+  {
+    "start": "00:01:10.640",
+    "end": "00:01:13.750",
+    "start_seconds": 70.64,
+    "end_seconds": 73.75,
+    "text": "have access to information about a company that you and I don't. And by"
+  },
+  {
+    "start": "00:01:13.750",
+    "end": "00:01:13.760",
+    "start_seconds": 73.75,
+    "end_seconds": 73.76,
+    "text": "company that you and I don't. And by"
+  },
+  {
+    "start": "00:01:13.760",
+    "end": "00:01:15.590",
+    "start_seconds": 73.76,
+    "end_seconds": 75.59,
+    "text": "company that you and I don't. And by observing what those analysts are doing"
+  },
+  {
+    "start": "00:01:15.590",
+    "end": "00:01:15.600",
+    "start_seconds": 75.59,
+    "end_seconds": 75.6,
+    "text": "observing what those analysts are doing"
+  },
+  {
+    "start": "00:01:15.600",
+    "end": "00:01:17.990",
+    "start_seconds": 75.6,
+    "end_seconds": 77.99,
+    "text": "observing what those analysts are doing in terms of revising earnings or putting"
+  },
+  {
+    "start": "00:01:17.990",
+    "end": "00:01:18.000",
+    "start_seconds": 77.99,
+    "end_seconds": 78.0,
+    "text": "in terms of revising earnings or putting"
+  },
+  {
+    "start": "00:01:18.000",
+    "end": "00:01:20.469",
+    "start_seconds": 78.0,
+    "end_seconds": 80.469,
+    "text": "in terms of revising earnings or putting out buy and sell recommendations,"
+  },
+  {
+    "start": "00:01:20.469",
+    "end": "00:01:20.479",
+    "start_seconds": 80.469,
+    "end_seconds": 80.479,
+    "text": "out buy and sell recommendations,"
+  },
+  {
+    "start": "00:01:20.479",
+    "end": "00:01:23.910",
+    "start_seconds": 80.479,
+    "end_seconds": 83.91,
+    "text": "out buy and sell recommendations, can we trade on that to make money? So,"
+  },
+  {
+    "start": "00:01:23.910",
+    "end": "00:01:23.920",
+    "start_seconds": 83.91,
+    "end_seconds": 83.92,
+    "text": "can we trade on that to make money? So,"
+  },
+  {
+    "start": "00:01:23.920",
+    "end": "00:01:26.710",
+    "start_seconds": 83.92,
+    "end_seconds": 86.71000000000001,
+    "text": "can we trade on that to make money? So, we're going to start by looking at both"
+  },
+  {
+    "start": "00:01:26.710",
+    "end": "00:01:26.720",
+    "start_seconds": 86.71000000000001,
+    "end_seconds": 86.72,
+    "text": "we're going to start by looking at both"
+  },
+  {
+    "start": "00:01:26.720",
+    "end": "00:01:28.630",
+    "start_seconds": 86.72,
+    "end_seconds": 88.63,
+    "text": "we're going to start by looking at both session at least by focusing on whether"
+  },
+  {
+    "start": "00:01:28.630",
+    "end": "00:01:28.640",
+    "start_seconds": 88.63,
+    "end_seconds": 88.64,
+    "text": "session at least by focusing on whether"
+  },
+  {
+    "start": "00:01:28.640",
+    "end": "00:01:32.149",
+    "start_seconds": 88.64,
+    "end_seconds": 92.149,
+    "text": "session at least by focusing on whether insiders themselves make money. And if"
+  },
+  {
+    "start": "00:01:32.149",
+    "end": "00:01:32.159",
+    "start_seconds": 92.149,
+    "end_seconds": 92.15899999999999,
+    "text": "insiders themselves make money. And if"
+  },
+  {
+    "start": "00:01:32.159",
+    "end": "00:01:33.990",
+    "start_seconds": 92.15899999999999,
+    "end_seconds": 93.99000000000001,
+    "text": "insiders themselves make money. And if the answer is yes, then ask a follow-up"
+  },
+  {
+    "start": "00:01:33.990",
+    "end": "00:01:34.000",
+    "start_seconds": 93.99000000000001,
+    "end_seconds": 94.0,
+    "text": "the answer is yes, then ask a follow-up"
+  },
+  {
+    "start": "00:01:34.000",
+    "end": "00:01:36.390",
+    "start_seconds": 94.0,
+    "end_seconds": 96.39,
+    "text": "the answer is yes, then ask a follow-up question. Can tracking what insiders do"
+  },
+  {
+    "start": "00:01:36.390",
+    "end": "00:01:36.400",
+    "start_seconds": 96.39,
+    "end_seconds": 96.4,
+    "text": "question. Can tracking what insiders do"
+  },
+  {
+    "start": "00:01:36.400",
+    "end": "00:01:39.030",
+    "start_seconds": 96.4,
+    "end_seconds": 99.03,
+    "text": "question. Can tracking what insiders do make the rest of us money? So, let's"
+  },
+  {
+    "start": "00:01:39.030",
+    "end": "00:01:39.040",
+    "start_seconds": 99.03,
+    "end_seconds": 99.03999999999999,
+    "text": "make the rest of us money? So, let's"
+  },
+  {
+    "start": "00:01:39.040",
+    "end": "00:01:41.670",
+    "start_seconds": 99.03999999999999,
+    "end_seconds": 101.67,
+    "text": "make the rest of us money? So, let's start with a study that goes back a long"
+  },
+  {
+    "start": "00:01:41.670",
+    "end": "00:01:41.680",
+    "start_seconds": 101.67,
+    "end_seconds": 101.68,
+    "text": "start with a study that goes back a long"
+  },
+  {
+    "start": "00:01:41.680",
+    "end": "00:01:45.350",
+    "start_seconds": 101.68,
+    "end_seconds": 105.35,
+    "text": "start with a study that goes back a long time. In this study, the the researchers"
+  },
+  {
+    "start": "00:01:45.350",
+    "end": "00:01:45.360",
+    "start_seconds": 105.35,
+    "end_seconds": 105.36,
+    "text": "time. In this study, the the researchers"
+  },
+  {
+    "start": "00:01:45.360",
+    "end": "00:01:48.310",
+    "start_seconds": 105.36,
+    "end_seconds": 108.31,
+    "text": "time. In this study, the the researchers looked at companies where insiders were"
+  },
+  {
+    "start": "00:01:48.310",
+    "end": "00:01:48.320",
+    "start_seconds": 108.31,
+    "end_seconds": 108.32,
+    "text": "looked at companies where insiders were"
+  },
+  {
+    "start": "00:01:48.320",
+    "end": "00:01:50.550",
+    "start_seconds": 108.32,
+    "end_seconds": 110.55,
+    "text": "looked at companies where insiders were buying net buys and companies where"
+  },
+  {
+    "start": "00:01:50.550",
+    "end": "00:01:50.560",
+    "start_seconds": 110.55,
+    "end_seconds": 110.56,
+    "text": "buying net buys and companies where"
+  },
+  {
+    "start": "00:01:50.560",
+    "end": "00:01:52.069",
+    "start_seconds": 110.56,
+    "end_seconds": 112.069,
+    "text": "buying net buys and companies where insiders were selling. Remember,"
+  },
+  {
+    "start": "00:01:52.069",
+    "end": "00:01:52.079",
+    "start_seconds": 112.069,
+    "end_seconds": 112.07900000000001,
+    "text": "insiders were selling. Remember,"
+  },
+  {
+    "start": "00:01:52.079",
+    "end": "00:01:53.990",
+    "start_seconds": 112.07900000000001,
+    "end_seconds": 113.99000000000001,
+    "text": "insiders were selling. Remember, insiders buy and sell stock. You look at"
+  },
+  {
+    "start": "00:01:53.990",
+    "end": "00:01:54.000",
+    "start_seconds": 113.99000000000001,
+    "end_seconds": 114.0,
+    "text": "insiders buy and sell stock. You look at"
+  },
+  {
+    "start": "00:01:54.000",
+    "end": "00:01:57.190",
+    "start_seconds": 114.0,
+    "end_seconds": 117.19,
+    "text": "insiders buy and sell stock. You look at the net amount. So, the red line"
+  },
+  {
+    "start": "00:01:57.190",
+    "end": "00:01:57.200",
+    "start_seconds": 117.19,
+    "end_seconds": 117.2,
+    "text": "the net amount. So, the red line"
+  },
+  {
+    "start": "00:01:57.200",
+    "end": "00:01:59.109",
+    "start_seconds": 117.2,
+    "end_seconds": 119.10900000000001,
+    "text": "the net amount. So, the red line captures companies where insiders were"
+  },
+  {
+    "start": "00:01:59.109",
+    "end": "00:01:59.119",
+    "start_seconds": 119.10900000000001,
+    "end_seconds": 119.119,
+    "text": "captures companies where insiders were"
+  },
+  {
+    "start": "00:01:59.119",
+    "end": "00:02:00.870",
+    "start_seconds": 119.119,
+    "end_seconds": 120.87,
+    "text": "captures companies where insiders were buying. The green line captures what"
+  },
+  {
+    "start": "00:02:00.870",
+    "end": "00:02:00.880",
+    "start_seconds": 120.87,
+    "end_seconds": 120.88,
+    "text": "buying. The green line captures what"
+  },
+  {
+    "start": "00:02:00.880",
+    "end": "00:02:02.310",
+    "start_seconds": 120.88,
+    "end_seconds": 122.31,
+    "text": "buying. The green line captures what insiders were selling in the months"
+  },
+  {
+    "start": "00:02:02.310",
+    "end": "00:02:02.320",
+    "start_seconds": 122.31,
+    "end_seconds": 122.32,
+    "text": "insiders were selling in the months"
+  },
+  {
+    "start": "00:02:02.320",
+    "end": "00:02:05.270",
+    "start_seconds": 122.32,
+    "end_seconds": 125.27,
+    "text": "insiders were selling in the months after the insider trade. Seems like a"
+  },
+  {
+    "start": "00:02:05.270",
+    "end": "00:02:05.280",
+    "start_seconds": 125.27,
+    "end_seconds": 125.28,
+    "text": "after the insider trade. Seems like a"
+  },
+  {
+    "start": "00:02:05.280",
+    "end": "00:02:07.749",
+    "start_seconds": 125.28,
+    "end_seconds": 127.749,
+    "text": "after the insider trade. Seems like a no-brainer, right? in stocks where"
+  },
+  {
+    "start": "00:02:07.749",
+    "end": "00:02:07.759",
+    "start_seconds": 127.749,
+    "end_seconds": 127.759,
+    "text": "no-brainer, right? in stocks where"
+  },
+  {
+    "start": "00:02:07.759",
+    "end": "00:02:09.830",
+    "start_seconds": 127.759,
+    "end_seconds": 129.83,
+    "text": "no-brainer, right? in stocks where there's a lot of insider buying do much"
+  },
+  {
+    "start": "00:02:09.830",
+    "end": "00:02:09.840",
+    "start_seconds": 129.83,
+    "end_seconds": 129.84,
+    "text": "there's a lot of insider buying do much"
+  },
+  {
+    "start": "00:02:09.840",
+    "end": "00:02:11.910",
+    "start_seconds": 129.84,
+    "end_seconds": 131.91,
+    "text": "there's a lot of insider buying do much better than stocks with a lot of insider"
+  },
+  {
+    "start": "00:02:11.910",
+    "end": "00:02:11.920",
+    "start_seconds": 131.91,
+    "end_seconds": 131.92,
+    "text": "better than stocks with a lot of insider"
+  },
+  {
+    "start": "00:02:11.920",
+    "end": "00:02:14.309",
+    "start_seconds": 131.92,
+    "end_seconds": 134.309,
+    "text": "better than stocks with a lot of insider selling. When this study came out,"
+  },
+  {
+    "start": "00:02:14.309",
+    "end": "00:02:14.319",
+    "start_seconds": 134.309,
+    "end_seconds": 134.319,
+    "text": "selling. When this study came out,"
+  },
+  {
+    "start": "00:02:14.319",
+    "end": "00:02:16.390",
+    "start_seconds": 134.319,
+    "end_seconds": 136.39,
+    "text": "selling. When this study came out, people said this is great. We can now"
+  },
+  {
+    "start": "00:02:16.390",
+    "end": "00:02:16.400",
+    "start_seconds": 136.39,
+    "end_seconds": 136.4,
+    "text": "people said this is great. We can now"
+  },
+  {
+    "start": "00:02:16.400",
+    "end": "00:02:18.070",
+    "start_seconds": 136.4,
+    "end_seconds": 138.07,
+    "text": "people said this is great. We can now make money on this. We'll come back and"
+  },
+  {
+    "start": "00:02:18.070",
+    "end": "00:02:18.080",
+    "start_seconds": 138.07,
+    "end_seconds": 138.07999999999998,
+    "text": "make money on this. We'll come back and"
+  },
+  {
+    "start": "00:02:18.080",
+    "end": "00:02:19.350",
+    "start_seconds": 138.07999999999998,
+    "end_seconds": 139.35,
+    "text": "make money on this. We'll come back and examine whether that's true. But at"
+  },
+  {
+    "start": "00:02:19.350",
+    "end": "00:02:19.360",
+    "start_seconds": 139.35,
+    "end_seconds": 139.36,
+    "text": "examine whether that's true. But at"
+  },
+  {
+    "start": "00:02:19.360",
+    "end": "00:02:21.430",
+    "start_seconds": 139.36,
+    "end_seconds": 141.43,
+    "text": "examine whether that's true. But at least in the aggregate, there seems to"
+  },
+  {
+    "start": "00:02:21.430",
+    "end": "00:02:21.440",
+    "start_seconds": 141.43,
+    "end_seconds": 141.44,
+    "text": "least in the aggregate, there seems to"
+  },
+  {
+    "start": "00:02:21.440",
+    "end": "00:02:23.990",
+    "start_seconds": 141.44,
+    "end_seconds": 143.99,
+    "text": "least in the aggregate, there seems to be some information here. And companies"
+  },
+  {
+    "start": "00:02:23.990",
+    "end": "00:02:24.000",
+    "start_seconds": 143.99,
+    "end_seconds": 144.0,
+    "text": "be some information here. And companies"
+  },
+  {
+    "start": "00:02:24.000",
+    "end": "00:02:25.910",
+    "start_seconds": 144.0,
+    "end_seconds": 145.91,
+    "text": "be some information here. And companies were insiders are more buyers than"
+  },
+  {
+    "start": "00:02:25.910",
+    "end": "00:02:25.920",
+    "start_seconds": 145.91,
+    "end_seconds": 145.92000000000002,
+    "text": "were insiders are more buyers than"
+  },
+  {
+    "start": "00:02:25.920",
+    "end": "00:02:27.990",
+    "start_seconds": 145.92000000000002,
+    "end_seconds": 147.99,
+    "text": "were insiders are more buyers than sellers. That's good news. Stock prices"
+  },
+  {
+    "start": "00:02:27.990",
+    "end": "00:02:28.000",
+    "start_seconds": 147.99,
+    "end_seconds": 148.0,
+    "text": "sellers. That's good news. Stock prices"
+  },
+  {
+    "start": "00:02:28.000",
+    "end": "00:02:30.309",
+    "start_seconds": 148.0,
+    "end_seconds": 150.309,
+    "text": "sellers. That's good news. Stock prices tend to go up and companies where more"
+  },
+  {
+    "start": "00:02:30.309",
+    "end": "00:02:30.319",
+    "start_seconds": 150.309,
+    "end_seconds": 150.319,
+    "text": "tend to go up and companies where more"
+  },
+  {
+    "start": "00:02:30.319",
+    "end": "00:02:32.470",
+    "start_seconds": 150.319,
+    "end_seconds": 152.47,
+    "text": "tend to go up and companies where more insiders are more sellers than buyers."
+  },
+  {
+    "start": "00:02:32.470",
+    "end": "00:02:32.480",
+    "start_seconds": 152.47,
+    "end_seconds": 152.48,
+    "text": "insiders are more sellers than buyers."
+  },
+  {
+    "start": "00:02:32.480",
+    "end": "00:02:34.309",
+    "start_seconds": 152.48,
+    "end_seconds": 154.309,
+    "text": "insiders are more sellers than buyers. Stock prices tend to either flatten out"
+  },
+  {
+    "start": "00:02:34.309",
+    "end": "00:02:34.319",
+    "start_seconds": 154.309,
+    "end_seconds": 154.31900000000002,
+    "text": "Stock prices tend to either flatten out"
+  },
+  {
+    "start": "00:02:34.319",
+    "end": "00:02:37.350",
+    "start_seconds": 154.31900000000002,
+    "end_seconds": 157.35,
+    "text": "Stock prices tend to either flatten out or go down. Now, in the years since this"
+  },
+  {
+    "start": "00:02:37.350",
+    "end": "00:02:37.360",
+    "start_seconds": 157.35,
+    "end_seconds": 157.36,
+    "text": "or go down. Now, in the years since this"
+  },
+  {
+    "start": "00:02:37.360",
+    "end": "00:02:39.110",
+    "start_seconds": 157.36,
+    "end_seconds": 159.11,
+    "text": "or go down. Now, in the years since this study, there's been a deeper look at"
+  },
+  {
+    "start": "00:02:39.110",
+    "end": "00:02:39.120",
+    "start_seconds": 159.11,
+    "end_seconds": 159.12,
+    "text": "study, there's been a deeper look at"
+  },
+  {
+    "start": "00:02:39.120",
+    "end": "00:02:40.710",
+    "start_seconds": 159.12,
+    "end_seconds": 160.71,
+    "text": "study, there's been a deeper look at insider trading. And here's what people"
+  },
+  {
+    "start": "00:02:40.710",
+    "end": "00:02:40.720",
+    "start_seconds": 160.71,
+    "end_seconds": 160.72,
+    "text": "insider trading. And here's what people"
+  },
+  {
+    "start": "00:02:40.720",
+    "end": "00:02:44.229",
+    "start_seconds": 160.72,
+    "end_seconds": 164.22899999999998,
+    "text": "insider trading. And here's what people have found. The first is that insider"
+  },
+  {
+    "start": "00:02:44.229",
+    "end": "00:02:44.239",
+    "start_seconds": 164.22899999999998,
+    "end_seconds": 164.239,
+    "text": "have found. The first is that insider"
+  },
+  {
+    "start": "00:02:44.239",
+    "end": "00:02:46.229",
+    "start_seconds": 164.239,
+    "end_seconds": 166.22899999999998,
+    "text": "have found. The first is that insider buying and selling is a noisy signal."
+  },
+  {
+    "start": "00:02:46.229",
+    "end": "00:02:46.239",
+    "start_seconds": 166.22899999999998,
+    "end_seconds": 166.239,
+    "text": "buying and selling is a noisy signal."
+  },
+  {
+    "start": "00:02:46.239",
+    "end": "00:02:48.070",
+    "start_seconds": 166.239,
+    "end_seconds": 168.07,
+    "text": "buying and selling is a noisy signal. What does that mean? In about four of 10"
+  },
+  {
+    "start": "00:02:48.070",
+    "end": "00:02:48.080",
+    "start_seconds": 168.07,
+    "end_seconds": 168.07999999999998,
+    "text": "What does that mean? In about four of 10"
+  },
+  {
+    "start": "00:02:48.080",
+    "end": "00:02:49.750",
+    "start_seconds": 168.07999999999998,
+    "end_seconds": 169.75,
+    "text": "What does that mean? In about four of 10 stocks where insiders are buying, the"
+  },
+  {
+    "start": "00:02:49.750",
+    "end": "00:02:49.760",
+    "start_seconds": 169.75,
+    "end_seconds": 169.76,
+    "text": "stocks where insiders are buying, the"
+  },
+  {
+    "start": "00:02:49.760",
+    "end": "00:02:51.430",
+    "start_seconds": 169.76,
+    "end_seconds": 171.43,
+    "text": "stocks where insiders are buying, the stock price actually goes down. It"
+  },
+  {
+    "start": "00:02:51.430",
+    "end": "00:02:51.440",
+    "start_seconds": 171.43,
+    "end_seconds": 171.44,
+    "text": "stock price actually goes down. It"
+  },
+  {
+    "start": "00:02:51.440",
+    "end": "00:02:53.430",
+    "start_seconds": 171.44,
+    "end_seconds": 173.43,
+    "text": "stock price actually goes down. It doesn't go up. The same is true for"
+  },
+  {
+    "start": "00:02:53.430",
+    "end": "00:02:53.440",
+    "start_seconds": 173.43,
+    "end_seconds": 173.44,
+    "text": "doesn't go up. The same is true for"
+  },
+  {
+    "start": "00:02:53.440",
+    "end": "00:02:56.070",
+    "start_seconds": 173.44,
+    "end_seconds": 176.07,
+    "text": "doesn't go up. The same is true for insider selling. And it turns out that"
+  },
+  {
+    "start": "00:02:56.070",
+    "end": "00:02:56.080",
+    "start_seconds": 176.07,
+    "end_seconds": 176.07999999999998,
+    "text": "insider selling. And it turns out that"
+  },
+  {
+    "start": "00:02:56.080",
+    "end": "00:02:58.150",
+    "start_seconds": 176.07999999999998,
+    "end_seconds": 178.15,
+    "text": "insider selling. And it turns out that if it's a signal, it's a noisy signal."
+  },
+  {
+    "start": "00:02:58.150",
+    "end": "00:02:58.160",
+    "start_seconds": 178.15,
+    "end_seconds": 178.16,
+    "text": "if it's a signal, it's a noisy signal."
+  },
+  {
+    "start": "00:02:58.160",
+    "end": "00:02:59.910",
+    "start_seconds": 178.16,
+    "end_seconds": 179.91,
+    "text": "if it's a signal, it's a noisy signal. So, if you're buying because insiders"
+  },
+  {
+    "start": "00:02:59.910",
+    "end": "00:02:59.920",
+    "start_seconds": 179.91,
+    "end_seconds": 179.92000000000002,
+    "text": "So, if you're buying because insiders"
+  },
+  {
+    "start": "00:02:59.920",
+    "end": "00:03:01.830",
+    "start_seconds": 179.92000000000002,
+    "end_seconds": 181.83,
+    "text": "So, if you're buying because insiders are big, be cautious. About four times"
+  },
+  {
+    "start": "00:03:01.830",
+    "end": "00:03:01.840",
+    "start_seconds": 181.83,
+    "end_seconds": 181.84,
+    "text": "are big, be cautious. About four times"
+  },
+  {
+    "start": "00:03:01.840",
+    "end": "00:03:03.830",
+    "start_seconds": 181.84,
+    "end_seconds": 183.83,
+    "text": "are big, be cautious. About four times in 10, you're going to be wrong. It"
+  },
+  {
+    "start": "00:03:03.830",
+    "end": "00:03:03.840",
+    "start_seconds": 183.83,
+    "end_seconds": 183.84,
+    "text": "in 10, you're going to be wrong. It"
+  },
+  {
+    "start": "00:03:03.840",
+    "end": "00:03:05.830",
+    "start_seconds": 183.84,
+    "end_seconds": 185.83,
+    "text": "in 10, you're going to be wrong. It turns out also if you focus on insider"
+  },
+  {
+    "start": "00:03:05.830",
+    "end": "00:03:05.840",
+    "start_seconds": 185.83,
+    "end_seconds": 185.84,
+    "text": "turns out also if you focus on insider"
+  },
+  {
+    "start": "00:03:05.840",
+    "end": "00:03:08.710",
+    "start_seconds": 185.84,
+    "end_seconds": 188.71,
+    "text": "turns out also if you focus on insider buying versus insider selling"
+  },
+  {
+    "start": "00:03:08.710",
+    "end": "00:03:08.720",
+    "start_seconds": 188.71,
+    "end_seconds": 188.72,
+    "text": "buying versus insider selling"
+  },
+  {
+    "start": "00:03:08.720",
+    "end": "00:03:11.270",
+    "start_seconds": 188.72,
+    "end_seconds": 191.27,
+    "text": "buying versus insider selling stronger signal than buying. When"
+  },
+  {
+    "start": "00:03:11.270",
+    "end": "00:03:11.280",
+    "start_seconds": 191.27,
+    "end_seconds": 191.28,
+    "text": "stronger signal than buying. When"
+  },
+  {
+    "start": "00:03:11.280",
+    "end": "00:03:13.030",
+    "start_seconds": 191.28,
+    "end_seconds": 193.03,
+    "text": "stronger signal than buying. When insiders are selling, you're far more"
+  },
+  {
+    "start": "00:03:13.030",
+    "end": "00:03:13.040",
+    "start_seconds": 193.03,
+    "end_seconds": 193.04,
+    "text": "insiders are selling, you're far more"
+  },
+  {
+    "start": "00:03:13.040",
+    "end": "00:03:15.910",
+    "start_seconds": 193.04,
+    "end_seconds": 195.91,
+    "text": "insiders are selling, you're far more likely to see stock prices go down than"
+  },
+  {
+    "start": "00:03:15.910",
+    "end": "00:03:15.920",
+    "start_seconds": 195.91,
+    "end_seconds": 195.92,
+    "text": "likely to see stock prices go down than"
+  },
+  {
+    "start": "00:03:15.920",
+    "end": "00:03:17.750",
+    "start_seconds": 195.92,
+    "end_seconds": 197.75,
+    "text": "likely to see stock prices go down than when insiders are buying, stock prices"
+  },
+  {
+    "start": "00:03:17.750",
+    "end": "00:03:17.760",
+    "start_seconds": 197.75,
+    "end_seconds": 197.76,
+    "text": "when insiders are buying, stock prices"
+  },
+  {
+    "start": "00:03:17.760",
+    "end": "00:03:20.149",
+    "start_seconds": 197.76,
+    "end_seconds": 200.149,
+    "text": "when insiders are buying, stock prices going up. For whatever reason, selling"
+  },
+  {
+    "start": "00:03:20.149",
+    "end": "00:03:20.159",
+    "start_seconds": 200.149,
+    "end_seconds": 200.159,
+    "text": "going up. For whatever reason, selling"
+  },
+  {
+    "start": "00:03:20.159",
+    "end": "00:03:22.470",
+    "start_seconds": 200.159,
+    "end_seconds": 202.47,
+    "text": "going up. For whatever reason, selling has a much bigger signaling effect. In"
+  },
+  {
+    "start": "00:03:22.470",
+    "end": "00:03:22.480",
+    "start_seconds": 202.47,
+    "end_seconds": 202.48,
+    "text": "has a much bigger signaling effect. In"
+  },
+  {
+    "start": "00:03:22.480",
+    "end": "00:03:24.790",
+    "start_seconds": 202.48,
+    "end_seconds": 204.79,
+    "text": "has a much bigger signaling effect. In fact, one study found that insiders"
+  },
+  {
+    "start": "00:03:24.790",
+    "end": "00:03:24.800",
+    "start_seconds": 204.79,
+    "end_seconds": 204.8,
+    "text": "fact, one study found that insiders"
+  },
+  {
+    "start": "00:03:24.800",
+    "end": "00:03:27.910",
+    "start_seconds": 204.8,
+    "end_seconds": 207.91,
+    "text": "fact, one study found that insiders selling now had companies where there"
+  },
+  {
+    "start": "00:03:27.910",
+    "end": "00:03:27.920",
+    "start_seconds": 207.91,
+    "end_seconds": 207.92000000000002,
+    "text": "selling now had companies where there"
+  },
+  {
+    "start": "00:03:27.920",
+    "end": "00:03:29.430",
+    "start_seconds": 207.92000000000002,
+    "end_seconds": 209.43,
+    "text": "selling now had companies where there was a lot of insider selling had stock"
+  },
+  {
+    "start": "00:03:29.430",
+    "end": "00:03:29.440",
+    "start_seconds": 209.43,
+    "end_seconds": 209.44,
+    "text": "was a lot of insider selling had stock"
+  },
+  {
+    "start": "00:03:29.440",
+    "end": "00:03:31.990",
+    "start_seconds": 209.44,
+    "end_seconds": 211.99,
+    "text": "was a lot of insider selling had stock returns of 14.4%."
+  },
+  {
+    "start": "00:03:31.990",
+    "end": "00:03:32.000",
+    "start_seconds": 211.99,
+    "end_seconds": 212.0,
+    "text": "returns of 14.4%."
+  },
+  {
+    "start": "00:03:32.000",
+    "end": "00:03:34.949",
+    "start_seconds": 212.0,
+    "end_seconds": 214.949,
+    "text": "returns of 14.4%. significantly lower than the 20 22% you"
+  },
+  {
+    "start": "00:03:34.949",
+    "end": "00:03:34.959",
+    "start_seconds": 214.949,
+    "end_seconds": 214.959,
+    "text": "significantly lower than the 20 22% you"
+  },
+  {
+    "start": "00:03:34.959",
+    "end": "00:03:37.670",
+    "start_seconds": 214.959,
+    "end_seconds": 217.67000000000002,
+    "text": "significantly lower than the 20 22% you had in firms with insider buying and the"
+  },
+  {
+    "start": "00:03:37.670",
+    "end": "00:03:37.680",
+    "start_seconds": 217.67000000000002,
+    "end_seconds": 217.68,
+    "text": "had in firms with insider buying and the"
+  },
+  {
+    "start": "00:03:37.680",
+    "end": "00:03:40.309",
+    "start_seconds": 217.68,
+    "end_seconds": 220.309,
+    "text": "had in firms with insider buying and the insider trading effect is much greater"
+  },
+  {
+    "start": "00:03:40.309",
+    "end": "00:03:40.319",
+    "start_seconds": 220.309,
+    "end_seconds": 220.31900000000002,
+    "text": "insider trading effect is much greater"
+  },
+  {
+    "start": "00:03:40.319",
+    "end": "00:03:42.789",
+    "start_seconds": 220.31900000000002,
+    "end_seconds": 222.789,
+    "text": "insider trading effect is much greater at small firms. We'll talk we'll come"
+  },
+  {
+    "start": "00:03:42.789",
+    "end": "00:03:42.799",
+    "start_seconds": 222.789,
+    "end_seconds": 222.799,
+    "text": "at small firms. We'll talk we'll come"
+  },
+  {
+    "start": "00:03:42.799",
+    "end": "00:03:45.270",
+    "start_seconds": 222.799,
+    "end_seconds": 225.27,
+    "text": "at small firms. We'll talk we'll come back and talk about why that might be."
+  },
+  {
+    "start": "00:03:45.270",
+    "end": "00:03:45.280",
+    "start_seconds": 225.27,
+    "end_seconds": 225.28,
+    "text": "back and talk about why that might be."
+  },
+  {
+    "start": "00:03:45.280",
+    "end": "00:03:47.030",
+    "start_seconds": 225.28,
+    "end_seconds": 227.03,
+    "text": "back and talk about why that might be. But if you see insider buying at a small"
+  },
+  {
+    "start": "00:03:47.030",
+    "end": "00:03:47.040",
+    "start_seconds": 227.03,
+    "end_seconds": 227.04,
+    "text": "But if you see insider buying at a small"
+  },
+  {
+    "start": "00:03:47.040",
+    "end": "00:03:49.190",
+    "start_seconds": 227.04,
+    "end_seconds": 229.19,
+    "text": "But if you see insider buying at a small firm, it's much more likely to be"
+  },
+  {
+    "start": "00:03:49.190",
+    "end": "00:03:49.200",
+    "start_seconds": 229.19,
+    "end_seconds": 229.2,
+    "text": "firm, it's much more likely to be"
+  },
+  {
+    "start": "00:03:49.200",
+    "end": "00:03:51.110",
+    "start_seconds": 229.2,
+    "end_seconds": 231.11,
+    "text": "firm, it's much more likely to be followed by a stock price rise than if"
+  },
+  {
+    "start": "00:03:51.110",
+    "end": "00:03:51.120",
+    "start_seconds": 231.11,
+    "end_seconds": 231.12,
+    "text": "followed by a stock price rise than if"
+  },
+  {
+    "start": "00:03:51.120",
+    "end": "00:03:53.750",
+    "start_seconds": 231.12,
+    "end_seconds": 233.75,
+    "text": "followed by a stock price rise than if it's at a large firm. Noisy signals"
+  },
+  {
+    "start": "00:03:53.750",
+    "end": "00:03:53.760",
+    "start_seconds": 233.75,
+    "end_seconds": 233.76,
+    "text": "it's at a large firm. Noisy signals"
+  },
+  {
+    "start": "00:03:53.760",
+    "end": "00:03:56.309",
+    "start_seconds": 233.76,
+    "end_seconds": 236.309,
+    "text": "it's at a large firm. Noisy signals selling is a stronger signal than buying"
+  },
+  {
+    "start": "00:03:56.309",
+    "end": "00:03:56.319",
+    "start_seconds": 236.309,
+    "end_seconds": 236.31900000000002,
+    "text": "selling is a stronger signal than buying"
+  },
+  {
+    "start": "00:03:56.319",
+    "end": "00:03:58.470",
+    "start_seconds": 236.31900000000002,
+    "end_seconds": 238.47,
+    "text": "selling is a stronger signal than buying in at least on the part of insiders and"
+  },
+  {
+    "start": "00:03:58.470",
+    "end": "00:03:58.480",
+    "start_seconds": 238.47,
+    "end_seconds": 238.48,
+    "text": "in at least on the part of insiders and"
+  },
+  {
+    "start": "00:03:58.480",
+    "end": "00:04:01.110",
+    "start_seconds": 238.48,
+    "end_seconds": 241.11,
+    "text": "in at least on the part of insiders and much stronger at smaller firms. So,"
+  },
+  {
+    "start": "00:04:01.110",
+    "end": "00:04:01.120",
+    "start_seconds": 241.11,
+    "end_seconds": 241.12,
+    "text": "much stronger at smaller firms. So,"
+  },
+  {
+    "start": "00:04:01.120",
+    "end": "00:04:03.190",
+    "start_seconds": 241.12,
+    "end_seconds": 243.19,
+    "text": "much stronger at smaller firms. So, let's update many of these studies"
+  },
+  {
+    "start": "00:04:03.190",
+    "end": "00:04:03.200",
+    "start_seconds": 243.19,
+    "end_seconds": 243.2,
+    "text": "let's update many of these studies"
+  },
+  {
+    "start": "00:04:03.200",
+    "end": "00:04:05.429",
+    "start_seconds": 243.2,
+    "end_seconds": 245.429,
+    "text": "let's update many of these studies because insider laws have shifted and"
+  },
+  {
+    "start": "00:04:05.429",
+    "end": "00:04:05.439",
+    "start_seconds": 245.429,
+    "end_seconds": 245.439,
+    "text": "because insider laws have shifted and"
+  },
+  {
+    "start": "00:04:05.439",
+    "end": "00:04:08.550",
+    "start_seconds": 245.439,
+    "end_seconds": 248.55,
+    "text": "because insider laws have shifted and and tightened over time. The SEC has"
+  },
+  {
+    "start": "00:04:08.550",
+    "end": "00:04:08.560",
+    "start_seconds": 248.55,
+    "end_seconds": 248.56,
+    "text": "and tightened over time. The SEC has"
+  },
+  {
+    "start": "00:04:08.560",
+    "end": "00:04:10.470",
+    "start_seconds": 248.56,
+    "end_seconds": 250.47,
+    "text": "and tightened over time. The SEC has become much more expansive in its"
+  },
+  {
+    "start": "00:04:10.470",
+    "end": "00:04:10.480",
+    "start_seconds": 250.47,
+    "end_seconds": 250.48,
+    "text": "become much more expansive in its"
+  },
+  {
+    "start": "00:04:10.480",
+    "end": "00:04:12.550",
+    "start_seconds": 250.48,
+    "end_seconds": 252.55,
+    "text": "become much more expansive in its definition of what comprises insider"
+  },
+  {
+    "start": "00:04:12.550",
+    "end": "00:04:12.560",
+    "start_seconds": 252.55,
+    "end_seconds": 252.56,
+    "text": "definition of what comprises insider"
+  },
+  {
+    "start": "00:04:12.560",
+    "end": "00:04:14.710",
+    "start_seconds": 252.56,
+    "end_seconds": 254.71,
+    "text": "definition of what comprises insider information and more aggressive in its"
+  },
+  {
+    "start": "00:04:14.710",
+    "end": "00:04:14.720",
+    "start_seconds": 254.71,
+    "end_seconds": 254.72,
+    "text": "information and more aggressive in its"
+  },
+  {
+    "start": "00:04:14.720",
+    "end": "00:04:16.310",
+    "start_seconds": 254.72,
+    "end_seconds": 256.31,
+    "text": "information and more aggressive in its enforcement of those laws. So, it's"
+  },
+  {
+    "start": "00:04:16.310",
+    "end": "00:04:16.320",
+    "start_seconds": 256.31,
+    "end_seconds": 256.32,
+    "text": "enforcement of those laws. So, it's"
+  },
+  {
+    "start": "00:04:16.320",
+    "end": "00:04:19.270",
+    "start_seconds": 256.32,
+    "end_seconds": 259.27,
+    "text": "enforcement of those laws. So, it's selective. Companies are also much more"
+  },
+  {
+    "start": "00:04:19.270",
+    "end": "00:04:19.280",
+    "start_seconds": 259.27,
+    "end_seconds": 259.28,
+    "text": "selective. Companies are also much more"
+  },
+  {
+    "start": "00:04:19.280",
+    "end": "00:04:21.430",
+    "start_seconds": 259.28,
+    "end_seconds": 261.43,
+    "text": "selective. Companies are also much more restricted in what they can share with"
+  },
+  {
+    "start": "00:04:21.430",
+    "end": "00:04:21.440",
+    "start_seconds": 261.43,
+    "end_seconds": 261.44,
+    "text": "restricted in what they can share with"
+  },
+  {
+    "start": "00:04:21.440",
+    "end": "00:04:23.749",
+    "start_seconds": 261.44,
+    "end_seconds": 263.749,
+    "text": "restricted in what they can share with investors. There was a time where"
+  },
+  {
+    "start": "00:04:23.749",
+    "end": "00:04:23.759",
+    "start_seconds": 263.749,
+    "end_seconds": 263.759,
+    "text": "investors. There was a time where"
+  },
+  {
+    "start": "00:04:23.759",
+    "end": "00:04:25.670",
+    "start_seconds": 263.759,
+    "end_seconds": 265.67,
+    "text": "investors. There was a time where companies could call in 20 equity"
+  },
+  {
+    "start": "00:04:25.670",
+    "end": "00:04:25.680",
+    "start_seconds": 265.67,
+    "end_seconds": 265.68,
+    "text": "companies could call in 20 equity"
+  },
+  {
+    "start": "00:04:25.680",
+    "end": "00:04:27.189",
+    "start_seconds": 265.68,
+    "end_seconds": 267.189,
+    "text": "companies could call in 20 equity research analysts that tracked them,"
+  },
+  {
+    "start": "00:04:27.189",
+    "end": "00:04:27.199",
+    "start_seconds": 267.189,
+    "end_seconds": 267.199,
+    "text": "research analysts that tracked them,"
+  },
+  {
+    "start": "00:04:27.199",
+    "end": "00:04:28.950",
+    "start_seconds": 267.199,
+    "end_seconds": 268.95,
+    "text": "research analysts that tracked them, gave them information that the rest of"
+  },
+  {
+    "start": "00:04:28.950",
+    "end": "00:04:28.960",
+    "start_seconds": 268.95,
+    "end_seconds": 268.96,
+    "text": "gave them information that the rest of"
+  },
+  {
+    "start": "00:04:28.960",
+    "end": "00:04:31.350",
+    "start_seconds": 268.96,
+    "end_seconds": 271.35,
+    "text": "gave them information that the rest of the market did not get. That's no longer"
+  },
+  {
+    "start": "00:04:31.350",
+    "end": "00:04:31.360",
+    "start_seconds": 271.35,
+    "end_seconds": 271.36,
+    "text": "the market did not get. That's no longer"
+  },
+  {
+    "start": "00:04:31.360",
+    "end": "00:04:34.710",
+    "start_seconds": 271.36,
+    "end_seconds": 274.71,
+    "text": "the market did not get. That's no longer possible. In fact, regulation FD, which"
+  },
+  {
+    "start": "00:04:34.710",
+    "end": "00:04:34.720",
+    "start_seconds": 274.71,
+    "end_seconds": 274.72,
+    "text": "possible. In fact, regulation FD, which"
+  },
+  {
+    "start": "00:04:34.720",
+    "end": "00:04:37.830",
+    "start_seconds": 274.72,
+    "end_seconds": 277.83,
+    "text": "possible. In fact, regulation FD, which was passed in 2002, effectively made it"
+  },
+  {
+    "start": "00:04:37.830",
+    "end": "00:04:37.840",
+    "start_seconds": 277.83,
+    "end_seconds": 277.84000000000003,
+    "text": "was passed in 2002, effectively made it"
+  },
+  {
+    "start": "00:04:37.840",
+    "end": "00:04:40.550",
+    "start_seconds": 277.84000000000003,
+    "end_seconds": 280.55,
+    "text": "was passed in 2002, effectively made it much more difficult for companies to"
+  },
+  {
+    "start": "00:04:40.550",
+    "end": "00:04:40.560",
+    "start_seconds": 280.55,
+    "end_seconds": 280.56,
+    "text": "much more difficult for companies to"
+  },
+  {
+    "start": "00:04:40.560",
+    "end": "00:04:42.390",
+    "start_seconds": 280.56,
+    "end_seconds": 282.39,
+    "text": "much more difficult for companies to share information with some investors"
+  },
+  {
+    "start": "00:04:42.390",
+    "end": "00:04:42.400",
+    "start_seconds": 282.39,
+    "end_seconds": 282.4,
+    "text": "share information with some investors"
+  },
+  {
+    "start": "00:04:42.400",
+    "end": "00:04:44.870",
+    "start_seconds": 282.4,
+    "end_seconds": 284.87,
+    "text": "share information with some investors and not with others. One of the things"
+  },
+  {
+    "start": "00:04:44.870",
+    "end": "00:04:44.880",
+    "start_seconds": 284.87,
+    "end_seconds": 284.88,
+    "text": "and not with others. One of the things"
+  },
+  {
+    "start": "00:04:44.880",
+    "end": "00:04:47.030",
+    "start_seconds": 284.88,
+    "end_seconds": 287.03,
+    "text": "and not with others. One of the things we've discovered in in the studies is"
+  },
+  {
+    "start": "00:04:47.030",
+    "end": "00:04:47.040",
+    "start_seconds": 287.03,
+    "end_seconds": 287.04,
+    "text": "we've discovered in in the studies is"
+  },
+  {
+    "start": "00:04:47.040",
+    "end": "00:04:49.110",
+    "start_seconds": 287.04,
+    "end_seconds": 289.11,
+    "text": "we've discovered in in the studies is the effect of insider trading seems to"
+  },
+  {
+    "start": "00:04:49.110",
+    "end": "00:04:49.120",
+    "start_seconds": 289.11,
+    "end_seconds": 289.12,
+    "text": "the effect of insider trading seems to"
+  },
+  {
+    "start": "00:04:49.120",
+    "end": "00:04:51.990",
+    "start_seconds": 289.12,
+    "end_seconds": 291.99,
+    "text": "the effect of insider trading seems to have become much smaller since now"
+  },
+  {
+    "start": "00:04:51.990",
+    "end": "00:04:52.000",
+    "start_seconds": 291.99,
+    "end_seconds": 292.0,
+    "text": "have become much smaller since now"
+  },
+  {
+    "start": "00:04:52.000",
+    "end": "00:04:53.990",
+    "start_seconds": 292.0,
+    "end_seconds": 293.99,
+    "text": "have become much smaller since now remember all these studies of insider"
+  },
+  {
+    "start": "00:04:53.990",
+    "end": "00:04:54.000",
+    "start_seconds": 293.99,
+    "end_seconds": 294.0,
+    "text": "remember all these studies of insider"
+  },
+  {
+    "start": "00:04:54.000",
+    "end": "00:04:57.350",
+    "start_seconds": 294.0,
+    "end_seconds": 297.35,
+    "text": "remember all these studies of insider trading focus on legal insider trading."
+  },
+  {
+    "start": "00:04:57.350",
+    "end": "00:04:57.360",
+    "start_seconds": 297.35,
+    "end_seconds": 297.36,
+    "text": "trading focus on legal insider trading."
+  },
+  {
+    "start": "00:04:57.360",
+    "end": "00:05:00.310",
+    "start_seconds": 297.36,
+    "end_seconds": 300.31,
+    "text": "trading focus on legal insider trading. And by making it more difficult for"
+  },
+  {
+    "start": "00:05:00.310",
+    "end": "00:05:00.320",
+    "start_seconds": 300.31,
+    "end_seconds": 300.32,
+    "text": "And by making it more difficult for"
+  },
+  {
+    "start": "00:05:00.320",
+    "end": "00:05:02.950",
+    "start_seconds": 300.32,
+    "end_seconds": 302.95,
+    "text": "And by making it more difficult for insiders to trade by by defining insider"
+  },
+  {
+    "start": "00:05:02.950",
+    "end": "00:05:02.960",
+    "start_seconds": 302.95,
+    "end_seconds": 302.96,
+    "text": "insiders to trade by by defining insider"
+  },
+  {
+    "start": "00:05:02.960",
+    "end": "00:05:04.629",
+    "start_seconds": 302.96,
+    "end_seconds": 304.629,
+    "text": "insiders to trade by by defining insider information more stringently might have"
+  },
+  {
+    "start": "00:05:04.629",
+    "end": "00:05:04.639",
+    "start_seconds": 304.629,
+    "end_seconds": 304.639,
+    "text": "information more stringently might have"
+  },
+  {
+    "start": "00:05:04.639",
+    "end": "00:05:07.270",
+    "start_seconds": 304.639,
+    "end_seconds": 307.27,
+    "text": "information more stringently might have taken away the profitability of insider"
+  },
+  {
+    "start": "00:05:07.270",
+    "end": "00:05:07.280",
+    "start_seconds": 307.27,
+    "end_seconds": 307.28,
+    "text": "taken away the profitability of insider"
+  },
+  {
+    "start": "00:05:07.280",
+    "end": "00:05:09.029",
+    "start_seconds": 307.28,
+    "end_seconds": 309.029,
+    "text": "taken away the profitability of insider trading."
+  },
+  {
+    "start": "00:05:09.029",
+    "end": "00:05:09.039",
+    "start_seconds": 309.029,
+    "end_seconds": 309.039,
+    "text": "trading."
+  },
+  {
+    "start": "00:05:09.039",
+    "end": "00:05:11.350",
+    "start_seconds": 309.039,
+    "end_seconds": 311.35,
+    "text": "trading. Now, of course, as outsiders, you're not"
+  },
+  {
+    "start": "00:05:11.350",
+    "end": "00:05:11.360",
+    "start_seconds": 311.35,
+    "end_seconds": 311.36,
+    "text": "Now, of course, as outsiders, you're not"
+  },
+  {
+    "start": "00:05:11.360",
+    "end": "00:05:13.189",
+    "start_seconds": 311.36,
+    "end_seconds": 313.189,
+    "text": "Now, of course, as outsiders, you're not a director, you're not a manager, you're"
+  },
+  {
+    "start": "00:05:13.189",
+    "end": "00:05:13.199",
+    "start_seconds": 313.189,
+    "end_seconds": 313.199,
+    "text": "a director, you're not a manager, you're"
+  },
+  {
+    "start": "00:05:13.199",
+    "end": "00:05:15.189",
+    "start_seconds": 313.199,
+    "end_seconds": 315.189,
+    "text": "a director, you're not a manager, you're not a person who owns 5% of the shares"
+  },
+  {
+    "start": "00:05:15.189",
+    "end": "00:05:15.199",
+    "start_seconds": 315.189,
+    "end_seconds": 315.199,
+    "text": "not a person who owns 5% of the shares"
+  },
+  {
+    "start": "00:05:15.199",
+    "end": "00:05:16.469",
+    "start_seconds": 315.199,
+    "end_seconds": 316.469,
+    "text": "not a person who owns 5% of the shares in a company. You're not an equity"
+  },
+  {
+    "start": "00:05:16.469",
+    "end": "00:05:16.479",
+    "start_seconds": 316.469,
+    "end_seconds": 316.479,
+    "text": "in a company. You're not an equity"
+  },
+  {
+    "start": "00:05:16.479",
+    "end": "00:05:17.749",
+    "start_seconds": 316.479,
+    "end_seconds": 317.749,
+    "text": "in a company. You're not an equity research analyst. We'll talk about"
+  },
+  {
+    "start": "00:05:17.749",
+    "end": "00:05:17.759",
+    "start_seconds": 317.749,
+    "end_seconds": 317.759,
+    "text": "research analyst. We'll talk about"
+  },
+  {
+    "start": "00:05:17.759",
+    "end": "00:05:20.310",
+    "start_seconds": 317.759,
+    "end_seconds": 320.31,
+    "text": "research analyst. We'll talk about analysts later in the next session. So,"
+  },
+  {
+    "start": "00:05:20.310",
+    "end": "00:05:20.320",
+    "start_seconds": 320.31,
+    "end_seconds": 320.32,
+    "text": "analysts later in the next session. So,"
+  },
+  {
+    "start": "00:05:20.320",
+    "end": "00:05:21.990",
+    "start_seconds": 320.32,
+    "end_seconds": 321.99,
+    "text": "analysts later in the next session. So, can I make money by looking at what"
+  },
+  {
+    "start": "00:05:21.990",
+    "end": "00:05:22.000",
+    "start_seconds": 321.99,
+    "end_seconds": 322.0,
+    "text": "can I make money by looking at what"
+  },
+  {
+    "start": "00:05:22.000",
+    "end": "00:05:26.310",
+    "start_seconds": 322.0,
+    "end_seconds": 326.31,
+    "text": "can I make money by looking at what insiders are doing at first gra at when"
+  },
+  {
+    "start": "00:05:26.310",
+    "end": "00:05:26.320",
+    "start_seconds": 326.31,
+    "end_seconds": 326.32,
+    "text": "insiders are doing at first gra at when"
+  },
+  {
+    "start": "00:05:26.320",
+    "end": "00:05:27.990",
+    "start_seconds": 326.32,
+    "end_seconds": 327.99,
+    "text": "insiders are doing at first gra at when you take your first look at the insider"
+  },
+  {
+    "start": "00:05:27.990",
+    "end": "00:05:28.000",
+    "start_seconds": 327.99,
+    "end_seconds": 328.0,
+    "text": "you take your first look at the insider"
+  },
+  {
+    "start": "00:05:28.000",
+    "end": "00:05:30.230",
+    "start_seconds": 328.0,
+    "end_seconds": 330.23,
+    "text": "you take your first look at the insider studies, it looks like you do. In fact,"
+  },
+  {
+    "start": "00:05:30.230",
+    "end": "00:05:30.240",
+    "start_seconds": 330.23,
+    "end_seconds": 330.24,
+    "text": "studies, it looks like you do. In fact,"
+  },
+  {
+    "start": "00:05:30.240",
+    "end": "00:05:32.870",
+    "start_seconds": 330.24,
+    "end_seconds": 332.87,
+    "text": "studies, it looks like you do. In fact, the early studies looked at the returns"
+  },
+  {
+    "start": "00:05:32.870",
+    "end": "00:05:32.880",
+    "start_seconds": 332.87,
+    "end_seconds": 332.88,
+    "text": "the early studies looked at the returns"
+  },
+  {
+    "start": "00:05:32.880",
+    "end": "00:05:34.950",
+    "start_seconds": 332.88,
+    "end_seconds": 334.95,
+    "text": "the early studies looked at the returns following when the insider reporting"
+  },
+  {
+    "start": "00:05:34.950",
+    "end": "00:05:34.960",
+    "start_seconds": 334.95,
+    "end_seconds": 334.96,
+    "text": "following when the insider reporting"
+  },
+  {
+    "start": "00:05:34.960",
+    "end": "00:05:36.870",
+    "start_seconds": 334.96,
+    "end_seconds": 336.87,
+    "text": "following when the insider reporting date was because insiders have to file"
+  },
+  {
+    "start": "00:05:36.870",
+    "end": "00:05:36.880",
+    "start_seconds": 336.87,
+    "end_seconds": 336.88,
+    "text": "date was because insiders have to file"
+  },
+  {
+    "start": "00:05:36.880",
+    "end": "00:05:39.029",
+    "start_seconds": 336.88,
+    "end_seconds": 339.029,
+    "text": "date was because insiders have to file by a particular date. It took that date"
+  },
+  {
+    "start": "00:05:39.029",
+    "end": "00:05:39.039",
+    "start_seconds": 339.029,
+    "end_seconds": 339.039,
+    "text": "by a particular date. It took that date"
+  },
+  {
+    "start": "00:05:39.039",
+    "end": "00:05:40.710",
+    "start_seconds": 339.039,
+    "end_seconds": 340.71,
+    "text": "by a particular date. It took that date and said, you know, what would stock"
+  },
+  {
+    "start": "00:05:40.710",
+    "end": "00:05:40.720",
+    "start_seconds": 340.71,
+    "end_seconds": 340.72,
+    "text": "and said, you know, what would stock"
+  },
+  {
+    "start": "00:05:40.720",
+    "end": "00:05:42.710",
+    "start_seconds": 340.72,
+    "end_seconds": 342.71,
+    "text": "and said, you know, what would stock prices do? And you can see if you bought"
+  },
+  {
+    "start": "00:05:42.710",
+    "end": "00:05:42.720",
+    "start_seconds": 342.71,
+    "end_seconds": 342.72,
+    "text": "prices do? And you can see if you bought"
+  },
+  {
+    "start": "00:05:42.720",
+    "end": "00:05:45.270",
+    "start_seconds": 342.72,
+    "end_seconds": 345.27,
+    "text": "prices do? And you can see if you bought stocks after insider buying reporting"
+  },
+  {
+    "start": "00:05:45.270",
+    "end": "00:05:45.280",
+    "start_seconds": 345.27,
+    "end_seconds": 345.28,
+    "text": "stocks after insider buying reporting"
+  },
+  {
+    "start": "00:05:45.280",
+    "end": "00:05:48.230",
+    "start_seconds": 345.28,
+    "end_seconds": 348.23,
+    "text": "stocks after insider buying reporting dates, stock prices continue to go up."
+  },
+  {
+    "start": "00:05:48.230",
+    "end": "00:05:48.240",
+    "start_seconds": 348.23,
+    "end_seconds": 348.24,
+    "text": "dates, stock prices continue to go up."
+  },
+  {
+    "start": "00:05:48.240",
+    "end": "00:05:52.150",
+    "start_seconds": 348.24,
+    "end_seconds": 352.15,
+    "text": "dates, stock prices continue to go up. But then researchers realized that that"
+  },
+  {
+    "start": "00:05:52.150",
+    "end": "00:05:52.160",
+    "start_seconds": 352.15,
+    "end_seconds": 352.15999999999997,
+    "text": "But then researchers realized that that"
+  },
+  {
+    "start": "00:05:52.160",
+    "end": "00:05:54.790",
+    "start_seconds": 352.15999999999997,
+    "end_seconds": 354.79,
+    "text": "But then researchers realized that that the insiders report to the SEC, it's not"
+  },
+  {
+    "start": "00:05:54.790",
+    "end": "00:05:54.800",
+    "start_seconds": 354.79,
+    "end_seconds": 354.8,
+    "text": "the insiders report to the SEC, it's not"
+  },
+  {
+    "start": "00:05:54.800",
+    "end": "00:05:58.070",
+    "start_seconds": 354.8,
+    "end_seconds": 358.07,
+    "text": "the insiders report to the SEC, it's not the date where the that information"
+  },
+  {
+    "start": "00:05:58.070",
+    "end": "00:05:58.080",
+    "start_seconds": 358.07,
+    "end_seconds": 358.08,
+    "text": "the date where the that information"
+  },
+  {
+    "start": "00:05:58.080",
+    "end": "00:06:01.110",
+    "start_seconds": 358.08,
+    "end_seconds": 361.11,
+    "text": "the date where the that information becomes publicly disclosed. If you take"
+  },
+  {
+    "start": "00:06:01.110",
+    "end": "00:06:01.120",
+    "start_seconds": 361.11,
+    "end_seconds": 361.12,
+    "text": "becomes publicly disclosed. If you take"
+  },
+  {
+    "start": "00:06:01.120",
+    "end": "00:06:03.189",
+    "start_seconds": 361.12,
+    "end_seconds": 363.189,
+    "text": "becomes publicly disclosed. If you take the actual public disclosure date,"
+  },
+  {
+    "start": "00:06:03.189",
+    "end": "00:06:03.199",
+    "start_seconds": 363.189,
+    "end_seconds": 363.199,
+    "text": "the actual public disclosure date,"
+  },
+  {
+    "start": "00:06:03.199",
+    "end": "00:06:04.950",
+    "start_seconds": 363.199,
+    "end_seconds": 364.95,
+    "text": "the actual public disclosure date, that's your official summary date, and"
+  },
+  {
+    "start": "00:06:04.950",
+    "end": "00:06:04.960",
+    "start_seconds": 364.95,
+    "end_seconds": 364.96,
+    "text": "that's your official summary date, and"
+  },
+  {
+    "start": "00:06:04.960",
+    "end": "00:06:07.029",
+    "start_seconds": 364.96,
+    "end_seconds": 367.029,
+    "text": "that's your official summary date, and you look at the returns thereafter, it's"
+  },
+  {
+    "start": "00:06:07.029",
+    "end": "00:06:07.039",
+    "start_seconds": 367.029,
+    "end_seconds": 367.039,
+    "text": "you look at the returns thereafter, it's"
+  },
+  {
+    "start": "00:06:07.039",
+    "end": "00:06:10.390",
+    "start_seconds": 367.039,
+    "end_seconds": 370.39,
+    "text": "you look at the returns thereafter, it's almost nothing. So the bottom line is"
+  },
+  {
+    "start": "00:06:10.390",
+    "end": "00:06:10.400",
+    "start_seconds": 370.39,
+    "end_seconds": 370.4,
+    "text": "almost nothing. So the bottom line is"
+  },
+  {
+    "start": "00:06:10.400",
+    "end": "00:06:12.390",
+    "start_seconds": 370.4,
+    "end_seconds": 372.39,
+    "text": "almost nothing. So the bottom line is knowing what insiders are doing is more"
+  },
+  {
+    "start": "00:06:12.390",
+    "end": "00:06:12.400",
+    "start_seconds": 372.39,
+    "end_seconds": 372.4,
+    "text": "knowing what insiders are doing is more"
+  },
+  {
+    "start": "00:06:12.400",
+    "end": "00:06:14.469",
+    "start_seconds": 372.4,
+    "end_seconds": 374.469,
+    "text": "knowing what insiders are doing is more valuable if you knew it in time. If you"
+  },
+  {
+    "start": "00:06:14.469",
+    "end": "00:06:14.479",
+    "start_seconds": 374.469,
+    "end_seconds": 374.479,
+    "text": "valuable if you knew it in time. If you"
+  },
+  {
+    "start": "00:06:14.479",
+    "end": "00:06:16.150",
+    "start_seconds": 374.479,
+    "end_seconds": 376.15,
+    "text": "valuable if you knew it in time. If you knew it when they filed, but since you"
+  },
+  {
+    "start": "00:06:16.150",
+    "end": "00:06:16.160",
+    "start_seconds": 376.15,
+    "end_seconds": 376.16,
+    "text": "knew it when they filed, but since you"
+  },
+  {
+    "start": "00:06:16.160",
+    "end": "00:06:18.070",
+    "start_seconds": 376.16,
+    "end_seconds": 378.07,
+    "text": "knew it when they filed, but since you don't know it till 3, four, five weeks"
+  },
+  {
+    "start": "00:06:18.070",
+    "end": "00:06:18.080",
+    "start_seconds": 378.07,
+    "end_seconds": 378.08,
+    "text": "don't know it till 3, four, five weeks"
+  },
+  {
+    "start": "00:06:18.080",
+    "end": "00:06:20.950",
+    "start_seconds": 378.08,
+    "end_seconds": 380.95,
+    "text": "don't know it till 3, four, five weeks later, it turns out that you can't make"
+  },
+  {
+    "start": "00:06:20.950",
+    "end": "00:06:20.960",
+    "start_seconds": 380.95,
+    "end_seconds": 380.96,
+    "text": "later, it turns out that you can't make"
+  },
+  {
+    "start": "00:06:20.960",
+    "end": "00:06:23.270",
+    "start_seconds": 380.96,
+    "end_seconds": 383.27,
+    "text": "later, it turns out that you can't make much money on it. So should you look at"
+  },
+  {
+    "start": "00:06:23.270",
+    "end": "00:06:23.280",
+    "start_seconds": 383.27,
+    "end_seconds": 383.28,
+    "text": "much money on it. So should you look at"
+  },
+  {
+    "start": "00:06:23.280",
+    "end": "00:06:25.430",
+    "start_seconds": 383.28,
+    "end_seconds": 385.43,
+    "text": "much money on it. So should you look at what insiders are doing? Absolutely. Can"
+  },
+  {
+    "start": "00:06:25.430",
+    "end": "00:06:25.440",
+    "start_seconds": 385.43,
+    "end_seconds": 385.44,
+    "text": "what insiders are doing? Absolutely. Can"
+  },
+  {
+    "start": "00:06:25.440",
+    "end": "00:06:28.150",
+    "start_seconds": 385.44,
+    "end_seconds": 388.15,
+    "text": "what insiders are doing? Absolutely. Can you make money on it? I'm not so sure."
+  },
+  {
+    "start": "00:06:28.150",
+    "end": "00:06:28.160",
+    "start_seconds": 388.15,
+    "end_seconds": 388.16,
+    "text": "you make money on it? I'm not so sure."
+  },
+  {
+    "start": "00:06:28.160",
+    "end": "00:06:29.830",
+    "start_seconds": 388.16,
+    "end_seconds": 389.83,
+    "text": "you make money on it? I'm not so sure. In fact, as you go to online"
+  },
+  {
+    "start": "00:06:29.830",
+    "end": "00:06:29.840",
+    "start_seconds": 389.83,
+    "end_seconds": 389.84,
+    "text": "In fact, as you go to online"
+  },
+  {
+    "start": "00:06:29.840",
+    "end": "00:06:31.830",
+    "start_seconds": 389.84,
+    "end_seconds": 391.83,
+    "text": "In fact, as you go to online disclosures, that period between the"
+  },
+  {
+    "start": "00:06:31.830",
+    "end": "00:06:31.840",
+    "start_seconds": 391.83,
+    "end_seconds": 391.84,
+    "text": "disclosures, that period between the"
+  },
+  {
+    "start": "00:06:31.840",
+    "end": "00:06:33.510",
+    "start_seconds": 391.84,
+    "end_seconds": 393.51,
+    "text": "disclosures, that period between the reporting date and summary date is"
+  },
+  {
+    "start": "00:06:33.510",
+    "end": "00:06:33.520",
+    "start_seconds": 393.51,
+    "end_seconds": 393.52,
+    "text": "reporting date and summary date is"
+  },
+  {
+    "start": "00:06:33.520",
+    "end": "00:06:36.309",
+    "start_seconds": 393.52,
+    "end_seconds": 396.30899999999997,
+    "text": "reporting date and summary date is compressing, but the consequences are"
+  },
+  {
+    "start": "00:06:36.309",
+    "end": "00:06:36.319",
+    "start_seconds": 396.30899999999997,
+    "end_seconds": 396.319,
+    "text": "compressing, but the consequences are"
+  },
+  {
+    "start": "00:06:36.319",
+    "end": "00:06:38.790",
+    "start_seconds": 396.319,
+    "end_seconds": 398.79,
+    "text": "compressing, but the consequences are not changing. After it becomes official,"
+  },
+  {
+    "start": "00:06:38.790",
+    "end": "00:06:38.800",
+    "start_seconds": 398.79,
+    "end_seconds": 398.8,
+    "text": "not changing. After it becomes official,"
+  },
+  {
+    "start": "00:06:38.800",
+    "end": "00:06:40.550",
+    "start_seconds": 398.8,
+    "end_seconds": 400.55,
+    "text": "not changing. After it becomes official, it becomes much more difficult to make"
+  },
+  {
+    "start": "00:06:40.550",
+    "end": "00:06:40.560",
+    "start_seconds": 400.55,
+    "end_seconds": 400.56,
+    "text": "it becomes much more difficult to make"
+  },
+  {
+    "start": "00:06:40.560",
+    "end": "00:06:43.749",
+    "start_seconds": 400.56,
+    "end_seconds": 403.749,
+    "text": "it becomes much more difficult to make money on insider information."
+  },
+  {
+    "start": "00:06:43.749",
+    "end": "00:06:43.759",
+    "start_seconds": 403.749,
+    "end_seconds": 403.759,
+    "text": "money on insider information."
+  },
+  {
+    "start": "00:06:43.759",
+    "end": "00:06:46.230",
+    "start_seconds": 403.759,
+    "end_seconds": 406.23,
+    "text": "money on insider information. Now, digging deeper into that insider"
+  },
+  {
+    "start": "00:06:46.230",
+    "end": "00:06:46.240",
+    "start_seconds": 406.23,
+    "end_seconds": 406.24,
+    "text": "Now, digging deeper into that insider"
+  },
+  {
+    "start": "00:06:46.240",
+    "end": "00:06:48.870",
+    "start_seconds": 406.24,
+    "end_seconds": 408.87,
+    "text": "Now, digging deeper into that insider trading research, it turns out that not"
+  },
+  {
+    "start": "00:06:48.870",
+    "end": "00:06:48.880",
+    "start_seconds": 408.87,
+    "end_seconds": 408.88,
+    "text": "trading research, it turns out that not"
+  },
+  {
+    "start": "00:06:48.880",
+    "end": "00:06:51.749",
+    "start_seconds": 408.88,
+    "end_seconds": 411.749,
+    "text": "trading research, it turns out that not not all insiders are equal because you"
+  },
+  {
+    "start": "00:06:51.749",
+    "end": "00:06:51.759",
+    "start_seconds": 411.749,
+    "end_seconds": 411.759,
+    "text": "not all insiders are equal because you"
+  },
+  {
+    "start": "00:06:51.759",
+    "end": "00:06:53.990",
+    "start_seconds": 411.759,
+    "end_seconds": 413.99,
+    "text": "not all insiders are equal because you can have a small manager who buys a 100"
+  },
+  {
+    "start": "00:06:53.990",
+    "end": "00:06:54.000",
+    "start_seconds": 413.99,
+    "end_seconds": 414.0,
+    "text": "can have a small manager who buys a 100"
+  },
+  {
+    "start": "00:06:54.000",
+    "end": "00:06:55.909",
+    "start_seconds": 414.0,
+    "end_seconds": 415.909,
+    "text": "can have a small manager who buys a 100 shares and you can have a CEO who buys a"
+  },
+  {
+    "start": "00:06:55.909",
+    "end": "00:06:55.919",
+    "start_seconds": 415.909,
+    "end_seconds": 415.919,
+    "text": "shares and you can have a CEO who buys a"
+  },
+  {
+    "start": "00:06:55.919",
+    "end": "00:06:57.990",
+    "start_seconds": 415.919,
+    "end_seconds": 417.99,
+    "text": "shares and you can have a CEO who buys a million shares. And this shouldn't come"
+  },
+  {
+    "start": "00:06:57.990",
+    "end": "00:06:58.000",
+    "start_seconds": 417.99,
+    "end_seconds": 418.0,
+    "text": "million shares. And this shouldn't come"
+  },
+  {
+    "start": "00:06:58.000",
+    "end": "00:07:01.189",
+    "start_seconds": 418.0,
+    "end_seconds": 421.189,
+    "text": "million shares. And this shouldn't come as a surprise. Large trade made by top"
+  },
+  {
+    "start": "00:07:01.189",
+    "end": "00:07:01.199",
+    "start_seconds": 421.189,
+    "end_seconds": 421.199,
+    "text": "as a surprise. Large trade made by top"
+  },
+  {
+    "start": "00:07:01.199",
+    "end": "00:07:04.629",
+    "start_seconds": 421.199,
+    "end_seconds": 424.629,
+    "text": "as a surprise. Large trade made by top executives have a much bigger pricing"
+  },
+  {
+    "start": "00:07:04.629",
+    "end": "00:07:04.639",
+    "start_seconds": 424.629,
+    "end_seconds": 424.639,
+    "text": "executives have a much bigger pricing"
+  },
+  {
+    "start": "00:07:04.639",
+    "end": "00:07:07.029",
+    "start_seconds": 424.639,
+    "end_seconds": 427.029,
+    "text": "executives have a much bigger pricing impact and create excess returns than"
+  },
+  {
+    "start": "00:07:07.029",
+    "end": "00:07:07.039",
+    "start_seconds": 427.029,
+    "end_seconds": 427.039,
+    "text": "impact and create excess returns than"
+  },
+  {
+    "start": "00:07:07.039",
+    "end": "00:07:09.350",
+    "start_seconds": 427.039,
+    "end_seconds": 429.35,
+    "text": "impact and create excess returns than small trades by by lower level"
+  },
+  {
+    "start": "00:07:09.350",
+    "end": "00:07:09.360",
+    "start_seconds": 429.35,
+    "end_seconds": 429.36,
+    "text": "small trades by by lower level"
+  },
+  {
+    "start": "00:07:09.360",
+    "end": "00:07:11.430",
+    "start_seconds": 429.36,
+    "end_seconds": 431.43,
+    "text": "small trades by by lower level executives. And as investment"
+  },
+  {
+    "start": "00:07:11.430",
+    "end": "00:07:11.440",
+    "start_seconds": 431.43,
+    "end_seconds": 431.44,
+    "text": "executives. And as investment"
+  },
+  {
+    "start": "00:07:11.440",
+    "end": "00:07:13.670",
+    "start_seconds": 431.44,
+    "end_seconds": 433.67,
+    "text": "executives. And as investment alternatives to shares become more"
+  },
+  {
+    "start": "00:07:13.670",
+    "end": "00:07:13.680",
+    "start_seconds": 433.67,
+    "end_seconds": 433.68,
+    "text": "alternatives to shares become more"
+  },
+  {
+    "start": "00:07:13.680",
+    "end": "00:07:16.550",
+    "start_seconds": 433.68,
+    "end_seconds": 436.55,
+    "text": "alternatives to shares become more available, options and perhaps you know"
+  },
+  {
+    "start": "00:07:16.550",
+    "end": "00:07:16.560",
+    "start_seconds": 436.55,
+    "end_seconds": 436.56,
+    "text": "available, options and perhaps you know"
+  },
+  {
+    "start": "00:07:16.560",
+    "end": "00:07:19.189",
+    "start_seconds": 436.56,
+    "end_seconds": 439.189,
+    "text": "available, options and perhaps you know volat"
+  },
+  {
+    "start": "00:07:19.189",
+    "end": "00:07:19.199",
+    "start_seconds": 439.189,
+    "end_seconds": 439.199,
+    "text": "volat"
+  },
+  {
+    "start": "00:07:19.199",
+    "end": "00:07:22.150",
+    "start_seconds": 439.199,
+    "end_seconds": 442.15,
+    "text": "volat futures on stock. It turns out that"
+  },
+  {
+    "start": "00:07:22.150",
+    "end": "00:07:22.160",
+    "start_seconds": 442.15,
+    "end_seconds": 442.16,
+    "text": "futures on stock. It turns out that"
+  },
+  {
+    "start": "00:07:22.160",
+    "end": "00:07:24.629",
+    "start_seconds": 442.16,
+    "end_seconds": 444.629,
+    "text": "futures on stock. It turns out that insiders might do their trading there"
+  },
+  {
+    "start": "00:07:24.629",
+    "end": "00:07:24.639",
+    "start_seconds": 444.629,
+    "end_seconds": 444.639,
+    "text": "insiders might do their trading there"
+  },
+  {
+    "start": "00:07:24.639",
+    "end": "00:07:26.790",
+    "start_seconds": 444.639,
+    "end_seconds": 446.79,
+    "text": "insiders might do their trading there rather than in the market. So you might"
+  },
+  {
+    "start": "00:07:26.790",
+    "end": "00:07:26.800",
+    "start_seconds": 446.79,
+    "end_seconds": 446.8,
+    "text": "rather than in the market. So you might"
+  },
+  {
+    "start": "00:07:26.800",
+    "end": "00:07:28.469",
+    "start_seconds": 446.8,
+    "end_seconds": 448.469,
+    "text": "rather than in the market. So you might want as an outside investor, you might"
+  },
+  {
+    "start": "00:07:28.469",
+    "end": "00:07:28.479",
+    "start_seconds": 448.469,
+    "end_seconds": 448.479,
+    "text": "want as an outside investor, you might"
+  },
+  {
+    "start": "00:07:28.479",
+    "end": "00:07:31.110",
+    "start_seconds": 448.479,
+    "end_seconds": 451.11,
+    "text": "want as an outside investor, you might want to track jump trading in that"
+  },
+  {
+    "start": "00:07:31.110",
+    "end": "00:07:31.120",
+    "start_seconds": 451.11,
+    "end_seconds": 451.12,
+    "text": "want to track jump trading in that"
+  },
+  {
+    "start": "00:07:31.120",
+    "end": "00:07:32.950",
+    "start_seconds": 451.12,
+    "end_seconds": 452.95,
+    "text": "want to track jump trading in that market. And one way you can track it is"
+  },
+  {
+    "start": "00:07:32.950",
+    "end": "00:07:32.960",
+    "start_seconds": 452.95,
+    "end_seconds": 452.96,
+    "text": "market. And one way you can track it is"
+  },
+  {
+    "start": "00:07:32.960",
+    "end": "00:07:35.430",
+    "start_seconds": 452.96,
+    "end_seconds": 455.43,
+    "text": "market. And one way you can track it is by looking at trading volume. If trading"
+  },
+  {
+    "start": "00:07:35.430",
+    "end": "00:07:35.440",
+    "start_seconds": 455.43,
+    "end_seconds": 455.44,
+    "text": "by looking at trading volume. If trading"
+  },
+  {
+    "start": "00:07:35.440",
+    "end": "00:07:38.070",
+    "start_seconds": 455.44,
+    "end_seconds": 458.07,
+    "text": "by looking at trading volume. If trading volume on call options on a stock jumps,"
+  },
+  {
+    "start": "00:07:38.070",
+    "end": "00:07:38.080",
+    "start_seconds": 458.07,
+    "end_seconds": 458.08,
+    "text": "volume on call options on a stock jumps,"
+  },
+  {
+    "start": "00:07:38.080",
+    "end": "00:07:39.430",
+    "start_seconds": 458.08,
+    "end_seconds": 459.43,
+    "text": "volume on call options on a stock jumps, especially if it's a lightly traded"
+  },
+  {
+    "start": "00:07:39.430",
+    "end": "00:07:39.440",
+    "start_seconds": 459.43,
+    "end_seconds": 459.44,
+    "text": "especially if it's a lightly traded"
+  },
+  {
+    "start": "00:07:39.440",
+    "end": "00:07:42.070",
+    "start_seconds": 459.44,
+    "end_seconds": 462.07,
+    "text": "especially if it's a lightly traded stock, it might be because insiders are"
+  },
+  {
+    "start": "00:07:42.070",
+    "end": "00:07:42.080",
+    "start_seconds": 462.07,
+    "end_seconds": 462.08,
+    "text": "stock, it might be because insiders are"
+  },
+  {
+    "start": "00:07:42.080",
+    "end": "00:07:46.070",
+    "start_seconds": 462.08,
+    "end_seconds": 466.07,
+    "text": "stock, it might be because insiders are trading on those call options. So it is"
+  },
+  {
+    "start": "00:07:46.070",
+    "end": "00:07:46.080",
+    "start_seconds": 466.07,
+    "end_seconds": 466.08,
+    "text": "trading on those call options. So it is"
+  },
+  {
+    "start": "00:07:46.080",
+    "end": "00:07:47.909",
+    "start_seconds": 466.08,
+    "end_seconds": 467.909,
+    "text": "trading on those call options. So it is clear that insider trading has an"
+  },
+  {
+    "start": "00:07:47.909",
+    "end": "00:07:47.919",
+    "start_seconds": 467.909,
+    "end_seconds": 467.919,
+    "text": "clear that insider trading has an"
+  },
+  {
+    "start": "00:07:47.919",
+    "end": "00:07:49.589",
+    "start_seconds": 467.919,
+    "end_seconds": 469.589,
+    "text": "clear that insider trading has an effect, but whether you can trade on"
+  },
+  {
+    "start": "00:07:49.589",
+    "end": "00:07:49.599",
+    "start_seconds": 469.589,
+    "end_seconds": 469.599,
+    "text": "effect, but whether you can trade on"
+  },
+  {
+    "start": "00:07:49.599",
+    "end": "00:07:52.230",
+    "start_seconds": 469.599,
+    "end_seconds": 472.23,
+    "text": "effect, but whether you can trade on that effect is much more diffuse."
+  },
+  {
+    "start": "00:07:52.230",
+    "end": "00:07:52.240",
+    "start_seconds": 472.23,
+    "end_seconds": 472.24,
+    "text": "that effect is much more diffuse."
+  },
+  {
+    "start": "00:07:52.240",
+    "end": "00:07:54.390",
+    "start_seconds": 472.24,
+    "end_seconds": 474.39,
+    "text": "that effect is much more diffuse. Finally, insider trading information is"
+  },
+  {
+    "start": "00:07:54.390",
+    "end": "00:07:54.400",
+    "start_seconds": 474.39,
+    "end_seconds": 474.4,
+    "text": "Finally, insider trading information is"
+  },
+  {
+    "start": "00:07:54.400",
+    "end": "00:07:56.309",
+    "start_seconds": 474.4,
+    "end_seconds": 476.30899999999997,
+    "text": "Finally, insider trading information is more useful in some companies than"
+  },
+  {
+    "start": "00:07:56.309",
+    "end": "00:07:56.319",
+    "start_seconds": 476.30899999999997,
+    "end_seconds": 476.319,
+    "text": "more useful in some companies than"
+  },
+  {
+    "start": "00:07:56.319",
+    "end": "00:07:57.589",
+    "start_seconds": 476.319,
+    "end_seconds": 477.589,
+    "text": "more useful in some companies than others. And we talked about small"
+  },
+  {
+    "start": "00:07:57.589",
+    "end": "00:07:57.599",
+    "start_seconds": 477.589,
+    "end_seconds": 477.599,
+    "text": "others. And we talked about small"
+  },
+  {
+    "start": "00:07:57.599",
+    "end": "00:07:59.830",
+    "start_seconds": 477.599,
+    "end_seconds": 479.83,
+    "text": "others. And we talked about small companies versus large companies. Let me"
+  },
+  {
+    "start": "00:07:59.830",
+    "end": "00:07:59.840",
+    "start_seconds": 479.83,
+    "end_seconds": 479.84000000000003,
+    "text": "companies versus large companies. Let me"
+  },
+  {
+    "start": "00:07:59.840",
+    "end": "00:08:02.070",
+    "start_seconds": 479.84000000000003,
+    "end_seconds": 482.07,
+    "text": "companies versus large companies. Let me generalize. In companies where"
+  },
+  {
+    "start": "00:08:02.070",
+    "end": "00:08:02.080",
+    "start_seconds": 482.07,
+    "end_seconds": 482.08,
+    "text": "generalize. In companies where"
+  },
+  {
+    "start": "00:08:02.080",
+    "end": "00:08:03.990",
+    "start_seconds": 482.08,
+    "end_seconds": 483.99,
+    "text": "generalize. In companies where information is plentiful, there are 50"
+  },
+  {
+    "start": "00:08:03.990",
+    "end": "00:08:04.000",
+    "start_seconds": 483.99,
+    "end_seconds": 484.0,
+    "text": "information is plentiful, there are 50"
+  },
+  {
+    "start": "00:08:04.000",
+    "end": "00:08:05.589",
+    "start_seconds": 484.0,
+    "end_seconds": 485.589,
+    "text": "information is plentiful, there are 50 analysts tracking this stock, hundreds"
+  },
+  {
+    "start": "00:08:05.589",
+    "end": "00:08:05.599",
+    "start_seconds": 485.589,
+    "end_seconds": 485.599,
+    "text": "analysts tracking this stock, hundreds"
+  },
+  {
+    "start": "00:08:05.599",
+    "end": "00:08:08.070",
+    "start_seconds": 485.599,
+    "end_seconds": 488.07,
+    "text": "analysts tracking this stock, hundreds of news stories, knowing what insiders"
+  },
+  {
+    "start": "00:08:08.070",
+    "end": "00:08:08.080",
+    "start_seconds": 488.07,
+    "end_seconds": 488.08,
+    "text": "of news stories, knowing what insiders"
+  },
+  {
+    "start": "00:08:08.080",
+    "end": "00:08:10.150",
+    "start_seconds": 488.08,
+    "end_seconds": 490.15,
+    "text": "of news stories, knowing what insiders are doing is much less useful than in"
+  },
+  {
+    "start": "00:08:10.150",
+    "end": "00:08:10.160",
+    "start_seconds": 490.15,
+    "end_seconds": 490.16,
+    "text": "are doing is much less useful than in"
+  },
+  {
+    "start": "00:08:10.160",
+    "end": "00:08:12.070",
+    "start_seconds": 490.16,
+    "end_seconds": 492.07,
+    "text": "are doing is much less useful than in small companies where there's far less"
+  },
+  {
+    "start": "00:08:12.070",
+    "end": "00:08:12.080",
+    "start_seconds": 492.07,
+    "end_seconds": 492.08,
+    "text": "small companies where there's far less"
+  },
+  {
+    "start": "00:08:12.080",
+    "end": "00:08:14.550",
+    "start_seconds": 492.08,
+    "end_seconds": 494.55,
+    "text": "small companies where there's far less information, far fewer analysts"
+  },
+  {
+    "start": "00:08:14.550",
+    "end": "00:08:14.560",
+    "start_seconds": 494.55,
+    "end_seconds": 494.56,
+    "text": "information, far fewer analysts"
+  },
+  {
+    "start": "00:08:14.560",
+    "end": "00:08:16.550",
+    "start_seconds": 494.56,
+    "end_seconds": 496.55,
+    "text": "information, far fewer analysts following it, know far fewer news"
+  },
+  {
+    "start": "00:08:16.550",
+    "end": "00:08:16.560",
+    "start_seconds": 496.55,
+    "end_seconds": 496.56,
+    "text": "following it, know far fewer news"
+  },
+  {
+    "start": "00:08:16.560",
+    "end": "00:08:18.869",
+    "start_seconds": 496.56,
+    "end_seconds": 498.869,
+    "text": "following it, know far fewer news stories. So if you're going to track"
+  },
+  {
+    "start": "00:08:18.869",
+    "end": "00:08:18.879",
+    "start_seconds": 498.869,
+    "end_seconds": 498.879,
+    "text": "stories. So if you're going to track"
+  },
+  {
+    "start": "00:08:18.879",
+    "end": "00:08:20.869",
+    "start_seconds": 498.879,
+    "end_seconds": 500.869,
+    "text": "stories. So if you're going to track insidered trading, the payoff might be"
+  },
+  {
+    "start": "00:08:20.869",
+    "end": "00:08:20.879",
+    "start_seconds": 500.869,
+    "end_seconds": 500.879,
+    "text": "insidered trading, the payoff might be"
+  },
+  {
+    "start": "00:08:20.879",
+    "end": "00:08:22.950",
+    "start_seconds": 500.879,
+    "end_seconds": 502.95,
+    "text": "insidered trading, the payoff might be great if you track insidered trading in"
+  },
+  {
+    "start": "00:08:22.950",
+    "end": "00:08:22.960",
+    "start_seconds": 502.95,
+    "end_seconds": 502.96,
+    "text": "great if you track insidered trading in"
+  },
+  {
+    "start": "00:08:22.960",
+    "end": "00:08:25.909",
+    "start_seconds": 502.96,
+    "end_seconds": 505.909,
+    "text": "great if you track insidered trading in small and below the radar companies and"
+  },
+  {
+    "start": "00:08:25.909",
+    "end": "00:08:25.919",
+    "start_seconds": 505.909,
+    "end_seconds": 505.919,
+    "text": "small and below the radar companies and"
+  },
+  {
+    "start": "00:08:25.919",
+    "end": "00:08:29.510",
+    "start_seconds": 505.919,
+    "end_seconds": 509.51,
+    "text": "small and below the radar companies and in the large cap companies."
+  },
+  {
+    "start": "00:08:29.510",
+    "end": "00:08:29.520",
+    "start_seconds": 509.51,
+    "end_seconds": 509.52,
+    "text": "in the large cap companies."
+  },
+  {
+    "start": "00:08:29.520",
+    "end": "00:08:31.830",
+    "start_seconds": 509.52,
+    "end_seconds": 511.83,
+    "text": "in the large cap companies. One of the questions we haven't examined"
+  },
+  {
+    "start": "00:08:31.830",
+    "end": "00:08:31.840",
+    "start_seconds": 511.83,
+    "end_seconds": 511.84,
+    "text": "One of the questions we haven't examined"
+  },
+  {
+    "start": "00:08:31.840",
+    "end": "00:08:34.949",
+    "start_seconds": 511.84,
+    "end_seconds": 514.949,
+    "text": "One of the questions we haven't examined in this session and perhaps for a reason"
+  },
+  {
+    "start": "00:08:34.949",
+    "end": "00:08:34.959",
+    "start_seconds": 514.949,
+    "end_seconds": 514.9590000000001,
+    "text": "in this session and perhaps for a reason"
+  },
+  {
+    "start": "00:08:34.959",
+    "end": "00:08:37.350",
+    "start_seconds": 514.9590000000001,
+    "end_seconds": 517.35,
+    "text": "in this session and perhaps for a reason is almost all of the research on insider"
+  },
+  {
+    "start": "00:08:37.350",
+    "end": "00:08:37.360",
+    "start_seconds": 517.35,
+    "end_seconds": 517.36,
+    "text": "is almost all of the research on insider"
+  },
+  {
+    "start": "00:08:37.360",
+    "end": "00:08:41.110",
+    "start_seconds": 517.36,
+    "end_seconds": 521.11,
+    "text": "is almost all of the research on insider trading is on insiders who report"
+  },
+  {
+    "start": "00:08:41.110",
+    "end": "00:08:41.120",
+    "start_seconds": 521.11,
+    "end_seconds": 521.12,
+    "text": "trading is on insiders who report"
+  },
+  {
+    "start": "00:08:41.120",
+    "end": "00:08:43.750",
+    "start_seconds": 521.12,
+    "end_seconds": 523.75,
+    "text": "trading is on insiders who report the insiders who report to the SEC are"
+  },
+  {
+    "start": "00:08:43.750",
+    "end": "00:08:43.760",
+    "start_seconds": 523.75,
+    "end_seconds": 523.76,
+    "text": "the insiders who report to the SEC are"
+  },
+  {
+    "start": "00:08:43.760",
+    "end": "00:08:45.910",
+    "start_seconds": 523.76,
+    "end_seconds": 525.91,
+    "text": "the insiders who report to the SEC are the insiders who follow the law. don't"
+  },
+  {
+    "start": "00:08:45.910",
+    "end": "00:08:45.920",
+    "start_seconds": 525.91,
+    "end_seconds": 525.92,
+    "text": "the insiders who follow the law. don't"
+  },
+  {
+    "start": "00:08:45.920",
+    "end": "00:08:48.470",
+    "start_seconds": 525.92,
+    "end_seconds": 528.47,
+    "text": "the insiders who follow the law. don't trade ahead of information."
+  },
+  {
+    "start": "00:08:48.470",
+    "end": "00:08:48.480",
+    "start_seconds": 528.47,
+    "end_seconds": 528.48,
+    "text": "trade ahead of information."
+  },
+  {
+    "start": "00:08:48.480",
+    "end": "00:08:50.389",
+    "start_seconds": 528.48,
+    "end_seconds": 530.389,
+    "text": "trade ahead of information. But inside of trading which is illegal"
+  },
+  {
+    "start": "00:08:50.389",
+    "end": "00:08:50.399",
+    "start_seconds": 530.389,
+    "end_seconds": 530.399,
+    "text": "But inside of trading which is illegal"
+  },
+  {
+    "start": "00:08:50.399",
+    "end": "00:08:53.110",
+    "start_seconds": 530.399,
+    "end_seconds": 533.11,
+    "text": "But inside of trading which is illegal is not going to get reported to the SEC"
+  },
+  {
+    "start": "00:08:53.110",
+    "end": "00:08:53.120",
+    "start_seconds": 533.11,
+    "end_seconds": 533.12,
+    "text": "is not going to get reported to the SEC"
+  },
+  {
+    "start": "00:08:53.120",
+    "end": "00:08:55.509",
+    "start_seconds": 533.12,
+    "end_seconds": 535.509,
+    "text": "is not going to get reported to the SEC and we know conclusively that that kind"
+  },
+  {
+    "start": "00:08:55.509",
+    "end": "00:08:55.519",
+    "start_seconds": 535.509,
+    "end_seconds": 535.519,
+    "text": "and we know conclusively that that kind"
+  },
+  {
+    "start": "00:08:55.519",
+    "end": "00:08:57.190",
+    "start_seconds": 535.519,
+    "end_seconds": 537.19,
+    "text": "and we know conclusively that that kind of trading"
+  },
+  {
+    "start": "00:08:57.190",
+    "end": "00:08:57.200",
+    "start_seconds": 537.19,
+    "end_seconds": 537.2,
+    "text": "of trading"
+  },
+  {
+    "start": "00:08:57.200",
+    "end": "00:08:59.509",
+    "start_seconds": 537.2,
+    "end_seconds": 539.509,
+    "text": "of trading you know that your company's going to be"
+  },
+  {
+    "start": "00:08:59.509",
+    "end": "00:08:59.519",
+    "start_seconds": 539.509,
+    "end_seconds": 539.519,
+    "text": "you know that your company's going to be"
+  },
+  {
+    "start": "00:08:59.519",
+    "end": "00:09:02.470",
+    "start_seconds": 539.519,
+    "end_seconds": 542.47,
+    "text": "you know that your company's going to be targeting an acquisition in a couple of"
+  },
+  {
+    "start": "00:09:02.470",
+    "end": "00:09:02.480",
+    "start_seconds": 542.47,
+    "end_seconds": 542.48,
+    "text": "targeting an acquisition in a couple of"
+  },
+  {
+    "start": "00:09:02.480",
+    "end": "00:09:05.829",
+    "start_seconds": 542.48,
+    "end_seconds": 545.829,
+    "text": "targeting an acquisition in a couple of weeks and you find a way to trade a"
+  },
+  {
+    "start": "00:09:05.829",
+    "end": "00:09:05.839",
+    "start_seconds": 545.829,
+    "end_seconds": 545.839,
+    "text": "weeks and you find a way to trade a"
+  },
+  {
+    "start": "00:09:05.839",
+    "end": "00:09:08.870",
+    "start_seconds": 545.839,
+    "end_seconds": 548.87,
+    "text": "weeks and you find a way to trade a ahead as the investor in that target"
+  },
+  {
+    "start": "00:09:08.870",
+    "end": "00:09:08.880",
+    "start_seconds": 548.87,
+    "end_seconds": 548.88,
+    "text": "ahead as the investor in that target"
+  },
+  {
+    "start": "00:09:08.880",
+    "end": "00:09:10.710",
+    "start_seconds": 548.88,
+    "end_seconds": 550.71,
+    "text": "ahead as the investor in that target company in the two weeks before you're"
+  },
+  {
+    "start": "00:09:10.710",
+    "end": "00:09:10.720",
+    "start_seconds": 550.71,
+    "end_seconds": 550.72,
+    "text": "company in the two weeks before you're"
+  },
+  {
+    "start": "00:09:10.720",
+    "end": "00:09:13.110",
+    "start_seconds": 550.72,
+    "end_seconds": 553.11,
+    "text": "company in the two weeks before you're going to make a ton of money. It is"
+  },
+  {
+    "start": "00:09:13.110",
+    "end": "00:09:13.120",
+    "start_seconds": 553.11,
+    "end_seconds": 553.12,
+    "text": "going to make a ton of money. It is"
+  },
+  {
+    "start": "00:09:13.120",
+    "end": "00:09:14.870",
+    "start_seconds": 553.12,
+    "end_seconds": 554.87,
+    "text": "going to make a ton of money. It is pervasive. [clears throat] And the"
+  },
+  {
+    "start": "00:09:14.870",
+    "end": "00:09:14.880",
+    "start_seconds": 554.87,
+    "end_seconds": 554.88,
+    "text": "pervasive. [clears throat] And the"
+  },
+  {
+    "start": "00:09:14.880",
+    "end": "00:09:17.430",
+    "start_seconds": 554.88,
+    "end_seconds": 557.43,
+    "text": "pervasive. [clears throat] And the reason we know it's pervasive is because"
+  },
+  {
+    "start": "00:09:17.430",
+    "end": "00:09:17.440",
+    "start_seconds": 557.43,
+    "end_seconds": 557.44,
+    "text": "reason we know it's pervasive is because"
+  },
+  {
+    "start": "00:09:17.440",
+    "end": "00:09:19.190",
+    "start_seconds": 557.44,
+    "end_seconds": 559.19,
+    "text": "reason we know it's pervasive is because before big announcements, and we'll come"
+  },
+  {
+    "start": "00:09:19.190",
+    "end": "00:09:19.200",
+    "start_seconds": 559.19,
+    "end_seconds": 559.2,
+    "text": "before big announcements, and we'll come"
+  },
+  {
+    "start": "00:09:19.200",
+    "end": "00:09:20.630",
+    "start_seconds": 559.2,
+    "end_seconds": 560.63,
+    "text": "before big announcements, and we'll come back and talk about in the context of"
+  },
+  {
+    "start": "00:09:20.630",
+    "end": "00:09:20.640",
+    "start_seconds": 560.63,
+    "end_seconds": 560.64,
+    "text": "back and talk about in the context of"
+  },
+  {
+    "start": "00:09:20.640",
+    "end": "00:09:22.790",
+    "start_seconds": 560.64,
+    "end_seconds": 562.79,
+    "text": "back and talk about in the context of acquisition, there's a drift in the"
+  },
+  {
+    "start": "00:09:22.790",
+    "end": "00:09:22.800",
+    "start_seconds": 562.79,
+    "end_seconds": 562.8,
+    "text": "acquisition, there's a drift in the"
+  },
+  {
+    "start": "00:09:22.800",
+    "end": "00:09:24.949",
+    "start_seconds": 562.8,
+    "end_seconds": 564.949,
+    "text": "acquisition, there's a drift in the price. So if it's a good news"
+  },
+  {
+    "start": "00:09:24.949",
+    "end": "00:09:24.959",
+    "start_seconds": 564.949,
+    "end_seconds": 564.959,
+    "text": "price. So if it's a good news"
+  },
+  {
+    "start": "00:09:24.959",
+    "end": "00:09:27.269",
+    "start_seconds": 564.959,
+    "end_seconds": 567.269,
+    "text": "price. So if it's a good news announcement, the price starts to drift"
+  },
+  {
+    "start": "00:09:27.269",
+    "end": "00:09:27.279",
+    "start_seconds": 567.269,
+    "end_seconds": 567.279,
+    "text": "announcement, the price starts to drift"
+  },
+  {
+    "start": "00:09:27.279",
+    "end": "00:09:29.509",
+    "start_seconds": 567.279,
+    "end_seconds": 569.509,
+    "text": "announcement, the price starts to drift up before the actual public"
+  },
+  {
+    "start": "00:09:29.509",
+    "end": "00:09:29.519",
+    "start_seconds": 569.509,
+    "end_seconds": 569.519,
+    "text": "up before the actual public"
+  },
+  {
+    "start": "00:09:29.519",
+    "end": "00:09:32.310",
+    "start_seconds": 569.519,
+    "end_seconds": 572.31,
+    "text": "up before the actual public announcement. I'm cynical. That tells me"
+  },
+  {
+    "start": "00:09:32.310",
+    "end": "00:09:32.320",
+    "start_seconds": 572.31,
+    "end_seconds": 572.32,
+    "text": "announcement. I'm cynical. That tells me"
+  },
+  {
+    "start": "00:09:32.320",
+    "end": "00:09:34.150",
+    "start_seconds": 572.32,
+    "end_seconds": 574.15,
+    "text": "announcement. I'm cynical. That tells me that there are people trading out there."
+  },
+  {
+    "start": "00:09:34.150",
+    "end": "00:09:34.160",
+    "start_seconds": 574.15,
+    "end_seconds": 574.16,
+    "text": "that there are people trading out there."
+  },
+  {
+    "start": "00:09:34.160",
+    "end": "00:09:37.750",
+    "start_seconds": 574.16,
+    "end_seconds": 577.75,
+    "text": "that there are people trading out there. So illegal insider trading clearly makes"
+  },
+  {
+    "start": "00:09:37.750",
+    "end": "00:09:37.760",
+    "start_seconds": 577.75,
+    "end_seconds": 577.76,
+    "text": "So illegal insider trading clearly makes"
+  },
+  {
+    "start": "00:09:37.760",
+    "end": "00:09:40.230",
+    "start_seconds": 577.76,
+    "end_seconds": 580.23,
+    "text": "So illegal insider trading clearly makes money. But perhaps the risk you got to"
+  },
+  {
+    "start": "00:09:40.230",
+    "end": "00:09:40.240",
+    "start_seconds": 580.23,
+    "end_seconds": 580.24,
+    "text": "money. But perhaps the risk you got to"
+  },
+  {
+    "start": "00:09:40.240",
+    "end": "00:09:43.110",
+    "start_seconds": 580.24,
+    "end_seconds": 583.11,
+    "text": "money. But perhaps the risk you got to factor in there is you could get caught."
+  },
+  {
+    "start": "00:09:43.110",
+    "end": "00:09:43.120",
+    "start_seconds": 583.11,
+    "end_seconds": 583.12,
+    "text": "factor in there is you could get caught."
+  },
+  {
+    "start": "00:09:43.120",
+    "end": "00:09:45.590",
+    "start_seconds": 583.12,
+    "end_seconds": 585.59,
+    "text": "factor in there is you could get caught. And if you're trading on an illegal"
+  },
+  {
+    "start": "00:09:45.590",
+    "end": "00:09:45.600",
+    "start_seconds": 585.59,
+    "end_seconds": 585.6,
+    "text": "And if you're trading on an illegal"
+  },
+  {
+    "start": "00:09:45.600",
+    "end": "00:09:47.990",
+    "start_seconds": 585.6,
+    "end_seconds": 587.99,
+    "text": "And if you're trading on an illegal insider information, timing is key,"
+  },
+  {
+    "start": "00:09:47.990",
+    "end": "00:09:48.000",
+    "start_seconds": 587.99,
+    "end_seconds": 588.0,
+    "text": "insider information, timing is key,"
+  },
+  {
+    "start": "00:09:48.000",
+    "end": "00:09:49.509",
+    "start_seconds": 588.0,
+    "end_seconds": 589.509,
+    "text": "insider information, timing is key, right? You got to get in at the right"
+  },
+  {
+    "start": "00:09:49.509",
+    "end": "00:09:49.519",
+    "start_seconds": 589.509,
+    "end_seconds": 589.519,
+    "text": "right? You got to get in at the right"
+  },
+  {
+    "start": "00:09:49.519",
+    "end": "00:09:52.150",
+    "start_seconds": 589.519,
+    "end_seconds": 592.15,
+    "text": "right? You got to get in at the right time, get out at the right time. So"
+  },
+  {
+    "start": "00:09:52.150",
+    "end": "00:09:52.160",
+    "start_seconds": 592.15,
+    "end_seconds": 592.16,
+    "text": "time, get out at the right time. So"
+  },
+  {
+    "start": "00:09:52.160",
+    "end": "00:09:54.230",
+    "start_seconds": 592.16,
+    "end_seconds": 594.23,
+    "text": "time, get out at the right time. So essentially with insider trading, as"
+  },
+  {
+    "start": "00:09:54.230",
+    "end": "00:09:54.240",
+    "start_seconds": 594.23,
+    "end_seconds": 594.24,
+    "text": "essentially with insider trading, as"
+  },
+  {
+    "start": "00:09:54.240",
+    "end": "00:09:57.110",
+    "start_seconds": 594.24,
+    "end_seconds": 597.11,
+    "text": "essentially with insider trading, as with every other information aspect of"
+  },
+  {
+    "start": "00:09:57.110",
+    "end": "00:09:57.120",
+    "start_seconds": 597.11,
+    "end_seconds": 597.12,
+    "text": "with every other information aspect of"
+  },
+  {
+    "start": "00:09:57.120",
+    "end": "00:09:59.829",
+    "start_seconds": 597.12,
+    "end_seconds": 599.829,
+    "text": "with every other information aspect of information trading, that aspect of when"
+  },
+  {
+    "start": "00:09:59.829",
+    "end": "00:09:59.839",
+    "start_seconds": 599.829,
+    "end_seconds": 599.8389999999999,
+    "text": "information trading, that aspect of when"
+  },
+  {
+    "start": "00:09:59.839",
+    "end": "00:10:01.269",
+    "start_seconds": 599.8389999999999,
+    "end_seconds": 601.269,
+    "text": "information trading, that aspect of when you get in and when you get out might"
+  },
+  {
+    "start": "00:10:01.269",
+    "end": "00:10:01.279",
+    "start_seconds": 601.269,
+    "end_seconds": 601.279,
+    "text": "you get in and when you get out might"
+  },
+  {
+    "start": "00:10:01.279",
+    "end": "00:10:02.949",
+    "start_seconds": 601.279,
+    "end_seconds": 602.949,
+    "text": "you get in and when you get out might determine whether you can make money on"
+  },
+  {
+    "start": "00:10:02.949",
+    "end": "00:10:02.959",
+    "start_seconds": 602.949,
+    "end_seconds": 602.959,
+    "text": "determine whether you can make money on"
+  },
+  {
+    "start": "00:10:02.959",
+    "end": "00:10:04.870",
+    "start_seconds": 602.959,
+    "end_seconds": 604.87,
+    "text": "determine whether you can make money on the trading. So let's summarize what we"
+  },
+  {
+    "start": "00:10:04.870",
+    "end": "00:10:04.880",
+    "start_seconds": 604.87,
+    "end_seconds": 604.88,
+    "text": "the trading. So let's summarize what we"
+  },
+  {
+    "start": "00:10:04.880",
+    "end": "00:10:08.070",
+    "start_seconds": 604.88,
+    "end_seconds": 608.07,
+    "text": "the trading. So let's summarize what we know about insiders. In the US for"
+  },
+  {
+    "start": "00:10:08.070",
+    "end": "00:10:08.080",
+    "start_seconds": 608.07,
+    "end_seconds": 608.08,
+    "text": "know about insiders. In the US for"
+  },
+  {
+    "start": "00:10:08.080",
+    "end": "00:10:11.350",
+    "start_seconds": 608.08,
+    "end_seconds": 611.35,
+    "text": "know about insiders. In the US for decades now insider trading if you trade"
+  },
+  {
+    "start": "00:10:11.350",
+    "end": "00:10:11.360",
+    "start_seconds": 611.35,
+    "end_seconds": 611.36,
+    "text": "decades now insider trading if you trade"
+  },
+  {
+    "start": "00:10:11.360",
+    "end": "00:10:13.509",
+    "start_seconds": 611.36,
+    "end_seconds": 613.509,
+    "text": "decades now insider trading if you trade ahead of information is illegal but if"
+  },
+  {
+    "start": "00:10:13.509",
+    "end": "00:10:13.519",
+    "start_seconds": 613.509,
+    "end_seconds": 613.519,
+    "text": "ahead of information is illegal but if"
+  },
+  {
+    "start": "00:10:13.519",
+    "end": "00:10:16.630",
+    "start_seconds": 613.519,
+    "end_seconds": 616.63,
+    "text": "ahead of information is illegal but if you trade just based on general views on"
+  },
+  {
+    "start": "00:10:16.630",
+    "end": "00:10:16.640",
+    "start_seconds": 616.63,
+    "end_seconds": 616.64,
+    "text": "you trade just based on general views on"
+  },
+  {
+    "start": "00:10:16.640",
+    "end": "00:10:18.870",
+    "start_seconds": 616.64,
+    "end_seconds": 618.87,
+    "text": "you trade just based on general views on a company you can buy and sell companies"
+  },
+  {
+    "start": "00:10:18.870",
+    "end": "00:10:18.880",
+    "start_seconds": 618.87,
+    "end_seconds": 618.88,
+    "text": "a company you can buy and sell companies"
+  },
+  {
+    "start": "00:10:18.880",
+    "end": "00:10:20.710",
+    "start_seconds": 618.88,
+    "end_seconds": 620.71,
+    "text": "a company you can buy and sell companies and you got to file that you've done"
+  },
+  {
+    "start": "00:10:20.710",
+    "end": "00:10:20.720",
+    "start_seconds": 620.71,
+    "end_seconds": 620.72,
+    "text": "and you got to file that you've done"
+  },
+  {
+    "start": "00:10:20.720",
+    "end": "00:10:23.030",
+    "start_seconds": 620.72,
+    "end_seconds": 623.03,
+    "text": "and you got to file that you've done that with the SEC the SEC makes it"
+  },
+  {
+    "start": "00:10:23.030",
+    "end": "00:10:23.040",
+    "start_seconds": 623.03,
+    "end_seconds": 623.04,
+    "text": "that with the SEC the SEC makes it"
+  },
+  {
+    "start": "00:10:23.040",
+    "end": "00:10:25.750",
+    "start_seconds": 623.04,
+    "end_seconds": 625.75,
+    "text": "that with the SEC the SEC makes it public the research is mixed if you look"
+  },
+  {
+    "start": "00:10:25.750",
+    "end": "00:10:25.760",
+    "start_seconds": 625.75,
+    "end_seconds": 625.76,
+    "text": "public the research is mixed if you look"
+  },
+  {
+    "start": "00:10:25.760",
+    "end": "00:10:28.230",
+    "start_seconds": 625.76,
+    "end_seconds": 628.23,
+    "text": "public the research is mixed if you look at the you know whether there's a drift"
+  },
+  {
+    "start": "00:10:28.230",
+    "end": "00:10:28.240",
+    "start_seconds": 628.23,
+    "end_seconds": 628.24,
+    "text": "at the you know whether there's a drift"
+  },
+  {
+    "start": "00:10:28.240",
+    "end": "00:10:31.670",
+    "start_seconds": 628.24,
+    "end_seconds": 631.67,
+    "text": "at the you know whether there's a drift in the price at least in the across in"
+  },
+  {
+    "start": "00:10:31.670",
+    "end": "00:10:31.680",
+    "start_seconds": 631.67,
+    "end_seconds": 631.68,
+    "text": "in the price at least in the across in"
+  },
+  {
+    "start": "00:10:31.680",
+    "end": "00:10:33.829",
+    "start_seconds": 631.68,
+    "end_seconds": 633.829,
+    "text": "in the price at least in the across in the cross-section it looks like insider"
+  },
+  {
+    "start": "00:10:33.829",
+    "end": "00:10:33.839",
+    "start_seconds": 633.829,
+    "end_seconds": 633.8389999999999,
+    "text": "the cross-section it looks like insider"
+  },
+  {
+    "start": "00:10:33.839",
+    "end": "00:10:36.630",
+    "start_seconds": 633.8389999999999,
+    "end_seconds": 636.63,
+    "text": "the cross-section it looks like insider buying is you know followed by company"
+  },
+  {
+    "start": "00:10:36.630",
+    "end": "00:10:36.640",
+    "start_seconds": 636.63,
+    "end_seconds": 636.64,
+    "text": "buying is you know followed by company"
+  },
+  {
+    "start": "00:10:36.640",
+    "end": "00:10:39.110",
+    "start_seconds": 636.64,
+    "end_seconds": 639.11,
+    "text": "buying is you know followed by company stock prices going up and insiders"
+  },
+  {
+    "start": "00:10:39.110",
+    "end": "00:10:39.120",
+    "start_seconds": 639.11,
+    "end_seconds": 639.12,
+    "text": "stock prices going up and insiders"
+  },
+  {
+    "start": "00:10:39.120",
+    "end": "00:10:41.350",
+    "start_seconds": 639.12,
+    "end_seconds": 641.35,
+    "text": "stock prices going up and insiders selling by company stock prices going"
+  },
+  {
+    "start": "00:10:41.350",
+    "end": "00:10:41.360",
+    "start_seconds": 641.35,
+    "end_seconds": 641.36,
+    "text": "selling by company stock prices going"
+  },
+  {
+    "start": "00:10:41.360",
+    "end": "00:10:44.230",
+    "start_seconds": 641.36,
+    "end_seconds": 644.23,
+    "text": "selling by company stock prices going down but as outsiders you might not be"
+  },
+  {
+    "start": "00:10:44.230",
+    "end": "00:10:44.240",
+    "start_seconds": 644.23,
+    "end_seconds": 644.24,
+    "text": "down but as outsiders you might not be"
+  },
+  {
+    "start": "00:10:44.240",
+    "end": "00:10:45.990",
+    "start_seconds": 644.24,
+    "end_seconds": 645.99,
+    "text": "down but as outsiders you might not be able to make money on it because by the"
+  },
+  {
+    "start": "00:10:45.990",
+    "end": "00:10:46.000",
+    "start_seconds": 645.99,
+    "end_seconds": 646.0,
+    "text": "able to make money on it because by the"
+  },
+  {
+    "start": "00:10:46.000",
+    "end": "00:10:48.150",
+    "start_seconds": 646.0,
+    "end_seconds": 648.15,
+    "text": "able to make money on it because by the time that information becomes public"
+  },
+  {
+    "start": "00:10:48.150",
+    "end": "00:10:48.160",
+    "start_seconds": 648.15,
+    "end_seconds": 648.16,
+    "text": "time that information becomes public"
+  },
+  {
+    "start": "00:10:48.160",
+    "end": "00:10:50.389",
+    "start_seconds": 648.16,
+    "end_seconds": 650.389,
+    "text": "time that information becomes public almost all of the effect is incorporated"
+  },
+  {
+    "start": "00:10:50.389",
+    "end": "00:10:50.399",
+    "start_seconds": 650.389,
+    "end_seconds": 650.399,
+    "text": "almost all of the effect is incorporated"
+  },
+  {
+    "start": "00:10:50.399",
+    "end": "00:10:53.030",
+    "start_seconds": 650.399,
+    "end_seconds": 653.03,
+    "text": "almost all of the effect is incorporated in the price as for illegal insider"
+  },
+  {
+    "start": "00:10:53.030",
+    "end": "00:10:53.040",
+    "start_seconds": 653.03,
+    "end_seconds": 653.04,
+    "text": "in the price as for illegal insider"
+  },
+  {
+    "start": "00:10:53.040",
+    "end": "00:10:56.230",
+    "start_seconds": 653.04,
+    "end_seconds": 656.23,
+    "text": "in the price as for illegal insider trading all bets are off those guys make"
+  },
+  {
+    "start": "00:10:56.230",
+    "end": "00:10:56.240",
+    "start_seconds": 656.23,
+    "end_seconds": 656.24,
+    "text": "trading all bets are off those guys make"
+  },
+  {
+    "start": "00:10:56.240",
+    "end": "00:10:59.030",
+    "start_seconds": 656.24,
+    "end_seconds": 659.03,
+    "text": "trading all bets are off those guys make money but since it's illegal there is"
+  },
+  {
+    "start": "00:10:59.030",
+    "end": "00:10:59.040",
+    "start_seconds": 659.03,
+    "end_seconds": 659.04,
+    "text": "money but since it's illegal there is"
+  },
+  {
+    "start": "00:10:59.040",
+    "end": "00:11:01.110",
+    "start_seconds": 659.04,
+    "end_seconds": 661.11,
+    "text": "money but since it's illegal there is going to be no SEC filing and it's going"
+  },
+  {
+    "start": "00:11:01.110",
+    "end": "00:11:01.120",
+    "start_seconds": 661.11,
+    "end_seconds": 661.12,
+    "text": "going to be no SEC filing and it's going"
+  },
+  {
+    "start": "00:11:01.120",
+    "end": "00:11:03.590",
+    "start_seconds": 661.12,
+    "end_seconds": 663.59,
+    "text": "going to be no SEC filing and it's going to be difficult for outsiders to track"
+  },
+  {
+    "start": "00:11:03.590",
+    "end": "00:11:03.600",
+    "start_seconds": 663.59,
+    "end_seconds": 663.6,
+    "text": "to be difficult for outsiders to track"
+  },
+  {
+    "start": "00:11:03.600",
+    "end": "00:11:06.230",
+    "start_seconds": 663.6,
+    "end_seconds": 666.23,
+    "text": "to be difficult for outsiders to track that it's happening with a caveat which"
+  },
+  {
+    "start": "00:11:06.230",
+    "end": "00:11:06.240",
+    "start_seconds": 666.23,
+    "end_seconds": 666.24,
+    "text": "that it's happening with a caveat which"
+  },
+  {
+    "start": "00:11:06.240",
+    "end": "00:11:08.710",
+    "start_seconds": 666.24,
+    "end_seconds": 668.71,
+    "text": "that it's happening with a caveat which is you might be able to guess there's"
+  },
+  {
+    "start": "00:11:08.710",
+    "end": "00:11:08.720",
+    "start_seconds": 668.71,
+    "end_seconds": 668.72,
+    "text": "is you might be able to guess there's"
+  },
+  {
+    "start": "00:11:08.720",
+    "end": "00:11:10.630",
+    "start_seconds": 668.72,
+    "end_seconds": 670.63,
+    "text": "is you might be able to guess there's outsider there's illegal trading going"
+  },
+  {
+    "start": "00:11:10.630",
+    "end": "00:11:10.640",
+    "start_seconds": 670.63,
+    "end_seconds": 670.64,
+    "text": "outsider there's illegal trading going"
+  },
+  {
+    "start": "00:11:10.640",
+    "end": "00:11:13.269",
+    "start_seconds": 670.64,
+    "end_seconds": 673.269,
+    "text": "outsider there's illegal trading going on by looking at trading volume or"
+  },
+  {
+    "start": "00:11:13.269",
+    "end": "00:11:13.279",
+    "start_seconds": 673.269,
+    "end_seconds": 673.279,
+    "text": "on by looking at trading volume or"
+  },
+  {
+    "start": "00:11:13.279",
+    "end": "00:11:16.310",
+    "start_seconds": 673.279,
+    "end_seconds": 676.31,
+    "text": "on by looking at trading volume or looking at action in the options markets"
+  },
+  {
+    "start": "00:11:16.310",
+    "end": "00:11:16.320",
+    "start_seconds": 676.31,
+    "end_seconds": 676.32,
+    "text": "looking at action in the options markets"
+  },
+  {
+    "start": "00:11:16.320",
+    "end": "00:11:18.310",
+    "start_seconds": 676.32,
+    "end_seconds": 678.31,
+    "text": "looking at action in the options markets because that's where illegal insiders"
+  },
+  {
+    "start": "00:11:18.310",
+    "end": "00:11:18.320",
+    "start_seconds": 678.31,
+    "end_seconds": 678.32,
+    "text": "because that's where illegal insiders"
+  },
+  {
+    "start": "00:11:18.320",
+    "end": "00:11:21.509",
+    "start_seconds": 678.32,
+    "end_seconds": 681.509,
+    "text": "because that's where illegal insiders will go to trade. One final point, there"
+  },
+  {
+    "start": "00:11:21.509",
+    "end": "00:11:21.519",
+    "start_seconds": 681.509,
+    "end_seconds": 681.519,
+    "text": "will go to trade. One final point, there"
+  },
+  {
+    "start": "00:11:21.519",
+    "end": "00:11:23.269",
+    "start_seconds": 681.519,
+    "end_seconds": 683.269,
+    "text": "will go to trade. One final point, there are markets out there now the"
+  },
+  {
+    "start": "00:11:23.269",
+    "end": "00:11:23.279",
+    "start_seconds": 683.269,
+    "end_seconds": 683.279,
+    "text": "are markets out there now the"
+  },
+  {
+    "start": "00:11:23.279",
+    "end": "00:11:25.430",
+    "start_seconds": 683.279,
+    "end_seconds": 685.43,
+    "text": "are markets out there now the geographies are the countries where"
+  },
+  {
+    "start": "00:11:25.430",
+    "end": "00:11:25.440",
+    "start_seconds": 685.43,
+    "end_seconds": 685.44,
+    "text": "geographies are the countries where"
+  },
+  {
+    "start": "00:11:25.440",
+    "end": "00:11:27.590",
+    "start_seconds": 685.44,
+    "end_seconds": 687.59,
+    "text": "geographies are the countries where managers and insiders are allowed to not"
+  },
+  {
+    "start": "00:11:27.590",
+    "end": "00:11:27.600",
+    "start_seconds": 687.59,
+    "end_seconds": 687.6,
+    "text": "managers and insiders are allowed to not"
+  },
+  {
+    "start": "00:11:27.600",
+    "end": "00:11:29.670",
+    "start_seconds": 687.6,
+    "end_seconds": 689.67,
+    "text": "managers and insiders are allowed to not just trade but to provide information to"
+  },
+  {
+    "start": "00:11:29.670",
+    "end": "00:11:29.680",
+    "start_seconds": 689.67,
+    "end_seconds": 689.68,
+    "text": "just trade but to provide information to"
+  },
+  {
+    "start": "00:11:29.680",
+    "end": "00:11:32.230",
+    "start_seconds": 689.68,
+    "end_seconds": 692.23,
+    "text": "just trade but to provide information to a subset of outside investors, analysts,"
+  },
+  {
+    "start": "00:11:32.230",
+    "end": "00:11:32.240",
+    "start_seconds": 692.23,
+    "end_seconds": 692.24,
+    "text": "a subset of outside investors, analysts,"
+  },
+  {
+    "start": "00:11:32.240",
+    "end": "00:11:35.590",
+    "start_seconds": 692.24,
+    "end_seconds": 695.59,
+    "text": "a subset of outside investors, analysts, institutions in those in those markets"
+  },
+  {
+    "start": "00:11:35.590",
+    "end": "00:11:35.600",
+    "start_seconds": 695.59,
+    "end_seconds": 695.6,
+    "text": "institutions in those in those markets"
+  },
+  {
+    "start": "00:11:35.600",
+    "end": "00:11:38.470",
+    "start_seconds": 695.6,
+    "end_seconds": 698.47,
+    "text": "institutions in those in those markets those investors have an advantage over"
+  },
+  {
+    "start": "00:11:38.470",
+    "end": "00:11:38.480",
+    "start_seconds": 698.47,
+    "end_seconds": 698.48,
+    "text": "those investors have an advantage over"
+  },
+  {
+    "start": "00:11:38.480",
+    "end": "00:11:41.190",
+    "start_seconds": 698.48,
+    "end_seconds": 701.19,
+    "text": "those investors have an advantage over the rest of us. The downside is though"
+  },
+  {
+    "start": "00:11:41.190",
+    "end": "00:11:41.200",
+    "start_seconds": 701.19,
+    "end_seconds": 701.2,
+    "text": "the rest of us. The downside is though"
+  },
+  {
+    "start": "00:11:41.200",
+    "end": "00:11:43.350",
+    "start_seconds": 701.2,
+    "end_seconds": 703.35,
+    "text": "the rest of us. The downside is though by giving that advantage and excess"
+  },
+  {
+    "start": "00:11:43.350",
+    "end": "00:11:43.360",
+    "start_seconds": 703.35,
+    "end_seconds": 703.36,
+    "text": "by giving that advantage and excess"
+  },
+  {
+    "start": "00:11:43.360",
+    "end": "00:11:45.670",
+    "start_seconds": 703.36,
+    "end_seconds": 705.67,
+    "text": "by giving that advantage and excess return you create the perception and the"
+  },
+  {
+    "start": "00:11:45.670",
+    "end": "00:11:45.680",
+    "start_seconds": 705.67,
+    "end_seconds": 705.68,
+    "text": "return you create the perception and the"
+  },
+  {
+    "start": "00:11:45.680",
+    "end": "00:11:47.590",
+    "start_seconds": 705.68,
+    "end_seconds": 707.59,
+    "text": "return you create the perception and the perception is based on a reality that"
+  },
+  {
+    "start": "00:11:47.590",
+    "end": "00:11:47.600",
+    "start_seconds": 707.59,
+    "end_seconds": 707.6,
+    "text": "perception is based on a reality that"
+  },
+  {
+    "start": "00:11:47.600",
+    "end": "00:11:49.590",
+    "start_seconds": 707.6,
+    "end_seconds": 709.59,
+    "text": "perception is based on a reality that markets are not fair. What that"
+  },
+  {
+    "start": "00:11:49.590",
+    "end": "00:11:49.600",
+    "start_seconds": 709.59,
+    "end_seconds": 709.6,
+    "text": "markets are not fair. What that"
+  },
+  {
+    "start": "00:11:49.600",
+    "end": "00:11:51.750",
+    "start_seconds": 709.6,
+    "end_seconds": 711.75,
+    "text": "markets are not fair. What that effectively does does is it means"
+  },
+  {
+    "start": "00:11:51.750",
+    "end": "00:11:51.760",
+    "start_seconds": 711.75,
+    "end_seconds": 711.76,
+    "text": "effectively does does is it means"
+  },
+  {
+    "start": "00:11:51.760",
+    "end": "00:11:53.990",
+    "start_seconds": 711.76,
+    "end_seconds": 713.99,
+    "text": "effectively does does is it means outside investors are less willing to"
+  },
+  {
+    "start": "00:11:53.990",
+    "end": "00:11:54.000",
+    "start_seconds": 713.99,
+    "end_seconds": 714.0,
+    "text": "outside investors are less willing to"
+  },
+  {
+    "start": "00:11:54.000",
+    "end": "00:11:56.710",
+    "start_seconds": 714.0,
+    "end_seconds": 716.71,
+    "text": "outside investors are less willing to partake in those markets. So many of"
+  },
+  {
+    "start": "00:11:56.710",
+    "end": "00:11:56.720",
+    "start_seconds": 716.71,
+    "end_seconds": 716.72,
+    "text": "partake in those markets. So many of"
+  },
+  {
+    "start": "00:11:56.720",
+    "end": "00:11:58.389",
+    "start_seconds": 716.72,
+    "end_seconds": 718.389,
+    "text": "partake in those markets. So many of those markets there's a lack of"
+  },
+  {
+    "start": "00:11:58.389",
+    "end": "00:11:58.399",
+    "start_seconds": 718.389,
+    "end_seconds": 718.399,
+    "text": "those markets there's a lack of"
+  },
+  {
+    "start": "00:11:58.399",
+    "end": "00:12:00.470",
+    "start_seconds": 718.399,
+    "end_seconds": 720.47,
+    "text": "those markets there's a lack of liquidity and people compl complain"
+  },
+  {
+    "start": "00:12:00.470",
+    "end": "00:12:00.480",
+    "start_seconds": 720.47,
+    "end_seconds": 720.48,
+    "text": "liquidity and people compl complain"
+  },
+  {
+    "start": "00:12:00.480",
+    "end": "00:12:02.710",
+    "start_seconds": 720.48,
+    "end_seconds": 722.71,
+    "text": "liquidity and people compl complain about the lack of liquidity and people"
+  },
+  {
+    "start": "00:12:02.710",
+    "end": "00:12:02.720",
+    "start_seconds": 722.71,
+    "end_seconds": 722.72,
+    "text": "about the lack of liquidity and people"
+  },
+  {
+    "start": "00:12:02.720",
+    "end": "00:12:04.710",
+    "start_seconds": 722.72,
+    "end_seconds": 724.71,
+    "text": "about the lack of liquidity and people not wanting to participate. But who can"
+  },
+  {
+    "start": "00:12:04.710",
+    "end": "00:12:04.720",
+    "start_seconds": 724.71,
+    "end_seconds": 724.72,
+    "text": "not wanting to participate. But who can"
+  },
+  {
+    "start": "00:12:04.720",
+    "end": "00:12:07.350",
+    "start_seconds": 724.72,
+    "end_seconds": 727.35,
+    "text": "not wanting to participate. But who can blame them? If you've created a game"
+  },
+  {
+    "start": "00:12:07.350",
+    "end": "00:12:07.360",
+    "start_seconds": 727.35,
+    "end_seconds": 727.36,
+    "text": "blame them? If you've created a game"
+  },
+  {
+    "start": "00:12:07.360",
+    "end": "00:12:11.030",
+    "start_seconds": 727.36,
+    "end_seconds": 731.03,
+    "text": "blame them? If you've created a game where you've tilted the game in favor of"
+  },
+  {
+    "start": "00:12:11.030",
+    "end": "00:12:11.040",
+    "start_seconds": 731.03,
+    "end_seconds": 731.04,
+    "text": "where you've tilted the game in favor of"
+  },
+  {
+    "start": "00:12:11.040",
+    "end": "00:12:13.269",
+    "start_seconds": 731.04,
+    "end_seconds": 733.269,
+    "text": "where you've tilted the game in favor of insiders and people who are close to"
+  },
+  {
+    "start": "00:12:13.269",
+    "end": "00:12:13.279",
+    "start_seconds": 733.269,
+    "end_seconds": 733.279,
+    "text": "insiders and people who are close to"
+  },
+  {
+    "start": "00:12:13.279",
+    "end": "00:12:15.509",
+    "start_seconds": 733.279,
+    "end_seconds": 735.509,
+    "text": "insiders and people who are close to insiders, of course outsiders will not"
+  },
+  {
+    "start": "00:12:15.509",
+    "end": "00:12:15.519",
+    "start_seconds": 735.509,
+    "end_seconds": 735.519,
+    "text": "insiders, of course outsiders will not"
+  },
+  {
+    "start": "00:12:15.519",
+    "end": "00:12:18.230",
+    "start_seconds": 735.519,
+    "end_seconds": 738.23,
+    "text": "insiders, of course outsiders will not participate. So as you look across"
+  },
+  {
+    "start": "00:12:18.230",
+    "end": "00:12:18.240",
+    "start_seconds": 738.23,
+    "end_seconds": 738.24,
+    "text": "participate. So as you look across"
+  },
+  {
+    "start": "00:12:18.240",
+    "end": "00:12:20.230",
+    "start_seconds": 738.24,
+    "end_seconds": 740.23,
+    "text": "participate. So as you look across markets, there might be markets where"
+  },
+  {
+    "start": "00:12:20.230",
+    "end": "00:12:20.240",
+    "start_seconds": 740.23,
+    "end_seconds": 740.24,
+    "text": "markets, there might be markets where"
+  },
+  {
+    "start": "00:12:20.240",
+    "end": "00:12:22.710",
+    "start_seconds": 740.24,
+    "end_seconds": 742.71,
+    "text": "markets, there might be markets where inside information is legal for you to"
+  },
+  {
+    "start": "00:12:22.710",
+    "end": "00:12:22.720",
+    "start_seconds": 742.71,
+    "end_seconds": 742.72,
+    "text": "inside information is legal for you to"
+  },
+  {
+    "start": "00:12:22.720",
+    "end": "00:12:24.949",
+    "start_seconds": 742.72,
+    "end_seconds": 744.949,
+    "text": "inside information is legal for you to trade on. And if you can become one of"
+  },
+  {
+    "start": "00:12:24.949",
+    "end": "00:12:24.959",
+    "start_seconds": 744.949,
+    "end_seconds": 744.959,
+    "text": "trade on. And if you can become one of"
+  },
+  {
+    "start": "00:12:24.959",
+    "end": "00:12:27.509",
+    "start_seconds": 744.959,
+    "end_seconds": 747.509,
+    "text": "trade on. And if you can become one of those insiders who can take advantage,"
+  },
+  {
+    "start": "00:12:27.509",
+    "end": "00:12:27.519",
+    "start_seconds": 747.509,
+    "end_seconds": 747.519,
+    "text": "those insiders who can take advantage,"
+  },
+  {
+    "start": "00:12:27.519",
+    "end": "00:12:29.670",
+    "start_seconds": 747.519,
+    "end_seconds": 749.67,
+    "text": "those insiders who can take advantage, all the more power to you. But those are"
+  },
+  {
+    "start": "00:12:29.670",
+    "end": "00:12:29.680",
+    "start_seconds": 749.67,
+    "end_seconds": 749.68,
+    "text": "all the more power to you. But those are"
+  },
+  {
+    "start": "00:12:29.680",
+    "end": "00:12:31.030",
+    "start_seconds": 749.68,
+    "end_seconds": 751.03,
+    "text": "all the more power to you. But those are also going to be markets where your"
+  },
+  {
+    "start": "00:12:31.030",
+    "end": "00:12:31.040",
+    "start_seconds": 751.03,
+    "end_seconds": 751.04,
+    "text": "also going to be markets where your"
+  },
+  {
+    "start": "00:12:31.040",
+    "end": "00:12:32.790",
+    "start_seconds": 751.04,
+    "end_seconds": 752.79,
+    "text": "also going to be markets where your transactions costs are higher. The price"
+  },
+  {
+    "start": "00:12:32.790",
+    "end": "00:12:32.800",
+    "start_seconds": 752.79,
+    "end_seconds": 752.8,
+    "text": "transactions costs are higher. The price"
+  },
+  {
+    "start": "00:12:32.800",
+    "end": "00:12:35.670",
+    "start_seconds": 752.8,
+    "end_seconds": 755.67,
+    "text": "transactions costs are higher. The price impact is going to be much larger. I"
+  },
+  {
+    "start": "00:12:35.670",
+    "end": "00:12:35.680",
+    "start_seconds": 755.67,
+    "end_seconds": 755.68,
+    "text": "impact is going to be much larger. I"
+  },
+  {
+    "start": "00:12:35.680",
+    "end": "00:12:37.590",
+    "start_seconds": 755.68,
+    "end_seconds": 757.59,
+    "text": "impact is going to be much larger. I hope you found the session useful and I"
+  },
+  {
+    "start": "00:12:37.590",
+    "end": "00:12:37.600",
+    "start_seconds": 757.59,
+    "end_seconds": 757.6,
+    "text": "hope you found the session useful and I"
+  },
+  {
+    "start": "00:12:37.600",
+    "end": "00:12:41.760",
+    "start_seconds": 757.6,
+    "end_seconds": 761.76,
+    "text": "hope you found the session useful and I thank you very much for listening."
+  }
+]

@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cross-Course Comparison - Aswath Damodaran Courses Concepts Research</title>
+    <style>
+      :root {
+        --bg: #f4f1ea;
+        --panel: #fffdf8;
+        --panel-alt: #f8f4ed;
+        --ink: #1f1f1b;
+        --muted: #605b52;
+        --line: #d7d0c4;
+        --accent: #0b6b6f;
+        --accent-soft: #d8ecec;
+        --shadow: 0 16px 40px rgba(32, 26, 16, 0.08);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: var(--bg);
+        color: var(--ink);
+        line-height: 1.6;
+      }
+      .page { width: min(1180px, calc(100% - 24px)); margin: 0 auto; padding: 24px 0 56px; }
+      .back {
+        display: inline-flex; align-items: center; min-height: 36px; padding: 0 12px;
+        border: 1px solid var(--line); border-radius: 999px; background: var(--panel);
+        color: var(--muted); text-decoration: none; margin-bottom: 18px;
+      }
+      .hero, .axis, .closeout {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        box-shadow: var(--shadow);
+        padding: 24px;
+      }
+      .eyebrow {
+        display: inline-block; padding: 6px 10px; border-radius: 999px;
+        background: var(--accent-soft); color: var(--accent); font-size: 12px;
+        font-weight: 700; text-transform: uppercase;
+      }
+      h1, h2, h3 { margin: 0; font-weight: 700; }
+      h1 { margin-top: 12px; font-size: clamp(2.1rem, 4vw, 3.3rem); line-height: 1.02; }
+      h2 { font-size: 1.34rem; margin-bottom: 10px; }
+      h3 { font-size: 1rem; margin-bottom: 8px; }
+      p { margin: 0; color: var(--muted); }
+      .lead { color: var(--ink); font-size: 1.05rem; max-width: 76ch; }
+      .meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+      .chip {
+        display: inline-flex; align-items: center; min-height: 30px; padding: 0 10px;
+        border: 1px solid var(--line); border-radius: 999px; background: var(--panel-alt);
+        color: var(--muted); font-size: 0.84rem;
+      }
+      .stack { display: grid; gap: 18px; margin-top: 22px; }
+      .compare {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 16px;
+        margin-top: 16px;
+      }
+      .course-card {
+        padding: 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel-alt);
+      }
+      .course-card a { color: var(--accent); font-weight: 700; text-decoration: none; }
+      ul { margin: 10px 0 0; padding-left: 18px; color: var(--muted); }
+      li + li { margin-top: 8px; }
+      .takeaway {
+        margin-top: 16px;
+        padding: 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #1f2625;
+      }
+      .takeaway p { color: #e5ece7; }
+      .takeaway strong { color: #ffffff; }
+      @media (max-width: 900px) {
+        .compare { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+
+      <a class="back" href="index.html">Back to root index</a>
+      <section class="hero">
+        <span class="eyebrow">Cross-Course Synthesis</span>
+        <h1>Recurring Damodaran Ideas Across Courses</h1>
+        <p class="lead">
+          This page is the current comparison layer across the active Damodaran workspace.
+          It lines up how different courses treat recurring ideas such as financial grammar,
+          risk, valuation, discipline, fit, and narrative.
+        </p>
+        <div class="meta"><span class="chip">Courses compared: 4</span><span class="chip">Foundations of Finance</span><span class="chip">Investment Philosophies 2026</span><span class="chip">Corporate Finance Spring 2025</span><span class="chip">Valuation MBA Spring 2025</span></div>
+      </section>
+
+      <div class="stack">
+
+        <section class="axis">
+          <h2>1. Financial Grammar Before Specialization</h2>
+          <p>Across the active course set, Foundations of Finance does the earliest explanatory work. It introduces the grammar that later courses assume: business structure, cash flows, time, claims, and nominal consistency. The later courses each specialize that grammar into a different decision domain.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../foundations-of-finance/site/index.html">Foundations of Finance</a></h3>
+              <p><strong>Finance as a forward-looking business language</strong></p>
+              <p style="margin-top:8px">Finance is introduced as a way of reading businesses through assets, growth, claims, cash flows, and value through time.</p>
+              <ul><li>Sessions 1-2</li><li>analysis/themes-and-subthemes.json</li><li>site/concepts/finance-is-a-forward-looking-language-of-business.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../investment-philosophies-2026/site/course-thesis.html">Investment Philosophies 2026</a></h3>
+              <p><strong>The grammar becomes an investor worldview</strong></p>
+              <p style="margin-top:8px">The introductory building blocks are turned into competing philosophies about style, temperament, edge, and how an investor should act in markets.</p>
+              <ul><li>Sessions 1-7</li><li>analysis/session-briefs.md</li><li>site/course-thesis.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../corporate-finance-spring-2025/site/index.html">Corporate Finance Spring 2025</a></h3>
+              <p><strong>The grammar becomes managerial decision architecture</strong></p>
+              <p style="margin-top:8px">The same underlying logic is translated into objective function, hurdle rates, project choice, financing mix, debt design, and payout discipline.</p>
+              <ul><li>Sessions 1-25</li><li>analysis/themes.json</li><li>site/index.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/course-thesis.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>The grammar becomes a full valuation language</strong></p>
+              <p style="margin-top:8px">The foundational ideas are tightened into an explicit process for moving from business story to inputs, cash flows, discount rates, terminal value, pricing, optionality, and control.</p>
+              <ul><li>Sessions 1-26</li><li>analysis/themes-and-subthemes.json</li><li>site/course-thesis.html</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Cross-course takeaway:</strong> Foundations of Finance supplies the base layer. The later courses do not replace it. They specialize it into investing, corporate decision-making, and valuation judgment.</p>
+          </div>
+        </section>
+
+        <section class="axis">
+          <h2>2. Risk Across The Stack</h2>
+          <p>All four courses treat risk as foundational, but they assign it different jobs depending on the audience and the decision problem. Foundations defines the bargain behind return. Investment Philosophies makes risk lived and behavioral. Corporate Finance makes it operational. Valuation makes it architectural.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../foundations-of-finance/site/concepts/risk-is-inescapable-but-it-must-be-measured-through-the-right-eyes.html">Foundations of Finance</a></h3>
+              <p><strong>Risk as the price of uncertain claims</strong></p>
+              <p style="margin-top:8px">Risk is introduced as the unavoidable condition behind return and tied to claim structure and required return.</p>
+              <ul><li>Sessions 4-5, 8</li><li>analysis/themes-and-subthemes.json</li><li>site/concepts/risk-is-inescapable-but-it-must-be-measured-through-the-right-eyes.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../investment-philosophies-2026/site/concepts/risk-return-and-friction.html">Investment Philosophies 2026</a></h3>
+              <p><strong>Risk as lived investor tradeoff</strong></p>
+              <p style="margin-top:8px">Risk is framed as danger plus opportunity, with friction reminding the investor that returns are experienced in practice, not only in theory.</p>
+              <ul><li>Sessions 3-7</li><li>analysis/themes-and-subthemes.json</li><li>site/concepts/risk-return-and-friction.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../corporate-finance-spring-2025/site/themes.html">Corporate Finance Spring 2025</a></h3>
+              <p><strong>Risk as hurdle-rate machinery</strong></p>
+              <p style="margin-top:8px">Risk turns into riskfree rates, equity risk premiums, betas, cost of debt, and the cost of capital used for corporate decisions.</p>
+              <ul><li>Sessions 7-11</li><li>analysis/themes.json</li><li>site/themes.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/index.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>Risk as valuation input architecture</strong></p>
+              <p style="margin-top:8px">Risk sits behind discount-rate construction and the discipline of matching rates to cash-flow stories, currencies, inflation assumptions, and ownership context.</p>
+              <ul><li>Sessions 19-23</li><li>analysis/themes-and-subthemes.json</li><li>site/index.html</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Cross-course takeaway:</strong> The same teacher moves from risk as first principle, to investor experience, to corporate metric, to valuation architecture without treating those as separate intellectual worlds.</p>
+          </div>
+        </section>
+
+        <section class="axis">
+          <h2>3. Valuation Changes With The Decision Maker</h2>
+          <p>Valuation appears in every course, but it means different things depending on who is making the decision. Foundations teaches claim logic, Investment Philosophies uses valuation to compare styles, Corporate Finance uses valuation to integrate managerial choices, and the Valuation course treats it as the subject itself.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../foundations-of-finance/site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html">Foundations of Finance</a></h3>
+              <p><strong>Valuation begins with claim design</strong></p>
+              <p style="margin-top:8px">Bonds, equity, and options are separated as contractual, residual, and contingent claims before more advanced models enter.</p>
+              <ul><li>Sessions 7-9</li><li>analysis/themes-and-subthemes.json</li><li>site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../investment-philosophies-2026/site/concepts/value-vs-growth.html">Investment Philosophies 2026</a></h3>
+              <p><strong>Valuation as a common language across styles</strong></p>
+              <p style="margin-top:8px">Valuation tests the real differences between value, growth, timing, passive-active debate, and alternative assets.</p>
+              <ul><li>Sessions 6, 18-22, 31-43</li><li>analysis/session-briefs.md</li><li>site/concepts/value-vs-growth.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../corporate-finance-spring-2025/site/index.html">Corporate Finance Spring 2025</a></h3>
+              <p><strong>Valuation as the final managerial integration</strong></p>
+              <p style="margin-top:8px">Valuation closes the corporate finance loop after objective, investment quality, financing mix, debt design, and payout policy have been assembled.</p>
+              <ul><li>Sessions 24-25</li><li>analysis/themes.json</li><li>site/index.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/course-thesis.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>Valuation as the core operating discipline</strong></p>
+              <p style="margin-top:8px">The course treats valuation as a structured way of translating business stories into explicit claims about growth, margins, reinvestment, risk, terminal value, pricing, optionality, and control.</p>
+              <ul><li>Sessions 1-26</li><li>analysis/themes-and-subthemes.json</li><li>site/course-thesis.html</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Cross-course takeaway:</strong> Valuation is a common language across the workspace, but the speaker changes: beginner, investor, manager, and dedicated valuer each use it for a different kind of judgment.</p>
+          </div>
+        </section>
+
+        <section class="axis">
+          <h2>4. Discipline Against Seduction</h2>
+          <p>Damodaran repeatedly attacks seductive simplifications, but the objects of temptation change by course. Foundations warns against loose nominal thinking, Investment Philosophies against tactical fascination, Corporate Finance against project and spreadsheet shortcuts, and the Valuation course against narrative without numeric discipline.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../foundations-of-finance/site/concepts/macro-forces-inflation-rates-and-currencies-shape-every-financial-decision.html">Foundations of Finance</a></h3>
+              <p><strong>Nominal consistency before model complexity</strong></p>
+              <p style="margin-top:8px">Inflation, rates, and currencies are introduced as constraints that must be handled consistently before any output can be trusted.</p>
+              <ul><li>Sessions 10-13</li><li>analysis/themes-and-subthemes.json</li><li>site/concepts/macro-forces-inflation-rates-and-currencies-shape-every-financial-decision.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../investment-philosophies-2026/site/concepts/philosophy-over-tactics.html">Investment Philosophies 2026</a></h3>
+              <p><strong>Philosophy over tactics</strong></p>
+              <p style="margin-top:8px">The investor is warned against mistaking screens, charts, style labels, and market stories for a coherent philosophy.</p>
+              <ul><li>Sessions 1-2</li><li>analysis/themes-and-subthemes.json</li><li>site/concepts/philosophy-over-tactics.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../corporate-finance-spring-2025/site/discussions.html">Corporate Finance Spring 2025</a></h3>
+              <p><strong>Incremental cash-flow discipline</strong></p>
+              <p style="margin-top:8px">Project choice is forced back to incremental cash flows, side costs, side benefits, real options, and post-mortems rather than accounting appearance.</p>
+              <ul><li>Sessions 13-16</li><li>analysis/subthemes.json</li><li>site/discussions.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/course-thesis.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>Consistency over spreadsheet theater</strong></p>
+              <p style="margin-top:8px">Stories must submit to numbers, currencies must match inflation logic, and model detail cannot substitute for real valuation thinking.</p>
+              <ul><li>Sessions 10, 15, 23, 26</li><li>analysis/themes-and-subthemes.json</li><li>site/course-thesis.html</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Cross-course takeaway:</strong> Different audiences, same teacherly instinct: force people past attractive simplifications into internally coherent reasoning.</p>
+          </div>
+        </section>
+
+        <section class="axis">
+          <h2>5. Fit, Constraints, And Consistency</h2>
+          <p>A recurring Damodaran theme is that no framework is universally right. The right framework depends on who is acting, what is being valued, what constraints apply, and what nominal unit the whole exercise is using.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../foundations-of-finance/site/concepts/macro-forces-inflation-rates-and-currencies-shape-every-financial-decision.html">Foundations of Finance</a></h3>
+              <p><strong>Claims and currencies must fit the problem</strong></p>
+              <p style="margin-top:8px">Different claims require different logic, and cross-border analysis fails if inflation, currency, and discount-rate assumptions are misaligned.</p>
+              <ul><li>Sessions 7-13</li><li>analysis/themes-and-subthemes.json</li><li>site/concepts/macro-forces-inflation-rates-and-currencies-shape-every-financial-decision.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../investment-philosophies-2026/site/concepts/portfolio-fit-and-lived-consistency.html">Investment Philosophies 2026</a></h3>
+              <p><strong>Portfolio fit and lived consistency</strong></p>
+              <p style="margin-top:8px">The right investing philosophy depends on temperament, taxes, liquidity needs, operational simplicity, and what the investor can live with through stress.</p>
+              <ul><li>Sessions 2, 7, 38-43</li><li>analysis/themes-and-subthemes.json</li><li>site/concepts/portfolio-fit-and-lived-consistency.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../corporate-finance-spring-2025/site/themes.html">Corporate Finance Spring 2025</a></h3>
+              <p><strong>Corporate choices under real constraints</strong></p>
+              <p style="margin-top:8px">Business risk, financing flexibility, payout discipline, and reinvestment needs constrain what the firm can rationally do.</p>
+              <ul><li>Sessions 14, 17-23</li><li>analysis/themes.json</li><li>site/themes.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/index.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>Method fit to asset, owner, and market setting</strong></p>
+              <p style="margin-top:8px">Valuation method depends on ownership, liquidity, life cycle, private versus public context, distress, and whether the asset contains real optionality.</p>
+              <ul><li>Sessions 2-6, 10, 12</li><li>analysis/themes-and-subthemes.json</li><li>site/index.html</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Cross-course takeaway:</strong> Across the full workspace Damodaran rejects abstract universals. Good finance is actor-sensitive, asset-sensitive, and consistency-sensitive.</p>
+          </div>
+        </section>
+
+        <section class="axis">
+          <h2>6. Stories Into Financial Claims</h2>
+          <p>The courses repeatedly show that stories matter, but only when they become financial claims. Foundations does this at a stripped-down level through business structure and cash flows. The later courses repeat the same discipline in richer settings.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../foundations-of-finance/site/concepts/finance-is-a-forward-looking-language-of-business.html">Foundations of Finance</a></h3>
+              <p><strong>Business stories reduced to cash flows and claims</strong></p>
+              <p style="margin-top:8px">A business story becomes financially meaningful only when it is translated into assets in place, growth assets, cash flows through time, and a specific type of claim.</p>
+              <ul><li>Sessions 1-2, 6-8</li><li>analysis/themes-and-subthemes.json</li><li>site/concepts/finance-is-a-forward-looking-language-of-business.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../investment-philosophies-2026/site/course-thesis.html">Investment Philosophies 2026</a></h3>
+              <p><strong>Market stories, styles, and belief systems</strong></p>
+              <p style="margin-top:8px">Growth narratives, timing theses, passive-active arguments, and alternative-asset stories all enter the course, but they have to survive valuation and lived implementation.</p>
+              <ul><li>Sessions 10-12, 18, 31-42</li><li>analysis/session-briefs.md</li><li>site/course-thesis.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../corporate-finance-spring-2025/site/discussions.html">Corporate Finance Spring 2025</a></h3>
+              <p><strong>Project and governance stories disciplined by value effects</strong></p>
+              <p style="margin-top:8px">Managerial narratives are forced back into incremental cash flows, hurdle rates, side effects, financing consequences, and payout implications.</p>
+              <ul><li>Sessions 3-4, 13-15, 24-25</li><li>analysis/discussions.json</li><li>site/discussions.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/concepts/stories-into-inputs.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>Stories translated into model inputs</strong></p>
+              <p style="margin-top:8px">Narrative matters only insofar as it can become market size, revenue growth, margins, reinvestment, optionality, and a coherent final valuation architecture.</p>
+              <ul><li>Sessions 12-17, 26</li><li>analysis/themes-and-subthemes.json</li><li>site/concepts/stories-into-inputs.html</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Cross-course takeaway:</strong> Damodaran is not anti-story. He is anti-story that never becomes an explicit financial claim.</p>
+          </div>
+        </section>
+
+        <section class="axis">
+          <h2>7. Markets Are Social Worlds</h2>
+          <p>Across the workspace, markets are not treated as clean machines that simply absorb facts. They are social systems shaped by trust, legitimacy, authority, governance, ownership frictions, identity, and narrative circulation.</p>
+          <div class="compare">
+
+            <article class="course-card">
+              <h3><a href="../foundations-of-finance/site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html">Foundations of Finance</a></h3>
+              <p><strong>Claims and financial structure before market mythology</strong></p>
+              <p style="margin-top:8px">The foundations course strips finance back to claim structure, cash flows, and time, which creates the base language needed before later courses can examine trust, authority, and market storytelling.</p>
+              <ul><li>Sessions 7-9</li><li>analysis/themes-and-subthemes.json</li><li>site/concepts/valuation-starts-by-understanding-what-kind-of-claim-you-own.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../investment-philosophies-2026/site/concepts/culture-trust-and-alternative-assets.html">Investment Philosophies 2026</a></h3>
+              <p><strong>Identity, trust, social authority, and alternative assets</strong></p>
+              <p style="margin-top:8px">The investor course makes the social layer explicit: information moves through authority, alternatives sell status and belonging, and Bitcoin is framed as an asset born from distrust in institutions.</p>
+              <ul><li>Sessions 23-27, 39-42</li><li>analysis/concepts.json</li><li>analysis/course-thesis.md</li><li>site/concepts/culture-trust-and-alternative-assets.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../corporate-finance-spring-2025/site/concepts/corporate-governance.html">Corporate Finance Spring 2025</a></h3>
+              <p><strong>Governance, legitimacy, and who gets to decide</strong></p>
+              <p style="margin-top:8px">Corporate Finance shows the institutional side of markets: objective functions are not neutral, governance determines whose interests dominate, and financing or payout decisions only make sense inside real power structures.</p>
+              <ul><li>Sessions 1, 3-5</li><li>analysis/course-thesis.md</li><li>analysis/concepts.json</li><li>site/concepts/corporate-governance.html</li></ul>
+            </article>
+
+            <article class="course-card">
+              <h3><a href="../valuation-mba-spring-2025/site/concepts/intrinsic-value-vs-pricing.html">Valuation MBA Spring 2025</a></h3>
+              <p><strong>Pricing as social market language</strong></p>
+              <p style="margin-top:8px">The valuation course keeps distinguishing intrinsic value from pricing, which makes room for mood, comparables, peer groups, liquidity, ownership, and selling process as social forces in market value formation.</p>
+              <ul><li>Sessions 8-10, 24-26</li><li>analysis/course-thesis.md</li><li>analysis/concepts.json</li><li>site/concepts/intrinsic-value-vs-pricing.html</li></ul>
+            </article>
+
+          </div>
+          <div class="takeaway">
+            <p><strong>Cross-course takeaway:</strong> Taken together, the courses show a consistent deeper claim: markets are built from claims and cash flows, but they are lived through institutions, governed by authority, and continually reshaped by social interpretation.</p>
+          </div>
+        </section>
+
+        <section class="closeout">
+          <h2>Where To Go Next</h2>
+          <p>The next useful comparison layers are already visible in the material below.</p>
+          <ul><li>Control across investor action, governance structure, and acquisition premiums</li><li>Capital allocation from portfolio choice to project choice to reinvestment economics</li><li>How pedagogy changes when Damodaran moves from beginner grammar to investor worldview to managerial architecture to professional valuation compression</li></ul>
+        </section>
+      </div>
+
+    </main>
+  </body>
+</html>

@@ -1,0 +1,5231 @@
+[
+  {
+    "start": "00:00:00.600",
+    "end": "00:00:02.630",
+    "start_seconds": 0.6,
+    "end_seconds": 2.63,
+    "text": "Hi, welcome back."
+  },
+  {
+    "start": "00:00:02.630",
+    "end": "00:00:02.640",
+    "start_seconds": 2.63,
+    "end_seconds": 2.64,
+    "text": "Hi, welcome back."
+  },
+  {
+    "start": "00:00:02.640",
+    "end": "00:00:04.630",
+    "start_seconds": 2.64,
+    "end_seconds": 4.63,
+    "text": "Hi, welcome back. In the last session we talked about how"
+  },
+  {
+    "start": "00:00:04.630",
+    "end": "00:00:04.640",
+    "start_seconds": 4.63,
+    "end_seconds": 4.64,
+    "text": "In the last session we talked about how"
+  },
+  {
+    "start": "00:00:04.640",
+    "end": "00:00:06.590",
+    "start_seconds": 4.64,
+    "end_seconds": 6.59,
+    "text": "In the last session we talked about how equity research analysts, sell-side"
+  },
+  {
+    "start": "00:00:06.590",
+    "end": "00:00:06.600",
+    "start_seconds": 6.59,
+    "end_seconds": 6.6,
+    "text": "equity research analysts, sell-side"
+  },
+  {
+    "start": "00:00:06.600",
+    "end": "00:00:09.590",
+    "start_seconds": 6.6,
+    "end_seconds": 9.59,
+    "text": "equity research analysts, sell-side analysts, spend significant amounts of"
+  },
+  {
+    "start": "00:00:09.590",
+    "end": "00:00:09.600",
+    "start_seconds": 9.59,
+    "end_seconds": 9.6,
+    "text": "analysts, spend significant amounts of"
+  },
+  {
+    "start": "00:00:09.600",
+    "end": "00:00:12.110",
+    "start_seconds": 9.6,
+    "end_seconds": 12.11,
+    "text": "analysts, spend significant amounts of their time trying to forecast what the a"
+  },
+  {
+    "start": "00:00:12.110",
+    "end": "00:00:12.120",
+    "start_seconds": 12.11,
+    "end_seconds": 12.12,
+    "text": "their time trying to forecast what the a"
+  },
+  {
+    "start": "00:00:12.120",
+    "end": "00:00:14.190",
+    "start_seconds": 12.12,
+    "end_seconds": 14.19,
+    "text": "their time trying to forecast what the a company's earnings will be in the next"
+  },
+  {
+    "start": "00:00:14.190",
+    "end": "00:00:14.200",
+    "start_seconds": 14.19,
+    "end_seconds": 14.2,
+    "text": "company's earnings will be in the next"
+  },
+  {
+    "start": "00:00:14.200",
+    "end": "00:00:15.870",
+    "start_seconds": 14.2,
+    "end_seconds": 15.87,
+    "text": "company's earnings will be in the next quarterly release."
+  },
+  {
+    "start": "00:00:15.870",
+    "end": "00:00:15.880",
+    "start_seconds": 15.87,
+    "end_seconds": 15.88,
+    "text": "quarterly release."
+  },
+  {
+    "start": "00:00:15.880",
+    "end": "00:00:17.310",
+    "start_seconds": 15.88,
+    "end_seconds": 17.31,
+    "text": "quarterly release. In this session I want to focus more"
+  },
+  {
+    "start": "00:00:17.310",
+    "end": "00:00:17.320",
+    "start_seconds": 17.31,
+    "end_seconds": 17.32,
+    "text": "In this session I want to focus more"
+  },
+  {
+    "start": "00:00:17.320",
+    "end": "00:00:19.790",
+    "start_seconds": 17.32,
+    "end_seconds": 19.79,
+    "text": "In this session I want to focus more specifically on that day when earnings"
+  },
+  {
+    "start": "00:00:19.790",
+    "end": "00:00:19.800",
+    "start_seconds": 19.79,
+    "end_seconds": 19.8,
+    "text": "specifically on that day when earnings"
+  },
+  {
+    "start": "00:00:19.800",
+    "end": "00:00:22.670",
+    "start_seconds": 19.8,
+    "end_seconds": 22.67,
+    "text": "specifically on that day when earnings are released and how the market reacts"
+  },
+  {
+    "start": "00:00:22.670",
+    "end": "00:00:22.680",
+    "start_seconds": 22.67,
+    "end_seconds": 22.68,
+    "text": "are released and how the market reacts"
+  },
+  {
+    "start": "00:00:22.680",
+    "end": "00:00:25.910",
+    "start_seconds": 22.68,
+    "end_seconds": 25.91,
+    "text": "are released and how the market reacts to earnings reports. After all, this is"
+  },
+  {
+    "start": "00:00:25.910",
+    "end": "00:00:25.920",
+    "start_seconds": 25.91,
+    "end_seconds": 25.92,
+    "text": "to earnings reports. After all, this is"
+  },
+  {
+    "start": "00:00:25.920",
+    "end": "00:00:28.070",
+    "start_seconds": 25.92,
+    "end_seconds": 28.07,
+    "text": "to earnings reports. After all, this is the most common way in which companies"
+  },
+  {
+    "start": "00:00:28.070",
+    "end": "00:00:28.080",
+    "start_seconds": 28.07,
+    "end_seconds": 28.08,
+    "text": "the most common way in which companies"
+  },
+  {
+    "start": "00:00:28.080",
+    "end": "00:00:30.830",
+    "start_seconds": 28.08,
+    "end_seconds": 30.83,
+    "text": "the most common way in which companies reveal information to public investors"
+  },
+  {
+    "start": "00:00:30.830",
+    "end": "00:00:30.840",
+    "start_seconds": 30.83,
+    "end_seconds": 30.84,
+    "text": "reveal information to public investors"
+  },
+  {
+    "start": "00:00:30.840",
+    "end": "00:00:33.870",
+    "start_seconds": 30.84,
+    "end_seconds": 33.87,
+    "text": "reveal information to public investors is reports. Four times a year in the US"
+  },
+  {
+    "start": "00:00:33.870",
+    "end": "00:00:33.880",
+    "start_seconds": 33.87,
+    "end_seconds": 33.88,
+    "text": "is reports. Four times a year in the US"
+  },
+  {
+    "start": "00:00:33.880",
+    "end": "00:00:36.070",
+    "start_seconds": 33.88,
+    "end_seconds": 36.07,
+    "text": "is reports. Four times a year in the US and much of the and increasingly in much"
+  },
+  {
+    "start": "00:00:36.070",
+    "end": "00:00:36.080",
+    "start_seconds": 36.07,
+    "end_seconds": 36.08,
+    "text": "and much of the and increasingly in much"
+  },
+  {
+    "start": "00:00:36.080",
+    "end": "00:00:37.110",
+    "start_seconds": 36.08,
+    "end_seconds": 37.11,
+    "text": "and much of the and increasingly in much of the world."
+  },
+  {
+    "start": "00:00:37.110",
+    "end": "00:00:37.120",
+    "start_seconds": 37.11,
+    "end_seconds": 37.12,
+    "text": "of the world."
+  },
+  {
+    "start": "00:00:37.120",
+    "end": "00:00:39.590",
+    "start_seconds": 37.12,
+    "end_seconds": 39.59,
+    "text": "of the world. So let's talk about those"
+  },
+  {
+    "start": "00:00:39.590",
+    "end": "00:00:39.600",
+    "start_seconds": 39.59,
+    "end_seconds": 39.6,
+    "text": "So let's talk about those"
+  },
+  {
+    "start": "00:00:39.600",
+    "end": "00:00:42.270",
+    "start_seconds": 39.6,
+    "end_seconds": 42.27,
+    "text": "So let's talk about those announcements and why it is so difficult"
+  },
+  {
+    "start": "00:00:42.270",
+    "end": "00:00:42.280",
+    "start_seconds": 42.27,
+    "end_seconds": 42.28,
+    "text": "announcements and why it is so difficult"
+  },
+  {
+    "start": "00:00:42.280",
+    "end": "00:00:43.670",
+    "start_seconds": 42.28,
+    "end_seconds": 43.67,
+    "text": "announcements and why it is so difficult to gauge whether it's good news or bad"
+  },
+  {
+    "start": "00:00:43.670",
+    "end": "00:00:43.680",
+    "start_seconds": 43.67,
+    "end_seconds": 43.68,
+    "text": "to gauge whether it's good news or bad"
+  },
+  {
+    "start": "00:00:43.680",
+    "end": "00:00:45.430",
+    "start_seconds": 43.68,
+    "end_seconds": 45.43,
+    "text": "to gauge whether it's good news or bad news."
+  },
+  {
+    "start": "00:00:45.430",
+    "end": "00:00:45.440",
+    "start_seconds": 45.43,
+    "end_seconds": 45.44,
+    "text": "news."
+  },
+  {
+    "start": "00:00:45.440",
+    "end": "00:00:47.510",
+    "start_seconds": 45.44,
+    "end_seconds": 47.51,
+    "text": "news. As I as I mentioned earlier, this is"
+  },
+  {
+    "start": "00:00:47.510",
+    "end": "00:00:47.520",
+    "start_seconds": 47.51,
+    "end_seconds": 47.52,
+    "text": "As I as I mentioned earlier, this is"
+  },
+  {
+    "start": "00:00:47.520",
+    "end": "00:00:49.510",
+    "start_seconds": 47.52,
+    "end_seconds": 49.51,
+    "text": "As I as I mentioned earlier, this is your primary device as a company to let"
+  },
+  {
+    "start": "00:00:49.510",
+    "end": "00:00:49.520",
+    "start_seconds": 49.51,
+    "end_seconds": 49.52,
+    "text": "your primary device as a company to let"
+  },
+  {
+    "start": "00:00:49.520",
+    "end": "00:00:51.350",
+    "start_seconds": 49.52,
+    "end_seconds": 51.35,
+    "text": "your primary device as a company to let the world know what your operations are"
+  },
+  {
+    "start": "00:00:51.350",
+    "end": "00:00:51.360",
+    "start_seconds": 51.35,
+    "end_seconds": 51.36,
+    "text": "the world know what your operations are"
+  },
+  {
+    "start": "00:00:51.360",
+    "end": "00:00:52.870",
+    "start_seconds": 51.36,
+    "end_seconds": 52.87,
+    "text": "the world know what your operations are doing, how much your revenues are, what"
+  },
+  {
+    "start": "00:00:52.870",
+    "end": "00:00:52.880",
+    "start_seconds": 52.87,
+    "end_seconds": 52.88,
+    "text": "doing, how much your revenues are, what"
+  },
+  {
+    "start": "00:00:52.880",
+    "end": "00:00:54.110",
+    "start_seconds": 52.88,
+    "end_seconds": 54.11,
+    "text": "doing, how much your revenues are, what your margins look like, what your"
+  },
+  {
+    "start": "00:00:54.110",
+    "end": "00:00:54.120",
+    "start_seconds": 54.11,
+    "end_seconds": 54.12,
+    "text": "your margins look like, what your"
+  },
+  {
+    "start": "00:00:54.120",
+    "end": "00:00:56.310",
+    "start_seconds": 54.12,
+    "end_seconds": 56.31,
+    "text": "your margins look like, what your earnings are. And that information tells"
+  },
+  {
+    "start": "00:00:56.310",
+    "end": "00:00:56.320",
+    "start_seconds": 56.31,
+    "end_seconds": 56.32,
+    "text": "earnings are. And that information tells"
+  },
+  {
+    "start": "00:00:56.320",
+    "end": "00:00:58.470",
+    "start_seconds": 56.32,
+    "end_seconds": 58.47,
+    "text": "earnings are. And that information tells you not just what the business is doing,"
+  },
+  {
+    "start": "00:00:58.470",
+    "end": "00:00:58.480",
+    "start_seconds": 58.47,
+    "end_seconds": 58.48,
+    "text": "you not just what the business is doing,"
+  },
+  {
+    "start": "00:00:58.480",
+    "end": "00:00:59.950",
+    "start_seconds": 58.48,
+    "end_seconds": 59.95,
+    "text": "you not just what the business is doing, what the company's business is doing,"
+  },
+  {
+    "start": "00:00:59.950",
+    "end": "00:00:59.960",
+    "start_seconds": 59.95,
+    "end_seconds": 59.96,
+    "text": "what the company's business is doing,"
+  },
+  {
+    "start": "00:00:59.960",
+    "end": "00:01:01.830",
+    "start_seconds": 59.96,
+    "end_seconds": 61.83,
+    "text": "what the company's business is doing, but it does give you information about"
+  },
+  {
+    "start": "00:01:01.830",
+    "end": "00:01:01.840",
+    "start_seconds": 61.83,
+    "end_seconds": 61.84,
+    "text": "but it does give you information about"
+  },
+  {
+    "start": "00:01:01.840",
+    "end": "00:01:03.190",
+    "start_seconds": 61.84,
+    "end_seconds": 63.19,
+    "text": "but it does give you information about the sector, sometimes about the"
+  },
+  {
+    "start": "00:01:03.190",
+    "end": "00:01:03.200",
+    "start_seconds": 63.19,
+    "end_seconds": 63.2,
+    "text": "the sector, sometimes about the"
+  },
+  {
+    "start": "00:01:03.200",
+    "end": "00:01:04.710",
+    "start_seconds": 63.2,
+    "end_seconds": 64.71,
+    "text": "the sector, sometimes about the competition."
+  },
+  {
+    "start": "00:01:04.710",
+    "end": "00:01:04.720",
+    "start_seconds": 64.71,
+    "end_seconds": 64.72,
+    "text": "competition."
+  },
+  {
+    "start": "00:01:04.720",
+    "end": "00:01:06.910",
+    "start_seconds": 64.72,
+    "end_seconds": 66.91,
+    "text": "competition. Not surprisingly, when earnings report"
+  },
+  {
+    "start": "00:01:06.910",
+    "end": "00:01:06.920",
+    "start_seconds": 66.91,
+    "end_seconds": 66.92,
+    "text": "Not surprisingly, when earnings report"
+  },
+  {
+    "start": "00:01:06.920",
+    "end": "00:01:08.870",
+    "start_seconds": 66.92,
+    "end_seconds": 68.87,
+    "text": "Not surprisingly, when earnings report comes out there's a price effect."
+  },
+  {
+    "start": "00:01:08.870",
+    "end": "00:01:08.880",
+    "start_seconds": 68.87,
+    "end_seconds": 68.88,
+    "text": "comes out there's a price effect."
+  },
+  {
+    "start": "00:01:08.880",
+    "end": "00:01:10.950",
+    "start_seconds": 68.88,
+    "end_seconds": 70.95,
+    "text": "comes out there's a price effect. Now at first sight you're saying at at"
+  },
+  {
+    "start": "00:01:10.950",
+    "end": "00:01:10.960",
+    "start_seconds": 70.95,
+    "end_seconds": 70.96000000000001,
+    "text": "Now at first sight you're saying at at"
+  },
+  {
+    "start": "00:01:10.960",
+    "end": "00:01:12.270",
+    "start_seconds": 70.96000000000001,
+    "end_seconds": 72.27,
+    "text": "Now at first sight you're saying at at first your first reaction would be"
+  },
+  {
+    "start": "00:01:12.270",
+    "end": "00:01:12.280",
+    "start_seconds": 72.27,
+    "end_seconds": 72.28,
+    "text": "first your first reaction would be"
+  },
+  {
+    "start": "00:01:12.280",
+    "end": "00:01:14.470",
+    "start_seconds": 72.28,
+    "end_seconds": 74.47,
+    "text": "first your first reaction would be that's obvious. If earnings go up the"
+  },
+  {
+    "start": "00:01:14.470",
+    "end": "00:01:14.480",
+    "start_seconds": 74.47,
+    "end_seconds": 74.48,
+    "text": "that's obvious. If earnings go up the"
+  },
+  {
+    "start": "00:01:14.480",
+    "end": "00:01:15.910",
+    "start_seconds": 74.48,
+    "end_seconds": 75.91,
+    "text": "that's obvious. If earnings go up the stock price should go up, if the"
+  },
+  {
+    "start": "00:01:15.910",
+    "end": "00:01:15.920",
+    "start_seconds": 75.91,
+    "end_seconds": 75.92,
+    "text": "stock price should go up, if the"
+  },
+  {
+    "start": "00:01:15.920",
+    "end": "00:01:17.430",
+    "start_seconds": 75.92,
+    "end_seconds": 77.43,
+    "text": "stock price should go up, if the earnings go down stock price should go"
+  },
+  {
+    "start": "00:01:17.430",
+    "end": "00:01:17.440",
+    "start_seconds": 77.43,
+    "end_seconds": 77.44,
+    "text": "earnings go down stock price should go"
+  },
+  {
+    "start": "00:01:17.440",
+    "end": "00:01:20.430",
+    "start_seconds": 77.44,
+    "end_seconds": 80.43,
+    "text": "earnings go down stock price should go down. Not necessarily and here's why."
+  },
+  {
+    "start": "00:01:20.430",
+    "end": "00:01:20.440",
+    "start_seconds": 80.43,
+    "end_seconds": 80.44,
+    "text": "down. Not necessarily and here's why."
+  },
+  {
+    "start": "00:01:20.440",
+    "end": "00:01:22.230",
+    "start_seconds": 80.44,
+    "end_seconds": 82.23,
+    "text": "down. Not necessarily and here's why. When an earnings report come out comes"
+  },
+  {
+    "start": "00:01:22.230",
+    "end": "00:01:22.240",
+    "start_seconds": 82.23,
+    "end_seconds": 82.24,
+    "text": "When an earnings report come out comes"
+  },
+  {
+    "start": "00:01:22.240",
+    "end": "00:01:24.550",
+    "start_seconds": 82.24,
+    "end_seconds": 84.55,
+    "text": "When an earnings report come out comes out, markets don't react to the report"
+  },
+  {
+    "start": "00:01:24.550",
+    "end": "00:01:24.560",
+    "start_seconds": 84.55,
+    "end_seconds": 84.56,
+    "text": "out, markets don't react to the report"
+  },
+  {
+    "start": "00:01:24.560",
+    "end": "00:01:26.630",
+    "start_seconds": 84.56,
+    "end_seconds": 86.63,
+    "text": "out, markets don't react to the report per se, but what the report contains is"
+  },
+  {
+    "start": "00:01:26.630",
+    "end": "00:01:26.640",
+    "start_seconds": 86.63,
+    "end_seconds": 86.64,
+    "text": "per se, but what the report contains is"
+  },
+  {
+    "start": "00:01:26.640",
+    "end": "00:01:28.790",
+    "start_seconds": 86.64,
+    "end_seconds": 88.78999999999999,
+    "text": "per se, but what the report contains is news relative to what they expected to"
+  },
+  {
+    "start": "00:01:28.790",
+    "end": "00:01:28.800",
+    "start_seconds": 88.78999999999999,
+    "end_seconds": 88.8,
+    "text": "news relative to what they expected to"
+  },
+  {
+    "start": "00:01:28.800",
+    "end": "00:01:29.790",
+    "start_seconds": 88.8,
+    "end_seconds": 89.78999999999999,
+    "text": "news relative to what they expected to say."
+  },
+  {
+    "start": "00:01:29.790",
+    "end": "00:01:29.800",
+    "start_seconds": 89.78999999999999,
+    "end_seconds": 89.8,
+    "text": "say."
+  },
+  {
+    "start": "00:01:29.800",
+    "end": "00:01:31.150",
+    "start_seconds": 89.8,
+    "end_seconds": 91.15,
+    "text": "say. Put simply,"
+  },
+  {
+    "start": "00:01:31.150",
+    "end": "00:01:31.160",
+    "start_seconds": 91.15,
+    "end_seconds": 91.16,
+    "text": "Put simply,"
+  },
+  {
+    "start": "00:01:31.160",
+    "end": "00:01:33.790",
+    "start_seconds": 91.16,
+    "end_seconds": 93.78999999999999,
+    "text": "Put simply, a high growth company that reports a 30%"
+  },
+  {
+    "start": "00:01:33.790",
+    "end": "00:01:33.800",
+    "start_seconds": 93.78999999999999,
+    "end_seconds": 93.8,
+    "text": "a high growth company that reports a 30%"
+  },
+  {
+    "start": "00:01:33.800",
+    "end": "00:01:35.470",
+    "start_seconds": 93.8,
+    "end_seconds": 95.47,
+    "text": "a high growth company that reports a 30% growth in earnings might have a negative"
+  },
+  {
+    "start": "00:01:35.470",
+    "end": "00:01:35.480",
+    "start_seconds": 95.47,
+    "end_seconds": 95.47999999999999,
+    "text": "growth in earnings might have a negative"
+  },
+  {
+    "start": "00:01:35.480",
+    "end": "00:01:37.150",
+    "start_seconds": 95.47999999999999,
+    "end_seconds": 97.15,
+    "text": "growth in earnings might have a negative surprise because people are expecting a"
+  },
+  {
+    "start": "00:01:37.150",
+    "end": "00:01:37.160",
+    "start_seconds": 97.15,
+    "end_seconds": 97.16,
+    "text": "surprise because people are expecting a"
+  },
+  {
+    "start": "00:01:37.160",
+    "end": "00:01:39.670",
+    "start_seconds": 97.16,
+    "end_seconds": 99.67,
+    "text": "surprise because people are expecting a 40% growth. A declining company that"
+  },
+  {
+    "start": "00:01:39.670",
+    "end": "00:01:39.680",
+    "start_seconds": 99.67,
+    "end_seconds": 99.68,
+    "text": "40% growth. A declining company that"
+  },
+  {
+    "start": "00:01:39.680",
+    "end": "00:01:42.230",
+    "start_seconds": 99.68,
+    "end_seconds": 102.22999999999999,
+    "text": "40% growth. A declining company that reports a 5% drop in earnings might see"
+  },
+  {
+    "start": "00:01:42.230",
+    "end": "00:01:42.240",
+    "start_seconds": 102.22999999999999,
+    "end_seconds": 102.24000000000001,
+    "text": "reports a 5% drop in earnings might see"
+  },
+  {
+    "start": "00:01:42.240",
+    "end": "00:01:44.150",
+    "start_seconds": 102.24000000000001,
+    "end_seconds": 104.15,
+    "text": "reports a 5% drop in earnings might see its stock prices go up because people"
+  },
+  {
+    "start": "00:01:44.150",
+    "end": "00:01:44.160",
+    "start_seconds": 104.15,
+    "end_seconds": 104.16,
+    "text": "its stock prices go up because people"
+  },
+  {
+    "start": "00:01:44.160",
+    "end": "00:01:46.510",
+    "start_seconds": 104.16,
+    "end_seconds": 106.50999999999999,
+    "text": "its stock prices go up because people are expecting a 10% drop."
+  },
+  {
+    "start": "00:01:46.510",
+    "end": "00:01:46.520",
+    "start_seconds": 106.50999999999999,
+    "end_seconds": 106.52000000000001,
+    "text": "are expecting a 10% drop."
+  },
+  {
+    "start": "00:01:46.520",
+    "end": "00:01:49.830",
+    "start_seconds": 106.52000000000001,
+    "end_seconds": 109.83,
+    "text": "are expecting a 10% drop. This is an expectations game and actual"
+  },
+  {
+    "start": "00:01:49.830",
+    "end": "00:01:49.840",
+    "start_seconds": 109.83,
+    "end_seconds": 109.84,
+    "text": "This is an expectations game and actual"
+  },
+  {
+    "start": "00:01:49.840",
+    "end": "00:01:52.070",
+    "start_seconds": 109.84,
+    "end_seconds": 112.07,
+    "text": "This is an expectations game and actual numbers are compared to expectations."
+  },
+  {
+    "start": "00:01:52.070",
+    "end": "00:01:52.080",
+    "start_seconds": 112.07,
+    "end_seconds": 112.08,
+    "text": "numbers are compared to expectations."
+  },
+  {
+    "start": "00:01:52.080",
+    "end": "00:01:53.630",
+    "start_seconds": 112.08,
+    "end_seconds": 113.63,
+    "text": "numbers are compared to expectations. We'll talk about what goes in those"
+  },
+  {
+    "start": "00:01:53.630",
+    "end": "00:01:53.640",
+    "start_seconds": 113.63,
+    "end_seconds": 113.64,
+    "text": "We'll talk about what goes in those"
+  },
+  {
+    "start": "00:01:53.640",
+    "end": "00:01:55.510",
+    "start_seconds": 113.64,
+    "end_seconds": 115.50999999999999,
+    "text": "We'll talk about what goes in those expectations. Sell-side analysts used to"
+  },
+  {
+    "start": "00:01:55.510",
+    "end": "00:01:55.520",
+    "start_seconds": 115.50999999999999,
+    "end_seconds": 115.52000000000001,
+    "text": "expectations. Sell-side analysts used to"
+  },
+  {
+    "start": "00:01:55.520",
+    "end": "00:01:57.670",
+    "start_seconds": 115.52000000000001,
+    "end_seconds": 117.67,
+    "text": "expectations. Sell-side analysts used to be the drivers of those expectations,"
+  },
+  {
+    "start": "00:01:57.670",
+    "end": "00:01:57.680",
+    "start_seconds": 117.67,
+    "end_seconds": 117.68,
+    "text": "be the drivers of those expectations,"
+  },
+  {
+    "start": "00:01:57.680",
+    "end": "00:01:59.510",
+    "start_seconds": 117.68,
+    "end_seconds": 119.50999999999999,
+    "text": "be the drivers of those expectations, but increasingly the market seems to"
+  },
+  {
+    "start": "00:01:59.510",
+    "end": "00:01:59.520",
+    "start_seconds": 119.50999999999999,
+    "end_seconds": 119.52000000000001,
+    "text": "but increasingly the market seems to"
+  },
+  {
+    "start": "00:01:59.520",
+    "end": "00:02:02.590",
+    "start_seconds": 119.52000000000001,
+    "end_seconds": 122.59,
+    "text": "but increasingly the market seems to have a created a mind of its own."
+  },
+  {
+    "start": "00:02:02.590",
+    "end": "00:02:02.600",
+    "start_seconds": 122.59,
+    "end_seconds": 122.6,
+    "text": "have a created a mind of its own."
+  },
+  {
+    "start": "00:02:02.600",
+    "end": "00:02:04.550",
+    "start_seconds": 122.6,
+    "end_seconds": 124.55,
+    "text": "have a created a mind of its own. So, you got the earnings report day, and"
+  },
+  {
+    "start": "00:02:04.550",
+    "end": "00:02:04.560",
+    "start_seconds": 124.55,
+    "end_seconds": 124.56,
+    "text": "So, you got the earnings report day, and"
+  },
+  {
+    "start": "00:02:04.560",
+    "end": "00:02:06.350",
+    "start_seconds": 124.56,
+    "end_seconds": 126.35,
+    "text": "So, you got the earnings report day, and you look at actual numbers come out to"
+  },
+  {
+    "start": "00:02:06.350",
+    "end": "00:02:06.360",
+    "start_seconds": 126.35,
+    "end_seconds": 126.36,
+    "text": "you look at actual numbers come out to"
+  },
+  {
+    "start": "00:02:06.360",
+    "end": "00:02:09.270",
+    "start_seconds": 126.36,
+    "end_seconds": 129.27,
+    "text": "you look at actual numbers come out to compare it to expectations."
+  },
+  {
+    "start": "00:02:09.270",
+    "end": "00:02:09.280",
+    "start_seconds": 129.27,
+    "end_seconds": 129.28,
+    "text": "compare it to expectations."
+  },
+  {
+    "start": "00:02:09.280",
+    "end": "00:02:10.310",
+    "start_seconds": 129.28,
+    "end_seconds": 130.31,
+    "text": "compare it to expectations. Now, when you look at the earnings"
+  },
+  {
+    "start": "00:02:10.310",
+    "end": "00:02:10.320",
+    "start_seconds": 130.31,
+    "end_seconds": 130.32,
+    "text": "Now, when you look at the earnings"
+  },
+  {
+    "start": "00:02:10.320",
+    "end": "00:02:12.230",
+    "start_seconds": 130.32,
+    "end_seconds": 132.23,
+    "text": "Now, when you look at the earnings reports themselves, usually companies"
+  },
+  {
+    "start": "00:02:12.230",
+    "end": "00:02:12.240",
+    "start_seconds": 132.23,
+    "end_seconds": 132.24,
+    "text": "reports themselves, usually companies"
+  },
+  {
+    "start": "00:02:12.240",
+    "end": "00:02:14.949",
+    "start_seconds": 132.24,
+    "end_seconds": 134.949,
+    "text": "reports themselves, usually companies report earnings on pretty much the same"
+  },
+  {
+    "start": "00:02:14.949",
+    "end": "00:02:14.959",
+    "start_seconds": 134.949,
+    "end_seconds": 134.959,
+    "text": "report earnings on pretty much the same"
+  },
+  {
+    "start": "00:02:14.959",
+    "end": "00:02:16.830",
+    "start_seconds": 134.959,
+    "end_seconds": 136.82999999999998,
+    "text": "report earnings on pretty much the same day every year. So, if your first"
+  },
+  {
+    "start": "00:02:16.830",
+    "end": "00:02:16.840",
+    "start_seconds": 136.82999999999998,
+    "end_seconds": 136.84,
+    "text": "day every year. So, if your first"
+  },
+  {
+    "start": "00:02:16.840",
+    "end": "00:02:19.990",
+    "start_seconds": 136.84,
+    "end_seconds": 139.99,
+    "text": "day every year. So, if your first quarter earnings come out in April 16th,"
+  },
+  {
+    "start": "00:02:19.990",
+    "end": "00:02:20.000",
+    "start_seconds": 139.99,
+    "end_seconds": 140.0,
+    "text": "quarter earnings come out in April 16th,"
+  },
+  {
+    "start": "00:02:20.000",
+    "end": "00:02:21.350",
+    "start_seconds": 140.0,
+    "end_seconds": 141.35,
+    "text": "quarter earnings come out in April 16th, you should expect to see the earnings"
+  },
+  {
+    "start": "00:02:21.350",
+    "end": "00:02:21.360",
+    "start_seconds": 141.35,
+    "end_seconds": 141.36,
+    "text": "you should expect to see the earnings"
+  },
+  {
+    "start": "00:02:21.360",
+    "end": "00:02:23.110",
+    "start_seconds": 141.36,
+    "end_seconds": 143.11,
+    "text": "you should expect to see the earnings report next year. We'll talk about what"
+  },
+  {
+    "start": "00:02:23.110",
+    "end": "00:02:23.120",
+    "start_seconds": 143.11,
+    "end_seconds": 143.12,
+    "text": "report next year. We'll talk about what"
+  },
+  {
+    "start": "00:02:23.120",
+    "end": "00:02:25.550",
+    "start_seconds": 143.12,
+    "end_seconds": 145.55,
+    "text": "report next year. We'll talk about what happens when companies delay reports"
+  },
+  {
+    "start": "00:02:25.550",
+    "end": "00:02:25.560",
+    "start_seconds": 145.55,
+    "end_seconds": 145.56,
+    "text": "happens when companies delay reports"
+  },
+  {
+    "start": "00:02:25.560",
+    "end": "00:02:27.630",
+    "start_seconds": 145.56,
+    "end_seconds": 147.63,
+    "text": "happens when companies delay reports relative to expected date."
+  },
+  {
+    "start": "00:02:27.630",
+    "end": "00:02:27.640",
+    "start_seconds": 147.63,
+    "end_seconds": 147.64,
+    "text": "relative to expected date."
+  },
+  {
+    "start": "00:02:27.640",
+    "end": "00:02:29.870",
+    "start_seconds": 147.64,
+    "end_seconds": 149.87,
+    "text": "relative to expected date. They reveal information to their about"
+  },
+  {
+    "start": "00:02:29.870",
+    "end": "00:02:29.880",
+    "start_seconds": 149.87,
+    "end_seconds": 149.88,
+    "text": "They reveal information to their about"
+  },
+  {
+    "start": "00:02:29.880",
+    "end": "00:02:32.150",
+    "start_seconds": 149.88,
+    "end_seconds": 152.15,
+    "text": "They reveal information to their about their current and future product, and"
+  },
+  {
+    "start": "00:02:32.150",
+    "end": "00:02:32.160",
+    "start_seconds": 152.15,
+    "end_seconds": 152.16,
+    "text": "their current and future product, and"
+  },
+  {
+    "start": "00:02:32.160",
+    "end": "00:02:33.670",
+    "start_seconds": 152.16,
+    "end_seconds": 153.67000000000002,
+    "text": "their current and future product, and increasingly, as we will see, they"
+  },
+  {
+    "start": "00:02:33.670",
+    "end": "00:02:33.680",
+    "start_seconds": 153.67000000000002,
+    "end_seconds": 153.68,
+    "text": "increasingly, as we will see, they"
+  },
+  {
+    "start": "00:02:33.680",
+    "end": "00:02:35.910",
+    "start_seconds": 153.68,
+    "end_seconds": 155.91,
+    "text": "increasingly, as we will see, they supplement that information about what"
+  },
+  {
+    "start": "00:02:35.910",
+    "end": "00:02:35.920",
+    "start_seconds": 155.91,
+    "end_seconds": 155.92000000000002,
+    "text": "supplement that information about what"
+  },
+  {
+    "start": "00:02:35.920",
+    "end": "00:02:38.310",
+    "start_seconds": 155.92000000000002,
+    "end_seconds": 158.31,
+    "text": "supplement that information about what happened in the last quarter"
+  },
+  {
+    "start": "00:02:38.310",
+    "end": "00:02:38.320",
+    "start_seconds": 158.31,
+    "end_seconds": 158.32,
+    "text": "happened in the last quarter"
+  },
+  {
+    "start": "00:02:38.320",
+    "end": "00:02:40.030",
+    "start_seconds": 158.32,
+    "end_seconds": 160.03,
+    "text": "happened in the last quarter with guidance about what they see coming"
+  },
+  {
+    "start": "00:02:40.030",
+    "end": "00:02:40.040",
+    "start_seconds": 160.03,
+    "end_seconds": 160.04,
+    "text": "with guidance about what they see coming"
+  },
+  {
+    "start": "00:02:40.040",
+    "end": "00:02:42.190",
+    "start_seconds": 160.04,
+    "end_seconds": 162.19,
+    "text": "with guidance about what they see coming up in the future. And as I mentioned, in"
+  },
+  {
+    "start": "00:02:42.190",
+    "end": "00:02:42.200",
+    "start_seconds": 162.19,
+    "end_seconds": 162.2,
+    "text": "up in the future. And as I mentioned, in"
+  },
+  {
+    "start": "00:02:42.200",
+    "end": "00:02:43.910",
+    "start_seconds": 162.2,
+    "end_seconds": 163.91,
+    "text": "up in the future. And as I mentioned, in an efficient market, there should be an"
+  },
+  {
+    "start": "00:02:43.910",
+    "end": "00:02:43.920",
+    "start_seconds": 163.91,
+    "end_seconds": 163.92000000000002,
+    "text": "an efficient market, there should be an"
+  },
+  {
+    "start": "00:02:43.920",
+    "end": "00:02:46.150",
+    "start_seconds": 163.92000000000002,
+    "end_seconds": 166.15,
+    "text": "an efficient market, there should be an instantaneous reaction to the earnings"
+  },
+  {
+    "start": "00:02:46.150",
+    "end": "00:02:46.160",
+    "start_seconds": 166.15,
+    "end_seconds": 166.16,
+    "text": "instantaneous reaction to the earnings"
+  },
+  {
+    "start": "00:02:46.160",
+    "end": "00:02:48.310",
+    "start_seconds": 166.16,
+    "end_seconds": 168.31,
+    "text": "instantaneous reaction to the earnings report. If it contains better than"
+  },
+  {
+    "start": "00:02:48.310",
+    "end": "00:02:48.320",
+    "start_seconds": 168.31,
+    "end_seconds": 168.32,
+    "text": "report. If it contains better than"
+  },
+  {
+    "start": "00:02:48.320",
+    "end": "00:02:51.510",
+    "start_seconds": 168.32,
+    "end_seconds": 171.51,
+    "text": "report. If it contains better than expected news, your price should pop up."
+  },
+  {
+    "start": "00:02:51.510",
+    "end": "00:02:51.520",
+    "start_seconds": 171.51,
+    "end_seconds": 171.52,
+    "text": "expected news, your price should pop up."
+  },
+  {
+    "start": "00:02:51.520",
+    "end": "00:02:53.150",
+    "start_seconds": 171.52,
+    "end_seconds": 173.15,
+    "text": "expected news, your price should pop up. Worse than expected news should drop"
+  },
+  {
+    "start": "00:02:53.150",
+    "end": "00:02:53.160",
+    "start_seconds": 173.15,
+    "end_seconds": 173.16,
+    "text": "Worse than expected news should drop"
+  },
+  {
+    "start": "00:02:53.160",
+    "end": "00:02:55.150",
+    "start_seconds": 173.16,
+    "end_seconds": 175.15,
+    "text": "Worse than expected news should drop down, but roughly the amount it should,"
+  },
+  {
+    "start": "00:02:55.150",
+    "end": "00:02:55.160",
+    "start_seconds": 175.15,
+    "end_seconds": 175.16,
+    "text": "down, but roughly the amount it should,"
+  },
+  {
+    "start": "00:02:55.160",
+    "end": "00:02:56.550",
+    "start_seconds": 175.16,
+    "end_seconds": 176.55,
+    "text": "down, but roughly the amount it should, and then you should see no drift"
+  },
+  {
+    "start": "00:02:56.550",
+    "end": "00:02:56.560",
+    "start_seconds": 176.55,
+    "end_seconds": 176.56,
+    "text": "and then you should see no drift"
+  },
+  {
+    "start": "00:02:56.560",
+    "end": "00:02:58.030",
+    "start_seconds": 176.56,
+    "end_seconds": 178.03,
+    "text": "and then you should see no drift afterwards."
+  },
+  {
+    "start": "00:02:58.030",
+    "end": "00:02:58.040",
+    "start_seconds": 178.03,
+    "end_seconds": 178.04,
+    "text": "afterwards."
+  },
+  {
+    "start": "00:02:58.040",
+    "end": "00:02:59.430",
+    "start_seconds": 178.04,
+    "end_seconds": 179.43,
+    "text": "afterwards. So, we know what we should expect to"
+  },
+  {
+    "start": "00:02:59.430",
+    "end": "00:02:59.440",
+    "start_seconds": 179.43,
+    "end_seconds": 179.44,
+    "text": "So, we know what we should expect to"
+  },
+  {
+    "start": "00:02:59.440",
+    "end": "00:03:02.630",
+    "start_seconds": 179.44,
+    "end_seconds": 182.63,
+    "text": "So, we know what we should expect to see. Let's see what the actual earnings"
+  },
+  {
+    "start": "00:03:02.630",
+    "end": "00:03:02.640",
+    "start_seconds": 182.63,
+    "end_seconds": 182.64,
+    "text": "see. Let's see what the actual earnings"
+  },
+  {
+    "start": "00:03:02.640",
+    "end": "00:03:04.910",
+    "start_seconds": 182.64,
+    "end_seconds": 184.91,
+    "text": "see. Let's see what the actual earnings report reactions look like in the"
+  },
+  {
+    "start": "00:03:04.910",
+    "end": "00:03:04.920",
+    "start_seconds": 184.91,
+    "end_seconds": 184.92,
+    "text": "report reactions look like in the"
+  },
+  {
+    "start": "00:03:04.920",
+    "end": "00:03:06.070",
+    "start_seconds": 184.92,
+    "end_seconds": 186.07,
+    "text": "report reactions look like in the market."
+  },
+  {
+    "start": "00:03:06.070",
+    "end": "00:03:06.080",
+    "start_seconds": 186.07,
+    "end_seconds": 186.08,
+    "text": "market."
+  },
+  {
+    "start": "00:03:06.080",
+    "end": "00:03:07.870",
+    "start_seconds": 186.08,
+    "end_seconds": 187.87,
+    "text": "market. In this graph,"
+  },
+  {
+    "start": "00:03:07.870",
+    "end": "00:03:07.880",
+    "start_seconds": 187.87,
+    "end_seconds": 187.88,
+    "text": "In this graph,"
+  },
+  {
+    "start": "00:03:07.880",
+    "end": "00:03:10.030",
+    "start_seconds": 187.88,
+    "end_seconds": 190.03,
+    "text": "In this graph, you know, what what the researchers did"
+  },
+  {
+    "start": "00:03:10.030",
+    "end": "00:03:10.040",
+    "start_seconds": 190.03,
+    "end_seconds": 190.04,
+    "text": "you know, what what the researchers did"
+  },
+  {
+    "start": "00:03:10.040",
+    "end": "00:03:12.750",
+    "start_seconds": 190.04,
+    "end_seconds": 192.75,
+    "text": "you know, what what the researchers did is they broke down earnings reports"
+  },
+  {
+    "start": "00:03:12.750",
+    "end": "00:03:12.760",
+    "start_seconds": 192.75,
+    "end_seconds": 192.76,
+    "text": "is they broke down earnings reports"
+  },
+  {
+    "start": "00:03:12.760",
+    "end": "00:03:15.509",
+    "start_seconds": 192.76,
+    "end_seconds": 195.50900000000001,
+    "text": "is they broke down earnings reports based on the surprise, where actual"
+  },
+  {
+    "start": "00:03:15.509",
+    "end": "00:03:15.519",
+    "start_seconds": 195.50900000000001,
+    "end_seconds": 195.519,
+    "text": "based on the surprise, where actual"
+  },
+  {
+    "start": "00:03:15.519",
+    "end": "00:03:16.830",
+    "start_seconds": 195.519,
+    "end_seconds": 196.82999999999998,
+    "text": "based on the surprise, where actual earnings were compared to expected"
+  },
+  {
+    "start": "00:03:16.830",
+    "end": "00:03:16.840",
+    "start_seconds": 196.82999999999998,
+    "end_seconds": 196.84,
+    "text": "earnings were compared to expected"
+  },
+  {
+    "start": "00:03:16.840",
+    "end": "00:03:20.070",
+    "start_seconds": 196.84,
+    "end_seconds": 200.07,
+    "text": "earnings were compared to expected earnings from most positive to most"
+  },
+  {
+    "start": "00:03:20.070",
+    "end": "00:03:20.080",
+    "start_seconds": 200.07,
+    "end_seconds": 200.07999999999998,
+    "text": "earnings from most positive to most"
+  },
+  {
+    "start": "00:03:20.080",
+    "end": "00:03:22.630",
+    "start_seconds": 200.07999999999998,
+    "end_seconds": 202.63,
+    "text": "earnings from most positive to most negative. So, the blue are the the"
+  },
+  {
+    "start": "00:03:22.630",
+    "end": "00:03:22.640",
+    "start_seconds": 202.63,
+    "end_seconds": 202.64,
+    "text": "negative. So, the blue are the the"
+  },
+  {
+    "start": "00:03:22.640",
+    "end": "00:03:24.710",
+    "start_seconds": 202.64,
+    "end_seconds": 204.71,
+    "text": "negative. So, the blue are the the companies that report the most positive"
+  },
+  {
+    "start": "00:03:24.710",
+    "end": "00:03:24.720",
+    "start_seconds": 204.71,
+    "end_seconds": 204.72,
+    "text": "companies that report the most positive"
+  },
+  {
+    "start": "00:03:24.720",
+    "end": "00:03:26.670",
+    "start_seconds": 204.72,
+    "end_seconds": 206.67000000000002,
+    "text": "companies that report the most positive earnings surprises, earnings being"
+  },
+  {
+    "start": "00:03:26.670",
+    "end": "00:03:26.680",
+    "start_seconds": 206.67000000000002,
+    "end_seconds": 206.68,
+    "text": "earnings surprises, earnings being"
+  },
+  {
+    "start": "00:03:26.680",
+    "end": "00:03:28.910",
+    "start_seconds": 206.68,
+    "end_seconds": 208.91,
+    "text": "earnings surprises, earnings being greater than expected. The red at the"
+  },
+  {
+    "start": "00:03:28.910",
+    "end": "00:03:28.920",
+    "start_seconds": 208.91,
+    "end_seconds": 208.92000000000002,
+    "text": "greater than expected. The red at the"
+  },
+  {
+    "start": "00:03:28.920",
+    "end": "00:03:31.830",
+    "start_seconds": 208.92000000000002,
+    "end_seconds": 211.82999999999998,
+    "text": "greater than expected. The red at the bottom is the most negative."
+  },
+  {
+    "start": "00:03:31.830",
+    "end": "00:03:31.840",
+    "start_seconds": 211.82999999999998,
+    "end_seconds": 211.84,
+    "text": "bottom is the most negative."
+  },
+  {
+    "start": "00:03:31.840",
+    "end": "00:03:32.990",
+    "start_seconds": 211.84,
+    "end_seconds": 212.99,
+    "text": "bottom is the most negative. And this"
+  },
+  {
+    "start": "00:03:32.990",
+    "end": "00:03:33.000",
+    "start_seconds": 212.99,
+    "end_seconds": 213.0,
+    "text": "And this"
+  },
+  {
+    "start": "00:03:33.000",
+    "end": "00:03:35.390",
+    "start_seconds": 213.0,
+    "end_seconds": 215.39,
+    "text": "And this in this study, they looked at what the"
+  },
+  {
+    "start": "00:03:35.390",
+    "end": "00:03:35.400",
+    "start_seconds": 215.39,
+    "end_seconds": 215.4,
+    "text": "in this study, they looked at what the"
+  },
+  {
+    "start": "00:03:35.400",
+    "end": "00:03:38.509",
+    "start_seconds": 215.4,
+    "end_seconds": 218.50900000000001,
+    "text": "in this study, they looked at what the stock prices were in the days around the"
+  },
+  {
+    "start": "00:03:38.509",
+    "end": "00:03:38.519",
+    "start_seconds": 218.50900000000001,
+    "end_seconds": 218.519,
+    "text": "stock prices were in the days around the"
+  },
+  {
+    "start": "00:03:38.519",
+    "end": "00:03:40.710",
+    "start_seconds": 218.519,
+    "end_seconds": 220.71,
+    "text": "stock prices were in the days around the earnings announcement, starting third,"
+  },
+  {
+    "start": "00:03:40.710",
+    "end": "00:03:40.720",
+    "start_seconds": 220.71,
+    "end_seconds": 220.72,
+    "text": "earnings announcement, starting third,"
+  },
+  {
+    "start": "00:03:40.720",
+    "end": "00:03:41.790",
+    "start_seconds": 220.72,
+    "end_seconds": 221.79,
+    "text": "earnings announcement, starting third, you know,"
+  },
+  {
+    "start": "00:03:41.790",
+    "end": "00:03:41.800",
+    "start_seconds": 221.79,
+    "end_seconds": 221.8,
+    "text": "you know,"
+  },
+  {
+    "start": "00:03:41.800",
+    "end": "00:03:45.949",
+    "start_seconds": 221.8,
+    "end_seconds": 225.949,
+    "text": "you know, 60 days before, going 60 days after."
+  },
+  {
+    "start": "00:03:45.949",
+    "end": "00:03:45.959",
+    "start_seconds": 225.949,
+    "end_seconds": 225.959,
+    "text": "60 days before, going 60 days after."
+  },
+  {
+    "start": "00:03:45.959",
+    "end": "00:03:47.790",
+    "start_seconds": 225.959,
+    "end_seconds": 227.79,
+    "text": "60 days before, going 60 days after. Now, first thing you will notice is day"
+  },
+  {
+    "start": "00:03:47.790",
+    "end": "00:03:47.800",
+    "start_seconds": 227.79,
+    "end_seconds": 227.8,
+    "text": "Now, first thing you will notice is day"
+  },
+  {
+    "start": "00:03:47.800",
+    "end": "00:03:49.310",
+    "start_seconds": 227.8,
+    "end_seconds": 229.31,
+    "text": "Now, first thing you will notice is day zero is the earnings report. You see"
+  },
+  {
+    "start": "00:03:49.310",
+    "end": "00:03:49.320",
+    "start_seconds": 229.31,
+    "end_seconds": 229.32,
+    "text": "zero is the earnings report. You see"
+  },
+  {
+    "start": "00:03:49.320",
+    "end": "00:03:52.190",
+    "start_seconds": 229.32,
+    "end_seconds": 232.19,
+    "text": "zero is the earnings report. You see that prices tend to start drifting in"
+  },
+  {
+    "start": "00:03:52.190",
+    "end": "00:03:52.200",
+    "start_seconds": 232.19,
+    "end_seconds": 232.2,
+    "text": "that prices tend to start drifting in"
+  },
+  {
+    "start": "00:03:52.200",
+    "end": "00:03:53.790",
+    "start_seconds": 232.2,
+    "end_seconds": 233.79,
+    "text": "that prices tend to start drifting in the days before."
+  },
+  {
+    "start": "00:03:53.790",
+    "end": "00:03:53.800",
+    "start_seconds": 233.79,
+    "end_seconds": 233.8,
+    "text": "the days before."
+  },
+  {
+    "start": "00:03:53.800",
+    "end": "00:03:55.070",
+    "start_seconds": 233.8,
+    "end_seconds": 235.07,
+    "text": "the days before. And they drift in the right direction."
+  },
+  {
+    "start": "00:03:55.070",
+    "end": "00:03:55.080",
+    "start_seconds": 235.07,
+    "end_seconds": 235.07999999999998,
+    "text": "And they drift in the right direction."
+  },
+  {
+    "start": "00:03:55.080",
+    "end": "00:03:56.670",
+    "start_seconds": 235.07999999999998,
+    "end_seconds": 236.67000000000002,
+    "text": "And they drift in the right direction. The most positive reports you start to"
+  },
+  {
+    "start": "00:03:56.670",
+    "end": "00:03:56.680",
+    "start_seconds": 236.67000000000002,
+    "end_seconds": 236.68,
+    "text": "The most positive reports you start to"
+  },
+  {
+    "start": "00:03:56.680",
+    "end": "00:03:58.070",
+    "start_seconds": 236.68,
+    "end_seconds": 238.07,
+    "text": "The most positive reports you start to see stock prices increase fairly"
+  },
+  {
+    "start": "00:03:58.070",
+    "end": "00:03:58.080",
+    "start_seconds": 238.07,
+    "end_seconds": 238.07999999999998,
+    "text": "see stock prices increase fairly"
+  },
+  {
+    "start": "00:03:58.080",
+    "end": "00:03:59.510",
+    "start_seconds": 238.07999999999998,
+    "end_seconds": 239.51,
+    "text": "see stock prices increase fairly substantially"
+  },
+  {
+    "start": "00:03:59.510",
+    "end": "00:03:59.520",
+    "start_seconds": 239.51,
+    "end_seconds": 239.52,
+    "text": "substantially"
+  },
+  {
+    "start": "00:03:59.520",
+    "end": "00:04:02.990",
+    "start_seconds": 239.52,
+    "end_seconds": 242.99,
+    "text": "substantially in the 6, 7, 8 days before the report."
+  },
+  {
+    "start": "00:04:02.990",
+    "end": "00:04:03.000",
+    "start_seconds": 242.99,
+    "end_seconds": 243.0,
+    "text": "in the 6, 7, 8 days before the report."
+  },
+  {
+    "start": "00:04:03.000",
+    "end": "00:04:04.950",
+    "start_seconds": 243.0,
+    "end_seconds": 244.95,
+    "text": "in the 6, 7, 8 days before the report. Now, you could you could be one of those"
+  },
+  {
+    "start": "00:04:04.950",
+    "end": "00:04:04.960",
+    "start_seconds": 244.95,
+    "end_seconds": 244.96,
+    "text": "Now, you could you could be one of those"
+  },
+  {
+    "start": "00:04:04.960",
+    "end": "00:04:06.830",
+    "start_seconds": 244.96,
+    "end_seconds": 246.83,
+    "text": "Now, you could you could be one of those great market efficiency believers who"
+  },
+  {
+    "start": "00:04:06.830",
+    "end": "00:04:06.840",
+    "start_seconds": 246.83,
+    "end_seconds": 246.84,
+    "text": "great market efficiency believers who"
+  },
+  {
+    "start": "00:04:06.840",
+    "end": "00:04:09.990",
+    "start_seconds": 246.84,
+    "end_seconds": 249.99,
+    "text": "great market efficiency believers who says show this shows you how markets can"
+  },
+  {
+    "start": "00:04:09.990",
+    "end": "00:04:10.000",
+    "start_seconds": 249.99,
+    "end_seconds": 250.0,
+    "text": "says show this shows you how markets can"
+  },
+  {
+    "start": "00:04:10.000",
+    "end": "00:04:11.990",
+    "start_seconds": 250.0,
+    "end_seconds": 251.99,
+    "text": "says show this shows you how markets can forecast what's coming. Or you could be"
+  },
+  {
+    "start": "00:04:11.990",
+    "end": "00:04:12.000",
+    "start_seconds": 251.99,
+    "end_seconds": 252.0,
+    "text": "forecast what's coming. Or you could be"
+  },
+  {
+    "start": "00:04:12.000",
+    "end": "00:04:13.670",
+    "start_seconds": 252.0,
+    "end_seconds": 253.67,
+    "text": "forecast what's coming. Or you could be a cynic and say this suggests there's"
+  },
+  {
+    "start": "00:04:13.670",
+    "end": "00:04:13.680",
+    "start_seconds": 253.67,
+    "end_seconds": 253.68,
+    "text": "a cynic and say this suggests there's"
+  },
+  {
+    "start": "00:04:13.680",
+    "end": "00:04:15.949",
+    "start_seconds": 253.68,
+    "end_seconds": 255.949,
+    "text": "a cynic and say this suggests there's some leakage of information. Which is a"
+  },
+  {
+    "start": "00:04:15.949",
+    "end": "00:04:15.959",
+    "start_seconds": 255.949,
+    "end_seconds": 255.959,
+    "text": "some leakage of information. Which is a"
+  },
+  {
+    "start": "00:04:15.959",
+    "end": "00:04:18.270",
+    "start_seconds": 255.959,
+    "end_seconds": 258.27,
+    "text": "some leakage of information. Which is a nice way of saying somebody's trading on"
+  },
+  {
+    "start": "00:04:18.270",
+    "end": "00:04:18.280",
+    "start_seconds": 258.27,
+    "end_seconds": 258.28,
+    "text": "nice way of saying somebody's trading on"
+  },
+  {
+    "start": "00:04:18.280",
+    "end": "00:04:20.110",
+    "start_seconds": 258.28,
+    "end_seconds": 260.11,
+    "text": "nice way of saying somebody's trading on this public information before it goes"
+  },
+  {
+    "start": "00:04:20.110",
+    "end": "00:04:20.120",
+    "start_seconds": 260.11,
+    "end_seconds": 260.12,
+    "text": "this public information before it goes"
+  },
+  {
+    "start": "00:04:20.120",
+    "end": "00:04:23.470",
+    "start_seconds": 260.12,
+    "end_seconds": 263.47,
+    "text": "this public information before it goes public. We'll hold our noses and hold on"
+  },
+  {
+    "start": "00:04:23.470",
+    "end": "00:04:23.480",
+    "start_seconds": 263.47,
+    "end_seconds": 263.48,
+    "text": "public. We'll hold our noses and hold on"
+  },
+  {
+    "start": "00:04:23.480",
+    "end": "00:04:25.950",
+    "start_seconds": 263.48,
+    "end_seconds": 265.95,
+    "text": "public. We'll hold our noses and hold on because clearly there is a drift up or"
+  },
+  {
+    "start": "00:04:25.950",
+    "end": "00:04:25.960",
+    "start_seconds": 265.95,
+    "end_seconds": 265.96,
+    "text": "because clearly there is a drift up or"
+  },
+  {
+    "start": "00:04:25.960",
+    "end": "00:04:27.830",
+    "start_seconds": 265.96,
+    "end_seconds": 267.83,
+    "text": "because clearly there is a drift up or down depending on what's included in the"
+  },
+  {
+    "start": "00:04:27.830",
+    "end": "00:04:27.840",
+    "start_seconds": 267.83,
+    "end_seconds": 267.84,
+    "text": "down depending on what's included in the"
+  },
+  {
+    "start": "00:04:27.840",
+    "end": "00:04:29.430",
+    "start_seconds": 267.84,
+    "end_seconds": 269.43,
+    "text": "down depending on what's included in the report."
+  },
+  {
+    "start": "00:04:29.430",
+    "end": "00:04:29.440",
+    "start_seconds": 269.43,
+    "end_seconds": 269.44,
+    "text": "report."
+  },
+  {
+    "start": "00:04:29.440",
+    "end": "00:04:31.190",
+    "start_seconds": 269.44,
+    "end_seconds": 271.19,
+    "text": "report. The earnings report comes out. There is"
+  },
+  {
+    "start": "00:04:31.190",
+    "end": "00:04:31.200",
+    "start_seconds": 271.19,
+    "end_seconds": 271.2,
+    "text": "The earnings report comes out. There is"
+  },
+  {
+    "start": "00:04:31.200",
+    "end": "00:04:33.030",
+    "start_seconds": 271.2,
+    "end_seconds": 273.03,
+    "text": "The earnings report comes out. There is an additional effect which is"
+  },
+  {
+    "start": "00:04:33.030",
+    "end": "00:04:33.040",
+    "start_seconds": 273.03,
+    "end_seconds": 273.04,
+    "text": "an additional effect which is"
+  },
+  {
+    "start": "00:04:33.040",
+    "end": "00:04:35.550",
+    "start_seconds": 273.04,
+    "end_seconds": 275.55,
+    "text": "an additional effect which is consistent. So we have a very positive"
+  },
+  {
+    "start": "00:04:35.550",
+    "end": "00:04:35.560",
+    "start_seconds": 275.55,
+    "end_seconds": 275.56,
+    "text": "consistent. So we have a very positive"
+  },
+  {
+    "start": "00:04:35.560",
+    "end": "00:04:36.790",
+    "start_seconds": 275.56,
+    "end_seconds": 276.79,
+    "text": "consistent. So we have a very positive earnings report. In addition to the"
+  },
+  {
+    "start": "00:04:36.790",
+    "end": "00:04:36.800",
+    "start_seconds": 276.79,
+    "end_seconds": 276.8,
+    "text": "earnings report. In addition to the"
+  },
+  {
+    "start": "00:04:36.800",
+    "end": "00:04:39.350",
+    "start_seconds": 276.8,
+    "end_seconds": 279.35,
+    "text": "earnings report. In addition to the drift up in the days before, on the day"
+  },
+  {
+    "start": "00:04:39.350",
+    "end": "00:04:39.360",
+    "start_seconds": 279.35,
+    "end_seconds": 279.36,
+    "text": "drift up in the days before, on the day"
+  },
+  {
+    "start": "00:04:39.360",
+    "end": "00:04:40.790",
+    "start_seconds": 279.36,
+    "end_seconds": 280.79,
+    "text": "drift up in the days before, on the day or the moment of the announcement you"
+  },
+  {
+    "start": "00:04:40.790",
+    "end": "00:04:40.800",
+    "start_seconds": 280.79,
+    "end_seconds": 280.8,
+    "text": "or the moment of the announcement you"
+  },
+  {
+    "start": "00:04:40.800",
+    "end": "00:04:43.110",
+    "start_seconds": 280.8,
+    "end_seconds": 283.11,
+    "text": "or the moment of the announcement you see the stock price go up."
+  },
+  {
+    "start": "00:04:43.110",
+    "end": "00:04:43.120",
+    "start_seconds": 283.11,
+    "end_seconds": 283.12,
+    "text": "see the stock price go up."
+  },
+  {
+    "start": "00:04:43.120",
+    "end": "00:04:45.190",
+    "start_seconds": 283.12,
+    "end_seconds": 285.19,
+    "text": "see the stock price go up. But then if you track it in the days"
+  },
+  {
+    "start": "00:04:45.190",
+    "end": "00:04:45.200",
+    "start_seconds": 285.19,
+    "end_seconds": 285.2,
+    "text": "But then if you track it in the days"
+  },
+  {
+    "start": "00:04:45.200",
+    "end": "00:04:47.630",
+    "start_seconds": 285.2,
+    "end_seconds": 287.63,
+    "text": "But then if you track it in the days after, it continues to drift upwards."
+  },
+  {
+    "start": "00:04:47.630",
+    "end": "00:04:47.640",
+    "start_seconds": 287.63,
+    "end_seconds": 287.64,
+    "text": "after, it continues to drift upwards."
+  },
+  {
+    "start": "00:04:47.640",
+    "end": "00:04:49.510",
+    "start_seconds": 287.64,
+    "end_seconds": 289.51,
+    "text": "after, it continues to drift upwards. And that's interesting because that is"
+  },
+  {
+    "start": "00:04:49.510",
+    "end": "00:04:49.520",
+    "start_seconds": 289.51,
+    "end_seconds": 289.52,
+    "text": "And that's interesting because that is"
+  },
+  {
+    "start": "00:04:49.520",
+    "end": "00:04:51.830",
+    "start_seconds": 289.52,
+    "end_seconds": 291.83,
+    "text": "And that's interesting because that is not consistent with an efficient market."
+  },
+  {
+    "start": "00:04:51.830",
+    "end": "00:04:51.840",
+    "start_seconds": 291.83,
+    "end_seconds": 291.84000000000003,
+    "text": "not consistent with an efficient market."
+  },
+  {
+    "start": "00:04:51.840",
+    "end": "00:04:53.430",
+    "start_seconds": 291.84000000000003,
+    "end_seconds": 293.43,
+    "text": "not consistent with an efficient market. The most negative reports, there's a"
+  },
+  {
+    "start": "00:04:53.430",
+    "end": "00:04:53.440",
+    "start_seconds": 293.43,
+    "end_seconds": 293.44,
+    "text": "The most negative reports, there's a"
+  },
+  {
+    "start": "00:04:53.440",
+    "end": "00:04:55.150",
+    "start_seconds": 293.44,
+    "end_seconds": 295.15,
+    "text": "The most negative reports, there's a drift down before the report, there's a"
+  },
+  {
+    "start": "00:04:55.150",
+    "end": "00:04:55.160",
+    "start_seconds": 295.15,
+    "end_seconds": 295.15999999999997,
+    "text": "drift down before the report, there's a"
+  },
+  {
+    "start": "00:04:55.160",
+    "end": "00:04:57.230",
+    "start_seconds": 295.15999999999997,
+    "end_seconds": 297.23,
+    "text": "drift down before the report, there's a drop on the day of the report, and then"
+  },
+  {
+    "start": "00:04:57.230",
+    "end": "00:04:57.240",
+    "start_seconds": 297.23,
+    "end_seconds": 297.24,
+    "text": "drop on the day of the report, and then"
+  },
+  {
+    "start": "00:04:57.240",
+    "end": "00:04:59.670",
+    "start_seconds": 297.24,
+    "end_seconds": 299.67,
+    "text": "drop on the day of the report, and then there's a drift down in the days after."
+  },
+  {
+    "start": "00:04:59.670",
+    "end": "00:04:59.680",
+    "start_seconds": 299.67,
+    "end_seconds": 299.68,
+    "text": "there's a drift down in the days after."
+  },
+  {
+    "start": "00:04:59.680",
+    "end": "00:05:01.950",
+    "start_seconds": 299.68,
+    "end_seconds": 301.95,
+    "text": "there's a drift down in the days after. In fact, if you focus just on that"
+  },
+  {
+    "start": "00:05:01.950",
+    "end": "00:05:01.960",
+    "start_seconds": 301.95,
+    "end_seconds": 301.96,
+    "text": "In fact, if you focus just on that"
+  },
+  {
+    "start": "00:05:01.960",
+    "end": "00:05:04.390",
+    "start_seconds": 301.96,
+    "end_seconds": 304.39,
+    "text": "In fact, if you focus just on that post-announcement drift, first thing to"
+  },
+  {
+    "start": "00:05:04.390",
+    "end": "00:05:04.400",
+    "start_seconds": 304.39,
+    "end_seconds": 304.4,
+    "text": "post-announcement drift, first thing to"
+  },
+  {
+    "start": "00:05:04.400",
+    "end": "00:05:06.510",
+    "start_seconds": 304.4,
+    "end_seconds": 306.51,
+    "text": "post-announcement drift, first thing to recognize, we're not talking about 100%"
+  },
+  {
+    "start": "00:05:06.510",
+    "end": "00:05:06.520",
+    "start_seconds": 306.51,
+    "end_seconds": 306.52,
+    "text": "recognize, we're not talking about 100%"
+  },
+  {
+    "start": "00:05:06.520",
+    "end": "00:05:08.750",
+    "start_seconds": 306.52,
+    "end_seconds": 308.75,
+    "text": "recognize, we're not talking about 100% or 80%. It's a fairly modest drift, but"
+  },
+  {
+    "start": "00:05:08.750",
+    "end": "00:05:08.760",
+    "start_seconds": 308.75,
+    "end_seconds": 308.76,
+    "text": "or 80%. It's a fairly modest drift, but"
+  },
+  {
+    "start": "00:05:08.760",
+    "end": "00:05:10.150",
+    "start_seconds": 308.76,
+    "end_seconds": 310.15,
+    "text": "or 80%. It's a fairly modest drift, but it is a drift."
+  },
+  {
+    "start": "00:05:10.150",
+    "end": "00:05:10.160",
+    "start_seconds": 310.15,
+    "end_seconds": 310.16,
+    "text": "it is a drift."
+  },
+  {
+    "start": "00:05:10.160",
+    "end": "00:05:12.430",
+    "start_seconds": 310.16,
+    "end_seconds": 312.43,
+    "text": "it is a drift. In the in the 60 days after the most"
+  },
+  {
+    "start": "00:05:12.430",
+    "end": "00:05:12.440",
+    "start_seconds": 312.43,
+    "end_seconds": 312.44,
+    "text": "In the in the 60 days after the most"
+  },
+  {
+    "start": "00:05:12.440",
+    "end": "00:05:14.230",
+    "start_seconds": 312.44,
+    "end_seconds": 314.23,
+    "text": "In the in the 60 days after the most positive reports,"
+  },
+  {
+    "start": "00:05:14.230",
+    "end": "00:05:14.240",
+    "start_seconds": 314.23,
+    "end_seconds": 314.24,
+    "text": "positive reports,"
+  },
+  {
+    "start": "00:05:14.240",
+    "end": "00:05:17.030",
+    "start_seconds": 314.24,
+    "end_seconds": 317.03,
+    "text": "positive reports, the stock price goes up about 5% more"
+  },
+  {
+    "start": "00:05:17.030",
+    "end": "00:05:17.040",
+    "start_seconds": 317.03,
+    "end_seconds": 317.04,
+    "text": "the stock price goes up about 5% more"
+  },
+  {
+    "start": "00:05:17.040",
+    "end": "00:05:18.830",
+    "start_seconds": 317.04,
+    "end_seconds": 318.83,
+    "text": "the stock price goes up about 5% more than expected."
+  },
+  {
+    "start": "00:05:18.830",
+    "end": "00:05:18.840",
+    "start_seconds": 318.83,
+    "end_seconds": 318.84,
+    "text": "than expected."
+  },
+  {
+    "start": "00:05:18.840",
+    "end": "00:05:21.070",
+    "start_seconds": 318.84,
+    "end_seconds": 321.07,
+    "text": "than expected. After the most negative reports, it goes"
+  },
+  {
+    "start": "00:05:21.070",
+    "end": "00:05:21.080",
+    "start_seconds": 321.07,
+    "end_seconds": 321.08,
+    "text": "After the most negative reports, it goes"
+  },
+  {
+    "start": "00:05:21.080",
+    "end": "00:05:23.470",
+    "start_seconds": 321.08,
+    "end_seconds": 323.47,
+    "text": "After the most negative reports, it goes down about 2%"
+  },
+  {
+    "start": "00:05:23.470",
+    "end": "00:05:23.480",
+    "start_seconds": 323.47,
+    "end_seconds": 323.48,
+    "text": "down about 2%"
+  },
+  {
+    "start": "00:05:23.480",
+    "end": "00:05:26.750",
+    "start_seconds": 323.48,
+    "end_seconds": 326.75,
+    "text": "down about 2% more than expected. So -2%."
+  },
+  {
+    "start": "00:05:26.750",
+    "end": "00:05:26.760",
+    "start_seconds": 326.75,
+    "end_seconds": 326.76,
+    "text": "more than expected. So -2%."
+  },
+  {
+    "start": "00:05:26.760",
+    "end": "00:05:28.750",
+    "start_seconds": 326.76,
+    "end_seconds": 328.75,
+    "text": "more than expected. So -2%. So there's a post-announcement drift."
+  },
+  {
+    "start": "00:05:28.750",
+    "end": "00:05:28.760",
+    "start_seconds": 328.75,
+    "end_seconds": 328.76,
+    "text": "So there's a post-announcement drift."
+  },
+  {
+    "start": "00:05:28.760",
+    "end": "00:05:30.390",
+    "start_seconds": 328.76,
+    "end_seconds": 330.39,
+    "text": "So there's a post-announcement drift. And that is something we're going to"
+  },
+  {
+    "start": "00:05:30.390",
+    "end": "00:05:30.400",
+    "start_seconds": 330.39,
+    "end_seconds": 330.4,
+    "text": "And that is something we're going to"
+  },
+  {
+    "start": "00:05:30.400",
+    "end": "00:05:32.190",
+    "start_seconds": 330.4,
+    "end_seconds": 332.19,
+    "text": "And that is something we're going to talk about as investors is there a way"
+  },
+  {
+    "start": "00:05:32.190",
+    "end": "00:05:32.200",
+    "start_seconds": 332.19,
+    "end_seconds": 332.2,
+    "text": "talk about as investors is there a way"
+  },
+  {
+    "start": "00:05:32.200",
+    "end": "00:05:34.030",
+    "start_seconds": 332.2,
+    "end_seconds": 334.03,
+    "text": "talk about as investors is there a way to take advantage of it."
+  },
+  {
+    "start": "00:05:34.030",
+    "end": "00:05:34.040",
+    "start_seconds": 334.03,
+    "end_seconds": 334.04,
+    "text": "to take advantage of it."
+  },
+  {
+    "start": "00:05:34.040",
+    "end": "00:05:36.310",
+    "start_seconds": 334.04,
+    "end_seconds": 336.31,
+    "text": "to take advantage of it. So earnings reports affect stock prices"
+  },
+  {
+    "start": "00:05:36.310",
+    "end": "00:05:36.320",
+    "start_seconds": 336.31,
+    "end_seconds": 336.32,
+    "text": "So earnings reports affect stock prices"
+  },
+  {
+    "start": "00:05:36.320",
+    "end": "00:05:38.350",
+    "start_seconds": 336.32,
+    "end_seconds": 338.35,
+    "text": "So earnings reports affect stock prices consistently. Good news in the form of"
+  },
+  {
+    "start": "00:05:38.350",
+    "end": "00:05:38.360",
+    "start_seconds": 338.35,
+    "end_seconds": 338.36,
+    "text": "consistently. Good news in the form of"
+  },
+  {
+    "start": "00:05:38.360",
+    "end": "00:05:39.950",
+    "start_seconds": 338.36,
+    "end_seconds": 339.95,
+    "text": "consistently. Good news in the form of positive surprises."
+  },
+  {
+    "start": "00:05:39.950",
+    "end": "00:05:39.960",
+    "start_seconds": 339.95,
+    "end_seconds": 339.96,
+    "text": "positive surprises."
+  },
+  {
+    "start": "00:05:39.960",
+    "end": "00:05:41.710",
+    "start_seconds": 339.96,
+    "end_seconds": 341.71,
+    "text": "positive surprises. Now, the question is how are"
+  },
+  {
+    "start": "00:05:41.710",
+    "end": "00:05:41.720",
+    "start_seconds": 341.71,
+    "end_seconds": 341.72,
+    "text": "Now, the question is how are"
+  },
+  {
+    "start": "00:05:41.720",
+    "end": "00:05:43.790",
+    "start_seconds": 341.72,
+    "end_seconds": 343.79,
+    "text": "Now, the question is how are expectations formed? The way in which"
+  },
+  {
+    "start": "00:05:43.790",
+    "end": "00:05:43.800",
+    "start_seconds": 343.79,
+    "end_seconds": 343.8,
+    "text": "expectations formed? The way in which"
+  },
+  {
+    "start": "00:05:43.800",
+    "end": "00:05:45.230",
+    "start_seconds": 343.8,
+    "end_seconds": 345.23,
+    "text": "expectations formed? The way in which these studies were constructed is they"
+  },
+  {
+    "start": "00:05:45.230",
+    "end": "00:05:45.240",
+    "start_seconds": 345.23,
+    "end_seconds": 345.24,
+    "text": "these studies were constructed is they"
+  },
+  {
+    "start": "00:05:45.240",
+    "end": "00:05:47.910",
+    "start_seconds": 345.24,
+    "end_seconds": 347.90999999999997,
+    "text": "these studies were constructed is they use analyst expectations as the base,"
+  },
+  {
+    "start": "00:05:47.910",
+    "end": "00:05:47.920",
+    "start_seconds": 347.90999999999997,
+    "end_seconds": 347.92,
+    "text": "use analyst expectations as the base,"
+  },
+  {
+    "start": "00:05:47.920",
+    "end": "00:05:49.790",
+    "start_seconds": 347.92,
+    "end_seconds": 349.79,
+    "text": "use analyst expectations as the base, they compare the actual number."
+  },
+  {
+    "start": "00:05:49.790",
+    "end": "00:05:49.800",
+    "start_seconds": 349.79,
+    "end_seconds": 349.8,
+    "text": "they compare the actual number."
+  },
+  {
+    "start": "00:05:49.800",
+    "end": "00:05:51.870",
+    "start_seconds": 349.8,
+    "end_seconds": 351.87,
+    "text": "they compare the actual number. And until about 10, maybe even 20 years"
+  },
+  {
+    "start": "00:05:51.870",
+    "end": "00:05:51.880",
+    "start_seconds": 351.87,
+    "end_seconds": 351.88,
+    "text": "And until about 10, maybe even 20 years"
+  },
+  {
+    "start": "00:05:51.880",
+    "end": "00:05:54.310",
+    "start_seconds": 351.88,
+    "end_seconds": 354.31,
+    "text": "And until about 10, maybe even 20 years ago, that used to be legitimate. Analyst"
+  },
+  {
+    "start": "00:05:54.310",
+    "end": "00:05:54.320",
+    "start_seconds": 354.31,
+    "end_seconds": 354.32,
+    "text": "ago, that used to be legitimate. Analyst"
+  },
+  {
+    "start": "00:05:54.320",
+    "end": "00:05:57.630",
+    "start_seconds": 354.32,
+    "end_seconds": 357.63,
+    "text": "ago, that used to be legitimate. Analyst expectations became the expected number."
+  },
+  {
+    "start": "00:05:57.630",
+    "end": "00:05:57.640",
+    "start_seconds": 357.63,
+    "end_seconds": 357.64,
+    "text": "expectations became the expected number."
+  },
+  {
+    "start": "00:05:57.640",
+    "end": "00:05:59.270",
+    "start_seconds": 357.64,
+    "end_seconds": 359.27,
+    "text": "expectations became the expected number. But one of the things that started"
+  },
+  {
+    "start": "00:05:59.270",
+    "end": "00:05:59.280",
+    "start_seconds": 359.27,
+    "end_seconds": 359.28,
+    "text": "But one of the things that started"
+  },
+  {
+    "start": "00:05:59.280",
+    "end": "00:06:01.270",
+    "start_seconds": 359.28,
+    "end_seconds": 361.27,
+    "text": "But one of the things that started happening is companies started gaming"
+  },
+  {
+    "start": "00:06:01.270",
+    "end": "00:06:01.280",
+    "start_seconds": 361.27,
+    "end_seconds": 361.28,
+    "text": "happening is companies started gaming"
+  },
+  {
+    "start": "00:06:01.280",
+    "end": "00:06:02.830",
+    "start_seconds": 361.28,
+    "end_seconds": 362.83,
+    "text": "happening is companies started gaming the system and beating analyst"
+  },
+  {
+    "start": "00:06:02.830",
+    "end": "00:06:02.840",
+    "start_seconds": 362.83,
+    "end_seconds": 362.84,
+    "text": "the system and beating analyst"
+  },
+  {
+    "start": "00:06:02.840",
+    "end": "00:06:06.030",
+    "start_seconds": 362.84,
+    "end_seconds": 366.03,
+    "text": "the system and beating analyst expectations more frequently than they"
+  },
+  {
+    "start": "00:06:06.030",
+    "end": "00:06:06.040",
+    "start_seconds": 366.03,
+    "end_seconds": 366.04,
+    "text": "expectations more frequently than they"
+  },
+  {
+    "start": "00:06:06.040",
+    "end": "00:06:07.870",
+    "start_seconds": 366.04,
+    "end_seconds": 367.87,
+    "text": "expectations more frequently than they should. Because remember, if these"
+  },
+  {
+    "start": "00:06:07.870",
+    "end": "00:06:07.880",
+    "start_seconds": 367.87,
+    "end_seconds": 367.88,
+    "text": "should. Because remember, if these"
+  },
+  {
+    "start": "00:06:07.880",
+    "end": "00:06:10.110",
+    "start_seconds": 367.88,
+    "end_seconds": 370.11,
+    "text": "should. Because remember, if these expectations are unbiased, half the time"
+  },
+  {
+    "start": "00:06:10.110",
+    "end": "00:06:10.120",
+    "start_seconds": 370.11,
+    "end_seconds": 370.12,
+    "text": "expectations are unbiased, half the time"
+  },
+  {
+    "start": "00:06:10.120",
+    "end": "00:06:11.670",
+    "start_seconds": 370.12,
+    "end_seconds": 371.67,
+    "text": "expectations are unbiased, half the time you should beat expectations, half the"
+  },
+  {
+    "start": "00:06:11.670",
+    "end": "00:06:11.680",
+    "start_seconds": 371.67,
+    "end_seconds": 371.68,
+    "text": "you should beat expectations, half the"
+  },
+  {
+    "start": "00:06:11.680",
+    "end": "00:06:13.390",
+    "start_seconds": 371.68,
+    "end_seconds": 373.39,
+    "text": "you should beat expectations, half the time you should not. There's some"
+  },
+  {
+    "start": "00:06:13.390",
+    "end": "00:06:13.400",
+    "start_seconds": 373.39,
+    "end_seconds": 373.4,
+    "text": "time you should not. There's some"
+  },
+  {
+    "start": "00:06:13.400",
+    "end": "00:06:15.830",
+    "start_seconds": 373.4,
+    "end_seconds": 375.83,
+    "text": "time you should not. There's some sectors like technology where companies"
+  },
+  {
+    "start": "00:06:15.830",
+    "end": "00:06:15.840",
+    "start_seconds": 375.83,
+    "end_seconds": 375.84,
+    "text": "sectors like technology where companies"
+  },
+  {
+    "start": "00:06:15.840",
+    "end": "00:06:17.870",
+    "start_seconds": 375.84,
+    "end_seconds": 377.87,
+    "text": "sectors like technology where companies were beating expectations 80% of the"
+  },
+  {
+    "start": "00:06:17.870",
+    "end": "00:06:17.880",
+    "start_seconds": 377.87,
+    "end_seconds": 377.88,
+    "text": "were beating expectations 80% of the"
+  },
+  {
+    "start": "00:06:17.880",
+    "end": "00:06:20.790",
+    "start_seconds": 377.88,
+    "end_seconds": 380.79,
+    "text": "were beating expectations 80% of the time. The market learns. In what way? If"
+  },
+  {
+    "start": "00:06:20.790",
+    "end": "00:06:20.800",
+    "start_seconds": 380.79,
+    "end_seconds": 380.8,
+    "text": "time. The market learns. In what way? If"
+  },
+  {
+    "start": "00:06:20.800",
+    "end": "00:06:23.110",
+    "start_seconds": 380.8,
+    "end_seconds": 383.11,
+    "text": "time. The market learns. In what way? If you consistently beat expectations by"
+  },
+  {
+    "start": "00:06:23.110",
+    "end": "00:06:23.120",
+    "start_seconds": 383.11,
+    "end_seconds": 383.12,
+    "text": "you consistently beat expectations by"
+  },
+  {
+    "start": "00:06:23.120",
+    "end": "00:06:24.830",
+    "start_seconds": 383.12,
+    "end_seconds": 384.83,
+    "text": "you consistently beat expectations by 5%, you know what the market's going to"
+  },
+  {
+    "start": "00:06:24.830",
+    "end": "00:06:24.840",
+    "start_seconds": 384.83,
+    "end_seconds": 384.84,
+    "text": "5%, you know what the market's going to"
+  },
+  {
+    "start": "00:06:24.840",
+    "end": "00:06:27.990",
+    "start_seconds": 384.84,
+    "end_seconds": 387.99,
+    "text": "5%, you know what the market's going to do, right? If your earnings come in 3%"
+  },
+  {
+    "start": "00:06:27.990",
+    "end": "00:06:28.000",
+    "start_seconds": 387.99,
+    "end_seconds": 388.0,
+    "text": "do, right? If your earnings come in 3%"
+  },
+  {
+    "start": "00:06:28.000",
+    "end": "00:06:29.630",
+    "start_seconds": 388.0,
+    "end_seconds": 389.63,
+    "text": "do, right? If your earnings come in 3% higher than expected, that's going to be"
+  },
+  {
+    "start": "00:06:29.630",
+    "end": "00:06:29.640",
+    "start_seconds": 389.63,
+    "end_seconds": 389.64,
+    "text": "higher than expected, that's going to be"
+  },
+  {
+    "start": "00:06:29.640",
+    "end": "00:06:32.270",
+    "start_seconds": 389.64,
+    "end_seconds": 392.27,
+    "text": "higher than expected, that's going to be viewed as a negative surprise. Something"
+  },
+  {
+    "start": "00:06:32.270",
+    "end": "00:06:32.280",
+    "start_seconds": 392.27,
+    "end_seconds": 392.28,
+    "text": "viewed as a negative surprise. Something"
+  },
+  {
+    "start": "00:06:32.280",
+    "end": "00:06:33.790",
+    "start_seconds": 392.28,
+    "end_seconds": 393.79,
+    "text": "viewed as a negative surprise. Something to think about as you look at these"
+  },
+  {
+    "start": "00:06:33.790",
+    "end": "00:06:33.800",
+    "start_seconds": 393.79,
+    "end_seconds": 393.8,
+    "text": "to think about as you look at these"
+  },
+  {
+    "start": "00:06:33.800",
+    "end": "00:06:36.390",
+    "start_seconds": 393.8,
+    "end_seconds": 396.39,
+    "text": "to think about as you look at these studies is how that expectations game"
+  },
+  {
+    "start": "00:06:36.390",
+    "end": "00:06:36.400",
+    "start_seconds": 396.39,
+    "end_seconds": 396.4,
+    "text": "studies is how that expectations game"
+  },
+  {
+    "start": "00:06:36.400",
+    "end": "00:06:38.110",
+    "start_seconds": 396.4,
+    "end_seconds": 398.11,
+    "text": "studies is how that expectations game has changed."
+  },
+  {
+    "start": "00:06:38.110",
+    "end": "00:06:38.120",
+    "start_seconds": 398.11,
+    "end_seconds": 398.12,
+    "text": "has changed."
+  },
+  {
+    "start": "00:06:38.120",
+    "end": "00:06:39.830",
+    "start_seconds": 398.12,
+    "end_seconds": 399.83,
+    "text": "has changed. Earlier I talked about how earnings"
+  },
+  {
+    "start": "00:06:39.830",
+    "end": "00:06:39.840",
+    "start_seconds": 399.83,
+    "end_seconds": 399.84000000000003,
+    "text": "Earlier I talked about how earnings"
+  },
+  {
+    "start": "00:06:39.840",
+    "end": "00:06:42.390",
+    "start_seconds": 399.84000000000003,
+    "end_seconds": 402.39,
+    "text": "Earlier I talked about how earnings reports tend to come out on a particular"
+  },
+  {
+    "start": "00:06:42.390",
+    "end": "00:06:42.400",
+    "start_seconds": 402.39,
+    "end_seconds": 402.4,
+    "text": "reports tend to come out on a particular"
+  },
+  {
+    "start": "00:06:42.400",
+    "end": "00:06:44.110",
+    "start_seconds": 402.4,
+    "end_seconds": 404.11,
+    "text": "reports tend to come out on a particular day every year."
+  },
+  {
+    "start": "00:06:44.110",
+    "end": "00:06:44.120",
+    "start_seconds": 404.11,
+    "end_seconds": 404.12,
+    "text": "day every year."
+  },
+  {
+    "start": "00:06:44.120",
+    "end": "00:06:46.110",
+    "start_seconds": 404.12,
+    "end_seconds": 406.11,
+    "text": "day every year. This There's one study that looked at"
+  },
+  {
+    "start": "00:06:46.110",
+    "end": "00:06:46.120",
+    "start_seconds": 406.11,
+    "end_seconds": 406.12,
+    "text": "This There's one study that looked at"
+  },
+  {
+    "start": "00:06:46.120",
+    "end": "00:06:48.150",
+    "start_seconds": 406.12,
+    "end_seconds": 408.15,
+    "text": "This There's one study that looked at what happens to earnings reports that"
+  },
+  {
+    "start": "00:06:48.150",
+    "end": "00:06:48.160",
+    "start_seconds": 408.15,
+    "end_seconds": 408.15999999999997,
+    "text": "what happens to earnings reports that"
+  },
+  {
+    "start": "00:06:48.160",
+    "end": "00:06:49.950",
+    "start_seconds": 408.15999999999997,
+    "end_seconds": 409.95,
+    "text": "what happens to earnings reports that come out earlier than expected, which"
+  },
+  {
+    "start": "00:06:49.950",
+    "end": "00:06:49.960",
+    "start_seconds": 409.95,
+    "end_seconds": 409.96,
+    "text": "come out earlier than expected, which"
+  },
+  {
+    "start": "00:06:49.960",
+    "end": "00:06:51.950",
+    "start_seconds": 409.96,
+    "end_seconds": 411.95,
+    "text": "come out earlier than expected, which are relatively few,"
+  },
+  {
+    "start": "00:06:51.950",
+    "end": "00:06:51.960",
+    "start_seconds": 411.95,
+    "end_seconds": 411.96,
+    "text": "are relatively few,"
+  },
+  {
+    "start": "00:06:51.960",
+    "end": "00:06:54.630",
+    "start_seconds": 411.96,
+    "end_seconds": 414.63,
+    "text": "are relatively few, and later than expected, which happens"
+  },
+  {
+    "start": "00:06:54.630",
+    "end": "00:06:54.640",
+    "start_seconds": 414.63,
+    "end_seconds": 414.64,
+    "text": "and later than expected, which happens"
+  },
+  {
+    "start": "00:06:54.640",
+    "end": "00:06:56.790",
+    "start_seconds": 414.64,
+    "end_seconds": 416.79,
+    "text": "and later than expected, which happens fairly frequently. So, company's"
+  },
+  {
+    "start": "00:06:56.790",
+    "end": "00:06:56.800",
+    "start_seconds": 416.79,
+    "end_seconds": 416.8,
+    "text": "fairly frequently. So, company's"
+  },
+  {
+    "start": "00:06:56.800",
+    "end": "00:06:59.270",
+    "start_seconds": 416.8,
+    "end_seconds": 419.27,
+    "text": "fairly frequently. So, company's earnings date is April 17th, April 17th"
+  },
+  {
+    "start": "00:06:59.270",
+    "end": "00:06:59.280",
+    "start_seconds": 419.27,
+    "end_seconds": 419.28,
+    "text": "earnings date is April 17th, April 17th"
+  },
+  {
+    "start": "00:06:59.280",
+    "end": "00:07:01.150",
+    "start_seconds": 419.28,
+    "end_seconds": 421.15,
+    "text": "earnings date is April 17th, April 17th comes and goes, and there is no earnings"
+  },
+  {
+    "start": "00:07:01.150",
+    "end": "00:07:01.160",
+    "start_seconds": 421.15,
+    "end_seconds": 421.16,
+    "text": "comes and goes, and there is no earnings"
+  },
+  {
+    "start": "00:07:01.160",
+    "end": "00:07:03.310",
+    "start_seconds": 421.16,
+    "end_seconds": 423.31,
+    "text": "comes and goes, and there is no earnings report. April 18th comes and goes, no"
+  },
+  {
+    "start": "00:07:03.310",
+    "end": "00:07:03.320",
+    "start_seconds": 423.31,
+    "end_seconds": 423.32,
+    "text": "report. April 18th comes and goes, no"
+  },
+  {
+    "start": "00:07:03.320",
+    "end": "00:07:05.310",
+    "start_seconds": 423.32,
+    "end_seconds": 425.31,
+    "text": "report. April 18th comes and goes, no earnings report. It's delayed by a day,"
+  },
+  {
+    "start": "00:07:05.310",
+    "end": "00:07:05.320",
+    "start_seconds": 425.31,
+    "end_seconds": 425.32,
+    "text": "earnings report. It's delayed by a day,"
+  },
+  {
+    "start": "00:07:05.320",
+    "end": "00:07:07.550",
+    "start_seconds": 425.32,
+    "end_seconds": 427.55,
+    "text": "earnings report. It's delayed by a day, delayed by 2 days. Now, stop and think"
+  },
+  {
+    "start": "00:07:07.550",
+    "end": "00:07:07.560",
+    "start_seconds": 427.55,
+    "end_seconds": 427.56,
+    "text": "delayed by 2 days. Now, stop and think"
+  },
+  {
+    "start": "00:07:07.560",
+    "end": "00:07:09.390",
+    "start_seconds": 427.56,
+    "end_seconds": 429.39,
+    "text": "delayed by 2 days. Now, stop and think about it. As investors, when you see an"
+  },
+  {
+    "start": "00:07:09.390",
+    "end": "00:07:09.400",
+    "start_seconds": 429.39,
+    "end_seconds": 429.4,
+    "text": "about it. As investors, when you see an"
+  },
+  {
+    "start": "00:07:09.400",
+    "end": "00:07:11.270",
+    "start_seconds": 429.4,
+    "end_seconds": 431.27,
+    "text": "about it. As investors, when you see an earnings report delayed,"
+  },
+  {
+    "start": "00:07:11.270",
+    "end": "00:07:11.280",
+    "start_seconds": 431.27,
+    "end_seconds": 431.28,
+    "text": "earnings report delayed,"
+  },
+  {
+    "start": "00:07:11.280",
+    "end": "00:07:13.030",
+    "start_seconds": 431.28,
+    "end_seconds": 433.03,
+    "text": "earnings report delayed, what's your first reaction?"
+  },
+  {
+    "start": "00:07:13.030",
+    "end": "00:07:13.040",
+    "start_seconds": 433.03,
+    "end_seconds": 433.04,
+    "text": "what's your first reaction?"
+  },
+  {
+    "start": "00:07:13.040",
+    "end": "00:07:14.390",
+    "start_seconds": 433.04,
+    "end_seconds": 434.39,
+    "text": "what's your first reaction? There must be some bad news, right?"
+  },
+  {
+    "start": "00:07:14.390",
+    "end": "00:07:14.400",
+    "start_seconds": 434.39,
+    "end_seconds": 434.4,
+    "text": "There must be some bad news, right?"
+  },
+  {
+    "start": "00:07:14.400",
+    "end": "00:07:16.110",
+    "start_seconds": 434.4,
+    "end_seconds": 436.11,
+    "text": "There must be some bad news, right? Nobody with good news is going to delay"
+  },
+  {
+    "start": "00:07:16.110",
+    "end": "00:07:16.120",
+    "start_seconds": 436.11,
+    "end_seconds": 436.12,
+    "text": "Nobody with good news is going to delay"
+  },
+  {
+    "start": "00:07:16.120",
+    "end": "00:07:18.950",
+    "start_seconds": 436.12,
+    "end_seconds": 438.95,
+    "text": "Nobody with good news is going to delay the report. And you can see already how"
+  },
+  {
+    "start": "00:07:18.950",
+    "end": "00:07:18.960",
+    "start_seconds": 438.95,
+    "end_seconds": 438.96,
+    "text": "the report. And you can see already how"
+  },
+  {
+    "start": "00:07:18.960",
+    "end": "00:07:21.350",
+    "start_seconds": 438.96,
+    "end_seconds": 441.35,
+    "text": "the report. And you can see already how markets have to behave accordingly. And"
+  },
+  {
+    "start": "00:07:21.350",
+    "end": "00:07:21.360",
+    "start_seconds": 441.35,
+    "end_seconds": 441.36,
+    "text": "markets have to behave accordingly. And"
+  },
+  {
+    "start": "00:07:21.360",
+    "end": "00:07:24.150",
+    "start_seconds": 441.36,
+    "end_seconds": 444.15,
+    "text": "markets have to behave accordingly. And the longer you delay a report,"
+  },
+  {
+    "start": "00:07:24.150",
+    "end": "00:07:24.160",
+    "start_seconds": 444.15,
+    "end_seconds": 444.16,
+    "text": "the longer you delay a report,"
+  },
+  {
+    "start": "00:07:24.160",
+    "end": "00:07:25.670",
+    "start_seconds": 444.16,
+    "end_seconds": 445.67,
+    "text": "the longer you delay a report, the more your price drifts down because"
+  },
+  {
+    "start": "00:07:25.670",
+    "end": "00:07:25.680",
+    "start_seconds": 445.67,
+    "end_seconds": 445.68,
+    "text": "the more your price drifts down because"
+  },
+  {
+    "start": "00:07:25.680",
+    "end": "00:07:27.909",
+    "start_seconds": 445.68,
+    "end_seconds": 447.909,
+    "text": "the more your price drifts down because people are building in the expectation,"
+  },
+  {
+    "start": "00:07:27.909",
+    "end": "00:07:27.919",
+    "start_seconds": 447.909,
+    "end_seconds": 447.919,
+    "text": "people are building in the expectation,"
+  },
+  {
+    "start": "00:07:27.919",
+    "end": "00:07:30.270",
+    "start_seconds": 447.919,
+    "end_seconds": 450.27,
+    "text": "people are building in the expectation, that probably rightly, that you're more"
+  },
+  {
+    "start": "00:07:30.270",
+    "end": "00:07:30.280",
+    "start_seconds": 450.27,
+    "end_seconds": 450.28,
+    "text": "that probably rightly, that you're more"
+  },
+  {
+    "start": "00:07:30.280",
+    "end": "00:07:32.990",
+    "start_seconds": 450.28,
+    "end_seconds": 452.99,
+    "text": "that probably rightly, that you're more likely to be conveying bad news."
+  },
+  {
+    "start": "00:07:32.990",
+    "end": "00:07:33.000",
+    "start_seconds": 452.99,
+    "end_seconds": 453.0,
+    "text": "likely to be conveying bad news."
+  },
+  {
+    "start": "00:07:33.000",
+    "end": "00:07:35.030",
+    "start_seconds": 453.0,
+    "end_seconds": 455.03,
+    "text": "likely to be conveying bad news. And finally, if you focus on the day of"
+  },
+  {
+    "start": "00:07:35.030",
+    "end": "00:07:35.040",
+    "start_seconds": 455.03,
+    "end_seconds": 455.04,
+    "text": "And finally, if you focus on the day of"
+  },
+  {
+    "start": "00:07:35.040",
+    "end": "00:07:36.590",
+    "start_seconds": 455.04,
+    "end_seconds": 456.59000000000003,
+    "text": "And finally, if you focus on the day of the announcement itself, and this is a"
+  },
+  {
+    "start": "00:07:36.590",
+    "end": "00:07:36.600",
+    "start_seconds": 456.59000000000003,
+    "end_seconds": 456.6,
+    "text": "the announcement itself, and this is a"
+  },
+  {
+    "start": "00:07:36.600",
+    "end": "00:07:38.590",
+    "start_seconds": 456.6,
+    "end_seconds": 458.59000000000003,
+    "text": "the announcement itself, and this is a study that looked at how quickly prices"
+  },
+  {
+    "start": "00:07:38.590",
+    "end": "00:07:38.600",
+    "start_seconds": 458.59000000000003,
+    "end_seconds": 458.6,
+    "text": "study that looked at how quickly prices"
+  },
+  {
+    "start": "00:07:38.600",
+    "end": "00:07:41.270",
+    "start_seconds": 458.6,
+    "end_seconds": 461.27,
+    "text": "study that looked at how quickly prices adjust, and looked at the immediate"
+  },
+  {
+    "start": "00:07:41.270",
+    "end": "00:07:41.280",
+    "start_seconds": 461.27,
+    "end_seconds": 461.28,
+    "text": "adjust, and looked at the immediate"
+  },
+  {
+    "start": "00:07:41.280",
+    "end": "00:07:44.030",
+    "start_seconds": 461.28,
+    "end_seconds": 464.03,
+    "text": "adjust, and looked at the immediate impact, and then tracked the stock one"
+  },
+  {
+    "start": "00:07:44.030",
+    "end": "00:07:44.040",
+    "start_seconds": 464.03,
+    "end_seconds": 464.04,
+    "text": "impact, and then tracked the stock one"
+  },
+  {
+    "start": "00:07:44.040",
+    "end": "00:07:46.070",
+    "start_seconds": 464.04,
+    "end_seconds": 466.07,
+    "text": "impact, and then tracked the stock one month one hour after, two hours after,"
+  },
+  {
+    "start": "00:07:46.070",
+    "end": "00:07:46.080",
+    "start_seconds": 466.07,
+    "end_seconds": 466.08,
+    "text": "month one hour after, two hours after,"
+  },
+  {
+    "start": "00:07:46.080",
+    "end": "00:07:48.070",
+    "start_seconds": 466.08,
+    "end_seconds": 468.07,
+    "text": "month one hour after, two hours after, three hours after. This is across all"
+  },
+  {
+    "start": "00:07:48.070",
+    "end": "00:07:48.080",
+    "start_seconds": 468.07,
+    "end_seconds": 468.08,
+    "text": "three hours after. This is across all"
+  },
+  {
+    "start": "00:07:48.080",
+    "end": "00:07:49.470",
+    "start_seconds": 468.08,
+    "end_seconds": 469.47,
+    "text": "three hours after. This is across all stocks."
+  },
+  {
+    "start": "00:07:49.470",
+    "end": "00:07:49.480",
+    "start_seconds": 469.47,
+    "end_seconds": 469.48,
+    "text": "stocks."
+  },
+  {
+    "start": "00:07:49.480",
+    "end": "00:07:52.390",
+    "start_seconds": 469.48,
+    "end_seconds": 472.39,
+    "text": "stocks. Across all stocks, about 91%"
+  },
+  {
+    "start": "00:07:52.390",
+    "end": "00:07:52.400",
+    "start_seconds": 472.39,
+    "end_seconds": 472.4,
+    "text": "Across all stocks, about 91%"
+  },
+  {
+    "start": "00:07:52.400",
+    "end": "00:07:54.190",
+    "start_seconds": 472.4,
+    "end_seconds": 474.19,
+    "text": "Across all stocks, about 91% of the price reaction has happened"
+  },
+  {
+    "start": "00:07:54.190",
+    "end": "00:07:54.200",
+    "start_seconds": 474.19,
+    "end_seconds": 474.2,
+    "text": "of the price reaction has happened"
+  },
+  {
+    "start": "00:07:54.200",
+    "end": "00:07:56.470",
+    "start_seconds": 474.2,
+    "end_seconds": 476.47,
+    "text": "of the price reaction has happened within three hours of the report. What"
+  },
+  {
+    "start": "00:07:56.470",
+    "end": "00:07:56.480",
+    "start_seconds": 476.47,
+    "end_seconds": 476.48,
+    "text": "within three hours of the report. What"
+  },
+  {
+    "start": "00:07:56.480",
+    "end": "00:07:57.350",
+    "start_seconds": 476.48,
+    "end_seconds": 477.35,
+    "text": "within three hours of the report. What does that mean? If you're going to be"
+  },
+  {
+    "start": "00:07:57.350",
+    "end": "00:07:57.360",
+    "start_seconds": 477.35,
+    "end_seconds": 477.36,
+    "text": "does that mean? If you're going to be"
+  },
+  {
+    "start": "00:07:57.360",
+    "end": "00:07:58.910",
+    "start_seconds": 477.36,
+    "end_seconds": 478.90999999999997,
+    "text": "does that mean? If you're going to be trading on earnings reports, you better"
+  },
+  {
+    "start": "00:07:58.910",
+    "end": "00:07:58.920",
+    "start_seconds": 478.90999999999997,
+    "end_seconds": 478.92,
+    "text": "trading on earnings reports, you better"
+  },
+  {
+    "start": "00:07:58.920",
+    "end": "00:08:01.310",
+    "start_seconds": 478.92,
+    "end_seconds": 481.31,
+    "text": "trading on earnings reports, you better be trading in time because you wait"
+  },
+  {
+    "start": "00:08:01.310",
+    "end": "00:08:01.320",
+    "start_seconds": 481.31,
+    "end_seconds": 481.32,
+    "text": "be trading in time because you wait"
+  },
+  {
+    "start": "00:08:01.320",
+    "end": "00:08:03.030",
+    "start_seconds": 481.32,
+    "end_seconds": 483.03,
+    "text": "be trading in time because you wait three hours after the report, much of it"
+  },
+  {
+    "start": "00:08:03.030",
+    "end": "00:08:03.040",
+    "start_seconds": 483.03,
+    "end_seconds": 483.04,
+    "text": "three hours after the report, much of it"
+  },
+  {
+    "start": "00:08:03.040",
+    "end": "00:08:04.390",
+    "start_seconds": 483.04,
+    "end_seconds": 484.39,
+    "text": "three hours after the report, much of it is faded."
+  },
+  {
+    "start": "00:08:04.390",
+    "end": "00:08:04.400",
+    "start_seconds": 484.39,
+    "end_seconds": 484.4,
+    "text": "is faded."
+  },
+  {
+    "start": "00:08:04.400",
+    "end": "00:08:05.670",
+    "start_seconds": 484.4,
+    "end_seconds": 485.67,
+    "text": "is faded. And if you look at the most liquid"
+  },
+  {
+    "start": "00:08:05.670",
+    "end": "00:08:05.680",
+    "start_seconds": 485.67,
+    "end_seconds": 485.68,
+    "text": "And if you look at the most liquid"
+  },
+  {
+    "start": "00:08:05.680",
+    "end": "00:08:07.750",
+    "start_seconds": 485.68,
+    "end_seconds": 487.75,
+    "text": "And if you look at the most liquid stocks, this adjustment is even faster."
+  },
+  {
+    "start": "00:08:07.750",
+    "end": "00:08:07.760",
+    "start_seconds": 487.75,
+    "end_seconds": 487.76,
+    "text": "stocks, this adjustment is even faster."
+  },
+  {
+    "start": "00:08:07.760",
+    "end": "00:08:08.870",
+    "start_seconds": 487.76,
+    "end_seconds": 488.87,
+    "text": "stocks, this adjustment is even faster. It's in"
+  },
+  {
+    "start": "00:08:08.870",
+    "end": "00:08:08.880",
+    "start_seconds": 488.87,
+    "end_seconds": 488.88,
+    "text": "It's in"
+  },
+  {
+    "start": "00:08:08.880",
+    "end": "00:08:10.270",
+    "start_seconds": 488.88,
+    "end_seconds": 490.27,
+    "text": "It's in In fact, one of the interesting things"
+  },
+  {
+    "start": "00:08:10.270",
+    "end": "00:08:10.280",
+    "start_seconds": 490.27,
+    "end_seconds": 490.28,
+    "text": "In fact, one of the interesting things"
+  },
+  {
+    "start": "00:08:10.280",
+    "end": "00:08:12.070",
+    "start_seconds": 490.28,
+    "end_seconds": 492.07,
+    "text": "In fact, one of the interesting things again that has happened in markets is"
+  },
+  {
+    "start": "00:08:12.070",
+    "end": "00:08:12.080",
+    "start_seconds": 492.07,
+    "end_seconds": 492.08,
+    "text": "again that has happened in markets is"
+  },
+  {
+    "start": "00:08:12.080",
+    "end": "00:08:14.230",
+    "start_seconds": 492.08,
+    "end_seconds": 494.23,
+    "text": "again that has happened in markets is because these reports often come out"
+  },
+  {
+    "start": "00:08:14.230",
+    "end": "00:08:14.240",
+    "start_seconds": 494.23,
+    "end_seconds": 494.24,
+    "text": "because these reports often come out"
+  },
+  {
+    "start": "00:08:14.240",
+    "end": "00:08:16.830",
+    "start_seconds": 494.24,
+    "end_seconds": 496.83,
+    "text": "because these reports often come out after close of trading."
+  },
+  {
+    "start": "00:08:16.830",
+    "end": "00:08:16.840",
+    "start_seconds": 496.83,
+    "end_seconds": 496.84,
+    "text": "after close of trading."
+  },
+  {
+    "start": "00:08:16.840",
+    "end": "00:08:19.350",
+    "start_seconds": 496.84,
+    "end_seconds": 499.35,
+    "text": "after close of trading. And there is, you know, you can actually"
+  },
+  {
+    "start": "00:08:19.350",
+    "end": "00:08:19.360",
+    "start_seconds": 499.35,
+    "end_seconds": 499.36,
+    "text": "And there is, you know, you can actually"
+  },
+  {
+    "start": "00:08:19.360",
+    "end": "00:08:22.110",
+    "start_seconds": 499.36,
+    "end_seconds": 502.11,
+    "text": "And there is, you know, you can actually see the pre-market price of the company."
+  },
+  {
+    "start": "00:08:22.110",
+    "end": "00:08:22.120",
+    "start_seconds": 502.11,
+    "end_seconds": 502.12,
+    "text": "see the pre-market price of the company."
+  },
+  {
+    "start": "00:08:22.120",
+    "end": "00:08:23.790",
+    "start_seconds": 502.12,
+    "end_seconds": 503.79,
+    "text": "see the pre-market price of the company. The adjustment actually happens in the"
+  },
+  {
+    "start": "00:08:23.790",
+    "end": "00:08:23.800",
+    "start_seconds": 503.79,
+    "end_seconds": 503.8,
+    "text": "The adjustment actually happens in the"
+  },
+  {
+    "start": "00:08:23.800",
+    "end": "00:08:26.310",
+    "start_seconds": 503.8,
+    "end_seconds": 506.31,
+    "text": "The adjustment actually happens in the pre-market. And by the time the stock"
+  },
+  {
+    "start": "00:08:26.310",
+    "end": "00:08:26.320",
+    "start_seconds": 506.31,
+    "end_seconds": 506.32,
+    "text": "pre-market. And by the time the stock"
+  },
+  {
+    "start": "00:08:26.320",
+    "end": "00:08:28.070",
+    "start_seconds": 506.32,
+    "end_seconds": 508.07,
+    "text": "pre-market. And by the time the stock opens the next day, almost all of the"
+  },
+  {
+    "start": "00:08:28.070",
+    "end": "00:08:28.080",
+    "start_seconds": 508.07,
+    "end_seconds": 508.08,
+    "text": "opens the next day, almost all of the"
+  },
+  {
+    "start": "00:08:28.080",
+    "end": "00:08:29.870",
+    "start_seconds": 508.08,
+    "end_seconds": 509.87,
+    "text": "opens the next day, almost all of the adjustment has happened in the most"
+  },
+  {
+    "start": "00:08:29.870",
+    "end": "00:08:29.880",
+    "start_seconds": 509.87,
+    "end_seconds": 509.88,
+    "text": "adjustment has happened in the most"
+  },
+  {
+    "start": "00:08:29.880",
+    "end": "00:08:32.350",
+    "start_seconds": 509.88,
+    "end_seconds": 512.35,
+    "text": "adjustment has happened in the most liquid stocks."
+  },
+  {
+    "start": "00:08:32.350",
+    "end": "00:08:32.360",
+    "start_seconds": 512.35,
+    "end_seconds": 512.36,
+    "text": "liquid stocks."
+  },
+  {
+    "start": "00:08:32.360",
+    "end": "00:08:33.310",
+    "start_seconds": 512.36,
+    "end_seconds": 513.31,
+    "text": "liquid stocks. So, when you look at these earnings"
+  },
+  {
+    "start": "00:08:33.310",
+    "end": "00:08:33.320",
+    "start_seconds": 513.31,
+    "end_seconds": 513.32,
+    "text": "So, when you look at these earnings"
+  },
+  {
+    "start": "00:08:33.320",
+    "end": "00:08:34.830",
+    "start_seconds": 513.32,
+    "end_seconds": 514.83,
+    "text": "So, when you look at these earnings reports and how they affect prices,"
+  },
+  {
+    "start": "00:08:34.830",
+    "end": "00:08:34.840",
+    "start_seconds": 514.83,
+    "end_seconds": 514.84,
+    "text": "reports and how they affect prices,"
+  },
+  {
+    "start": "00:08:34.840",
+    "end": "00:08:36.350",
+    "start_seconds": 514.84,
+    "end_seconds": 516.35,
+    "text": "reports and how they affect prices, there are some things that seem to come"
+  },
+  {
+    "start": "00:08:36.350",
+    "end": "00:08:36.360",
+    "start_seconds": 516.35,
+    "end_seconds": 516.36,
+    "text": "there are some things that seem to come"
+  },
+  {
+    "start": "00:08:36.360",
+    "end": "00:08:38.310",
+    "start_seconds": 516.36,
+    "end_seconds": 518.31,
+    "text": "there are some things that seem to come out. First is the quality of earnings"
+  },
+  {
+    "start": "00:08:38.310",
+    "end": "00:08:38.320",
+    "start_seconds": 518.31,
+    "end_seconds": 518.32,
+    "text": "out. First is the quality of earnings"
+  },
+  {
+    "start": "00:08:38.320",
+    "end": "00:08:39.750",
+    "start_seconds": 518.32,
+    "end_seconds": 519.75,
+    "text": "out. First is the quality of earnings seems to matter."
+  },
+  {
+    "start": "00:08:39.750",
+    "end": "00:08:39.760",
+    "start_seconds": 519.75,
+    "end_seconds": 519.76,
+    "text": "seems to matter."
+  },
+  {
+    "start": "00:08:39.760",
+    "end": "00:08:41.350",
+    "start_seconds": 519.76,
+    "end_seconds": 521.35,
+    "text": "seems to matter. Company comes out and says, you know,"
+  },
+  {
+    "start": "00:08:41.350",
+    "end": "00:08:41.360",
+    "start_seconds": 521.35,
+    "end_seconds": 521.36,
+    "text": "Company comes out and says, you know,"
+  },
+  {
+    "start": "00:08:41.360",
+    "end": "00:08:42.909",
+    "start_seconds": 521.36,
+    "end_seconds": 522.909,
+    "text": "Company comes out and says, you know, its earnings were 10% higher than"
+  },
+  {
+    "start": "00:08:42.909",
+    "end": "00:08:42.919",
+    "start_seconds": 522.909,
+    "end_seconds": 522.919,
+    "text": "its earnings were 10% higher than"
+  },
+  {
+    "start": "00:08:42.919",
+    "end": "00:08:45.230",
+    "start_seconds": 522.919,
+    "end_seconds": 525.23,
+    "text": "its earnings were 10% higher than expected. That's good news, right?"
+  },
+  {
+    "start": "00:08:45.230",
+    "end": "00:08:45.240",
+    "start_seconds": 525.23,
+    "end_seconds": 525.24,
+    "text": "expected. That's good news, right?"
+  },
+  {
+    "start": "00:08:45.240",
+    "end": "00:08:46.910",
+    "start_seconds": 525.24,
+    "end_seconds": 526.91,
+    "text": "expected. That's good news, right? But it also has to reveal its entire"
+  },
+  {
+    "start": "00:08:46.910",
+    "end": "00:08:46.920",
+    "start_seconds": 526.91,
+    "end_seconds": 526.92,
+    "text": "But it also has to reveal its entire"
+  },
+  {
+    "start": "00:08:46.920",
+    "end": "00:08:48.510",
+    "start_seconds": 526.92,
+    "end_seconds": 528.51,
+    "text": "But it also has to reveal its entire entire quarterly reports, and you start"
+  },
+  {
+    "start": "00:08:48.510",
+    "end": "00:08:48.520",
+    "start_seconds": 528.51,
+    "end_seconds": 528.52,
+    "text": "entire quarterly reports, and you start"
+  },
+  {
+    "start": "00:08:48.520",
+    "end": "00:08:50.070",
+    "start_seconds": 528.52,
+    "end_seconds": 530.07,
+    "text": "entire quarterly reports, and you start digging through and you discover that"
+  },
+  {
+    "start": "00:08:50.070",
+    "end": "00:08:50.080",
+    "start_seconds": 530.07,
+    "end_seconds": 530.08,
+    "text": "digging through and you discover that"
+  },
+  {
+    "start": "00:08:50.080",
+    "end": "00:08:53.070",
+    "start_seconds": 530.08,
+    "end_seconds": 533.07,
+    "text": "digging through and you discover that the 10% jump came almost entirely from"
+  },
+  {
+    "start": "00:08:53.070",
+    "end": "00:08:53.080",
+    "start_seconds": 533.07,
+    "end_seconds": 533.08,
+    "text": "the 10% jump came almost entirely from"
+  },
+  {
+    "start": "00:08:53.080",
+    "end": "00:08:55.510",
+    "start_seconds": 533.08,
+    "end_seconds": 535.51,
+    "text": "the 10% jump came almost entirely from sales made by the company in the last"
+  },
+  {
+    "start": "00:08:55.510",
+    "end": "00:08:55.520",
+    "start_seconds": 535.51,
+    "end_seconds": 535.52,
+    "text": "sales made by the company in the last"
+  },
+  {
+    "start": "00:08:55.520",
+    "end": "00:08:57.750",
+    "start_seconds": 535.52,
+    "end_seconds": 537.75,
+    "text": "sales made by the company in the last two weeks of the quarter for which they"
+  },
+  {
+    "start": "00:08:57.750",
+    "end": "00:08:57.760",
+    "start_seconds": 537.75,
+    "end_seconds": 537.76,
+    "text": "two weeks of the quarter for which they"
+  },
+  {
+    "start": "00:08:57.760",
+    "end": "00:08:59.870",
+    "start_seconds": 537.76,
+    "end_seconds": 539.87,
+    "text": "two weeks of the quarter for which they haven't been paid yet. It shows up in"
+  },
+  {
+    "start": "00:08:59.870",
+    "end": "00:08:59.880",
+    "start_seconds": 539.87,
+    "end_seconds": 539.88,
+    "text": "haven't been paid yet. It shows up in"
+  },
+  {
+    "start": "00:08:59.880",
+    "end": "00:09:01.910",
+    "start_seconds": 539.88,
+    "end_seconds": 541.91,
+    "text": "haven't been paid yet. It shows up in your statement of cash flows as"
+  },
+  {
+    "start": "00:09:01.910",
+    "end": "00:09:01.920",
+    "start_seconds": 541.91,
+    "end_seconds": 541.92,
+    "text": "your statement of cash flows as"
+  },
+  {
+    "start": "00:09:01.920",
+    "end": "00:09:03.870",
+    "start_seconds": 541.92,
+    "end_seconds": 543.87,
+    "text": "your statement of cash flows as receivables jumping."
+  },
+  {
+    "start": "00:09:03.870",
+    "end": "00:09:03.880",
+    "start_seconds": 543.87,
+    "end_seconds": 543.88,
+    "text": "receivables jumping."
+  },
+  {
+    "start": "00:09:03.880",
+    "end": "00:09:06.470",
+    "start_seconds": 543.88,
+    "end_seconds": 546.47,
+    "text": "receivables jumping. Well, that's not a great price in a"
+  },
+  {
+    "start": "00:09:06.470",
+    "end": "00:09:06.480",
+    "start_seconds": 546.47,
+    "end_seconds": 546.48,
+    "text": "Well, that's not a great price in a"
+  },
+  {
+    "start": "00:09:06.480",
+    "end": "00:09:07.870",
+    "start_seconds": 546.48,
+    "end_seconds": 547.87,
+    "text": "Well, that's not a great price in a earning speed. You might decide that"
+  },
+  {
+    "start": "00:09:07.870",
+    "end": "00:09:07.880",
+    "start_seconds": 547.87,
+    "end_seconds": 547.88,
+    "text": "earning speed. You might decide that"
+  },
+  {
+    "start": "00:09:07.880",
+    "end": "00:09:10.790",
+    "start_seconds": 547.88,
+    "end_seconds": 550.79,
+    "text": "earning speed. You might decide that that's a lower quality positive surprise"
+  },
+  {
+    "start": "00:09:10.790",
+    "end": "00:09:10.800",
+    "start_seconds": 550.79,
+    "end_seconds": 550.8,
+    "text": "that's a lower quality positive surprise"
+  },
+  {
+    "start": "00:09:10.800",
+    "end": "00:09:12.950",
+    "start_seconds": 550.8,
+    "end_seconds": 552.95,
+    "text": "that's a lower quality positive surprise than one where the company sold more"
+  },
+  {
+    "start": "00:09:12.950",
+    "end": "00:09:12.960",
+    "start_seconds": 552.95,
+    "end_seconds": 552.96,
+    "text": "than one where the company sold more"
+  },
+  {
+    "start": "00:09:12.960",
+    "end": "00:09:14.470",
+    "start_seconds": 552.96,
+    "end_seconds": 554.47,
+    "text": "than one where the company sold more than expected and made more than"
+  },
+  {
+    "start": "00:09:14.470",
+    "end": "00:09:14.480",
+    "start_seconds": 554.47,
+    "end_seconds": 554.48,
+    "text": "than expected and made more than"
+  },
+  {
+    "start": "00:09:14.480",
+    "end": "00:09:16.270",
+    "start_seconds": 554.48,
+    "end_seconds": 556.27,
+    "text": "than expected and made more than expected. So, the quality of earnings"
+  },
+  {
+    "start": "00:09:16.270",
+    "end": "00:09:16.280",
+    "start_seconds": 556.27,
+    "end_seconds": 556.28,
+    "text": "expected. So, the quality of earnings"
+  },
+  {
+    "start": "00:09:16.280",
+    "end": "00:09:18.670",
+    "start_seconds": 556.28,
+    "end_seconds": 558.67,
+    "text": "expected. So, the quality of earnings matters, which also means that your"
+  },
+  {
+    "start": "00:09:18.670",
+    "end": "00:09:18.680",
+    "start_seconds": 558.67,
+    "end_seconds": 558.68,
+    "text": "matters, which also means that your"
+  },
+  {
+    "start": "00:09:18.680",
+    "end": "00:09:21.070",
+    "start_seconds": 558.68,
+    "end_seconds": 561.07,
+    "text": "matters, which also means that your accounting has to get much more solid."
+  },
+  {
+    "start": "00:09:21.070",
+    "end": "00:09:21.080",
+    "start_seconds": 561.07,
+    "end_seconds": 561.08,
+    "text": "accounting has to get much more solid."
+  },
+  {
+    "start": "00:09:21.080",
+    "end": "00:09:23.230",
+    "start_seconds": 561.08,
+    "end_seconds": 563.23,
+    "text": "accounting has to get much more solid. You agree? You have to play the role of"
+  },
+  {
+    "start": "00:09:23.230",
+    "end": "00:09:23.240",
+    "start_seconds": 563.23,
+    "end_seconds": 563.24,
+    "text": "You agree? You have to play the role of"
+  },
+  {
+    "start": "00:09:23.240",
+    "end": "00:09:26.390",
+    "start_seconds": 563.24,
+    "end_seconds": 566.39,
+    "text": "You agree? You have to play the role of a forensic accountant and not just react"
+  },
+  {
+    "start": "00:09:26.390",
+    "end": "00:09:26.400",
+    "start_seconds": 566.39,
+    "end_seconds": 566.4,
+    "text": "a forensic accountant and not just react"
+  },
+  {
+    "start": "00:09:26.400",
+    "end": "00:09:28.030",
+    "start_seconds": 566.4,
+    "end_seconds": 568.03,
+    "text": "a forensic accountant and not just react to the top line or the bottom line"
+  },
+  {
+    "start": "00:09:28.030",
+    "end": "00:09:28.040",
+    "start_seconds": 568.03,
+    "end_seconds": 568.04,
+    "text": "to the top line or the bottom line"
+  },
+  {
+    "start": "00:09:28.040",
+    "end": "00:09:29.110",
+    "start_seconds": 568.04,
+    "end_seconds": 569.11,
+    "text": "to the top line or the bottom line number."
+  },
+  {
+    "start": "00:09:29.110",
+    "end": "00:09:29.120",
+    "start_seconds": 569.11,
+    "end_seconds": 569.12,
+    "text": "number."
+  },
+  {
+    "start": "00:09:29.120",
+    "end": "00:09:31.230",
+    "start_seconds": 569.12,
+    "end_seconds": 571.23,
+    "text": "number. Second, and this is I think one way to"
+  },
+  {
+    "start": "00:09:31.230",
+    "end": "00:09:31.240",
+    "start_seconds": 571.23,
+    "end_seconds": 571.24,
+    "text": "Second, and this is I think one way to"
+  },
+  {
+    "start": "00:09:31.240",
+    "end": "00:09:32.870",
+    "start_seconds": 571.24,
+    "end_seconds": 572.87,
+    "text": "Second, and this is I think one way to measure earnings quality is look at"
+  },
+  {
+    "start": "00:09:32.870",
+    "end": "00:09:32.880",
+    "start_seconds": 572.87,
+    "end_seconds": 572.88,
+    "text": "measure earnings quality is look at"
+  },
+  {
+    "start": "00:09:32.880",
+    "end": "00:09:34.310",
+    "start_seconds": 572.88,
+    "end_seconds": 574.31,
+    "text": "measure earnings quality is look at accrual earnings, which is what"
+  },
+  {
+    "start": "00:09:34.310",
+    "end": "00:09:34.320",
+    "start_seconds": 574.31,
+    "end_seconds": 574.32,
+    "text": "accrual earnings, which is what"
+  },
+  {
+    "start": "00:09:34.320",
+    "end": "00:09:36.950",
+    "start_seconds": 574.32,
+    "end_seconds": 576.95,
+    "text": "accrual earnings, which is what companies report as earnings per share."
+  },
+  {
+    "start": "00:09:36.950",
+    "end": "00:09:36.960",
+    "start_seconds": 576.95,
+    "end_seconds": 576.96,
+    "text": "companies report as earnings per share."
+  },
+  {
+    "start": "00:09:36.960",
+    "end": "00:09:38.990",
+    "start_seconds": 576.96,
+    "end_seconds": 578.99,
+    "text": "companies report as earnings per share. But then if you look at the full state"
+  },
+  {
+    "start": "00:09:38.990",
+    "end": "00:09:39.000",
+    "start_seconds": 578.99,
+    "end_seconds": 579.0,
+    "text": "But then if you look at the full state"
+  },
+  {
+    "start": "00:09:39.000",
+    "end": "00:09:40.150",
+    "start_seconds": 579.0,
+    "end_seconds": 580.15,
+    "text": "But then if you look at the full state financial statement, you look at the"
+  },
+  {
+    "start": "00:09:40.150",
+    "end": "00:09:40.160",
+    "start_seconds": 580.15,
+    "end_seconds": 580.16,
+    "text": "financial statement, you look at the"
+  },
+  {
+    "start": "00:09:40.160",
+    "end": "00:09:41.630",
+    "start_seconds": 580.16,
+    "end_seconds": 581.63,
+    "text": "financial statement, you look at the statement of cash flows, you can look at"
+  },
+  {
+    "start": "00:09:41.630",
+    "end": "00:09:41.640",
+    "start_seconds": 581.63,
+    "end_seconds": 581.64,
+    "text": "statement of cash flows, you can look at"
+  },
+  {
+    "start": "00:09:41.640",
+    "end": "00:09:44.430",
+    "start_seconds": 581.64,
+    "end_seconds": 584.43,
+    "text": "statement of cash flows, you can look at cash earnings. Companies where accrual"
+  },
+  {
+    "start": "00:09:44.430",
+    "end": "00:09:44.440",
+    "start_seconds": 584.43,
+    "end_seconds": 584.44,
+    "text": "cash earnings. Companies where accrual"
+  },
+  {
+    "start": "00:09:44.440",
+    "end": "00:09:46.230",
+    "start_seconds": 584.44,
+    "end_seconds": 586.23,
+    "text": "cash earnings. Companies where accrual earnings jump a lot, but cash earnings"
+  },
+  {
+    "start": "00:09:46.230",
+    "end": "00:09:46.240",
+    "start_seconds": 586.23,
+    "end_seconds": 586.24,
+    "text": "earnings jump a lot, but cash earnings"
+  },
+  {
+    "start": "00:09:46.240",
+    "end": "00:09:47.430",
+    "start_seconds": 586.24,
+    "end_seconds": 587.43,
+    "text": "earnings jump a lot, but cash earnings don't, you have to be a little more"
+  },
+  {
+    "start": "00:09:47.430",
+    "end": "00:09:47.440",
+    "start_seconds": 587.43,
+    "end_seconds": 587.44,
+    "text": "don't, you have to be a little more"
+  },
+  {
+    "start": "00:09:47.440",
+    "end": "00:09:49.670",
+    "start_seconds": 587.44,
+    "end_seconds": 589.67,
+    "text": "don't, you have to be a little more skeptical than companies where both"
+  },
+  {
+    "start": "00:09:49.670",
+    "end": "00:09:49.680",
+    "start_seconds": 589.67,
+    "end_seconds": 589.68,
+    "text": "skeptical than companies where both"
+  },
+  {
+    "start": "00:09:49.680",
+    "end": "00:09:52.230",
+    "start_seconds": 589.68,
+    "end_seconds": 592.23,
+    "text": "skeptical than companies where both increase. So, earnings quality matters,"
+  },
+  {
+    "start": "00:09:52.230",
+    "end": "00:09:52.240",
+    "start_seconds": 592.23,
+    "end_seconds": 592.24,
+    "text": "increase. So, earnings quality matters,"
+  },
+  {
+    "start": "00:09:52.240",
+    "end": "00:09:54.550",
+    "start_seconds": 592.24,
+    "end_seconds": 594.55,
+    "text": "increase. So, earnings quality matters, and there are forensic accounting"
+  },
+  {
+    "start": "00:09:54.550",
+    "end": "00:09:54.560",
+    "start_seconds": 594.55,
+    "end_seconds": 594.56,
+    "text": "and there are forensic accounting"
+  },
+  {
+    "start": "00:09:54.560",
+    "end": "00:09:56.550",
+    "start_seconds": 594.56,
+    "end_seconds": 596.55,
+    "text": "and there are forensic accounting metrics you can use to gauge the quality"
+  },
+  {
+    "start": "00:09:56.550",
+    "end": "00:09:56.560",
+    "start_seconds": 596.55,
+    "end_seconds": 596.56,
+    "text": "metrics you can use to gauge the quality"
+  },
+  {
+    "start": "00:09:56.560",
+    "end": "00:09:58.110",
+    "start_seconds": 596.56,
+    "end_seconds": 598.11,
+    "text": "metrics you can use to gauge the quality of earnings."
+  },
+  {
+    "start": "00:09:58.110",
+    "end": "00:09:58.120",
+    "start_seconds": 598.11,
+    "end_seconds": 598.12,
+    "text": "of earnings."
+  },
+  {
+    "start": "00:09:58.120",
+    "end": "00:10:00.230",
+    "start_seconds": 598.12,
+    "end_seconds": 600.23,
+    "text": "of earnings. As I mentioned earlier, companies"
+  },
+  {
+    "start": "00:10:00.230",
+    "end": "00:10:00.240",
+    "start_seconds": 600.23,
+    "end_seconds": 600.24,
+    "text": "As I mentioned earlier, companies"
+  },
+  {
+    "start": "00:10:00.240",
+    "end": "00:10:02.310",
+    "start_seconds": 600.24,
+    "end_seconds": 602.31,
+    "text": "As I mentioned earlier, companies increasingly have come under pressure."
+  },
+  {
+    "start": "00:10:02.310",
+    "end": "00:10:02.320",
+    "start_seconds": 602.31,
+    "end_seconds": 602.32,
+    "text": "increasingly have come under pressure."
+  },
+  {
+    "start": "00:10:02.320",
+    "end": "00:10:04.030",
+    "start_seconds": 602.32,
+    "end_seconds": 604.03,
+    "text": "increasingly have come under pressure. And many have done this voluntarily when"
+  },
+  {
+    "start": "00:10:04.030",
+    "end": "00:10:04.040",
+    "start_seconds": 604.03,
+    "end_seconds": 604.04,
+    "text": "And many have done this voluntarily when"
+  },
+  {
+    "start": "00:10:04.040",
+    "end": "00:10:05.670",
+    "start_seconds": 604.04,
+    "end_seconds": 605.67,
+    "text": "And many have done this voluntarily when they report their earnings to also give"
+  },
+  {
+    "start": "00:10:05.670",
+    "end": "00:10:05.680",
+    "start_seconds": 605.67,
+    "end_seconds": 605.68,
+    "text": "they report their earnings to also give"
+  },
+  {
+    "start": "00:10:05.680",
+    "end": "00:10:08.550",
+    "start_seconds": 605.68,
+    "end_seconds": 608.55,
+    "text": "they report their earnings to also give you give investors guidance about what"
+  },
+  {
+    "start": "00:10:08.550",
+    "end": "00:10:08.560",
+    "start_seconds": 608.55,
+    "end_seconds": 608.56,
+    "text": "you give investors guidance about what"
+  },
+  {
+    "start": "00:10:08.560",
+    "end": "00:10:10.550",
+    "start_seconds": 608.56,
+    "end_seconds": 610.55,
+    "text": "you give investors guidance about what they see coming down the pipe in the"
+  },
+  {
+    "start": "00:10:10.550",
+    "end": "00:10:10.560",
+    "start_seconds": 610.55,
+    "end_seconds": 610.56,
+    "text": "they see coming down the pipe in the"
+  },
+  {
+    "start": "00:10:10.560",
+    "end": "00:10:12.590",
+    "start_seconds": 610.56,
+    "end_seconds": 612.59,
+    "text": "they see coming down the pipe in the next year, the next 2 years in terms of"
+  },
+  {
+    "start": "00:10:12.590",
+    "end": "00:10:12.600",
+    "start_seconds": 612.59,
+    "end_seconds": 612.6,
+    "text": "next year, the next 2 years in terms of"
+  },
+  {
+    "start": "00:10:12.600",
+    "end": "00:10:14.950",
+    "start_seconds": 612.6,
+    "end_seconds": 614.95,
+    "text": "next year, the next 2 years in terms of revenues and margins. So, a company"
+  },
+  {
+    "start": "00:10:14.950",
+    "end": "00:10:14.960",
+    "start_seconds": 614.95,
+    "end_seconds": 614.96,
+    "text": "revenues and margins. So, a company"
+  },
+  {
+    "start": "00:10:14.960",
+    "end": "00:10:17.550",
+    "start_seconds": 614.96,
+    "end_seconds": 617.55,
+    "text": "revenues and margins. So, a company might say, \"We beat earnings by 5% last"
+  },
+  {
+    "start": "00:10:17.550",
+    "end": "00:10:17.560",
+    "start_seconds": 617.55,
+    "end_seconds": 617.56,
+    "text": "might say, \"We beat earnings by 5% last"
+  },
+  {
+    "start": "00:10:17.560",
+    "end": "00:10:19.670",
+    "start_seconds": 617.56,
+    "end_seconds": 619.67,
+    "text": "might say, \"We beat earnings by 5% last quarter, but you know what? Things don't"
+  },
+  {
+    "start": "00:10:19.670",
+    "end": "00:10:19.680",
+    "start_seconds": 619.67,
+    "end_seconds": 619.68,
+    "text": "quarter, but you know what? Things don't"
+  },
+  {
+    "start": "00:10:19.680",
+    "end": "00:10:21.590",
+    "start_seconds": 619.68,
+    "end_seconds": 621.59,
+    "text": "quarter, but you know what? Things don't look great for the next year or the next"
+  },
+  {
+    "start": "00:10:21.590",
+    "end": "00:10:21.600",
+    "start_seconds": 621.59,
+    "end_seconds": 621.6,
+    "text": "look great for the next year or the next"
+  },
+  {
+    "start": "00:10:21.600",
+    "end": "00:10:23.750",
+    "start_seconds": 621.6,
+    "end_seconds": 623.75,
+    "text": "look great for the next year or the next quarter, and we want to let you know.\""
+  },
+  {
+    "start": "00:10:23.750",
+    "end": "00:10:23.760",
+    "start_seconds": 623.75,
+    "end_seconds": 623.76,
+    "text": "quarter, and we want to let you know.\""
+  },
+  {
+    "start": "00:10:23.760",
+    "end": "00:10:25.510",
+    "start_seconds": 623.76,
+    "end_seconds": 625.51,
+    "text": "quarter, and we want to let you know.\" We'll talk about why companies might"
+  },
+  {
+    "start": "00:10:25.510",
+    "end": "00:10:25.520",
+    "start_seconds": 625.51,
+    "end_seconds": 625.52,
+    "text": "We'll talk about why companies might"
+  },
+  {
+    "start": "00:10:25.520",
+    "end": "00:10:27.910",
+    "start_seconds": 625.52,
+    "end_seconds": 627.91,
+    "text": "We'll talk about why companies might convey negative guidance or guidance"
+  },
+  {
+    "start": "00:10:27.910",
+    "end": "00:10:27.920",
+    "start_seconds": 627.91,
+    "end_seconds": 627.92,
+    "text": "convey negative guidance or guidance"
+  },
+  {
+    "start": "00:10:27.920",
+    "end": "00:10:30.110",
+    "start_seconds": 627.92,
+    "end_seconds": 630.11,
+    "text": "convey negative guidance or guidance that doesn't look as upbeat as people"
+  },
+  {
+    "start": "00:10:30.110",
+    "end": "00:10:30.120",
+    "start_seconds": 630.11,
+    "end_seconds": 630.12,
+    "text": "that doesn't look as upbeat as people"
+  },
+  {
+    "start": "00:10:30.120",
+    "end": "00:10:31.630",
+    "start_seconds": 630.12,
+    "end_seconds": 631.63,
+    "text": "that doesn't look as upbeat as people thought it was going to be."
+  },
+  {
+    "start": "00:10:31.630",
+    "end": "00:10:31.640",
+    "start_seconds": 631.63,
+    "end_seconds": 631.64,
+    "text": "thought it was going to be."
+  },
+  {
+    "start": "00:10:31.640",
+    "end": "00:10:33.750",
+    "start_seconds": 631.64,
+    "end_seconds": 633.75,
+    "text": "thought it was going to be. But when that guidance comes out, just"
+  },
+  {
+    "start": "00:10:33.750",
+    "end": "00:10:33.760",
+    "start_seconds": 633.75,
+    "end_seconds": 633.76,
+    "text": "But when that guidance comes out, just"
+  },
+  {
+    "start": "00:10:33.760",
+    "end": "00:10:35.630",
+    "start_seconds": 633.76,
+    "end_seconds": 635.63,
+    "text": "But when that guidance comes out, just as with the actual earnings, investors"
+  },
+  {
+    "start": "00:10:35.630",
+    "end": "00:10:35.640",
+    "start_seconds": 635.63,
+    "end_seconds": 635.64,
+    "text": "as with the actual earnings, investors"
+  },
+  {
+    "start": "00:10:35.640",
+    "end": "00:10:37.270",
+    "start_seconds": 635.64,
+    "end_seconds": 637.27,
+    "text": "as with the actual earnings, investors are comparing the guidance to"
+  },
+  {
+    "start": "00:10:37.270",
+    "end": "00:10:37.280",
+    "start_seconds": 637.27,
+    "end_seconds": 637.28,
+    "text": "are comparing the guidance to"
+  },
+  {
+    "start": "00:10:37.280",
+    "end": "00:10:39.430",
+    "start_seconds": 637.28,
+    "end_seconds": 639.43,
+    "text": "are comparing the guidance to expectations."
+  },
+  {
+    "start": "00:10:39.430",
+    "end": "00:10:39.440",
+    "start_seconds": 639.43,
+    "end_seconds": 639.44,
+    "text": "expectations."
+  },
+  {
+    "start": "00:10:39.440",
+    "end": "00:10:40.870",
+    "start_seconds": 639.44,
+    "end_seconds": 640.87,
+    "text": "expectations. There have been times in the last few"
+  },
+  {
+    "start": "00:10:40.870",
+    "end": "00:10:40.880",
+    "start_seconds": 640.87,
+    "end_seconds": 640.88,
+    "text": "There have been times in the last few"
+  },
+  {
+    "start": "00:10:40.880",
+    "end": "00:10:44.110",
+    "start_seconds": 640.88,
+    "end_seconds": 644.11,
+    "text": "There have been times in the last few years where companies beaten earnings"
+  },
+  {
+    "start": "00:10:44.110",
+    "end": "00:10:44.120",
+    "start_seconds": 644.11,
+    "end_seconds": 644.12,
+    "text": "years where companies beaten earnings"
+  },
+  {
+    "start": "00:10:44.120",
+    "end": "00:10:45.990",
+    "start_seconds": 644.12,
+    "end_seconds": 645.99,
+    "text": "years where companies beaten earnings with its actual earnings, they have"
+  },
+  {
+    "start": "00:10:45.990",
+    "end": "00:10:46.000",
+    "start_seconds": 645.99,
+    "end_seconds": 646.0,
+    "text": "with its actual earnings, they have"
+  },
+  {
+    "start": "00:10:46.000",
+    "end": "00:10:48.470",
+    "start_seconds": 646.0,
+    "end_seconds": 648.47,
+    "text": "with its actual earnings, they have beaten expectations, but provided"
+  },
+  {
+    "start": "00:10:48.470",
+    "end": "00:10:48.480",
+    "start_seconds": 648.47,
+    "end_seconds": 648.48,
+    "text": "beaten expectations, but provided"
+  },
+  {
+    "start": "00:10:48.480",
+    "end": "00:10:50.070",
+    "start_seconds": 648.48,
+    "end_seconds": 650.07,
+    "text": "beaten expectations, but provided guidance that's so negative the stock"
+  },
+  {
+    "start": "00:10:50.070",
+    "end": "00:10:50.080",
+    "start_seconds": 650.07,
+    "end_seconds": 650.08,
+    "text": "guidance that's so negative the stock"
+  },
+  {
+    "start": "00:10:50.080",
+    "end": "00:10:51.870",
+    "start_seconds": 650.08,
+    "end_seconds": 651.87,
+    "text": "guidance that's so negative the stock price drops."
+  },
+  {
+    "start": "00:10:51.870",
+    "end": "00:10:51.880",
+    "start_seconds": 651.87,
+    "end_seconds": 651.88,
+    "text": "price drops."
+  },
+  {
+    "start": "00:10:51.880",
+    "end": "00:10:53.990",
+    "start_seconds": 651.88,
+    "end_seconds": 653.99,
+    "text": "price drops. And that guidance process troubles me a"
+  },
+  {
+    "start": "00:10:53.990",
+    "end": "00:10:54.000",
+    "start_seconds": 653.99,
+    "end_seconds": 654.0,
+    "text": "And that guidance process troubles me a"
+  },
+  {
+    "start": "00:10:54.000",
+    "end": "00:10:55.990",
+    "start_seconds": 654.0,
+    "end_seconds": 655.99,
+    "text": "And that guidance process troubles me a little bit because it's open to gaming."
+  },
+  {
+    "start": "00:10:55.990",
+    "end": "00:10:56.000",
+    "start_seconds": 655.99,
+    "end_seconds": 656.0,
+    "text": "little bit because it's open to gaming."
+  },
+  {
+    "start": "00:10:56.000",
+    "end": "00:10:58.190",
+    "start_seconds": 656.0,
+    "end_seconds": 658.19,
+    "text": "little bit because it's open to gaming. And here's what the gaming looks like."
+  },
+  {
+    "start": "00:10:58.190",
+    "end": "00:10:58.200",
+    "start_seconds": 658.19,
+    "end_seconds": 658.2,
+    "text": "And here's what the gaming looks like."
+  },
+  {
+    "start": "00:10:58.200",
+    "end": "00:11:00.070",
+    "start_seconds": 658.2,
+    "end_seconds": 660.07,
+    "text": "And here's what the gaming looks like. Companies know that their earnings are"
+  },
+  {
+    "start": "00:11:00.070",
+    "end": "00:11:00.080",
+    "start_seconds": 660.07,
+    "end_seconds": 660.08,
+    "text": "Companies know that their earnings are"
+  },
+  {
+    "start": "00:11:00.080",
+    "end": "00:11:02.070",
+    "start_seconds": 660.08,
+    "end_seconds": 662.07,
+    "text": "Companies know that their earnings are measured against expectations. One way"
+  },
+  {
+    "start": "00:11:02.070",
+    "end": "00:11:02.080",
+    "start_seconds": 662.07,
+    "end_seconds": 662.08,
+    "text": "measured against expectations. One way"
+  },
+  {
+    "start": "00:11:02.080",
+    "end": "00:11:04.390",
+    "start_seconds": 662.08,
+    "end_seconds": 664.39,
+    "text": "measured against expectations. One way they can manage expectations is by"
+  },
+  {
+    "start": "00:11:04.390",
+    "end": "00:11:04.400",
+    "start_seconds": 664.39,
+    "end_seconds": 664.4,
+    "text": "they can manage expectations is by"
+  },
+  {
+    "start": "00:11:04.400",
+    "end": "00:11:08.230",
+    "start_seconds": 664.4,
+    "end_seconds": 668.23,
+    "text": "they can manage expectations is by providing guidance that's more negative."
+  },
+  {
+    "start": "00:11:08.230",
+    "end": "00:11:08.240",
+    "start_seconds": 668.23,
+    "end_seconds": 668.24,
+    "text": "providing guidance that's more negative."
+  },
+  {
+    "start": "00:11:08.240",
+    "end": "00:11:10.070",
+    "start_seconds": 668.24,
+    "end_seconds": 670.07,
+    "text": "providing guidance that's more negative. So, sometimes the negative guidance is"
+  },
+  {
+    "start": "00:11:10.070",
+    "end": "00:11:10.080",
+    "start_seconds": 670.07,
+    "end_seconds": 670.08,
+    "text": "So, sometimes the negative guidance is"
+  },
+  {
+    "start": "00:11:10.080",
+    "end": "00:11:12.270",
+    "start_seconds": 670.08,
+    "end_seconds": 672.27,
+    "text": "So, sometimes the negative guidance is not so much because a company thinks the"
+  },
+  {
+    "start": "00:11:12.270",
+    "end": "00:11:12.280",
+    "start_seconds": 672.27,
+    "end_seconds": 672.28,
+    "text": "not so much because a company thinks the"
+  },
+  {
+    "start": "00:11:12.280",
+    "end": "00:11:13.950",
+    "start_seconds": 672.28,
+    "end_seconds": 673.95,
+    "text": "not so much because a company thinks the future doesn't look as good, but because"
+  },
+  {
+    "start": "00:11:13.950",
+    "end": "00:11:13.960",
+    "start_seconds": 673.95,
+    "end_seconds": 673.96,
+    "text": "future doesn't look as good, but because"
+  },
+  {
+    "start": "00:11:13.960",
+    "end": "00:11:15.870",
+    "start_seconds": 673.96,
+    "end_seconds": 675.87,
+    "text": "future doesn't look as good, but because they want to bring down expectations for"
+  },
+  {
+    "start": "00:11:15.870",
+    "end": "00:11:15.880",
+    "start_seconds": 675.87,
+    "end_seconds": 675.88,
+    "text": "they want to bring down expectations for"
+  },
+  {
+    "start": "00:11:15.880",
+    "end": "00:11:17.470",
+    "start_seconds": 675.88,
+    "end_seconds": 677.47,
+    "text": "they want to bring down expectations for the next quarter so they can beat those"
+  },
+  {
+    "start": "00:11:17.470",
+    "end": "00:11:17.480",
+    "start_seconds": 677.47,
+    "end_seconds": 677.48,
+    "text": "the next quarter so they can beat those"
+  },
+  {
+    "start": "00:11:17.480",
+    "end": "00:11:19.350",
+    "start_seconds": 677.48,
+    "end_seconds": 679.35,
+    "text": "the next quarter so they can beat those expectations."
+  },
+  {
+    "start": "00:11:19.350",
+    "end": "00:11:19.360",
+    "start_seconds": 679.35,
+    "end_seconds": 679.36,
+    "text": "expectations."
+  },
+  {
+    "start": "00:11:19.360",
+    "end": "00:11:21.670",
+    "start_seconds": 679.36,
+    "end_seconds": 681.67,
+    "text": "expectations. You can already see that earnings report"
+  },
+  {
+    "start": "00:11:21.670",
+    "end": "00:11:21.680",
+    "start_seconds": 681.67,
+    "end_seconds": 681.68,
+    "text": "You can already see that earnings report"
+  },
+  {
+    "start": "00:11:21.680",
+    "end": "00:11:22.790",
+    "start_seconds": 681.68,
+    "end_seconds": 682.79,
+    "text": "You can already see that earnings report day"
+  },
+  {
+    "start": "00:11:22.790",
+    "end": "00:11:22.800",
+    "start_seconds": 682.79,
+    "end_seconds": 682.8,
+    "text": "day"
+  },
+  {
+    "start": "00:11:22.800",
+    "end": "00:11:25.670",
+    "start_seconds": 682.8,
+    "end_seconds": 685.67,
+    "text": "day is gaming personified in every dimension"
+  },
+  {
+    "start": "00:11:25.670",
+    "end": "00:11:25.680",
+    "start_seconds": 685.67,
+    "end_seconds": 685.68,
+    "text": "is gaming personified in every dimension"
+  },
+  {
+    "start": "00:11:25.680",
+    "end": "00:11:27.630",
+    "start_seconds": 685.68,
+    "end_seconds": 687.63,
+    "text": "is gaming personified in every dimension because it's about managing and beating"
+  },
+  {
+    "start": "00:11:27.630",
+    "end": "00:11:27.640",
+    "start_seconds": 687.63,
+    "end_seconds": 687.64,
+    "text": "because it's about managing and beating"
+  },
+  {
+    "start": "00:11:27.640",
+    "end": "00:11:29.670",
+    "start_seconds": 687.64,
+    "end_seconds": 689.67,
+    "text": "because it's about managing and beating expectations."
+  },
+  {
+    "start": "00:11:29.670",
+    "end": "00:11:29.680",
+    "start_seconds": 689.67,
+    "end_seconds": 689.68,
+    "text": "expectations."
+  },
+  {
+    "start": "00:11:29.680",
+    "end": "00:11:31.990",
+    "start_seconds": 689.68,
+    "end_seconds": 691.99,
+    "text": "expectations. But if as an investor you decide that"
+  },
+  {
+    "start": "00:11:31.990",
+    "end": "00:11:32.000",
+    "start_seconds": 691.99,
+    "end_seconds": 692.0,
+    "text": "But if as an investor you decide that"
+  },
+  {
+    "start": "00:11:32.000",
+    "end": "00:11:34.670",
+    "start_seconds": 692.0,
+    "end_seconds": 694.67,
+    "text": "But if as an investor you decide that you are going to build an investment"
+  },
+  {
+    "start": "00:11:34.670",
+    "end": "00:11:34.680",
+    "start_seconds": 694.67,
+    "end_seconds": 694.68,
+    "text": "you are going to build an investment"
+  },
+  {
+    "start": "00:11:34.680",
+    "end": "00:11:35.670",
+    "start_seconds": 694.68,
+    "end_seconds": 695.67,
+    "text": "you are going to build an investment philosophy around earnings"
+  },
+  {
+    "start": "00:11:35.670",
+    "end": "00:11:35.680",
+    "start_seconds": 695.67,
+    "end_seconds": 695.68,
+    "text": "philosophy around earnings"
+  },
+  {
+    "start": "00:11:35.680",
+    "end": "00:11:37.350",
+    "start_seconds": 695.68,
+    "end_seconds": 697.35,
+    "text": "philosophy around earnings announcements."
+  },
+  {
+    "start": "00:11:37.350",
+    "end": "00:11:37.360",
+    "start_seconds": 697.35,
+    "end_seconds": 697.36,
+    "text": "announcements."
+  },
+  {
+    "start": "00:11:37.360",
+    "end": "00:11:38.310",
+    "start_seconds": 697.36,
+    "end_seconds": 698.31,
+    "text": "announcements. There are a couple of ways you can do"
+  },
+  {
+    "start": "00:11:38.310",
+    "end": "00:11:38.320",
+    "start_seconds": 698.31,
+    "end_seconds": 698.32,
+    "text": "There are a couple of ways you can do"
+  },
+  {
+    "start": "00:11:38.320",
+    "end": "00:11:39.550",
+    "start_seconds": 698.32,
+    "end_seconds": 699.55,
+    "text": "There are a couple of ways you can do it, right? One is you can play the"
+  },
+  {
+    "start": "00:11:39.550",
+    "end": "00:11:39.560",
+    "start_seconds": 699.55,
+    "end_seconds": 699.56,
+    "text": "it, right? One is you can play the"
+  },
+  {
+    "start": "00:11:39.560",
+    "end": "00:11:41.790",
+    "start_seconds": 699.56,
+    "end_seconds": 701.79,
+    "text": "it, right? One is you can play the drift. Take the companies with the most"
+  },
+  {
+    "start": "00:11:41.790",
+    "end": "00:11:41.800",
+    "start_seconds": 701.79,
+    "end_seconds": 701.8,
+    "text": "drift. Take the companies with the most"
+  },
+  {
+    "start": "00:11:41.800",
+    "end": "00:11:43.390",
+    "start_seconds": 701.8,
+    "end_seconds": 703.39,
+    "text": "drift. Take the companies with the most positive earnings surprises with the"
+  },
+  {
+    "start": "00:11:43.390",
+    "end": "00:11:43.400",
+    "start_seconds": 703.39,
+    "end_seconds": 703.4,
+    "text": "positive earnings surprises with the"
+  },
+  {
+    "start": "00:11:43.400",
+    "end": "00:11:45.390",
+    "start_seconds": 703.4,
+    "end_seconds": 705.39,
+    "text": "positive earnings surprises with the biggest jump on that that the day the"
+  },
+  {
+    "start": "00:11:45.390",
+    "end": "00:11:45.400",
+    "start_seconds": 705.39,
+    "end_seconds": 705.4,
+    "text": "biggest jump on that that the day the"
+  },
+  {
+    "start": "00:11:45.400",
+    "end": "00:11:47.830",
+    "start_seconds": 705.4,
+    "end_seconds": 707.83,
+    "text": "biggest jump on that that the day the earnings come out and hold them hoping"
+  },
+  {
+    "start": "00:11:47.830",
+    "end": "00:11:47.840",
+    "start_seconds": 707.83,
+    "end_seconds": 707.84,
+    "text": "earnings come out and hold them hoping"
+  },
+  {
+    "start": "00:11:47.840",
+    "end": "00:11:49.550",
+    "start_seconds": 707.84,
+    "end_seconds": 709.55,
+    "text": "earnings come out and hold them hoping and praying that the drift still"
+  },
+  {
+    "start": "00:11:49.550",
+    "end": "00:11:49.560",
+    "start_seconds": 709.55,
+    "end_seconds": 709.56,
+    "text": "and praying that the drift still"
+  },
+  {
+    "start": "00:11:49.560",
+    "end": "00:11:51.470",
+    "start_seconds": 709.56,
+    "end_seconds": 711.47,
+    "text": "and praying that the drift still continues that company."
+  },
+  {
+    "start": "00:11:51.470",
+    "end": "00:11:51.480",
+    "start_seconds": 711.47,
+    "end_seconds": 711.48,
+    "text": "continues that company."
+  },
+  {
+    "start": "00:11:51.480",
+    "end": "00:11:54.190",
+    "start_seconds": 711.48,
+    "end_seconds": 714.19,
+    "text": "continues that company. My guy my suggestion there is it's more"
+  },
+  {
+    "start": "00:11:54.190",
+    "end": "00:11:54.200",
+    "start_seconds": 714.19,
+    "end_seconds": 714.2,
+    "text": "My guy my suggestion there is it's more"
+  },
+  {
+    "start": "00:11:54.200",
+    "end": "00:11:56.430",
+    "start_seconds": 714.2,
+    "end_seconds": 716.43,
+    "text": "My guy my suggestion there is it's more likely that you will see a drift in the"
+  },
+  {
+    "start": "00:11:56.430",
+    "end": "00:11:56.440",
+    "start_seconds": 716.43,
+    "end_seconds": 716.44,
+    "text": "likely that you will see a drift in the"
+  },
+  {
+    "start": "00:11:56.440",
+    "end": "00:11:58.390",
+    "start_seconds": 716.44,
+    "end_seconds": 718.39,
+    "text": "likely that you will see a drift in the less followed smaller companies. So if"
+  },
+  {
+    "start": "00:11:58.390",
+    "end": "00:11:58.400",
+    "start_seconds": 718.39,
+    "end_seconds": 718.4,
+    "text": "less followed smaller companies. So if"
+  },
+  {
+    "start": "00:11:58.400",
+    "end": "00:12:00.150",
+    "start_seconds": 718.4,
+    "end_seconds": 720.15,
+    "text": "less followed smaller companies. So if you're going to play this game, maybe on"
+  },
+  {
+    "start": "00:12:00.150",
+    "end": "00:12:00.160",
+    "start_seconds": 720.15,
+    "end_seconds": 720.16,
+    "text": "you're going to play this game, maybe on"
+  },
+  {
+    "start": "00:12:00.160",
+    "end": "00:12:01.670",
+    "start_seconds": 720.16,
+    "end_seconds": 721.67,
+    "text": "you're going to play this game, maybe on those companies."
+  },
+  {
+    "start": "00:12:01.670",
+    "end": "00:12:01.680",
+    "start_seconds": 721.67,
+    "end_seconds": 721.68,
+    "text": "those companies."
+  },
+  {
+    "start": "00:12:01.680",
+    "end": "00:12:03.510",
+    "start_seconds": 721.68,
+    "end_seconds": 723.51,
+    "text": "those companies. You know, smaller less liquid companies"
+  },
+  {
+    "start": "00:12:03.510",
+    "end": "00:12:03.520",
+    "start_seconds": 723.51,
+    "end_seconds": 723.52,
+    "text": "You know, smaller less liquid companies"
+  },
+  {
+    "start": "00:12:03.520",
+    "end": "00:12:04.950",
+    "start_seconds": 723.52,
+    "end_seconds": 724.95,
+    "text": "You know, smaller less liquid companies because that's where the drift is going"
+  },
+  {
+    "start": "00:12:04.950",
+    "end": "00:12:04.960",
+    "start_seconds": 724.95,
+    "end_seconds": 724.96,
+    "text": "because that's where the drift is going"
+  },
+  {
+    "start": "00:12:04.960",
+    "end": "00:12:06.590",
+    "start_seconds": 724.96,
+    "end_seconds": 726.59,
+    "text": "because that's where the drift is going to be greatest."
+  },
+  {
+    "start": "00:12:06.590",
+    "end": "00:12:06.600",
+    "start_seconds": 726.59,
+    "end_seconds": 726.6,
+    "text": "to be greatest."
+  },
+  {
+    "start": "00:12:06.600",
+    "end": "00:12:08.350",
+    "start_seconds": 726.6,
+    "end_seconds": 728.35,
+    "text": "to be greatest. But the bigger money is actually getting"
+  },
+  {
+    "start": "00:12:08.350",
+    "end": "00:12:08.360",
+    "start_seconds": 728.35,
+    "end_seconds": 728.36,
+    "text": "But the bigger money is actually getting"
+  },
+  {
+    "start": "00:12:08.360",
+    "end": "00:12:10.270",
+    "start_seconds": 728.36,
+    "end_seconds": 730.27,
+    "text": "But the bigger money is actually getting ahead of the game. One way you can get"
+  },
+  {
+    "start": "00:12:10.270",
+    "end": "00:12:10.280",
+    "start_seconds": 730.27,
+    "end_seconds": 730.28,
+    "text": "ahead of the game. One way you can get"
+  },
+  {
+    "start": "00:12:10.280",
+    "end": "00:12:12.150",
+    "start_seconds": 730.28,
+    "end_seconds": 732.15,
+    "text": "ahead of the game. One way you can get ahead of the game is have access to"
+  },
+  {
+    "start": "00:12:12.150",
+    "end": "00:12:12.160",
+    "start_seconds": 732.15,
+    "end_seconds": 732.16,
+    "text": "ahead of the game is have access to"
+  },
+  {
+    "start": "00:12:12.160",
+    "end": "00:12:13.830",
+    "start_seconds": 732.16,
+    "end_seconds": 733.83,
+    "text": "ahead of the game is have access to inside information about what's in the"
+  },
+  {
+    "start": "00:12:13.830",
+    "end": "00:12:13.840",
+    "start_seconds": 733.83,
+    "end_seconds": 733.84,
+    "text": "inside information about what's in the"
+  },
+  {
+    "start": "00:12:13.840",
+    "end": "00:12:15.830",
+    "start_seconds": 733.84,
+    "end_seconds": 735.83,
+    "text": "inside information about what's in the earnings report, but that is potentially"
+  },
+  {
+    "start": "00:12:15.830",
+    "end": "00:12:15.840",
+    "start_seconds": 735.83,
+    "end_seconds": 735.84,
+    "text": "earnings report, but that is potentially"
+  },
+  {
+    "start": "00:12:15.840",
+    "end": "00:12:17.910",
+    "start_seconds": 735.84,
+    "end_seconds": 737.91,
+    "text": "earnings report, but that is potentially illegal in much of the world."
+  },
+  {
+    "start": "00:12:17.910",
+    "end": "00:12:17.920",
+    "start_seconds": 737.91,
+    "end_seconds": 737.92,
+    "text": "illegal in much of the world."
+  },
+  {
+    "start": "00:12:17.920",
+    "end": "00:12:19.910",
+    "start_seconds": 737.92,
+    "end_seconds": 739.91,
+    "text": "illegal in much of the world. Or you can do your own research and"
+  },
+  {
+    "start": "00:12:19.910",
+    "end": "00:12:19.920",
+    "start_seconds": 739.91,
+    "end_seconds": 739.92,
+    "text": "Or you can do your own research and"
+  },
+  {
+    "start": "00:12:19.920",
+    "end": "00:12:21.510",
+    "start_seconds": 739.92,
+    "end_seconds": 741.51,
+    "text": "Or you can do your own research and perhaps you can come up with a better"
+  },
+  {
+    "start": "00:12:21.510",
+    "end": "00:12:21.520",
+    "start_seconds": 741.51,
+    "end_seconds": 741.52,
+    "text": "perhaps you can come up with a better"
+  },
+  {
+    "start": "00:12:21.520",
+    "end": "00:12:23.470",
+    "start_seconds": 741.52,
+    "end_seconds": 743.47,
+    "text": "perhaps you can come up with a better way of forecasting what the earnings are"
+  },
+  {
+    "start": "00:12:23.470",
+    "end": "00:12:23.480",
+    "start_seconds": 743.47,
+    "end_seconds": 743.48,
+    "text": "way of forecasting what the earnings are"
+  },
+  {
+    "start": "00:12:23.480",
+    "end": "00:12:24.710",
+    "start_seconds": 743.48,
+    "end_seconds": 744.71,
+    "text": "way of forecasting what the earnings are going to be than equity research"
+  },
+  {
+    "start": "00:12:24.710",
+    "end": "00:12:24.720",
+    "start_seconds": 744.71,
+    "end_seconds": 744.72,
+    "text": "going to be than equity research"
+  },
+  {
+    "start": "00:12:24.720",
+    "end": "00:12:27.310",
+    "start_seconds": 744.72,
+    "end_seconds": 747.31,
+    "text": "going to be than equity research analysts are. And today we have the data"
+  },
+  {
+    "start": "00:12:27.310",
+    "end": "00:12:27.320",
+    "start_seconds": 747.31,
+    "end_seconds": 747.32,
+    "text": "analysts are. And today we have the data"
+  },
+  {
+    "start": "00:12:27.320",
+    "end": "00:12:30.070",
+    "start_seconds": 747.32,
+    "end_seconds": 750.07,
+    "text": "analysts are. And today we have the data and the tools to be able to do this."
+  },
+  {
+    "start": "00:12:30.070",
+    "end": "00:12:30.080",
+    "start_seconds": 750.07,
+    "end_seconds": 750.08,
+    "text": "and the tools to be able to do this."
+  },
+  {
+    "start": "00:12:30.080",
+    "end": "00:12:31.110",
+    "start_seconds": 750.08,
+    "end_seconds": 751.11,
+    "text": "and the tools to be able to do this. And maybe that'll become your"
+  },
+  {
+    "start": "00:12:31.110",
+    "end": "00:12:31.120",
+    "start_seconds": 751.11,
+    "end_seconds": 751.12,
+    "text": "And maybe that'll become your"
+  },
+  {
+    "start": "00:12:31.120",
+    "end": "00:12:33.470",
+    "start_seconds": 751.12,
+    "end_seconds": 753.47,
+    "text": "And maybe that'll become your competitive advantage. It's a quarterly"
+  },
+  {
+    "start": "00:12:33.470",
+    "end": "00:12:33.480",
+    "start_seconds": 753.47,
+    "end_seconds": 753.48,
+    "text": "competitive advantage. It's a quarterly"
+  },
+  {
+    "start": "00:12:33.480",
+    "end": "00:12:35.110",
+    "start_seconds": 753.48,
+    "end_seconds": 755.11,
+    "text": "competitive advantage. It's a quarterly earnings game and you're a little better"
+  },
+  {
+    "start": "00:12:35.110",
+    "end": "00:12:35.120",
+    "start_seconds": 755.11,
+    "end_seconds": 755.12,
+    "text": "earnings game and you're a little better"
+  },
+  {
+    "start": "00:12:35.120",
+    "end": "00:12:37.350",
+    "start_seconds": 755.12,
+    "end_seconds": 757.35,
+    "text": "earnings game and you're a little better at it than the typical equity research"
+  },
+  {
+    "start": "00:12:37.350",
+    "end": "00:12:37.360",
+    "start_seconds": 757.35,
+    "end_seconds": 757.36,
+    "text": "at it than the typical equity research"
+  },
+  {
+    "start": "00:12:37.360",
+    "end": "00:12:40.310",
+    "start_seconds": 757.36,
+    "end_seconds": 760.31,
+    "text": "at it than the typical equity research analyst and you use it to full effect"
+  },
+  {
+    "start": "00:12:40.310",
+    "end": "00:12:40.320",
+    "start_seconds": 760.31,
+    "end_seconds": 760.32,
+    "text": "analyst and you use it to full effect"
+  },
+  {
+    "start": "00:12:40.320",
+    "end": "00:12:43.230",
+    "start_seconds": 760.32,
+    "end_seconds": 763.23,
+    "text": "analyst and you use it to full effect to capture that jump on in the price"
+  },
+  {
+    "start": "00:12:43.230",
+    "end": "00:12:43.240",
+    "start_seconds": 763.23,
+    "end_seconds": 763.24,
+    "text": "to capture that jump on in the price"
+  },
+  {
+    "start": "00:12:43.240",
+    "end": "00:12:46.110",
+    "start_seconds": 763.24,
+    "end_seconds": 766.11,
+    "text": "to capture that jump on in the price around the most extreme announcements."
+  },
+  {
+    "start": "00:12:46.110",
+    "end": "00:12:46.120",
+    "start_seconds": 766.11,
+    "end_seconds": 766.12,
+    "text": "around the most extreme announcements."
+  },
+  {
+    "start": "00:12:46.120",
+    "end": "00:12:48.390",
+    "start_seconds": 766.12,
+    "end_seconds": 768.39,
+    "text": "around the most extreme announcements. I hope you found the session useful."
+  },
+  {
+    "start": "00:12:48.390",
+    "end": "00:12:48.400",
+    "start_seconds": 768.39,
+    "end_seconds": 768.4,
+    "text": "I hope you found the session useful."
+  },
+  {
+    "start": "00:12:48.400",
+    "end": "00:12:52.160",
+    "start_seconds": 768.4,
+    "end_seconds": 772.16,
+    "text": "I hope you found the session useful. And I thank you very much for listening."
+  }
+]
