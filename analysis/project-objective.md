@@ -10,6 +10,20 @@ cross-course comparisons, and plain-language synthesis that can support future
 course-building, sector analysis, company analysis, investment thinking, and
 capital-allocation research.
 
+The active course spine currently includes:
+
+- `investment-philosophies-2026`
+- `foundations-of-finance`
+- `valuation-mba-spring-2025`
+- `valuation-undergraduate-spring-2025`
+- `corporate-finance-spring-2025`
+
+Those courses should be treated as a connected system. The point is not only
+to finish each course folder on its own, but to explain how first-principles
+finance, investment philosophy, valuation, and corporate finance reinforce,
+translate, and challenge one another across different audiences and teaching
+contexts.
+
 ## What "Done" Actually Means
 
 The workspace should eventually make all of the following true.
@@ -27,7 +41,14 @@ The workspace should eventually make all of the following true.
 4. The root workspace produces rich but easy-to-understand writeups of the
    broader societal, cultural, consumer, industrial, managerial, and market
    patterns visible across the material.
-5. The output is publishable and reusable through HTML pages and structured
+5. The newer course additions are pulled into that shared interpretive layer,
+   especially:
+   - `valuation-undergraduate-spring-2025` as the audience-level comparison
+     track beside MBA valuation
+   - `corporate-finance-spring-2025` as the operating, governance,
+     financing, and capital-allocation counterpart to the valuation and
+     investment-philosophy courses
+6. The output is publishable and reusable through HTML pages and structured
    JSON artifacts, so it can support later downstream work without needing the
    original transcript-mining effort to be repeated.
 
@@ -85,11 +106,15 @@ the active workspace, including:
   under constraints
 - pedagogical patterns: how Damodaran changes language, pacing, scaffolding,
   and emphasis depending on the audience
+- cross-course translation patterns: how the same underlying idea changes when
+  taught as introductory finance, valuation, corporate finance, or investment
+  philosophy
 
 ## Required Outputs
 
 The workspace should keep building toward these concrete outputs:
 
+- a root map of active courses and how they relate
 - course transcript inventories
 - course session pages
 - course theme and subtheme maps
@@ -98,6 +123,8 @@ The workspace should keep building toward these concrete outputs:
 - root normalized concept atlas
 - cross-course comparison pages
 - audience-comparison pages where relevant
+- course-to-course translation writeups showing where frameworks are shared,
+  simplified, specialized, or reframed
 - long-form root synthesis essays
 - reusable JSON registries backing the HTML outputs
 
@@ -115,6 +142,8 @@ That includes:
   valuation logic, and economic discipline
 - comparing how the same idea changes across audiences, contexts, and business
   types
+- explaining how corporate finance choices, valuation logic, and investment
+  philosophy fit together as one continuous reasoning system
 
 ## Standard For Future Additions
 
