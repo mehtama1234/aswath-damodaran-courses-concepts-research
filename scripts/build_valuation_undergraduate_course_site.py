@@ -8,6 +8,8 @@ import re
 from pathlib import Path
 from typing import Any
 
+from concept_enrichment import enrichment_html, load_enrichment
+
 
 CONCEPT_SPECS = [
     {
@@ -592,6 +594,7 @@ def load_cue_excerpt(course_root: Path, record: dict[str, Any], keywords: list[s
 
 
 def build_concepts(course_root: Path, transcript_index: list[dict[str, Any]], themes: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+    _enrichment = load_enrichment(course_root)
     session_texts: dict[int, str] = {}
     for record in transcript_index:
         text_path = course_root / record["clean_txt"]
@@ -636,6 +639,8 @@ def build_concepts(course_root: Path, transcript_index: list[dict[str, Any]], th
             "keywords": spec["keywords"],
             "strongest_sessions": [item["session"] for item in evidence],
             "evidence": evidence,
+            "worked_example": _enrichment.get(spec["slug"], {}).get("worked_example", ""),
+            "failure_boundary": _enrichment.get(spec["slug"], {}).get("failure_boundary", ""),
         }
         concepts.append(concept)
         evidence_map["concepts"][spec["slug"]] = evidence
@@ -780,6 +785,7 @@ def build(course_root: Path) -> None:
       <p><strong>Meaning.</strong> {esc(concept["meaning"])}</p>
       <p><strong>Why it matters.</strong> {esc(concept["importance"])}</p>
       <p><strong>How the course develops it.</strong> {esc(concept["development"])}</p>
+      {enrichment_html(esc, concept)}
       <div class="concept-links">{connection_html}</div>
     </section>
     <section class="section grid">

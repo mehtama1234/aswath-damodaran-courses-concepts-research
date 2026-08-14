@@ -10,6 +10,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
+from concept_enrichment import enrichment_html, load_enrichment
+
 
 STOPWORDS = {
     "about", "after", "again", "against", "also", "and", "because", "been", "before",
@@ -262,6 +264,7 @@ def load_cue_excerpt(course_root: Path, session: dict[str, Any], keywords: tuple
 
 
 def build_concepts(course_root: Path, sessions: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+    _enrichment = load_enrichment(course_root)
     session_texts: dict[int, str] = {}
     for session in sessions:
         text_ref = session.get("clean_txt")
@@ -290,6 +293,7 @@ def build_concepts(course_root: Path, sessions: list[dict[str, Any]]) -> tuple[l
                     **load_cue_excerpt(course_root, session, rule.keywords),
                 }
             )
+        _enr = _enrichment.get(rule.slug, {})
         concept = {
             "slug": rule.slug,
             "name": rule.name,
@@ -302,6 +306,8 @@ def build_concepts(course_root: Path, sessions: list[dict[str, Any]]) -> tuple[l
             "keywords": list(rule.keywords),
             "strongest_sessions": [item["session"] for item in evidence],
             "evidence": evidence,
+            "worked_example": _enr.get("worked_example", ""),
+            "failure_boundary": _enr.get("failure_boundary", ""),
         }
         concepts.append(concept)
         evidence_map["concepts"][rule.slug] = evidence
@@ -609,6 +615,7 @@ ol.arc { padding-left: 22px; line-height: 1.7; }
         <p><strong>How Damodaran develops it.</strong> {esc(concept["development"])}</p>
         <h3>Common mistakes</h3>
         <ul>{mistakes_html}</ul>
+        {enrichment_html(esc, concept)}
       </article>
       <aside class="card">
         <div class="meta">Connected concepts</div>
