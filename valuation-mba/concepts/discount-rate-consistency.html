@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Discount-rate consistency</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <header class="top">
+    <div>
+      <p class="eyebrow">Aswath Damodaran course atlas</p>
+      <h1>Discount-rate consistency</h1>
+    </div>
+    <nav><a class="" href="../index.html">Overview</a>
+<a class="" href="../course-thesis.html">Thesis</a>
+<a class="" href="../themes.html">Themes</a>
+<a class="" href="../subthemes.html">Subthemes</a>
+<a class="active" href="../concepts/index.html">Concepts</a>
+<a class="" href="../evidence.html">Evidence</a>
+<a class="" href="../discussions.html">Discussions</a>
+<a class="" href="../sessions.html">Sessions</a></nav>
+  </header>
+  <main>
+
+    <section class="split">
+      <article class="essay">
+        <p class="kicker">Concept</p>
+        <h2>Discount-rate consistency</h2>
+        <p><strong>Meaning.</strong> The discount rate must be built in the same currency, inflation terms, claim definition, and risk frame as the cash flows.</p>
+        <p><strong>Why it matters.</strong> It is the guardrail that keeps DCF from becoming a collection of copied market inputs.</p>
+        <p><strong>How Damodaran develops it.</strong> Riskfree-rate, ERP, country-risk, beta, and cost-of-capital sessions all return to this matching principle.</p>
+        <h3>Common mistakes</h3>
+        <ul><li>Mixing currencies.</li><li>Applying a firm discount rate to equity cash flows.</li></ul>
+        <h3>Worked example</h3><p>A firm with international operations earns revenues in euros and dollars. The analyst builds a DCF in euros, forecasting 50M euro cash flows growing at 2% annually, but mistakenly discounts using a 9.5% dollar-denominated cost of capital. The result conflates two different risk frames: the valuation immediately becomes incoherent. By switching to a 6.8% euro-denominated WACC (built from a 1.2% euro riskfree rate, a 4.2% euro-adjusted equity risk premium, and a 1.1 beta), the terminal value becomes 50M×1.02/(0.068-0.02) = 1,062.5M euro. The swap between dollar and euro rates, reflecting different inflation expectations, changes the valuation by roughly 25% just by restoring consistency.</p><p>Another example: a private utility generating US dollar cash flows of 100M annually at a 7% growth rate faces the question of hurdle rate. If the analyst uses a 9% WACC (US-based) but then applies it to real cash flows (inflation-adjusted), the discount rate and cash flow work in different inflation worlds, producing a terminal value that overstates value by 5-8% depending on inflation assumptions.</p><h3>Where the approach breaks</h3><p>Discount-rate consistency breaks most visibly when firms operate across currencies or when valuation mixes real and nominal inputs carlessly. A firm issuing euro-denominated debt but earning dollar cash flows without hedging faces currency-rate risk; if the model discounts everything at a dollar WACC while forecasting nominal euro growth, the analysis has already hidden a currency mismatch that real investors cannot ignore. The boundary is sharpest when leverage changes: a firm moving from zero debt (equity cost of equity 10%) to 40% debt financing should see its cost of equity drop (less than 10%) and its WACC fall too. If instead the analyst uses 10% equity cost for both scenarios and just reweights debt and equity, the discount rate does not reflect the changed risk of residual equity—a 3-4 percentage point error that dominates small valuations.</p>
+      </article>
+      <aside class="card">
+        <div class="meta">Connected concepts</div>
+        <div class="concept-links"><a href="riskfree-rates.html">Riskfree rates</a><a href="cost-of-capital.html">Cost of capital</a><a href="cash-flow-consistency.html">Cash-flow consistency</a></div>
+      </aside>
+    </section>
+    <section class="list" style="margin-top:22px">
+      <h2>Strongest transcript evidence</h2>
+      <article class="row evidence">
+        <div class="meta">Session 23 · score 116</div>
+        <strong>Session 4: DCF Big Picture and First Steps in Riskfree Rates</strong>
+        <p>discount rates to cash flows so I will talk about discount rates but as a class</p>
+        <a href="https://www.youtube.com/watch?v=oFz94rZbc4c">YouTube</a>
+      </article><article class="row evidence">
+        <div class="meta">Session 22 · score 101</div>
+        <strong>Session 5: Closure on Riskfree Rates &amp; Equity Risk Premiums</strong>
+        <p>a real interest rate but in the longterm real interest rates and real growth are</p>
+        <a href="https://www.youtube.com/watch?v=1wyr2R471Dc">YouTube</a>
+      </article><article class="row evidence">
+        <div class="meta">Session 24 · score 86</div>
+        <strong>Session 3: Valuation Introduction (completed) and Cashflow Consistency</strong>
+        <p>it cost of capital but it&#x27;s a weighted average cost of capital basic so if you</p>
+        <a href="https://www.youtube.com/watch?v=Hf4niCYe1R8">YouTube</a>
+      </article><article class="row evidence">
+        <div class="meta">Session 16 · score 81</div>
+        <strong>Session 11: More on Growth and Terminal Value</strong>
+        <p>got to stay with normal if you did real cash flows you do real what currency</p>
+        <a href="https://www.youtube.com/watch?v=so6vCWKCiXE">YouTube</a>
+      </article><article class="row evidence">
+        <div class="meta">Session 04 · score 75</div>
+        <strong>Session 23: Patents and Natural Resources as Options</strong>
+        <p>we&#x27;re going to end up using in a lot of real options because in many real</p>
+        <a href="https://www.youtube.com/watch?v=brwQ8urELjg">YouTube</a>
+      </article>
+    </section>
+
+  </main>
+</body>
+</html>

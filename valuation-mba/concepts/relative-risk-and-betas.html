@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Relative risk and betas</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <header class="top">
+    <div>
+      <p class="eyebrow">Aswath Damodaran course atlas</p>
+      <h1>Relative risk and betas</h1>
+    </div>
+    <nav><a class="" href="../index.html">Overview</a>
+<a class="" href="../course-thesis.html">Thesis</a>
+<a class="" href="../themes.html">Themes</a>
+<a class="" href="../subthemes.html">Subthemes</a>
+<a class="active" href="../concepts/index.html">Concepts</a>
+<a class="" href="../evidence.html">Evidence</a>
+<a class="" href="../discussions.html">Discussions</a>
+<a class="" href="../sessions.html">Sessions</a></nav>
+  </header>
+  <main>
+
+    <section class="split">
+      <article class="essay">
+        <p class="kicker">Concept</p>
+        <h2>Relative risk and betas</h2>
+        <p><strong>Meaning.</strong> Beta is a measure of relative risk, but useful beta estimation has to reflect business mix and leverage rather than blindly trust regressions.</p>
+        <p><strong>Why it matters.</strong> The course uses beta to discipline risk measurement while warning against false precision from noisy market data.</p>
+        <p><strong>How Damodaran develops it.</strong> Damodaran moves from regression betas to bottom-up thinking and alternatives when firms are private, changing, or thinly traded.</p>
+        <h3>Common mistakes</h3>
+        <ul><li>Taking a regression beta as truth.</li><li>Forgetting that financial leverage changes equity beta.</li></ul>
+        <h3>Worked example</h3><p>A conglomerate operates two businesses: retail (business beta 1.1) with 40% of assets, and telecommunications (business beta 0.7) with 60% of assets. The unlevered beta is 0.4 * 1.1 + 0.6 * 0.7 = 0.86. The firm has 30% debt (market value) at a pre-tax cost of 5% and 70% equity, with tax rate 25%. Unlevered cost of equity = 4% + 0.86 * 6.5% = 9.59%. Relever for leverage: beta_equity = 0.86 * (1 + (1 - 0.25) * 0.30 / 0.70) = 1.136. Cost of equity = 4% + 1.136 * 6.5% = 11.38%. This is discipline: the beta is built from business economics, not a regression on past stock returns, and the leverage adjustment is mechanical and transparent.</p><h3>Where the approach breaks</h3><p>This fails when betas are taken from Bloomberg regression output and used unchanged. A real example: a company restructures from 10% debt to 40% debt, but the analyst keeps using the old regression beta of 1.2, ignoring that the equity beta will climb to around 1.7. The valuation is contaminated. Another boundary: private companies and small-caps where regression betas are noise—the method works only when you build bottom-up betas from comparable businesses in the same industry. The approach also breaks when business mix is changing—a tech company acquiring telecom assets needs a new unlevered beta, not a historical average. Real failure: when analysts forgot to relever betas when a company went from 5% to 50% debt during leverage buyout financing.</p>
+      </article>
+      <aside class="card">
+        <div class="meta">Connected concepts</div>
+        <div class="concept-links"><a href="cost-of-equity.html">Cost of equity</a><a href="cost-of-capital.html">Cost of capital</a><a href="private-company-valuation.html">Private company valuation</a></div>
+      </aside>
+    </section>
+    <section class="list" style="margin-top:22px">
+      <h2>Strongest transcript evidence</h2>
+      <article class="row evidence">
+        <div class="meta">Session 20 · score 327</div>
+        <strong>Session 7: Measuring Relative Risk - Betas and Alternatives</strong>
+        <p>stock betas they&#x27;re regression betas right are regression betas lever betas</p>
+        <a href="https://www.youtube.com/watch?v=FT7ZfG6Abzg">YouTube</a>
+      </article><article class="row evidence">
+        <div class="meta">Session 07 · score 81</div>
+        <strong>Session 20: Pricing Closure and Asset-based Valuation/Pricing</strong>
+        <p>this? Because I don&#x27;t use a regression beta, right? If I use a regression beta,</p>
+        <a href="https://www.youtube.com/watch?v=oSSRcLhum1s">YouTube</a>
+      </article><article class="row evidence">
+        <div class="meta">Session 06 · score 59</div>
+        <strong>Session 21: Valuing Privately owned businesses (not publicly listed)</strong>
+        <p>beta from it. We take the beta of the regressions and we use a bottom up beta.</p>
+        <a href="https://www.youtube.com/watch?v=T0DcUKaNgzY">YouTube</a>
+      </article><article class="row evidence">
+        <div class="meta">Session 08 · score 39</div>
+        <strong>Session 21 (UG) and Session 19 (MBA): Pricing Analytics and Peer Groups</strong>
+        <p>the banking regression and its variables. When you run this regression</p>
+        <a href="https://www.youtube.com/watch?v=rjqwM6ZTpA0">YouTube</a>
+      </article><article class="row evidence">
+        <div class="meta">Session 03 · score 24</div>
+        <strong>Session 24: Distressed Equity as an Option and Acquisition Valuation</strong>
+        <p>target company unlevered beta of the target company, not the unlevered beta</p>
+        <a href="https://www.youtube.com/watch?v=7oUgHVSn5Y0">YouTube</a>
+      </article>
+    </section>
+
+  </main>
+</body>
+</html>

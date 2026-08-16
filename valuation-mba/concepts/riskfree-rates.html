@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Riskfree rates</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <header class="top">
+    <div>
+      <p class="eyebrow">Aswath Damodaran course atlas</p>
+      <h1>Riskfree rates</h1>
+    </div>
+    <nav><a class="" href="../index.html">Overview</a>
+<a class="" href="../course-thesis.html">Thesis</a>
+<a class="" href="../themes.html">Themes</a>
+<a class="" href="../subthemes.html">Subthemes</a>
+<a class="active" href="../concepts/index.html">Concepts</a>
+<a class="" href="../evidence.html">Evidence</a>
+<a class="" href="../discussions.html">Discussions</a>
+<a class="" href="../sessions.html">Sessions</a></nav>
+  </header>
+  <main>
+
+    <section class="split">
+      <article class="essay">
+        <p class="kicker">Concept</p>
+        <h2>Riskfree rates</h2>
+        <p><strong>Meaning.</strong> The riskfree rate is the base rate in the currency of the cash flows, free of default risk and internally consistent with inflation.</p>
+        <p><strong>Why it matters.</strong> It anchors every discount rate. If this base is wrong, the valuation is contaminated before risk premiums or betas enter.</p>
+        <p><strong>How Damodaran develops it.</strong> Sessions on riskfree rates separate currency choice, sovereign default risk, real versus nominal rates, and maturity matching.</p>
+        <h3>Common mistakes</h3>
+        <ul><li>Using a government bond yield mechanically when default risk exists.</li><li>Using a dollar riskfree rate for non-dollar cash flows.</li></ul>
+        <h3>Worked example</h3><p>The riskfree rate is the foundation of every discount rate. In USD (US Treasury 10-year ~4.2%), you use 4.2% as your base for a company with nominal cash flows in dollars. A company exposed to Brazilian reais would need Brazil&#x27;s sovereign rate instead—if Brazil&#x27;s 10-year yield is 10.5% reflecting inflation expectations and sovereign default risk, that becomes your riskfree rate for real-denominated cash flows.</p><p>Example: Tech startup with 5-year explicit forecasts. USD riskfree 4.2%, add equity risk premium 4.6%, multiply by beta 1.10 = Cost of Equity = 4.2% + (1.10 × 4.6%) = 4.2% + 5.06% = 9.26%. This 9.26% discount rate compounds the 4.2% base—if you pick the wrong riskfree rate (say, using a 30-year bond at 4.0% instead), your terminal value swings because that 0.2% difference affects every year forever. The riskfree rate is not overhead; it is the number that shapes every comparison.</p><h3>Where the approach breaks</h3><p>Riskfree rates break when sovereign default risk emerges. Argentina&#x27;s peso 10-year bond yielded 180+ bps over world rates in 2023 because of devaluation and political risk. An analyst treating Argentina&#x27;s bond yield as &#x27;riskfree&#x27; overstates the true riskfree rate for real returns and confuses country risk with genuine safety. The boundary is when the government issuer itself becomes uncertain—use a less distressed peer&#x27;s rate or build an implied riskfree rate by stripping out the credit spread. Similarly, if inflation expectations spike suddenly (as in 2022), a 10-year nominal riskfree rate at 4.2% today becomes stale in 6 months; the rate must track current expectations, not calendar anchors.</p>
+      </article>
+      <aside class="card">
+        <div class="meta">Connected concepts</div>
+        <div class="concept-links"><a href="discount-rate-consistency.html">Discount-rate consistency</a><a href="equity-risk-premiums.html">Equity risk premiums</a><a href="country-risk.html">Country risk</a></div>
+      </aside>
+    </section>
+    <section class="list" style="margin-top:22px">
+      <h2>Strongest transcript evidence</h2>
+      <article class="row evidence">
+        <div class="meta">Session 22 · score 151</div>
+        <strong>Session 5: Closure on Riskfree Rates &amp; Equity Risk Premiums</strong>
+        <p>thinking High inflation currencies have high risk free rates low inflation</p>
+        <a href="https://www.youtube.com/watch?v=1wyr2R471Dc">YouTube</a>
+      </article><article class="row evidence">
+        <div class="meta">Session 23 · score 74</div>
+        <strong>Session 4: DCF Big Picture and First Steps in Riskfree Rates</strong>
+        <p>inflation it&#x27;s inflation inflation is the driver of risk free rates the driver</p>
+        <a href="https://www.youtube.com/watch?v=oFz94rZbc4c">YouTube</a>
+      </article><article class="row evidence">
+        <div class="meta">Session 24 · score 45</div>
+        <strong>Session 3: Valuation Introduction (completed) and Cashflow Consistency</strong>
+        <p>it&#x27;s a currency with almost no inflation and it&#x27;s also a currency that if ID gone</p>
+        <a href="https://www.youtube.com/watch?v=Hf4niCYe1R8">YouTube</a>
+      </article><article class="row evidence">
+        <div class="meta">Session 19 · score 37</div>
+        <strong>Session 8: Closure on Cost of Capital + First steps on cash flows</strong>
+        <p>you need you need a risk free rate which risk free rate the same risk free rate</p>
+        <a href="https://www.youtube.com/watch?v=MtsRSkV4HUg">YouTube</a>
+      </article><article class="row evidence">
+        <div class="meta">Session 16 · score 22</div>
+        <strong>Session 11: More on Growth and Terminal Value</strong>
+        <p>my cap is my risk free rate remember this valuation has a risk free rate in</p>
+        <a href="https://www.youtube.com/watch?v=so6vCWKCiXE">YouTube</a>
+      </article>
+    </section>
+
+  </main>
+</body>
+</html>
