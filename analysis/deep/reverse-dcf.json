@@ -1,0 +1,168 @@
+{
+  "id": "reverse-dcf",
+  "name": "Reverse DCF — What the Market Price Is Quietly Assuming",
+  "kick": "valuation · discipline · reading a price like a hidden forecast",
+  "title": "Reverse DCF — flip the valuation backward to read the market's hidden story",
+  "lede": "Every price on a stock exchange is a forecast in disguise. When a market says a business is worth 95 dollars, it is not guessing—it is silently betting on some combination of growth, margins, and risk. The reverse DCF turns that price backward through the engine to reveal what future the price already assumes. Here is that idea, a run that reads a real market price, why it sidesteps the argument, one real weakness, and where disciplined investors have used this same move for decades.",
+  "arc": [
+    [
+      "problem",
+      "The problem"
+    ],
+    [
+      "reframe",
+      "The reframe"
+    ],
+    [
+      "run",
+      "Seen on a real run"
+    ],
+    [
+      "why",
+      "Why it shifts the question"
+    ],
+    [
+      "weakness",
+      "The one real weakness"
+    ],
+    [
+      "surprise",
+      "The surprise"
+    ]
+  ],
+  "sections": [
+    {
+      "id": "problem",
+      "h2": "1 · The problem — two analysts, no end to the argument",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Two analysts run the same DCF model on the same company. One believes the revenue will grow 15% for five years. The other believes 22%. They build their spreadsheets, find different intrinsic values, and then the argument begins: which growth rate is right? One analyst says 'look at the market share trend.' The other says 'look at the industry tailwinds.' Both sound plausible. Both could be true. Neither is checkable on the spot. The valuation hangs on a guess, and guesses do not end arguments—they just get people dug in."
+        },
+        {
+          "t": "para",
+          "html": "There is a way out. Stop defending your guess and flip the problem on its head."
+        }
+      ]
+    },
+    {
+      "id": "reframe",
+      "h2": "2 · The reframe — accept the price as a fact, solve backward for the story it assumes",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Every price is already a bet. If a stock trades at 95 dollars, then the market—right now, at this moment—is implying some future. Instead of arguing which growth rate is right, you can ask a much sharper question: <em>what would have to be true for that price to make sense?</em> You take the market price as given, plug it into the DCF engine <em>backward</em>, and solve for the growth (or margins, or risk) the price is already assuming. The answer is not an opinion. It is the arithmetic consequence of the price you can see."
+        },
+        {
+          "t": "para",
+          "html": "This move flips the whole game. You no longer have to defend your number; you just have to judge whether the <em>market's implied number</em> is believable."
+        }
+      ]
+    },
+    {
+      "id": "run",
+      "h2": "3 · Seen on a real run — what did the market assume when it set the price at 95 dollars?",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Northwind, our example company, trades at 95 dollars per share. Our base DCF says it is worth 43.23 dollars—a huge gap. So we reverse the calculation: we take 95 as given and ask, what near-term revenue growth must the market be assuming? We feed 95 and all the other assumptions into the engine backward."
+        },
+        {
+          "t": "table",
+          "headers": [
+            "what changed",
+            "assumed value"
+          ],
+          "rows": [
+            [
+              "Northwind's market price",
+              "$95.00"
+            ],
+            [
+              "our base valuation",
+              "$43.23"
+            ],
+            [
+              "to justify 95 dollars, the near-term revenue growth must be",
+              "32.4% per year for 5 years"
+            ],
+            [
+              "our base assumption was",
+              "15% per year for 5 years"
+            ]
+          ],
+          "caption": "Reverse the DCF: given the market price, solve for what growth story it assumes."
+        },
+        {
+          "t": "insight",
+          "html": "<strong>The discovered fact: at 95 dollars, the market is assuming the business will grow its revenue 32.4% per year for five years—more than double our 15% assumption.</strong> Not 'maybe, if things go well.' The price commits to 32.4% as the implied future. Everything else follows from that one bet."
+        }
+      ]
+    },
+    {
+      "id": "why",
+      "h2": "4 · Why it shifts the question",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Now the argument changes. Neither analyst has to defend an abstract model. Instead, they can ask together: <em>is 32% growth per year for five years realistic for this business?</em> That is a concrete, checkable question. You look at the market size, the company's current share, the growth trajectories of peers, the spending patterns of customers. You see whether the story is plausible or wild."
+        },
+        {
+          "t": "para",
+          "html": "If you think the market's implied growth is impossible, then the price is too high—not because you have a better crystal ball, but because the market is assuming a future that does not fit the business. If you think 32% growth is believable, then you might be willing to hold. The reverse DCF does not tell you whether to buy or sell. It tells you <em>what you are really betting on</em> if you buy at that price."
+        },
+        {
+          "t": "para",
+          "html": "This is discipline disguised as arithmetic. It forces a vague feeling ('the market looks frothy' or 'this looks cheap') into a named, testable claim."
+        }
+      ]
+    },
+    {
+      "id": "weakness",
+      "h2": "5 · The one real weakness — your other assumptions still matter",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "The reverse DCF only works if the other parts of your model are reasonable. If you change the assumption about operating margins—say you believe they will be 30% instead of 25%—the implied growth number moves. If you change the risk assumption (the cost of capital), the implied growth moves again. The reverse calculation is only as honest as every other number you fed in."
+        },
+        {
+          "t": "para",
+          "html": "This is not a flaw in the method; it is a feature. The reverse DCF reminds you that <em>every</em> valuation assumption talks to every other one. You cannot defend a price by defending one number in isolation. You have to defend the whole story—growth <em>and</em> margins <em>and</em> risk all at once. A reverse DCF sharpens the question; it does not settle the debate alone."
+        }
+      ]
+    },
+    {
+      "id": "surprise",
+      "h2": "6 · The surprise — this is how real investors read prices",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "This technique is not exotic. Some of the most celebrated calls in investing history used exactly this move. When an investor says 'the market is pricing in 40% earnings growth but this company can only do 15%, so it will disappoint,' they are running a reverse DCF in their head—solving backward from the price to find the hidden forecast, then asking whether it is plausible. The same logic sits behind 'expectations investing': the game is spotting when the market's implied story is impossible."
+        },
+        {
+          "t": "para",
+          "html": "Learn the forward DCF (build a story, compute its consequence) and the reverse DCF (take a price, extract the story it assumes), and you have the two sides of the same tool. Together they answer the one question that matters: does the price reflect a believable future? If the answer is no, and the future is actually better, then the price is cheap. If the answer is no, and the future is actually worse, then the price is a trap."
+        }
+      ]
+    }
+  ],
+  "related": [
+    [
+      "cost-of-capital-deep.html",
+      "cost of capital"
+    ],
+    [
+      "margin-of-safety-deep.html",
+      "margin of safety"
+    ],
+    [
+      "terminal-value-deep.html",
+      "terminal value"
+    ]
+  ],
+  "recipe": {
+    "summary": "A reverse discounted-cash-flow: take a market price as given, assume all business parameters (margins, reinvestment, cost of capital) except growth rate, and solve backward for the implied revenue growth the price assumes. Same DCF engine, run in reverse. Northwind example: market price 95 dollars implies 32.4% near-term growth versus our base assumption of 15%.",
+    "eq": "# Forward: value = sum( FCF_year / (1+wacc)^year ) + terminal_value / (1+wacc)^10\n# Reverse: given market_price, solve for implied_growth_rate such that DCF(implied_growth_rate) = market_price\n# Northwind at 95: 32.4% per year for 5 years (base assumption was 15%)",
+    "note": "Full engine: scripts/experiments/valuation_run.py (EXP4). Numbers are the run's output verbatim. Base case $43.23 from EXP1."
+  }
+}

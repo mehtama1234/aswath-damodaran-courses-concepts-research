@@ -1,0 +1,183 @@
+{
+  "id": "relative-valuation-multiples",
+  "name": "Relative Valuation and Multiples",
+  "kick": "valuation · shortcuts · why the same earnings deserve different prices",
+  "title": "Relative valuation — a multiple is a compressed DCF",
+  "lede": "When you hear that a stock trades at 15 times earnings and a peer trades at 25 times, the natural thought is: the first is cheap. But a multiple is not a price tag floating free of the business. It is a full discounted-cash-flow valuation, folded into one ratio. Here is why two companies at the same multiple are not equally cheap, how the same earnings deserve a 20-times multiple under one story and a 33-times multiple under another, the trap that lies in comparing multiples across truly different firms, and the insight that flips the whole thing around.",
+  "arc": [
+    [
+      "problem",
+      "The problem"
+    ],
+    [
+      "reframe",
+      "The reframe"
+    ],
+    [
+      "run",
+      "Seen on a real run"
+    ],
+    [
+      "two",
+      "Two different stories, one number folded two ways"
+    ],
+    [
+      "weakness",
+      "The one real weakness"
+    ],
+    [
+      "surprise",
+      "The surprise"
+    ]
+  ],
+  "sections": [
+    {
+      "id": "problem",
+      "h2": "1 · The problem — is a low multiple a bargain?",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "You hear it all the time: 'This company trades at 15 times earnings. The peer trades at 25 times. So the first one is cheap.' The logic feels airtight. A lower multiple means you pay less for each dollar the company makes today, so fewer dollars out of pocket for the same earnings. If that was all that mattered, the cheaper multiple would always be the better deal."
+        },
+        {
+          "t": "para",
+          "html": "But it's not all that matters. A <em>price-to-earnings multiple</em> — or price-to-sales, price-to-book, any similar ratio — looks like a simple price tag. In reality, it's a whole story compressed into one number. And when you compress a story, you hide the assumptions that make the story true. So two companies at the same multiple can deserve completely different multiples because their futures are different, their risks are different, or the returns on their growth are different."
+        }
+      ]
+    },
+    {
+      "id": "reframe",
+      "h2": "2 · The reframe — a multiple is the DCF unfolded into one line",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Start with the discounted-cash-flow idea: a business is worth the cash it will hand you over time, each future dollar pulled back to today at a rate that reflects risk. That's a big calculation — forecast years of cash flow, discount each one, add them all up, and divide by shares. It's honest but it takes work."
+        },
+        {
+          "t": "para",
+          "html": "Now imagine someone did that work and compressed the answer into a single number: 'given the company's growth story, its margins, its reinvestment needs, and the risk, it deserves to trade at X times current earnings.' That X is the multiple. It is <em>not</em> a separate idea from discounting cash flows; it is the answer that DCF would give, written as a ratio instead of a dollar amount. The multiple is the DCF with all the assumptions baked in, invisible."
+        },
+        {
+          "t": "para",
+          "html": "This means: the same current earnings deserve different multiples if the story changes. A high-growth business earns a high multiple because future years of cash are fat. A risky business earns a low multiple because each future dollar is discounted hard. Change the story — growth, margin, risk, return on invested capital — and the multiple changes. So comparing multiples across different companies is really asking: do these two firms have the same story?"
+        }
+      ]
+    },
+    {
+      "id": "run",
+      "h2": "3 · Seen on a real run — the same earnings, two multiples",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "We took our example company, Northwind (10,000M in revenue, with a base growth story of 15% for five years fading to 2.5%, and 25% operating margins), and ran the full DCF. Current earnings: about 2,160M. The DCF value was $43.23 per share. Then we asked: <em>if you only knew current earnings and nothing else, what multiple would the DCF imply?</em> We divided the value by current earnings, and got the answer."
+        },
+        {
+          "t": "para",
+          "html": "Then we told a different story. Same company, same spreadsheet: but now it's a 'category winner' — 22% growth for five years, 30% margins. Same current earnings, but a better future. We ran the DCF again and asked: what multiple does this story earn? The value changed dramatically, and so did the multiple."
+        },
+        {
+          "t": "table",
+          "headers": [
+            "story",
+            "DCF value",
+            "implied multiple on current earnings"
+          ],
+          "rows": [
+            [
+              "base story (15% growth, 25% margin)",
+              "$43.23",
+              "20.0x"
+            ],
+            [
+              "category winner (22% growth, 30% margin)",
+              "$70.12",
+              "32.5x"
+            ]
+          ],
+          "caption": "The same company, the same current earnings, but two different stories. The DCF translates each story into both a dollar value and a multiple."
+        },
+        {
+          "t": "insight",
+          "html": "<strong>The discovered fact: the base story deserves a 20.0x multiple, and the category winner story deserves 32.5x — on the same current earnings.</strong> The multiple is not painted on the stock by the market; it's written by the story you believe about the company. The only reason both don't trade at the same multiple is that the market disagrees about which story is true (or, often, disagrees within itself)."
+        }
+      ]
+    },
+    {
+      "id": "two",
+      "h2": "4 · Two different stories, one number folded two ways",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Here's the hidden arithmetic. Current earnings of 2,160M are the same in both scenarios. But under the base story, the company grows at 15% for five years, then slows to 2.5% forever. Under the winner story, it grows at 22% and maintains 30% margins. Those are <em>different futures</em>."
+        },
+        {
+          "t": "para",
+          "html": "The DCF engine sees those differences:"
+        },
+        {
+          "t": "para",
+          "html": "<strong>Base story.</strong> I see 15% growth and 25% margins. Over ten years and beyond, that cash flow trajectory, discounted at 9% cost of capital and divided across shares, is worth $43.23 today. Divide that by 2,160M in current earnings, and I need 20x earnings to be fair-priced."
+        },
+        {
+          "t": "para",
+          "html": "<strong>Category winner story.</strong> I see 22% growth and 30% margins — richer cash flows for longer. That same discounting gives $70.12 per share. Divide that by the same current earnings, and now I need 32.5x earnings. It's not that the future cash is more valuable in the abstract; it's that <em>faster growth at higher margins creates more cash for the same starting point</em>. A higher growth rate and a higher margin both mean more future cash, which means higher discounted value, which means the 'fair' multiple is higher."
+        },
+        {
+          "t": "para",
+          "html": "The number that set the multiple is not a market trend or a peer average. It's the logical consequence of forecasted growth, profitability, reinvestment, and risk — exactly what the full DCF spells out. The multiple is what the DCF <em>is</em>, just written as a ratio."
+        }
+      ]
+    },
+    {
+      "id": "weakness",
+      "h2": "5 · The one real weakness — multiples hide what they assume",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Multiples are fast, and they are anchored to real market prices, which makes them feel grounded. You can look up 'software companies trade at an average of 18x earnings' in five seconds. But that speed has a cost: the assumptions are buried."
+        },
+        {
+          "t": "para",
+          "html": "When someone says 'this company trades at 15x earnings, the peer averages 18x, so it's cheap,' they are really saying: 'all software companies have the same growth story, margins, risk, and return on capital, so a lower multiple must mean a lower price.' That's almost never true. A 15x multiple might be 'cheap' because the company is genuinely mispriced, <em>or</em> it might be exactly right because that company is slower-growing, riskier, or reinvesting less efficiently than the peer. The multiple could be signaling a real value trap: a low price on a low-quality business."
+        },
+        {
+          "t": "para",
+          "html": "Moreover, if the 'peer average' of 18x is itself wrong — if the whole software sector is overpriced — then you are not anchored to reality; you are anchored to a collective mispricing. You inherit the error. A multiple is fast, but it is only as good as the 'comparable' firms it is anchored to. If they are wrong, so are you."
+        }
+      ]
+    },
+    {
+      "id": "surprise",
+      "h2": "6 · The surprise — multiples and DCF are the same thing",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "The real insight is almost embarrassingly simple: <em>a multiple is not a separate method from a DCF. A multiple IS what a DCF gives you when you divide the value by current earnings.</em> That's not poetic or metaphorical. Literally: the multiple is the answer."
+        },
+        {
+          "t": "para",
+          "html": "This means you can work backwards. Given a multiple you see in the market, run the DCF in reverse: what growth story, what margins, what risk would the DCF have to assume to justify that multiple? If the market is saying '25x earnings,' you can ask: 'Is that company really expected to grow 28% for the next eight years? Do I believe that?' If not, the multiple is wrong, and the stock is mispriced."
+        },
+        {
+          "t": "para",
+          "html": "It also means that when you know what drives a DCF — growth, margins, reinvestment needs, cost of capital, terminal value — you know what drives a multiple. They are not two different techniques. They are the same technique wearing different clothes. Learn to think in the full DCF, and a multiple becomes transparent. You see the story it's concealing, and you can judge whether that story is crazy, reasonable, or obviously true."
+        }
+      ]
+    }
+  ],
+  "related": [
+    [
+      "terminal-value-deep.html",
+      "terminal value"
+    ],
+    [
+      "reverse-dcf-deep.html",
+      "reverse DCF"
+    ]
+  ],
+  "recipe": {
+    "summary": "A discounted-cash-flow engine on the example company Northwind under two stories: (1) base story with 15% growth for 5 years then 2.5%, 25% operating margins; (2) category winner with 22% growth, 30% margins. For each story: forecast free cash flow for 10 years, discount at 9% cost of capital, add terminal value. Divide by current earnings (2,160M) to get the implied price-to-earnings multiple. numpy only.",
+    "eq": "value = sum( FCF_year / (1+wacc)^year )  +  terminal_value / (1+wacc)^10\nimplied_multiple = value_per_share / current_earnings_per_share\n# Northwind base: $43.23 / 2.16 = 20.0x\n# Northwind winner: $70.12 / 2.16 = 32.5x",
+    "note": "Full engine: scripts/experiments/valuation_run.py (EXP8). Numbers are the run's output verbatim. Same company, same spreadsheet, two different narrative inputs to the DCF produce two different multiples on the same current earnings."
+  }
+}

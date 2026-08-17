@@ -1,0 +1,114 @@
+{
+  "id": "narrative-and-numbers",
+  "name": "Narrative and Numbers",
+  "kick": "valuation · storytelling · the narrative drives the numbers",
+  "title": "Narrative and numbers — a valuation is a story made quantitative",
+  "lede": "A discounted-cash-flow valuation does not reveal an objective truth hiding in the future. Instead, it makes visible the story you believe about a company — what you expect to happen to its growth, its margins, its risk. The same spreadsheet, fed three different narratives, generates three wildly different prices. Here is how that works and why it is a feature, not a bug.",
+  "arc": [["problem","The problem"],["reframe","The reframe"],["run","Seen on a real run"],["discipline","Why it is a feature"],["weakness","The one real weakness"],["surprise","The surprise"]],
+  "sections": [
+    {
+      "id": "problem",
+      "h2": "1 · The problem — the DCF feels like it should be truth",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "There are two ways to dismiss a valuation. The first is to treat the number as <em>objective</em> — as if the machinery of the spreadsheet reaches back into time and plucks out the real value hiding there. The second is to dismiss it entirely as <em>garbage in, garbage out</em> — since you have to guess at growth and margins anyway, why not just pick a price you like? Both miss what a valuation actually is."
+        },
+        {
+          "t": "para",
+          "html": "The honest truth is in the middle: a valuation is a <strong>story told in numbers</strong>. The spreadsheet does not create value. The story you believe — your bet on where the business is headed — creates the value. The spreadsheet just makes that story explicit, checkable, and traceable. Different stories, same company, different prices."
+        }
+      ]
+    },
+    {
+      "id": "reframe",
+      "h2": "2 · The reframe — the numbers are your narrative, made visible",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Every input to a valuation is a <em>claim about the future</em>. When you say the business will grow at 22% per year, you are not stating a fact; you are betting that the market will reward the company, that its products will catch on, that competitors will not commoditize the space. When you say margins will stay at 30%, you are betting that scale drives efficiency, or that the brand holds its pricing power. When you set the discount rate (the cost of capital) at 9%, you are staking a view on how risky the bet is."
+        },
+        {
+          "t": "para",
+          "html": "The discipline of a valuation — the thing that makes it more than an opinion — is that each part of your story must show up as a specific number with visible consequences. A vague hope that &lsquo;the product is going to be huge&rsquo; becomes a checkable claim: 22% growth and 30% margins. Miss that translation and you have only optimism. Make it explicit and you have a story you can stand behind or revise."
+        }
+      ]
+    },
+    {
+      "id": "run",
+      "h2": "3 · Seen on a real run — one company, three narratives, three prices",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "We ran a valuation engine on the example company Northwind — $10,000 million in revenue last year, an operating margin of 25%, a discount rate of 9% — and fed it three different stories about what comes next. The engine is honest: given your assumptions, here is what the cash flows are worth. Every number here is its output; the machine is the same in all three cases."
+        },
+        {
+          "t": "table",
+          "headers": ["narrative","5-year growth rate","operating margin","ROIC on growth","intrinsic value per share"],
+          "rows": [
+            ["category winner (market niche you own)","22%","30%","20%","$70.12"],
+            ["base case (steady business, current strength)","15%","25%","20%","$43.23"],
+            ["niche player (modest share, low pricing power)","8%","18%","12%","$18.99"]
+          ],
+          "caption": "Same company, same spreadsheet. The story you tell about the business's future is where the price lives. Change the narrative and the value swings from $19 to $70."
+        },
+        {
+          "t": "insight",
+          "html": "<strong>The discovered fact: the same company is worth $70, $43, or $19 depending on which future you believe.</strong> The spreadsheet did not invent those numbers — you did, the moment you committed to a story about growth and profitability. The engine just computed what that story is worth in today's dollars. That traceability — the ability to point to the precise assumption driving the price — is the entire reason to do it this way."
+        }
+      ]
+    },
+    {
+      "id": "discipline",
+      "h2": "4 · Why this is a feature, not a bug — honesty lives in the traceability",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "The fact that different stories yield different prices is not a weakness of the method. It is the feature. Here is why: in the real world, you cannot know the future. So any attempt to value a company rests on a guess. The choice is between <em>making that guess explicit</em> or <em>hiding it inside vague language</em>."
+        },
+        {
+          "t": "para",
+          "html": "A valuation forces you to make the guess explicit. You cannot say 'this looks cheap' without articulating exactly what you mean: 'I believe growth will average 22% because the market is underserving this segment and the product has a two-year lead.' Every part of that bet shows up in the spreadsheet as a number — growth 22%, margin 30% — and the consequence is visible: the company is worth $70."
+        },
+        {
+          "t": "para",
+          "html": "So when someone else challenges your valuation, you don't have to defend the number. You can defend the story. And if the story breaks — if competitors arrive faster than you expected, or the product stumbles — you change the growth assumption and immediately see a new price. That discipline, that traceable link between story and number, is what separates investing from gambling."
+        }
+      ]
+    },
+    {
+      "id": "weakness",
+      "h2": "5 · The one real weakness — you can reverse-engineer a price you like",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "There is one honest danger in this method, and no math can fix it: the temptation to work backwards. You look at a stock trading at $95. You want to own it. So you spend an afternoon tweaking the growth rate, the margins, the discount rate — just a little — until the DCF spits out $95. Then you declare the stock a bargain at its current price."
+        },
+        {
+          "t": "para",
+          "html": "The spreadsheet does not prevent this. It will happily validate any story, no matter how contrived. The only check is personal honesty: you must commit to a story about the business <em>before</em> you run the numbers to see if you like the answer. Reverse the order, and you are not valuing; you are confabulating. The discipline of the method works only if you use it with discipline."
+        }
+      ]
+    },
+    {
+      "id": "surprise",
+      "h2": "6 · The surprise — this is Damodaran's signature move",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "The idea that valuation is disciplined storytelling, not objective truth-seeking, reappears throughout investing. Price-to-earnings multiples are just compressed DCFs — a multiple of 22 is a shorthand for the growth and risk the full model would spell out. Judging whether a company is 'well-managed' is really asking whether its return on capital exceeds its cost of capital — a question the DCF puts at the center. Even reverse valuation — solving for the growth story a market price is secretly assuming — is the same machine run backwards."
+        },
+        {
+          "t": "para",
+          "html": "But the deepest insight is a split: between <em>value</em> (what the cash is rationally worth, given a believable story) and <em>price</em> (what the crowd will pay, which moves on mood and momentum). These need not agree. A company can be fairly valued at $43 but trading at $70 because the crowd likes the story better than you do. Or vice versa. <strong>Great investing is the art of believing a different story than the market does, and being right about it.</strong> The valuation is not a prediction; it is the tool that makes your story checkable. That is the entire game."
+        }
+      ]
+    }
+  ],
+  "related": [["intrinsic-value-dcf-deep.html","intrinsic value and the DCF"],["terminal-value-deep.html","terminal value"],["cost-of-capital-deep.html","cost of capital"],["growth-and-reinvestment-deep.html","growth and reinvestment"]],
+  "recipe": {
+    "summary": "A discounted-cash-flow engine on the example company Northwind: take three distinct narratives (category winner, base case, niche player) with different assumptions about growth rate, operating margin, and return on invested capital (ROIC); compute the free cash flows they imply for 10 years; discount at the 9% cost of capital; add a terminal value for years beyond; sum and divide by shares. Each narrative yields a different intrinsic value. The engine is honest about the input-to-output link; the story, not the math, sets the number.",
+    "eq": "free_cash_flow_year = EBIT*(1-tax) - reinvestment\nvalue = sum( FCF_year / (1+discount_rate)^year )  +  terminal_value / (1+discount_rate)^10\nterminal_value = FCF_perpetual / (discount_rate - perpetual_growth_rate)\n# Northwind three stories:\n# \"category winner\": 22% growth, 30% margin -> $70.12\n# \"base case\": 15% growth, 25% margin -> $43.23\n# \"niche player\": 8% growth, 18% margin -> $18.99",
+    "note": "Full engine: scripts/experiments/valuation_run.py (EXP6). Numbers are the run's output verbatim. The same method applies to any real company by plugging in its financials and your narrative about its future."
+  }
+}
