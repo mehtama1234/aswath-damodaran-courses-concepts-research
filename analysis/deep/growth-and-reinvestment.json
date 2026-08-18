@@ -28,6 +28,10 @@
     [
       "surprise",
       "The surprise"
+    ],
+    [
+      "practice",
+      "In practice"
     ]
   ],
   "sections": [
@@ -60,6 +64,10 @@
         {
           "t": "para",
           "html": "Put them together: value is created not by growth itself, but by the <em>spread</em> — the return on reinvested money minus the cost of that capital."
+        },
+        {
+          "t": "para",
+          "html": "The hidden quantity is how much profit must be ploughed back to buy growth; a business earning high returns on capital needs to reinvest less for each point of growth."
         }
       ]
     },
@@ -150,6 +158,24 @@
         {
           "t": "para",
           "html": "Learn to see every valuation through the lens of the spread — growth rate times the gap between ROIC and cost of capital — and you begin to spot the companies where growth enriches you and the ones where it merely burnishes the narrative."
+        }
+      ]
+    },
+    {
+      "id": "practice",
+      "h2": "7 · Where it is used in practice — Growth only destroys or creates value based on its return",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Corporate finance teams use this when allocating capital between growth initiatives and shareholder distributions. Value investors screen for companies where growth earns returns far above the cost of capital—the true wealth creators. Private equity firms focus hard on this when evaluating acquisition targets that promise high growth but require heavy reinvestment."
+        },
+        {
+          "t": "para",
+          "html": "The spread between return on invested capital and the cost of capital is what matters mechanically. A company that grows revenue fast but earns weak returns on the capital deployed is destroying value with each new dollar invested. This hidden lever determines whether reinvestment enriches owners or merely burnishes the growth story on the income statement."
+        },
+        {
+          "t": "insight",
+          "html": "The most dangerous stocks are high-growth firms that earn returns below their cost of capital—growth is the problem, not the solution."
         }
       ]
     }

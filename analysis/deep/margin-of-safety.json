@@ -4,38 +4,195 @@
   "kick": "valuation · uncertainty · buying with a cushion",
   "title": "Margin of safety — when everything is a guess, buy with room to be wrong",
   "lede": "A single-point valuation like '$43.23 per share' leans on a thousand small guesses about growth, margins, risk, and the distant future — yet it pretends to a precision it does not have. Here is why that confidence is false, how to make the uncertainty visible, what a real valuation distribution looks like, why you should demand a discount, and why the margin of safety reframes the whole game from 'find the right price' to 'manage your risk by buying cheap enough that you have room to be wrong.'",
-  "arc": [["problem","The problem — false precision"],["reframe","The reframe — vary everything"],["run","Seen on a real run — 20,000 honest scenarios"],["why","Why you demand a discount"],["weakness","The one real weakness — are your ranges too narrow?"],["surprise","The surprise — this flips the game to risk management"]],
-  "sections": [
-    {"id":"problem","h2":"1 · The problem — false precision hides uncertainty","blocks":[
-      {"t":"para","html":"Most valuations end with a number like '$43.23 per share' — quoted to the penny, as if it were measured, not guessed. But that number rests on assumptions. What will revenue grow at? 15%? 12%? 18%? What will operating margins be in five years — 25%? 30%? Will the business stay as risky as it seems today, or less risky as it scales? What will the firm's return on invested capital be — 15%? 20%? No one knows. Every one of those is an educated guess wearing a number."},
-      {"t":"para","html":"Yet the valuation engine takes your guesses, runs them through a calculation, and spits out a value quoted to two decimal places. The precision is fake. It is like measuring a building's height with a ruler and reporting '47.38 meters' when you know the ruler can only be trusted to the nearest meter — the false certainty will mislead you into acting as if you knew something you do not."}
-    ]},
-    {"id":"reframe","h2":"2 · The reframe — stop guessing one future, guess a range","blocks":[
-      {"t":"para","html":"Here is the honest move: <em>do not guess a single growth rate, guess a range</em>. Do not guess one margin, guess a plausible band. Do not pick one perpetual growth assumption and one cost of capital — let them vary within reason. Then instead of running the valuation <em>once</em>, run it thousands of times, picking random values from each range on each run, and look at what you get."},
-      {"t":"para","html":"You will see a <em>distribution</em> of values: some runs will be rosy, others grim, most somewhere in between. The middle of that spread is your honest 'best guess' (the median). The bottom and top — the 10th and 90th percentile bounds — tell you the range of reasonable outcomes. That spread is your true view of the business; a single number is a lie you tell yourself."}
-    ]},
-    {"id":"run","h2":"3 · Seen on a real run — 20,000 honest scenarios","blocks":[
-      {"t":"para","html":"We took the Northwind example company and let its key assumptions wander within plausible ranges: revenue growth from 10% to 20% (instead of fixed at 15%); operating margins from 20% to 30% (instead of fixed at 25%); cost of capital from 7% to 11% (instead of fixed at 9%); return on invested capital from 12% to 28% (instead of fixed at 20%). Then we ran the DCF valuation 20,000 times, each time picking a random number from each range, and collected all the resulting values. Here is what the distribution looked like."},
-      {"t":"bars","caption":"20,000 Monte Carlo runs of the DCF over plausible input ranges: how often each value showed up.","rows":[["10th percentile (1 in 10 runs gave a value this low or lower)","0.28","$27.58"],["median (half the runs above, half below)","0.52","$41.91"],["90th percentile (9 in 10 runs gave a value this low or lower)","0.77","$64.66"]]},
-      {"t":"insight","html":"<strong>The discovered fact: when you let all the uncertain inputs vary together across believable ranges, the valuation is not a point but a distribution: 10th percentile $27.58, median $41.91, 90th percentile $64.66.</strong> That spread — from $27 to $65 — is your honest view of what the business is worth. The median, $41.91, is your best guess given the uncertainty."}
-    ]},
-    {"id":"why","h2":"4 · Why you demand a discount — room to be wrong","blocks":[
-      {"t":"para","html":"Now suppose Northwind is trading at $95 per share. You know from the 20,000-run distribution that you value the business somewhere between $27 and $65, with a best guess around $42. At $95, you are paying more than even your most optimistic reasonable scenario justifies — only 1% of the 20,000 runs produced a value above $95."},
-      {"t":"para","html":"So you demand a <em>discount</em> to the median value: you will not buy unless the price is so cheap that even if your assumptions turn out unlucky, you still make money. If the median is $42 and you can buy at $30, you have room to be wrong — margins can shrink, growth can slow, the business can be riskier than you thought — and you still break even or better. That cushion is the margin of safety."},
-      {"t":"para","html":"The bigger the uncertainty (the wider the spread from 10th to 90th percentile), the bigger your discount should be. If the range had been $20 to $100, you would demand an even cheaper price because you know you have less idea what the business is worth. The margin of safety scales with uncertainty."}
-    ]},
-    {"id":"weakness","h2":"5 · The one real weakness — the ranges can lie","blocks":[
-      {"t":"para","html":"The distribution is only as honest as the input ranges you chose. If you guessed that margins will stay between 20% and 30%, but the business faces a structural shift that will crush margins to 10%, then your entire range was too narrow — you faked confidence you did not have, and the distribution you built is a false comfort."},
-      {"t":"para","html":"Even worse: the uncertainties are not independent. A recession does not change just the growth rate — it crushes growth <em>and</em> margins <em>and</em> the cost of capital all at once, in a correlated tailspin. Your 20,000 runs treated them as independent draws, so they may miss the 'disaster scenario' where everything goes wrong at the same time, which is exactly when you need the margin of safety most."},
-      {"t":"para","html":"The tool is only as good as your judgment about which futures are plausible and which are not. It makes your thinking visible, but it does not erase uncertainty."}
-    ]},
-    {"id":"surprise","h2":"6 · The surprise — this reframes the entire game","blocks":[
-      {"t":"para","html":"Most people think of valuation as a prediction contest: 'Guess the right value and you will know whether to buy.' The margin of safety flips that completely. You do not need to predict the right value. You need to buy with enough of a discount that <em>even if your value estimate turns out quite wrong, you still make money</em>. The job is not forecasting accuracy; the job is risk management."},
-      {"t":"para","html":"This habit — thinking in terms of distributions, ranges, and cushions rather than point guesses — surfaces everywhere in investing and decision-making. Portfolio construction: not 'pick the best stocks' but 'hold enough diversification that a wrong bet does not wreck you.' Loan underwriting: not 'predict exactly when this borrower will default' but 'require enough collateral that even default leaves you whole.' Operating decisions: not 'forecast exactly how the market will move' but 'build enough flexibility that the company survives a bad scenario.' The margin of safety is the one idea that unites all of them: buy, lend, or commit only when you have enough room to be wrong."},
-      {"t":"para","html":"That is why this one concept — that uncertainty demands a discount — is not a valuation fine point. It is the foundation of the entire discipline of value investing."}
-    ]}
+  "arc": [
+    [
+      "problem",
+      "The problem — false precision"
+    ],
+    [
+      "reframe",
+      "The reframe — vary everything"
+    ],
+    [
+      "run",
+      "Seen on a real run — 20,000 honest scenarios"
+    ],
+    [
+      "why",
+      "Why you demand a discount"
+    ],
+    [
+      "weakness",
+      "The one real weakness — are your ranges too narrow?"
+    ],
+    [
+      "surprise",
+      "The surprise — this flips the game to risk management"
+    ],
+    [
+      "practice",
+      "In practice"
+    ]
   ],
-  "related": [["intrinsic-value-dcf-deep.html","intrinsic value and the DCF"],["cost-of-capital-deep.html","cost of capital"],["reverse-dcf-deep.html","reverse DCF"],["terminal-value-deep.html","terminal value"]],
+  "sections": [
+    {
+      "id": "problem",
+      "h2": "1 · The problem — false precision hides uncertainty",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Most valuations end with a number like '$43.23 per share' — quoted to the penny, as if it were measured, not guessed. But that number rests on assumptions. What will revenue grow at? 15%? 12%? 18%? What will operating margins be in five years — 25%? 30%? Will the business stay as risky as it seems today, or less risky as it scales? What will the firm's return on invested capital be — 15%? 20%? No one knows. Every one of those is an educated guess wearing a number."
+        },
+        {
+          "t": "para",
+          "html": "Yet the valuation engine takes your guesses, runs them through a calculation, and spits out a value quoted to two decimal places. The precision is fake. It is like measuring a building's height with a ruler and reporting '47.38 meters' when you know the ruler can only be trusted to the nearest meter — the false certainty will mislead you into acting as if you knew something you do not."
+        }
+      ]
+    },
+    {
+      "id": "reframe",
+      "h2": "2 · The reframe — stop guessing one future, guess a range",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "The honest move: <em>do not guess a single growth rate, guess a range</em>. Do not guess one margin, guess a plausible band. Do not pick one perpetual growth assumption and one cost of capital — let them vary within reason. Then instead of running the valuation <em>once</em>, run it thousands of times, picking random values from each range on each run, and look at what you get."
+        },
+        {
+          "t": "para",
+          "html": "You will see a <em>distribution</em> of values: some runs will be rosy, others grim, most somewhere in between. The middle of that spread is your honest 'best guess' (the median). The bottom and top — the 10th and 90th percentile bounds — tell you the range of reasonable outcomes. That spread is your true view of the business; a single number is a lie you tell yourself."
+        },
+        {
+          "t": "para",
+          "html": "The hidden quantity is the margin of safety &mdash; how far below your careful estimate of value the price sits, the cushion that protects you when your estimate turns out wrong."
+        }
+      ]
+    },
+    {
+      "id": "run",
+      "h2": "3 · Seen on a real run — 20,000 honest scenarios",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "We took the Northwind example company and let its key assumptions wander within plausible ranges: revenue growth from 10% to 20% (instead of fixed at 15%); operating margins from 20% to 30% (instead of fixed at 25%); cost of capital from 7% to 11% (instead of fixed at 9%); return on invested capital from 12% to 28% (instead of fixed at 20%). Then we ran the DCF valuation 20,000 times, each time picking a random number from each range, and collected all the resulting values. Here is what the distribution looked like."
+        },
+        {
+          "t": "bars",
+          "caption": "20,000 Monte Carlo runs of the DCF over plausible input ranges: how often each value showed up.",
+          "rows": [
+            [
+              "10th percentile (1 in 10 runs gave a value this low or lower)",
+              "0.28",
+              "$27.58"
+            ],
+            [
+              "median (half the runs above, half below)",
+              "0.52",
+              "$41.91"
+            ],
+            [
+              "90th percentile (9 in 10 runs gave a value this low or lower)",
+              "0.77",
+              "$64.66"
+            ]
+          ]
+        },
+        {
+          "t": "insight",
+          "html": "<strong>The discovered fact: when you let all the uncertain inputs vary together across believable ranges, the valuation is not a point but a distribution: 10th percentile $27.58, median $41.91, 90th percentile $64.66.</strong> That spread — from $27 to $65 — is your honest view of what the business is worth. The median, $41.91, is your best guess given the uncertainty."
+        }
+      ]
+    },
+    {
+      "id": "why",
+      "h2": "4 · Why you demand a discount — room to be wrong",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Now suppose Northwind is trading at $95 per share. You know from the 20,000-run distribution that you value the business somewhere between $27 and $65, with a best guess around $42. At $95, you are paying more than even your most optimistic reasonable scenario justifies — only 1% of the 20,000 runs produced a value above $95."
+        },
+        {
+          "t": "para",
+          "html": "So you demand a <em>discount</em> to the median value: you will not buy unless the price is so cheap that even if your assumptions turn out unlucky, you still make money. If the median is $42 and you can buy at $30, you have room to be wrong — margins can shrink, growth can slow, the business can be riskier than you thought — and you still break even or better. That cushion is the margin of safety."
+        },
+        {
+          "t": "para",
+          "html": "The bigger the uncertainty (the wider the spread from 10th to 90th percentile), the bigger your discount should be. If the range had been $20 to $100, you would demand an even cheaper price because you know you have less idea what the business is worth. The margin of safety scales with uncertainty."
+        }
+      ]
+    },
+    {
+      "id": "weakness",
+      "h2": "5 · The one real weakness — the ranges can lie",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "The distribution is only as honest as the input ranges you chose. If you guessed that margins will stay between 20% and 30%, but the business faces a structural shift that will crush margins to 10%, then your entire range was too narrow — you faked confidence you did not have, and the distribution you built is a false comfort."
+        },
+        {
+          "t": "para",
+          "html": "Even worse: the uncertainties are not independent. A recession does not change just the growth rate — it crushes growth <em>and</em> margins <em>and</em> the cost of capital all at once, in a correlated tailspin. Your 20,000 runs treated them as independent draws, so they may miss the 'disaster scenario' where everything goes wrong at the same time, which is exactly when you need the margin of safety most."
+        },
+        {
+          "t": "para",
+          "html": "The tool is only as good as your judgment about which futures are plausible and which are not. It makes your thinking visible, but it does not erase uncertainty."
+        }
+      ]
+    },
+    {
+      "id": "surprise",
+      "h2": "6 · The surprise — this reframes the entire game",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Most people think of valuation as a prediction contest: 'Guess the right value and you will know whether to buy.' The margin of safety flips that completely. You do not need to predict the right value. You need to buy with enough of a discount that <em>even if your value estimate turns out quite wrong, you still make money</em>. The job is not forecasting accuracy; the job is risk management."
+        },
+        {
+          "t": "para",
+          "html": "This habit — thinking in terms of distributions, ranges, and cushions rather than point guesses — surfaces everywhere in investing and decision-making. Portfolio construction: not 'pick the best stocks' but 'hold enough diversification that a wrong bet does not wreck you.' Loan underwriting: not 'predict exactly when this borrower will default' but 'require enough collateral that even default leaves you whole.' Operating decisions: not 'forecast exactly how the market will move' but 'build enough flexibility that the company survives a bad scenario.' The margin of safety is the one idea that unites all of them: buy, lend, or commit only when you have enough room to be wrong."
+        },
+        {
+          "t": "para",
+          "html": "That is why this one concept — that uncertainty demands a discount — is not a valuation fine point. It is the foundation of the entire discipline of value investing."
+        }
+      ]
+    },
+    {
+      "id": "practice",
+      "h2": "7 · Where it is used in practice — Uncertainty demands a discount to every valuation",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Value investors use margin of safety to size their position and decide when to buy. Investment committees use it to set thresholds—a company must trade a good distance below intrinsic value before the committee approves a purchase. Credit analysts use it when underwriting loans, demanding enough collateral that even if the borrower stumbles, the lender still gets paid back."
+        },
+        {
+          "t": "para",
+          "html": "The mechanical role is simple: build a distribution of possible values by letting key assumptions (growth, margins, risk) wander within reasonable ranges, run thousands of scenarios, then demand a price discount proportional to the width of that distribution. The wider the uncertainty, the bigger your required haircut to intrinsic value."
+        },
+        {
+          "t": "insight",
+          "html": "Great investing is not forecasting accuracy—it is buying so cheaply that you have room to be wildly wrong and still profit."
+        }
+      ]
+    }
+  ],
+  "related": [
+    [
+      "intrinsic-value-dcf-deep.html",
+      "intrinsic value and the DCF"
+    ],
+    [
+      "cost-of-capital-deep.html",
+      "cost of capital"
+    ],
+    [
+      "reverse-dcf-deep.html",
+      "reverse DCF"
+    ],
+    [
+      "terminal-value-deep.html",
+      "terminal value"
+    ]
+  ],
   "recipe": {
     "summary": "A Monte Carlo valuation on Northwind: range revenue growth 10–20% per year (vs. base 15%), operating margins 20–30% (vs. base 25%), cost of capital 7–11% (vs. base 9%), and ROIC 12–28% (vs. base 20%). Run the DCF 20,000 times, picking random values from each range on each run, and collect the resulting value per share. numpy + scipy for percentiles.",
     "eq": "for i in range(20000):\n  growth ~ uniform(0.10, 0.20)\n  margin ~ uniform(0.20, 0.30)\n  wacc ~ uniform(0.07, 0.11)\n  roic ~ uniform(0.12, 0.28)\n  value_i = dcf(growth, margin, wacc, roic)\npercentile_10 = np.percentile(values, 10)  # $27.58\nmedian = np.percentile(values, 50)         # $41.91\npercentile_90 = np.percentile(values, 90)  # $64.66",

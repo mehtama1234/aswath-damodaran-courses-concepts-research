@@ -4,33 +4,180 @@
   "kick": "valuation · first principles · what a business is actually worth",
   "title": "Intrinsic value — a business is worth the cash it will hand you",
   "lede": "Strip away the ticker and the headlines and a company is worth one thing: the cash it will put in its owners' pockets over its life, counted in today's money. Here is that idea, a real valuation we computed end to end, why most of the answer hides in the far future, the one number that quietly controls everything, and where the same machine reappears.",
-  "arc": [["problem","The problem"],["reframe","The reframe"],["run","Seen on a real run"],["why","Why it hangs together"],["weakness","The one weakness"],["surprise","The surprise"]],
-  "sections": [
-    {"id":"problem","h2":"1 · The problem — what is a business actually worth?","blocks":[
-      {"t":"para","html":"A share price tells you what someone will pay today, which moves on mood, momentum, and rumor. It does not tell you what the business is <em>worth</em>. Ask that question and most answers dodge it: &lsquo;it trades at 20 times earnings,&rsquo; &lsquo;the sector is hot,&rsquo; &lsquo;analysts have a buy.&rsquo; None of those say what you are actually getting for your money."},
-      {"t":"para","html":"There is only one honest anchor. If you owned the whole company forever, the only thing you would ever receive is the <strong>cash it generates</strong> — year after year. So the real question is: <strong>how much is that stream of future cash worth to me today?</strong>"}
-    ]},
-    {"id":"reframe","h2":"2 · The reframe — add up the future cash, pulled back to today","blocks":[
-      {"t":"para","html":"Two plain facts turn that into a calculation. First, a business throws off cash each year — what's left after taxes and after the money it must plow back in to keep growing. Second, a dollar arriving ten years from now is worth less than a dollar today, because you could have earned a return in the meantime and because the future is uncertain. So you <em>discount</em> each future year's cash — shrink it by a yearly rate that reflects the risk — and add up all those shrunk amounts. That rate is called the <em>cost of capital</em>; the shrinking is called discounting. The total is the intrinsic value. This is a discounted-cash-flow valuation, a DCF: forecast the cash, discount it, add it up."}
-    ]},
-    {"id":"run","h2":"3 · Seen on a real run — valuing one company, end to end","blocks":[
-      {"t":"para","html":"We built the engine and ran it on a self-consistent example company, &lsquo;Northwind&rsquo;: $10,000M of revenue last year, growing 15% for five years and then fading to 2.5%, with 25% operating margins and a 9% cost of capital. Those inputs are <em>assumptions</em> — a valuation always rests on a story — but the engine computes their consequences honestly. Every number here is its output; the same machine values any real firm by plugging in that firm's figures."},
-      {"t":"table","headers":["piece of the value","present value (today's dollars)"],"rows":[["cash flows over the next 10 years","$9,931M"],["the terminal value (everything after year 10)","$33,296M"],["total enterprise value","$43,227M"],["intrinsic value per share (1,000M shares)","$43.23"]],"caption":"Forecast each year's cash, shrink it to today's dollars, and add it up — including one lump for the whole future beyond year 10."},
-      {"t":"insight","html":"<strong>The discovered fact: the business is worth $43.23 a share — and that number is built, not guessed.</strong> It is the sum of ten years of discounted cash plus a single discounted figure for everything after, divided across the shares. Change a well-reasoned assumption and the number moves in a way you can see and defend; that traceability is the entire point of doing it this way rather than quoting a multiple."}
-    ]},
-    {"id":"why","h2":"4 · Why it hangs together","blocks":[
-      {"t":"para","html":"Notice what the calculation refuses to let you fudge. To claim more value you must claim faster growth, fatter margins, or lower risk — and each of those has consequences the engine tracks (faster growth costs more reinvestment; lower risk is a claim about the business you have to justify). The value isn't an opinion floating free of the business; it is the arithmetic consequence of a specific story about revenue, profitability, reinvestment, and risk."},
-      {"t":"para","html":"That is why a DCF is less a prediction machine than a <em>discipline</em>: it forces a vague feeling (&lsquo;this looks cheap&rsquo;) into explicit, checkable claims about the future."}
-    ]},
-    {"id":"weakness","h2":"5 · The one real weakness — garbage in, garbage out","blocks":[
-      {"t":"para","html":"The engine is only as good as the story you feed it, and it hides a lot of its sensitivity in the far future. In this run, 77% of the value came from the &lsquo;terminal value&rsquo; — the single lump standing in for every year after year 10 — which rests on long-run guesses no one can pin down. Small, reasonable-sounding changes to those distant assumptions move the answer a lot, and false precision (a value quoted to the penny) can lull you into trusting a number that is really a range. A DCF disciplines your thinking; it does not certify your guesses."}
-    ]},
-    {"id":"surprise","h2":"6 · The surprise — this one engine is behind everything","blocks":[
-      {"t":"para","html":"Every other tool in valuation is this same machine wearing a disguise. A price-to-earnings <em>multiple</em> is just a DCF compressed into one ratio. Judging whether growth is &lsquo;good&rsquo; is really asking whether it earns more than the cost of capital inside this calculation. Even a stock's market price can be run <em>backwards</em> through the engine to reveal the growth story it secretly assumes."},
-      {"t":"para","html":"Learn to build this one honestly and the rest of the course — terminal value, cost of capital, reverse valuation, margin of safety, multiples — is just this engine viewed from different angles. And the deepest habit it teaches is the split between <em>value</em> (what the cash is worth) and <em>price</em> (what the crowd will pay), which need not agree."}
-    ]}
+  "arc": [
+    [
+      "problem",
+      "The problem"
+    ],
+    [
+      "reframe",
+      "The reframe"
+    ],
+    [
+      "run",
+      "Seen on a real run"
+    ],
+    [
+      "why",
+      "Why it hangs together"
+    ],
+    [
+      "weakness",
+      "The one weakness"
+    ],
+    [
+      "surprise",
+      "The surprise"
+    ],
+    [
+      "practice",
+      "In practice"
+    ]
   ],
-  "related": [["terminal-value-deep.html","terminal value"],["cost-of-capital-deep.html","cost of capital"],["reverse-dcf-deep.html","reverse DCF"],["margin-of-safety-deep.html","margin of safety"]],
+  "sections": [
+    {
+      "id": "problem",
+      "h2": "1 · The problem — what is a business actually worth?",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "A share price tells you what someone will pay today, which moves on mood, momentum, and rumor. It does not tell you what the business is <em>worth</em>. Ask that question and most answers dodge it: &lsquo;it trades at 20 times earnings,&rsquo; &lsquo;the sector is hot,&rsquo; &lsquo;analysts have a buy.&rsquo; None of those say what you are actually getting for your money."
+        },
+        {
+          "t": "para",
+          "html": "There is only one honest anchor. If you owned the whole company forever, the only thing you would ever receive is the <strong>cash it generates</strong> — year after year. So the real question is: <strong>how much is that stream of future cash worth to me today?</strong>"
+        }
+      ]
+    },
+    {
+      "id": "reframe",
+      "h2": "2 · The reframe — add up the future cash, pulled back to today",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Two plain facts turn that into a calculation. First, a business throws off cash each year — what's left after taxes and after the money it must plow back in to keep growing. Second, a dollar arriving ten years from now is worth less than a dollar today, because you could have earned a return in the meantime and because the future is uncertain. So you <em>discount</em> each future year's cash — shrink it by a yearly rate that reflects the risk — and add up all those shrunk amounts. That rate is called the <em>cost of capital</em>; the shrinking is called discounting. The total is the intrinsic value. This is a discounted-cash-flow valuation, a DCF: forecast the cash, discount it, add it up."
+        },
+        {
+          "t": "para",
+          "html": "The hidden quantity is intrinsic value &mdash; the sum of all future cash flows pulled back to today at the return investors require; price is what you pay, this is what you get."
+        }
+      ]
+    },
+    {
+      "id": "run",
+      "h2": "3 · Seen on a real run — valuing one company, end to end",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "We built the engine and ran it on a self-consistent example company, &lsquo;Northwind&rsquo;: $10,000M of revenue last year, growing 15% for five years and then fading to 2.5%, with 25% operating margins and a 9% cost of capital. Those inputs are <em>assumptions</em> — a valuation always rests on a story — but the engine computes their consequences honestly. Every number here is its output; the same machine values any real firm by plugging in that firm's figures."
+        },
+        {
+          "t": "table",
+          "headers": [
+            "piece of the value",
+            "present value (today's dollars)"
+          ],
+          "rows": [
+            [
+              "cash flows over the next 10 years",
+              "$9,931M"
+            ],
+            [
+              "the terminal value (everything after year 10)",
+              "$33,296M"
+            ],
+            [
+              "total enterprise value",
+              "$43,227M"
+            ],
+            [
+              "intrinsic value per share (1,000M shares)",
+              "$43.23"
+            ]
+          ],
+          "caption": "Forecast each year's cash, shrink it to today's dollars, and add it up — including one lump for the whole future beyond year 10."
+        },
+        {
+          "t": "insight",
+          "html": "<strong>The discovered fact: the business is worth $43.23 a share — and that number is built, not guessed.</strong> It is the sum of ten years of discounted cash plus a single discounted figure for everything after, divided across the shares. Change a well-reasoned assumption and the number moves in a way you can see and defend; that traceability is the entire point of doing it this way rather than quoting a multiple."
+        }
+      ]
+    },
+    {
+      "id": "why",
+      "h2": "4 · Why it hangs together",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Notice what the calculation refuses to let you fudge. To claim more value you must claim faster growth, fatter margins, or lower risk — and each of those has consequences the engine tracks (faster growth costs more reinvestment; lower risk is a claim about the business you have to justify). The value isn't an opinion floating free of the business; it is the arithmetic consequence of a specific story about revenue, profitability, reinvestment, and risk."
+        },
+        {
+          "t": "para",
+          "html": "That is why a DCF is less a prediction machine than a <em>discipline</em>: it forces a vague feeling (&lsquo;this looks cheap&rsquo;) into explicit, checkable claims about the future."
+        }
+      ]
+    },
+    {
+      "id": "weakness",
+      "h2": "5 · The one real weakness — garbage in, garbage out",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "The engine is only as good as the story you feed it, and it hides a lot of its sensitivity in the far future. In this run, 77% of the value came from the &lsquo;terminal value&rsquo; — the single lump standing in for every year after year 10 — which rests on long-run guesses no one can pin down. Small, reasonable-sounding changes to those distant assumptions move the answer a lot, and false precision (a value quoted to the penny) can lull you into trusting a number that is really a range. A DCF disciplines your thinking; it does not certify your guesses."
+        }
+      ]
+    },
+    {
+      "id": "surprise",
+      "h2": "6 · The surprise — this one engine is behind everything",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Every other tool in valuation is this same machine wearing a disguise. A price-to-earnings <em>multiple</em> is just a DCF compressed into one ratio. Judging whether growth is &lsquo;good&rsquo; is really asking whether it earns more than the cost of capital inside this calculation. Even a stock's market price can be run <em>backwards</em> through the engine to reveal the growth story it secretly assumes."
+        },
+        {
+          "t": "para",
+          "html": "Learn to build this one honestly and the rest of the course — terminal value, cost of capital, reverse valuation, margin of safety, multiples — is just this engine viewed from different angles. And the deepest habit it teaches is the split between <em>value</em> (what the cash is worth) and <em>price</em> (what the crowd will pay), which need not agree."
+        }
+      ]
+    },
+    {
+      "id": "practice",
+      "h2": "7 · Where it is used in practice — A business is worth what it hands you in cash over its life",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Investment analysts build DCF models to value equity positions before pitching them to portfolio managers. Startup founders and venture investors use DCFs to negotiate valuations during funding rounds. Corporate development teams run DCFs to decide whether an acquisition makes economic sense or overpays for the target's cash streams."
+        },
+        {
+          "t": "para",
+          "html": "The DCF disciplines vague intuitions by forcing them into explicit claims: what revenue growth? what margins? what reinvestment is needed? Each claim becomes a lever in the spreadsheet, and moving the lever shows you the consequence. This is why a DCF is less a prediction tool and more a thinking tool—it refuses to let you fudge the logic."
+        },
+        {
+          "t": "insight",
+          "html": "The discipline lies in the traceability: you can defend or revise every assumption, but you cannot hide from the cash flow math."
+        }
+      ]
+    }
+  ],
+  "related": [
+    [
+      "terminal-value-deep.html",
+      "terminal value"
+    ],
+    [
+      "cost-of-capital-deep.html",
+      "cost of capital"
+    ],
+    [
+      "reverse-dcf-deep.html",
+      "reverse DCF"
+    ],
+    [
+      "margin-of-safety-deep.html",
+      "margin of safety"
+    ]
+  ],
   "recipe": {
     "summary": "A discounted-cash-flow engine on the example company Northwind: forecast free cash flow for 10 years from revenue growth, operating margin, tax, and reinvestment; discount at the 9% cost of capital; add a terminal value for the years beyond; sum and divide by shares. Inputs are stated assumptions. numpy only.",
     "eq": "free_cash_flow_year = EBIT*(1-tax) - reinvestment,   reinvestment = growth / ROIC * NOPAT\nvalue = sum( FCF_year / (1+wacc)^year )  +  terminal_value / (1+wacc)^10\nterminal_value = FCF_after10 / (wacc - g_perpetual)\n# Northwind: near-term $9,931M + terminal $33,296M = $43,227M -> $43.23 / share",

@@ -28,6 +28,10 @@
     [
       "surprise",
       "The surprise"
+    ],
+    [
+      "practice",
+      "In practice"
     ]
   ],
   "sections": [
@@ -56,6 +60,10 @@
         {
           "t": "para",
           "html": "This move flips the whole game. You no longer have to defend your number; you just have to judge whether the <em>market's implied number</em> is believable."
+        },
+        {
+          "t": "para",
+          "html": "The hidden quantity is the growth the price is silently assuming &mdash; solve the valuation backward and you learn what you would have to believe to justify today's price."
         }
       ]
     },
@@ -142,6 +150,24 @@
         {
           "t": "para",
           "html": "Learn the forward DCF (build a story, compute its consequence) and the reverse DCF (take a price, extract the story it assumes), and you have the two sides of the same tool. Together they answer the one question that matters: does the price reflect a believable future? If the answer is no, and the future is actually better, then the price is cheap. If the answer is no, and the future is actually worse, then the price is a trap."
+        }
+      ]
+    },
+    {
+      "id": "practice",
+      "h2": "7 · Where it is used in practice — What story is the market price already assuming?",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Portfolio managers use reverse DCF to decide if a stock is cheap or expensive relative to what the market has already priced in. Corporate investors use it to audit acquisition prices—does the market price assume a growth rate that makes sense for this business? Activist investors use it to make the case that the market is undervaluing a company because it is assuming an unrealistically low growth rate."
+        },
+        {
+          "t": "para",
+          "html": "You take the market price as given, hold most assumptions constant, and solve backward through the DCF engine to find the one implied assumption—usually growth rate—that would justify that price. The calculation is mechanical; the insight is then sharp: is that implied growth rate plausible or pie-in-the-sky?"
+        },
+        {
+          "t": "insight",
+          "html": "This technique shifts the argument from defending your guess to defending the market's guess—and the market's guess is at least checkable."
         }
       ]
     }

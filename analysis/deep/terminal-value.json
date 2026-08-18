@@ -4,39 +4,224 @@
   "kick": "valuation · long-term thinking · where 77% of the value hides",
   "title": "Terminal value — the single number that captures forever",
   "lede": "When you value a company, you can forecast cash flows for maybe a decade in detail. Everything after that — decades of cash the company will still generate — collapses into one giant number called the terminal value. That number usually dwarfs the near-term forecast. Here is why that tail dominates, how fragile it is, what a real run reveals, and the one question that separates disciplined investors from dreamers.",
-  "arc": [["problem","The problem"],["reframe","The reframe"],["run","Seen on a real run"],["why","Why the tail dominates"],["weakness","The one real weakness"],["surprise","The surprise"]],
-  "sections": [
-    {"id":"problem","h2":"1 · The problem — you cannot forecast a company's cash forever","blocks":[
-      {"t":"para","html":"A valuation is a sum of future cash discounted to today. But how many years do you actually forecast? Spreadsheets break down around year 10. Your reasoning gets loose. You are guessing about markets you cannot see and technologies that do not exist yet. So a company's year-15 cash, year-40 cash, and everything after become increasingly unreliable — yet the company will be producing cash in those years, and that cash has value today."},
-      {"t":"para","html":"So every valuation hits a cliff: you can model the next decade with some rigor, but everything after that is a black box."}
-    ]},
-    {"id":"reframe","h2":"2 · The reframe — collapse the tail into one steady number","blocks":[
-      {"t":"para","html":"Rather than give up, valuators use a trick: after year 10 (or whenever you stop detailed forecasting), assume the company settles into a steady, perpetual state. It keeps generating cash, but at a <em>perpetual growth rate</em> — a long-run speed that reflects the health of the mature, stable business. Often that number is somewhere between 2% and 4%, no faster than the overall economy grows (if a company grew faster than the economy forever, it would eventually <em>be</em> the economy)."},
-      {"t":"para","html":"Using that one steady rate, you can compute the present value of all cash from year 11 onward as a single lump sum, called the <em>terminal value</em>. It is a mathematical sleight of hand: by assuming stability, you can collapse infinity into a number."}
-    ]},
-    {"id":"run","h2":"3 · Seen on a real run — where most of the answer hides","blocks":[
-      {"t":"para","html":"We ran a discounted-cash-flow engine on a self-consistent example company, Northwind: $10,000M of revenue, growing 15% for five years then fading to 2.5%, with 25% margins, a 9% cost of capital, and a 2.5% perpetual growth rate after year 10. The inputs are assumptions — valuation always rests on a story — but the engine computes their consequences honestly."},
-      {"t":"bars","caption":"The terminal value is usually the largest piece of the total value.","rows":[["Cash flows, years 1–10 (detailed forecast)","0.23","$9,931M"],["Terminal value (everything after year 10)","0.77","$33,296M"]]},
-      {"t":"insight","html":"<strong>The discovered fact: 77% of Northwind's value is the terminal value</strong> — the guess about steady-state cash that begins after year 10. Only 23% comes from the decade you can forecast with some confidence."},
-      {"t":"para","html":"But that terminal tail is also fragile. The perpetual growth rate — just one number — dominates the whole answer. Watch what happens when you adjust it while holding everything else steady:"},
-      {"t":"table","headers":["perpetual growth rate","value per share"],"rows":[["1.5%","$40.14"],["2.0%","$41.58"],["2.5%","$43.23"],["3.0%","$45.14"],["3.5%","$47.39"]],"caption":"The value per share swings nearly $7 — an 18% range — as the perpetual growth rate shifts from 1.5% to 3.5%."},
-      {"t":"insight","html":"<strong>The discovered fact: a 2-point shift in the perpetual growth rate moves the value from $40 to $47, roughly 18%.</strong> That one hard-to-know assumption controls nearly a third of the answer."}
-    ]},
-    {"id":"why","h2":"4 · Why the tail dominates","blocks":[
-      {"t":"para","html":"The math is simple once you see it. A stable, mature business keeps producing cash forever (or until the world ends, whichever comes first). Year 11 cash is discounted back just one year beyond the year-10 cut-off. Year 50 cash is discounted back much further, but there is a lot of it — it compounds. When you add up all those years — even though each one is smaller because of discounting — the total still dwarfs a single decade."},
-      {"t":"para","html":"Think of it this way: the company will spend roughly equal effort producing cash in years 1–10 as in years 11–20, and again equal effort in years 21–30, and so on. So the present value of years 1–10 is roughly similar to the present value of years 11–20 (though smaller, because they are discounted further). The terminal value is a stand-in for all those decades beyond the first ten. Of course it dominates."}
-    ]},
-    {"id":"weakness","h2":"5 · The one real weakness — 77% rests on distant guesses","blocks":[
-      {"t":"para","html":"Here is the core problem: you are justifying 77% of the value — and possibly tens of billions of dollars — on assumptions about a steady-state future nobody can see. The perpetual growth rate is a guess. Will the business face new competition? Will regulations change? Will the market it serves still exist? You can build a story, but the further out you look, the less grounded the story becomes."},
-      {"t":"para","html":"And the math will not protect you. If someone hands you a valuation quoted to the penny — 'the stock is worth $43.227 per share' — remember that 77% of that number rests on a long-run assumption that could easily be wrong by a percentage point or two. That is not precision; that is false confidence masquerading as math."},
-      {"t":"para","html":"This is where valuation mistakes hide. A careless investor plugs in a perpetual growth rate without thinking, and the answer looks precise enough to trade on. A disciplined investor stress-tests the terminal assumptions hardest — running the valuation under conservative growth, aggressive growth, and stress scenarios — and treats the result as a range, not a point."}
-    ]},
-    {"id":"surprise","h2":"6 · The surprise — a 'multiple' is often just a lazy terminal value","blocks":[
-      {"t":"para","html":"When someone tells you a company 'trades at a 20 times earnings multiple' or 'the sector average is 15x,' they are describing a shortcut. A price-to-earnings multiple is often just a DCF with the terminal-value calculation baked in and hidden. The multiple <em>itself</em> is the market's implicit bet about perpetual growth and long-run profitability, compressed into one number."},
-      {"t":"para","html":"Two companies at the same 20x multiple need not be equally valued — if one can grow at 4% and the other only 2%, the first deserves a higher multiple. But that reasoning is buried inside the valuation. Learn to build the terminal value honestly (picking a defensible perpetual growth rate, thinking hard about why, staying realistic), and you can see through the multiple-based shortcut. You can see what the market is implicitly assuming, and you can ask whether that assumption is reasonable."}
-    ]}
+  "arc": [
+    [
+      "problem",
+      "The problem"
+    ],
+    [
+      "reframe",
+      "The reframe"
+    ],
+    [
+      "run",
+      "Seen on a real run"
+    ],
+    [
+      "why",
+      "Why the tail dominates"
+    ],
+    [
+      "weakness",
+      "The one real weakness"
+    ],
+    [
+      "surprise",
+      "The surprise"
+    ],
+    [
+      "practice",
+      "In practice"
+    ]
   ],
-  "related": [["intrinsic-value-dcf-deep.html","intrinsic value and the DCF"],["cost-of-capital-deep.html","cost of capital"],["reverse-dcf-deep.html","reverse DCF"],["margin-of-safety-deep.html","margin of safety"],["relative-valuation-multiples-deep.html","multiples are DCFs in disguise"]],
+  "sections": [
+    {
+      "id": "problem",
+      "h2": "1 · The problem — you cannot forecast a company's cash forever",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "A valuation is a sum of future cash discounted to today. But how many years do you actually forecast? Spreadsheets break down around year 10. Your reasoning gets loose. You are guessing about markets you cannot see and technologies that do not exist yet. So a company's year-15 cash, year-40 cash, and everything after become increasingly unreliable — yet the company will be producing cash in those years, and that cash has value today."
+        },
+        {
+          "t": "para",
+          "html": "So every valuation hits a cliff: you can model the next decade with some rigor, but everything after that is a black box."
+        }
+      ]
+    },
+    {
+      "id": "reframe",
+      "h2": "2 · The reframe — collapse the tail into one steady number",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Rather than give up, valuators use a trick: after year 10 (or whenever you stop detailed forecasting), assume the company settles into a steady, perpetual state. It keeps generating cash, but at a <em>perpetual growth rate</em> — a long-run speed that reflects the health of the mature, stable business. Often that number is somewhere between 2% and 4%, no faster than the overall economy grows (if a company grew faster than the economy forever, it would eventually <em>be</em> the economy)."
+        },
+        {
+          "t": "para",
+          "html": "Using that one steady rate, you can compute the present value of all cash from year 11 onward as a single lump sum, called the <em>terminal value</em>. It is a mathematical sleight of hand: by assuming stability, you can collapse infinity into a number."
+        },
+        {
+          "t": "para",
+          "html": "The hidden quantity is the terminal value &mdash; the worth of all cash flows past the explicit forecast, which usually makes up most of the total and hinges on one long-run growth assumption."
+        }
+      ]
+    },
+    {
+      "id": "run",
+      "h2": "3 · Seen on a real run — where most of the answer hides",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "We ran a discounted-cash-flow engine on a self-consistent example company, Northwind: $10,000M of revenue, growing 15% for five years then fading to 2.5%, with 25% margins, a 9% cost of capital, and a 2.5% perpetual growth rate after year 10. The inputs are assumptions — valuation always rests on a story — but the engine computes their consequences honestly."
+        },
+        {
+          "t": "bars",
+          "caption": "The terminal value is usually the largest piece of the total value.",
+          "rows": [
+            [
+              "Cash flows, years 1–10 (detailed forecast)",
+              "0.23",
+              "$9,931M"
+            ],
+            [
+              "Terminal value (everything after year 10)",
+              "0.77",
+              "$33,296M"
+            ]
+          ]
+        },
+        {
+          "t": "insight",
+          "html": "<strong>The discovered fact: 77% of Northwind's value is the terminal value</strong> — the guess about steady-state cash that begins after year 10. Only 23% comes from the decade you can forecast with some confidence."
+        },
+        {
+          "t": "para",
+          "html": "But that terminal tail is also fragile. The perpetual growth rate — just one number — dominates the whole answer. Watch what happens when you adjust it while holding everything else steady:"
+        },
+        {
+          "t": "table",
+          "headers": [
+            "perpetual growth rate",
+            "value per share"
+          ],
+          "rows": [
+            [
+              "1.5%",
+              "$40.14"
+            ],
+            [
+              "2.0%",
+              "$41.58"
+            ],
+            [
+              "2.5%",
+              "$43.23"
+            ],
+            [
+              "3.0%",
+              "$45.14"
+            ],
+            [
+              "3.5%",
+              "$47.39"
+            ]
+          ],
+          "caption": "The value per share swings nearly $7 — an 18% range — as the perpetual growth rate shifts from 1.5% to 3.5%."
+        },
+        {
+          "t": "insight",
+          "html": "<strong>The discovered fact: a 2-point shift in the perpetual growth rate moves the value from $40 to $47, roughly 18%.</strong> That one hard-to-know assumption controls nearly a third of the answer."
+        }
+      ]
+    },
+    {
+      "id": "why",
+      "h2": "4 · Why the tail dominates",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "The math is simple once you see it. A stable, mature business keeps producing cash forever (or until the world ends, whichever comes first). Year 11 cash is discounted back just one year beyond the year-10 cut-off. Year 50 cash is discounted back much further, but there is a lot of it — it compounds. When you add up all those years — even though each one is smaller because of discounting — the total still dwarfs a single decade."
+        },
+        {
+          "t": "para",
+          "html": "Think of it this way: the company will spend roughly equal effort producing cash in years 1–10 as in years 11–20, and again equal effort in years 21–30, and so on. So the present value of years 1–10 is roughly similar to the present value of years 11–20 (though smaller, because they are discounted further). The terminal value is a stand-in for all those decades beyond the first ten. Of course it dominates."
+        }
+      ]
+    },
+    {
+      "id": "weakness",
+      "h2": "5 · The one real weakness — 77% rests on distant guesses",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "The core problem: you are justifying 77% of the value — and possibly tens of billions of dollars — on assumptions about a steady-state future nobody can see. The perpetual growth rate is a guess. Will the business face new competition? Will regulations change? Will the market it serves still exist? You can build a story, but the further out you look, the less grounded the story becomes."
+        },
+        {
+          "t": "para",
+          "html": "And the math will not protect you. If someone hands you a valuation quoted to the penny — 'the stock is worth $43.227 per share' — remember that 77% of that number rests on a long-run assumption that could easily be wrong by a percentage point or two. That is not precision; that is false confidence masquerading as math."
+        },
+        {
+          "t": "para",
+          "html": "This is where valuation mistakes hide. A careless investor plugs in a perpetual growth rate without thinking, and the answer looks precise enough to trade on. A disciplined investor stress-tests the terminal assumptions hardest — running the valuation under conservative growth, aggressive growth, and stress scenarios — and treats the result as a range, not a point."
+        }
+      ]
+    },
+    {
+      "id": "surprise",
+      "h2": "6 · The surprise — a 'multiple' is often just a lazy terminal value",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "When someone tells you a company 'trades at a 20 times earnings multiple' or 'the sector average is 15x,' they are describing a shortcut. A price-to-earnings multiple is often just a DCF with the terminal-value calculation baked in and hidden. The multiple <em>itself</em> is the market's implicit bet about perpetual growth and long-run profitability, compressed into one number."
+        },
+        {
+          "t": "para",
+          "html": "Two companies at the same 20x multiple need not be equally valued — if one can grow at 4% and the other only 2%, the first deserves a higher multiple. But that reasoning is buried inside the valuation. Learn to build the terminal value honestly (picking a defensible perpetual growth rate, thinking hard about why, staying realistic), and you can see through the multiple-based shortcut. You can see what the market is implicitly assuming, and you can ask whether that assumption is reasonable."
+        }
+      ]
+    },
+    {
+      "id": "practice",
+      "h2": "7 · Where it is used in practice — The tail that wags the dog in every valuation",
+      "blocks": [
+        {
+          "t": "para",
+          "html": "Valuation teams use terminal value assumptions as the single most sensitive input in their models—it is where mistakes hide. Equity investors stress-test terminal assumptions hardest because that is where false confidence lives. Private equity firms examine terminal value closely in underwriting because it often determines whether a deal pencils or does not."
+        },
+        {
+          "t": "para",
+          "html": "The terminal value is the present value of all cash flows after year ten (or wherever your detailed forecast ends), collapsed into one number using a perpetual growth rate assumption. That one number often represents more than half the total value, which means the entire valuation hinges on assumptions about the far future nobody can pin down with confidence."
+        },
+        {
+          "t": "insight",
+          "html": "When a valuation quotes a value to the penny, remember that the large majority of it rests on distant guesses—the precision is theater, not math."
+        }
+      ]
+    }
+  ],
+  "related": [
+    [
+      "intrinsic-value-dcf-deep.html",
+      "intrinsic value and the DCF"
+    ],
+    [
+      "cost-of-capital-deep.html",
+      "cost of capital"
+    ],
+    [
+      "reverse-dcf-deep.html",
+      "reverse DCF"
+    ],
+    [
+      "margin-of-safety-deep.html",
+      "margin of safety"
+    ],
+    [
+      "relative-valuation-multiples-deep.html",
+      "multiples are DCFs in disguise"
+    ]
+  ],
   "recipe": {
     "summary": "Discounted-cash-flow engine on Northwind: forecast free cash flow for 10 years from revenue, margins, tax, and reinvestment; discount at 9% cost of capital; compute terminal value for year 11 onward using perpetual growth rate and discount back to today; sum and divide by shares. Inputs are stated assumptions. Terminal value = (year-11 cash) / (cost of capital - perpetual growth rate), discounted.",
     "eq": "terminal_value = FCF_year11 / (wacc - g_perpetual)\npresent_value_of_terminal = terminal_value / (1+wacc)^10\ntotal_value = sum_of_discounted_10_year_cash + present_value_of_terminal\nvalue_per_share = total_value / shares_outstanding\n# Northwind: FCF years 1-10 = $9,931M (PV), terminal value = $33,296M (PV). Total $43,227M -> $43.23 / share.",
